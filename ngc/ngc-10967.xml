@@ -1,0 +1,970 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=872;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10967?contentType=xml', '20180713063053')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713063053/https://www.guideline.gov/summaries/downloadcontent/ngc-10967?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713063053/https://www.guideline.gov/summaries/downloadcontent/ngc-10967?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10967?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713063053" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610062459/https://www.guideline.gov/summaries/downloadcontent/ngc-10967?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 06:30:53 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610062459/https://www.guideline.gov/summaries/downloadcontent/ngc-10967?contentType=xml" title="06:24:59 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 06:30:53 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930165537/https://www.guideline.gov/summaries/downloadcontent/ngc-10967?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 06:30:53 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713063053*/https://www.guideline.gov/summaries/downloadcontent/ngc-10967?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10967?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Brief resolved unexplained events (formerly apparent life-threatening events) and evaluation of lower-risk infants.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Tieder JS, Bonkowsky JL, Etzel RA, Franklin WH, Gremse DA, Herman B, Katz ES, Krilov LR, Merritt JL 2nd, Norlin C, Percelay J, Sapién RE, Shiffman RN, Smith MB, Subcommittee on Apparent Life Threatening Events. Brief resolved unexplained events (formerly apparent life-threatening events) and evaluation of lower-risk infants. Pediatrics. 2016 May;137(5):e20160590. [128 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27244835&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>All clinical practice guidelines from the American Academy of Pediatrics automatically expire 5 years after publication unless reaffirmed, revised, or retired at or before that time.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Definitions for the quality of the evidence (<strong>A-D</strong>, <strong>X</strong>) and the strength of the recommendation (<strong>Strong</strong>, <strong>Moderate</strong>, <strong>Weak</strong>) are provided at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Brief Resolved Unexplained Event (BRUE) Definition</span></strong></p>
+<p>Clinicians should use the term BRUE to describe an event occurring in an infant &amp;lt;1 year of age when the observer reports a sudden, brief, and now resolved episode of &amp;ge;1 of the following: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Cyanosis or pallor </li>
+    <li>Absent, decreased, or irregular breathing </li>
+    <li>Marked change in tone (hyper or hypotonia) </li>
+    <li>Altered level of responsiveness </li>
+</ul>
+<p>Moreover, clinicians should diagnose a BRUE only when there is no explanation for a qualifying event after conducting an appropriate history and physical examination (see Tables 2 and 3 in the original guideline document).</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Key Action Statements for Lower-Risk BRUE</strong></span></p>
+<p><strong>1. Cardiopulmonary</strong></p>
+<p>1A. Clinicians need not admit infants presenting with a lower-risk BRUE to the hospital solely for cardiorespiratory monitoring (<strong>Grade B, Weak Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade B</strong> </li>
+    <li>Benefits: Reduce unnecessary testing and caregiver/infant anxiety; avoid consequences of false-positive result, health care&amp;ndash; associated infections, and other patient safety risks </li>
+    <li>Risks, harm, cost: May rarely miss a recurrent event or diagnostic opportunity for rare underlying condition </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing, nosocomial infections, and false-positive results, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for an underlying condition </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregiver anxiety and access to quality follow-up care may be important considerations in determining whether a hospitalization for cardiovascular monitoring is indicated </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Weak recommendation</strong> (because of equilibrium between benefits and harms </li>
+</ul>
+<p>1B. Clinicians may briefly monitor infants presenting with a lower-risk BRUE with continuous pulse oximetry and serial observations (<strong>Grade D, Weak Recommendation</strong>)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade D</strong> </li>
+    <li>Benefits: Identification of hypoxemia </li>
+    <li>Risks, harm, cost: Increased costs due to monitoring over time and the use of hospital resources; false-positive results may lead to subsequent testing and hospitalization; false reassurance from negative test results </li>
+    <li>Benefit-harm assessment: The potential benefit of detecting hypoxemia outweighs the harm of cost and false results </li>
+    <li>Intentional vagueness: Duration of time to monitor patients with continuous pulse oximetry and the number and frequency of serial observations may vary </li>
+    <li>Role of patient preferences: Level of caregiver concern may influence the duration of oximetry monitoring </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Weak recommendation</strong> (based on low quality of evidence) </li>
+</ul>
+<p>1C. Clinicians should not obtain a chest radiograph in infants presenting with a lower-risk BRUE (<strong>Grade B, Moderate Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade B</strong> </li>
+    <li>Benefits: Reduce costs, unnecessary testing, radiation exposure, and caregiver/infant anxiety; avoid consequences of false-positive results </li>
+    <li>Risks, harm, cost: May rarely miss diagnostic opportunity for early lower respiratory tract or cardiac disease </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing, radiation exposure, and false-positive results, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for lower respiratory tract or cardiac disease </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregiver may express concern regarding a longstanding breathing pattern in his/her infant or a recent change in breathing that might influence the decision to obtain chest radiography </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Moderate recommendation</strong> </li>
+</ul>
+<p>1D. Clinicians should not obtain measurement of venous or arterial blood gases in infants presenting with a lower-risk BRUE (<strong>Grade B, Moderate Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade B</strong> </li>
+    <li>Benefits: Reduce costs, unnecessary testing, pain, risk of thrombosis, and caregiver/infant anxiety; avoid consequences of false-positive results </li>
+    <li>Risks, harm, cost: May miss rare instances of hypercapnia and acid-base imbalances </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing and false-positive results, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for hypercapnia and acid-base imbalances </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: None </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Moderate recommendation</strong> </li>
+</ul>
+<p>1E. Clinicians should not obtain an overnight polysomnograph in infants presenting with a lower-risk BRUE (<strong>Grade B, Moderate Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade B</strong> </li>
+    <li>Benefits: Reduce costs, unnecessary testing, and caregiver/infant anxiety; avoid consequences of false-positive results </li>
+    <li>Risks, harm, cost: May miss rare instances of hypoxemia, hypercapnia, and/or bradycardia that would be detected by polysomnography </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing and false-positive results, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for hypoxemia, hypercapnia, and/or bradycardia </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregivers may report concern regarding some aspects of their infant's sleep pattern that may influence the decision to perform polysomnography </li>
+    <li>Exclusions: None </li>
+    <li>Strength:<strong> Moderate recommendation</strong> </li>
+</ul>
+<p>1F. Clinicians may obtain a 12-lead electrocardiogram for infants presenting with lower-risk BRUE (<strong>Grade C, Weak Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: May identify BRUE patients with channelopathies (long QT syndrome, short QT syndrome, and Brugada syndrome), ventricular preexcitation (Wolff-Parkinson-White syndrome), cardiomyopathy, or other heart disease </li>
+    <li>Risks, harm, cost: False-positive results may lead to further workup, expert consultation, anxiety, and cost; false reassurance from negative results; cost and availability of electrocardiography testing and interpretation </li>
+    <li>Benefit-harm assessment: The benefit of identifying patients at risk of sudden cardiac death outweighs the risk of cost and false results </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregiver may decide not to have testing performed </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Weak recommendation</strong> (because of equilibrium between benefits and harms) </li>
+</ul>
+<p>1G. Clinicians should not obtain an echocardiogram in infants presenting with lower-risk BRUE (<strong>Grade C, Moderate Recommendation</strong>)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Reduce costs, unnecessary testing, caregiver/infant anxiety, and sedation risk; avoid consequences of false-positive results </li>
+    <li>Risks, harm, cost: May miss rare diagnosis of cardiac disease </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing and sedation risk, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for cardiac causes </li>
+    <li>Intentional vagueness: Abnormal cardiac physical examination reflects the clinical judgment of the clinician </li>
+    <li>Role of patient preferences: Some caregivers may prefer to have echocardiography performed </li>
+    <li>Exclusions: Patients with an abnormal cardiac physical examination </li>
+    <li>Strength:<strong> Moderate recommendation</strong> </li>
+</ul>
+<p>1H. Clinicians should not initiate home cardiorespiratory monitoring in infants presenting with a lower-risk BRUE (<strong>Grade B, Moderate Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade B</strong> </li>
+    <li>Benefits: Reduce costs, unnecessary testing, and caregiver/infant anxiety; avoid consequences of false-positive results </li>
+    <li>Risks, harm, cost: May rarely miss an infant with recurrent central apnea or cardiac arrhythmias </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing and false-positive results, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for recurrent apnea or cardiac arrhythmias </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregivers will frequently request monitoring be instituted after an apparent life-threatening event (ALTE) in their infant; a careful explanation of the limitations and disadvantages of this technology should be given </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Moderate recommendation</strong> </li>
+</ul>
+<p><strong>2. Child Abuse </strong></p>
+<p>2A. Clinicians need not obtain neuroimaging (computed tomography, magnetic resonance imaging [MRI], or ultrasonography) to detect child abuse in infants presenting with a lower-risk BRUE (<strong>Grade C, Weak Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Decrease cost; avoid sedation, radiation exposure, consequences of false-positive results </li>
+    <li>Risks, harm, cost: May miss cases of child abuse and potential subsequent harm </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing, sedation, radiation exposure, and false-positive results, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for child abuse </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregiver concerns may lead to requests for central nervous system (CNS) imaging </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Weak recommendation</strong> (based on low quality of evidence) </li>
+</ul>
+<p>2B. Clinicians should obtain an assessment of social risk factors to detect child abuse in infants presenting with a lower-risk BRUE (<strong>Grade C, Moderate Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Identification of child abuse; may benefit the safety of other children in the home; may identify other social risk factors and needs and help connect caregivers with appropriate resources (e.g., financial distress) </li>
+    <li>Risks, harm, cost: Resource intensive and not always available, particularly for smaller centers; some social workers may have inadequate experience in child abuse assessment; may decrease caregiver's trust in the medical team </li>
+    <li>Benefit-harm assessment: The benefits of identifying child abuse and identifying and addressing social needs outweigh the cost of attempting to locate the appropriate resources or decreasing the trust in the medical team </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregivers may perceive social services involvement as unnecessary and intrusive </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Moderate recommendation</strong> </li>
+</ul>
+<p><strong>3. Neurology</strong></p>
+<p>3A. Clinicians should not obtain neuroimaging (computed tomography, MRI, or ultrasonography) to detect neurologic disorders in infants presenting with a lower-risk BRUE (<strong>Grade C, Moderate Recommendation</strong>)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Reduce unnecessary testing, radiation exposure, sedation, caregiver/infant anxiety, and costs; avoid consequences of false-positive results </li>
+    <li>Risks, harm, cost: May rarely miss diagnostic opportunity for CNS causes of BRUEs; may miss unexpected cases of abusive head trauma </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing, radiation exposure, sedation, and false-positive results, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for CNS cause </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregivers may seek reassurance from neuroimaging and may not understand the risks from radiation and sedation </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Moderate recommendation</strong> </li>
+</ul>
+<p>3B. Clinicians should not obtain an electroencephalogram (EEG) to detect neurologic disorders in infants presenting with a lower-risk BRUE (<strong>Grade C, Moderate Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Reduce unnecessary testing, sedation, caregiver/infant anxiety, and costs; avoid consequences of false-positive or nonspecific results </li>
+    <li>Risks, harm, cost: Could miss early diagnosis of seizure disorder </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing, sedation, and false-positive results, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for epilepsy </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregivers may seek reassurance from an EEG, but they may not appreciate study limitations and the potential of false-positive results </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Moderate recommendation</strong> </li>
+</ul>
+<p>3C. Clinicians should not prescribe antiepileptic medications for potential neurologic disorders in infants presenting with a lower-risk BRUE (<strong>Grade C, Moderate Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Reduce medication adverse effects and risks, avoid treatment with unproven efficacy, and reduce cost </li>
+    <li>Risks, harm, cost: Delay in treatment of epilepsy could lead to subsequent BRUE or seizure </li>
+    <li>Benefit-harm assessment: The benefits of reducing medication adverse effects, avoiding unnecessary treatment, and reducing cost outweigh the risk of delaying treatment of epilepsy </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregivers may feel reassured by starting a medicine but may not understand the medication risks </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Moderate recommendation</strong> </li>
+</ul>
+<p><strong>4. Infectious Diseases</strong></p>
+<p>4A. Clinicians should not obtain a white blood cell count, blood culture, or cerebrospinal fluid analysis or culture to detect an occult bacterial infection in infants presenting with a lower-risk BRUE (<strong>Grade B, Strong Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade B</strong> </li>
+    <li>Benefits: Reduce unnecessary testing, pain, exposure, caregiver/infant anxiety, and costs; avoid unnecessary antibiotic use and hospitalization pending culture results; avoid consequences of false-positive results/contaminants </li>
+    <li>Risks, harm, cost: Could miss serious bacterial infection at presentation </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing, pain, exposure, costs, unnecessary antibiotic use, and false-positive results, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for a bacterial infection </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregiver concerns over possible infectious etiology may lead to requests for antibiotic therapy </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Strong recommendation</strong> </li>
+</ul>
+<p>4B. Clinicians need not obtain a urinalysis (bag or catheter) in infants presenting with a lower-risk BRUE (<strong>Grade C, Weak Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Reduce unnecessary testing, pain, iatrogenic infection, caregiver/infant anxiety, and costs; avoid consequences of false-positive results; avoid delay from time it takes to obtain a bag urine </li>
+    <li>Risks, harm, cost: May delay diagnosis of infection </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing, iatrogenic infection, pain, costs, and false-positive results, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for a urinary tract infection </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregiver concerns may lead to preference for testing </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Weak recommendation</strong> (based on low quality of evidence) </li>
+</ul>
+<p>4C. Clinicians should not obtain a chest radiograph to assess for pulmonary infection in infants presenting with a lower-risk BRUE (<strong>Grade B, Moderate Recommendation</strong>)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade B</strong> </li>
+    <li>Benefits: Reduce costs, unnecessary testing, radiation exposure, and caregiver/infant anxiety; avoid consequences of false-positive results </li>
+    <li>Risks, harm, cost: May miss early lower respiratory tract infection </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing, radiation exposure, and false-positive results, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for pulmonary infection </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregiver concerns may lead to requests for a chest radiograph </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Moderate recommendation</strong> </li>
+</ul>
+<p>4D. Clinicians need not obtain respiratory viral testing if rapid testing is available in infants presenting with a lower-risk BRUE (<strong>Grade C, Weak Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Reduce costs, unnecessary testing, and caregiver/infant discomfort; avoid false-negative result leading to missed diagnosis and false reassurance </li>
+    <li>Risks, harm, cost: Failure to diagnose a viral etiology; not providing expectant management for progression and appropriate infection control interventions for viral etiology </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing, pain, costs, false reassurance, and false-positive results, as well as alleviating caregiver and infant anxiety and challenges associated with providing test results in a timely fashion, outweigh the rare missed diagnostic opportunity for a viral infection </li>
+    <li>Intentional vagueness: &quot;Rapid testing&quot;; time to results may vary </li>
+    <li>Role of patient preferences: Caregiver may feel reassured by a specific viral diagnosis </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Weak recommendation</strong> (based on low-quality evidence) </li>
+</ul>
+<p>4E. Clinicians may obtain testing for pertussis in infants presenting with a lower-risk BRUE (<strong>Grade B, Weak Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade B</strong> </li>
+    <li>Benefits: Identify a potentially treatable infection; monitor for progression of symptoms, additional apneic episodes; potentially prevent secondary spread and/or identify and treat additional cases </li>
+    <li>Risks, harm, cost: Cost of test; discomfort of nasopharyngeal swab; false-negative results leading to missed diagnosis and false reassurance; rapid testing not always available; false reassurance from negative results </li>
+    <li>Benefit-harm assessment: The benefits of identifying and treating pertussis and preventing apnea and secondary spread outweigh the cost, discomfort, and consequences of false test results and false reassurance; the benefits are greatest in at-risk populations (exposed, underimmunized, endemic, and during outbreaks) </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregiver may feel reassured if a diagnosis is obtained and treatment can be implemented </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Weak recommendation</strong> (based on balance of benefit and harm) </li>
+</ul>
+<p><strong>5. Gastroenterology</strong></p>
+<p>5A. Clinicians should not obtain investigations for gastroesophageal reflux (GER) (e.g., upper gastrointestinal series, pH probe, endoscopy, barium contrast study, nuclear scintigraphy, and ultrasonography) in infants presenting with a lower-risk BRUE (<strong>Grade C, Moderate Recommendation</strong>)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Reduce unnecessary testing, procedural complications (sedation, intestinal perforation, bleeding), pain, radiation exposure, caregiver/infant anxiety, and costs; avoid consequences of false-positive results </li>
+    <li>Risks, harm, cost: Delay diagnosis of rare but serious gastrointestinal abnormalities (e.g., tracheoesophageal fistula); long-term morbidity of repeated events (e.g., chronic lung disease) </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing, complications, radiation, pain, costs, and false-positive results, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for a gastrointestinal abnormality or morbidity from repeat events </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregiver may be reassured by diagnostic evaluation of GER </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Moderate recommendation</strong> </li>
+</ul>
+<p>5B. Clinicians should not prescribe acid suppression therapy for infants presenting with a lower-risk BRUE (<strong>Grade C, Moderate Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Reduce unnecessary medication use, adverse effects, and cost from treatment with unproven efficacy </li>
+    <li>Risks, harm, cost: Delay treatment of rare but undiagnosed gastrointestinal disease, which could lead to complications (e.g., esophagitis) </li>
+    <li>Benefit-harm assessment: The benefits of reducing medication adverse effects, avoiding unnecessary treatment, and reducing cost outweigh the risk of delaying treatment of gastrointestinal disease </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregiver concerns may lead to requests for treatment </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Moderate recommendation</strong> </li>
+</ul>
+<p><strong>6. Inborn Errors of Metabolism (IEM)</strong></p>
+<p>6A. Clinicians need not obtain measurement of serum lactic acid or serum bicarbonate to detect an IEM in infants presenting with a lower-risk BRUE (<strong>Grade C, Weak Recommendation</strong>)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Reduce unnecessary testing, caregiver/infant anxiety, and costs; avoid consequences of false-positive or nonspecific results </li>
+    <li>Risks, harm, cost: May miss detection of an IEM </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing, cost, and false-positive results, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for an IEM </li>
+    <li>Intentional vagueness: Detection of higher lactic acid or lower bicarbonate levels should be considered to have a lower likelihood of being a false positive result and may warrant additional investigation </li>
+    <li>Role of patient preferences: Caregiver concerns may lead to requests for diagnostic testing </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Weak recommendation </strong>(based on low-quality evidence) </li>
+</ul>
+<p>6B. Clinicians should not obtain a measurement of serum sodium, potassium, chloride, blood urea nitrogen, creatinine, calcium, or ammonia to detect an IEM on infants presenting with a lower-risk BRUE (<strong>Grade C, Moderate Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Reduce costs, unnecessary testing, pain, and caregiver/infant anxiety; avoid consequences of false-positive results </li>
+    <li>Risks, harm, cost: May miss detection of an IEM </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing, cost, and false-positive results, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for an IEM </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregiver concerns may lead to requests for diagnostic testing </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Moderate recommendation</strong> </li>
+</ul>
+<p>6C. Clinicians should not obtain a measurement of venous or arterial blood gases to detect an IEM in infants presenting with lower-risk BRUE (<strong>Grade C, Moderate Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Reduce costs, unnecessary testing, pain, risk of thrombosis, and caregiver/infant anxiety; avoid consequences of false-positive results </li>
+    <li>Risks, harm, cost: May miss detection of an IEM </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing, cost, and false-positive<br />
+    results, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for an IEM </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregiver concerns may lead to requests for diagnostic testing </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Moderate recommendation</strong> </li>
+</ul>
+<p>6D. Clinicians need not obtain a measurement of blood glucose to detect an IEM in infants presenting with a lower-risk BRUE (<strong>Grade C, Weak Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Reduce costs, unnecessary testing, pain, risk of thrombosis, and caregiver/infant anxiety; avoid consequences of false-positive results </li>
+    <li>Risks, harm, cost: May miss rare instances of hypoglycemia attributable to undiagnosed IEM </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing, cost, and false positive results, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for an IEM </li>
+    <li>Intentional vagueness: Measurement of glucose is often performed immediately through a simple bedside test; no abnormalities have been reported in asymptomatic infants, although studies often do not distinguish between capillary or venous measurement </li>
+    <li>Role of patient preferences: Caregiver concerns may lead to requests for diagnostic testing </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Weak recommendation</strong> (based on low-quality evidence) </li>
+</ul>
+<p>6E. Clinicians should not obtain measurements of urine organic acids, plasma amino acids, or plasma acylcarnitines to detect an IEM in infants presenting with a lower-risk BRUE (<strong>Grade C, Moderate Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Reduce costs, unnecessary testing, pain, risk of thrombosis, and caregiver/infant anxiety; avoid consequences of false-positive results </li>
+    <li>Risks, harm, cost: May miss detection of an IEM </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing, cost, and false-positive results, as well as alleviating caregiver and infant anxiety, outweigh the rare missed diagnostic opportunity for an IEM </li>
+    <li>Intentional vagueness: Lower-risk BRUEs will have a very low likelihood of disease, but these tests may be indicated in rare cases in which there is no documentation of a newborn screen being performed </li>
+    <li>Role of patient preferences: Caregiver concerns may lead to requests for diagnostic testing </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Moderate recommendation</strong> </li>
+</ul>
+<p><strong>7. Anemia </strong></p>
+<p>7A. Clinicians should not obtain laboratory evaluation for anemia in infants presenting with a lower-risk BRUE (<strong>Grade C, Moderate Recommendation</strong>)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Reduce costs, unnecessary testing, pain, risk of thrombosis, and caregiver/infant anxiety; avoid consequences of false-positive results </li>
+    <li>Risks, harm, cost: May miss diagnosis of anemia </li>
+    <li>Benefit-harm assessment: The benefits of reducing unnecessary testing, cost, and false-positive results, as well as alleviating caregiver and infant anxiety, outweigh the missed diagnostic opportunity for anemia </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregivers may be reassured by testing </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Moderate recommendation</strong> </li>
+</ul>
+<p><strong>8. Patient- and Family-Centered Care </strong></p>
+<p>8A. Clinicians should offer resources for cardiopulmonary resuscitation (CPR) training to caregivers (<strong>Grade C, Moderate Recommendation</strong>)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Decrease caregiver anxiety and increase confidence; benefit to society </li>
+    <li>Risks, harm, cost: May increase caregiver anxiety; cost and availability of training </li>
+    <li>Benefit-harm assessment: The benefits of decreased caregiver anxiety and increased confidence, as well as societal benefits, outweigh the increase in caregiver anxiety, cost, and resources </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregiver may decide not to seek out the training </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Moderate recommendation</strong> </li>
+</ul>
+<p>8B. Clinicians should educate caregivers about BRUEs (<strong>Grade C, Moderate Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Improve caregiver empowerment and health literacy and decrease anxiety; may reduce unnecessary return visits; promotion of the medical home </li>
+    <li>Risks, harm, cost: Increase caregiver anxiety and potential for caregiver intimidation in voicing concerns; increase health care costs and length of stay </li>
+    <li>Benefit-harm assessment: The benefits of decreased caregiver anxiety and increased empowerment and health literacy outweigh the increase in cost, length of stay, and caregiver anxiety and intimidation </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregiver may decide not to listen to clinician </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Moderate recommendation</strong> </li>
+</ul>
+<p>8C. Clinicians should use shared decision-making for infants presenting with a lower-risk BRUE (<strong>Grade C, Moderate Recommendation</strong>) </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Benefits: Improve caregiver empowerment and health literacy and decrease anxiety; may reduce unnecessary return visits; promotion of the medical home </li>
+    <li>Risks, harm, cost: Increase cost, length of stay, and caregiver anxiety and intimidation in voicing concerns </li>
+    <li>Benefit-harm assessment: The benefits of decreased caregiver anxiety and unplanned return visits and increased empowerment, health, literacy, and medical home promotion outweigh the increase in cost, length of stay, and caregiver anxiety and information </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Caregiver may decide not to listen to clinician </li>
+    <li>Exclusions: None </li>
+    <li>Strength: <strong>Moderate recommendation</strong> </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Evidence Quality</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;1&quot; summary=&quot;Table: Evidence Quality&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Aggregate Evidence Quality</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Benefit or Harm Predominates</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Benefit and Harm Balanced</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Level A</strong><br />
+            Intervention: Well-designed and conducted trials, meta-analyses on applicable populations<br />
+            Diagnosis: Independent gold standard studies of applicable populations</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Strong recommendation</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot; rowspan=&quot;3&quot;>Weak Recommendation (based on balance of benefit and harm)</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Level B</strong><br />
+            Trials or diagnostic studies with minor limitations; consistent findings from multiple observational studies</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Strong recommendation/Moderate recommendation</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Level C</strong><br />
+            Single or few observational studies or multiple studies with inconsistent findings or major limitations</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Moderate recommendation/Weak recommendation (based on low quality evidence)</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Level D</strong><br />
+            Expert opinion, case reports, reasoning from first principles</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Weak recommendation (based on low quality evidence)</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>No recommendation may be made</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Level X</strong><br />
+            Exceptional situations where validating studies cannot be performed and there is a clear preponderance of benefit or harm</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Strong recommendation/Moderate recommendation</td>
+            <td>&amp;nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Definitions for Key Action Statements</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;1&quot; summary=&quot;Table: Definitions for Evidence-based Statements&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Statement</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Definition</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Implication</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Strong recommendation</strong></td>
+            <td valign=&quot;top&quot;>A particular action is favored because anticipated benefits clearly exceed harms (or vice versa), and quality of evidence is excellent or unobtainable.</td>
+            <td valign=&quot;top&quot;>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Moderate recommendation</strong></td>
+            <td valign=&quot;top&quot;>A particular action is favored because anticipated benefits clearly exceed harms (or vice versa), and the quality of evidence is good but not excellent (or is unobtainable).</td>
+            <td valign=&quot;top&quot;>Clinicians would be prudent to follow a moderate recommendation but should remain alert to new information and sensitive to patient preferences.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Weak recommendation</strong> (based on low-quality evidence)</td>
+            <td valign=&quot;top&quot;>A particular action is favored because anticipated benefits clearly exceed harms (or vice versa), but the quality of evidence is weak.</td>
+            <td valign=&quot;top&quot;>Clinicians would be prudent to follow a weak recommendation but should remain alert to new information and very sensitive to patient preferences.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Weak recommendation</strong> (based on balance of benefits and harms)</td>
+            <td valign=&quot;top&quot;>Weak recommendation is provided when the aggregate database shows evidence of both benefit and harm that appear similar in magnitude for any available courses of action.</td>
+            <td valign=&quot;top&quot;>Clinicians should consider the options in their decision making, but patient preference may have a substantial role.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An algorithm titled &quot;Diagnosis, risk classification, and recommended management of a BRUE&quot; is provided original guideline document.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Brief resolved unexplained events (BRUE) marked by sudden, brief, and now resolved episode of &amp;ge;1 of the following: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Cyanosis or pallor </li>
+    <li>Absent, decreased, or irregular breathing </li>
+    <li>Marked change in tone (hyper- or hypotonia) </li>
+    <li>Altered level of responsiveness </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Risk Assessment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Emergency Medicine"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Pediatrics"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To recommend the replacement of the term apparent life-threatening event (ALTE) with a new term, brief resolved unexplained event (BRUE) </li>
+    <li>To provide an approach to patient evaluation that is based on the risk that the infant will have a recurring event or has a serious underlying disorder </li>
+    <li>To provide evidence-based management recommendations, or key action statements, for lower-risk patients whose history and physical examination are normal </li>
+    <li>To provide implementation support and suggest directions for future research </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Infants less than 1 year of age presenting with lower-risk brief, resolved unexplained event (BRUE)</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: This guideline does not offer recommendations for higher-risk patients whose history and physical examination suggest the need for further investigation and treatment (because of insufficient evidence or the availability of clinical practice guidelines specific to their presentation).</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Diagnosis of brief resolved unexplained events (BRUEs)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Appropriate history </li>
+        <li>Physical examination </li>
+    </ul>
+    </li>
+    <li>Cardiopulmonary evaluation*
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Admission to the hospital solely for cardiorespiratory monitoring </li>
+        <li>Brief monitoring with continuous pulse oximetry and serial observations </li>
+        <li>Chest radiograph </li>
+        <li>Measurement of venous or arterial blood gas </li>
+        <li>Overnight polysomnograph </li>
+        <li>2-lead electrocardiogram </li>
+        <li>Echocardiogram </li>
+        <li>Home cardiorespiratory monitoring </li>
+    </ul>
+    </li>
+    <li>Child abuse evaluation*
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Neuroimaging (computed tomography [CT], magnetic resonance imaging [MRI], or ultrasonography) </li>
+        <li>Assessment of social risk factors </li>
+    </ul>
+    </li>
+    <li>Neurologic evaluation*
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Neuroimaging (CT, MRI, or ultrasonography) </li>
+        <li>Electroencephalogram (EEG) </li>
+        <li>Antiepileptic medications </li>
+    </ul>
+    </li>
+    <li>Infectious disease evaluation*
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>White blood cell (WBC) count, blood culture, or cerebrospinal fluid analysis or culture to detect an occult bacterial infection </li>
+        <li>Urinalysis (bag or catheter) </li>
+        <li>Chest radiograph to assess for pulmonary infection </li>
+        <li>Respiratory viral testing if rapid testing is available </li>
+        <li>Testing for pertussis </li>
+    </ul>
+    </li>
+    <li>Gastrointestinal evaluation*
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Investigations for gastroesophageal reflux (GER) (e.g., upper gastrointestinal tract series, pH probe, endoscopy, barium contrast study, nuclear scintigraphy, and ultrasonography) </li>
+        <li>Acid suppression therapy </li>
+    </ul>
+    </li>
+    <li>Inborn errors of metabolism (IEM) evaluation*
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Measurement of serum lactic acid or serum bicarbonate </li>
+        <li>Measurement of serum sodium, potassium, chloride, blood urea nitrogen, creatinine, calcium, or ammonia </li>
+        <li>Measurement of venous or arterial blood gases </li>
+        <li>Measurement of blood glucose </li>
+        <li>Measurement of urine organic acids, plasma amino acids, or plasma acylcarnitines </li>
+    </ul>
+    </li>
+    <li>Laboratory evaluation for anemia* </li>
+    <li>Patient- and family-centered care
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Offering resources for cardiopulmonary resuscitation (CPR) training to caregivers </li>
+        <li>Educating caregivers about BRUEs </li>
+        <li>Use of shared decision-making </li>
+    </ul>
+    </li>
+</ol>
+<p class=&quot;Note&quot;>*<strong>Note</strong>: Many of the listed interventions for evaluation of BRUEs are not recommended based on the balance of benefits and harms and the quality of the evidence. Please see the &quot;Major Recommendations&quot; field for context.</p>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Diagnosis of underlying disorder </li>
+    <li>Morbidity </li>
+    <li>Mortality </li>
+    <li>Need for hospitalization </li>
+    <li>Details of past medical history (PMH), history of present illness (HPI), physical examination (PE) </li>
+    <li>Sensitivity and positive predictive value of diagnostic testing </li>
+    <li>Critical care work-up </li>
+    <li>Recurrence risk </li>
+    <li>Discharge diagnosis </li>
+    <li>Long-term outcomes of apparent life-threatening events (ALTEs) </li>
+    <li>Relevance of gastrointestinal (GI)/gastroesophageal reflux disease (GERD) </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The subcommittee performed a comprehensive review of the literature related to apparent life-threatening events (ALTEs) from 1970 through 2014. Articles from 1970 through 2011 were identified and evaluated by using &quot;Management of Apparent Life-Threatening Events in Infants: A Systematic Review,&quot; authored by the Society of Hospital Medicine's ALTE Expert Panel (which included 4 members of the subcommittee). The subcommittee partnered with the Society of Hospital Medicine Expert Panel and a librarian to update the original systematic review with articles published through December 31, 2014, with the use of the same methodology as the original systematic review. PubMed, Cumulative Index to Nursing and Allied Health Literature, and Cochrane Library databases were searched for studies involving children younger than 24 months by using the stepwise approach specified in the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement. Search terms included &quot;ALTE(s),&quot; &quot;apparent life threatening event(s),&quot; &quot;life threatening event(s),&quot; &quot;near miss SIDS&quot; or &quot;near miss sudden infant death syndrome,&quot; &quot;aborted crib death&quot; or &quot;aborted sudden infant death syndrome,&quot; and &quot;aborted SIDS&quot; or &quot;aborted cot death&quot; or &quot;infant death, sudden.&quot; The Medical Subject Heading &quot;infantile apparent life threatening event,&quot; introduced in 2011, was also searched but did not identify additional articles.</p>
+<p>In updating the systematic review published in 2012, pairs of 2 subcommittee members used validated methodology to independently score the newly identified abstracts from English language articles (n=120) for relevance to the clinical questions (Supplemental Fig. 3 in the Supplemental Information [see the &quot;Availability of Companion Documents&quot; field]).</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The final recommendations were based on 55 articles identified in the updated (n=18) and original (n=37) systematic reviews.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;1&quot; summary=&quot;Table: Evidence Quality&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Aggregate Evidence Quality</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Benefit or Harm Predominates</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Benefit and Harm Balanced</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Level A</strong><br />
+            Intervention: Well-designed and conducted trials, meta-analyses on applicable populations<br />
+            Diagnosis: Independent gold standard studies of applicable populations</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Strong recommendation</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot; rowspan=&quot;3&quot;>Weak Recommendation (based on balance of benefit and harm)</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Level B</strong><br />
+            Trials or diagnostic studies with minor limitations; consistent findings from multiple observational studies</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Strong recommendation/Moderate recommendation</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Level C</strong><br />
+            Single or few observational studies or multiple studies with inconsistent findings or major limitations</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Moderate recommendation/Weak recommendation (based on low quality evidence)</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Level D</strong><br />
+            Expert opinion, case reports, reasoning from first principles</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Weak recommendation (based on low quality evidence)</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>No recommendation may be made</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Level X</strong><br />
+            Exceptional situations where validating studies cannot be performed and there is a clear preponderance of benefit or harm</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Strong recommendation/Moderate recommendation</td>
+            <td>&amp;nbsp;</td>
+        </tr>
+    </tbody>
+</table>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Two independent reviewers critically appraised the full text of the newly identified articles (n=23) using a structured data collection form based on published guidelines for evaluating medical literature. They recorded each study's relevance to the clinical question, research design, setting, time period covered, sample size, patient eligibility criteria, data source, variables collected, key results, study limitations, potential sources of bias, and stated conclusions. If at least 1 reviewer judged an article to be relevant on the basis of the full text, subsequently at least 2 reviewers critically appraised the article and determined by consensus what evidence, if any, should be cited in the systematic review. Selected articles used in the earlier review were also reevaluated for their quality. The final recommendations were based on articles identified in the updated (n=18) and original (n=37) systematic review (Supplemental Table 7 in the Supplemental Information [see the &quot;Availability of Companion Documents&quot; field]).</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>In July 2013, the American Academy of Pediatrics (AAP) convened a multidisciplinary subcommittee composed of primary care clinicians and experts in the fields of general pediatrics, hospital medicine, emergency medicine, infectious diseases, child abuse, sleep medicine, pulmonary medicine, cardiology, neurology, biochemical genetics, gastroenterology, environmental health, and quality improvement. The subcommittee also included a parent representative, a guideline methodologist/informatician, and an epidemiologist skilled in systematic reviews. The subcommittee performed a comprehensive review of the literature related to apparent life-threatening events (ALTEs) from 1970 through 2014.</p>
+<p>The resulting systematic review was used to develop the guideline recommendations by following the policy statement from the AAP Steering Committee on Quality Improvement and Management, &quot;Classifying Recommendations for Clinical Practice Guidelines.&quot; Decisions and the strength of recommendations were based on a systematic grading of the quality of evidence from the updated literature review by 2 independent reviewers and incorporation of a previous systematic review. Expert consensus was used when definitive data were not available. If committee members disagreed with the rest of the consensus, they were encouraged to voice their concern until full agreement was reached. If full agreement could not be reached, each committee member reserved the right to state concern or disagreement in the publication (which did not occur). Because the recommendations of this guideline were based on the ALTE literature, the subcommittee relied on the studies and outcomes that could be attributable to the new definition of lower- or higher-risk brief resolved unexplained event (BRUE) patients.</p>
+<p>Key action statements were generated by using BRIDGE-Wiz (Building Recommendations in a Developers Guideline Editor), an interactive software tool that leads guideline development teams through a series of questions that are intended to create clear, transparent, and actionable key action statements. BRIDGE-Wiz integrates the quality of available evidence and a benefit harm assessment into the final determination of the strength of each recommendation. Evidence-based guideline recommendations from the AAP may be graded as strong, moderate, weak based on low-quality evidence, or weak based on balance between benefits and harms. Strong and moderate recommendations are associated with &quot;should&quot; and &quot;should not&quot; recommendation statements, whereas weak recommendation may be recognized by use of &quot;may&quot; or &quot;need not&quot; (see the &quot;Rating Scheme for the Strength of the Recommendations&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions for Key Action Statements</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;1&quot; summary=&quot;Table: Definitions for Evidence-based Statements&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Statement</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Definition</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Implication</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Strong recommendation</strong></td>
+            <td valign=&quot;top&quot;>A particular action is favored because anticipated benefits clearly exceed harms (or vice versa), and quality of evidence is excellent or unobtainable.</td>
+            <td valign=&quot;top&quot;>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Moderate recommendation</strong></td>
+            <td valign=&quot;top&quot;>A particular action is favored because anticipated benefits clearly exceed harms (or vice versa), and the quality of evidence is good but not excellent (or is unobtainable).</td>
+            <td valign=&quot;top&quot;>Clinicians would be prudent to follow a moderate recommendation but should remain alert to new information and sensitive to patient preferences.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Weak recommendation</strong> (based on low-quality evidence)</td>
+            <td valign=&quot;top&quot;>A particular action is favored because anticipated benefits clearly exceed harms (or vice versa), but the quality of evidence is weak.</td>
+            <td valign=&quot;top&quot;>Clinicians would be prudent to follow a weak recommendation but should remain alert to new information and very sensitive to patient preferences.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Weak recommendation</strong> (based on balance of benefits and harms)</td>
+            <td valign=&quot;top&quot;>Weak recommendation is provided when the aggregate database shows evidence of both benefit and harm that appear similar in magnitude for any available courses of action.</td>
+            <td valign=&quot;top&quot;>Clinicians should consider the options in their decision making, but patient preference may have a substantial role.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline developers reviewed a published cost analysis.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The practice guideline underwent a comprehensive review by stakeholders before formal approval by the American Academy of Pediatrics (AAP), including AAP councils, committees, and sections; selected outside organizations; and individuals identified by the subcommittee as experts in the field. All comments were reviewed by the subcommittee and incorporated into the final guideline when appropriate.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline is intended to foster a patient- and family-centered approach to care, reduce unnecessary and costly medical interventions, improve patient outcomes, support implementation, and provide direction for future research. See the &quot;Major Recommendations&quot; field for benefits of specific interventions considered in the guideline.</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>See the &quot;Major Recommendations&quot; field for potential risks and harms of specific interventions considered in the guideline. </p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>This guideline may be of interest to parents and payers, but it is not intended to be used for reimbursement or to determine insurance coverage. This guideline is not intended as the sole source of guidance in the evaluation and management of brief resolved unexplained events (BRUEs) but rather is intended to assist clinicians by providing a framework for clinical decision-making. </li>
+    <li>The guidance in this report does not indicate an exclusive course of treatment or serve as a standard of medical care. Variations, taking into account individual circumstances, may be appropriate. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Dissemination and Implementation</span></strong></p>
+<p>Dissemination and implementation efforts are needed to facilitate guideline use across pediatric medicine, family medicine, emergency medicine, research, and patient/family communities. The following general approaches and a Web-based toolkit are proposed for the dissemination and implementation of this guideline.</p>
+<p><strong>Education</strong></p>
+<p>Education will be partially achieved through the American Academy of Pediatrics (AAP) communication outlets and educational services (<em>AAP News</em>, <em>Pediatrics</em>, and PREP). Further support will be sought from stakeholder organizations (American Academy of Family Physicians, American College of Emergency Physicians, American Board of Pediatrics, Society of Hospital Medicine). A Web-based toolkit (to be published online) will include caregiver handouts and a shared decision-making tool to facilitate patient- and family-centered care. Efforts will address appropriate disease classification and diagnosis coding. </p>
+<p><strong>Integration of Clinical Workflow</strong></p>
+<p>An algorithm is provided (Figure 1 in the original guideline document) for diagnosis and management. Structured history and physical examination templates also are provided to assist in addressing all of the relevant risk factors for brief resolved unexplained events (BRUEs) (see Tables 2 and 3 in the original guideline document). Order sets and modified documents will be hosted on a Web-based learning platform that promotes crowd-sourcing. </p>
+<p><strong>Administrative and Research</strong></p>
+<p>International Classification of Diseases, 9th Revision, and International Classification of Diseases, 10th Revision, diagnostic codes are used for billing, quality improvement, and research; and new codes for lower- and higher-risk BRUEs will need to be developed. In the interim, the current code for an&amp;nbsp;apparent life-threatening event (ALTE) (799.82) will need to be used for billing purposes. Efforts will be made to better reflect present knowledge and to educate clinicians and payers in appropriate use of codes for this condition. </p>
+<p><strong>Quality Improvement</strong></p>
+<p>Quality improvement initiatives that provide Maintenance of Certification credit, such as the AAP's PREP and EQIPP courses, or collaborative opportunities through the AAP's Quality Improvement Innovation Networks, will engage clinicians in the use and improvement of the guideline. By using proposed quality measures, adherence and outcomes can be assessed and benchmarked with others to inform continual improvement efforts. Proposed measures include process evaluation (use of definition and evaluation), outcome assessment (family experience and diagnostic outcomes), and balancing issues (cost and length of visit). Future research will need to be conducted to validate any measures.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Foreign Language Translations"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Quick Reference Guides/Physician Guides"/>
+      <fieldvalue value="Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Tieder JS, Bonkowsky JL, Etzel RA, Franklin WH, Gremse DA, Herman B, Katz ES, Krilov LR, Merritt JL 2nd, Norlin C, Percelay J, Sapién RE, Shiffman RN, Smith MB, Subcommittee on Apparent Life Threatening Events. Brief resolved unexplained events (formerly apparent life-threatening events) and evaluation of lower-risk infants. Pediatrics. 2016 May;137(5):e20160590. [128 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27244835&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2016 May"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American Academy of Pediatrics - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The project was funded by the American Academy of Pediatrics (AAP). The AAP has neither solicited nor accepted any commercial involvement in the development of the content of this publication.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Subcommittee on Brief Resolved Unexplained Events (BRUEs) (formerly referred to as apparent life-threatening events [ALTEs]) (Oversight by the Council on Quality Improvement and Patient Safety)</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Subcommittee Members</em>: Joel S. Tieder, MD, MPH, FAAP (<em>Chair</em>); Joshua L. Bonkowsky, MD, PhD, FAAP, Pediatric Neurologist; Ruth A. Etzel, MD, PhD, FAAP, Pediatric Epidemiologist; Wayne H. Franklin, MD, MPH, MMM, FAAP, Pediatric Cardiologist; David A. Gremse, MD, FAAP, Pediatric Gastroenterologist; Bruce Herman, MD, FAAP, Child Abuse and Neglect; Eliot Katz, MD, FAAP, Pediatric Pulmonologist; Leonard R. Krilov, MD, FAAP, Pediatric Infectious Diseases; J. Lawrence Merritt II, MD, FAAP, Clinical Genetics and Biochemical Genetics; Chuck Norlin, MD, FAAP, Pediatrician; Robert E. Sapi&amp;eacute;n, MD, MMM, FAAP, Pediatric Emergency Medicine; Richard Shiffman, MD, FAAP, Partnership for Policy Implementation Representative; Michael B.H. Smith, MB, FRCPCH, FAAP, Hospital Medicine; Jack Percelay, MD, MPH, FAAP, Liaison, Society for Hospital Medicine</p>
+<p><em>Staff</em>: Kymika Okechukwu, MPA</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All authors have filed conflict of interest statements with the American Academy of Pediatrics (AAP). Any conflicts have been resolved through a process approved by the Board of Directors. All panel members declared potential conflicts on the basis of the AAP policy on Conflict of Interest and Voluntary Disclosure. Subcommittee members repeated this process annually and upon publication of the guideline. All potential conflicts of interest are listed at the end of the original guideline document.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>All clinical practice guidelines from the American Academy of Pediatrics automatically expire 5 years after publication unless reaffirmed, revised, or retired at or before that time.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://pediatrics.aappublications.org/content/pediatrics/early/2016/04/21/peds.2016-0590.full.pdf&quot; title=&quot;American Academy of Pediatrics (AAP) Policy Web site&quot;>American Academy of Pediatrics (AAP) Policy Web site</a>. </p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Tieder JS, Bonkowsky JL, Etzel RA, Franklin WH, Gremse DA, Herman B, Katz ES, Krilov LR, Merritt JL 2nd, Norlin C, Percelay J, Sapi&amp;eacute;n RE, Shiffman RN, Smith MB, Subcommittee on Apparent Life Threatening Events. Brief resolved unexplained events (formerly apparent life-threatening events) and evaluation of lower-risk infants. Executive summary. Pediatrics. 2016 May;137(5):e1-3. Available from the <a href=&quot;http://pediatrics.aappublications.org/content/pediatrics/early/2016/04/21/peds.2016-0591.full.pdf&quot; title=&quot;American Academy of Pediatrics (AAP) Policy Web site&quot;>American Academy of Pediatrics (AAP) Policy Web site</a>. </li>
+    <li>Brief resolved unexplained events (formerly apparent life-threatening events) and evaluation of lower-risk infants. Supplemental information. Pediatrics 2016 May;137(5):S11-8. Available from the <a href=&quot;http://pediatrics.aappublications.org/content/pediatrics/suppl/2016/04/20/peds.2016-0590.DCSupplemental/PEDS_20160590SupplementaryData.pdf&quot; title=&quot;American Academy of Pediatrics (AAP) Policy Web site&quot;>AAP Policy Web site</a>. </li>
+    <li>Tieder JS, Altman RL, Bonkowsky JL, Brand DA, Claudius I, Cunningham DJ, DeWolfe C, Percelay JM, Pitetti RD, Smith MB. Management of apparent life-threatening events in infants: a systematic review. J Pediatr. 2013;163(1):94-9, e91-6. Available from the <a href=&quot;http://www.jpeds.com/article/S0022-3476%2812%2901575-2/pdf&quot; title=&quot;Journal of Pediatrics Web site&quot;>Journal of Pediatrics Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Brief resolved unexplained events: what parents and caregivers need to know. Patient education handouts. Available in <a href=&quot;http://patiented.solutions.aap.org/handout.aspx?gbosid=239090&quot; title=&quot;American Academy of Pediatrics (AAP) Web site (English Version)&quot;>English</a> and <a href=&quot;http://patiented.solutions.aap.org/handout.aspx?gbosid=239098&quot; title=&quot;American Academy of Pediatrics (AAP) Web site (Spanish Version)&quot;>Spanish</a> from the American Academy of Pediatrics (AAP) Web site. </li>
+</ul>
+<p class=&quot;Note&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on June 28, 2016.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions. Please contact the Permissions Editor, American Academy of Pediatrics (AAP), 141 Northwest Point Blvd, Elk Grove Village, IL 60007.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 06:30:53 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:30:48 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 251.831 (3)
+  esindex: 0.006
+  captures_list: 265.974
+  CDXLines.iter: 10.987 (3)
+  PetaboxLoader3.datanode: 59.652 (4)
+  exclusion.robots: 0.267
+  exclusion.robots.policy: 0.256
+  RedisCDXSource: 0.458
+  PetaboxLoader3.resolve: 718.386 (3)
+  load_resource: 593.082
+-->

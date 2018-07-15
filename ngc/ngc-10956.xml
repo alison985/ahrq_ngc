@@ -1,0 +1,991 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app18.us.archive.org';v.server_ms=473;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10956?contentType=xml', '20180713012721')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713012721/https://www.guideline.gov/summaries/downloadcontent/ngc-10956?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713012721/https://www.guideline.gov/summaries/downloadcontent/ngc-10956?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10956?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713012721" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610052244/https://www.guideline.gov/summaries/downloadcontent/ngc-10956?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 01:27:21 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610052244/https://www.guideline.gov/summaries/downloadcontent/ngc-10956?contentType=xml" title="05:22:44 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 01:27:21 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930211329/https://www.guideline.gov/summaries/downloadcontent/ngc-10956?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 01:27:21 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713012721*/https://www.guideline.gov/summaries/downloadcontent/ngc-10956?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10956?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Controlled drugs: safe use and management.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Institute for Health and Care Excellence (NICE). Controlled drugs: safe use and management. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Apr 12. 29 p.&amp;nbsp;(NICE guideline; no. 46).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline. </p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="394" ordby="200" name="Regulatory Alert">
+    <field fieldid="154" ordby="205" id="395" name="FDA Warning/Regulatory Alert" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse</strong>: This guideline references a drug(s) for which important revised regulatory and/or warning information has been released.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><a href=&quot;http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm518710.htm&quot; title=&quot;FDA Web site&quot; target=&quot;_blank&quot;>August 31, 2016 &amp;ndash; Opioid pain and cough medicines combined with benzodiazepines</a>: A U.S. Food and Drug Administration (FDA) review has found that the growing combined used of opioid medicines with benzodiazepines or other drugs that depress the central nervous system (CNS) has resulted in serious side effects, including slowed or difficult breathing and deaths. FDA is adding Boxed Warnings to the drug labeling of prescription opioid pain and prescription opioid cough medicines and benzodiazepines. </li>
+</ul></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse and the National Institute for Health and Care Excellence (NICE)</strong>: These recommendations were developed using UK controlled drugs legislation and regulations, as amended and updated up to the end of 2015. Organisations and health and social care practitioners should refer to the most recent legislation and regulations (see the <a href=&quot;http://www.legislation.gov.uk/new&quot; title=&quot;UK Legislation Web site&quot;>government's legislation Web site</a>). Throughout the guideline, the <a href=&quot;http://www.legislation.gov.uk/uksi/2001/3998/contents/made&quot; title=&quot;UK Legislation Web site: Misuse of Drugs Regulations 2001&quot;>Misuse of Drugs Regulations 2001</a> will be referred to as 'the 2001 Regulations' and the <a href=&quot;http://www.legislation.gov.uk/uksi/2013/373/contents/made&quot; title=&quot;UK Legislation Web site: Controlled Drugs (Supervision of Management and Use) Regulations 2013&quot;>Controlled Drugs (Supervision of Management and Use) Regulations 2013</a> will be referred to as 'the 2013 Regulations'. See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance and related appendices. </p>
+<p>The wording used in the recommendations in this guideline (for example words such as 'offer' and 'consider') denotes the certainty with which the recommendation is made (the strength of the recommendation) and is defined at the end of the &quot;Major Recommendations&quot; field. See the original guideline document for definitions of terms used in this guideline.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Developing and Establishing Systems and Processes for Organisations</span></strong></p>
+<p>The recommendations in this section are for all organisations unless otherwise stated. </p>
+<p><strong>Governance Arrangements and Accountability </strong></p>
+<p>Organisations should agree governance arrangements with clear lines of responsibility and accountability for controlled drugs in their contracts.</p>
+<p>Designated bodies must appoint a controlled drugs accountable officer, who will quality assure processes for managing controlled drugs in their organisation, in line with <a href=&quot;http://www.legislation.gov.uk/uksi/2013/373/regulation/8/made&quot; title=&quot;UK Legislation Web site: Regulation 8&quot;>Regulation 8</a> of the 2013 Regulations. </p>
+<p>Consider appointing a nominated person in organisations that are not required by legislation to appoint a controlled drugs accountable officer, to: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Work in accordance with governance arrangements for the safe use and management of controlled drugs </li>
+    <li>Make sure processes are in place for safe use and management of controlled drugs, and the reporting and investigating of concerns </li>
+    <li>Liaise with the local National Health Service (NHS) England lead controlled drugs accountable officer and local intelligence network members </li>
+</ul>
+<p><strong>Policies, Processes and Procedures </strong></p>
+<p>Develop a controlled drugs policy and standard operating procedures for storing, transporting, destroying and disposing of controlled drugs. </p>
+<p>Establish processes for developing, reviewing, updating, sharing and complying with controlled drugs-related standard operating procedures, in line with legislation and national guidance. Consider using a risk assessment when establishing processes. </p>
+<p>Designated bodies must put in place the minimum standard operating procedures for processes relating to prescribing, supplying and administering controlled drugs, including clinical monitoring for people who have been prescribed controlled drugs, in line with <a href=&quot;http://www.legislation.gov.uk/uksi/2013/373/regulation/11/made&quot; title=&quot;UK Legislation Web site: Regulation 11&quot;>Regulation 11</a> of the 2013 Regulations. </p>
+<p>Ensure that national medicines safety guidance about controlled drugs, such as patient safety alerts, are incorporated into policy and acted on within a specified or locally agreed timeframe. </p>
+<p>Consider developing standard operating procedures for risk assessing the use of controlled drugs in organisations providing inpatient care, where patients' own controlled drugs may be used and handled. The risk assessment may include: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Self-administration or self-possession </li>
+    <li>Storage requirements </li>
+    <li>Record keeping </li>
+    <li>Disposal </li>
+</ul>
+<p>Non-healthcare settings, such as schools, should have systems and processes in place for storing, recording and transporting controlled drugs that belong to a person who is under the organisation's supervision. </p>
+<p>Consider putting processes in place to access prescribing data for all controlled drugs to identify: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Prescribing trends and potential risks of unintended use </li>
+    <li>The reasons for very high, increasing or very low volume prescribing </li>
+</ul>
+<p><strong>Processes and Procedures for Storage, Stock Checks and Audits </strong></p>
+<p>When developing standard operating procedures for storing controlled drugs, ensure that they are in line with the <a href=&quot;http://www.legislation.gov.uk/uksi/1973/798/contents/made&quot; title=&quot;UK Legislation Web site: Misuse of Drugs (Safe Custody) Regulations 1973&quot;>Misuse of Drugs (Safe Custody) Regulations 1973</a>, meet the needs of the service and take into account: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The setting for use and whether the security setting is low, medium or high risk </li>
+    <li>Staff access to controlled drugs </li>
+    <li>The storage environment, including temperature and space in the controlled drugs cabinet </li>
+    <li>Storage of stock (including unwanted or expired stock) and patients' own controlled drugs </li>
+    <li>Any additional storage needs for controlled drugs of different strengths with similar or 'lookalike' packaging </li>
+</ul>
+<p>Ensure that a standard operating procedure is in place for stock checks of all controlled drugs entered into the controlled drugs register. The procedure should include: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Checking the balance in the controlled drugs register against current stock </li>
+    <li>Visual inspection of liquid balances, periodic volume checks and checks to confirm the balance on completion of a bottle </li>
+    <li>The frequency of stock checks, which should be based on the frequency of use and controlled drug-related incidents, and risk assessment; for most organisations stock checks should be at least once a week, but they may be carried out more or less often depending on the circumstances </li>
+    <li>Recording stock checks along with the date and signature of the health professional carrying out the check </li>
+    <li>Having 2 people present to carry out stock checks, if possible </li>
+</ul>
+<p>Develop standard operating procedures for audits of controlled drugs registers and cabinets that include, but are not limited to: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Identifying the person responsible for auditing </li>
+    <li>The frequency of audits </li>
+    <li>Reporting and managing discrepancies between stocks and records </li>
+</ul>
+<p><strong>Processes and Procedures for Transportation</strong></p>
+<p>When developing standard operating procedures for transporting controlled drugs, take into account: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Storage while in transit </li>
+    <li>Security (for example, use of locked doctor's bags and ambulances) </li>
+    <li>Record keeping, such as the movement of controlled drugs supplied for use at different locations </li>
+    <li>The supply process </li>
+</ul>
+<p>Ensure that governance arrangements and processes are in place for the safe transport of controlled drugs or prescriptions for controlled drugs if couriers, taxis or equivalent services are used. </p>
+<p><strong>Processes and Procedures for Destruction and Disposal</strong></p>
+<p>Arrangements for destroying and disposing of controlled drugs must be in place and in line with the 2001 Regulations and the <a href=&quot;http://www.legislation.gov.uk/uksi/2012/811/schedule/1/made&quot; title=&quot;UK Legislation Web site: Controlled Waste (England and Wales) Regulations 2012&quot;>Controlled Waste (England and Wales) Regulations 2012</a>, regardless of the source of supply. </p>
+<p>When developing standard operating procedures for disposing of controlled drugs, including unwanted or expired stock and drugs returned by people, take into account: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The place of destruction </li>
+    <li>Local agreement and records of authorised people to witness the destruction of controlled drugs </li>
+</ul>
+<p>Consider developing standard operating procedures in primary care organisations based on local arrangements for destroying and disposing of controlled drugs that belonged to a person who has died. </p>
+<p><strong>Policies and Processes for Prescribing</strong></p>
+<p>Ensure that prescribing policies support prescribers and do not create barriers that prevent health professionals who are competent to prescribe controlled drugs from prescribing. </p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Record Keeping for Organisations </span></strong></p>
+<p><strong>Controlled Drugs Registers </strong></p>
+<p>A separate controlled drugs register must be kept for each of the premises of an organisation where controlled drugs in Schedule 2 are stored, in line with <a href=&quot;http://www.legislation.gov.uk/uksi/2001/3998/regulation/20/made&quot; title=&quot;UK Legislation Web site: Regulation 20&quot;>Regulation 20</a> of the 2001 Regulations. </p>
+<p>Controlled drugs registers must be kept for 2 years from the date of the last entry, in line with <a href=&quot;http://www.legislation.gov.uk/uksi/2001/3998/regulation/23/made&quot; title=&quot;UK Legislation Web site: Regulation 23&quot;>Regulation 23</a> of the 2001 Regulations. </p>
+<p><strong>Requisitions, Records of Destruction and Invoices</strong></p>
+<p>Requisitions of supplied controlled drugs should be kept by organisations for 2 years from the date on the requisition, in line with <a href=&quot;http://www.legislation.gov.uk/uksi/2001/3998/regulation/23/made&quot; title=&quot;UK Legislation Web site: Regulation 23&quot;>Regulation 23</a> of the 2001 Regulations. </p>
+<p>Unless legislation specifies otherwise, consider keeping: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Records of the destruction of a patient's own controlled drugs for a minimum of 7 years </li>
+    <li>Invoices for controlled drugs for 6 years </li>
+</ul>
+<p><strong>Using a Locally Determined Standard Requisition Form </strong></p>
+<p>In organisations with an internal pharmacy, consider using a locally determined standard requisition form across the whole of an organisation when a mandatory form is not legally required for obtaining stock controlled drugs in Schedule 2 and 3. Include on the form: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The signature and printed name of the person ordering the controlled drug </li>
+    <li>The name of the care setting </li>
+    <li>The ward, department or location </li>
+    <li>The controlled drug name, form, strength, and for ampoules, the size if more than one is available </li>
+    <li>The total quantity of the controlled drug to be supplied </li>
+    <li>The date of the request </li>
+    <li>The signature of the person issuing the controlled drug from the pharmacy </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Risk Assessment for Organisations</span></strong></p>
+<p>Carry out a risk assessment to determine if controlled drugs in Schedule 3, 4 and 5 should be handled in the same way as controlled drugs in Schedule 2. The risk assessment may include: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Frequency and quantities of controlled drugs used </li>
+    <li>Storage facilities available </li>
+    <li>Whether the security setting is low, medium or high risk </li>
+    <li>Checking for discrepancies in stock balances at shift handover </li>
+    <li>Frequency of staff turnover </li>
+    <li>Staff access to controlled drugs </li>
+    <li>Any data from relevant reported incidents </li>
+</ul>
+<p>Ensure that standard operating procedures for administering controlled drugs include sufficient safety measures to minimise the risk of administration errors. Safety measures may include: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Asking for advice from other health professionals (this could be by telephone or email) </li>
+    <li>Arranging for another health professional to carry out a second check of dose calculations and route for administration </li>
+</ul>
+<p>In organisations with an internal pharmacy or dispensing doctors, use a risk assessment (see Regulation 3 of the <a href=&quot;http://www.legislation.gov.uk/uksi/1999/3242/regulation/3/made&quot; title=&quot;UK Legislation Web site: Management of Health and Safety at Work Regulations 1999&quot;>Management of Health and Safety at Work Regulations 1999</a>) to determine locally the most appropriate place for destroying controlled drugs. This should take into account how close the place of destruction should be to where the drugs are used to help minimise risks of controlled drug-related incidents. </p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Processes for Reporting Controlled Drug-Related Incidents</span></strong></p>
+<p>When multiple systems are used for reporting controlled drug-related incidents (for example, local and national systems and occurrence reporting), consider developing a local process that coordinates these systems within the organisation. This may include: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Reviewing arrangements regularly to reflect local and national learning </li>
+    <li>Carrying out risk assessments of incidents </li>
+    <li>Sharing learning </li>
+</ul>
+<p>Include in local processes for reporting controlled drug-related concerns or incidents: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>How to inform the controlled drugs accountable officer or nominated person </li>
+    <li>Reporting incidents in a timely way, ideally within 48 hours </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Prescribing Controlled Drugs</span></strong></p>
+<p>The recommendations in this section are for all health professionals prescribing controlled drugs unless otherwise stated. </p>
+<p><strong>Making and Recording Prescribing Decisions </strong></p>
+<p>When making decisions about prescribing controlled drugs take into account: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The benefits of controlled drug treatment </li>
+    <li>The risks of prescribing, including dependency, overdose and diversion </li>
+    <li>All prescribed and non-prescribed medicines the person is taking (particularly any centrally acting agents) and whether the person may be opioid naive </li>
+    <li>Evidence-based sources, such as NICE and the <a href=&quot;https://www.evidence.nhs.uk/formulary/bnf/current&quot; title=&quot;NICE British National Formulary (BNF) Web site&quot;>British national formulary (BNF)</a>, for prescribing decisions when possible </li>
+</ul>
+<p>When prescribing controlled drugs: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Document clearly the indication and regimen for the controlled drug in the person's care record </li>
+    <li>Check the person's current clinical needs and, if appropriate, adjust the dose until a good balance is achieved between benefits and harms </li>
+    <li>Discuss with the person the arrangements for reviewing and monitoring treatment </li>
+    <li>Be prepared to discuss the prescribing decision with other health professionals if further information is requested about the prescription </li>
+</ul>
+<p>When prescribing 'when required' controlled drugs: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Document clear instructions for when and how to take or use the drug in the person's care record </li>
+    <li>Include dosage instructions on the prescription (with the maximum daily amount or frequency of doses) so that this can be included on the label when dispensed </li>
+    <li>Ask about and take into account any existing supplies the person has of 'when required' controlled drugs </li>
+</ul>
+<p>When prescribing, reviewing or changing controlled drug prescriptions, prescribers should follow local (where available) or national guidelines and take into account the: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Appropriate route </li>
+    <li>Dose (including when dose conversions or dose equivalence is needed) </li>
+    <li>Formulation (including changes to formulations) </li>
+</ul>
+<p>If guidance on prescribing is not followed, document the reasons why in the person's care record. </p>
+<p>Prescribe enough of a controlled drug to meet the person's clinical needs for no more than 30 days. If, under exceptional circumstances, a larger quantity is prescribed, the reasons for this should be documented in the person's care record.</p>
+<p>Use a recognised opioid dose conversion guide when prescribing, reviewing or changing opioid prescriptions to ensure that the total opioid load is considered. </p>
+<p>When prescribing controlled drugs outside general practice (for example in hospital or out of hours), inform the person's general practitioner (GP) of all prescribing decisions and record this information in the person's care record so the GP has access to it. When sharing information take into account the following 5 rules<sup>1</sup>: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Confidential information about service users or patients should be treated confidentially and respectfully. </li>
+    <li>Members of a care team should share confidential information when it is needed for the safe and effective care of an individual. </li>
+    <li>Information that is shared for the benefit of the community should be anonymised. </li>
+    <li>An individual's right to object to the sharing of confidential information about them should be respected. </li>
+    <li>Organisations should put policies, procedures and systems in place to ensure the confidentiality rules are followed. </li>
+</ul>
+<p>When prescribing controlled drugs for inpatients (for example, on a medicines or inpatient record) that are to be administered by different routes, prescribe each as a separate item and clearly state when each should be used to avoid administration errors. </p>
+<p class=&quot;Note&quot;><sup>1</sup>A guide to confidentiality in health and social care (2013) Health and Social Care Information Centre (http://systems.digital.nhs.uk/infogov/confidentiality). Re-used with the permission of the Health and Social Care Information Centre.</p>
+<p><strong>Providing Information and Advice to People Taking or Carers Administering Controlled Drugs </strong></p>
+<p>Document and give information to the person taking the controlled drug or the carer administering it, including: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>How long the person is expected to use the drug </li>
+    <li>How long it will take to work </li>
+    <li>What it has been prescribed for </li>
+    <li>How to use controlled drugs when sustained-release and immediate-release formulations are prescribed together </li>
+    <li>How it may affect the person's ability to drive (see the advice from the Department of Transport on <a href=&quot;https://www.gov.uk/government/publications/drug-driving-and-medicine-advice-for-healthcare-professionals&quot; title=&quot;UK Government Web site: Drug Driving and Medicine&quot;>drug driving and medicine: advice for healthcare professionals</a>) </li>
+    <li>That it is to be used only by the person it is prescribed for </li>
+</ul>
+<p>Inform people who are starting controlled drugs that they or their representative may need to show identification when they collect the controlled drugs. </p>
+<p>When prescribing controlled drugs in primary care for use in the community, advise people how to safely dispose of: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Unwanted controlled drugs at a community pharmacy </li>
+    <li>Used controlled drugs </li>
+</ul>
+<p><strong>Reviewing Repeat Prescriptions and Anticipatory Prescribing </strong></p>
+<p>When prescribing a repeat prescription of a controlled drug for treating a long-term condition in primary care, take into account the controlled drug and the person's individual circumstances to determine the frequency of review for further repeat prescriptions. </p>
+<p>Follow locally agreed processes for reviewing anticipatory prescribing of controlled drugs in primary care and palliative care services. Determine the type of review needed on a case-by-case basis, including the ongoing clinical need and, where practicable, the expiry dates of any controlled drugs already stored by the person. </p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Obtaining and Supplying Controlled Drugs</span></strong></p>
+<p>The recommendations in this section are for all health professionals supplying controlled drugs unless otherwise stated. </p>
+<p><strong>Standards and Safety Checks for Supplying Controlled Drugs </strong></p>
+<p>When supplying prescribed controlled drugs: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Follow relevant standards set by the professional regulator </li>
+    <li>Check with the prescriber about any safety concerns, such as whether the prescribed dose is safe for the person </li>
+</ul>
+<p>When supplying controlled drugs to a person or their representative, take reasonable steps to confirm their identity before providing the controlled drug. </p>
+<p>If intending to supply dispensed controlled drugs to a person in police custody, first check whether the custody staff have adequate arrangements and handling facilities for controlled drugs. </p>
+<p><strong>Providing Information and Advice to People Receiving Controlled Drugs </strong></p>
+<p>When supplying more than one formulation (for example, immediate-release and sustained-release formulations) of a controlled drug, discuss the differences between the formulations with the person, and their family members or carers if appropriate, and check that they understand what the different formulations are for and when to take them. </p>
+<p>When the total quantity of a controlled drug in Schedule 2, 3 or 4 cannot be supplied: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Inform the person receiving the drug that only part of their supply is available </li>
+    <li>Tell them when the rest will be available </li>
+    <li>Ask them to collect it within 28 days of the date stated on the prescription </li>
+</ul>
+<p>When supplying controlled drugs, advise people how to safely dispose of: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Unwanted controlled drugs at a community pharmacy </li>
+    <li>Used controlled drugs </li>
+</ul>
+<p><strong>Recording Supplies in the Controlled Drug Register </strong></p>
+<p>When health professionals in primary care dispense controlled drugs in Schedule 2 in advance of collection, they should document the supply in the controlled drug register only after the drugs are collected by the person or their representative. </p>
+<p>Pharmacists or dispensing doctors who are unable to supply the total quantity of a prescribed controlled drug in Schedule 2, must make an entry in the controlled drugs register for only the quantity of the controlled drug supplied, in line with <a href=&quot;http://www.legislation.gov.uk/uksi/2001/3998/regulation/19/made&quot; title=&quot;UK Legislation Web site: Regulation 19&quot;>Regulation 19</a> of the 2001 Regulations. They must then make a further entry in the register when the balance is supplied. </p>
+<p><strong>Using Requisition Forms to Obtain Stock Controlled Drugs </strong></p>
+<p>When obtaining controlled drugs for use in the community, health professionals in primary care must use the approved mandatory form for the requisitioning of controlled drugs in Schedule 2 and 3, in line with <a href=&quot;http://www.legislation.gov.uk/uksi/2001/3998/regulation/14/made&quot; title=&quot;UK Legislation Web site: Regulation 14&quot;>Regulation 14</a> of the 2001 Regulations and the <a href=&quot;http://www.legislation.gov.uk/uksi/2015/891/regulation/10/made&quot; title=&quot;UK Legislation Web site: Misuse of Drugs&quot;>Misuse of Drugs (Amendment) (No. 2) (England, Wales and Scotland) Regulations 2015</a>. </p>
+<p>When obtaining stocks of controlled drugs in Schedule 2 and 3 from an organisation's contracted external pharmacy, a requisition signed by a doctor or dentist employed or engaged in the organisation must be provided, in line with <a href=&quot;http://www.legislation.gov.uk/uksi/2001/3998/regulation/14/made&quot; title=&quot;UK Legislation Web site: Regulation 14&quot;>Regulation 14</a> of the 2001 regulations. </p>
+<p><strong>Part Supplies of Stock Controlled Drugs </strong></p>
+<p>Pharmacists in internal pharmacies (such as hospital and prison pharmacies) who are unable to supply the total quantity of a stock controlled drug requested by requisition should ensure that the recipient is aware that: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A part supply has been made and no further supplies will be made for that requisition </li>
+    <li>The quantity on the requisition has been amended to the amount actually supplied and is initialled or signed by the supplier </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Administering Controlled Drugs</span></strong></p>
+<p>The recommendations in this section are for all health professionals administering controlled drugs unless otherwise stated. </p>
+<p><strong>Standards and Safety Checks for Administering Controlled Drugs </strong></p>
+<p>Follow the relevant standards set by the professional regulator when administering controlled drugs, and when necessary check with the prescriber about any safety concerns such as: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Whether the prescribed dose is safe for the person </li>
+    <li>Whether other formulations have already been prescribed for the person </li>
+    <li>Whether the formulation is appropriate </li>
+    <li>That any past doses prescribed have been taken </li>
+</ul>
+<p><strong>Providing Information and Advice to People Having Controlled Drugs Administered</strong></p>
+<p>Tell the person having the controlled drug the name and dose of the drug before it is administered, unless the circumstances prevent this. </p>
+<p>Provide advice on how different formulations of controlled drugs are administered, and check that the person understands the advice. Ensure that appropriate equipment is available for the correct dose to be administered. </p>
+<p><strong>Records of Administration </strong></p>
+<p>Ensure records of administration for controlled drugs include the following: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Name of the person having the dose administered </li>
+    <li>Date and time of the dose </li>
+    <li>Name, formulation and strength of the controlled drug administered </li>
+    <li>Dose of the controlled drug administered </li>
+    <li>Name and signature or initials of the person who administered the dose </li>
+    <li>Name and signature or initials of any witness to administration </li>
+</ul>
+<p>Ensure the record of administration of a controlled drug for inpatients and people in the community is readily accessible to: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Ensure continuity of care </li>
+    <li>Prevent doses being missed or duplicated </li>
+    <li>Avoid treatment being delayed </li>
+</ul>
+<p><strong>Using Continuous Administration for Controlled Drugs</strong></p>
+<p>When prescribing controlled drugs, involve the person's GP and any lead health professionals for other care teams involved in the person's care in decisions about whether to use a device for continuous administration. Record the decision in the person's care record. If prescribing outside normal working hours, tell the GP about the decision the next working day. </p>
+<p>Health professionals who use devices for continuous administration of controlled drugs should: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Complete training in setting up the specific devices used by their service and have their competence confirmed </li>
+    <li>Seek specialist advice if needed when setting up devices for continuous administration </li>
+</ul>
+<p><strong>Recording Left Over Controlled Drugs in the Controlled Drug Register </strong></p>
+<p>For controlled drugs that are left over after administration, record in the controlled drugs register: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The amount of controlled drug administered </li>
+    <li>The amount of controlled drug to be disposed of after administration </li>
+    <li>The signatures of the person disposing of the remaining controlled drug and any witness to the disposal </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Handling Controlled Drugs</span></strong></p>
+<p>The recommendations in this section are for all health professionals handling controlled drugs unless otherwise stated. </p>
+<p><strong>Records of Handling Controlled Drugs </strong></p>
+<p>Keep records to provide an audit trail for the supply, administration and disposal of controlled drugs, and the movement of them from one location to another. </p>
+<p><strong>Providing Information and Advice on Storage to People Prescribed Controlled Drugs</strong></p>
+<p>Provide advice and information to people who are prescribed controlled drugs about how to store controlled drugs safely. Discuss storage options taking into account: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The person's preference for a lockable or non-lockable storage box </li>
+    <li>Whether the controlled drugs will be accessible to people who should and should not have access to them </li>
+    <li>Whether the storage method could increase the risk of controlled drug-related incidents, including patient safety incidents </li>
+</ul>
+<p><strong>Witnessing and Recording the Destruction and Disposal of Stock Controlled Drugs </strong></p>
+<p>Health professionals and service providers who are required by the <a href=&quot;http://www.legislation.gov.uk/uksi/2001/3998/contents/made&quot; title=&quot;UK Legislation Web site: 2001 Regulations&quot;>2001 Regulations</a> to maintain a controlled drugs register must have an authorised person present to witness the destruction of stock controlled drugs in Schedule 2 in line with <a href=&quot;http://www.legislation.gov.uk/uksi/2001/3998/regulation/27/made&quot; title=&quot;UK Legislation Web site: Regulation 27&quot;>Regulation 27</a> of the 2001 Regulations. </p>
+<p>When destroying and disposing of stock controlled drugs in Schedule 2, health professionals: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Must record the following, in line with <a href=&quot;http://www.legislation.gov.uk/uksi/2001/3998/regulation/27/made&quot; title=&quot;UK Legislation Web site: Regulation 27&quot;>Regulation 27</a> of the 2001 Regulations:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>The name, strength and form of the controlled drug </li>
+        <li>The quantity </li>
+        <li>The date of destruction </li>
+        <li>The signature of the authorised person witnessing the destruction </li>
+    </ul>
+    </li>
+    <li>Should record the signature of the person destroying the controlled drugs </li>
+</ul>
+<p>If the legislation does not require a witness to be present when destroying stock controlled drugs in Schedule 3 and 4 (part I), consider having a witness present. </p>
+<p>If the legislation does not require records to be kept of destruction and disposal of stock controlled drugs in Schedule 3 and 4 (part I), consider recording: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The name, strength and form of the controlled drug </li>
+    <li>The quantity </li>
+    <li>The date of destruction </li>
+    <li>The signatures of the person destroying the controlled drugs and any witness to the destruction </li>
+</ul>
+<p><strong>Witnessing and Recording the Destruction and Disposal of Returned Controlled Drugs </strong></p>
+<p>Consider asking a second member of staff (preferably a registered health professional) to witness the destruction and disposal of a patient's returned controlled drugs. </p>
+<p>Consider recording the destruction and disposal of controlled drugs that have been returned by people in a separate book for this purpose, and record: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The date of receipt of the controlled drugs </li>
+    <li>The date of destruction </li>
+    <li>The signatures of the person destroying the controlled drugs and any witness </li>
+</ul>
+<p><strong>Safely Destroying and Disposing of Controlled Drugs </strong></p>
+<p>For stock controlled drugs, when disposing of bottles containing irretrievable amounts of liquid drugs: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Consider rinsing the bottle and disposing of the liquid into a pharmaceutical waste bin </li>
+    <li>Remove or obliterate labels and other identifiers from the container </li>
+    <li>Dispose of the clean, empty container into the recycling waste </li>
+</ul>
+<p>Disposal of irretrievable amounts of controlled drugs does not need to be recorded. </p>
+<p>When a person has died in their home and controlled drugs need to be removed for destruction and disposal in primary care, consider: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Discussing the removal of controlled drugs with a family member or carer </li>
+    <li>Recording the action taken and details of the controlled drugs listed in the person's medical record or notes </li>
+    <li>Having a witness to the removal </li>
+    <li>Any requirements of the coroner to keep medicines in the person's home for a period of time </li>
+    <li>Taking the drugs to a health professional, such as a community pharmacist who is legally allowed to possess controlled drugs, for safe disposal at the earliest opportunity </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Monitoring the Use of Controlled Drugs</span></strong></p>
+<p><strong>Governance and Safety in the Use of Controlled Drugs</strong></p>
+<p>NHS England lead controlled drugs accountable officers should: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Work with local intelligence networks in other areas when needed </li>
+    <li>Identify and manage poor engagement </li>
+    <li>Consider including other relevant local organisations (such as substance misuse, palliative care and out-of-hours services, and secure environments) in the wider network part of the local intelligence network </li>
+</ul>
+<p>NHS England lead controlled drugs accountable officers should: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Provide feedback (such as actions from controlled drugs related incidents and occurrence reports) to controlled drugs accountable officers </li>
+    <li>Share learning with their controlled drugs accountable officers, including trends or significant incidents </li>
+</ul>
+<p><strong>Systems for Reporting Concerns and Incidents</strong></p>
+<p>Controlled drugs accountable officers must ensure that robust systems are in place for raising and reporting concerns or incidents about controlled drugs in a timely way (including systems for starting investigations) in line with <a href=&quot;http://www.legislation.gov.uk/uksi/2013/373/regulation/11/made&quot; title=&quot;UK Legislation Web site: Regulation 11&quot;>Regulation 11</a> and <a href=&quot;http://www.legislation.gov.uk/uksi/2013/373/regulation/13/made&quot; title=&quot;UK Legislation Web site: Regulation 13&quot;>Regulation 13</a> of the 2013 Regulations. This should involve liaising with the following responsible bodies: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A designated body </li>
+    <li>The Care Quality Commission </li>
+    <li>NHS Protect </li>
+    <li>A police force </li>
+    <li>A relevant regulated body </li>
+</ul>
+<p><strong>Identifying and Reporting Trends and Barriers</strong></p>
+<p>NHS England lead controlled drugs accountable officers should consider identifying trends in incidents reported and barriers to reporting. </p>
+<p><strong>Reviewing Concerns and Incidents and Sharing Information</strong></p>
+<p>An organisation's controlled drugs accountable officer or nominated person should: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Review controlled drug-related concerns or incidents and take any action needed on a case-by-case basis </li>
+    <li>Share information and learning throughout the organisation from controlled drug local intelligence networks </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Strength of Recommendations</strong></p>
+<p>Some recommendations can be made with more certainty than others, depending on the quality of the underpinning evidence. The Committee makes a recommendation based on the trade-off between the benefits and harms of a system, process or an intervention, taking into account the quality of the underpinning evidence. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><em>Interventions That Must (or Must Not) Be Used </em></p>
+<p>The Committee usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally the Committee uses 'must' (or 'must not') if the consequences of not following the recommendation could be extremely serious or potentially life threatening. </p>
+<p><em>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation</em></p>
+<p>The Committee uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of people, a system, process or an intervention will do more good than harm, and be cost effective. Similar forms of words (for example, 'Do not offer&amp;hellip;') are used when the Committee is confident that an intervention will not be of benefit for most people. </p>
+<p><em>Interventions That Could Be Used </em></p>
+<p>The Committee uses 'consider' when confident that a system, process or an intervention will do more good than harm for most people, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the person's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the person. </p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A National Institute for Health and Care Excellence (NICE) pathway titled &quot;Controlled drugs: safe use and management overview&quot; is available from the <a href=&quot;https://pathways.nice.org.uk/pathways/controlled-drugs-safe-use-and-management&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Conditions requiring treatment with controlled drugs</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Nursing"/>
+      <fieldvalue value="Pharmacology"/>
+      <fieldvalue value="Preventive Medicine"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Dentists"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Other"/>
+      <fieldvalue value="Patients"/>
+      <fieldvalue value="Pharmacists"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Public Health Departments"/>
+      <fieldvalue value="Social Workers"/>
+      <fieldvalue value="Substance Use Disorders Treatment Providers"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To review the evidence available to support health and social care practitioners, and health and social care organisations, in considering the systems and processes required to ensure safe and effective use of controlled drugs </li>
+    <li>To bring together legislation, policy advice, good practice advice, published evidence together with committee experience and opinion in developing the recommendations </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>All health and social care practitioners </li>
+    <li>Organisations commissioning (for example clinical commissioning groups or local authorities), providing or supporting the provision of National Health Service (NHS) and other publicly funded services using controlled drugs </li>
+    <li>Adults, young people and children (including neonates) using or taking controlled drugs, or those caring for these groups </li>
+</ul>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Developing and establishing systems and processes for organisations
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Governance arrangements and accountability </li>
+        <li>Policies, processes and procedures </li>
+        <li>Processes and procedures for storage, stock checks and audits; transportation; and destruction and disposal </li>
+    </ul>
+    </li>
+    <li>Record keeping for organisations
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Controlled drugs registers </li>
+        <li>Requisitions, records of destruction and invoices </li>
+        <li>Using a locally determined standard requisition form </li>
+    </ul>
+    </li>
+    <li>Risk assessment for organisations </li>
+    <li>Processes for reporting controlled drug-related incidents </li>
+    <li>Prescribing controlled drugs
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Making and recording prescribing decisions </li>
+        <li>Providing information and advice to people taking or carers administering controlled drugs </li>
+        <li>Reviewing repeat prescriptions and anticipatory prescribing </li>
+    </ul>
+    </li>
+    <li>Obtaining and supplying controlled drugs
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Standards and safety checks for supplying controlled drugs </li>
+        <li>Providing information and advice to people receiving controlled drugs </li>
+        <li>Recording supplies in the controlled drug register </li>
+        <li>Using requisition forms to obtain stock controlled drugs </li>
+        <li>Part supplies of stock controlled drugs </li>
+    </ul>
+    </li>
+    <li>Administering controlled drugs
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Standards and safety checks for administering controlled drugs </li>
+        <li>Providing information and advice to people having controlled drugs administered </li>
+        <li>Records of administration </li>
+        <li>Using continuous administration for controlled drugs </li>
+        <li>Recording left over controlled drugs in the controlled drug register </li>
+    </ul>
+    </li>
+    <li>Handling controlled drugs
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Records of handling controlled drugs </li>
+        <li>Providing information and advice on storage to people prescribed controlled drugs </li>
+        <li>Witnessing and recording the destruction and disposal of stock or returned controlled drugs </li>
+        <li>Safely destroying and disposing of controlled drugs </li>
+    </ul>
+    </li>
+    <li>Monitoring the use of controlled drugs
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Governance and safety in the use of controlled drugs </li>
+        <li>Systems for reporting concerns and incidents </li>
+        <li>Identifying and reporting trends and barriers </li>
+        <li>Reviewing concerns and incidents and sharing information </li>
+    </ul>
+    </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Refer to Appendix B in the full guideline appendices (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance and related appendices.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Developing the Review Questions and Outcomes</span></strong></p>
+<p><strong>Review Questions </strong></p>
+<p>Review questions were developed in a PICO (patient, intervention, comparison and outcome) format and intervention reviews were carried out. For each review question a review protocol was developed. The review protocols then informed the literature search strategy for each review question. The methods used are outlined in chapter 4 of <em>Developing NICE guidelines: the manual</em> (2014) (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p>During the scoping phase 5 review questions were identified. These were all questions to identify the effectiveness and cost effectiveness of interventions. Review questions are usually best answered by randomised controlled trials (RCTs), because this is most likely to give an unbiased estimate of the effects of an intervention. However, in line with the <em>Developing NICE guidelines: the manual</em> (2014) the best available evidence on which to produce the guideline may include evidence other than RCTs. </p>
+<p>The Committee discussed the draft review questions at Committee meetings and agreed that minor changes were needed to several outlined in the final scope document; see Table 1 in the full version of the guideline.</p>
+<p>The Committee agreed to add in for clarity the regulation to which the Schedules of controlled drugs are defined. In total, 5 review questions were finalised by the Committee. </p>
+<p><strong>Writing the Review Protocols </strong></p>
+<p>A review protocol was developed for each review question. The final review protocols can be found in Appendix C.2. </p>
+<p>Review protocols outline the background, the objectives and planned methods to be used to undertake the review of evidence to answer the review question. They explain how each review is to be carried out and help the reviewer plan and think about different stages. They also provide some protection against the introduction of bias and allow for the review to be repeated by others at a later date.</p>
+<p>Each review protocol includes:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The review question </li>
+    <li>Objectives of the evidence review </li>
+    <li>Type of review </li>
+    <li>Language </li>
+    <li>Legislation and regulation </li>
+    <li>Policy and guidance </li>
+    <li>Study design/evidence type </li>
+    <li>Status </li>
+    <li>Population </li>
+    <li>Intervention </li>
+    <li>Comparator </li>
+    <li>Outcomes </li>
+    <li>Other criteria for inclusion or exclusion of studies </li>
+    <li>Search strategies </li>
+    <li>Review strategies </li>
+    <li>Identified papers from scoping search and Committee experience that address the review question </li>
+</ul>
+<p>Additionally, for each review protocol the Committee considered how any equality issues could be addressed in planning the review work.</p>
+<p>Each review protocol was discussed and agreed by the Committee. This included the Committee agreeing the critical and important outcomes for each review question. These are shown in the review protocols.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Searching for Evidence</span></strong></p>
+<p><strong>Clinical Literature Searching </strong></p>
+<p>Scoping searches were undertaken in August 2014 in order to identify previous guidelines, technology assessment reports, and key published documents and reports relevant to the topic. A list of sources searched can be found in Appendix C.1.</p>
+<p>Systematic literature searches were carried out by an information specialist from the National Institute for Health and Care Excellence (NICE) guidance information services between February 2015 and April 2015 to identify published evidence relevant to the review questions. The evidence search strategies can be found in Appendix C1.2. Searches were carried out according to the methods in the <em>Developing NICE guidelines: the manual</em>. Databases were searched using relevant medical subject headings and free-text terms. Studies published in languages other than English were not reviewed. The following databases were searched for all questions: MEDLINE, EMBASE, PsycINFO, PubMed and the Cochrane Library. Citation searches were also undertaken in Web of Science and Google Scholar. No papers published after the date of the search were considered in the evidence review. </p>
+<p><strong>Health Economic Literature Searching</strong></p>
+<p>Systematic literature searches were carried out by an information specialist from NICE guidance information services between February 2015 and April 2015 to identify all published health economic evidence relevant to the review questions. The health economic evidence search strategies can be found in Appendix C1.3. Searches were carried out according to the methods in the <em>Developing NICE guidelines: the manual</em>. Medline and EMBASE were searched using specific economic evaluation and quality of life search filters. The Database of Abstracts of Reviews of Effects (DARE) and the National Health Service Economic Evaluation Database (NHS EED) were searched using topic terms. Studies published in languages other than English were not reviewed. No papers published after the date of the search were considered in the evidence review.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Reviewing the Evidence</strong></span></p>
+<p>The evidence retrieved from the search strategy was systematically reviewed for each review protocol. Evidence identified from the literature search was reviewed by title and abstract (first sift) in Reference Manager. Those studies not meeting the inclusion criteria were excluded. Full papers of the included studies were requested. All full text papers were then reviewed and those studies not meeting the inclusion criteria were excluded (second sift).</p>
+<p><strong>Inclusion and Exclusion Criteria </strong></p>
+<p>Selection of relevant studies was carried out by applying the inclusion and exclusion criteria listed in the review protocols (see Appendix C.2). All excluded studies including reasons for exclusion can be found in Appendix C.5. The Committee was consulted about any uncertainty and made the final decision for inclusion or exclusion of these studies.</p>
+<p><strong>Types of Studies</strong></p>
+<p>Only evidence in the English language was considered. For all review questions the following types of studies were considered in the reviews:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Systematic reviews of RCTs </li>
+    <li>RCTs </li>
+    <li>Observational studies (where RCTs not available) </li>
+</ul>
+<p>For this guideline, legislation and national policy documents were included in the evidence review. Use of controlled drugs must comply with legislation and this was used to underpin the recommendations. National policy advice from national organisations provided controlled drugs-related safety data and these were summarised in evidence tables.</p>
+<p>National guidance from the UK, Europe and other countries with similar developed health systems, for example Australia, Canada and New Zealand, was used in the evidence reviews where relevant to the review question.</p>
+<p>There were no systematic reviews of RCTs identified for this guideline. In the absence of RCT evidence, some review questions included non-NICE accredited guidance, qualitative studies, audit reports, questionnaires and/or professional guidance. National policy documents relating to patient safety were included as part of the evidence reviews for all the review questions.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>See Appendix C.3: Clinical Consort Diagrams and Appendix C.4: Economic Consort Diagrams in the full guideline appendices (see the &quot;Availability of Companion Documents&quot; field) for detailed information on results of literature searches and the number of included and excluded studies for each review question.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;>Level</th>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>High</th>
+            <td valign=&quot;top&quot;>Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Moderate</th>
+            <td valign=&quot;top&quot;>Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Low</th>
+            <td valign=&quot;top&quot;>Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Very Low</th>
+            <td valign=&quot;top&quot;>Any estimate of effect is very uncertain.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance and related appendices.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Reviewing the Evidence</span></strong></p>
+<p>The evidence retrieved from the search strategy was systematically reviewed for each review protocol. </p>
+<p>Relevant data from each included study was extracted and included in the 'Summary of included studies' table. These tables can be found in the relevant 'Evidence review' section of each chapter of the full version of the guideline. An overview of the systematic review process followed is outlined in Figure 1 in the full version of the guideline.</p>
+<p><strong>Types of Studies</strong></p>
+<p>Characteristics of data from included evidence were extracted into a standard template for inclusion in an evidence table, which can be found in Appendix D. Evidence tables help to identify the similarities and differences between the types of evidence used, including the key characteristics of the study population and interventions or outcome measures or themes of good practice. This provides a basis for comparison. Each evidence table includes: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Bibliographic reference </li>
+    <li>Evidence/study type </li>
+    <li>Evidence/study quality </li>
+    <li>Research parameters </li>
+    <li>Population </li>
+    <li>Themes/intervention/systems/processes </li>
+    <li>Limitations </li>
+    <li>Additional comments </li>
+</ul>
+<p>Characteristics of data from included national policy documents were also extracted into evidence tables. The evidence table includes: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Source of evidence, for example NHS England, Medicines and Healthcare products Regulatory Agency (MHRA) or Care Quality Commission (CQC) </li>
+    <li>Title of the alert/report </li>
+    <li>Reason for the alert/report </li>
+    <li>Actions outlines in the alert/report </li>
+</ul>
+<p>All studies were quality assessed using the appropriate NICE methodology checklist; see Appendix H in <em>Developing NICE guidelines: the manual</em> (2014) (see the &quot;Availability of Companion Documents&quot; field). The <a href=&quot;http://www.hqip.org.uk/&quot; title=&quot;Healthcare Quality Improvement Partnership (HQIP) Web site&quot;>Healthcare Quality Improvement Partnership (HQIP)</a> 'Criteria for high quality clinical audit' was used to assess the methodology of audits. The quality of the included international guidelines was assessed using the international criteria of quality for guidance development, as outlined by the <a href=&quot;http://www.agreetrust.org/&quot; title=&quot;AGREE Web site&quot;>Appraisal of Guidelines for Research and Evaluation (AGREE) II</a> instrument.</p>
+<p><strong>Data Analysis for the Evidence Reviews </strong></p>
+<p>Out of the 5 review questions, only 1 randomised controlled trial (RCT) that looked at an intervention was included for the review question on administering controlled drugs. A meta-analysis was not carried out as there was only one RCT included. For this reason there was no assessment of heterogeneity. </p>
+<p>Risk ratios (relative risk) were calculated for the dichotomous outcomes, such as retention in treatment for substance misuse. Mean differences were calculated for continuous outcomes, such as reduction in days of heroin use. GRADEpro software was used to calculate risk ratios and mean differences. Criteria such as the width of the confidence intervals and the number of events (as defined and reported in the study) were used to make judgements about imprecision and to assess the uncertainty of the results. When imprecision was apparent the quality of the evidence was downgraded (see Table 3 in the full version of the guideline). </p>
+<p>Data and outcomes extracted from national policy documents, professional guidance, questionnaires and audits were summarised as a short narrative or key points or themes in the 'summary of included references' table for each review question. Data were not combined for any of the reviews. </p>
+<p><strong>Appraising the Quality of Evidence by Outcomes</strong> </p>
+<p>Legislation and policy does not need quality assessment in the same way as other evidence, given the nature of the source. Recommendations from national policy or legislation are quoted verbatim in the full guideline, where needed. </p>
+<p>Evidence was appraised for outcomes identified from the included RCT using 'Grading of Recommendations Assessment, Development and Evaluation (GRADE)' approach to assess the quality of evidence by outcomes. Developing NICE guidelines: the manual (2014) explains that 'GRADE is a system developed by an international working group for rating the quality of evidence across outcomes in systematic reviews and guidelines. The system is designed for reviews and guidelines that examine alternative management strategies or interventions, and these may include no intervention or current best management.' For each outcome GRADEpro was used to assess the quality of the study, considering the individual study quality factors. Results of the analysis were presented in 'GRADE profiles' (see Appendix D.2 for the GRADE profiles).</p>
+<p>The evidence for each outcome was examined separately for the quality elements listed and defined in Table 2 in the full version of the guideline. Each element was graded using the quality levels listed in Table 3 in the full version of the guideline. The main criteria considered in the rating of these elements are discussed below. Footnotes were used to describe reasons for grading a quality element as having serious or very serious problems. The ratings for each component were summed to obtain an overall quality assessment for each outcome (see the &quot;Rating Scheme for the Strength of the Evidence&quot; field).</p>
+<p>For the evidence included for the review questions on prescribing, obtaining and supplying, handling and monitoring of controlled drugs (qualitative, audits and a questionnaire), the GRADE framework was not considered appropriate. </p>
+<p><strong>Evidence Statements (Summarising and Presenting Results for Effectiveness)</strong> </p>
+<p>Evidence statements for outcomes were developed to include a summary of the key features of the evidence. For each question, evidence statements for effectiveness of the intervention, system or process and cost effectiveness were produced to summarise the evidence. The Committee used these in their review of the evidence and to support their decision-making when linking evidence to recommendations. The wording of the statement reflects the certainty or uncertainty in the estimate of effect.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Evidence of Cost-effectiveness</span></strong></p>
+<p>The Committee needs to make recommendations based on the best available evidence of clinical and cost-effectiveness. Guideline recommendations should be based on the estimated costs of the interventions or services in relation to their expected health benefits (that is, their 'cost-effectiveness'), rather than on the total cost or resource impact of implementing them. Thus, if the evidence suggests that an intervention or service provides significant health benefits at an acceptable cost per person treated, it should be recommended even if it would be expensive to implement across the whole population. </p>
+<p>Evidence on cost-effectiveness related to the key issues addressed in the guideline was sought. The health economist undertook a systematic review of the published economic literature (see Appendices C.1.3 and C.4 for details of the searches and search results), including critical appraisal of relevant studies using the economic evaluations checklist as specified in Appendix H of Developing NICE guidelines: the manual (2014). </p>
+<p>Economic modelling was not carried out for this guideline as there was no relevant evidence or information identified. </p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+      <fieldvalue value="Informal Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance and related appendices.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Who Developed the Guideline?</span></strong></p>
+<p>A multidisciplinary Committee comprising of health and social care practitioners, members from relevant national organisations and lay members developed this guideline.</p>
+<p>The National Institute for Health and Care Excellence (NICE) developed the guideline. The Committee was convened by the NICE Medicines and Prescribing Programme, in accordance with guidance from NICE and <em>Developing NICE guidelines: the manual</em> (2014) (see the &quot;Availability of Companion Documents&quot; field). The Committee met regularly during the development of the guideline. </p>
+<p>Staff from the NICE Medicines and Prescribing Programme provided methodological support and guidance for the development process. The team working on the guideline included an assistant project manager, systematic reviewer (senior adviser), health economist, information scientists and a project lead (associate director). They undertook systematic searches of the literature, appraised the evidence, conducted data analysis and cost effectiveness analysis where appropriate, and drafted the guideline in collaboration with the Committee.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Developing Recommendations</span></strong></p>
+<p>The Committee reviewed the effectiveness (including cost-effectiveness) of evidence in the context of each of the 5 review questions to develop recommendations that would be useful to health and social care practitioners and commissioning and provider organisations. </p>
+<p>The recommendations were drafted based on the Committee's interpretation of the evidence presented, where they considered the relative values of different outcomes, trade-offs between benefits and harms, quality of the evidence, costs of different interventions and other factors they may need to be considered in relation to the intervention. </p>
+<p>For each review question, the effectiveness of the intervention, systems or process identified from the evidence was presented first, considering the net benefit over harm for the prioritised critical outcomes (as set out in the review protocols [see Appendix C.2]). This involved an informal discussion, details of which are captured in the 'Evidence to recommendations' table for each review question in the full version of the guideline.</p>
+<p>The Committee then reviewed any cost-effectiveness evidence where available and considered how this impacted on the decisions made after presentation of the clinical and cost-effectiveness evidence. The recommendation wording considered the quality of the evidence and the confidence the Committee had in the evidence that was presented, in addition to the importance of the prioritised outcomes (the Committee's values and preferences). </p>
+<p>Where the effectiveness (including cost-effectiveness) of the evidence was of poor quality, conflicting or absent, the Committee drafted recommendations based on their expert opinion. Consensus-based recommendations considered the balance between potential benefits and harms, economic costs compared with benefits, current practice, other guideline recommendations, individual preferences and equality issues, and were agreed through discussion with the Committee. </p>
+<p>The wording of the recommendations took into account the strength of the evidence and wording was based on the principles in Chapter 9 of <em>Developing NICE guidelines: the manual</em> (2014). Some recommendations are strong in that the Committee believes that the vast majority of health and social care practitioners and people would choose a particular intervention if they considered the evidence in the same way that the Committee has. This is generally the case if the benefits of an intervention outweigh the harms for most people and the intervention is likely to be cost effective. Where the balance between benefit and harm is less clear cut, then the recommendations are 'weaker'; some people may not choose an intervention, whereas others would. Recommendations for practice that 'must' or that 'must not' be followed are usually included only if there is a legal requirement to apply the recommendation except occasionally when there are serious consequences of not following a recommendation (for example, there is a high safety risk) (see the &quot;Rating Scheme for the Strength of the Recommendations&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Strength of Recommendations</span></strong></p>
+<p>Some recommendations can be made with more certainty than others, depending on the quality of the underpinning evidence. The Committee makes a recommendation based on the trade-off between the benefits and harms of a system, process or an intervention, taking into account the quality of the underpinning evidence. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><strong>Interventions That Must (or Must Not) Be Used </strong></p>
+<p>The Committee usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally the Committee uses 'must' (or 'must not') if the consequences of not following the recommendation could be extremely serious or potentially life threatening. </p>
+<p><strong>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation </strong></p>
+<p>The Committee uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of people, a system, process or an intervention will do more good than harm, and be cost effective. Similar forms of words (for example, 'Do not offer&amp;hellip;') are used when the Committee is confident that an intervention will not be of benefit for most people. </p>
+<p><strong>Interventions That Could Be Used </strong></p>
+<p>The Committee uses 'consider' when confident that a system, process or an intervention will do more good than harm for most people, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the person's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the person. </p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>See the &quot;Economic Evidence&quot; sections for each review question in the full version of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Validation Process</span></strong></p>
+<p>This guideline was subject to a 4-week public consultation. This allowed stakeholders, members of the public and other National Institute for Health and Care Excellence (NICE) teams to peer review the document as part of the quality assurance process. All comments received from registered stakeholders within the specified deadline were responded to. All comments received and responses given are available on the NICE Web site. See Chapter 10 of Developing NICE guidelines: the manual (2014) (see the &quot;Availability of Companion Documents&quot; field) for more information on the validation process for draft guidelines, and dealing with stakeholder comments.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of evidence supporting each recommendation is not specifically stated.</p>
+<p>See the &quot;Types of Studies&quot; section in the &quot;Description of Methods Used to Collect/Select the Evidence&quot; field for information on the type of studies used to formulate the recommendations.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Safe management of controlled drugs </li>
+    <li>Appropriate and convenient access for those people who need treatment with controlled drugs </li>
+    <li>Minimisation of harms associated with controlled drugs by having robust systems and processes in place </li>
+</ul>
+<p>Refer to the &quot;Trade-off between benefits and harms&quot; sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for details about benefits of specific systems, processes, policies and interventions for use of controlled drugs.</p>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Committee highlighted that when prescribing controlled drugs to a person for treatment a balanced approach should be undertaken using clinical judgement, and taking into account that the presence of barriers could lead to patient harm. The Committee discussed that because of the nature of controlled drugs and the regulations associated with them, sometimes the general principles of good practice for prescribing can be overlooked as prescribers are often concerned about complying to regulations and associated accountability for how the controlled drug may be used by the person they prescribe it to (for example diversion, misuse or patient safety incidents). The Committee discussed that rather than considering the clinical aspects of prescribing the controlled drug such as the clinical need, in some cases the technical aspects such as prescription writing requirements may affect the decision to prescribe a controlled drug. The Committee was concerned that this may affect the person's access to the controlled drug.</p>
+<p>Refer to the &quot;Trade-off between benefits and harms&quot; sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for details about potential harms of specific systems, processes, policies and interventions for use of controlled drugs.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The recommendations in this guideline represent the view of the National Institute for Health and Care Excellence (NICE), arrived at after careful consideration of the evidence available. When exercising their judgement, professionals are expected to take this guideline fully into account, alongside the individual needs, preferences and values of their patients or service users. The application of the recommendations in this guideline are not mandatory and the guideline does not override the responsibility of healthcare professionals to make decisions appropriate to the circumstances of the individual patient, in consultation with the patient and/or their carer or guardian. </li>
+    <li>Local commissioners and/or providers have a responsibility to enable the guideline to be applied when individual health professionals and their patients or service users wish to use it. They should do so in the context of local and national priorities for funding and developing services, and in light of their duties to have due regard to the need to eliminate unlawful discrimination, to advance equality of opportunity and to reduce health inequalities. Nothing in this guideline should be interpreted in a way that would be inconsistent with compliance with those duties. </li>
+    <li>Healthcare professionals are expected to take NICE clinical guidelines fully into account when exercising their clinical judgement. However, the guidance does not override the responsibility of healthcare professionals to make decisions appropriate to the circumstances of each patient, in consultation with the patient and, where appropriate, their guardian or carer. </li>
+    <li>For all recommendations, NICE expects that there is discussion with the patient about the risks and benefits of the interventions, and their values and preferences. This discussion aims to help them to reach a fully informed decision (see also &quot;Patient-centred care&quot; in the full version of the guideline [see the &quot;Availability of Companion Documents&quot; field]). </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Putting This Guideline into Practice</span></strong></p>
+<p>The National Institute for Health and Care Excellence (NICE) has produced <a href=&quot;https://www.nice.org.uk/guidance/ng46/resources&quot; title=&quot;NICE Web site&quot;>tools and resources</a> to help you put this guideline into practice (see also the &quot;Availability of Companion Documents&quot; field). </p>
+<p>Putting recommendations into practice can take time. How long may vary from guideline to guideline, and depends on how much change in practice or services is needed. Implementing change is most effective when aligned with local priorities. </p>
+<p>Changes recommended for clinical practice that can be done quickly &amp;ndash; like changes in prescribing practice &amp;ndash; should be shared quickly. This is because healthcare professionals should use guidelines to guide their work &amp;ndash; as is required by professional regulating bodies such as the General Medical and Nursing and Midwifery Councils. </p>
+<p>Changes should be implemented as soon as possible, unless there is a good reason for not doing so (for example, if it would be better value for money if a package of recommendations were all implemented at once). </p>
+<p>Different organisations may need different approaches to implementation, depending on their size and function. Sometimes individual practitioners may be able to respond to recommendations to improve their practice more quickly than large organisations. </p>
+<p>Here are some pointers to help organisations put NICE guidelines into practice: </p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li><strong>Raise awareness</strong> through routine communication channels, such as email or newsletters, regular meetings, internal staff briefings and other communications with all relevant partner organisations. Identify things staff can include in their own practice straight away. </li>
+    <li><strong>Identify a lead</strong> with an interest in the topic to champion the guideline and motivate others to support its use and make service changes, and to find out any significant issues locally. </li>
+    <li><strong>Carry out a baseline assessment</strong> against the recommendations to find out whether there are gaps in current service provision. </li>
+    <li><strong>Think about what data you need to measure improvement</strong> and plan how you will collect it. You may want to work with other health and social care organisations and specialist groups to compare current practice with the recommendations. This may also help identify local issues that will slow or prevent implementation. </li>
+    <li><strong>Develop an action plan</strong>, with the steps needed to put the guideline into practice, and make sure it is ready as soon as possible. Big, complex changes may take longer to implement, but some may be quick and easy to do. An action plan will help in both cases. </li>
+    <li><strong>For very big changes</strong> include milestones and a business case, which will set out additional costs, savings and possible areas for disinvestment. A small project group could develop the action plan. The group might include the guideline champion, a senior organisational sponsor, staff involved in the associated services, finance and information professionals. </li>
+    <li><strong>Implement the action plan</strong> with oversight from the lead and the project group. Big projects may also need project management support. </li>
+    <li><strong>Review and monitor</strong> how well the guideline is being implemented through the project group. Share progress with those involved in making improvements, as well as relevant boards and local partners. </li>
+</ol>
+<p>NICE provides a comprehensive programme of support and resources to maximise uptake and use of evidence and guidance. See the <a href=&quot;https://www.nice.org.uk/about/what-we-do/into-practice&quot; title=&quot;NICE Web site&quot;>into practice</a> pages for more information. </p>
+<p>Also see Leng G, Moore V, Abraham S, editors (2014) Achieving high quality care &amp;ndash; practical experience from NICE. Chichester: Wiley. </p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Foreign Language Translations"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="End of Life Care"/>
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+      <fieldvalue value="Safety"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Institute for Health and Care Excellence (NICE). Controlled drugs: safe use and management. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Apr 12. 29 p.&amp;nbsp;(NICE guideline; no. 46).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2016 Apr 12"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="National Institute for Health and Care Excellence (NICE) - National Government Agency [Non-U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The National Institute for Health and Care Excellence (NICE) commissioned the NICE Medicines and Prescribing Programme to produce this guideline.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Guideline Committee</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Committee Members</em>: Tessa Lewis (<em>Chair</em>) General Practitioner &amp;amp; Medical Adviser, All Wales Therapeutics and Toxicology Centre; Graham Brack, Deputy Accountable Officer, National Health Service (NHS) England Area Team for Devon, Cornwall &amp;amp; Isles of Scilly; Weeliat Chong, Chief Pharmacist, Humber NHS Foundation Trust; Cathy Cooke, Head of Medicines Management, Allied Healthcare; Sarah Dennison, National Controlled Drugs Manager, Care Quality Commission; Christopher French, Lay Member; Margaret Gibbs, Specialist Senior Pharmacist, St Christopher's Hospice; Devina Halsall, Controlled Drugs Accountable Officer, NHS England Merseyside; Roger Knaggs, Associate Professor in Clinical Pharmacy Practice, University of Nottingham; Lehane Ryland, Advanced Nurse Practitioner, Cwm Taf Health Board, Community Drug and Alcohol Team; Catherine Stannard, Consultant in Pain Medicine, Southmead Hospital; Duncan Williams, General Practitioner; Colin Wilkinson, Lay Member; Mark Woolcock, Urgent Care Practitioner, South Western Ambulance Service NHS Trust</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>At the start of the guideline development process all Committee members declared interests in line with the National Institute for Health and Care Excellence (NICE) <a href=&quot;https://www.nice.org.uk/About/Who-we-are/policies-and-procedures&quot; title=&quot;NICE Web site&quot;>Conflict of interest policy</a>, this included any consultancies, fee-paid work, share-holdings, fellowships and support from the healthcare industry. At all subsequent Committee meetings, members declared any new or changes to interests previously declared. If a member's declared interest could be a conflict in the development of the guideline, the Chair asked the member to either withdraw completely or for part of the discussion in line with the NICE <a href=&quot;https://www.nice.org.uk/About/Who-we-are/policies-and-procedures&quot; title=&quot;NICE Web site&quot;>Conflict of interest policy</a> and Developing NICE guidelines: the manual (2014) (see Chapter 3) (see the &quot;Availability of Companion Documents&quot; field). The details of declared interests and the actions taken are shown in Appendix A in the full guideline appendices (see the &quot;Availability of Companion Documents&quot; field). </p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline. </p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng46&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. Also available for download in ePub or eBook formats from the <a href=&quot;https://www.nice.org.uk/guidance/ng46&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Controlled drugs: safe use and management. Full guideline. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Apr. 122 p. (NICE guideline; no. 46). Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng46/evidence/full-guideline-2427186353&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. </li>
+    <li>Controlled drugs: safe use and management. Appendices A-F. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Apr. 149 p. (NICE guideline; no. 46). Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng46/evidence/appendices-af-2427186352&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Controlled drugs: safe use and management. Baseline assessment tool. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Apr. (NICE guideline; no. 46). Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng46/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Developing NICE guidelines: the manual 2014. London (UK): National Institute for Health and Care Excellence (NICE); 2014 Oct. Available from the <a href=&quot;https://www.nice.org.uk/process/pmg20/chapter/1-introduction-and-overview&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Using and looking after controlled medicines safely. Information for the public. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Apr. 4 p. (NICE guideline; no. 46). Available in <a href=&quot;https://www.nice.org.uk/guidance/ng46/ifp/chapter/Information-for-people-using-and-looking-after-controlled-medicines&quot; title=&quot;NICE Web site&quot;>English</a> and <a href=&quot;https://www.nice.org.uk/guidance/ng46/resources/gwybodaeth-ir-cyhoedd-welsh-2553345469&quot; title=&quot;NICE Web site&quot;>Welsh</a> from the National Institute for Health and Care Excellence (NICE) Web site. Also available for download in ePub or eBook formats from the <a href=&quot;https://www.nice.org.uk/guidance/ng46/ifp/chapter/Information-for-people-using-and-looking-after-controlled-medicines&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul>
+<p class=&quot;Note&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on August 12, 2016. This summary was updated by ECRI Institute on October 21, 2016 following the U.S. Food and Drug Administration advisory on opioid pain and cough medicines combined with benzodiazepines.</p>
+<p>The National Institute for Health and Care Excellence (NICE) has granted the National Guideline Clearinghouse (NGC) permission to include summaries of their clinical guidelines with the intention of disseminating and facilitating the implementation of that guidance. NICE has not yet verified this content to confirm that it accurately reflects that original NICE guidance and therefore no guarantees are given by NICE in this regard. All NICE clinical guidelines are prepared in relation to the National Health Service in England and Wales. NICE has not been involved in the development or adaptation of NICE guidance for use in any other country. The full versions of all NICE guidance can be found at <a href=&quot;http://www.nice.org.uk&quot; title=&quot;NICE Web site&quot;>www.nice.org.uk</a>.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 01:27:21 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:32:46 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 327.756 (3)
+  esindex: 0.007
+  captures_list: 343.693
+  CDXLines.iter: 12.166 (3)
+  PetaboxLoader3.datanode: 333.097 (4)
+  exclusion.robots: 0.374
+  exclusion.robots.policy: 0.36
+  RedisCDXSource: 0.69
+  PetaboxLoader3.resolve: 85.415
+  load_resource: 113.65
+-->

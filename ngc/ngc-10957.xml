@@ -1,0 +1,664 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app16.us.archive.org';v.server_ms=882;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10957?contentType=xml', '20171002222000')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20171002222000/https://www.guideline.gov/summaries/downloadcontent/ngc-10957?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20171002222000/https://www.guideline.gov/summaries/downloadcontent/ngc-10957?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10957?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20171002222000" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930185045/https://www.guideline.gov/summaries/downloadcontent/ngc-10957?contentType=xml" title="30 Sep 2016"><strong>Sep</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 22:20:00 Oct 02, 2017">OCT</td>
+		  <td class="f" nowrap="nowrap">Nov</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930185045/https://www.guideline.gov/summaries/downloadcontent/ngc-10957?contentType=xml" title="18:50:45 Sep 30, 2016"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 22:20:00 Oct 02, 2017">02</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930185045/https://www.guideline.gov/summaries/downloadcontent/ngc-10957?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 22:20:00 Oct 02, 2017">2017</td>
+		  <td class="f" nowrap="nowrap">2018</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20171002222000*/https://www.guideline.gov/summaries/downloadcontent/ngc-10957?contentType=xml" title="See a list of every capture for this URL">2 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 02 Oct 2017</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10957?contentType=xml","2017-10-02",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Use of biomarkers to guide decisions on adjuvant systemic therapy for women with early-stage invasive breast cancer: American Society of Clinical Oncology clinical practice guideline.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Harris LN, Ismaila N, McShane LM, Andre F, Collyar DE, Gonzalez-Angulo AM, Hammond EH, Kuderer NM, Liu MC, Mennel RG, Van Poznak C, Bast RC, Hayes DF. Use of biomarkers to guide decisions on adjuvant systemic therapy for women with early-stage invasive breast cancer: American Society of Clinical Oncology clinical practice guideline. J Clin Oncol. 2016 Apr 1;34(10):1134-50. [82 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26858339&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note</strong>: This guideline has been updated. The National Guideline Clearinghouse (NGC) is working to update this summary. </p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note</strong>: This guideline has been updated. The National Guideline Clearinghouse (NGC) is working to update this summary. The recommendations that follow are based on the previous version of the guideline.</p>
+<p>Definitions for the rating of evidence (<strong>High</strong>, <strong>Intermediate</strong>, <strong>Low</strong>, <strong>Insufficient</strong>); types of recommendations (<strong>Evidence based</strong>, <strong>Formal consensus</strong>, <strong>Informal consensus</strong>, <strong>No recommendation</strong>); and strength of recommendations (<strong>Strong</strong>, <strong>Moderate</strong>, <strong>Weak</strong>) are provided at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Clinical Question 1</span></strong></p>
+<p>For women with early-stage invasive breast cancer and with known estrogen and progesterone receptor (ER/PgR) and human epidermal growth factor receptor 2 (HER2) status, which other biomarkers have demonstrated clinical utility to guide decisions on the need for adjuvant systemic therapy?</p>
+<p><strong>Recommendation 1.1</strong></p>
+<p>If a patient has ER/PgR-positive, HER2-negative (node-negative) breast cancer, the clinician may use the 21-gene recurrence score (RS) (Onco<em>type</em> DX; Genomic Health, Redwood City, CA) to guide decisions on adjuvant systemic chemotherapy. (<strong>Type: evidence based. Evidence quality: high. Strength of recommendation: strong</strong>.)</p>
+<p><strong>Recommendation 1.2</strong></p>
+<p>If a patient has ER/PgR-positive, HER2-negative (node-positive) breast cancer, the clinician should not use the 21-gene RS to guide decisions on adjuvant systemic chemotherapy. (<strong>Type: evidence based. Evidence quality: intermediate. Strength of recommendation: moderate</strong>.)</p>
+<p><strong>Recommendation 1.3</strong></p>
+<p>If a patient has HER2-positive breast cancer or triple-negative (TN) breast cancer, the clinician should not use the 21-gene RS (Onco<em>type</em> DX) to guide decisions on adjuvant systemic therapy. (<strong>Type: informal consensus. Evidence quality: insufficient. Strength of recommendation: strong</strong>.)</p>
+<p><strong>Recommendation 1.4</strong></p>
+<p>If a patient has ER/PgR-positive, HER2-negative (node-negative) breast cancer, the clinician may use the 12-gene risk score (EndoPredict; Sividon Diagnostics, Koln, Germany) to guide decisions on adjuvant systemic chemotherapy. (<strong>Type: evidence based. Evidence quality: intermediate. Strength of recommendation: moderate</strong>.)</p>
+<p><strong>Recommendation 1.5</strong></p>
+<p>If a patient has ER/PgR-positive, HER2-negative (node-positive) breast cancer, the clinician should not use the 12-gene risk score (EndoPredict) to guide decisions on adjuvant systemic chemotherapy. (<strong>Type: evidence based. Evidence quality: insufficient. Strength of recommendation: moderate</strong>.)</p>
+<p><strong>Recommendation 1.6</strong></p>
+<p>If a patient has HER2-positive breast cancer or TN breast cancer, the clinician should not use the 12-gene risk score (EndoPredict) to guide decisions on adjuvant systemic therapy. (<strong>Type: informal consensus. Evidence quality: insufficient. Strength of recommendation: strong</strong>.)</p>
+<p><strong>Recommendation 1.7</strong></p>
+<p>If a patient has ER/PgR-positive, HER2-negative (node-positive or node-negative) breast cancer, the clinician should not use the 70-gene assay (MammaPrint; Agendia, Irvine, CA) to guide decisions on adjuvant systemic chemotherapy. (<strong>Type: evidence based. Evidence quality: intermediate. Strength of recommendation: moderate</strong>.)</p>
+<p><strong>Recommendation 1.8</strong></p>
+<p>If a patient has HER2-positive breast cancer, the clinician should not use the 70-gene assay (MammaPrint) to guide decisions on adjuvant systemic therapy. (<strong>Type: informal consensus. Evidence quality: low. Strength of recommendation: moderate</strong>.)</p>
+<p><strong>Recommendation 1.9</strong></p>
+<p>If a patient has TN breast cancer, the clinician should not use the 70-gene assay (MammaPrint) to guide decisions on adjuvant systemic therapy. (<strong>Type: informal consensus. Evidence quality: insufficient. Strength of recommendation: strong</strong>.)</p>
+<p><strong>Recommendation 1.10</strong></p>
+<p>If a patient has ER/PgR-positive, HER2-negative (node-negative) breast cancer, the clinician may use the PAM50 risk of recurrence (ROR) score (Prosigna Breast Cancer Prognostic Gene Signature Assay; NanoString Technologies, Seattle, WA) in conjunction with other clinicopathologic variables to guide decisions on adjuvant systemic therapy. (<strong>Type: evidence based. Evidence quality: high. Strength of recommendation: strong</strong>.)</p>
+<p><strong>Recommendation 1.11</strong></p>
+<p>If a patient has ER/PgR-positive, HER2-negative (node-positive) breast cancer, the clinician should not use the PAM50-ROR to guide decisions on adjuvant systemic therapy. (<strong>Type: evidence based. Evidence quality: intermediate. Strength of recommendation: moderate</strong>.)</p>
+<p><strong>Recommendation 1.12</strong></p>
+<p>If a patient has HER2-positive breast cancer, the clinician should not use the PAM50-ROR to guide decisions on adjuvant systemic therapy. (<strong>Type: informal consensus. Evidence quality: insufficient. Strength of recommendation: strong</strong>.)</p>
+<p><strong>Recommendation 1.13</strong></p>
+<p>If a patient has TN breast cancer, the clinician should not use the PAM50-ROR to guide decisions on adjuvant systemic therapy. (<strong>Type: informal consensus. Evidence quality: insufficient. Strength of recommendation: strong</strong>.)</p>
+<p><strong>Recommendation 1.14</strong></p>
+<p>If a patient has ER/PgR-positive, HER2-negative (node-negative) breast cancer, the clinician may use the Breast Cancer Index (bioTheranostics, San Diego, CA) to guide decisions on adjuvant systemic therapy. (<strong>Type: evidence based. Evidence quality: intermediate. Strength of recommendation: moderate</strong>.)</p>
+<p><strong>Recommendation 1.15</strong></p>
+<p>If a patient has ER/PgR-positive, HER2-negative (node-positive) breast cancer, the clinician should not use the Breast Cancer Index to guide decisions on adjuvant systemic therapy. (<strong>Type: informal consensus. Evidence quality: insufficient. Strength of recommendation: strong</strong>.)</p>
+<p><strong>Recommendation 1.16</strong></p>
+<p>If a patient has HER2-positive breast cancer or TN breast cancer, the clinician should not use the Breast Cancer Index to guide decisions on adjuvant systemic therapy. (<strong>Type: informal consensus. Evidence quality: insufficient. Strength of recommendation: strong</strong>.)</p>
+<p><strong>Recommendation 1.17</strong></p>
+<p>If a patient has ER/PgR-positive, HER2-negative (node-positive or node-negative) breast cancer, the clinician should not use the five-protein assay (Mammostrat; Clarient, a GE Healthcare company, Aliso Viejo, CA) to guide decisions on adjuvant systemic therapy. (<strong>Type: evidence based. Evidence quality: intermediate. Strength of recommendation: moderate</strong>.)</p>
+<p><strong>Recommendation 1.18</strong> </p>
+<p>If a patient has HER2-positive breast cancer or TN breast cancer, the clinician should not use the five-protein assay (Mammostrat) to guide decisions on adjuvant systemic therapy. (<strong>Type: informal consensus. Evidence quality: insufficient. Strength of recommendation: strong</strong>.)</p>
+<p><strong>Recommendation 1.19</strong></p>
+<p>If a patient has ER/PgR-positive, HER2-negative (node-positive or node-negative) breast cancer, the clinician should not use the immunohistochemistry 4 (IHC4) assay to guide decisions on adjuvant systemic chemotherapy. (<strong>Type: evidence based. Evidence quality: intermediate. Strength of recommendation: moderate</strong>.)</p>
+<p><strong>Recommendation 1.20</strong></p>
+<p>If a patient has HER2-positive breast cancer or TN breast cancer, the clinician should not use IHC4 to guide decisions on adjuvant systemic therapy. (<strong>Type: informal consensus. Evidence quality: insufficient. Strength of recommendation: strong</strong>.)</p>
+<p><strong>Recommendation 1.21</strong></p>
+<p>If a patient has ER/PgR-positive, HER2-negative (node-negative) breast cancer, the clinician may use urokinase plasminogen activator (uPA) and plasminogen activator inhibitor type 1 (PAI-1) to guide decisions on adjuvant systemic therapy. (<strong>Type: evidence based. Evidence quality: high. Strength of recommendation: weak</strong>.)</p>
+<p><strong>Recommendation 1.22</strong></p>
+<p>If a patient has HER2-positive breast cancer or TN breast cancer, the clinician should not use uPA and PAI-1 to guide decisions on adjuvant systemic therapy. (<strong>Type: informal consensus. Evidence quality: insufficient. Strength of recommendation: weak</strong>.)</p>
+<p><strong>Recommendation 1.23</strong></p>
+<p>The clinician should not use circulating tumor cells (CTCs) to guide decisions on adjuvant systemic therapy. (<strong>Type: evidence based. Evidence quality: intermediate. Strength of recommendation: strong</strong>.)</p>
+<p><strong>Recommendation 1.24</strong></p>
+<p>If a patient has ER/PgR-positive, HER2-negative (node-positive or node-negative) breast cancer, the clinician should not use tumor-infiltrating lymphocytes (TILs) to guide decisions on adjuvant systemic therapy. (<strong>Type: informal consensus. Evidence quality: insufficient. Strength of recommendation: strong</strong>.)</p>
+<p><strong>Recommendation 1.25</strong></p>
+<p>If a patient has HER2-positive breast cancer or TN breast cancer, the clinician should not use TILs to guide decisions on adjuvant systemic therapy. (<strong>Type: evidence based. Evidence quality: intermediate. Strength of recommendation: strong</strong>.)</p>
+<p><strong>Recommendation 1.26</strong></p>
+<p>Ki-67 labeling index by IHC should not be used to guide choice on adjuvant chemotherapy. (<strong>Type: evidence based. Evidence quality: intermediate. Strength of recommendation: moderate</strong>.)</p>
+<p><strong>Recommendation 1.27</strong></p>
+<p>If a patient has ER/PgR-positive, HER2-negative (node-negative) breast cancer and has had 5 years of endocrine therapy without evidence of recurrence, the clinician should not use multiparameter gene expression or protein assays (Onco<em>type</em> DX, EndoPredict, PAM50, Breast Cancer Index, or IHC4) to guide decisions on extended endocrine therapy. (<strong>Type: evidence based. Evidence quality: intermediate. Strength of recommendation: moderate</strong>.)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Clinical Question 2</span></strong></p>
+<p>For women with early-stage invasive breast cancer and with known ER/PgR and HER2 status, which additional biomarkers have demonstrated clinical utility to guide choice of specific drugs or regimens for adjuvant systemic therapy?</p>
+<p><strong>Recommendation 2.1</strong></p>
+<p>The clinician should not use cytochrome P450 2D6 (<em>CYP2D6</em>) polymorphisms to guide adjuvant endocrine therapy selection. (<strong>Type: evidence based. Evidence quality: intermediate. Strength of recommendation: moderate</strong>.)</p>
+<p><strong>Recommendation 2.2</strong></p>
+<p>The clinician should not use p27 expression by IHC to guide adjuvant endocrine therapy selection. (<strong>Type: informal consensus. Evidence quality: low. Strength of recommendation: strong</strong>.)</p>
+<p><strong>Recommendation 2.3</strong></p>
+<p>The clinician should not use Ki-67 labeling index by IHC to guide adjuvant endocrine therapy selection. (<strong>Type: evidence based. Evidence quality: intermediate. Strength of recommendation: moderate</strong>.)</p>
+<p><strong>Recommendation 2.4</strong></p>
+<p>The clinician should not use microtubule-associated protein (MAP)-Tau messenger ribonucleic acid (mRNA) expression or mRNA expression by IHC to guide adjuvant chemotherapy selection. (<strong>Type: evidence based. Evidence quality: intermediate. Strength of recommendation: moderate</strong>.)</p>
+<p><strong>Recommendation 2.5</strong></p>
+<p>The clinician should not use HER1/epidermal growth factor receptor (EGFR) expression by IHC to guide adjuvant chemotherapy selection. (<strong>Type: evidence based. Evidence quality: low. Strength of recommendation: moderate</strong>.)</p>
+<p><strong>Recommendation 2.6</strong></p>
+<p>The clinician should not use topoisomerase II&amp;alpha; (<em>TOP2A</em>) gene amplification or TOP2A protein expression by IHC to guide adjuvant chemotherapy selection. (<strong>Type: evidence based. Evidence quality: high. Strength of recommendation: moderate</strong>.)</p>
+<p><strong>Recommendation 2.7</strong></p>
+<p>The clinician should not use <em>HER2</em> and <em>TOP2A</em> gene coamplification; chromosome 17 centromere (CEP17) duplication; or tissue inhibitor of metalloproteinase 1 (TIMP-1), Forkhead Box Protein 3 (FOXP3), or p53 protein expression to guide adjuvant chemotherapy selection. (<strong>Type: evidence based. Evidence quality: intermediate. Strength of recommendation: moderate</strong>.)</p>
+<p><strong>Recommendation 2.8</strong></p>
+<p>If a patient has HER2-positive breast cancer, the clinician should not use phosphatase and tensin homolog (PTEN) to guide adjuvant therapy selection. (<strong>Type: evidence based. Evidence quality: intermediate. Strength of recommendation: moderate</strong>.)</p>
+<p><strong>Recommendation 2.9</strong></p>
+<p>If a patient has HER2-positive breast cancer, the clinician should not use soluble HER2 levels to guide adjuvant therapy selection. (<strong>Type: evidence based. Evidence quality: low. Strength of recommendation: moderate</strong>.)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Guide for Rating Strength of Evidence</strong></p>
+<table border=&quot;1&quot; summary=&quot;Table: Guide for Rating Strength of Evidence&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;>Rating for Strength of Evidence</th>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;>Definition</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>High</th>
+            <td valign=&quot;top&quot;>High confidence that the available evidence reflects the true magnitude and direction of the net effect (i.e., balance of benefits <em>v</em> harms) and that further research is very unlikely to change either the magnitude or direction of this net effect. </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Intermediate</th>
+            <td valign=&quot;top&quot;>Moderate confidence that the available evidence reflects the true magnitude and direction of the net effect. Further research is unlikely to alter the direction of the net effect; however, it might alter the magnitude of the net effect. </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Low</th>
+            <td valign=&quot;top&quot;>Low confidence that the available evidence reflects the true magnitude and direction of the net effect. Further research may change either the magnitude and/or direction this net effect. </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Insufficient</th>
+            <td valign=&quot;top&quot;>Evidence is insufficient to discern the true magnitude and direction of the net effect. Further research may better inform the topic. The use of the consensus opinion of experts is reasonable to inform outcomes related to the topic.</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Guide for Types of Recommendations</strong></p>
+<table border=&quot;1&quot; summary=&quot;Table: Guide for Types of Recommendations&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;>Type of Recommendation</th>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;>Definition</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Evidence based</th>
+            <td valign=&quot;top&quot;>There was sufficient evidence from published studies to inform a recommendation to guide clinical practice. </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Formal consensus</th>
+            <td valign=&quot;top&quot;>The available evidence was deemed insufficient to inform a recommendation to guide clinical practice. Therefore, the Expert Panel used a formal consensus process to reach this recommendation, which is considered the best current guidance for practice. The Panel may choose to provide a rating for the strength of the recommendation (i.e., &quot;strong,&quot; &quot;moderate,&quot; or &quot;weak&quot;). The results of the formal consensus process are summarized in the guideline and reported in the Data Supplement (see the &quot;Availability of Companion Documents&quot; field). </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot;>Informal Consensus</th>
+            <td valign=&quot;top&quot;>The available evidence was deemed insufficient to inform a recommendation to guide clinical practice. The recommendation is considered the best current guidance for practice, based on informal consensus of the Expert Panel. The Panel agreed that a formal consensus process was not necessary for reasons described in the literature review and discussion. The Panel may choose to provide a rating for the strength of the recommendation (i.e., &quot;strong,&quot; &quot;moderate,&quot; or &quot;weak&quot;). </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>No recommendation</th>
+            <td valign=&quot;top&quot;>There is insufficient evidence, confidence, or agreement to provide a recommendation to guide clinical practice at this time. The Panel deemed the available evidence as insufficient and concluded it was unlikely that a formal consensus process would achieve the level of agreement needed for a recommendation.</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Guide for Strength of Recommendations</strong></p>
+<table border=&quot;1&quot; summary=&quot;Table: Guide for Strength of Recommendations&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;>Rating for Strength of Recommendation</th>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;>Definition</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Strong</th>
+            <td valign=&quot;top&quot;>There is high confidence that the recommendation reflects best practice. This is based on (1) strong evidence for a true net effect (e.g., benefits exceed harms); (2) consistent results, with no or minor exceptions; (3) minor or no concerns about study quality; and/or (4) the extent of panelists' agreement. Other compelling considerations (discussed in the guideline's literature review and analyses) may also warrant a strong recommendation. </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Moderate</th>
+            <td valign=&quot;top&quot;>There is moderate confidence that the recommendation reflects best practice. This is based on (1) good evidence for a true net effect (e.g., benefits exceed harms); (2) consistent results, with minor and/or few exceptions; (3) minor and/or few concerns about study quality; and/or (4) the extent of panelists' agreement. Other compelling considerations (discussed in the guideline's literature review and analyses) may also warrant a moderate recommendation. </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Weak</th>
+            <td valign=&quot;top&quot;>There is some confidence that the recommendation offers the best current guidance for practice. This is based on (1) limited evidence for a true net effect (e.g., benefits exceed harms); (2) consistent results, but with important exceptions; (3) concerns about study quality; and/or (4) the extent of panelists' agreement. Other considerations (discussed in the guideline's literature review and analyses) may also warrant a weak recommendation.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Early-stage invasive breast cancer</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Obstetrics and Gynecology"/>
+      <fieldvalue value="Oncology"/>
+      <fieldvalue value="Pathology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Patients"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To provide evidence-based recommendations to practicing oncologists and other stakeholders on the appropriate use of breast tumor biomarker assay results to guide decisions on adjuvant systemic therapy for women with early-stage invasive breast cancer with known hormone receptor (estrogen and progesterone receptors [ER/PgRs]) and human epidermal growth factor receptor 2 [HER2]) status</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Women with early-stage invasive breast cancer under consideration for adjuvant systemic therapy with known estrogen receptor/progesterone receptor (ER/PgR) and human epidermal growth factor receptor 2 (HER2) status</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>21-gene recurrence score (RS) (Onco<em>type</em> DX) </li>
+    <li>12-gene risk score (EndoPredict) </li>
+    <li>PAM50 risk of recurrence (ROR) score (Prosigna Breast Cancer Prognostic Gene Signature Assay) </li>
+    <li>Breast Cancer Index </li>
+    <li>Urokinase plasminogen activator (uPA) and plasminogen activator inhibitor type 1 (PAI-1) </li>
+    <li>Phosphatase and tensin homolog (PTEN) loss </li>
+    <li>Soluble human epidermal growth factor receptor 2 (HER2) levels </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: Not all of the listed assays are recommended in all target populations; see the &quot;Major Recommendations&quot; field for context. The following were considered but not recommended for any of the populations: 70-gene assay (MammaPrint), five-protein assay (Mammostrat), immunohistochemistry 4 (IHC4), circulating tumor cells, tumor-infiltrating lymphocytes, Ki-67 labeling index by IHC, cytochrome P450 2D6 (<em>CYP2D6</em>) polymorphisms, p27 expression by IHC, microtubule-associated protein (MAP)-Tau messenger ribonucleic acid (mRNA) expression or mRNA expression by IHC, human epidermal growth factor receptor 1 (HER1)/epidermal growth factor receptor (EGFR) expression by IHC, topoisomerase II&amp;alpha; (<em>TOP2A</em>) gene amplification or TOP2A protein expression by IHC, <em>HER2</em> and <em>TOP2A</em> gene coamplification, chromosome 17 centromere (<em>CEP17</em>) duplication, tissue inhibitor of metalloproteinase 1 (TIMP-1), Forkhead Box Protein 3 (FOXP3), or p53 protein expression.</p>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Survival rate (disease-free, recurrence-free, overall)</p></div>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Literature Search Strategy</span></strong></p>
+<p>The Expert Panel developed its recommendations based on evidence identified through online searches of Medline and the Cochrane Library (from January 2006 through August 2015, to overlap with the search end date for the 2007 guideline update on tumor markers in breast cancer [Harris et al., 2007]), and their own clinical experience. See Data Supplement 4 (see the &quot;Availability of Companion Documents&quot; field) for full details on the search string. A combined PubMed search was conducted for this guideline and for a similar guideline on use of biomarkers to guide decisions on systemic therapy in metastatic breast cancer, with articles selected for each guideline's systematic review based on the patient population studied. Articles were selected for inclusion in the systematic review based on the following criteria:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Population: Women with early stage invasive breast cancer being considered for adjuvant systemic therapy, with separate sub-questions and analyses on patient groups with:
+    <ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+        <li>Hormone receptor-positive, human epidermal growth factor receptor 2 (HER2)-negative disease </li>
+        <li>HER2-positive disease </li>
+        <li>Triple receptor negative disease (estrogen receptor-negative [ER-negative], progesterone receptor-negative [PR-negative], and HER2-negative) </li>
+    </ol>
+    </li>
+    <li>Publications in English were included if they reported rigorously conducted systematic reviews (with or without meta-analyses), randomized controlled trials (RCTs), retrospective biomarker analyses of samples from completed prospective RCTs, or prospective observational studies that directly compared outcomes of treatment decisions made on the basis of assay results with outcomes of treatment decisions made regardless of assay results. </li>
+</ul>
+<p>Articles were excluded from the systematic review if they were (1) meeting abstracts not subsequently published in peer-reviewed journals; (2) editorials, commentaries, letters, news articles, case reports, narrative reviews; (3) published in a non-English language; (4) retrospective observational studies.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Fifty studies comprise the evidence base. They included three meta-analyses, one randomized controlled trial (RCT), 38 prospective-retrospective studies, three prospective comparative observational studies, and five retrospective observational studies. </p>
+<p>Also see Data Supplement 5 (see the &quot;Availability of Companion Documents&quot; field) for a Quality of Reporting of Meta-analyses (QUOROM) Diagram showing exclusions and inclusions of publications identified for the systematic review.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Guide for Rating Strength of Evidence</span></strong></p>
+<table border=&quot;1&quot; summary=&quot;Table: Guide for Rating Strength of Evidence&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;>Rating for Strength of Evidence</th>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;>Definition</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>High</th>
+            <td valign=&quot;top&quot;>High confidence that the available evidence reflects the true magnitude and direction of the net effect (i.e., balance of benefits <em>v</em> harms) and that further research is very unlikely to change either the magnitude or direction of this net effect. </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Intermediate</th>
+            <td valign=&quot;top&quot;>Moderate confidence that the available evidence reflects the true magnitude and direction of the net effect. Further research is unlikely to alter the direction of the net effect; however, it might alter the magnitude of the net effect. </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Low</th>
+            <td valign=&quot;top&quot;>Low confidence that the available evidence reflects the true magnitude and direction of the net effect. Further research may change either the magnitude and/or direction this net effect. </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Insufficient</th>
+            <td valign=&quot;top&quot;>Evidence is insufficient to discern the true magnitude and direction of the net effect. Further research may better inform the topic. The use of the consensus opinion of experts is reasonable to inform outcomes related to the topic.</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Guide for Rating of Potential for Bias</span></strong></p>
+<table border=&quot;1&quot; summary=&quot;Table: Guide for Rating of Potential for Bias&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;>Rating of Potential for Bias</th>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;>Definitions for Rating Potential for Risk of Bias in Randomized Controlled Trials</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Low risk</th>
+            <td valign=&quot;top&quot;>No major features in the study that risk biased results, and none of the limitations are thought to decrease the validity of the conclusions. The study avoids problems such as failure to apply true randomization, selection of a population unrepresentative of the target patients, high dropout rates, and no intention-to-treat analysis; and key study features are described clearly (including the population, setting, interventions, comparison groups, measurement of outcomes, and reasons for dropouts). </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Intermediate</th>
+            <td valign=&quot;top&quot;>The study is susceptible to some bias, but flaws are not sufficient to invalidate the results. Enough of the items introduce some uncertainty about the validity of the conclusions. The study does not meet all the criteria required for a rating of good quality, but no flaw is likely to cause major bias. The study may be missing information, making it difficult to assess limitations and potential problems. </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>High risk</th>
+            <td valign=&quot;top&quot;>There are significant flaws that imply biases of various types that may invalidate the results. Several of the items introduce serious uncertainty about the validity of the conclusions. The study has serious errors in design, analysis, or reporting; large amounts of missing information; or discrepancies in reporting. </td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Data Extraction</span></strong></p>
+<p>Literature search results were reviewed and deemed appropriate for full text review by an American Society of Clinical Oncology (ASCO) staff member, in consultation with the Expert Panel Co-Chairs. Data were extracted by one reviewer and subsequently checked for accuracy through an audit of the data by another ASCO staff member. Disagreements were resolved through discussion and consultation with the Co-Chairs if necessary.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Panel Composition</span></strong></p>
+<p>The American Society of Clinical Oncology (ASCO) Clinical Practice Guidelines Committee (CPGC) and the ASCO Breast Cancer Guideline Advisory Group (GAG) convened an Expert Panel with multidisciplinary representation in medical oncology, radiation oncology, community oncology, statistician, and health outcome researchers, the Practice Guidelines Implementation Network, and patient/advocacy representation. The Expert Panel was led by two Co-Chairs who had the primary responsibility for the development and timely completion of the guideline. The Panel had one face-to-face meeting and three webinars. The Co-Chairs and ASCO staff prepared a draft guideline for review and rating by the Expert Panel. The Expert Panel members are listed in Appendix Table A1 of the original guideline document. </p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Guideline Development Process</span></strong></p>
+<p>The Expert Panel met on several occasions and corresponded frequently through email; progress on guideline development was driven primarily by the Co-Chairs and ASCO staff. The purpose of the Panel meetings was for members to contribute content, provide critical review, interpret evidence, and finalize the guideline recommendations based upon the consideration of the evidence. All members of the Expert Panel participated in the preparation of the draft guideline document, which was then disseminated for external review and submitted to the <em>Journal of Clinical Oncology</em> (JCO) for peer review and publication. All ASCO guidelines are reviewed and approved by the ASCO CPGC prior to publication.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Development of Recommendations</span></strong></p>
+<p>The guideline recommendations were crafted, in part, using the GuideLines Into DEcision Support (GLIDES) methodology and accompanying BRIDGE-Wiz&amp;trade; software. This method helps guideline panels systematically develop clear, translatable, and implementable recommendations using natural language, based on the evidence and assessment of its quality, to increase usability for end users. The process incorporates distilling the actions involved, identifying who will carry them out, to whom, under what circumstances, and clarifying if and how end users can carry out the actions consistently. This process helps the Panel focus the discussion, avoid using unnecessary and/or ambiguous language, and clearly state its intentions.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Guide for Types of Recommendations</span></strong></p>
+<table border=&quot;1&quot; summary=&quot;Table: Guide for Types of Recommendations&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;>Type of Recommendation</th>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;>Definition</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Evidence based</th>
+            <td valign=&quot;top&quot;>There was sufficient evidence from published studies to inform a recommendation to guide clinical practice. </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Formal consensus</th>
+            <td valign=&quot;top&quot;>The available evidence was deemed insufficient to inform a recommendation to guide clinical practice. Therefore, the Expert Panel used a formal consensus process to reach this recommendation, which is considered the best current guidance for practice. The Panel may choose to provide a rating for the strength of the recommendation (i.e., &quot;strong,&quot; &quot;moderate,&quot; or &quot;weak&quot;). The results of the formal consensus process are summarized in the guideline and reported in the Data Supplement (see the &quot;Availability of Companion Documents&quot; field). </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Informal consensus</th>
+            <td valign=&quot;top&quot;>The available evidence was deemed insufficient to inform a recommendation to guide clinical practice. The recommendation is considered the best current guidance for practice, based on informal consensus of the Expert Panel. The Panel agreed that a formal consensus process was not necessary for reasons described in the literature review and discussion. The Panel may choose to provide a rating for the strength of the recommendation (i.e., &quot;strong,&quot; &quot;moderate,&quot; or &quot;weak&quot;). </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>No recommendation</th>
+            <td valign=&quot;top&quot;>There is insufficient evidence, confidence, or agreement to provide a recommendation to guide clinical practice at this time. The Panel deemed the available evidence as insufficient and concluded it was unlikely that a formal consensus process would achieve the level of agreement needed for a recommendation.</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Guide for Strength of Recommendations</span></strong></p>
+<table border=&quot;1&quot; summary=&quot;Table: Guide for Strength of Recommendations&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;>Rating for Strength of Recommendation</th>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;col&quot;>Definition</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Strong</th>
+            <td valign=&quot;top&quot;>There is high confidence that the recommendation reflects best practice. This is based on (1) strong evidence for a true net effect (e.g., benefits exceed harms); (2) consistent results, with no or minor exceptions; (3) minor or no concerns about study quality; and/or (4) the extent of panelists' agreement. Other compelling considerations (discussed in the guideline's literature review and analyses) may also warrant a strong recommendation. </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Moderate</th>
+            <td valign=&quot;top&quot;>There is moderate confidence that the recommendation reflects best practice. This is based on (1) good evidence for a true net effect (e.g., benefits exceed harms); (2) consistent results, with minor and/or few exceptions; (3) minor and/or few concerns about study quality; and/or (4) the extent of panelists' agreement. Other compelling considerations (discussed in the guideline's literature review and analyses) may also warrant a moderate recommendation. </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; style=&quot;font-weight: bold; text-align: center;&quot; scope=&quot;row&quot;>Weak</th>
+            <td valign=&quot;top&quot;>There is some confidence that the recommendation offers the best current guidance for practice. This is based on (1) limited evidence for a true net effect (e.g., benefits exceed harms); (2) consistent results, but with important exceptions; (3) concerns about study quality; and/or (4) the extent of panelists' agreement. Other considerations (discussed in the guideline's literature review and analyses) may also warrant a weak recommendation.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All members of the Expert Panel participated in the preparation of the draft guideline document, which was then disseminated for external review and submitted to the <em>Journal of Clinical Oncology</em> (JCO) for peer review and publication. All American Society of Clinical Oncology (ASCO) guidelines are reviewed and approved by the ASCO Clinical Practice Guidelines Committee (CPGC) prior to publication.</p>
+<p>The CPGC approved this guideline on September 21, 2015.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A biomarker-based test is judged to have clinical utility if use of the test is associated with a favorable balance of benefits to harms compared with treatment of the patient in the absence of the biomarker test result. Benefits may include improvement in survival end points such as event-free survival, disease-free survival (DFS), progression-free survival, or overall survival (OS). A new biomarker test must be shown to contribute clinically useful information beyond that already provided by clinical or pathologic indicators in standard use, unless the new test can provide equivalent information at lower cost, less invasively, or with less inconvenience or risk. The magnitude of the benefit must be clinically meaningful and outweigh risks, costs, and/or inconvenience associated with use of the test. Refer to the &quot;Clinical Utility&quot; section in the original guideline document for additional discussion.</p>
+<p>Refer to the &quot;Clinical interpretation of literature review&quot; sections of the original guideline document for a discussion of the relative benefits of testing for specific biomarkers to guide therapy decisions. </p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None of the included studies evaluated adverse outcomes of biomarker testing. In addition, no studies reported on changes in quality-of-life outcomes attributable to biomarker testing.</p>
+<p>When the panel considered each of the tumor biomarker assay tests, the use context, analytic validity, clinical validity, and clinical utility were considered. For the use context of estimating prognosis to consider whether adjuvant chemotherapy should be administered, the panel recommended use of a tumor biomarker assay if high levels of evidence suggest that it identifies a group of patients for whom the absolute benefit of adjuvant chemotherapy could not exceed 2% to 3%, which is roughly equal to the risk of fatal, life-threatening, or permanently changing toxicities. For other use contexts, the panel's considerations are noted in the appropriate section of the original guideline document. </p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The clinical practice guidelines and other guidance published herein are provided by the American Society of Clinical Oncology (ASCO) to assist providers in clinical decision making. The information herein should not be relied on as complete or accurate, nor should it be considered as inclusive of all proper treatments or methods of care or as a statement of the standard of care. With the rapid development of scientific knowledge, new evidence may emerge between the time information is developed and the time it is published or read. The information is not continuously updated and may not reflect the most recent evidence. The information addresses only the topics specifically identified herein and is not applicable to other interventions, diseases, or stages of disease. This information does not mandate any particular course of medical care. Furthermore, the information is not intended to substitute for the independent professional judgment of the treating provider because it does not account for individual variation among patients. Recommendations reflect high, moderate, or low confidence in the net effect of a given course of action. The use of such words as must, must not, should, and should not indicates that a course of action is recommended or not recommended for either most or many patients, but latitude exists for the treating physician to select other courses of action in individual cases. In all cases, the selected course of action should be considered by the treating provider in the context of treating the individual patient. Use of the information is voluntary. ASCO provides this information on an as-is basis and makes no warranty, express or implied, with regard to the information. ASCO specifically disclaims any warranties of merchantability or fitness for a particular use or purpose. ASCO assumes no responsibility for any injury or damage to persons or property that arises out of or are related to any use of this information or for any errors or omissions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American Society of Clinical Oncology (ASCO) guidelines are developed for implementation across health care settings. Barriers to implementation include the need to increase awareness of the guideline recommendations among front-line practitioners, cancer survivors, and caregivers and to provide adequate services in the face of limited resources. The Bottom Line Box facilitates implementation of the present recommendations. This guideline will be distributed widely through the ASCO Practice Guideline Implementation Network. ASCO guidelines are posted on the ASCO Web site and most often published in <em>Journal of Clinical Oncology</em> and <em>Journal of Oncology Practice</em>.</p>
+<p>For information on the ASCO implementation strategy, please see the <a href=&quot;http://www.asco.org/node/5376/&quot; title=&quot;ASCO Web site&quot;>ASCO Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Quick Reference Guides/Physician Guides"/>
+      <fieldvalue value="Slide Presentation"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Harris LN, Ismaila N, McShane LM, Andre F, Collyar DE, Gonzalez-Angulo AM, Hammond EH, Kuderer NM, Liu MC, Mennel RG, Van Poznak C, Bast RC, Hayes DF. Use of biomarkers to guide decisions on adjuvant systemic therapy for women with early-stage invasive breast cancer: American Society of Clinical Oncology clinical practice guideline. J Clin Oncol. 2016 Apr 1;34(10):1134-50. [82 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26858339&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2016 Apr 1"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American Society of Clinical Oncology - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American Society of Clinical Oncology (ASCO)</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Expert Panel</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Expert Panel Members</em>: Lyndsay N. Harris, Case Western Reserve University, Cleveland, OH; Nofisat Ismaila, American Society of Clinical Oncology, Alexandria, VA; Lisa M. McShane, National Cancer Institute, Bethesda, MD; Fabrice Andre, Institute Gustave Roussy, Paris, France; Deborah E. Collyar, Patient Advocates in Research; Elizabeth H. Hammond, University of Utah and Intermountain Health Care, Salt Lake City, UT; Ana M. Gonzalez-Angulo, The University of Texas MD Anderson Cancer Center, Houston; Robert C. Bast, The University of Texas MD Anderson Cancer Center, Houston; Robert G. Mennel, Baylor University Medical Center and Texas Oncology PA, Dallas, TX; Nicole M. Kuderer, University of Washington Medical Center, Seattle, WA; Minetta C. Liu, Mayo Clinic College of Medicine, Rochester, MN; Catherine Van Poznak, University of Michigan Comprehensive Cancer Center, Ann Arbor, MI; Daniel F. Hayes, University of Michigan Comprehensive Cancer Center, Ann Arbor, MI</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The expert panel was assembled in accordance with the American Society of Clinical Oncology (ASCO) Conflict of Interest Policy Implementation for Clinical Practice Guidelines (summarized at <a href=&quot;http://www.asco.org/rwc&quot; title=&quot;ASCO Web site&quot;>www.asco.org/rwc</a>). Members of the panel completed the ASCO disclosure form, which requires general disclosure of financial and other interests relevant to the subject matter of the guideline and includes relationships with commercial entities that are reasonably likely to experience a direct regulatory or commercial impact as a result of promulgation of the guideline. Categories for disclosure include employment relationships, consulting arrangements, stock and other ownership interests, speakers' bureaus, honoraria, research funding, intellectual property interests, and expert testimony. In accordance with the procedures, the majority of the members of the panel did not have any such conflicts of interest to disclose.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Authors' Disclosures of Potential Conflicts of Interest</span></strong></p>
+<p>The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO's conflict of interest policy, please refer to <a href=&quot;http://www.asco.org/rwc&quot; title=&quot;ASCO Web site&quot;>www.asco.org/rwc</a> or <a href=&quot;http://jco.ascopubs.org/site/ifc&quot; title=&quot;Journal of Clinical Oncology Web site&quot;>jco.ascopubs.org/site/ifc</a>.</p>
+<p><strong>Lyndsay N. Harris</strong>: <strong>Research Funding</strong>: Philips Research</p>
+<p><strong>Nofisat Ismaila</strong>: <strong>Employment</strong>: GlaxoSmithKline (I); <strong>Stock or Other Ownership</strong>: GlaxoSmithKline (I); <strong>Travel, Accommodations, Expenses</strong>: GlaxoSmithKline (I)</p>
+<p><strong>Lisa M. McShane</strong>: No relationship to disclose</p>
+<p><strong>Fabrice Andre: Research Funding</strong>: AstraZeneca (Inst), Novartis (Inst), Pfizer (Inst), Eisai (Inst), Eli Lilly (Inst), Servier (Inst); <strong>Travel, Accommodations, Expenses</strong>: Novartis, Roche, GlaxoSmithKline</p>
+<p><strong>Deborah E. Collyar</strong>: <strong>Travel, Accommodations, Expenses</strong>: Merck</p>
+<p><strong>Ana M. Gonzalez-Angulo</strong>: No relationship to disclose</p>
+<p><strong>Elizabeth H. Hammond</strong>: No relationship to disclose</p>
+<p><strong>Nicole M. Kuderer</strong>: <strong>Consulting or Advisory Role</strong>: Daiichi Sankyo, Janssen Pharmaceuticals (a Johnson &amp;amp; Johnson co.), Hospira; <strong>Research Funding</strong>: Amgen (I); <strong>Travel, Accommodations, Expenses</strong>: Daiichi Sankyo, Janssen Pharmaceuticals (a Johnson &amp;amp; Johnson co.), Hospira</p>
+<p><strong>Minetta C. Liu</strong>: <strong>Research Funding</strong>: Eisai (Inst), Seattle Genetics (Inst), Celgene (Inst), Veridex (Inst), Clearbridge Biomedics (Inst), Novartis (Inst), Genetech (Inst)</p>
+<p><strong>Robert G. Mennel</strong>: <strong>Employment</strong>: Texas Oncology</p>
+<p><strong>Catherine Van Poznak</strong>: <strong>Research Funding</strong>: Bayer AG (Inst); <strong>Patents, Royalties, Other Intellectual Property</strong>: UpToDate</p>
+<p><strong>Robert C. Bast</strong>: <strong>Research Funding</strong>: Arrien Pharmaceuticals; <strong>Patents, Royalties, Other Intellectual Property</strong>: Fujirebio Diagnostics; <strong>Travel, Accommodations, Expenses</strong>: Roche</p>
+<p><strong>Daniel F. Hayes</strong>: <strong>Stock or Other Ownership</strong>: Oncimmune, Inbiomotion; <strong>Honoraria</strong>: Eli Lilly; <strong>Consulting or Advisory Role</strong>: Pfizer, Janssen Diagnostics (unpaid); <strong>Research Funding</strong>: Janssen Research &amp;amp; Development (Inst), AstraZeneca (Inst), Puma Biotechnology (Inst), Pfizer (Inst), Eli Lilly (Inst); <strong>Patents, Royalties, Other Intellectual Property</strong>: Royalties from licensed technology; Diagnosis and Treatment of Breast Cancer (Patent No. US 8,790,878 B2; Date of patent: July 29, 2014; Applicant proprietor: University of Michigan; Daniel F. Hayes is designated as inventor/coinventor); Circulating Tumor Cell Capturing Techniques and Devices (Patent No. US 8,951,484 B2; Date of patent: February 10, 2015; Applicant proprietor: University of Michigan; Daniel F. Hayes is designated as inventor/coinventor); A Method for Predicting Progression Free and Overall Survival at Each Follow Up Timepoint During Therapy of Metastatic Breast Cancer Patients Using Circulating Tumor Cells (Patent No. 05725638.0-1223-US2005008602); <strong>Travel, Accommodations, Expenses</strong>: Janssen Diagnostics</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note</strong>: This guideline has been updated. The National Guideline Clearinghouse (NGC) is working to update this summary. </p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://jco.ascopubs.org/content/34/10/1134.full.pdf&quot; title=&quot;Journal of Clinical Oncology Web site&quot;>Journal of Clinical Oncology Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Use of biomarkers to guide decisions on adjuvant systemic therapy for women with early-stage invasive breast cancer: American Society of Clinical Oncology clinical practice guideline. Methodology supplement. Alexandria (VA): American Society of Clinical Oncology (ASCO); 2016. 7 p. Available from the <a href=&quot;http://jco.ascopubs.org/content/suppl/2016/02/09/JCO.2015.65.2289.DC2/MS_2015.652289.pdf&quot; title=&quot;Journal of Clinical Oncology Web site&quot;>Journal of Clinical Oncology Web site</a>. </li>
+    <li>Use of biomarkers to guide decisions on adjuvant systemic therapy for women with early-stage invasive breast cancer: American Society of Clinical Oncology clinical practice guideline. Data supplement. Alexandria (VA): American Society of Clinical Oncology (ASCO); 2016. 46 p. Available from the <a href=&quot;http://jco.ascopubs.org/content/suppl/2016/02/09/JCO.2015.65.2289.DC3/DS_2015.652289.pdf&quot; title=&quot;Journal of Clinical Oncology Web site&quot;>Journal of Clinical Oncology Web site</a>. </li>
+    <li>Use of biomarkers to guide decisions on adjuvant systemic therapy for women with early-stage invasive breast cancer: American Society of Clinical Oncology clinical practice guideline. Slide set. Alexandria (VA): American Society of Clinical Oncology; 2016. 24 p. Available in <a href=&quot;http://www.asco.org/sites/new-www.asco.org/files/content-files/practice-and-guidelines/documents/2016-Adjuvant-Biomarkers-Slides.pdf&quot; title=&quot;American Society of Clinical Oncology (ASCO) Web site&quot;>PDF</a> and <a href=&quot;http://www.asco.org/sites/new-www.asco.org/files/content-files/practice-and-guidelines/documents/2016-Adjuvant-Biomarkers-Slides.pdf&quot; title=&quot;ASCO Web site&quot;>PowerPoint</a> from the American Society of Clinical Oncology (ASCO) Web site. </li>
+    <li>Use of biomarkers to guide decisions on adjuvant systemic therapy for women with early-stage invasive breast cancer: American Society of Clinical Oncology clinical practice guideline. Summary of recommendations. Alexandria (VA): American Society of Clinical Oncology; 2016. 5 p. Available from the <a href=&quot;http://www.asco.org/sites/new-www.asco.org/files/content-files/practice-and-guidelines/documents/2016-Adj-Biomarkers-Summary-of-Recs-Table.pdf&quot; title=&quot;ASCO Web site&quot;>ASCO Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Biomarkers to guide treatment for early-stage breast cancer. ASCO care and treatment recommendations for patients. [internet]. Alexandria (VA): American Society of Clinical Oncology; 2016 Feb 8. Available from the <a href=&quot;http://www.cancer.net/research-and-advocacy/asco-care-and-treatment-recommendations-patients/biomarkers-guide-treatment-early-stage-breast-cancer&quot; title=&quot;Cancer.Net Web site&quot;>Cancer.Net Web site</a>. </li>
+</ul>
+<p class=&quot;Note&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on August 4, 2016.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 22:20:00 Oct 02, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:32:37 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 689.27 (3)
+  esindex: 0.013
+  captures_list: 723.766
+  CDXLines.iter: 19.366 (3)
+  PetaboxLoader3.datanode: 62.139 (4)
+  exclusion.robots: 0.466
+  exclusion.robots.policy: 0.446
+  RedisCDXSource: 4.359
+  PetaboxLoader3.resolve: 734.989 (4)
+  load_resource: 134.492
+-->
