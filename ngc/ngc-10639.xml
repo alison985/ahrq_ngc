@@ -1,0 +1,865 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=151;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10639?contentType=xml', '20180712234735')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180712234735/https://www.guideline.gov/summaries/downloadcontent/ngc-10639?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180712234735/https://www.guideline.gov/summaries/downloadcontent/ngc-10639?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10639?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180712234735" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610055827/https://www.guideline.gov/summaries/downloadcontent/ngc-10639?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 23:47:35 Jul 12, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610055827/https://www.guideline.gov/summaries/downloadcontent/ngc-10639?contentType=xml" title="05:58:27 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 23:47:35 Jul 12, 2018">12</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930165408/https://www.guideline.gov/summaries/downloadcontent/ngc-10639?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 23:47:35 Jul 12, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180712234735*/https://www.guideline.gov/summaries/downloadcontent/ngc-10639?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 12 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10639?contentType=xml","2018-07-12",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Clinical practice guideline: allergic rhinitis.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Seidman MD, Gurgel RK, Lin SY, Schwartz SR, Baroody FM, Bonner JR, Dawson DE, Dykewicz MS, Hackell JM, Han JK, Ishman SL, Krouse HJ, Malekzadeh S, Mims JW, Omole FS, Reddy WD, Wallace DV, Walsh SA, Warren BE, Wilson MN, Nnacheta LC. Clinical practice guideline: allergic rhinitis. Otolaryngol Head Neck Surg. 2015 Feb;152(1 Suppl):S1-S43. [364 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25644617&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The evidence grades (<strong>A-D, X</strong>) and evidence-based statements (<strong>Strong Recommendation, Recommendation, Option, and No Recommendation</strong>) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong>Statement 1. Patient History and Physical Examination</strong></p>
+<p>Clinicians should make the clinical diagnosis of allergic rhinitis (AR) when patients present with a history and physical examination consistent with an allergic cause and 1 or more of the following symptoms: nasal congestion, runny nose, itchy nose, or sneezing. Findings of AR consistent with an allergic cause include, but are not limited to, clear rhinorrhea, nasal congestion, pale discoloration of the nasal mucosa, and red and watery eyes.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span> based on observational studies, with a preponderance of benefit over harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: To promote a consistent and systematic approach to initial evaluation of the patient with AR </li>
+    <li>Aggregate evidence quality: Grade C, based on observational studies </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefits: Avoid unnecessary treatment or testing, time referrals appropriately, institute a specific therapy, improve quality of life and productivity, improve accurate diagnosis </li>
+    <li>Risks, harms, costs: Inappropriate treatment, potential misdiagnosis from using history and physical alone </li>
+    <li>Benefit-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Although the Guideline Development Group recognized that a conclusive diagnosis of AR is difficult without diagnostic testing, making a presumptive diagnosis of AR based on history and physical examination alone is reasonable. </li>
+    <li>Intentional vagueness: The use of the words &quot;clinical diagnosis&quot; acknowledges that this is a presumptive diagnosis not confirmed with testing. The use of the words &quot;when patients present with a history and physical examination consistent with an allergic cause&quot; assumes that a clinician will know how to make an appropriate diagnosis of AR. Specifics of what constitutes a history and physical examination consistent with an allergic cause are provided in the supporting text in the original guideline document. </li>
+    <li>Role of patient preferences: Limited&amp;mdash;Patient may request that additional testing be conducted before deciding on initiation of treatment. </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong>Statement 2. Allergy Testing</strong></p>
+<p>Clinicians should perform and interpret, or refer to a clinician who can perform and interpret, specific immunoglobulin E (IgE) (skin or blood) allergy testing for patients with a clinical diagnosis of AR who do not respond to empiric treatment, or when the diagnosis is uncertain, or when knowledge of the specific causative allergen is needed to target therapy. </p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span> based on randomized controlled trials (RCTs) and systematic reviews, with a preponderance of benefit over harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Improve accurate diagnosis and avoid unnecessary testing </li>
+    <li>Aggregate evidence quality: Grade B, based on randomized controlled trials and systematic reviews </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefits: Confirming diagnosis, directing pharmacologic therapy, directing immunotherapy, avoidance strategies, avoidance of ineffective therapy, reduce cost of unnecessary testing </li>
+    <li>Risks, harms, costs: Cost of testing, adverse events from testing, misinterpretation of results, inaccurate test results (false positives and negatives) </li>
+    <li>Benefit-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Patients may benefit from identification of specific allergic cause. </li>
+    <li>Intentional vagueness: The Guideline Development Group did not specify which specific IgE test (blood or skin) to order. The Guideline Development Group also did not specify which allergens to test, as that was beyond the scope of this guideline. They did not specify what constitutes empiric treatment, although this is generally treatment that is initiated prior to confirmatory, IgE-specific testing and could include recommending environmental controls, allergen avoidance, or medical management. Lack of response to empiric treatment is not defined to allow the clinician to exercise judgment in making this determination but is generally thought to include patients with persistent symptoms despite therapy. </li>
+    <li>Role of patient preferences: Moderate&amp;mdash;Shared decision making in discussion of harms and benefits of testing; clinicians and patients should discuss potential costs, benefits, and adverse effects of additional testing, and type of testing, either skin or blood, if neither is contraindicated. </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong>Statement 3. Imaging</strong></p>
+<p>Clinicians should not routinely perform sinonasal imaging in patients presenting with symptoms consistent with a diagnosis of AR.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span> against based on observational studies, with a preponderance of benefit over harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Reduction of variation of care, reduction of potential harm from unnecessary radiation exposure </li>
+    <li>Aggregate evidence quality: Grade C, based on observational studies </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefits: Avoiding unnecessary radiation exposure, reduction of cost, reducing variation in care </li>
+    <li>Risks, harms, costs: Inaccurate or missed diagnosis of pathology with similar presenting symptoms </li>
+    <li>Benefit-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: None </li>
+    <li>Intentional vagueness: The word <em>routine </em>was used to allow for circumstances where the patient history may warrant imaging for evaluation of another problem besides AR </li>
+    <li>Role of patient preferences: None </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinions: None </li>
+</ul>
+<p><strong>Statement 4. Environmental Factors</strong></p>
+<p>Clinicians may advise avoidance of known allergens or may advise environmental controls (e.g., removal of pets; the use of air filtration systems, bed covers, and acaricides [chemical agents that kill dust mites]) in AR patients who have identified allergens that correlate with clinical symptoms.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Option</span> based on RCTs with minor limitations and observational studies, with equilibrium of benefit and harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Reduce expenditures on environmental measures that do not improve symptoms </li>
+    <li>Aggregate evidence quality: Grade B, based on RCTs with minor limitations and observational studies </li>
+    <li>Level of confidence in evidence: Moderate&amp;mdash;with the exception of studies on house dust mites, the majority of the studies were small </li>
+    <li>Benefits: Decreased allergen levels and possible reduction in symptoms </li>
+    <li>Risks, harms, costs: Cost of environmental controls, emotional effect (e.g., recommending animal avoidance in pet lovers), cost of ineffective recommendation </li>
+    <li>Benefit-harm assessment: Equilibrium </li>
+    <li>Value judgments: Many studies have demonstrated a reduction in allergen levels with environmental controls; however, benefits in alleviating symptoms are limited. Use of multiple avoidance techniques may be more effective than individual measures. </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Large&amp;mdash;Shared decision making in discussion of evidence for effectiveness of possible controls and the need to weigh the costs and benefits </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Option </li>
+    <li>Difference of opinion: None </li>
+</ul>
+<p><strong>Statement 5. Chronic Conditions and Comorbidities</strong></p>
+<p>Clinicians should assess patients with a clinical diagnosis of AR for, and document in the medical record, the presence of associated conditions such as asthma, atopic dermatitis, sleep-disordered breathing, conjunctivitis, rhinosinusitis, and otitis media. </p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span> based on randomized trials with some heterogeneity and a preponderance of benefit over harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Identification of significant comorbid conditions or complications, potential for treatment optimization </li>
+    <li>Aggregate evidence quality: Grade B, based on randomized trials with some heterogeneity </li>
+    <li>Level of confidence in the evidence: High </li>
+    <li>Benefits: Increased awareness of these conditions; identification of treatable conditions; knowledge of these conditions may alter recommendations for AR treatment as comorbid conditions can alter response to treatment. </li>
+    <li>Risks, harms, costs: Potential erroneous diagnosis of comorbid conditions </li>
+    <li>Benefit-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: None </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: None </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong>Statement 6. Topical Steroids</strong></p>
+<p>Clinicians should recommend intranasal steroids for patients with a clinical diagnosis of AR whose symptoms affect their quality of life.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Strong recommendation</span> based on RCTs with minor limitations and a preponderance of benefit over harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Optimizing the use of proven effective therapy </li>
+    <li>Aggregate evidence quality: Grade A, based on RCTs with minor limitations </li>
+    <li>Level of confidence in the evidence: High </li>
+    <li>Benefits: Improved symptom control, improved quality of life, better sleep, potential cost saving with monotherapy, targeted local effect </li>
+    <li>Risks, harms, costs: Topical side effects, epistaxis, drug side effects, potential growth concerns in children, septal perforation, and the cost of medication </li>
+    <li>Benefit-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: None </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Large&amp;mdash;There are multiple classes of effective therapy with differing risks, adverse effects, costs, and benefits. The clinician should use his or her expertise in assisting patients to evaluate the best treatment and to ensure patient compliance. </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Strong recommendation </li>
+    <li>Differences of opinions: Minor. There were some differences of opinion regarding the best therapy for mild or intermittent symptoms, as oral or nasal antihistamines may be adequate therapy for those patients. </li>
+</ul>
+<p><strong>Statement 7. Oral Antihistamines</strong></p>
+<p>Clinicians should recommend oral second-generation/less sedating antihistamines for patients with AR and primary complaints of sneezing and itching.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Strong recommendation</span> based on RCTs with minor limitations and a preponderance of benefit over harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Avoidance of sedating antihistamine use and promotion of use of effective symptom-directed therapy </li>
+    <li>Aggregate evidence quality: Grade A, based on RCTs with minor limitations </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefits: Rapid onset of action, oral administration, relief of symptoms, over-the-counter availability, potential cost saving (generic brand), relief of eye symptoms </li>
+    <li>Risks, harms, costs: Systemic side effects (sedation), dry eyes, urinary retention </li>
+    <li>Benefit-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: None </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Large&amp;mdash;Shared decision making in considering the benefits, harms, costs, and evaluation of the best treatment options. Clinicians should offer a comparison of evidence for the effectiveness of oral versus nasal administration of antihistamines and nasal steroids that will provide good patient adherence and treatment efficacy. </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Strong recommendation </li>
+    <li>Differences of opinions: None </li>
+</ul>
+<p><strong>Statement 8. Intranasal Antihistamines</strong></p>
+<p>Clinicians may offer intranasal antihistamines for patients with seasonal, perennial, or episodic AR.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Option</span> based on RCTs with minor limitations and observational studies, with equilibrium of benefit and harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Improve awareness of this class of medications as another effective treatment for AR that may be an alternative to other medication classes </li>
+    <li>Aggregate evidence quality: Grade A, based on RCTs with minor limitations and observational studies </li>
+    <li>Level of confidence in evidence: High, but most of the trials were of short duration </li>
+    <li>Benefits: Rapid onset, increased effectiveness over oral antihistamines for nasal congestion </li>
+    <li>Risks, harms, costs: Increased cost relative to oral antihistamines, poor taste, sedation, more frequent dosing, epistaxis, local side effects </li>
+    <li>Benefit-harm assessment: Equilibrium </li>
+    <li>Value judgments: The Guideline Development Group felt that in general this class of medications would represent second-line therapy after failure of nasal steroids or oral antihistamines due to poor acceptance, taste, and cost but that there may be specific patients in whom this class would be an appropriate first-line therapy. </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Large&amp;mdash;There is equilibrium of benefits to risks when using intranasal antihistamine. Shared decision making may help ensure that the patient understands the potential benefits versus harms of undergoing this treatment, while also promoting patient compliance with medication. </li>
+    <li>Exclusions: Not approved for children younger than 5 years </li>
+    <li>Policy level: Option </li>
+    <li>Differences of opinion: Minor; there are reasonable data supporting their use, but there was some debate regarding the harm-benefit ratio leading this to be an option. Several panel members thought these should be recommended at the same level as oral antihistamines. </li>
+</ul>
+<p><strong>Statement 9. Oral Leukotriene Receptor Antagonists (LTRAs)</strong></p>
+<p>Clinicians should not offer LTRAs as primary therapy for patients with AR.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation against</span> based on RCTs and systematic reviews, with a preponderance of benefit over harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Reduced use of a less effective agent for initial therapy </li>
+    <li>Aggregate evidence quality: Grade A, based on RCTs and systematic reviews </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefits: Avoid ineffective or less effective therapy, cost saving, decreased variations in care </li>
+    <li>Risks, harms, costs: There may be a subset of patients who would benefit from this medication (e.g., patients with both AR and asthma). </li>
+    <li>Benefit-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: The panel was concerned with the cost of this medication in combination with the evidence that it is less effective than first-line medications. </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Low&amp;mdash;Rare patients with intolerance of intranasal therapy and concerns regarding somnolence may benefit from consideration of use of this class of medicine. </li>
+    <li>Exclusions: Patient with concurrent diagnosis of asthma. These patients may benefit from oral LTRAs as a first-line therapy. </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong>Statement 10. Combination Therapy</strong></p>
+<p>Clinicians may offer combination pharmacologic therapy in patients with AR who have inadequate response to pharmacologic monotherapy.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Option</span> based on RCTs with minor limitations and observational studies, with equilibrium of benefit and harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Reduce variations in care, improve symptom control </li>
+    <li>Aggregate evidence quality: Grade A, based on RCTs with minor limitations and observational studies </li>
+    <li>Level of confidence in evidence: High. There is strong evidence supporting the use of some combinations and the ineffectiveness of other combinations. </li>
+    <li>Benefits: Improved effectiveness and symptom control of combined therapy </li>
+    <li>Risks, harms, costs: Increased cost, overuse of medication, use of ineffective combinations, multiple medication side effects, drug interactions </li>
+    <li>Benefit-harm assessment: Equilibrium </li>
+    <li>Value judgments: None </li>
+    <li>Intentional vagueness: The term &quot;combination therapy&quot; is nonspecific as there are multiple different combinations. The details are elaborated in the supporting text. The term &quot;inadequate response to monotherapy&quot; also allows for some interpretation by clinicians and patients. </li>
+    <li>Role of patient preferences: Moderate&amp;mdash;Shared decision making in consideration of evidence for benefits, harms and cost of combinations, effective dosing, and potential medication interactions to assist the patient in more effective treatment compliance. </li>
+    <li>Exclusions: Decongestants that are part of some combined products are not approved for children under the age of 4 years. </li>
+    <li>Policy level: Option </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong>Statement 11. Immunotherapy</strong></p>
+<p>Clinicians should offer, or refer to a clinician who can offer, immunotherapy (sublingual or subcutaneous) for patients with AR who have inadequate response to symptoms with pharmacologic therapy with or without environmental controls.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span> based on RCTs and systematic reviews, with a preponderance of benefit over harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Opportunity for quality improvement: Increased appropriate use of immunotherapy and reduced variation in care; increased awareness of immunotherapy </li>
+    <li>Aggregate evidence quality: Grade A, based on RCTs and systematic reviews </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefits: Altered natural history, improved symptom control, decreased need for medical therapy, long term cost-effectiveness, may improve or prevent asthma or other comorbidities, and may prevent new sensitizations </li>
+    <li>Risks, harms, costs: Local reactions, systemic reactions including anaphylaxis, increased initial cost, frequency of treatment (logistics), pain of injection, delayed onset of symptom control (months) </li>
+    <li>Benefit-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: None </li>
+    <li>Intentional vagueness: The Guideline Development Group elected to use the term &quot;inadequate response to medical therapy&quot; as there are circumstances where immunotherapy may be beneficial for symptom control even if there is some response to medical therapy since immunotherapy addresses the underlying pathophysiology of atopy. </li>
+    <li>Role of patient preferences: Large&amp;mdash;There are potential risks, harms, and costs associated with the use of immunotherapy and a delayed onset. Shared decision making may help the patient understand the potential harms of undergoing this treatment. In addition, the efficacy of using this mode of therapy depends on patient compliance with frequency and duration of treatment as well as delay in onset of effect with immunotherapy. </li>
+    <li>Exclusions: Uncontrolled asthma </li>
+    <li>Policy Level: Recommendation </li>
+    <li>Differences of opinion: Minor; some panel members felt that immunotherapy could be offered as first-line treatment to patients who elect not to use medical therapy. </li>
+</ul>
+<p><strong>Statement 12. Inferior Turbinate Reduction</strong></p>
+<p>Clinicians may offer, or refer to a surgeon who can offer, inferior turbinate reduction in patients with AR with nasal airway obstruction and enlarged inferior turbinates who have failed medical management.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Option</span> based on observational studies, with a preponderance of benefit over harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Improved nasal breathing and quality of life </li>
+    <li>Aggregate evidence quality: Grade C, based on observational studies </li>
+    <li>Level of confidence in the evidence: Moderate </li>
+    <li>Benefits: Improved symptoms, improved quality of life, improved medication delivery, reduced medication use, better sleep </li>
+    <li>Risks, harms, costs: Unnecessary surgery, cost of surgery, risks of surgery, atrophic rhinitis </li>
+    <li>Benefit-harm assessment: Balance of benefit and harm </li>
+    <li>Value judgments: The panel felt that in spite of lack of head-to-head trials between medical and surgical therapy, surgery should be reserved for patients failing medical therapy due to the higher risk of any surgical management. </li>
+    <li>Intentional vagueness: The panel elected to use the term &quot;failure of medical therapy&quot; as there are circumstances where inferior turbinate reduction may be beneficial for symptom control even if there is some response to medical therapy. </li>
+    <li>Role of patient preferences: Large&amp;mdash;Clinicians should use a shared decision-making process about the risks, benefits, and costs of undergoing surgery and associated use of anesthesia. </li>
+    <li>Exclusions: Patients who are not surgical candidates </li>
+    <li>Policy level: Option </li>
+    <li>Differences of opinion: Minor difference of opinion whether AR is an independent risk factor for turbinate hypertrophy </li>
+</ul>
+<p><strong>Statement 13. Acupuncture</strong></p>
+<p>Clinicians may offer acupuncture, or refer to a clinician who can offer acupuncture, for patients with AR who are interested in nonpharmacologic therapy.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Option</span> based on RCTs with limitations, observational studies with consistent effects, and a preponderance of benefit over harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Increased awareness of acupuncture as a treatment option for AR </li>
+    <li>Aggregate evidence quality: Grade B, based on RCTs with limitations, observational studies with consistent effects </li>
+    <li>Level of confidence in evidence: Low; the randomized trials did not show comparison to traditional medical therapy for AR and had methodological flaws. </li>
+    <li>Benefits: Effective alternative to medical therapies, reduction of symptoms, may more closely align with patient values, improved quality of life, avoidance of medication use and potential side effects </li>
+    <li>Risks, harms, costs: Logistics of multiple treatments, need for multiple needle sticks, cost of treatment, rare infections </li>
+    <li>Benefit-harm assessment: Equilibrium of benefit and harm </li>
+    <li>Value judgments: Panel members varied in their preconceived bias for or against acupuncture. </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Limited&amp;mdash;Potential for shared decision making </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Option </li>
+    <li>Differences of opinions: None </li>
+</ul>
+<p><strong>Statement 14. Herbal Therapy</strong></p>
+<p>No recommendation regarding the use of herbal therapy for patients with AR.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>No recommendation</span> based on limited knowledge of herbal medicines and concern about the quality of standardization and safety.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Not applicable </li>
+    <li>Aggregate evidence quality: Uncertain </li>
+    <li>Level of confidence in evidence: Low. Many of the studies were small and of questionable methodology. The meta-analyses were done in English but looked at articles from the Chinese literature that are not available for assessment by the panel. </li>
+    <li>Benefits: Improved awareness of alternative treatments, improved education of side effects of herbal therapy </li>
+    <li>Risks, harms, costs: Not applicable </li>
+    <li>Benefit-harm assessment: Not applicable </li>
+    <li>Value judgments: There are many herbal therapies, but there is only evidence for a few that have appropriate studies. There is limited knowledge about these products among most of the panel members, and accordingly there was a bias against their use. There is concern about the quality of standardization of herbal medicines and their safety. </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: None </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: No recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Definitions</strong></span>:</p>
+<p><strong>Evidence Quality for Grades of Evidence</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Evidence Quality for Grades of Evidence&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence Quality for Diagnosis</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence Quality for Treatment and Harm</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>A</th>
+            <td valign=&quot;top&quot;>Systematic review of cross-sectional studies with consistently applied reference standard and blinding</td>
+            <td valign=&quot;top&quot;>Well-designed randomized controlled trials performed on a population similar to the guideline's target population</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>B</th>
+            <td valign=&quot;top&quot;>Individual cross-sectional studies with consistently applied reference standard and blinding</td>
+            <td valign=&quot;top&quot;>Randomized controlled trials; overwhelmingly consistent evidence from observational studies</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>C</th>
+            <td>Nonconsecutive studies, case control studies, or studies with poor, nonindependent, or inconsistently applied reference standards</td>
+            <td valign=&quot;top&quot;>Observational studies (case control and cohort design)</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>D</th>
+            <td valign=&quot;top&quot;>Mechanism-based reasoning or case reports</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>X</th>
+            <td valign=&quot;top&quot; colspan=&quot;2&quot;>Exceptional situations where validating studies cannot be performed and there is a clear preponderance of benefit over harm</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Guideline Definitions for Evidence-Based Statements</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Guideline Definitions for Evidence-Based Statements&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Statement</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Definition</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Implication</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Strong Recommendation</th>
+            <td valign=&quot;top&quot;>A strong recommendation means the benefits of the recommended approach clearly exceed the harms (or that the harms clearly exceed the benefits in the case of a strong negative recommendation) and that the quality of the supporting evidence is excellent (grade A or B). In some clearly identified circumstances, strong recommendations may be made based on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits strongly outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Recommendation</th>
+            <td valign=&quot;top&quot;>A recommendation means the benefits exceed the harms (or that the harms exceed the benefits in the case of a negative recommendation), but the quality of evidence is not as strong (grade B or C). In some clearly identified circumstances, recommendations may be made based on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should also generally follow a recommendation but should remain alert to new information and sensitive to patient preferences.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Option</th>
+            <td valign=&quot;top&quot;>An option means that either the quality of evidence that exists is suspect (grade D) or that well-done studies (grade A, B, or C) show little clear advantage to one approach versus another.</td>
+            <td valign=&quot;top&quot;>Clinicians should be flexible in their decision making regarding appropriate practice, although they may set bounds on alternatives; patient preference should have a substantial influencing role.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>No Recommendation</th>
+            <td valign=&quot;top&quot;>No recommendation means there is both a lack of pertinent evidence (grade D) and an unclear balance between benefits and harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should feel little constraint in their decision making and be alert to new published evidence that clarifies the balance of benefit versus harm; patient preference should have a substantial influencing role.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An algorithm titled &quot;Allergic rhinitis (AR) diagnosis and treatment flow chart for evaluating and managing patients with AR based on this guideline's recommendations&quot; is provided in the original guideline document.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Allergic rhinitis (AR)</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Allergy and Immunology"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Otolaryngology"/>
+      <fieldvalue value="Pediatrics"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To address quality improvement opportunities for all clinicians, in any setting, who are likely to manage patients with allergic rhinitis (AR) as well as to optimize patient care, promote effective diagnosis and therapy, and reduce harmful or unnecessary variations in care</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Pediatric and adult patients with allergic rhinitis (AR)</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: Children under the age of 2 years were excluded from the clinical practice guideline because rhinitis in this population may be different than in older patients and is not informed by the same evidence base.</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Diagnosis/Evaluation/Counseling</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Patient history </li>
+    <li>Physical examination </li>
+    <li>Specific immunoglobulin E (IgE) (skin or blood) allergy testing </li>
+    <li>Sinonasal imaging (not recommended routinely) </li>
+    <li>Advising patients to avoid known allergens and to maintain environmental controls </li>
+    <li>Assessing for presence of chronic conditions and comorbidities </li>
+</ol>
+<p><strong>Treatment/Management</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Intranasal steroids </li>
+    <li>Oral antihistamine </li>
+    <li>Intranasal antihistamines </li>
+    <li>Oral leukotriene receptor antagonists (LTRAs) (not recommended as primary therapy) </li>
+    <li>Combination therapy </li>
+    <li>Immunotherapy (sublingual or subcutaneous) </li>
+    <li>Inferior turbinate reduction </li>
+    <li>Acupuncture </li>
+    <li>Herbal therapy (no recommendation made) </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Sensitivity and specificity of diagnostic tests </li>
+    <li>Utility of diagnostic assessments in the evaluation for allergic rhinitis (AR) </li>
+    <li>Effectiveness of environmental control measures for reducing symptoms of AR </li>
+    <li>Association between comorbid conditions and AR </li>
+    <li>Effectiveness of medications for improving symptoms of AR </li>
+    <li>Adverse effects of AR medications and immunotherapy </li>
+    <li>Effectiveness of immunotherapy for improving AR symptoms </li>
+    <li>Effectiveness of inferior turbinate reduction for improving AR symptoms </li>
+    <li>Effects of acupuncture on quality of life and avoidance of medication use and potential medication side effects </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All literature searches were performed by an information specialist through May 2014.</p>
+<p>An information specialist conducted 2 literature searches from June 2013 through November 2013, using a validated filter strategy, to identify clinical practice guidelines, systematic reviews, and randomized controlled trials (RCTs). The search terms used were ((Nasal Allergy[TW] OR Nasal Allergies[TW] OR Nose Allergy[TW] OR Pollinosis[TW] OR Pollinoses[TW] OR Catarrh[TW] OR Catarrhs[TW]) OR (Allergic Rhinitis[TW]) OR (((&quot;Rhinitis, Allergic, Perennial&quot;[MESH]) OR &quot;Rhinitis, Allergic, Seasonal&quot;[MESH]) OR &quot;Rhinitis, Atrophic&quot;[MESH]) AND ((&quot;1980/01/01&quot;[PDAT]: &quot;2013/12/31&quot;[PDAT]) AND English[LANG])) AND ((Clinical Trial*[PT] AND (Randomized[TW] OR Randomised[TW])) OR (&quot;Randomized Controlled Trial&quot;[PUBLICATION TYPE] OR Randomized Controlled Trial[TW] OR Randomized Controlled Trial[TW])). These search terms were used to capture all evidence on the population, incorporating all relevant treatments and outcomes.</p>
+<p>The English-language searches were performed in multiple databases including the Cochrane Library, EMBASE, PubMed, and the Cumulative Index to Nursing and Allied Health Literature (CINAHL). In certain instances, targeted searches for lower level evidence were performed by panel members to address gaps from the systematic searches identified in writing the guideline from December 2013 through May 2014.</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Clinical practice guidelines were identified by a PubMed search using guideline as a publication type or title word. The initial search identified 54 guidelines. Articles were excluded if they (1) were not on the topic of the guideline, (2) were not available in English, (3) did not meet the panel's quality criteria (e.g., the review had a clear objective and method), (4) did not possess an explicit search strategy, and/or (5) did not have valid data extraction methods. After duplicates, irrelevant references, and non-English-language articles were removed, the final tally was 31 guidelines. </li>
+    <li>Systematic reviews were identified through EMBASE, the Cochrane Library, CINAHL, and PubMed. The initial data set included 759 systematic reviews or meta-analyses that were distributed to the panel members. Articles were excluded if they (1) were not on the topic of the guideline, (2) were not available in English, (3) did not meet the panel's quality criteria (e.g., the review had a clear objective and method), (4) did not possess an explicit search strategy, and/or (5) did not have valid data extraction methods. The final data set retained was 390 systematic reviews or meta-analyses. </li>
+    <li>The initial set of RCTs identified through PubMed, EMBASE, CINAHL, and the Cochrane Library totaled 2446 RCT articles. These were distributed among panel members for review. Articles were excluded if they (1) were unpublished RCTs, duplicate articles, and articles with unavailable abstracts (2) were not on the topic of the guideline, (3) were not available in English, (4) did not meet the panel's quality criteria (e.g., the review had a clear objective and method), (5) did not possess an explicit search strategy, and/or (6) did not have valid data extraction methods. The total final data set retained after the panel review was 1605 RCT articles. </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The 31 clinical practice guidelines, 390 systematic reviews, and 1605 randomized controlled trials (RCTs) were broken down into the 14 key action statement categories. This material was supplemented, as needed, with targeted searches to address specific needs identified in writing the guideline through February 2014. After assessing quality and relevance, the guideline panel retained 9 of the clinical practice guidelines, 81 of the systematic reviews, and 177 of the RCTs.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Evidence Quality for Grades of Evidence</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Evidence Quality for Grades of Evidence&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence Quality for Diagnosis</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence Quality for Treatment and Harm</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>A</th>
+            <td valign=&quot;top&quot;>Systematic review of cross-sectional studies with consistently applied reference standard and blinding</td>
+            <td valign=&quot;top&quot;>Well-designed randomized controlled trials performed on a population similar to the guideline's target population</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>B</th>
+            <td valign=&quot;top&quot;>Individual cross-sectional studies with consistently applied reference standard and blinding</td>
+            <td valign=&quot;top&quot;>Randomized controlled trials; overwhelmingly consistent evidence from observational studies</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>C</th>
+            <td>Nonconsecutive studies, case control studies, or studies with poor, nonindependent, or inconsistently applied reference standards</td>
+            <td valign=&quot;top&quot;>Observational studies (case control and cohort design)</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>D</th>
+            <td valign=&quot;top&quot;>Mechanism-based reasoning or case reports</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>X</th>
+            <td valign=&quot;top&quot; colspan=&quot;2&quot;>Exceptional situations where validating studies cannot be performed and there is a clear preponderance of benefit over harm</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The evidence-based approach to guideline development requires that the evidence supporting a policy be identified, appraised, and summarized and that an explicit link between evidence and statements be defined.</p>
+<p>Evidence-based statements reflect both the quality of evidence and the balance of benefit and harm that is anticipated when the statement is followed. The definitions for evidence-based statements are listed in the &quot;Rating Scheme for the Strength of the Evidence&quot; and the &quot;Rating Scheme for the Strength of the Recommendations&quot; fields. Because much of the guideline dealt with evidence relating to diagnostic tests, Evidence Quality for Grades of Evidence (see the &quot;Rating Scheme for the Strength of the Evidence&quot; field) was adapted to include current recommendations from the Oxford Centre for Evidence-Based Medicine.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This guideline was developed using an explicit and transparent a priori protocol for creating actionable statements based on supporting evidence and the associated balance of benefit and harm. The Guideline Development Group consisted of 20 panel members representing experts in otolaryngology, allergy and immunology, internal medicine, family medicine, pediatrics, sleep medicine, advanced practice nursing, complementary and alternative medicine (acupuncture and herbal therapies), and consumer advocacy.</p>
+<p>In a series of conference calls, the working group defined the scope and objectives of the proposed guideline. During then 12 months devoted to guideline development ending in March 2014, the group met twice, with in-person meetings using electronic decision support (BRIDGE-Wiz, Yale Center for Medical Informatics, CT) software to facilitate creating actionable recommendations and evidence profiles. Internal electronic review and feedback on each guideline draft were used to ensure accuracy of content and consistency with standardized criteria for reporting clinical practice guidelines.</p>
+<p>American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation (AAO-HNSF) staff used the Guideline Implementability Appraisal and Extractor (GLIA) to appraise adherence of the draft guideline to methodological standards, to improve clarity of recommendations, and to predict potential obstacles to implementation. Guideline panel members received summary appraisals in April 2014 and modified an advanced draft of the guideline.</p>
+<p>The recommendations contained in the guideline are based on the best available data published through May 2014. Where data were lacking, a combination of clinical experience and expert consensus was used.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Guideline Definitions for Evidence-Based Statements</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Guideline Definitions for Evidence-Based Statements&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Statement</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Definition</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Implication</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Strong Recommendation</th>
+            <td valign=&quot;top&quot;>A strong recommendation means the benefits of the recommended approach clearly exceed the harms (or that the harms clearly exceed the benefits in the case of a strong negative recommendation) and that the quality of the supporting evidence is excellent (grade A or B).* In some clearly identified circumstances, strong recommendations may be made based on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits strongly outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Recommendation</th>
+            <td valign=&quot;top&quot;>A recommendation means the benefits exceed the harms (or that the harms exceed the benefits in the case of a negative recommendation), but the quality of evidence is not as strong (grade B or C).* In some clearly identified circumstances, recommendations may be made based on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should also generally follow a recommendation but should remain alert to new information and sensitive to patient preferences.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Option</th>
+            <td valign=&quot;top&quot;>An option means that either the quality of evidence that exists is suspect (grade D)* or that well-done studies (grade A, B, or C)* show little clear advantage to one approach versus another.</td>
+            <td valign=&quot;top&quot;>Clinicians should be flexible in their decision making regarding appropriate practice, although they may set bounds on alternatives; patient preference should have a substantial influencing role.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>No Recommendation</th>
+            <td valign=&quot;top&quot;>No recommendation means there is both a lack of pertinent evidence (grade D)* and an unclear balance between benefits and harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should feel little constraint in their decision making and be alert to new published evidence that clarifies the balance of benefit versus harm; patient preference should have a substantial influencing role.</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>*See the &quot;Rating Scheme for the Strength of the Evidence&quot; field for definitions of evidence grades.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Recent literature suggests there may be a long-term cost savings with immunotherapy. The economic considerations regarding immunotherapy were evaluated, and evidence supports the cost-effectiveness of immunotherapy (subcutaneous immunotherapy [SCIT] and sublingual immunotherapy [SLIT]) compared with pharmacotherapy for allergic rhinitis (AR). A recent systematic review found a need for further research to determine the relative cost-effectiveness in comparing SCIT with SLIT; a 2012 US study found a wide variation of cost to the patient in regard to SCIT by insurance plan, and the cost of SLIT varied between practices 4-fold. While there are significant benefits of immunotherapy in AR, the decision to pursue immunotherapy should be based on shared decision making between the physician and the patient.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The final guideline draft underwent extensive external peer review. Comments were compiled and reviewed by the panel's chair and co-chairs, and a modified version of the guideline was distributed and approved by the guideline development panel.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p>
+<p>The recommendations contained in the guideline are based on the best available data published through May 2014. Where data were lacking, a combination of clinical experience and expert consensus was used.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This clinical practice guideline was undertaken to optimize the care of patients with allergic rhinitis (AR) by addressing quality improvement opportunities through an evaluation of the available evidence and an assessment of the harm-benefit balance of various diagnostic and management options.</p>
+<p>For benefits of specific interventions considered in the guideline, see the &quot;Major Recommendations&quot; field.</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Inappropriate treatment and potential misdiagnosis from using history and physical alone </li>
+    <li>Adverse events from testing, misinterpretation of results, and inaccurate test results (false positives and negatives) </li>
+    <li>Potential erroneous diagnosis of chronic and comorbid conditions </li>
+    <li>Tables 9, 10 and 11 in the original guideline document provide a list of the U.S. Food and Drug Administration (FDA)-approved intranasal steroids, oral antihistamines, and intranasal antihistamines for allergic rhinitis, including common side effects:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Topical steroids: topical side effects, epistaxis, drug side effects, potential growth concerns in children, septal perforation, and the cost of medication </li>
+        <li>Oral antihistamines: systemic side effects (sedation), dry eyes, urinary retention </li>
+        <li>Intranasal antihistamines: increased cost relative to oral antihistamines, poor taste, sedation, more frequent dosing, epistaxis, local side effects </li>
+        <li>Combination therapy: increased cost, overuse of medication, use of ineffective combinations, multiple medication side effects, drug interactions </li>
+    </ul>
+    </li>
+    <li>Local reactions, systemic reactions including anaphylaxis, pain of injection, and delayed onset of symptom control (months) with immunotherapy </li>
+    <li>Unnecessary surgery, risks of surgery, and atrophic rhinitis with inferior turbinate reduction </li>
+    <li>Rare infections from acupuncture </li>
+</ul>
+<p>See the original guideline document for specific information on potential harms.</p>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Skin testing may be contraindicated when coexistent uncontrolled or severe asthma is present. Skin disease such as eczema can be a relative contraindication. Other contraindications may include coexisting medical conditions that would likely compromise survival should skin testing-induced anaphylaxis develop: for example, severe and unstable cardiovascular disease, concurrent use of &amp;beta;-blockers. </li>
+    <li>The use of &amp;beta;-blockers is a relative contraindication to immunotherapy as this may complicate the treatment of anaphylaxis. The sublingual immunotherapy (SLIT) tablet is contraindicated in patients with severe, unstable, or uncontrolled asthma. </li>
+    <li>Due to the potential for serious reactions, current practice guidelines indicate that subcutaneous immunotherapy (SCIT) should not be used in patients with uncontrolled asthma. The SLIT tablet is contraindicated in patients with severe, unstable, or uncontrolled asthma. </li>
+    <li>Tables 9, 10 and 11 of the original guideline document provide a list of U.S. Food and Drug Administration (FDA)-approved intranasal steroids, oral antihistamines, and intranasal antihistamines allergic rhinitis, including contraindications. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The guideline is intended to focus on a limited number of quality improvement opportunities deemed most important by the working group and is not intended to be a comprehensive reference for diagnosing and managing allergic rhinitis (AR). The recommendations outlined in the guideline are not intended to represent the standard of care for patient management, nor are the recommendations intended to limit treatment or care provided to individual patients. </li>
+    <li>Guidelines are not intended to supersede professional judgment but rather may be viewed as a relative constraint on individual clinician discretion in a particular clinical circumstance. Less frequent variation in practice is expected for a &quot;strong recommendation&quot; than might be expected with a &quot;recommendation.&quot; &quot;Options&quot; offer the most opportunity for practice variability. Clinicians should always act and decide in a way that they believe will best serve their patients' interests and needs, regardless of guideline recommendations. Clinicians must also operate within their scope of practice and according to their training. Guidelines represent the best judgment of a team of experienced clinicians and methodologists addressing the scientific evidence for a particular topic. </li>
+    <li>Making recommendations about health practices involves value judgments on the desirability of various outcomes associated with management options. Values applied by the guideline panel sought to minimize harm and diminish unnecessary and inappropriate therapy. A major goal of the panel was to be transparent and explicit about how values were applied and to document the process. </li>
+    <li>The clinical practice guideline is not intended as the sole source of guidance in managing patients with allergic rhinitis (AR). Rather, it is designed to assist clinicians by providing an evidence-based framework for decision-making strategies. The guideline is not intended to replace clinical judgment or establish a protocol for all individuals with this condition and may not provide the only appropriate approach to diagnosing and managing this program of care. As medical knowledge expands and technology advances, clinical indicators and guidelines are promoted as conditional and provisional proposals of what is recommended under specific conditions but are not absolute. Guidelines are not mandates; these do not and should not purport to be a legal standard of care. The responsible physician, in light of all circumstances presented by the individual patient, must determine the appropriate treatment. Adherence to these guidelines will not ensure successful patient outcomes in every situation. The American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation (AAO-HNSF) emphasizes that these clinical guidelines should not be deemed to include all proper treatment decisions or methods of care or to exclude other treatment decisions or methods of care reasonably directed to obtaining the same results. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The clinical practice guideline is published as a supplement to <em>Otolaryngology&amp;mdash;Head and Neck Surgery</em>, which will facilitate reference and distribution. A full-text version of the guideline will be accessible, free of charge, at <a href=&quot;http://www.entnet.org&quot; title=&quot;AAO-HNSF Web site&quot;>http://www.entnet.org</a>. In addition, all American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation (AAO-HNSF) guidelines are now available via the <em>Otolaryngology&amp;mdash;Head and Neck Surgery</em> app for smartphones and tablets. The guideline will be presented to AAO-HNSF members as a mini seminar at the 2014 AAO-HNSF Annual Meeting and OTO EXPO. Existing brochures and publication by the AAO-HNSF will be updated to reflect the guideline's recommendations.</p>
+<p>As a supplement to clinicians, an algorithm of the guideline's action statements and a table with common allergic rhinitis clinical scenarios has been provided. The algorithm allows for a more rapid understanding of the guideline's logic and the sequence of the action statements. The Guideline Development Group hopes the algorithm can be adopted as a quick reference guide to support the implementation of the guideline's recommendations.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Pocket Guide/Reference Cards"/>
+      <fieldvalue value="Quick Reference Guides/Physician Guides"/>
+      <fieldvalue value="Resources"/>
+      <fieldvalue value="Slide Presentation"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Seidman MD, Gurgel RK, Lin SY, Schwartz SR, Baroody FM, Bonner JR, Dawson DE, Dykewicz MS, Hackell JM, Han JK, Ishman SL, Krouse HJ, Malekzadeh S, Mims JW, Omole FS, Reddy WD, Wallace DV, Walsh SA, Warren BE, Wilson MN, Nnacheta LC. Clinical practice guideline: allergic rhinitis. Otolaryngol Head Neck Surg. 2015 Feb;152(1 Suppl):S1-S43. [364 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25644617&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2015 Feb"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American Academy of Otolaryngology - Head and Neck Surgery Foundation - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF)</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF) Guideline Development Panel</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Panel Members</em>: Michael D. Seidman, MD, Department of Otolaryngology &amp;ndash; Head and Neck Surgery, Henry Ford West Bloomfield Hospital West Bloomfield, Michigan, USA; Richard K. Gurgel, MD, Department of Surgery Otolaryngology&amp;ndash;Head and Neck Surgery, University of Utah, Salt Lake City, Utah, USA; Sandra Y. Lin, MD, Johns Hopkins School of Medicine, Department of Otolaryngology&amp;ndash;Head and Neck Surgery, Baltimore, Maryland, USA; Seth R. Schwartz, MD, MPH, Virginia Mason Medical Center, Seattle, Washington, USA; Fuad M. Baroody, MD, University of Chicago Medical Center, Department of Otolaryngology, Chicago, Illinois, USA; James R. Bonner, MD, Birmingham VA Medical Center, Birmingham, Alabama, USA; Douglas E. Dawson, MD, Otolaryngology, Private Practice, Muscatine, Iowa, USA; Mark S. Dykewicz, MD, Department of Internal Medicine, St Louis University School of Medicine, St Louis, Missouri, USA; Jesse M. Hackell, MD, Pomona Pediatrics, Pomona, New York, USA; Joseph K. Han, MD, Eastern Virginia Medical School, Norfolk, Virginia, USA; Stacey L. Ishman, MD, MPH, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, USA; Helene J. Krouse, PhD, ANP-BC, CORLN, Wayne State University, Philadelphia, Pennsylvania, USA; Sonya Malekzadeh, MD, Georgetown University Hospital, Washington, DC, USA; James (Whit) W. Mims, MD, Wake Forest Baptist Health, Winston Salem, North Carolina, USA; Folashade S. Omole, MD, Morehouse School of Medicine, East Point, Georgia, USA; William D. Reddy, LAc, DiplAc, Acupuncture and Oriental Medicine (AAAOM), Annandale, Virginia, USA; Dana V. Wallace, MD, Florida Atlantic University, Boca Raton, Florida and Nova Southeastern University, Davie, Florida, USA; Sandra A. Walsh, Consumers United for Evidence-based Healthcare, Fredericton, New Brunswick, Canada; Barbara E. Warren, PsyD, MEd, Consumers United for Evidence-based Healthcare, Fredericton, New Brunswick, Canada; Meghan N. Wilson, MD, Louisiana State University School of Medicine, New Orleans, Louisiana, USA; and Lorraine C. Nnacheta, MPH, Department of Research and Quality, American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation, Alexandria, Virginia, USA</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Financial Disclosure and Conflict of Interest</strong></p>
+<p>The cost of developing this guideline, including travel expenses of all panel members, was covered in full by the American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF). Potential conflicts of interest for all panel members in the past 5 years were compiled and distributed before the first conference call. After review and discussion of these disclosures, the panel concluded that individuals with potential conflicts could remain on the panel if they (1) reminded the panel of potential conflicts before any related discussion, (2) recused themselves from a related discussion if asked by the panel, and (3) agreed not to discuss any aspect of the guideline with industry before publication. Last, panelists were reminded that conflicts of interest extend beyond financial relationships and may include personal experiences, how a participant earns a living, and the participant's previously established &quot;stake&quot; in an issue.</p>
+<p><strong>Disclosures</strong></p>
+<p><em>Competing interests:</em> Michael D. Seidman, medical director Scientific Advisory Board&amp;ndash;Visalus, founder of Body Language Vitamin Co, National Institutes of Health grant on simulation, 6 patents but related to supplements, aircraft, and the middle ear and brain implant; Sandra Y. Lin, consultant for Wellpoint; Fuad M. Baroody, speaker for Merck, Inc, speaker for GlaxoSmithKline and speaker/consultant for Acclarent/Johnson/Johnson; Mark S. Dykewicz, consultant for Merck and research contract support to Saint Louis University for Novartis; Jesse M. Hackell, GlaxoSmithKline (Speakers Bureau), Sunovion Pharmaceuticals Inc. (Advisory Board) has had discussions regarding nasal corticosteroids, Transit of Venus (Advisory Board); Joseph K. Han, Medtronic research grant; PI and consultant on clinical study with Intersect, and speaker for Merck; Stacey L. Ishman, consultant for First Line Medical; Dana V. Wallace, TEVA (Speaker's Bureau), Sanofi (Advisory Panel and Speaker's Bureau), Mylan (Advisory Board and Speaker's Bureau), Sunovion (Speaker's Bureau), MEDA (Advisory Panel and Speaker's Bureau), ACAAI Executive Committee Chair and Board of Regents, Rhinitis/Sinusitis Committee, AAAAI/ACAAI/JCAAI Practice Parameter Joint Task Force.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;http://www.entnet.org/content/clinical-practice-guideline-allergic-rhinitis&quot; title=&quot;AAO-HNSF Web site&quot;>American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation (AAO-HNSF) Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Seidman MD, Gurgel RK, Lin SY, Schwartz SR, Baroody FM, Bonner JR, Dawson DE, Dykewicz MS, Hackell JM, Han JK, Ishman SL, Krouse HJ, Malekzadeh S, Mims JW, Omole FS, Reddy WD, Wallace DV, Walsh SA, Warren BE, Wilson MN, Nnacheta LC. Clinical practice guideline: allergic rhinitis executive summary. Otolaryngol Head Neck Surg. 2015 Feb;152(2):197-206. Electronic copies: Available from the <a href=&quot;http://oto.sagepub.com/content/152/2/197.full&quot; title=&quot;SAGE Journal Online Web site&quot;>SAGE Journal Online Web site</a>. </li>
+    <li>Clinical practice guideline: allergic rhinitis. Podcast Part 1 and 2. Alexandria (VA): American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF). 2015 Feb. Available from the <a href=&quot;http://www.entnet.org/content/clinical-practice-guideline-allergic-rhinitis&quot; title=&quot;AAO-HNSF Web site&quot;>AAO-HNSF Web site</a>. </li>
+    <li>Clinical practice guideline: allergic rhinitis. Slide set. Alexandria (VA): American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF). 2015 Feb. Electronic copies: Available from the <a href=&quot;http://www.entnet.org/content/clinical-practice-guideline-allergic-rhinitis&quot; title=&quot;AAO-HNSF Web site&quot;>AAO-HNSF Web site</a>. </li>
+    <li>Clinical practice guideline: allergic rhinitis. Pocket guide and mobile app. Alexandria (VA): American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF). 2015 Feb. Available from the <a href=&quot;https://www.guidelinecentral.com/shop/allergic-rhinitis-guidelines-pocket-card/&quot; title=&quot;GuidelineCentral Web site&quot;>GuidelineCentral Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Clinical practice guideline: allergic rhinitis. Plain language summary. Alexandria (VA): American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF). 2015 Feb. 2 p. Electronic copies: Available from the <a href=&quot;http://www.entnet.org/sites/default/files/uploads/PracticeManagement/Resources/_files/allergic-rhinitis-plain-language-summary.pdf&quot; title=&quot;AAO-HNSF Web site&quot;>AAO-HNSF Web site</a>. </li>
+</ul>
+<p>In addition, a number of other patients resources related to allergies and hay fever and allergic rhinitis are available on the <a href=&quot;http://www.entnet.org/content/clinical-practice-guideline-allergic-rhinitis&quot; title=&quot;AAO-HNSF Web site&quot;>AAO-HNSF Web site</a>. </p>
+<p class=&quot;Note&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on April 20, 2015. The information was verified by the guideline developer on April 30, 2015. This summary was updated by ECRI Institute on February 15, 2017 following the U.S. Food and Drug Administration advisory on general anesthetic and sedation drugs.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Permission is granted to reproduce the aforementioned material in <strong>print and electronic format</strong> at no charge subject to the following conditions:</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>If any part of the material to be used (for example, figures) has appeared in our publication with credit or acknowledgement to another source, permission must also be sought from that source. If such permission is not obtained then that material may not be included in your publication/copies.<br />
+    <br />
+    </li>
+    <li>Suitable acknowledgement to the source must be made, either as a footnote or in a reference list at the end of your publication, as follows:
+    <p>&quot;Reprinted from Publication title, Vol number, Author(s), Title of article, Pages No., Copyright (Year), with permission from American Academy of Otolaryngology-Head and Neck Surgery Foundation, Inc.&quot;</p>
+    </li>
+    <li>Reproduction of this material is confined to the purpose for which permission is hereby given. <br />
+    <br />
+    </li>
+    <li>This permission is granted for non-exclusive world <strong><span style=&quot;text-decoration: underline;&quot;>English</span></strong> rights only. For other languages please reapply separately for each one required. </li>
+</ol></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 23:47:35 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:34:39 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 87.591 (3)
+  esindex: 0.008
+  captures_list: 106.058
+  CDXLines.iter: 15.061 (3)
+  PetaboxLoader3.datanode: 60.104 (4)
+  exclusion.robots: 0.298
+  exclusion.robots.policy: 0.285
+  RedisCDXSource: 0.468
+  load_resource: 25.502
+-->
