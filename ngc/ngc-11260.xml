@@ -1,0 +1,922 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app43.us.archive.org';v.server_ms=429;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11260?contentType=xml', '20180713011756')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713011756/https://www.guideline.gov/summaries/downloadcontent/ngc-11260?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713011756/https://www.guideline.gov/summaries/downloadcontent/ngc-11260?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11260?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713011756" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610071534/https://www.guideline.gov/summaries/downloadcontent/ngc-11260?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 01:17:56 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610071534/https://www.guideline.gov/summaries/downloadcontent/ngc-11260?contentType=xml" title="07:15:34 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 01:17:56 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2017</td>
+		  <td class="c" id="displayYearEl" title="You are here: 01:17:56 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713011756*/https://www.guideline.gov/summaries/downloadcontent/ngc-11260?contentType=xml" title="See a list of every capture for this URL">3 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">19 May 2018 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11260?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Cumulative trauma conditions medical treatment guidelines.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Colorado Division of Workers' Compensation. Cumulative trauma conditions medical treatment guidelines. Denver (CO): Colorado Division of Workers' Compensation; 2017 Mar 2. 207 p. </td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Colorado Division of Workers' Compensation. Cumulative trauma conditions medical treatment guidelines. Denver (CO): Colorado Division of Workers' Compensation; 2010 Sep 16. 121 p.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria. </p></div>"/>
+    </field>
+  </section>
+  <section secid="705" ordby="150" name="NEATS Assessment">
+    <field fieldid="183" ordby="10" id="706" name="Disclosure of Guideline Funding Source" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="184" ordby="20" id="707" name="Disclosure and Management of Financial Conflict of Interests" type="picklist-one">
+      <fieldvalue value="2"/>
+    </field>
+    <field fieldid="185" ordby="30" id="708" name="Guideline Development Group Composition: Multidisciplinary Group" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="186" ordby="40" id="709" name="Guideline Development Group Composition: Methodologist Involvement" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="187" ordby="50" id="710" name="Guideline Development Group Composition: Patient and Public Perspectives" type="picklist-one">
+      <fieldvalue value="3"/>
+    </field>
+    <field fieldid="188" ordby="60" id="711" name="Use of a Systematic Review of Evidence: Search Strategy" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="189" ordby="70" id="712" name="Use of a Systematic Review of Evidence: Study Selection" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="190" ordby="80" id="713" name="Use of a Systematic Review of Evidence: Synthesis of Evidence" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="191" ordby="90" id="714" name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="192" ordby="100" id="715" name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="193" ordby="110" id="716" name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="194" ordby="120" id="717" name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="195" ordby="130" id="718" name="Specific and Unambiguous Articulation of Recommendations" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="196" ordby="140" id="719" name="External Review" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="197" ordby="150" id="720" name="Updating" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This summary includes the treatment recommendations of the guideline. See the original guideline document for additional information on initial diagnostic procedures for patients with cumulative trauma conditions (CTCs) and for further descriptions of the therapies discussed below. See the original guideline document also for operative and non-operative treatment strategies designed to correlate with specific cumulative trauma conditions.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Therapeutic Procedures&amp;mdash;Non-operative</span></strong></p>
+<p>Treating providers, employers, and insurers are highly encouraged to reference General Guidelines Principles (Section B in the original guideline document) before initiating any therapeutic procedure. All treatment plans should specify frequency, duration, and expected treatment milestones. Before initiation of any therapeutic procedure, the authorized treating provider, employer, and insurer must consider these important issues in the care of the injured worker.</p>
+<p>First, patients undergoing therapeutic procedure(s) should be released or returned to modified- or restricted-duty during their rehabilitation at the earliest appropriate time. Refer to &quot;Return-to-Work&quot; below for detailed information.</p>
+<p>Second, cessation and/or review of treatment modalities should be undertaken when no further significant subjective or objective improvement in the patient's condition is noted. If patients are not responding within the recommended duration periods, alternative treatment interventions, further diagnostic studies, or consultations should be pursued. </p>
+<p>Third, providers should provide and document patient education. Functional progression is expected through prescribed activity such as neuromuscular and postural re-education/re-patterning exercises. Before diagnostic tests or referrals for invasive treatment take place, the patient should be able to clearly articulate the goals of the intervention, the general side effects, and associated risks, as well as agree with the expected treatment plan.</p>
+<p>Lastly, formal psychological or psychosocial evaluation should be performed on patients not making expected progress within 6 to 12 weeks following injury and whose subjective symptoms do not correlate with objective signs and tests.</p>
+<p>Home therapy is an important component of therapy and may include active and passive therapeutic procedures as well as other modalities to assist in alleviating pain, swelling, and abnormal muscle tone.</p>
+<p><span>The</span> following procedures are listed in alphabetical order.</p>
+<p><strong>Acupuncture</strong></p>
+<p>Acupuncture is recommended for subacute or chronic pain patients who are trying to increase function and/or decrease medication usage and have an expressed interest in this modality. It is also recommended for subacute or acute pain for patients who cannot tolerate nonsteroidal anti-inflammatory drugs (NSAIDs) or other medications.</p>
+<p>Acupuncture should generally be used in conjunction with manipulative and physical therapy/rehabilitation.</p>
+<p>Credentialed practitioners with experience in evaluation and treatment of chronic pain patients must evaluate prior to acupuncture treatments. The exact mode of action is only partially understood. Western medicine studies suggest that acupuncture stimulates the nervous system at the level of the brain, promotes deep relaxation, and affects the release of neurotransmitters. Acupuncture is commonly used as an alternative or in addition to traditional Western pharmaceuticals. It may be used when pain medication is reduced or not tolerated; as an adjunct to physical rehabilitation and surgical intervention; and/or as part of multidisciplinary treatment to hasten the return of functional activity. Acupuncture must be performed by practitioners with the appropriate credentials in accordance with state and other applicable regulations. Therefore, if not otherwise within their professional scope of practice and licensure, those performing acupuncture must have the appropriate credentials, such as L.A.c. R.A.c, or Dipl. Ac.</p>
+<p><em>Acupuncture</em></p>
+<p>Acupuncture is the insertion and removal of filiform needles to stimulate acupoints (acupuncture points). Needles may be inserted, manipulated, and retained for a period of time. Acupuncture can be used to reduce pain, reduce inflammation, increase blood flow, increase range-of-motion, decrease the side effects of medication-induced nausea, relax an anxious patient, and reduce muscle spasm. </p>
+<p>Indications include joint pain, joint stiffness, soft tissue pain and inflammation, paresthesia, post-surgical pain relief, muscle spasm, and scar tissue pain. </p>
+<p><em>Acupuncture with Electrical Stimulation</em></p>
+<p>Acupuncture with electrical stimulation is the use of electrical current (microamperage or milli-amperage) on the needles at the acupuncture site. It is used to increase effectiveness of the needles by continuous stimulation of the acupoint. Physiological effects (depending on location and settings) can include endorphin release for pain relief, reduction of inflammation, increased blood circulation, analgesia through interruption of pain stimulus, and muscle relaxation.</p>
+<p>It is indicated to treat chronic pain conditions, radiating pain along a nerve pathway, muscle spasm, inflammation, scar tissue pain, and pain located in multiple sites.</p>
+<p>Treatment beyond 14 treatments must be documented with respect to need and ability to facilitate positive symptomatic or functional gains. Such care should be re-evaluated and documented with each series of treatments.</p>
+<p><em>Other Acupuncture Modalities</em></p>
+<p>Acupuncture treatment is based on individual patient needs and therefore treatment may include a combination of procedures to enhance treatment effect. Other procedures may include the use of heat, soft tissue manipulation/massage, and exercise. Refer to &quot;Therapy&amp;ndash;Active (Therapeutic Exercise)&quot; and &quot;Therapy&amp;ndash;Passive (Massage and Superficial Heat and Cold Therapy)&quot; below for a description of these adjunctive acupuncture modalities and time frames.</p>
+<p><strong>Biofeedback</strong></p>
+<p>Biofeedback is a form of behavioral medicine that helps patients learn self-awareness and self-regulation skills to increase control of their physiology, such as muscle activity, brain waves, and measures of autonomic nervous system activity. Stress-related psycho-physiological reactions may arise as a reaction to organic pain and in some cases may cause pain. Electronic instrumentation is used to monitor the targeted physiology and then displayed or fed back to the patient visually, auditorily, or tactilely, with coaching by a biofeedback specialist. There is good evidence that biofeedback or relaxation therapy is equal in effect to cognitive behavioral therapy for chronic low back pain.</p>
+<p>Indications for biofeedback include cases of musculoskeletal injury, in which muscle dysfunction or other physiological indicators of excessive or prolonged stress response affects and/or delays recovery. Other applications include training to improve self-management of pain, anxiety, panic, anger or emotional distress, opioid withdrawal, insomnia/sleep disturbance, and other central and autonomic nervous system imbalances. Biofeedback is often utilized for relaxation training. Mental health professionals may also utilize it as a component of psychotherapy, where biofeedback and other behavioral techniques are integrated with psychotherapeutic interventions. Biofeedback is often used in conjunction with physical therapy or medical treatment.</p>
+<p><strong>Education/Informed Decision Making</strong></p>
+<p>Informed decision making is the hallmark of a successful treatment plan. In most cases, the continuum of treatment from the least invasive to the most invasive (e.g., surgery) should be discussed. The intention is to find the treatment along this continuum which most completely addresses the condition. Patients should identify their personal functional goals of treatment at the first visit. It is recommended that specific individual goals are articulated at the beginning of treatment as this is likely to lead to increased patient satisfaction above that achieved from improvement in pain or other physical function. Progress toward the individual functional goals identified should be addressed at follow up visits and throughout treatment by other members of the health care team as well as the authorized physicians.</p>
+<p>Documentation of this process should occur whenever diagnostic tests or referrals from the authorized treating physician are contemplated. The informed decision making process asks the patients to set their personal functional goals of treatment, describe their current health status and any concerns they have regarding adhering to the diagnostic or treatment plan proposed. The provider should clearly describe the following:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The expected functional outcomes from the proposed treatment, or expected results and plan of action if diagnostic tests are involved. </li>
+    <li>Any side effects and risks to the patient. </li>
+    <li>Required post treatment rehabilitation time and impact on work, if any. </li>
+    <li>Alternative therapies or diagnostic testing. </li>
+</ul>
+<p>Before diagnostic tests or referrals for invasive treatment take place, the patient should be able to clearly articulate the goals of the intervention, the general side effects and risks associated with it, and their decision regarding compliance with the suggested plan. There is some evidence that information provided only by video is not sufficient education. </p>
+<p>Practitioners must develop and implement an effective strategy and skills to educate patients, employers, insurance systems, policy makers, and the community as a whole. An education-based paradigm should always start with reassuring information to the patient and informed decision making. More in-depth education currently exists within a treatment regimen employing functional restoration, prevention, and cognitive behavioral techniques. Patient education and informed decision making should facilitate self-management of symptoms and prevention.</p>
+<p><strong>Injections&amp;ndash;Therapeutic</strong></p>
+<p>Therapeutic injections are generally accepted, well-established procedures that may play a significant role in the treatment of patients with upper extremity pain or pathology. Therapeutic injections involve the delivery of anesthetic and/or anti-inflammatory medications to the painful structure. Therapeutic injections have many potential benefits. Ideally, a therapeutic injection will: (a) reduce inflammation in a specific target area; (b) relieve secondary muscle spasm; and (c) diminish pain and support therapy directed to functional recovery. Diagnostic and therapeutic injections should be used early and selectively to establish a diagnosis and support rehabilitation. If injections are overused or used outside the context of a monitored rehabilitation program, they may be of significantly less value.</p>
+<p>Special Considerations: The use of injections has become progressively sophisticated. Each procedure considered has an inherent risk. Risk versus benefit should be evaluated when considering injection therapy. In addition, all injections must include sterile technique.</p>
+<p>Contraindications: General contraindications include local or systemic infection, bleeding disorders, allergy to medications used, and patient refusal. Specific contraindications may apply to individual injections.</p>
+<p><em>Autologous Whole Blood Injections/Platelet-Rich Plasma Injections</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Autologous Whole Blood Injections</span></p>
+<p>Autologous whole blood injections are inexpensive and may be used in patients who have not made sufficient functional progress with initial therapy for lateral or medial epicondylitis after 10 to 12 weeks. There is some evidence in literature on lateral epicondylitis that, for patients with symptoms lasting 6 months or more, autologous blood injections result in better pain and functional outcomes after 1 year than steroid injections.</p>
+<p><span style=&quot;text-decoration: underline;&quot;>Platelet-rich Plasma Injections</span></p>
+<p>There is good evidence in literature on lateral epicondylitis that, for patients with symptoms lasting 6 months or more, platelet-rich plasma injections result in better pain and functional outcomes after 1 year than steroid injections.</p>
+<p><em>Botulinum Toxin Injections</em></p>
+<p>Botulinum toxin treats lateral and medial epicondylitis by reversibly paralyzing the extensor muscles and thereby preventing repetitive micro-trauma of the tendinous fibers at their origin from the osseous lateral/medial epicondyle. The unit dosage varies significantly depending on the brand used. Usage for lateral and medial epicondylitis is not Food and Drug Administration (FDA)-approved at the time of this guideline writing. There is good evidence that botulinum toxin A injection may provide short-term pain relief from pain due to chronic (3 months or longer) lateral epicondylitis. However, the long-term functional benefits are unknown. There is also good evidence that botulinum toxin A injections cause weakness in finger extension and/or digit paresis. Additional complications may include allergic reaction to medications, increased risk of systemic effects in patients with motor neuropathy or disorders of the neuromuscular junction.</p>
+<p>Botulinum toxin should not be considered a first line of treatment. Other conservative measures should be tried first. Careful botulinum toxin dosing should be used to avoid complete paresis and maintain function and return to work.</p>
+<p>Botulinum toxin injections are listed in this guideline as a treatment option for lateral and medial epicondylitis. <strong>Prior authorization is required</strong>. For more specific details, refer to the original guideline document.</p>
+<p><em>Steroid Injections</em></p>
+<p>Steroid injections, including joint, bursa, and peri-tendinous insertions, are well-established procedures with varying degrees of evidence depending on the diagnosis. Peri-tendinous injections under significant pressure should be avoided as the needle may be inadvertently penetrating the tendon. Injection into the tendon can cause tendon degeneration, tendon breakdown, or rupture. When performing peri-tendinous injections, the risk of tendon rupture should be discussed with the patient and the need for temporary restricted-duty emphasized.</p>
+<p>There is strong evidence that, in the setting of lateral epicondylitis, the effects of corticosteroid injections on pain and function are more favorable than placebo in the first four weeks, but these benefits are reversed by six months. In addition, corticosteroid injections are detrimental compared to placebo injections in the intermediate and long term. </p>
+<p>There is some evidence for steroid injections as a short term treatment in carpal tunnel syndrome.</p>
+<p>Given this information regarding the increase in blood glucose levels, effects on the endocrine system, and possible osteoporotic influence, it is suggested that intra-articular and epidural injections be limited to a total of 3 to 4 per year (all joints combined). For further specific recommendations, refer to diagnostic sections of the original guideline document.</p>
+<p><em>Trigger Point Injections</em></p>
+<p>Although generally accepted, trigger point injections have only rare indications in the treatment of cumulative trauma disorders. Therefore, the Division does not recommend their routine use in the treatment of cumulative trauma disorders. </p>
+<p>There is no indication for conscious sedation for patients receiving trigger point injections or dry needling. The patient must be alert to help identify the site of the injection.</p>
+<p>Indications: Trigger point injections and dry needling may be used to relieve myofascial pain and facilitate active therapy and stretching of the affected areas. They are to be used as an adjunctive treatment in combination with other treatment modalities such as active therapy programs. Trigger point injections should be utilized primarily to facilitate functional progress. Patients should continue in an aggressive aerobic and stretching therapeutic exercise program, as tolerated, while undergoing intensive myofascial interventions. Myofascial pain is often associated with other underlying structural problems. Any abnormalities need to be ruled out prior to injection.</p>
+<p>Trigger point injections and dry needling are indicated in patients with consistently observed, well-circumscribed trigger points. Trigger point injections and dry needling may demonstrate a local twitch response, characteristic radiation of pain pattern, and local autonomic reaction such as persistent hyperemia following palpation. Generally, neither trigger point injections nor dry needling are necessary unless consistently observed trigger points are not responding to specific, noninvasive, myofascial interventions within approximately a 6-week time frame. However, both trigger point injections and dry needling may be occasionally effective when utilized in the patient with immediate, acute onset of pain or in a post-operative patient with persistent muscle spasm or myofascial pain.</p>
+<p>Complications: Potential but rare complications of trigger point injections and dry needling include infection, pneumothorax, anaphylaxis, penetration of viscera, neurapraxia, and neuropathy. If corticosteroids are injected in addition to local anesthetic, there is a risk of local myopathy. Severe pain on injection suggests the possibility of an intraneural injection, and the needle should be immediately repositioned.</p>
+<p><em>Prolotherapy</em></p>
+<p>Also known as sclerotherapy, prolotherapy consists of peri-articular injections of hypertonic dextrose with or without phenol. The goal of prolotherapy is to induce an inflammatory response that will recruit cytokine growth factors involved in the proliferation of connective tissue.</p>
+<p>There is no evidence that prolotherapy compared to a steroid injection for aggravated carpometacarpal arthritis provides a clinically meaningful advantage. Therefore, it is <strong><em>not recommended</em></strong>.</p>
+<p><em>Viscosupplementation/Intracapsular Acid Salts</em></p>
+<p>Viscosupplementation/intracapsular acid salts involves the injection of hyaluronic acid and its derivatives into the joint space. Hyaluronic acid is normally secreted by the healthy synovium into the joint space and functions to lubricate the joint and protect the cartilage. These injections may only be used for osteoarthritis.</p>
+<p>There is no evidence that hyaluronate injections are superior to steroid injections for carpometacarpal thumb arthritis. There is some evidence that intra-articular hyaluronan is not superior to placebo for improving pain in the setting of carpometacarpal osteoarthritis and that it does not improve function in a clinically important way in the first six months after injection. Therefore, they are <strong><em>not recommended</em></strong>.</p>
+<p><strong>Interdisciplinary Rehabilitation Programs</strong></p>
+<p>Interdisciplinary rehabilitation programs are the gold standard of treatment for individuals who have not responded to less intensive modes of treatment. There is good evidence that interdisciplinary programs that include screening for psychological issues, identification of fear-avoidance beliefs and treatment barriers, and establishment of individual functional and work goals will improve function and decrease disability. These programs should assess the impact of pain and suffering on the patient's medical, physical, psychological, social, and/or vocational functioning. In general, interdisciplinary programs evaluate and treat multiple and sometimes irreversible conditions. These conditions include, but are not limited to, painful musculoskeletal, neurological, and other chronic pain conditions and psychological issues; drug dependence, abuse, or addiction; high levels of stress and anxiety; failed surgery; and pre-existing or latent psychopathology. The number of professionals on the team in a chronic pain program may vary due to the complexity of the needs of the person served. The Division recommends consideration of referral to an interdisciplinary program within six months post-injury in patients with delayed recovery, unless successful surgical interventions or other medical and/or psychological treatment complications are at issue.</p>
+<p>Chronic pain patients need to be treated as outpatients within a continuum of treatment intensity. Outpatient chronic pain programs are available with services provided by a coordinated interdisciplinary team within the same facility (formal) or as coordinated among practices by the authorized treating physician (informal). Formal programs are able to provide a coordinated, high-intensity level of services and are recommended for most chronic pain patients who have received multiple therapies during acute management.</p>
+<p>Patients with addiction problems, high-dose opioid use, or abuse of other drugs may require inpatient and/or outpatient chemical dependency treatment programs before or in conjunction with other interdisciplinary rehabilitation. Guidelines from the American Society of Addiction Medicine are available and may be consulted relating to the intensity of services required for different classes of patients in order to achieve successful treatment. </p>
+<p>Informal interdisciplinary pain programs may be considered for patients who are currently employed, those who cannot attend all-day programs, those with language barriers, or those living in areas not offering formal programs. Before treatment has been initiated, the patient, physician, and insurer should agree on treatment approach, methods, and goals. Generally, the type of outpatient program needed will depend on the degree of impact the pain has had on the patient's medical, physical, psychological, social, and/or vocational functioning.</p>
+<p>When referring a patient for formal outpatient interdisciplinary pain rehabilitation, an occupational rehabilitation program, or an opioid treatment program, the Division recommends the program meets the criteria of the Commission on Accreditation of Rehabilitation Facilities (CARF). </p>
+<p>Inpatient pain rehabilitation programs are rarely needed but may be necessary for patients with any of the following conditions: (a) high risk for medical instability; (b) moderate-to-severe impairment of physical/functional status; (c) moderate-to-severe pain behaviors; (d) moderate impairment of cognitive and/or emotional status; (e) dependence on medications from which he/she needs to be withdrawn; and (f) the need for 24-hour supervised nursing.</p>
+<p><em>Formal Interdisciplinary Rehabilitation Programs</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Interdisciplinary Rehabilitation Programs</span></p>
+<p>An Interdisciplinary Pain Rehabilitation Program provides outcome-focused, coordinated, goal-oriented interdisciplinary team services to measure and improve the functioning of persons with pain and encourage their appropriate use of health care system and services. The program can benefit persons who have limitations that interfere with their physical, psychological, social, and/or vocational functioning. The program shares information about the scope of the services and the outcomes achieved with patients, authorized providers, and insurers. </p>
+<p>The interdisciplinary team maintains consistent integration and communication to ensure that all team members are aware of the plan of care for the patient, are exchanging information, and implement the plan of care. The team members make interdisciplinary team decisions with the patient and then ensure that decisions are communicated to the entire care team. </p>
+<p>The Medical Director of the pain program should ideally be board certified in pain management. Alternatively, he/she should be board certified in his/her specialty area and have completed a one-year fellowship in interdisciplinary pain medicine or palliative care recognized by a national board. As a final alternative, he or she should have two years of experience in an interdisciplinary pain rehabilitation program. Teams that assist in the accomplishment of functional, physical, psychological, social, and vocational goals must include: a medical director, pain team physician(s), who should preferably be board certified in an appropriate specialty, and a pain team psychologist. Professionals from other disciplines on the team may include, but are not limited to: a biofeedback therapist, an occupational therapist, a physical therapist, a registered nurse (RN), a case manager, an exercise physiologist, a psychologist, a psychiatrist, and/or a nutritionist. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>Occupational Rehabilitation</span></p>
+<p>This is a formal interdisciplinary program addressing a patient's employability and return to work. It includes a progressive increase in the number of hours per day in which a patient completes work simulation tasks until the patient can tolerate a full work day. A full work day is case specific and is defined by the previous employment of the patient. Safe workplace practices and education of the employer and family and/or social support system regarding the person's status should be included. This is accomplished by addressing the medical, psychological, behavioral, physical, functional, and vocational components of employability and return to work. </p>
+<p>There is some evidence that an integrated care program, consisting of workplace interventions and graded activity teaching that pain need not limit activity, is effective in returning patients with chronic low back pain to work, even with minimal reported reduction of pain. The occupational medicine rehabilitation interdisciplinary team should, at a minimum, be comprised of a qualified medical director who is board certified with documented training in occupational rehabilitation; team physicians having experience in occupational rehabilitation; an occupational therapist; and a physical therapist. </p>
+<p>As appropriate, the team may also include any of the following: chiropractor, an RN, a case manager, a psychologist, a vocational specialist, or a certified biofeedback therapist.</p>
+<p><span style=&quot;text-decoration: underline;&quot;>Opioid/Chemical Treatment Programs</span></p>
+<p>Refer to the NGC summary of the Division's <a href=&quot;/summaries/summary/51221&quot; title=&quot;Guideline #11313&quot; target=&quot;_blank'&quot;>Chronic pain disorder medical treatment guidelines</a>. </p>
+<p><em>Informal Interdisciplinary Rehabilitation Program</em></p>
+<p>A coordinated interdisciplinary pain rehabilitation program is one in which the authorized treating physician coordinates all aspects of care. This type of program is similar to the formal programs in that it is goal-oriented and provides interdisciplinary rehabilitation services to manage the needs of the patient in the following areas: (a) functional, (b) medical, (c) physical, (d) psychological, (e) social, and (f) vocational. </p>
+<p>This program is different from a formal program in that it involves lower frequency and intensity of services/treatment. Informal rehabilitation is geared toward those patients who do not need the intensity of service offered in a formal program or who cannot attend an all-day program due to employment, daycare, language, or other barriers.</p>
+<p>Patients should be referred to professionals experienced in outpatient treatment of chronic pain. The Division recommends the authorized treating physician consult with physicians experienced in the treatment of chronic pain to develop the plan of care. Communication among care providers regarding clear objective goals and progress toward the goals is essential. Employers should be involved in return to work and work restrictions. The family and/or social support system should be included in the treatment plan. Professionals from other disciplines likely to be involved include: a biofeedback therapist, an occupational therapist, a physical therapist, an RN, a psychologist, a case manager, an exercise physiologist, a psychiatrist, and/or a nutritionist.</p>
+<p><strong>Jobsite Alteration</strong></p>
+<p>There is no single factor or combination of factors that is proven to prevent or ameliorate cumulative trauma conditions, but a combination of ergonomic and psychosocial factors are generally considered to be important. Ergonomic factors that may be considered include use of force, repetition, awkward positions, upper extremity vibration, cold environment, and contact pressure on the nerve. Psychosocial factors to be considered include pacing, degree of control over job duties, perception of job stress, and supervisory support.</p>
+<p>All jobsite evaluations should include suggested ergonomic changes as applicable. It is inappropriate to limit a job site evaluation to a strict isolated evaluation of causation risk factors only.</p>
+<p>Job evaluation and modification should include input from a licensed health care professional with training in ergonomics or a certified ergonomist; the employee; and the employer. The employee must be observed performing relevant job functions in order for the jobsite evaluation to be a valid representation of a typical workday. If the employee is unable to perform the job function for observation, a co-worker in an identical job position may be observed instead. Periodic follow-up is recommended to assess the effectiveness of the intervention and need for additional ergonomic changes.</p>
+<p>Because ergonomic changes are a required medical treatment for cumulative trauma conditions and the person performing the evaluations is a health care professional, it is assumed that the insurer will be responsible for paying for the jobsite evaluation.</p>
+<p>The original guideline document provides additional information on the following topics related to jobsite alteration:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Interventions </li>
+    <li>Seating description </li>
+    <li>Job hazard checklist </li>
+    <li>Tools </li>
+</ul>
+<p><strong>Medications and Medical Management</strong></p>
+<p>Use of medications in the treatment of cumulative trauma related conditions is generally accepted for controlling acute pain and inflammation. Use of medications will vary widely due to the spectrum of injuries from simple strains to post-surgical analgesia. A thorough medication history, including use of alternative and over-the-counter medications, should be performed at the time of the initial visit and updated periodically. Treatment for pain control is initially accomplished with acetaminophen and/or non-steroidal anti-inflammatory drugs (NSAIDs). The patient should be educated regarding the interaction with prescription and over the counter medications as well as the contents of over the counter herbal products.</p>
+<p>Oral NSAIDs and acetaminophen are useful in treating conditions associated with degenerative joint disease and/or inflammation. Topical medications may also be useful in controlling pain.</p>
+<p><em>Acetaminophen</em></p>
+<p>Acetaminophen is an effective analgesic with antipyretic but not anti-inflammatory activity. Acetaminophen is generally well-tolerated, causes little or no gastrointestinal irritation, and is not associated with ulcer formation. Acetaminophen has been associated with liver toxicity in overdose situations or in chronic alcohol use. Patients may not realize that many over-the-counter preparations contain acetaminophen. The total daily dose of acetaminophen is recommended not to exceed three grams per 24-hour period, from all sources, including narcotic-acetaminophen combination preparations. </p>
+<p>There is good evidence that acetaminophen is not more effective than placebo for the treatment of knee osteoarthritis. Thus, it may not be useful for upper extremity osteoarthritis. It may be used on patients with contraindications to other medications.</p>
+<p><em>Minor Tranquilizer/Muscle Relaxants</em></p>
+<p>Minor tranquilizers and muscle relaxants are generally <strong><em>not recommended</em></strong> for use in patients with cumulative trauma conditions and, if used, should not exceed 2 weeks total.</p>
+<p><em>NSAIDs</em></p>
+<p>NSAIDs are useful for pain and inflammation. In mild cases, they may be the only drugs required for analgesia. There are several classes of NSAIDs. The response of the individual injured worker to a specific medication is unpredictable. For this reason, a range of NSAIDs may be tried in each case, with the most effective preparation being continued. Patients should be closely monitored for adverse reactions. The FDA advises that many NSAIDs may cause an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal. There is good evidence that naproxen has the least risk for cardiovascular events when compared to other NSAIDs. Administration of proton pump inhibitors, histamine 2 blockers or prostaglandin analog misoprostol along with these NSAIDs may reduce the risk of duodenal and gastric ulceration, in patients at higher risk for this adverse event (e.g., age &amp;gt;60, concurrent antiplatelet or corticosteroid therapy). They do not impact possible cardiovascular complications. Due to the cross-reactivity between aspirin and NSAIDs, NSAIDs should not be used in aspirin-sensitive patients, and it should be used with caution in all asthma patients. NSAIDs are associated with abnormal renal function, including renal failure, as well as abnormal liver function. Patients with renal or hepatic disease may need increased dosing intervals with chronic use. Chronic use of NSAIDs is <strong><em>generally not recommended</em></strong> due to increased risk of cardiovascular events and GI bleeding. </p>
+<p>Topical NSAIDs may be more appropriate for some patients as there is some evidence they are associated with fewer systemic adverse events than oral NSAIDs. </p>
+<p>NSAIDs may be associated with non-unions; thus, their use with fractures is questionable. </p>
+<p>Certain NSAIDs may have interactions with various other medications. Individuals may have adverse events not listed above. Intervals for metabolic screening are dependent on the patient's age and general health status and should be within parameters listed for each specific medication. Complete blood count (CBC) and liver and renal function should be monitored at least every six months in patients on chronic NSAIDs and initially when indicated.</p>
+<p>See the original guideline document for additional discussion of NSAIDs and acetylsalicylic acid (aspirin) and selective cyclo-oxygenase-2 (COX-2) inhibitors.</p>
+<p><em>Opioids</em></p>
+<p>Opioids should be primarily reserved for the treatment of severe upper extremity pain. There are circumstances where prolonged use of narcotics is justified based upon specific diagnosis, and in these cases, it should be documented and justified. In mild-to-moderate cases of upper extremity pain, narcotic medication should be used cautiously on a case-by-case basis. Adverse effects include respiratory depression, the development of physical and psychological dependence, and impaired alertness.</p>
+<p>Opioid medications should be prescribed with strict time, quantity, and duration guidelines, and with definitive cessation parameters. Pain is subjective in nature and should be evaluated using a pain scale and assessment of function to rate effectiveness of the opioid prescribed. It is recommended that the provider access the Colorado Prescription Drug Monitoring Program (PDMP) before prescribing opioids. The PDMP allows the prescribing physician to see most of the controlled substances prescribed by other physicians for an individual patient. Any use beyond the maximum should be documented and justified based on the diagnosis and/or invasive procedures.</p>
+<p><em>Psychotropic/Anti-anxiety/Hypnotic Agents</em></p>
+<p>Psychotropic/anti-anxiety/hypnotic agents may be useful for treatment of mild and chronic pain, dysesthesias, sleep disorders, and depression. Postoperative patients may receive medication to assure normal sleep cycles. Antidepressant medications, such as tricyclics and selective serotonin reuptake inhibitors (SSRIs), are useful for affective disorder and chronic pain management. Tricyclic antidepressant agents, in low dose, are useful for chronic pain but have more frequent side effects.</p>
+<p>Anti-anxiety medications are best used for short-term treatment (i.e., less than 6 months). Accompanying sleep disorders are best treated with sedating antidepressants prior to bedtime. Frequently, combinations of the above agents are useful. As a general rule, physicians should access the patient's prior history of substance abuse or depression prior to prescribing any of these agents. </p>
+<p>Due to the habit-forming potential of the benzodiazepines and other drugs found in this class, they are <strong><em>not generally recommended</em></strong>. Refer to the NGC summary of the Colorado Division of Workers' Compensation <a href=&quot;/summaries/summary/51221&quot; title=&quot;Guideline #11313&quot; target=&quot;_blank'&quot;>Chronic pain disorder medical treatment guidelines</a>, which give a detailed discussion regarding medication use in chronic pain management.</p>
+<p><em>Smoking Cessation Medications and Treatment</em></p>
+<p>Tobacco dependence is chronic and may require repeated attempts to quit. All smoking cessation programs should be accompanied by behavioral support which may include practical counseling sessions, social support, and telephone follow up. A variety of medications have been used, including Bupropion SR, nicotine patches, gum, inhaler, lozenges or nasal spray, and varenicline. When nicotine supplements are used, cotinine testing will be positive. Urine anabasine or exhaled carbon monoxide 5 ppm or less may be used to check tobacco abstinence.</p>
+<p>There is some evidence that among adults motivated to quit smoking, 12 weeks of open-label treatment including counseling and one of the following: nicotine patch, varenicline, or combination nicotine replacement therapy (nicotine patch and nicotine lozenge) are equally effective in assisting motivated smokers to quit smoking over a period of one year. </p>
+<p>There is some evidence that among adults motivated to quit smoking, abrupt smoking cessation is more effective than gradual cessation for abstinence lasting over a period of 4 weeks to 6 months, even for smokers who initially prefer to quit by gradual reduction.</p>
+<p><em>Topical Drug Delivery</em></p>
+<p>Creams and patches may be an alternative treatment of localized musculoskeletal disorders. </p>
+<p>It is necessary that all topical agents be used with strict instructions for application as well as the maximum number of applications per day to obtain the desired benefit and avoid potential toxicity. As with all medications, patient selection must be rigorous to select those patients with the highest probability of compliance. Refer to &quot;Therapy&amp;ndash;Passive; Iontophoresis&quot; below for information regarding topical iontophoretic agents.</p>
+<p>The original guideline document provides additional information on topical salicylates and nonsalicylates, capsaicin, iontophoretic agents, topical glyceryl trinitrate, and topical lidocaine.</p>
+<p><em>Glucosamine and Chondroitin</em></p>
+<p>Glucosamine and chondroitin are sold in the United States as dietary supplements. Their dosage, manufacture, and purity are not regulated by the U.S. Food and Drug Administration. Pharmaceutical grade versions are not available in the United States and, thus, these medications are <em><strong>not recommended</strong></em>. </p>
+<p><em>Vitamin B6</em></p>
+<p>Randomized trials on non-surgical treatment for carpal tunnel syndrome have demonstrated conflicting results. Higher doses may result in development of a toxic peripheral neuropathy. In the absence of definitive literature showing a beneficial effect, use of vitamin B6 cannot be recommended.</p>
+<p><strong>Non-Interdisciplinary Occupational Rehabilitation Programs</strong></p>
+<p>These generally accepted programs are work-related, outcome focused, individualized treatment programs. Objectives of the program include, but are not limited to, improvement of cardiopulmonary and neuromusculoskeletal functions (strength, endurance, movement, flexibility, stability, and motor control functions), patient education, and symptom relief. The goal is for patients to gain full or optimal function and return to work. The service may include the time limited use of passive modalities with progression to achieve treatment and/or simulated/real work. </p>
+<p>Work conditioning and work simulation programs are discussed further in the original guideline document.</p>
+<p><strong>Personality/Psychological/Psychosocial Intervention</strong></p>
+<p>Psychosocial treatment is a well-established therapeutic and diagnostic intervention with selected use in acute pain patients and more widespread use in sub-acute and chronic pain populations. Psychosocial treatment is recommended as an important component in the total management of a patient with chronic pain and should be implemented as soon as the problem is identified. </p>
+<p>If a diagnosis consistent with the standards of the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders (DSM) has been determined, the patient should be evaluated for the potential need for psychiatric medications. The authorized treating physician or the consulting psychiatrist may order the use of any medication to treat a diagnosed condition. Visits for management of psychiatric medications are medical in nature and are not a component of psychosocial treatment. Therefore, separate visits for medication management may be necessary, depending on the patient and medications selected.</p>
+<p>Cognitive behavioral therapy (CBT) and other interventions are discussed further in the original guideline document. </p>
+<p><strong>Restriction of Activities</strong></p>
+<p>Continuation of normal daily activities is the recommendation for most patients, since immobility will negatively affect rehabilitation. Prolonged immobility results in a wide range of deleterious effects, such as a reduction in aerobic capacity and conditioning, loss of muscle strength and flexibility, increased segmental stiffness, promotion of bone demineralization, impaired disc nutrition, and the facilitation of the illness role.</p>
+<p>Some level of immobility may occasionally be appropriate, including splinting/casting. While these interventions may be occasionally ordered in the acute phase, the provider should be aware of their impact on the patient's ability to adequately comply with and successfully complete rehabilitation. Activity should be increased based on the improvement of core strengthening. </p>
+<p>Patients should be educated regarding the detrimental effects of immobility versus the efficacious use of limited rest periods. Adequate rest allows the patient to comply with active treatment and benefit from the rehabilitation program. In addition, complete work cessation should be avoided, if possible, since it often further aggravates the pain presentation and promotes disability. Modified return to work is almost always more efficacious and rarely contraindicated in the vast majority of injured workers</p>
+<p><strong>Return-to-Work</strong></p>
+<p>Return to work and/or work-related activities, whenever possible, is one of the major components in treatment and rehabilitation. Return to work should be addressed by each workers' compensation provider at the first meeting with the injured employee and updated at each additional visit. A return-to-work format should be part of a company's health plan, knowing that return to work can decrease anxiety, reduce the possibility of depression, and reconnect the worker with society.</p>
+<p>Because a prolonged period of time off work will decrease the likelihood of return to work, the first weeks of treatment are crucial in preventing and/or reversing chronicity and disability mindset. In complex cases, experienced nurse case managers may be required to assist in return to work. Other services, including psychological evaluation and/or treatment, job site analysis, and vocational assistance, may be employed. </p>
+<p>Two counseling sessions with an occupational physician, and work site visit if necessary, may be helpful for workers who are concerned about returning to work. </p>
+<p>At least one study suggests that health status is worse for those patients who do not return to work than those who do. Self-employment and injury severity predict return to work. Difficulty with pain control, activities of daily living (ADLs), and anxiety and depression were common.</p>
+<p>The following should be considered when attempting to return an injured worker with chronic pain to work:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Job history interview </li>
+    <li>Coordination of care </li>
+    <li>Communication </li>
+    <li>Establishment of return-to-work status </li>
+    <li>Establishment of activity level restrictions </li>
+    <li>Rehabilitation and return to work </li>
+    <li>Vocational Assistance </li>
+</ul>
+<p><strong>Sleep Disturbances</strong></p>
+<p>Sleep disturbances are a common secondary symptom of cumulative trauma conditions. Although primary insomnia may accompany pain as an independent co-morbid condition, it more commonly occurs secondary to the pain condition itself. Exacerbations of pain often are accompanied by exacerbations of insomnia; the reverse can also occur.</p>
+<p>Behavioral modifications are accepted interventions, easily implemented, and can include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Maintaining a regular sleep schedule, retiring and rising at approximately the same time on weekdays and weekends. </li>
+    <li>Avoiding daytime napping. </li>
+    <li>Avoiding caffeinated beverages after lunchtime. </li>
+    <li>Making the bedroom quiet and comfortable, eliminating disruptive lights, sounds, television sets, and keeping a bedroom temperature of about 65 degrees Fahrenheit. </li>
+    <li>Avoiding alcohol or nicotine within 2 hours of bedtime. </li>
+    <li>Avoiding large meals within 2 hours of bedtime. </li>
+    <li>Exercising vigorously during the day, but not within 2 hours of bedtime, since this may raise core temperature and activate the nervous system. </li>
+    <li>Associating the bed with sleep and sexual activity only, using other parts of the home for television, reading, and talking on the telephone. </li>
+    <li>Leaving the bedroom when unable to sleep for more than 20 minutes, returning to the bedroom when ready to sleep again. </li>
+</ul>
+<p>These modifications should be undertaken before sleeping medication is prescribed for long-term use.</p>
+<p><strong>Therapy&amp;ndash;Active</strong></p>
+<p>The following active therapies are widely used and accepted methods of care for a variety of work-related injuries. They are based on the philosophy that therapeutic exercise and/or activity are beneficial for restoring flexibility, strength, endurance, function, range of motion, and alleviating discomfort. Active therapy requires an internal effort by the individual to complete a specific exercise or task, and thus assists in developing skills promoting independence and self-care after discharge. This form of therapy requires supervision from a therapist or medical provider such as verbal, visual, and/or tactile instructions. At times a provider may help stabilize the patient or guide the movement pattern but the energy required to complete the task is predominately executed by the patient.</p>
+<p>Patients should be instructed to continue active therapies at home as an extension of the treatment process in order to maintain improvement levels. Follow-up visits to reinforce and monitor progress and proper technique are recommended. Home exercise can include exercise with or without mechanical assistance or resistance and functional activities with assistive devices.</p>
+<p>The following active therapies and modalities are listed in alphabetical order.</p>
+<p><em>Activities of Daily Living</em></p>
+<p>ADLs are well-established interventions which involve instruction, active-assisted training, and/or adaptation of activities or equipment to improve a person's capacity in normal daily activities such as self-care, work re-integration training, homemaking, and driving.</p>
+<p><em>Functional Activities</em></p>
+<p>Functional activities are generally well-accepted interventions which involve the use of therapeutic activity to enhance mobility, body mechanics, employability, coordination, and sensory motor integration.</p>
+<p><em>Nerve Gliding</em></p>
+<p>Nerve gliding exercises are generally accepted. These exercises consist of a series of flexion and extension movements of the hand, wrist, elbow, shoulder, and neck, producing tension and longitudinal movement along the length of the median and other nerves of the upper extremity.</p>
+<p><em>Neuromuscular Re-education</em></p>
+<p>Neuromuscular re-education is an accepted treatment that involves the skilled application of exercise with manual, mechanical, or electrical facilitation. The goal is to enhance strength, movement patterns, neuromuscular response, proprioception, kinesthetic sense, coordination education of movement, balance, and posture. Indications include the need to promote neuromuscular responses through carefully timed proprioceptive stimuli, to elicit and improve motor activity in patterns similar to normal neurologically developed sequences, and improve neuromotor response with independent control.</p>
+<p><em>Proper Work Techniques</em></p>
+<p>Please refer to Section E.6.c., &quot;Jobsite Evaluations and Alterations,&quot; and Section H.4., &quot;Jobsite Alteration,&quot; in the original guideline document.</p>
+<p><em>Therapeutic Exercise</em></p>
+<p>Therapeutic exercise is generally well-accepted and widely used. It is done with or without mechanical assistance or resistance and may include isoinertial, isotonic, isometric, and isokinetic types of exercises. Indications include the need for cardiovascular fitness, reduced edema, improved muscle strength, improved connective tissue strength and integrity, increased bone density, promotion of circulation to enhance soft tissue healing, improvement of muscle recruitment, increased range of motion, and are used to promote normal movement patterns. The treatment can also include complementary/alternative exercise such as movement therapy (with oversight of a physician or other appropriate healthcare professional).</p>
+<p><strong>Therapy&amp;ndash;Passive</strong></p>
+<p>Most of the following passive therapies and modalities are generally well-accepted methods of care for a variety of work-related injuries. This includes those treatment modalities that do not require energy expenditure on the part of the patient. They are principally effective during the early phases of treatment and are directed at controlling symptoms such as pain, inflammation, swelling, and to improve the rate of healing soft tissue injuries. They should be used in adjunct with active therapies to help control swelling, pain and inflammation during the rehabilitation process. They may be used intermittently as a therapist deems appropriate or regularly if there are specific goals with objectively measured functional improvements during treatment.</p>
+<p>The following passive therapies and modalities are listed in alphabetical order. Please see the original guideline document for additional information, including indications for each therapy.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Electrical stimulation (unattended) </li>
+    <li>Extracorporeal shock wave therapy (ESWT) </li>
+    <li>Iontophoresis </li>
+    <li>Low level laser therapy (LLLT) </li>
+    <li>Manipulation </li>
+    <li>Manual therapy techniques </li>
+    <li>Massage (manual or mechanical) </li>
+    <li>Orthotics/immobilization with splinting and bracing </li>
+    <li>Paraffin bath </li>
+    <li>Superficial heat and cold therapy </li>
+    <li>Ultrasound (including phonophoresis) </li>
+</ul>
+<p><strong>Vocational Rehabilitation</strong></p>
+<p>Vocational rehabilitations is a generally accepted intervention. However, Senate Bill 87-79 limits the use of vocational rehabilitation in Colorado. This treatment requires adequate evaluation of patients for quantification of highest functional level, motivation, and achievement of maximum medical improvement (MMI). Vocational rehabilitation may be as simple as returning to the original job or as complicated as being retrained for a new occupation. The effectiveness of vocational rehabilitation may be enhanced when performed in combination with work hardening and work conditioning. </p>
+<p>It may also be beneficial for full vocational rehabilitation to be started before MMI if it is evident that the injured worker will be unable to return to his/her previous occupation. A positive goal and direction may aid the patient in decreasing stress and depression, and promote optimum rehabilitation.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An algorithm titled &quot;Algorithmic Steps for Medical Causation Assessment&quot; is provided in the original guideline document.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Cumulative trauma conditions, including:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Musculoskeletal conditions
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Aggravated osteoarthritis of the digits, hand, or wrist </li>
+        <li>de Quervain's disease </li>
+        <li>Epicondylitis&amp;mdash;lateral (epicondylalgia), lateral and medial </li>
+        <li>Extensor tendon disorders of the digit or wrist </li>
+        <li>Flexor tendon disorders of the digit or wrist </li>
+        <li>Triangular fibrocartilage complex tear (TFCC) </li>
+        <li>Trigger digit </li>
+    </ul>
+    </li>
+    <li>Peripheral nerve conditions
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Carpal tunnel syndrome </li>
+        <li>Cubital tunnel syndrome </li>
+        <li>Guyon canal (tunnel) syndrome </li>
+        <li>Posterior interosseous nerve (PIN) entrapment </li>
+        <li>Pronator syndrome </li>
+        <li>Radial tunnel syndrome </li>
+    </ul>
+    </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Counseling"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Rehabilitation"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Neurological Surgery"/>
+      <fieldvalue value="Neurology"/>
+      <fieldvalue value="Physical Medicine and Rehabilitation"/>
+      <fieldvalue value="Psychiatry"/>
+      <fieldvalue value="Psychology"/>
+      <fieldvalue value="Radiology"/>
+      <fieldvalue value="Rheumatology"/>
+      <fieldvalue value="Sports Medicine"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Chiropractors"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Health Plans"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Managed Care Organizations"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Occupational Therapists"/>
+      <fieldvalue value="Physical Therapists"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Psychologists/Non-physician Behavioral Health Clinicians"/>
+      <fieldvalue value="Utilization Management"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To provide advisory and educational guidelines for the treatment of cumulative trauma conditions that are enforceable under the Colorado Workers' Compensation Rules of Procedure</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients with cumulative trauma conditions who qualify for treatment under Colorado's Workers' Compensation Act as an injured worker</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>Acupuncture (including acupuncture with electrical stimulation and other modalities) </li>
+    <li>Biofeedback </li>
+    <li>Education/informed decision making </li>
+    <li>Therapeutic injections
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Autologous whole blood injections/platelet-rich plasma injections </li>
+        <li>Botulinum toxin injections </li>
+        <li>Steroid injections </li>
+        <li>Trigger point injections </li>
+        <li>Prolotherapy </li>
+        <li>Viscosupplementation/intracapsular acid salts </li>
+    </ul>
+    </li>
+    <li>Interdisciplinary rehabilitation programs (formal and informal) </li>
+    <li>Jobsite alteration </li>
+    <li>Medications and medical management
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Acetaminophen </li>
+        <li>Minor tranquilizers </li>
+        <li>Muscle relaxants </li>
+        <li>Non-steroidal anti-inflammatory drugs (NSAIDs) </li>
+        <li>Opioids </li>
+        <li>Psychotropic/anti-anxiety/hypnotic drugs </li>
+        <li>Smoking cessation medications and treatment </li>
+        <li>Topical drug delivery </li>
+        <li>Glucosamine and chondroitin </li>
+        <li>Vitamin B6 </li>
+    </ul>
+    </li>
+    <li>Non-interdisciplinary occupational rehabilitation programs </li>
+    <li>Personality/psychological/psychosocial interventions </li>
+    <li>Restriction of activities </li>
+    <li>Return to work </li>
+    <li>Behavioral modifications for sleep disturbances </li>
+    <li>Active therapy
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Activities of daily living (ADL) interventions </li>
+        <li>Functional activities </li>
+        <li>Nerve gliding </li>
+        <li>Neuromuscular re-education </li>
+        <li>Proper work techniques </li>
+        <li>Therapeutic exercise </li>
+    </ul>
+    </li>
+    <li>Passive therapy
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Electrical stimulation (unattended) </li>
+        <li>Extracorporeal shock wave therapy (ESWT) </li>
+        <li>Iontophoresis </li>
+        <li>Low level laser therapy (LLLT) </li>
+        <li>Manipulation </li>
+        <li>Manual therapy techniques </li>
+        <li>Massage (manual or mechanical) </li>
+        <li>Orthotics/immobilization with splinting and bracing </li>
+        <li>Paraffin bath </li>
+        <li>Superficial heat and cold therapy </li>
+        <li>Ultrasound (including phonophoresis) </li>
+    </ul>
+    </li>
+    <li>Vocational rehabilitation </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: See the &quot;Major Recommendations&quot; field and the original guideline document. Not all of the listed interventions and practices are recommended routinely or generally.</p>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Functional improvement (time to return to work, ability to return to original job, etc.) </li>
+    <li>Duration of therapeutic effect </li>
+    <li>Time to recovery </li>
+    <li>Relapse rate </li>
+    <li>Side effects or complications </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>General Literature Search Strategy</span></strong></p>
+<p>Studies were identified through the electronic database of PubMed (with specified search topics), and from articles identified by searches. For some articles, the literature citation database Web of Science was used when it was desirable to find literature that cited a particular article. Relevant evidence statements from Cochrane and British Medical Journal (BMJ) Clinical Evidence were reviewed. Selected guidelines/systematic reviews were also reviewed. The reference lists from other literature and tables of contents from related journals were scanned for relevant articles (i.e., a hand search of literature was completed). Suggestions from various volunteer advisory bodies to the Division of Workers' Compensation were solicited.</p>
+<p>Literature reviewed was in English. Literature searches were limited according to study type and human adults. Only randomized controlled trials (RCTs) or meta-analyses were used for evidence statements regarding treatment. RCTs that compared an interventions with not using that intervention (e.g., surgery and non-operative treatment) were designated as more relevant to workers' compensation guidelines than those RCTs which compared variations on technique or types of devices.</p>
+<p>Beginning with the Traumatic Brain Injury Medical Treatment Guideline Revision of 2012, RCTs may not have been critiqued individually if they were included in a critiqued meta-analysis of high quality. Relevant RCTs published after a Cochrane meta-analysis were evaluated as to whether they would have likely met the Cochrane inclusion criteria. If so, the Cochrane software (RevMan) was used to update the pooled effect measure and compare it with the original Cochrane report. Diagnostic accuracy studies were critiqued for diagnostic testing evidence. Cohort, cross-sectional and case-control studies were critiqued for causation evidence statements. Literature which did not meet requirements for evidence statements could be referenced if it furnished useful background information or described interventions which are considered generally accepted by a consensus of health care providers. This information sometimes contributed to consensus decisions by the multi-disciplinary task force drafting the guidelines. Literature that was determined either be unrelated to the clinical issue, did not reflect interventions likely to occur in Colorado, or which had such poor quality on initial review that it could not qualify for evidence nor provide meaningful input was not critiqued. All articles sent by the public were formally reviewed.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Specific Search Strategy</span></strong></p>
+<p>All searches were done on PubMed and the Cochrane Library. The literature search included articles published from January 2010 to December 2016. The literature search was conducted from August 2015 until October 2015.</p>
+<p>Search terms: Carpal Tunnel, Epicondylitis, Epicondylagia, Wrist osteoarthritis, Carpometacarpal arthritis, Scaphotrapezio or trapezoid arthritis, Trapeziectomy, De Quervain's or De Quervain's disease, Wrist extensor tendon, Wrist flexor tendon, Triangular fibrocartilage complex tear, Trigger finger, Carpal tunnel release, Cubital tunnel syndrome, Guyon's Canal, Ulnar neuropathy, Posterior interosseous nerve entrapment, Pronator syndrome, Radial tunnel, Autologous whole blood injection, Platelet rich plasma injection, Extracorporeal shock wave treatment, Iontophoresis, Low level laser therapy</p>
+<p><strong>Study Selection</strong> </p>
+<p>Inclusion criteria: Studies in English; human; RCT, systematic reviews, or meta-analysis. </p>
+<p>Exclusion criteria: Article titles containing an obvious mismatch with search criteria and search terms were eliminated (e.g., pediatric population, wrong condition). Abstracts were reviewed to exclude articles based on the following criteria:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Lack of relevancy to workers' compensation population </li>
+    <li>Major obvious errors in study protocol (e.g., lack of control group even though study was listed as an RCT) </li>
+    <li>Study was included in a meta-analysis reviewed by Division staff (e.g., Cochrane Collaboration, BMJ Clinical Evidence) </li>
+    <li>Study was published outside of time frame </li>
+    <li>Cadaverous studies </li>
+    <li>Preliminary results </li>
+    <li>Healthy volunteers </li>
+    <li>Studies not applicable to treatment guidelines conditions (e.g., tumor studies were excluded) </li>
+    <li>Studies too technical in nature to meet the objective of the guideline (e.g., study comparing types of screws used in surgery) </li>
+</ul>
+<p>Other literature was included in addition to sources identified by searches in the electronic databases. Some references were carried over from earlier versions of the guidelines. Other articles were selected by hand searches of publish literature. Articles submitted by the public and from volunteer advisory bodies to the Colorado Division of Workers' Compensation were also reviewed. All reviewed articles were included in the full Bibliography, but not all references qualified to be cited in the guideline. In total, 599 references were included in the full bibliography.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Number of articles identified by database search: 431</p>
+<p>Number of articles included for review after exclusion criteria were applied to database search results: 377</p>
+<p>Number of articles used to support evidence statements: 110</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Subjective Review"/>
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Grading of Systematic Reviews and Meta-Analyses</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Grading of Systematic Reviews and Meta-Analyses&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Criterion</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Green</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Yellow</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Red</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>The study is in fact identified as a systematic review or meta-analysis</td>
+            <td valign=&quot;top&quot;>&quot;Systematic review,&quot; &quot;meta-analysis,&quot; or both, are in the title of the article, and the abstract supports the design in the title</td>
+            <td valign=&quot;top&quot;>The title is ambiguous, but the abstract shows that the authors did a systematic review</td>
+            <td valign=&quot;top&quot;>The article is a narrative review or an overview, or is done by a single author</td>
+            <td valign=&quot;top&quot;>&quot;Systematic review&quot; and &quot;meta-analysis&quot; are generally recognized terms for a specific type of original research; narrative reviews are subject to biases which systematic reviews and meta-analyses methodically control for</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Objectives of the systematic review or meta-analysis</td>
+            <td valign=&quot;top&quot;>Clearly stated in terms of PICOS: Patient population (disease, age, setting), Intervention (dose, frequency, etc.), Comparator (control group interventions), Outcome (morbidity, mortality, symptoms, function), and Study design (randomized trials only, broader design criteria)</td>
+            <td valign=&quot;top&quot;>PICOS elements all reported, but some ambiguity in some elements (e.g., Comparator described as &quot;standard care&quot; or &quot;usual care&quot; without further description)</td>
+            <td valign=&quot;top&quot;>One or more PICOS element missing or uninterpretable</td>
+            <td valign=&quot;top&quot;>The question being addressed should be clear from the abstract; it may be narrow or broad, but the scope and potential applicability should be well defined</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Characteristics of eligible studies</td>
+            <td valign=&quot;top&quot;>In addition to PICOS, study characteristics defined in terms of restrictions for inclusion (e.g., minimum length of follow-up, whether co-interventions are included), and scope of reports (language, years of publication, unpublished material)</td>
+            <td valign=&quot;top&quot;>Ambiguity exists for some of the characteristics of eligible studies</td>
+            <td valign=&quot;top&quot;>Eligibility of studies is unclear, and scope of reports is not specified</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Information sources</td>
+            <td valign=&quot;top&quot;>Multiple information sources are clearly specified: databases (PubMed, Ovid, EMBASE, Cochrane, Web of Science), hand searches of tables of contents of relevant journals, meeting abstracts, reference lists, contacts with authors, manufacturers, trial registries)</td>
+            <td valign=&quot;top&quot;>Search limited to published material from two or more sources, without additional searching of registries or contact with authors</td>
+            <td valign=&quot;top&quot;>Search limited to a single information source (e.g., PubMed only)</td>
+            <td valign=&quot;top&quot;>While PubMed is a large and nearly comprehensive database, its yield can be influenced by how articles are indexed by the National Library of Medicine; additional sources of information can materially affect the conclusions of a systematic review or meta-analysis</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Search strategy</td>
+            <td valign=&quot;top&quot;>Full electronic search strategy for at least one major database, with dates (e.g., PubMed 1970-October 2009), limits, combinations of search terms, such that it can be replicated by the reader</td>
+            <td valign=&quot;top&quot;>Databases and search terms are given, but there is some ambiguity in the strategy (e.g., PubMed &quot;through 2007&quot;), and replication by the reader would be difficult</td>
+            <td valign=&quot;top&quot;>Databases and search terms are too broad and vague to permit replication by the reader</td>
+            <td valign=&quot;top&quot;>Often given in an appendix to the article or in an online supplement, the strategy should be readily accessible</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Study selection</td>
+            <td valign=&quot;top&quot;>Specification of which criteria determine eligibility for inclusion (e.g., randomization to specified interventions, which outcomes were required to be reported) and for quality (e.g., allocation concealment, intention-to-treat analysis, blinding) with at least two reviewers identified by initials; inter-rater agreement and methods of resolving disagreement are specified; a flow diagram enumerates articles retrieved from search, articles excluded after screening, and articles included for meta-analysis</td>
+            <td valign=&quot;top&quot;>Two or more reviewers screen articles for inclusion, but there is some ambiguity in the criteria for inclusion or for inter-rater agreement and methods of resolving disagreement; flow diagram is lacking</td>
+            <td valign=&quot;top&quot;>Only one reviewer selects studies; criteria are vague</td>
+            <td valign=&quot;top&quot;>Quality assessment should focus on risk of bias; scoring of articles for quality is not necessary and may be misleading. There is no standard process for selecting studies, but the process used by the reviewers should be clear enough to allow the reader to determine which studies might meet the test of inclusion</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Outcomes for analysis</td>
+            <td valign=&quot;top&quot;>Meta-analysis is restricted to pre-specified primary and secondary outcomes, and exploratory (hypothesis-generating) analyses in the source literature are excluded from meta-analysis</td>
+            <td valign=&quot;top&quot;>Meta-analysis combines pre-specified primary and secondary outcomes in the source literature with exploratory analyses in the same literature, but assigns exploratory analyses a lower weight</td>
+            <td valign=&quot;top&quot;>Meta-analysis treats exploratory analyses in source literature on an equal basis with the pre-specified primary and secondary analyses</td>
+            <td valign=&quot;top&quot;>Exploratory analyses are too likely to be reported when they arise from the play of chance, and should not be included in any meta-analysis of the same outcomes; their inclusion is likely to bias the meta-analysis</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Summary measures for meta-analysis with or without pooled Number Needed to Treat (NNT)</td>
+            <td valign=&quot;top&quot;>Principal summary measures (relative risk, risk difference, odds ratio, difference in means, hazard ratio) are specified and appropriate to the outcome measure; if NNT are reported, there is a fixed event rate in the control groups for the studies being combined</td>
+            <td valign=&quot;top&quot;>Risk ratios or odds ratios are reported, and NNT is not reported if there is a difference in the control group event rates across the different studies</td>
+            <td valign=&quot;top&quot;>Risk ratios or odds ratios are reported, but NNT is reported even when there is a difference in control group event rates across the different studies (the underlying baseline risks are not equal)</td>
+            <td valign=&quot;top&quot;>Relative risks and odds ratios are generally more stable for summary measures than risk differences; pooled NNT is misleading if the control group event rate (the baseline risk) is different across studies, even if the risk ratio is the same</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Meta-analysis presentation</td>
+            <td valign=&quot;top&quot;>Results of meta-analysis are presented as an estimated summary effect (with confidence interval) across all included studies, displaying a forest plot with weights and confidence intervals for the included studies; a measure of heterogeneity is presented (e.g., I<sup>2</sup>); the choice of fixed effect or random effects model is explained, and, if there is significant heterogeneity, there is an attempt to examine possible sources of heterogeneity</td>
+            <td valign=&quot;top&quot;>Summary effect measure with confidence interval, but heterogeneity measures and examinations are lacking</td>
+            <td valign=&quot;top&quot;>No hard and fast rule dictates the choice of model, but because a fixed effect model assumes a single common effect size across studies, there should be a discussion of why it is appropriate for the included studies</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Meta-Analysis"/>
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Criteria for evidence are drawn principally from the Cochrane Risk of Bias tool for individual randomized trials and from the PRISMA statement for systematic reviews. Nonrandomized trials may sometimes be upgraded to evidence statements when all Grading of Recommendations Assessment, Development and Evaluation (GRADE) criteria are met.</p>
+<p>The strength and limitations of the body of evidence are clearly identified. Division of Workers' Compensation Assessment Criteria on Systematic Reviews and Meta-analyses list assessment criteria for strengths and limitations of selected bodies of literature (see the &quot;Rating Scheme for the Strength of the Evidence&quot; field). Also, areas that do not have evidence and thus are consensus-based are delineated in the guidelines.</p>
+<p>The evidence table contains summaries of the critiques that were completed for individual scholarly articles used in the Lower Extremity Injury Medical Treatment Guidelines. Scholarly articles are given an assessment of &quot;adequate,&quot; &quot;inadequate,&quot; or &quot;high quality.&quot; When Division of Workers' Compensation staff completed additional statistical pooling, this is noted in the &quot;Division Staff Assessment Column using RevMan (Cochrane Collaboration of Systematic Reviews). These are denoted with a **. In multiple cases, literature from the Cochrane Collaboration was reviewed.</p>
+<p>It should be noted that one scholarly article may be graded at different levels for different interventions. For those deemed inadequate, a brief rationale is provided. The criteria for the aforementioned assessment designations are located on the <a href=&quot;https://www.colorado.gov/pacific/cdle/guidelines-methodology-article-critiques#&quot; title=&quot;Colorado Division of Workers' Compensation Web site&quot; target=&quot;_blank&quot;>Division of Workers' Compensation Web site</a>.</p>
+<p>The articles that are graded as either adequate or high quality are then translated into &quot;some evidence,&quot; &quot;good evidence,&quot; and &quot;strong evidence&quot; as defined in the General Guidelines Principles, located in each of the Division Medical Treatment Guidelines (see the &quot;Rating Scheme for the Strength of the Recommendations&quot; field).</p>
+<p>Because the guideline developers synthesize the medical evidence as much as possible, one assessment (or group of assessments) may potentially create more than one evidence statement. It is also possible that two assessments may be combined (e.g., two &quot;adequates&quot; to create a higher level of evidence (for example, elevating a statement from &quot;some&quot; to &quot;good&quot; evidence).</p>
+<p>This evidence table is a summary and based on critiques of scholarly articles. The full critiques are publicly available on the Division of Workers' Compensation Web site (see the &quot;Availability of Companions Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Evidence statements are formatted. General clinical reviews are collected and used to make suggested recommendations for consensus consideration. The Task Force reaches consensus by vote (unanimous decision in most cases). The health benefits, side effects and risks are considered in formulating the recommendations. These are fully described for groups and considered by the Task Force. There is an explicit link between recommendations and supporting evidence (presented in the referenced version of the guideline on the Department of Workers' Compensations Web site, wherein each evidence statement is accompanied by author and year of the bibliography/critiqued article).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Guidelines Updating Process</span></strong></p>
+<p>The State of Colorado Division of Workers' Compensation Medical Treatment Guidelines updating process is completed in several stages. Initially, current medical literature related to the guideline is reviewed, critiqued, and graded by the Division and the multi-disciplinary Task Force. Next, appropriate medical evidence and consensus are incorporated concurrently into the Guideline, section by section. During this stage, Task Force members will be appointed for projects, working in sub-groups or individually, according to the task.</p>
+<p>Guideline updating processes and resources dedicated to supporting the Task Force include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Medical literature review and grading, with the assistance of a professional Research Methodologist and Epidemiologist </li>
+    <li>Evidence and consensus parameters to assist in the revision and evaluation of treatment recommendations </li>
+    <li>A multi-disciplinary Advisory Panel and other advisory bodies to provide clinical feedback to the Task Force and the Division </li>
+    <li>Administrative support and coordination, allowing participants to focus on clinical issues </li>
+    <li>Opportunities for members to provide feedback on ways to improve the update process </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Selection of Task Force Members</span></strong></p>
+<p>Health care disciplines required to participate in the Task Force process are identified. Individuals selected should be Level I or II Accredited Providers (if applicable), Board Certified in their area of specialty, in good standing within their medical specialty organization, and specialize in treatment of injured workers. Task Force membership also includes non-physician members of the workers' compensation system, such as therapists, psychologists, attorneys, and risk managers. Prior Task Force participation is not necessary.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Grades of Recommendation</span></strong></p>
+<p>&quot;<strong>Some</strong>&quot; means the recommendation considered at least one adequate scientific study, which reported that a treatment was effective. The Division recognizes that further research is likely to have an impact on the intervention's effect.</p>
+<p>&quot;<strong>Good</strong>&quot; means the recommendation considered the availability of multiple adequate scientific studies or at least one relevant high-quality scientific study, which reported that a treatment was effective. The Division recognizes that further research may have an impact on the intervention's effect. </p>
+<p>&quot;<strong>Strong</strong>&quot; means the recommendation considered the availability of multiple relevant and high quality scientific studies, which arrived at similar conclusions about the effectiveness of a treatment. The Division recognizes that further research is unlikely to have an important impact on the intervention's effect.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline developers reviewed published cost analyses.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>After the internal panel/task force draft is complete it goes to an extensive external expert panel for review and response.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Advisory Panel</span></strong></p>
+<p>The second stage of the guidelines update process includes an additional review, conducted by an Advisory Panel and other advisory bodies that may consist of past Task Force members and knowledgeable professionals representing medical specialty organizations, associations, and other stakeholder groups. Professionals who represent adjunct aspects of patient care, such as Risk Managers, Case Managers, and Insurers, are also included in this stage. The purpose of this review is to provide additional sources of expertise in order to finalize draft guideline material developed by the Task Force.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Solicitation of Public Commentary</span></strong></p>
+<p>An active, open process to solicit public commentary on a year-round basis is in place in order to maximize community-based physician input and support. Contact with Accredited Providers is done through direct mailings and at Accreditation seminars.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Post Task Force Questionnaire</span></strong></p>
+<p>A survey is sent to all Task Force members once the updated draft guidelines are completed. The survey rates Task Force participants' satisfaction with the processes used, and evaluate Division personnel and performance. Information may be used to improve future Task Force processes.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Only graded and critiqued randomized controlled trials or meta-analyses were used for evidence statements regarding treatment.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Optimal medical and functional outcomes for injured workers with cumulative trauma conditions</p>
+<p>Evidence of benefits of specific treatment interventions is reviewed in the relevant sections of the original guideline document and in the evidence summary companion document (see the &quot;Availability of Companion Documents&quot; field). </p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Injuries, side effects, or infections from therapeutic injections </li>
+    <li>Side effects and drug interactions from medications </li>
+    <li>Injury from device or component failure </li>
+</ul>
+<p>Refer to specific sections of the &quot;Major Recommendations&quot; field and original guideline document for detailed descriptions of potential harms.</p>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>General contraindications to therapeutic injections include local or systemic infection, bleeding disorders, allergy to medications used, and patient refusal. Specific contraindications may apply to individual injections. </li>
+    <li>Celecoxib is contraindicated in sulfonamide-allergic patients. </li>
+    <li>Contraindications to mobilization (joint)/manipulation include joint instability, fractures, severe osteoporosis, infection, metastatic cancer, active inflammatory arthritis, and signs of progressive neurologic deficits. </li>
+    <li>Due to the cross-reactivity between aspirin and non-steroidal anti-inflammatory drugs (NSAIDs), NSAIDs should not be used in aspirin-sensitive patients, and it should be used with caution in all asthma patients. Chronic use of NSAIDs is generally not recommended due to increased risk of cardiovascular events and gastrointestinal (GI) bleeding.</li>
+    <li>Botulinum toxin injection is known to cause short-term third (middle) finger strength deficits and possible digit paresis, which may persist for up to three to four months. Botulinum toxin injection should only be used in patients whose occupational performance will be unaffected by this side effect, and should not be used in patients with physically demanding job descriptions.</li>
+</ul>
+<p>See specific sections of the original guideline document for additional contraindications.</p>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>This document has been prepared by the Colorado Department of Labor and Employment, Division of Workers' Compensation (Division) and should be interpreted within the context of guidelines for physicians/providers treating individuals qualifying under Colorado's Workers' Compensation Act as injured workers with cumulative trauma conditions. </li>
+    <li>Although the primary purpose of this document is advisory and educational, these guidelines are enforceable under the Workers' Compensation Rules of Procedure, 7 CCR 1101-3. The Division recognizes that acceptable medical practice may include deviations from these guidelines, as individual cases dictate. Therefore, these guidelines are not relevant as evidence of a provider's legal standard of professional care. </li>
+    <li>To properly utilize this document, the reader should not skip nor overlook any sections. </li>
+    <li>The Division provides procedures to implement medical treatment guidelines and to foster communication to resolve disputes among the provider, payer, and patient through the Workers' Compensation Rules of Procedure. In lieu of more costly litigation, parties may wish to seek administrative dispute resolution services through the Division or the Office of Administrative Courts. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The principles summarized in this section are key to the intended implementation of all Division of Workers' Compensation guidelines and critical to the reader's application of the guidelines in this document.</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li><strong>Application of Guidelines</strong>. The Division provides procedures to implement medical treatment guidelines and to foster communication to resolve disputes among the provider, payer and patient through the Workers' Compensation Rules of Procedure. In lieu of more costly litigation, parties may wish to seek administrative dispute resolution services through the Division or the Office of Administrative Courts. </li>
+    <li><strong>Education</strong>. Education of the patient and family, as well as the employer, insurer, policy makers, and the community should be the primary emphasis in the treatment of cumulative trauma conditions (CTC) and disabilities. Currently, practitioners often think of education last, after medications, manual therapy, and surgery. Practitioners must implement strategies to educate patients, employers, insurance systems, policy makers, and the community as a whole. An education-based paradigm should always start with inexpensive communication providing reassuring and evidence-based information to the patient. More in-depth patient education is currently a component of treatment regimens which employ functional, restorative, preventive, and rehabilitative programs. No treatment plan is complete without addressing issues of individual and/or group patient education as a means of facilitating self-management of symptoms and prevention. </li>
+    <li><strong>Informed Decision Making</strong>. Providers should implement informed decision making as a crucial element of a successful treatment plan. Patients, with the assistance of their health care practitioners, should identify their personal and professional functional goals of treatment at the first visit. Progress towards the individual's identified functional goals should be addressed by all members of the health care team at subsequent visits and throughout the established treatment plan. Nurse case managers, physical therapists, and other members of the health care team play an integral role in informed decision making and achievement of functional goals. Patient education and informed decision making should facilitate self-management of symptoms and prevention of further injury. </li>
+    <li><strong>Treatment Parameter Duration</strong>. Time frames for specific interventions commence once treatments have been initiated, not on the date of injury. Obviously, duration will be impacted by patient compliance, as well as availability of services. Clinical judgment may substantiate the need to accelerate or decelerate the time frames discussed in this document. </li>
+    <li><strong>Active Interventions</strong>. Emphasizing patient responsibility, such as therapeutic exercise and/or functional treatment, is generally emphasized over passive modalities, especially as treatment progresses. Generally, passive interventions facilitate progress in an active rehabilitation program with concomitant attainment of objective functional gains. </li>
+    <li><strong>Active Therapeutic Exercise Program</strong>. Goals should incorporate patient strength, endurance, flexibility, coordination, and education. This includes functional application in vocational or community settings. </li>
+    <li><strong>Positive Patient Response</strong>. Results are defined primarily as functional gains that can be objectively measured. Objective functional gains include, but are not limited to, positional tolerances, range-of-motion, strength, endurance, activities of daily living (ADL), cognition, psychological behavior, and quantifiable efficiency/velocity measures. Subjective reports of pain and function should be considered and given relative weight when the pain has anatomic and physiologic correlation. Anatomic correlation must be based on objective findings. </li>
+    <li><strong>Re-evaluate Treatment Every Three to Four Weeks</strong>. If a given treatment or modality is not producing positive results within three to four weeks, the treatment should be either modified or discontinued. Before discontinuing the treatment, the provider should have a detailed discussion with the patient to determine the reason for failure to produce positive results. Reconsideration of diagnosis should also occur in the event of poor response to a seemingly rational intervention. </li>
+    <li><strong>Surgical Interventions</strong>. Surgical interventions should be contemplated within the context of expected functional outcome and not purely for the purpose of pain relief. The concept of &quot;cure&quot; with respect to surgical treatment by itself is generally a misnomer. All operative interventions must be based upon positive correlation of clinical findings, clinical course, and diagnostic tests. A comprehensive assimilation of these factors must lead to a specific diagnosis with positive identification of pathologic condition(s). </li>
+    <li><strong>Six-Month Time Frame</strong>. The prognosis drops precipitously for returning an injured worker to work once he/she has been temporarily totally disabled for more than six months. The emphasis within these guidelines is to move patients along a continuum of care and return to work within a six-month time frame, whenever possible. It is important to note that time frames may not be pertinent to injuries that do not involve work-time loss or are not occupationally related. </li>
+    <li><strong>Return-to-Work</strong>. A return-to-work is therapeutic, assuming the work is not likely to aggravate the basic problem or increase long-term pain. The practitioner must provide specific physical limitations, and the patient should never be released to non-specific and vague descriptions such as &quot;sedentary&quot; or &quot;light duty.&quot; The following physical limitations should be considered and modified as recommended: lifting, pushing, pulling, crouching, walking, using stairs, bending at the waist, awkward and/or sustained postures, tolerance for sitting or standing, hot and cold environments, data entry and other repetitive motion tasks, sustained grip, tool usage and vibration factors. Even if there is residual chronic pain, return-to-work is not necessarily contraindicated.
+    <p>The practitioner should understand all of the physical demands of the patient's job position before returning the patient to full duty and should request clarification of the patient's job duties. Clarification should be obtained from the employer or, if necessary, from including, but not limited to, an occupational health nurse, occupational therapist, vocational rehabilitation specialist, an industrial hygienist, or another professional.</p>
+    </li>
+    <li><strong>Delayed Recovery</strong>. Strongly consider a psychological evaluation, if not previously provided, as well as initiating interdisciplinary rehabilitation treatment and vocational goal setting, for those patients who are failing to make expected progress six to twelve weeks after an injury. The Division recognizes that 3% to 10% of all industrially injured patients will not recover within the timelines outlined in this document despite optimal care. Such individuals may require treatments beyond the timelines discussed within this document, but such treatment requires clear documentation by the authorized treating practitioner focusing on objective functional gains afforded by further treatment and impact upon prognosis. </li>
+    <li><strong>Guideline Recommendations and Inclusion of Medical Evidence</strong>. <em>All recommendations are based on available evidence and/or consensus judgment</em>. When possible, guideline recommendations will note the level of evidence supporting the treatment recommendation. It is generally recognized that early reports of a positive treatment effect are frequently weakened or overturned by subsequent research. When interpreting medical evidence statements in the guideline, the following apply:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Consensus means the judgment of experienced professionals based on general medical principles. Consensus recommendations are designated in the guideline as &quot;generally well accepted,&quot; &quot;generally accepted,&quot; &quot;acceptable/accepted,&quot; or &quot;well-established.&quot; </li>
+        <li>&quot;Some evidence&quot; means the recommendation considered at least one adequate scientific study, which reported that a treatment was effective. The Division recognizes that further research is likely to have an impact on the intervention's effect. </li>
+        <li>&quot;Good evidence&quot; means the recommendation considered the availability of multiple adequate scientific studies or at least one relevant high-quality scientific study, which reported that a treatment was effective. The Division recognizes that further research may have an impact on the intervention's effect. </li>
+        <li>&quot;Strong evidence&quot; means the recommendation considered the availability of multiple relevant and high quality scientific studies, which arrived at similar conclusions about the effectiveness of a treatment. The Division recognizes that further research is unlikely to have an important impact on the intervention's effect. </li>
+    </ul>
+    <p>All recommendations in these guidelines are considered to represent reasonable care in appropriately selected cases, irrespective of the level of evidence or consensus statement attached to them. Those procedures considered inappropriate, unreasonable, or unnecessary are designated in the guideline as being &quot;<strong><em>not recommended</em></strong>.&quot;</p>
+    </li>
+    <li><strong>Care Beyond Maximum Medical Improvement (MMI)</strong>. MMI should be declared when a patient's condition has plateaued to the point where the authorized treating physician no longer believes further medical intervention is likely to result in improved function. However, some patients may require treatment after MMI has been declared in order to maintain their functional state. The recommendations in this guideline are for pre-MMI care and are not intended to limit post-MMI treatment. </li>
+</ol>
+<p>The remainder of this document should be interpreted within the parameters of these guidelines principles that may lead to more optimal medical and functional outcomes for injured workers.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Colorado Division of Workers' Compensation. Cumulative trauma conditions medical treatment guidelines. Denver (CO): Colorado Division of Workers' Compensation; 2017 Mar 2. 207 p. </td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2017 Mar 2"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="Colorado Division of Workers' Compensation - State/Local Government Agency [U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Colorado Division of Workers' Compensation</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Division staff include a medical director (MD, MPH, FACOEM) and two research staff who review and critique all literature used for recommendations (a research methodologist, MD, MSPH; and an epidemiologist, MS). Several other staff members are involved, including a unit supervisor (DPT), coordinator (PhD, CCC-SLP), and editor. </p>
+<p>The external task force used to write recommendations included the following representatives: chiropractor, claimant's attorney, doctor of osteopathic medicine, ergonomist, hand plastic surgeon, hand surgeon, neurologist, nurse case manager, occupational medicine physician, occupational therapist, risk manager, physiatrist, and physical therapist. </p>
+<p>There was also an external advisory panel used to review the proposed guideline. The members who responded included the following professionals: case manager, chiropractor (x4), medical guideline director, nurse case manager, occupational medicine physician (x2), physiatrist (x3), and physical therapist (x2).</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Every task force and advisory panel member completes a written disclosures and conflict of interest form.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Colorado Division of Workers' Compensation. Cumulative trauma conditions medical treatment guidelines. Denver (CO): Colorado Division of Workers' Compensation; 2010 Sep 16. 121 p.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria. </p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;https://www.colorado.gov/pacific/sites/default/files/Rule_17_Exhibit_5_Cumulative_Trauma_Conditions_Guidelines.pdf&quot; title=&quot;Colorado Division of Workers' Compensation Web site&quot; target=&quot;_blank&quot;>Colorado Division of Workers' Compensation Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Cumulative trauma conditions medical treatment guidelines. Referenced version. Denver (CO): Colorado Division of Workers' Compensation; 2017 Mar 2. 207 p. Available from the <a href=&quot;https://www.colorado.gov/pacific/sites/default/files/Ex5_CTC_InText_Biblio.pdf&quot; title=&quot;Colorado Division of Workers' Compensation Web site&quot; target=&quot;_blank&quot;>Colorado Division of Workers' Compensation Web site</a>. </li>
+    <li>Search strategy and study selection. Cumulative trauma conditions medical treatment guideline 2017 revision. Denver (CO): Colorado Division of Workers' Compensation; 2017. 4 p. Available from the <a href=&quot;https://www.colorado.gov/pacific/sites/default/files/CTC_Search_Terms_%26_General_Search_Topics.pdf&quot; title=&quot;Colorado Division of Workers' Compensation Web site&quot; target=&quot;_blank&quot;>Colorado Division of Workers' Compensation Web site</a>. </li>
+    <li>Evidence summary: cumulative trauma conditions medical treatment guideline 2017. Denver (CO): Colorado Division of Workers' Compensation; 2017. 38 p. Available from the <a href=&quot;https://www.colorado.gov/pacific/sites/default/files/CTC_Evidence_Summary_2017.pdf&quot; title=&quot;Colorado Division of Workers' Compensation Web site&quot; target=&quot;_blank&quot;>Colorado Division of Workers' Compensation Web site</a>. </li>
+    <li>General literature search strategy for medical treatment guidelines. Denver (CO): Colorado Division of Workers' Compensation. 1 p. Available from the <a href=&quot;https://www.colorado.gov/pacific/sites/default/files/General_Literature_Search_Strategy.pdf&quot; title=&quot;Colorado Division of Workers' Compensation Web site&quot; target=&quot;_blank&quot;>Colorado Division of Workers' Compensation Web site</a>. </li>
+    <li>Division of Workers' Compensation medical treatment guidelines-methodology. Denver (CO): Colorado Division of Workers' Compensation. 10 p. Available from the <a href=&quot;https://www.colorado.gov/pacific/sites/default/files/DOWC_Methodology_Standards.pdf&quot; title=&quot;Colorado Division of Workers' Compensation Web site&quot; target=&quot;_blank&quot;>Colorado Division of Workers' Compensation Web site</a>. </li>
+</ul>
+<p>In addition, related critiques are available from the <a href=&quot;https://www.colorado.gov/pacific/cdle/wc-library-cumulative-trauma-conditions-critiques-0&quot; title=&quot;Colorado Division of Workers' Compensation Web site&quot; target=&quot;_blank&quot;>Colorado Division of Workers' Compensation Web site</a>. Assessment criteria for critiques are also available from the <a href=&quot;https://www.colorado.gov/pacific/cdle/medical-treatment-guidelines&quot; title=&quot;Colorado Division of Workers' Compensation Web site&quot; target=&quot;_blank&quot;>Colorado Division of Workers' Compensation Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on April 24, 2013. The information was verified by the guideline developer on May 24, 2013. This summary was updated by ECRI Institute on October 28, 2013 following the U.S. Food and Drug Administration advisory on Acetaminophen. This summary was updated by ECRI Institute on September 18, 2015 following the U.S. Food and Drug Administration advisory on non-aspirin nonsteroidal anti-inflammatory drugs (NSAIDs). This summary was updated by ECRI Institute on January 9, 2018. The updated information was verified by the guideline developer on January 25, 2018.</p>
+<p>This NEATS assessment was completed by ECRI Institute on September 19, 2017. The information was verified by the guideline developer on January 25, 2018.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>No copyright restrictions apply.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 01:17:56 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:32:11 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 324.783 (3)
+  esindex: 0.011
+  captures_list: 350.147
+  CDXLines.iter: 18.954 (3)
+  PetaboxLoader3.datanode: 130.99 (4)
+  exclusion.robots: 0.324
+  exclusion.robots.policy: 0.309
+  RedisCDXSource: 2.408
+  PetaboxLoader3.resolve: 207.152 (2)
+  load_resource: 47.122
+-->

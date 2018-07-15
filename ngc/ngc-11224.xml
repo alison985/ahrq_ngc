@@ -1,0 +1,887 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app40.us.archive.org';v.server_ms=175;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11224?contentType=xml', '20180713010651')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713010651/https://www.guideline.gov/summaries/downloadcontent/ngc-11224?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713010651/https://www.guideline.gov/summaries/downloadcontent/ngc-11224?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11224?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713010651" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610072211/https://www.guideline.gov/summaries/downloadcontent/ngc-11224?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 01:06:51 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610072211/https://www.guideline.gov/summaries/downloadcontent/ngc-11224?contentType=xml" title="07:22:11 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 01:06:51 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2017</td>
+		  <td class="c" id="displayYearEl" title="You are here: 01:06:51 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713010651*/https://www.guideline.gov/summaries/downloadcontent/ngc-11224?contentType=xml" title="See a list of every capture for this URL">5 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">03 Oct 2017 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11224?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Comprehensive pediatric eye and vision examination.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>AOA Evidence-Based Optometry Guideline Development Group. Comprehensive pediatric eye and vision examination. St. Louis (MO): American Optometric Association (AOA); 2017. 67 p.  [251 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: American Optometric Association. Pediatric eye and vision examination. St. Louis (MO): American Optometric Association; 2002. 57 p. [130 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="705" ordby="150" name="NEATS Assessment">
+    <field fieldid="183" ordby="10" id="706" name="Disclosure of Guideline Funding Source" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="184" ordby="20" id="707" name="Disclosure and Management of Financial Conflict of Interests" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="185" ordby="30" id="708" name="Guideline Development Group Composition: Multidisciplinary Group" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="186" ordby="40" id="709" name="Guideline Development Group Composition: Methodologist Involvement" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="187" ordby="50" id="710" name="Guideline Development Group Composition: Patient and Public Perspectives" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="188" ordby="60" id="711" name="Use of a Systematic Review of Evidence: Search Strategy" type="picklist-one">
+      <fieldvalue value="3"/>
+    </field>
+    <field fieldid="189" ordby="70" id="712" name="Use of a Systematic Review of Evidence: Study Selection" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="190" ordby="80" id="713" name="Use of a Systematic Review of Evidence: Synthesis of Evidence" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="191" ordby="90" id="714" name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="192" ordby="100" id="715" name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="193" ordby="110" id="716" name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="194" ordby="120" id="717" name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="195" ordby="130" id="718" name="Specific and Unambiguous Articulation of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="196" ordby="140" id="719" name="External Review" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="197" ordby="150" id="720" name="Updating" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Definitions for the quality of evidence (<strong>A&amp;ndash;D</strong>) and strength of clinical recommendation levels (<strong>Strong Recommendation, Recommendation, Option</strong>) are presented at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Comprehensive Pediatric Eye and Vision Examination </span></strong></p>
+<p><strong>Examination Procedures*</strong></p>
+<p><strong>Consensus-Based Action Statement</strong>: A comprehensive pediatric eye and vision examination should include, but is not limited to:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Review of the nature and history of the presenting problem, patient and family eye and medical histories, including visual, ocular, general health, leisure and sports activities, and developmental and school performance history of the child </li>
+    <li>Measurement of visual acuity </li>
+    <li>Determination of refractive status </li>
+    <li>Assessment of binocular vision, ocular motility, and accommodation </li>
+    <li>Evaluation of color vision (baseline or periodic, if needed, for qualification purposes or if disease related) </li>
+    <li>Assessment of ocular and systemic health, including evaluation of pupillary responses, anterior and posterior segment, peripheral retina, evaluation/measurement of intraocular pressure, and visual field testing. </li>
+</ul>
+<p>Refer to section III. Care Process, A. 9 in the original guideline document for a listing of potential benefits and harms of testing.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Evidence Quality</strong>: There is a lack of published research to support or refute the use of all of the tests and/or assessments included in this recommendation. </li>
+    <li><strong>Benefit and Harm Assessment</strong>: Implementation of this recommendation is likely to result in the enhanced ability to diagnose any eye or vision problems in infants and children. The benefits of this recommendation were established by expert consensus opinion. </li>
+</ul>
+<p class=&quot;Note&quot;><strong>*Note</strong>: See Appendix Tables 1, 2, and 3 in the original guideline document for a listing of specific tests by age group.</p>
+<p><strong>Testing</strong></p>
+<p><em>Testing of Preschool Children (3 through 5 years of age)</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Refraction</span></p>
+<p><strong>Consensus-Based Action Statement</strong>: Cycloplegic retinoscopy is the preferred procedure for the first evaluation of preschoolers. It is necessary to quantify significant refractive error in the presence of visual conditions such as strabismus, amblyopia, and anisometropia.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Evidence Quality</strong>: There is a lack of published research to support or refute the use of this recommendation. </li>
+    <li><strong>Benefit and Harm Assessment</strong>: Implementation of this recommendation is likely to enhance the ability to evaluate and diagnose eye and vision problems in school-age children. The benefits of this recommendation were established by expert consensus opinion. </li>
+</ul>
+<p><em>Testing of School-Age Children (6 through 18 years of age)</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Refraction</span></p>
+<p><strong>Consensus-based Action Statement</strong>: Cycloplegic retinoscopy is the preferred procedure for the first evaluation of school-age children. It is necessary to quantify significant refractive error in the presence of visual conditions such as strabismus, amblyopia, and anisometropia.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Evidence Quality</strong>: There is a lack of published research to support or refute the use of this recommendation. </li>
+    <li><strong>Benefit and Harm Assessment</strong>: Implementation of this recommendation is likely to enhance the ability to evaluate and diagnose eye and vision problems in school-age children. The benefits of this recommendation were established by expert consensus opinion. </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Color Vision</span></p>
+<p><strong>Consensus-Based Action Statement</strong>: Abnormal color vision can affect daily performance of activities involving color discrimination and may interfere with or prevent some occupational choices later in life. Children should be tested as soon as possible for color vision deficiency and the parents/caregivers of children identified with color vision deficiency should be counseled.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Evidence Quality</strong>: There is a lack of published research to support or refute the use of this recommendation. </li>
+    <li><strong>Benefit and Harm Assessment</strong>: Implementation of this recommendation is likely to increase early detection of color vision deficiency and alert parents/caregivers to any potential effects on a child's education or occupational choices. The benefits of this recommendation were established by expert consensus opinion. </li>
+</ul>
+<p><strong>Supplemental Testing</strong></p>
+<p><em>Testing for Learning-Related Vision Problems</em></p>
+<p><strong>Consensus-Based Action Statement</strong>: Children at risk for learning-related vision problems should be evaluated by a doctor of optometry.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Evidence Quality</strong>: There is a lack of published research to support or refute the use of this recommendation. </li>
+    <li><strong>Benefit and Harm Assessment</strong>: Implementation of this recommendation is likely to result in more in-depth evaluation and diagnosis of children with learning-related vision problems. The benefits of this recommendation were established by expert consensus opinion. </li>
+</ul>
+<p><strong>Children with Special Needs</strong></p>
+<p><em>Developmental Disabilities</em></p>
+<p><strong>Consensus-Based Action Statement</strong>: Many children with developmental or intellectual disabilities have undetected and untreated vision problems and should receive a comprehensive pediatric eye and vision examination.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Evidence Quality</strong>: There is a lack of published research to support or refute the use of this recommendation. </li>
+    <li><strong>Benefit and Harm Assessment</strong>: Implementation of this recommendation is likely to result in improved quality of life and educational and occupational achievement for these high-risk children. The benefits of this recommendation were established by expert consensus opinion. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Management</span></strong></p>
+<p><strong>Counseling and Education</strong></p>
+<p><strong>Consensus-Based Action Statement</strong>: At the conclusion of a comprehensive pediatric eye and vision examination, the diagnosis should be explained to the patient/parent/caregiver and related to the patient's symptoms, and a treatment plan and prognosis discussed.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Evidence Quality</strong>: There is a lack of published research to support or refute the use of this recommendation </li>
+    <li><strong>Benefit and Harm Assessment</strong>: Implementing this recommendation is likely to increase patient/parent/caregiver understanding of any diagnosed eye or vision problems and improve compliance with any recommended treatment. The benefits of this recommendation were established by expert consensus opinion. </li>
+</ul>
+<p><em>Eye and Safety Protection</em></p>
+<p><strong>Evidence-Based Action Statement</strong>: Parents/caregivers and children should be educated about potential risks for eye injuries at home, at school, and during sports and recreational activities, and advised about safety precautions to decrease the risk of ocular injury (Pollard, Xiang, &amp;amp; Smith, 2012; Lesniak et al., 2012). Prevention of eye injuries in children should focus on the use of protective eyewear, parental supervision, and include education about both the risks of eye injury and the benefits of protective eyewear (Armstrong et al., 2013).</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Evidence Quality</strong>: <strong>Grade B</strong>: Retrospective cohort studies </li>
+    <li><strong>Level of Confidence</strong>: Medium </li>
+    <li><strong>Clinical Recommendation Strength</strong>: <strong>Strong Recommendation</strong>. This recommendation should be followed unless clear and compelling rationale for an alternative approach is present. </li>
+    <li><strong>Evidence Statements</strong>:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>It is important to discuss eye safety issues with children/parents/caregivers. (<strong>Evidence Grade: B</strong>) </li>
+        <li>Prevention strategies should focus on the use of protective eyewear, parental supervision, and on childhood education about both the risks of eye injury and the utility of protective eyewear. (<strong>Evidence Grade: B</strong>) </li>
+    </ul>
+    </li>
+    <li><strong>Potential Benefits</strong>: Reduction in eye injuries in children </li>
+    <li><strong>Potential Risks/Harms</strong>: None </li>
+    <li><strong>Benefit and Harm Assessment</strong>: Benefits significantly outweigh harms </li>
+    <li><strong>Potential Costs</strong>: Direct cost of counseling as part of a pediatric eye and vision examination </li>
+    <li><strong>Value Judgments</strong>: None </li>
+    <li><strong>Role of Patient Preferences</strong>: Large </li>
+    <li><strong>Intentional Vagueness</strong>: Specific type/form of counseling is not stated, as it is patient specific </li>
+    <li><strong>Gaps in Evidence</strong>: Research is needed to determine the risks and methods of eye protection associated with specific eye injuries in children in order to design appropriate prevention strategies </li>
+</ul>
+<p><em>Ultraviolet Radiation and Blue Light Protection</em></p>
+<p><strong>Consensus-Based Action Statement</strong>: All children and their parents/caregivers should be advised about the benefits of the regular use of sunglasses and/or clear prescription glasses that effectively block at least 99% of ultraviolet A (UVA) and ultraviolet B (UVB) radiation, the use of hats with brims when outdoors, and the importance of not looking directly at the sun.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Evidence Quality</strong>: There is a lack of published research to support or refute the use of this recommendation. </li>
+    <li><strong>Benefit and Harm Assessment</strong>: Implementing this recommendation is likely to decrease patient risk of eye health problems from acute or chronic exposure to UV radiation and blue light. The benefits of this recommendation were established by expert consensus opinion. </li>
+</ul>
+<p><em>Impacts of Near Work and Reduced Time Outdoors on Vision</em></p>
+<p><strong>Evidence-Based Action Statement</strong>: Patients/parents/caregivers should be counseled about the benefits to children's vision of spending more time outdoors (Gwiazda et al., 2014; Jones-Jordan et al., 2011; Jones-Jordan et al., 2012; Lin et al., 2014).</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Evidence Quality</strong>: <strong>Grade B</strong>. Randomized clinical trial, Prospective cohort studies, Cross-sectional study </li>
+    <li><strong>Level of Confidence</strong>: Medium </li>
+    <li><strong>Clinical Recommendation Strength</strong>: <strong>Recommendation</strong>. This recommendation should generally be followed, but remain alert for new information. </li>
+    <li><strong>Evidence Statements</strong>:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>More time spent outdoors and less time indoors doing near work may slow axial elongation and prevent high myopia thereby reducing the risk of developing sight-threatening conditions such as retinal detachment and myopic retinopathy. (<strong>Evidence Grade: A</strong>) </li>
+        <li>More time outside may decrease myopia progression. Less outdoor/sports activity before myopia onset may exert a stronger influence on the development of myopia than near work. (<strong>Evidence Grade: B</strong>) </li>
+        <li>Outdoor time and near work do not have a major effect on myopia progression. (<strong>Evidence Grade: B</strong>) </li>
+        <li>Higher levels of outdoor activity were associated with lower amounts of myopia in primary school students. (<strong>Evidence Grade: D</strong>) </li>
+    </ul>
+    </li>
+    <li><strong>Potential Benefits</strong>: Implementation of this recommendation is likely to help reduce the development and progression of myopia in children </li>
+    <li><strong>Potential Risks/Harms</strong>: None </li>
+    <li><strong>Benefit and Harm Assessment</strong>: Benefits significantly outweigh harms </li>
+    <li><strong>Potential Costs</strong>: Direct cost of counseling as part of a pediatric eye and vision examination and parental/caregiver time off from work </li>
+    <li><strong>Value Judgments</strong>: None </li>
+    <li><strong>Role of Patient Preferences</strong>: Moderate </li>
+    <li><strong>Intentional Vagueness</strong>: Specific type/form of counseling is not stated, as it is patient specific </li>
+    <li><strong>Gaps in Evidence</strong>: Research is needed on the effects and possible interaction of outdoor activity and near work on myopia in children </li>
+</ul>
+<p><strong>Coordination and Frequency of Care</strong></p>
+<p><em>Frequency of Care</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Infants and Toddlers (newborn through 2 years of age)</span></p>
+<p><strong>Evidence-Based Action Statement</strong>: Infants should receive an in-person comprehensive eye and vision assessment between 6 and 12 months of age for the prevention and/or early diagnosis and treatment of sight-threatening eye conditions and to evaluate visual development (Wang et al., 2013; Eibschitz-Tsimhoni et al., 2000; Atkinson et al., 2007).</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Evidence Quality</strong>: <strong>Grade B</strong>: Prospective cohort studies, Diagnostic study </li>
+    <li><strong>Level of Confidence</strong>: High </li>
+    <li><strong>Clinical Recommendation Strength</strong>: <strong>Strong Recommendation</strong>. This recommendation should be followed unless clear and compelling rationale for an alternative approach is present. </li>
+    <li><strong>Evidence Statements</strong>:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Preterm infants with a history of retinopathy of prematurity should be closely monitored for the development of high myopia, astigmatism, and anisometropia. (<strong>Evidence Grade: B</strong>) </li>
+        <li>Early visual examination in infants for amblyopia and amblyopic risk factors can lower the prevalence and severity of amblyopia in children. (<strong>Evidence Grade: B</strong>) </li>
+        <li>Assessment of infant refractive error can identify not only vision problems, but also potential developmental difficulties. Hyperopic infants may show deficits in many visuocognitive, spatial, visuomotor, and attention tests. (<strong>Evidence Grade: B</strong>) </li>
+    </ul>
+    </li>
+    <li><strong>Potential Benefits</strong>: Early identification and treatment of eye and vision problems </li>
+    <li><strong>Potential Risks/Harms</strong>: None </li>
+    <li><strong>Benefit and Harm Assessment</strong>: Benefits significantly outweigh harms </li>
+    <li><strong>Potential Costs</strong>: Direct cost of testing and parent/caregiver time off from work </li>
+    <li><strong>Value Judgments</strong>: None </li>
+    <li><strong>Role of Patient Preferences</strong>: Moderate </li>
+    <li><strong>Intentional Vagueness</strong>: None </li>
+    <li><strong>Gaps in Evidence</strong>: None identified </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Preschool Children (3 through 5 years of age)</span></p>
+<p><strong>Evidence-Based Action Statement</strong>: Preschool age children should receive an in-person comprehensive eye and vision examination at least once between the ages of 3 and 5 to prevent and/ or diagnose and treat any eye or vision conditions that may affect visual development (Holmes et al., 2011; U.S. Preventive Services Task Force, 2011; VIP-HIP Study Group et al., 2016; Dobson et al., 2009; Kemper et al., 2011).</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Evidence Quality</strong>: <strong>Grade B</strong>. Systematic Review, Case series, Cross-sectional study </li>
+    <li><strong>Level of Confidence</strong>: Medium </li>
+    <li><strong>Clinical Recommendation Strength</strong>: <strong>Strong Recommendation</strong>. This recommendation should be followed, unless clear and compelling rationale for an alternative approach is present. </li>
+    <li><strong>Evidence Statements</strong>:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Amblyopia is a treatable condition in children and adolescents (<strong>Evidence Grade: A</strong>); however, amblyopia is more responsive to treatment among children younger than 7 years of age. </li>
+        <li>Uncorrected hyperopia in 4 and 5 year old children has been associated with delays in the development of early literacy. (<strong>Evidence Grade: C</strong>) </li>
+        <li>Spectacle correction of astigmatism during the preschool years can result in significantly improved best-corrected visual acuity by kindergarten age. (<strong>Evidence Grade: C</strong>) </li>
+        <li>The U.S. Preventive Services Task Force recommends that children have their vision screened at least once between the ages of 3 and 5 years of age; (<strong>Evidence Grade: B</strong>) however, gaps exist in the delivery of preschool vision screening and rates of screening are low, particularly in 3 year old children. (<strong>Evidence Grade: C</strong>) </li>
+    </ul>
+    </li>
+    <li><strong>Potential Benefits</strong>: Early identification and treatment of eye and vision problems </li>
+    <li><strong>Potential Risks/Harms</strong>: None </li>
+    <li><strong>Benefit and Harm Assessment</strong>: Benefits significantly outweigh harms </li>
+    <li><strong>Potential Costs</strong>: Direct cost of testing and parent/caregiver time off from work </li>
+    <li><strong>Value Judgments</strong>: None </li>
+    <li><strong>Role of Patient Preferences</strong>: Moderate </li>
+    <li><strong>Intentional Vagueness</strong>: None </li>
+    <li><strong>Gaps in Evidence</strong>: None identified </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>School-age Children (6 through 11 and 12 through 18 years of age)</span></p>
+<p><strong>Evidence-Based Action Statement</strong>: School-age children should receive an in-person comprehensive eye and vision examination before beginning school to diagnose, treat, and manage any eye or vision conditions (Borsting et al., 2012; Jones-Jordan et al., 2010; VIP-HIP Study Group et al., 2016; Shankar, Evans, &amp;amp; Bobier, 2007; van Rijn et al., 2014; Rouse et al., 2009). </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Evidence Quality</strong>: <strong>Grade B</strong>. Prospective cohort studies, Case-control study, Cross-sectional study. </li>
+    <li><strong>Level of Confidence</strong>: Medium </li>
+    <li><strong>Clinical Recommendation Strength</strong>: <strong>Strong Recommendation</strong>. This recommendation should be followed unless clear and compelling rationale for an alternative approach is present. </li>
+    <li><strong>Evidence Statements</strong>:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Children should receive an eye examination at the beginning of primary school to diagnose the onset of myopia. (<strong>Evidence Grade: B</strong>) </li>
+        <li>Hyperopia can affect the development of literacy skills. Children with uncorrected hyperopia show reduced performance in the acquisition of emergent literacy skills. (<strong>Evidence Grade: C</strong>) </li>
+        <li>Correction of hyperopia may, under specific conditions, lead to increased reading speed; therefore, eye examinations to diagnose uncorrected hyperopia are recommended. (<strong>Evidence Grade: B</strong>) </li>
+        <li>Early diagnosis and treatment of an accommodative or vergence problem may reduce the negative impact on academic performance. (<strong>Evidence Grade: B</strong>) </li>
+        <li>Children with attention-deficit/hyperactivity disorder (AD/HD) or related learning problems may benefit from comprehensive vision evaluation to assess the presence of convergence insufficiency. (<strong>Evidence Grade: D</strong>) </li>
+        <li>Treatment of convergence insufficiency has been associated with reduction in the frequency of adverse academic behaviors. (<strong>Evidence Grade B</strong>) </li>
+    </ul>
+    </li>
+    <li><strong>Potential Benefits</strong>: Early identification and treatment of eye and vision problems </li>
+    <li><strong>Potential Risks/Harms</strong>: None </li>
+    <li><strong>Benefit and Harm Assessment</strong>: Benefits significantly outweigh harms </li>
+    <li><strong>Potential Costs</strong>: Direct cost of testing and parent/caregiver time off from work </li>
+    <li><strong>Value Judgments</strong>: None </li>
+    <li><strong>Role of Patient Preferences</strong>: Moderate </li>
+    <li><strong>Intentional Vagueness</strong>: None </li>
+    <li><strong>Gaps in Evidence</strong>: None identified </li>
+</ul>
+<p><strong>Evidence-based Action Statement</strong>: Children with myopia should have an in-person comprehensive eye and vision examination at least annually, or as frequently as recommended (especially until age 12), because of the potential for rapid myopia progression (Gwiazda et al., 2014; Comet Group, 2013).</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Evidence Quality</strong>: <strong>Grade B</strong>. Randomized clinical trial, Prospective cohort study </li>
+    <li><strong>Level of Confidence</strong>: Medium </li>
+    <li><strong>Clinical Recommendation Strength</strong>: <strong>Strong Recommendation</strong>. This recommendation should be followed unless clear and compelling rationale for an alternative approach is present. </li>
+    <li><strong>Evidence Statements</strong>:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Children with myopia should have an examination at least annually or as frequently as their doctor recommends until the age of 12 because of rapid myopia progression. (<strong>Evidence Grade: B</strong>) </li>
+        <li>When both parents have myopia, children are at higher risk for progression and should be examined more than once per year. (<strong>Evidence Grade: A</strong>) </li>
+    </ul>
+    </li>
+    <li><strong>Potential Benefits</strong>: Early identification and treatment of eye and vision problems </li>
+    <li><strong>Potential Risks/Harms</strong>: None </li>
+    <li><strong>Benefit and Harm Assessment</strong>: Benefits significantly outweigh harms </li>
+    <li><strong>Potential Costs</strong>: Direct cost of testing and parent/caregiver time off from work </li>
+    <li><strong>Value Judgments</strong>: None </li>
+    <li><strong>Role of Patient Preferences</strong>: Moderate </li>
+    <li><strong>Intentional Vagueness</strong>: None </li>
+    <li><strong>Gaps in Evidence</strong>: None identified </li>
+</ul>
+<p><strong>Consensus-Based Action Statement</strong>: School-age children should receive an in-person comprehensive eye and vision examination annually to diagnose, treat, and manage any eye or vision problems.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Evidence Quality</strong>: There is a lack of published research to support or refute the use of this recommendation. </li>
+    <li><strong>Benefit and Harm Assessment</strong>: Implementing this recommendation is likely to result in earlier diagnosis and treatment of eye and vision problems and improved visual function. The benefits of this recommendation were established by expert consensus opinion. </li>
+</ul>
+<p><strong>Recommended Eye Examination Frequency for Pediatric Patients**</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Recommended Eye Examination Frequency for Pediatric Patients&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;3&quot; scope=&quot;col&quot;>Examination Interval</th>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Patient Age</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Asymptomatic/Low-Risk</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>At-Risk</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Birth through 2 years</td>
+            <td valign=&quot;top&quot;>At 6 to 12 months of age</td>
+            <td valign=&quot;top&quot;>At 6 to 12 months of age, or as recommended</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>3 through 5 years</td>
+            <td valign=&quot;top&quot;>At least once between 3 and 5 years of age</td>
+            <td valign=&quot;top&quot;>At least once between 3 and 5 years of age, or as recommended</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>6 through 18 years</td>
+            <td valign=&quot;top&quot;>Before first grade and annually thereafter</td>
+            <td valign=&quot;top&quot;>Before first grade and annually, or as recommended, thereafter</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>**<a href=&quot;https://www.aoa.org/optometrists/tools-and-resources/clinical-care-publications/clinical-practice-guidelines?sso=y&quot; title=&quot;AOA Web site&quot;>The American Optometric Association Clinical Practice Guidelines</a> provide more information on other eye and vision disorders and their risk factors.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Key to Quality of Evidence</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Key to Quality of Evidence&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Quality of Evidence Levels</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>A</th>
+            <td valign=&quot;top&quot;>Data derived from well-designed, randomized clinical trials (RCTs), systematic reviews; meta-analyses; or diagnostic studies (Grade A) of relevant populations with a validated reference standard. Grade A diagnostic studies do not have a narrow population or use a poor reference standard and are not case control studies of diseases or conditions.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>B</th>
+            <td valign=&quot;top&quot;>RCTs with weaker designs; cohort studies (retrospective or prospective); or diagnostic studies (Grade B). Grade B diagnostic studies have only one of the following: a narrow population or the sample used does not reflect the population to whom the test would apply or uses a poor reference standard or the comparison between the test and reference standard is not blinded or are case control studies of diseases or conditions.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>C</th>
+            <td valign=&quot;top&quot;>Studies of strong design, but with substantial uncertainty about conclusions, or serious doubts about generalization, bias, research design, or sample size. Nonrandomized trials; case control studies (retrospective or prospective); or diagnostic studies (Grade C). Grade C diagnostic studies have at least 2 or more of the following: a narrow population or the sample used does not reflect the population to whom the test would apply or uses a poor reference standard or the comparison between the test and reference standard is not blinded or are case control studies of diseases or conditions.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>D</th>
+            <td valign=&quot;top&quot;>Cross sectional studies; case reports/series; reviews; position papers; expert opinion; or reasoning from principle.</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Strength of Clinical Recommendation Levels</strong></p>
+<p><strong>Strong Recommendation</strong>: The benefits of the recommendation clearly exceed the harms (or the harms clearly exceed the benefits in the case of a negative recommendation) and the quality of evidence is excellent (Grade A or B). In some clearly identified circumstances, a strong recommendation may be made on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits strongly outweigh the harms.</p>
+<p><em>This recommendation should be followed unless clear and compelling rationale for an alternative approach is present.</em></p>
+<p><strong>Recommendation</strong>: The benefits of the recommendation exceed the harms (or the harms exceed the benefits in the case of a negative recommendation) but the quality of evidence is not as strong (Grade B or C). In some clearly identified circumstances, a recommendation may be made on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits strongly outweigh the harms.</p>
+<p><em>This recommendation should generally be followed, but remain alert for new information.</em></p>
+<p><strong>Option</strong>: The benefits of the recommendation exceed the harms (or the harms exceed the benefits in the case of a negative recommendation) but the quality of evidence is low (Grade D) or well-done studies (Grade A, B, or C) show little clear advantage of one approach versus another. In some clearly identified circumstances, an option may be elevated to a recommendation even with lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits strongly outweigh the harms.</p>
+<p><em>There should be an awareness of this recommendation, but a flexibility in clinical decision-making, as well as remaining alert for new information.</em></p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An algorithm titled &quot;Comprehensive Pediatric Eye and Vision Examination: a Flowchart&quot; is provided as Appendix Figure 1 in the original guideline document.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Eye and vision disorders</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Screening"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Optometry"/>
+      <fieldvalue value="Pediatrics"/>
+      <fieldvalue value="Preventive Medicine"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Optometrists"/>
+      <fieldvalue value="Patients"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To describe procedures for evaluation of the eye health and vision status of infants and children and to provide recommendations for timely diagnosis and, when necessary, referral for consultation with, or treatment by, another health care provider </li>
+    <li>To assist doctors of optometry and ophthalmologists involved in providing eye and vision examinations for infants and children </li>
+    <li>To help achieve the following objectives:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Recommend an optimal timetable for comprehensive eye and vision examinations for infants and children (newborn through 18 years of age) </li>
+        <li>Suggest appropriate procedures to effectively examine the eye health, vision status, and ocular manifestations of systemic disease of infants and children </li>
+        <li>Reduce the risks and adverse effects of eye and vision problems in infants and children through prevention, education, early diagnosis, treatment, and management </li>
+        <li>Inform and educate patients, parents/caregivers, and other health care providers about the importance of eye health and good vision, and the need for and frequency of pediatric eye and vision examinations </li>
+    </ul>
+    </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Infants and toddlers (newborn through 2 years of age) </li>
+    <li>Preschool children (3 years through 5 years of age) </li>
+    <li>School-age children (6 through 18 years of age) </li>
+</ul>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Diagnosis/Evaluation</span></strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Examination procedures </li>
+    <li>Testing of preschool and school-age children
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Refraction (cycloplegic retinoscopy) </li>
+        <li>Color vision </li>
+    </ul>
+    </li>
+    <li>Supplemental testing (testing for learning-related vision problems) </li>
+    <li>Consideration for children with special needs (developmental or intellectual disabilities) </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Management/Prevention</span></strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Patient counseling and education
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Eye safety and protection </li>
+        <li>Protection from ultraviolet (UV) exposure </li>
+        <li>Impact of near work and reduced time outdoors on vision </li>
+        <li>Myopia control </li>
+    </ul>
+    </li>
+    <li>Coordination and frequency of care </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Accuracy of diagnostic tests </li>
+    <li>Effectiveness of comprehensive eye and vision examination </li>
+    <li>Risks and harms </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This guideline was developed by the American Optometric Association (AOA) Evidence-Based Optometry Guideline Development Group (GDG). Clinical questions to be addressed in the guideline were identified and refined during an initial meeting of the GDG and served as the basis for a search of the clinical and research literature.</p>
+<p>An English language search of the medical literature for the eye and vision examination of children birth through 18 years of age, for the time period January 2005 through October 2016 was conducted by trained researchers. If the search did not produce results, the search parameters were extended an additional 5 years.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Search Inclusion Criteria</span></strong> (must meet all):</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>English Studies </li>
+    <li>Study addresses the clinical question(s) </li>
+    <li>Paper meets the age group being addressed (0 to 18 years for pediatrics) </li>
+    <li>Searched by question(s) formulated at the AOA Call to Question Meeting attended by the GDG </li>
+    <li>Using all similar and relevant terms as defined by the GDG </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Exclusion Criteria</span></strong> (meeting <em>any</em> of the below):</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Non-English studies </li>
+    <li>Animal studies </li>
+    <li>Studies outside of the patient age range </li>
+    <li>Studies not addressing any topic of the clinical questions searched </li>
+</ol>
+<p>In addition, a review of selected earlier research publications was conducted based on previous versions of this guideline. The literature search was conducted using the following electronic databases:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Agency for Healthcare Research and Quality (AHRQ) </li>
+    <li>American Academy of Optometry (AAO) </li>
+    <li>American Academy of Neurology </li>
+    <li>American Association for Pediatric Ophthalmology and Strabismus (AAPOS) </li>
+    <li>American Journal of Optometry and Physiological Optics </li>
+    <li>Centers for Disease Control and Prevention, National Center for Health Statistics </li>
+    <li>Cochrane Library </li>
+    <li>Developmental Medicine &amp;amp; Child Neurology (DMCN) </li>
+    <li>Elsevier </li>
+    <li>Epidemiology </li>
+    <li>Google Scholar </li>
+    <li>JAMA Ophthalmology </li>
+    <li>Journal of Adolescent Health Care (JAHC) </li>
+    <li>Medline Plus </li>
+    <li>National Eye Institute </li>
+    <li>National Institute of Health Public Access (NIH) </li>
+    <li>National Guideline Clearinghouse </li>
+    <li>Neurology </li>
+    <li>Ophthalmic Epidemiology </li>
+    <li>Ophthalmology </li>
+    <li>PubMed </li>
+    <li>Other medical journals meeting the search criteria will be included in this list when used </li>
+</ul>
+<p>See the &quot;Literature Search Process&quot; document (see the &quot;Availability of Companion Documents&quot; field) for search terms.</p>
+<p>All references meeting the criteria were reviewed to determine their relevance to the clinical questions addressed in the guideline.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A told of 251 background and graded references were used in the guideline, which yielded 6 evidence-based action statements, 9 consensus-based action statements, and 9 clinical notes and statements.</p>
+<p>See the flow chart in Section VI of the original guideline document for details of the article selection process.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Key to Quality of Evidence</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Key to Quality of Evidence&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Quality of Evidence Levels</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>A</th>
+            <td valign=&quot;top&quot;>Data derived from well-designed, randomized clinical trials (RCTs), systematic reviews; meta-analyses; or diagnostic studies (Grade A) of relevant populations with a validated reference standard. Grade A diagnostic studies do not have a narrow population or use a poor reference standard and are not case control studies of diseases or conditions.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>B</th>
+            <td valign=&quot;top&quot;>RCTs with weaker designs; cohort studies (retrospective or prospective); or diagnostic studies (Grade B). Grade B diagnostic studies have only one of the following: a narrow population or the sample used does not reflect the population to whom the test would apply or uses a poor reference standard or the comparison between the test and reference standard is not blinded or are case control studies of diseases or conditions.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>C</th>
+            <td valign=&quot;top&quot;>Studies of strong design, but with substantial uncertainty about conclusions, or serious doubts about generalization, bias, research design, or sample size. Nonrandomized trials; case control studies (retrospective or prospective); or diagnostic studies (Grade C). Grade C diagnostic studies have at least 2 or more of the following: a narrow population or the sample used does not reflect the population to whom the test would apply or uses a poor reference standard or the comparison between the test and reference standard is not blinded or are case control studies of diseases or conditions.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>D</th>
+            <td valign=&quot;top&quot;>Cross sectional studies; case reports/series; reviews; position papers; expert opinion; or reasoning from principle.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Each article was assigned to two clinicians who independently reviewed and graded the quality of
+evidence and the clinical recommendations derived from the article, based on a previously defined system for grading
+quality (see the &quot;Rating Scheme for the Strength of the Evidence&quot; field). If discrepancies were found in the grading results, the article was assigned to an independent third reader for
+review and grading.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This guideline was developed by the American Optometric Association (AOA) Evidence-Based Optometry Guideline Development Group (GDG). Clinical questions to be addressed in the guideline were identified and refined during an initial meeting of the GDG and served as the basis for a search of the clinical and research literature.</p>
+<p>During six articulation meetings (three face-to-face and three using a Webex platform) of the Evidence-Based Optometry Guideline Development Reading Group (GDRG), all evidence was reviewed and clinical recommendations were developed. The strength level of clinical recommendations was based on the quality grade of the research and the potential benefits and harms of the procedure or therapy recommended. Where high-quality evidence to support a recommendation was weak or lacking, a group consensus was required to approve any consensus recommendations.</p>
+<p>Clinical recommendations in this guideline are evidence-based statements regarding patient care that are supported by the scientific literature or consensus of professional opinion when no quality evidence was discovered.</p>
+<p>See the original guideline document for &quot;AOA's 14 Steps to Evidence-Based Clinical Practice Guideline Development&quot; for a description of all steps involved in guideline development.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Strength of Clinical Recommendation Levels</span></strong></p>
+<p><strong>Strong Recommendation</strong>: The benefits of the recommendation clearly exceed the harms (or the harms clearly exceed the benefits in the case of a negative recommendation) and the quality of evidence is excellent (Grade A or B). In some clearly identified circumstances, a strong recommendation may be made on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits strongly outweigh the harms.</p>
+<p><em>This recommendation should be followed unless clear and compelling rationale for an alternative approach is present.</em></p>
+<p><strong>Recommendation</strong>: The benefits of the recommendation exceed the harms (or the harms exceed the benefits in the case of a negative recommendation) but the quality of evidence is not as strong (Grade B or C). In some clearly identified circumstances, a recommendation may be made on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits strongly outweigh the harms.</p>
+<p><em>This recommendation should generally be followed, but remain alert for new information.</em></p>
+<p><strong>Option</strong>: The benefits of the recommendation exceed the harms (or the harms exceed the benefits in the case of a negative recommendation) but the quality of evidence is low (Grade D) or well-done studies (Grade A, B, or C) show little clear advantage of one approach versus another. In some clearly identified circumstances, an option may be elevated to a recommendation even with lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits strongly outweigh the harms.</p>
+<p><em>There should be an awareness of this recommendation, but a flexibility in clinical decision-making, as well as remaining alert for new information.</em></p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Review and editing of the draft guideline by the Evidence-Based Optometry Guideline Development Group (GDG) required one face-to-face meeting and three additional Draft Reading Meetings using a Webex platform. The final Peer Review draft was reviewed and approved by the GDG by conference call, then made available for peer and public review for 30 days for numerous stakeholders (individuals and organizations). Comments were promoted and encouraged. All suggested revisions were reviewed and, if accepted by the GDG, incorporated into the guideline. All peer and public comments and all actions (and inactions) were recorded.</p>
+<p>The guideline was approved by the American Optometric Association Board of Trustees on February 12, 2017.</p>
+<p>See the original guideline document for &quot;AOA's 14 Steps to Evidence-Based Clinical Practice Guideline Development&quot; for a description of all steps involved in drafting and reviewing the guideline document.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="98" ordby="605" id="425" name="References Supporting the Recommendations" type="citation">
+      <fieldvalue value="<table><tr><td>Armstrong GW, Kim JG, Linakis JG, Mello MJ, Greenberg PB. Pediatric eye injuries presenting to United States emergency departments: 2001-2007. Graefes Arch Clin Exp Ophthalmol. 2013 Mar;251(3):629-36. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22245950&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Atkinson J, Braddick O, Nardini M, Anker S. Infant hyperopia: detection, distribution, changes and correlates-outcomes from the cambridge infant screening programs. Optom Vis Sci. 2007 Feb;84(2):84-96. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17299337&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Borsting E, Mitchell GL, Kulp MT, Scheiman M, Amster DM, Cotter S, Coulter RA, Fecho G, Gallaway MF, Granet D, Hertle R, Rodena J, Yamada T, CITT Study Group. Improvement in academic behaviors after successful treatment of convergence insufficiency. Optom Vis Sci. 2012 Jan;89(1):12-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22080400&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>COMET Group. Myopia stabilization and associated factors among participants in the Correction of Myopia Evaluation Trial (COMET). Invest Ophthalmol Vis Sci. 2013 Dec 03;54(13):7871-84. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24159085&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Dobson V, Clifford-Donaldson CE, Green TK, Miller JM, Harvey EM. Optical treatment reduces amblyopia in astigmatic children who receive spectacles before kindergarten. Ophthalmology. 2009 May;116(5):1002-8.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Eibschitz-Tsimhoni M, Friedman T, Naor J, Eibschitz N, Friedman Z. Early screening for amblyogenic risk factors lowers the prevalence and severity of amblyopia. J AAPOS. 2000 Aug;4(4):194-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10951293&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Gwiazda J, Deng L, Manny R, Norton TT, COMET Study Group. Seasonal variations in the progression of myopia in children enrolled in the correction of myopia evaluation trial. Invest Ophthalmol Vis Sci. 2014 Feb 04;55(2):752-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24408976&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Holmes JM, Lazar EL, Melia BM, Astle WF, Dagi LR, Donahue SP, Frazier MG, Hertle RW, Repka MX, Quinn GE, Weise KK, Pediatric Eye Disease Investigator Group. Effect of age on response to amblyopia treatment in children. Arch Ophthalmol. 2011 Nov;129(11):1451-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21746970&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Jones-Jordan LA, Mitchell GL, Cotter SA, Kleinstein RN, Manny RE, Mutti DO, Twelker JD, Sims JR, Zadnik K, CLEERE Study Group. Visual activity before and after the onset of juvenile myopia. Invest Ophthalmol Vis Sci. 2011 Mar;52(3):1841-50. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20926821&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Jones-Jordan LA, Sinnott LT, Cotter SA, Kleinstein RN, Manny RE, Mutti DO, Twelker JD, Zadnik K, CLEERE Study Group. Time outdoors, visual activity, and myopia progression in juvenile-onset myopes. Invest Ophthalmol Vis Sci. 2012 Oct 01;53(11):7169-75. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22977132&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Jones-Jordan LA, Sinnott LT, Manny RE, Cotter SA, Kleinstein RN, Mutti DO, Twelker JD, Zadnik K, Collaborative Longitudinal Evaluation of Ethnicity and Refractive Error (CLEERE) Study Group. Early childhood refractive error and parental history of myopia as predictors of myopia. Invest Ophthalmol Vis Sci. 2010 Jan;51(1):115-21. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19737876&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kemper AR, Wallace DK, Patel N, Crews JE. Preschool vision testing by health providers in the United States: findings from the 2006-2007 Medical Expenditure Panel Survey. J AAPOS. 2011;15:480-3.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lesniak SP, Bauza A, Son JH, Zarbin MA, Langer P, Guo S, Wagner RS, Bhagat N. Twelve-year review of pediatric traumatic open globe injuries in an urban U.S. population. J Pediatr Ophthalmol Strabismus. 2012 Mar-Apr;49(2):73-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21766730&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lin Z, Vasudevan B, Jhanji V, Mao GY, Gao TY, Wang FH, Rong SS, Ciuffreda KJ, Liang YB. Near work, outdoor activity, and their association with refractive error. Optom Vis Sci. 2014 Apr;91(4):376-82. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24637483&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Pollard KA, Xiang H, Smith GA. Pediatric eye injuries treated in U.S. emergency departments, 1990-2009. Clin Pediatr (Phila). 2012 Apr;51(4):374-81. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22199176&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Rouse M, Borsting E, Mitchell GL, Kulp MT, Scheiman M, Amster D, Coulter R, Fecho G, Gallaway M, CITT Study Group. Academic behaviors in children with convergence insufficiency with and without parent-reported ADHD. Optom Vis Sci. 2009 Oct;86(10):1169-77. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19741558&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Shankar S, Evans MA, Bobier WR. Hyperopia and emergent literacy of young children: pilot study. Optom Vis Sci. 2007 Nov;84(11):1031-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18043422&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>U.S. Preventive Services Task Force. Vision screening for children 1 to 5 years of age: US Preventive Services Task Force Recommendation statement. Pediatrics. 2011 Feb;127(2):340-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21282267&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>van Rijn LJ, Krijnen JS, Nefkens-Molster AE, Wensing K, Gutker E, Knol DL. Spectacles may improve reading speed in children with hyperopia. Optom Vis Sci. 2014 Apr;91(4):397-403. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24561962&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>VIP-HIP Study Group, Kulp MT, Ciner E, Maguire M, Moore B, Pentimonti J, Pistilli M, Cyert L, Candy TR, Quinn G, Ying GS. Uncorrected hyperopia and preschool early literacy: results of the Vision in Preschoolers-Hyperopia in Preschoolers (VIP-HIP) Study. Ophthalmology. 2016 Apr;123(4):681-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26826748&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Wang J, Ren X, Shen L, Yanni SE, Leffler JN, Birch EE. Development of refractive error in individual children with regressed retinopathy of prematurity. Invest Ophthalmol Vis Sci. 2013 Sep 05;54(9):6018-24. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23920368&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for evidence-based recommendations  (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Potential Benefits of Testing</span></strong></p>
+<p>The potential benefits of a comprehensive pediatric eye and vision examination include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Optimizing visual function through diagnosis, treatment, and management of refractive, ocular motor, accommodative, and binocular vision problems </li>
+    <li>Preventing and/or minimizing vision loss through early diagnosis, treatment, and management of ocular health conditions </li>
+    <li>Detecting systemic disease and referring for appropriate care </li>
+    <li>Counseling and educating patients/parents/caregivers on current conditions and preventive care to maintain ocular and systemic health and visual function, and on the relationship between vision problems and early learning </li>
+</ul>
+<p>See also the &quot;Potential Benefits&quot; sections in the &quot;Major Recommendations&quot; field for specific benefits of evidence-based recommendations.</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Potential Harms of Testing</span></strong></p>
+<p>Potential harms associated with a comprehensive pediatric eye and vision examination may include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patient or parent/caregiver anxiety about testing procedures or resulting diagnosis </li>
+    <li>Adverse ocular and/or systemic reactions and/or temporary visual disturbances resulting from testing, or allergic responses to diagnostic pharmaceutical agents or materials used </li>
+    <li>Missed or misdiagnosis of eye health or vision problems </li>
+    <li>Unnecessary referral or treatment </li>
+</ul>
+<p>See also the &quot;Potential Risks/Harms&quot; sections in the &quot;Major Recommendations&quot; field for specific risks or harms for evidence-based recommendation.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Recommendations made in this guideline do not represent a standard of care. Instead, the recommendations are intended to assist the clinician in the decision-making process. Patient care and treatment should always be based on a clinician's independent professional judgment, given the patient's circumstances, and in compliance with state laws and regulations. </li>
+    <li>The information in this guideline is current to the extent possible as of the date of publication. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Effective multifaceted implementation strategies targeting all relevant populations affected by clinical practice guidelines (CPGs) should be employed by implementers to promote adherence to trustworthy guidelines.</p>
+<p>American Optometric Association (AOA) Process:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The AOA Health Promotions Committee is responsible for the released guideline's translation into care. They promote the guideline on the AOA Web site, through the media, to AOA State Affiliates, optometric schools and colleges, Facebook and Twitter. </li>
+    <li>They also produce a lecture slide series to be given at state, regional and national meetings where doctors and other caregivers gather for continuing education. </li>
+</ul>
+<p>Guideline developers should structure the format, vocabulary, and content of CPGs (e.g., specific statements of evidence, the target population) to facilitate ready implementation of computer-aided clinical decision support (CDS) by end-users.</p>
+<p>AOA Process:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Guideline Development Group includes a patient and a patient advocate representative to assist in guideline writing for optimum patient and public understanding. </li>
+    <li>The guideline posting to the AOA Web site (<a href=&quot;https://www.aoa.org/?sso=y&quot; title=&quot;AOA Web site&quot;>www.AOA.org</a>) is made available to the public and is an electronic format that can be magnified for easier viewing. </li>
+    <li>The guideline is also available in pdf format and is sent out upon request. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Patient Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>AOA Evidence-Based Optometry Guideline Development Group. Comprehensive pediatric eye and vision examination. St. Louis (MO): American Optometric Association (AOA); 2017. 67 p.  [251 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2017"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American Optometric Association - Professional Association"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This clinical practice guideline was funded by the American Optometric Association (AOA), without financial support from any commercial sources.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American Optometric Association (AOA) Evidence-Based Optometry Guideline Development Group</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>American Optometric Association (AOA) Evidence-Based Optometry Guideline Development Group</span></strong></p>
+<p><em>AOA Evidence-Based Optometry Committee</em>: Diane T. Adamczyk, O.D. (<em>Chair</em>), State University of New York, College of Optometry, New York, New York; John F. Amos, O.D., M.S., University of Alabama at Birmingham School of Optometry, Birmingham, Alabama, Dean and Professor Emeritus; Felix M. Barker, II, O.D., M.S., W. G. (Bill) Hefner VAMC, Salisbury, North Carolina; Benjamin P. Casella, OD, Private Practice, Casella Eye Center, Augusta, Georgia; Linda M. Chous, O.D., United HealthCare Services, Inc., Minneapolis, Minnesota; Lynn D. Greenspan, O.D., Salus University, Pennsylvania College of Optometry, Elkins Park, Pennsylvania; Lori L. Grover, O.D., Ph.D., Health Policy, King-Devick Technologies, Inc., Oakbrook Terrace, Illinois; Tina R. MacDonald, O.D., The Center for the Partially Sighted, Culver City, California; Harue J. Marsden, O.D., M.S., Southern California College of Optometry, Marshall B. Ketchum University, Fullerton, California; David K. Masihdas, O.D., Utah Eye Associates, The Diabetic Eye Center, Salt Lake City, Utah; Bennett McAllister, O.D., Western University of Health Sciences, College of Optometry, Pomona, California; Trennda L. Rittenbach, O.D., Palo Alto Medical Foundation/Sutter Health, Sunnyvale, California; Carl J. Urbanski, O.D., Private Practice, Family Vision Care of Kingston, Kingston, Pennsylvania</p>
+<p><em>Multidisciplinary and Patient Stakeholders</em>: Ida Chung, O.D., Western University of Health Sciences, College of Optometry, Pomona, California; Beth T. Dessem, Patient Advocate, Missouri CASA Association, Columbia, Missouri; David E. Hartenbach, M.D., Pediatrician, Creve Coeur Pediatrics, Creve Coeur, Missouri; Janet Hughes, Patient (parent), Vision First Foundation, Lemont, Illinois; Mitchell M. Scheiman, O.D., Salus University, The Eye Institute of Pennsylvania College of Optometry, Elkins Park, Pennsylvania</p>
+<p><em>Non-voting Members</em>: Stephen C. Miller, O.D., Chief Editor, Innovative Writing Works, St. Louis, Missouri; Beth A. Kneib, O.D., AOA Director of Clinical Resources, American Optometric Association, St. Louis, Missouri; Andrew Morgenstern, O.D., AOA Consultant for Evidence-Based Optometry, American Optometric Association, Alexandria, VA; Danette Miller, AOA Manager of Quality Improvement, American Optometric Association, St. Louis, Missouri; Alisa G. Krewet, AOA Quality Improvement Coordinator, American Optometric Association, St. Louis, Missouri</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Evidence-Based Optometry Guideline Development Group and other guideline participants provided full written disclosure of conflicts of interest prior to each meeting and prior to voting on the quality of evidence or strength of clinical recommendations contained within this guideline.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: American Optometric Association. Pediatric eye and vision examination. St. Louis (MO): American Optometric Association; 2002. 57 p. [130 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://aoa.uberflip.com/i/807465-cpg-pediatric-eye-and-vision-examination&quot; title=&quot;AOA Web site&quot;>American Optometric Association (AOA) Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Evidence-based clinical practice guideline. Comprehensive pediatric eye and vision examination. Literature search process. St. Louis (MO): American Optometric Association (AOA); 2016 Dec. 1 p. Available from the <a href=&quot;https://www.aoa.org/documents/Literature-Search-Process.pdf&quot; title=&quot;AOA Web site&quot;>American Optometric Association (AOA) Web site</a>. </li>
+    <li>The AOA's evidence-based process. St. Louise (MO): 2015 May. 1 p. Available from the <a href=&quot;https://www.aoa.org/optometrists/tools-and-resources/evidence-based-optometry/aoas-evidence-based-process?sso=y&quot; title=&quot;AOA Web site&quot;>AOA Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Infant vision: birth to 24 months of age. Available from the <a href=&quot;https://www.aoa.org/patients-and-public/good-vision-throughout-life/childrens-vision/infant-vision-birth-to-24-months-of-age?sso=y&quot; title=&quot;AOA Web site&quot;>American Optometric Association (AOA) Web site</a>. </li>
+    <li>Preschool vision: 3 to 5 years of age. Available from the <a href=&quot;https://www.aoa.org/patients-and-public/good-vision-throughout-life/childrens-vision/preschool-vision-2-to-5-years-of-age?sso=y&quot; title=&quot;AOA Web site&quot;>AOA Web site</a>. </li>
+    <li>School-aged vision: 6 to 18 years of age. Available from the <a href=&quot;https://www.aoa.org/patients-and-public/good-vision-throughout-life/childrens-vision/school-aged-vision-6-to-18-years-of-age?sso=y&quot; title=&quot;AOA Web site&quot;>AOA Web site</a>. </li>
+</ul>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI on October 15, 1999. The information was verified by the guideline developer as of November 15, 1999. The summary was updated on April 10, 2003. The information was verified by the guideline developer on April 28, 2003. The information was reaffirmed by the guideline developer in 2009 and updated by ECRI Institute on February 26, 2010. This summary was updated by ECRI Institute on June 19, 2017. The updated information was verified by the guideline developer on August 2, 2017.</p>
+<p>This NEATS assessment was completed by ECRI Institute on July 11, 2017. The information was verified by the guideline developer on July 12, 2017.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions as follows:</p>
+<p>Copyright to the original guideline is owned by the American Optometric Association (AOA). NGC users are free to download a single copy for personal use. Reproduction without permission of the AOA is prohibited. Permission requests should be directed to Alisa Krewet, Clinical Resources Group Coordinator, American Optometric Association, 243 N. Lindbergh Blvd., St. Louis, MO 63141; (314) 991-4100, ext. 4137; fax: (314) 991-4101; e-mail: <a href=&quot;mailto:AGKrewet@aoa.org&quot; class=&quot;ApplyClass&quot;>AGKrewet@aoa.org</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 01:06:51 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:37:20 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 91.799 (3)
+  esindex: 0.01
+  captures_list: 116.914
+  CDXLines.iter: 18.855 (3)
+  PetaboxLoader3.datanode: 96.113 (4)
+  exclusion.robots: 0.339
+  exclusion.robots.policy: 0.328
+  RedisCDXSource: 1.837
+  load_resource: 29.383
+-->

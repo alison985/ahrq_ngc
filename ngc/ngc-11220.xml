@@ -1,0 +1,892 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app18.us.archive.org';v.server_ms=353;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11220?contentType=xml', '20180713010617')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713010617/https://www.guideline.gov/summaries/downloadcontent/ngc-11220?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713010617/https://www.guideline.gov/summaries/downloadcontent/ngc-11220?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11220?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713010617" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610044322/https://www.guideline.gov/summaries/downloadcontent/ngc-11220?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 01:06:17 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610044322/https://www.guideline.gov/summaries/downloadcontent/ngc-11220?contentType=xml" title="04:43:22 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 01:06:17 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2017</td>
+		  <td class="c" id="displayYearEl" title="You are here: 01:06:17 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713010617*/https://www.guideline.gov/summaries/downloadcontent/ngc-11220?contentType=xml" title="See a list of every capture for this URL">4 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">13 Apr 2018 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11220?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Clinically localized prostate cancer: AUA/ASTRO/SUO guideline.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Sanda MG, Chen RC, Crispino T, Freedland S, Greene K, Klotz LH, Makarov DV, Nelson JB, Reston J, Rodrigues G, Sandler HM, Taplin ME, Cadeddu JA. Clinically localized prostate cancer: AUA/ASTRO/SUO guideline. Linthicum (MD): American Urological Association Education and Research, Inc.; 2017 Apr. 56 p.  [283 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Prostate Cancer Clinical Guideline Update Panel. Guideline for the management of clinically localized prostate cancer: 2007 update. Linthicum (MD): American Urological Association Education and Research, Inc.; 2007. 82 p. [123 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="705" ordby="150" name="NEATS Assessment">
+    <field fieldid="183" ordby="10" id="706" name="Disclosure of Guideline Funding Source" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="184" ordby="20" id="707" name="Disclosure and Management of Financial Conflict of Interests" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="185" ordby="30" id="708" name="Guideline Development Group Composition: Multidisciplinary Group" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="186" ordby="40" id="709" name="Guideline Development Group Composition: Methodologist Involvement" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="187" ordby="50" id="710" name="Guideline Development Group Composition: Patient and Public Perspectives" type="picklist-one">
+      <fieldvalue value="3"/>
+    </field>
+    <field fieldid="188" ordby="60" id="711" name="Use of a Systematic Review of Evidence: Search Strategy" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="189" ordby="70" id="712" name="Use of a Systematic Review of Evidence: Study Selection" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="190" ordby="80" id="713" name="Use of a Systematic Review of Evidence: Synthesis of Evidence" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="191" ordby="90" id="714" name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="192" ordby="100" id="715" name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="193" ordby="110" id="716" name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="194" ordby="120" id="717" name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="195" ordby="130" id="718" name="Specific and Unambiguous Articulation of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="196" ordby="140" id="719" name="External Review" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="197" ordby="150" id="720" name="Updating" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Definitions for the body of evidence strength (<strong>Grade A, B, or C</strong>), the strength of the recommendations (<strong>Strong, Moderate, Conditional</strong>), and for statements labeled as <strong>Clinical Principle</strong> and <strong>Expert Opinion</strong> are provided at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Shared Decision Making</span></strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Counseling of patients to select a management strategy for localized prostate cancer should incorporate shared decision making and explicitly consider cancer severity (risk category), patient values and preferences, life expectancy, pre-treatment general functional and genitourinary symptoms, expected post-treatment functional status, and potential for salvage treatment. (<strong>Strong Recommendation; Evidence Level: Grade A</strong>) </li>
+    <li>Prostate cancer patients should be counseled regarding the importance of modifiable health-related behaviors or risk factors, such as smoking and obesity. (<strong>Expert Opinion</strong>) </li>
+    <li>Clinicians should encourage patients to meet with different prostate cancer care specialists (e.g., urology and either radiation oncology or medical oncology or both), when possible to promote informed decision making. (<strong>Moderate Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>Effective shared decision making in prostate cancer care requires clinicians to inform patients about immediate and long-term morbidity or side effects of proposed treatment or care options. (<strong>Clinical Principle</strong>) </li>
+    <li>Clinicians should inform patients about suitable clinical trials and encourage patients to consider participation in such trials based on eligibility and access. (<strong>Expert Opinion</strong>) </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Care Options by Cancer Severity/Risk Group</span></strong></p>
+<p><strong>Very Low-/Low-Risk Disease</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;6&quot;>
+    <li>Clinicians should not perform abdomino-pelvic computed tomography (CT) or routine bone scans in the staging of asymptomatic very low- or low-risk localized prostate cancer patients. (<strong>Strong Recommendation; Evidence Level: Grade C</strong>) </li>
+    <li>Clinicians should recommend active surveillance as the best available care option for very low-risk localized prostate cancer patients. (<strong>Strong Recommendation; Evidence Level: Grade A</strong>) </li>
+    <li>Clinicians should recommend active surveillance as the preferable care option for most low-risk localized prostate cancer patients. (<strong>Moderate Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>Clinicians may offer definitive treatment (i.e., radical prostatectomy or radiotherapy) to select low-risk localized prostate cancer patients who may have a high probability of progression on active surveillance. (<strong>Conditional Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>Clinicians should not add androgen deprivation therapy (ADT) along with radiotherapy for low-risk localized prostate cancer with the exception of reducing the size of the prostate for brachytherapy. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>Clinicians should inform low-risk prostate cancer patients considering whole-gland cryosurgery that consequent side effects are considerable and survival benefit has not been shown in comparison to active surveillance. (<strong>Conditional Recommendation; Evidence Level: Grade C</strong>) </li>
+    <li>Clinicians should inform low-risk prostate cancer patients who are considering focal therapy or high-intensity focused ultrasound (HIFU) that these interventions are not standard care options because comparative outcome evidence is lacking. (<strong>Expert Opinion</strong>) </li>
+    <li>Clinicians should recommend observation or watchful waiting for men with a life expectancy &amp;le;5 years with low-risk localized prostate cancer. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>Among most low-risk localized prostate cancer patients, tissue based genomic biomarkers have not shown a clear role in the selection of candidates for active surveillance. (<strong>Expert Opinion</strong>) </li>
+</ol>
+<p><strong>Intermediate-Risk Disease</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;15&quot;>
+    <li>Clinicians should consider staging unfavorable intermediate-risk localized prostate cancer patients with cross sectional imaging (CT or magnetic resonance imaging [MRI]) and bone scan. (<strong>Expert Opinion</strong>) </li>
+    <li>Clinicians should recommend radical prostatectomy or radiotherapy plus ADT as standard treatment options for patients with intermediate-risk localized prostate cancer. (<strong>Strong Recommendation; Evidence Level: Grade A</strong>) </li>
+    <li>Clinicians should inform patients that favorable intermediate-risk prostate cancer can be treated with radiation alone, but that the evidence basis is less robust than for combining radiotherapy with ADT. (<strong>Moderate Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>In select patients with intermediate-risk localized prostate cancer, clinicians may consider other treatment options such as cryosurgery. (<strong>Conditional Recommendation; Evidence Level: Grade C</strong>) </li>
+    <li>Active surveillance may be offered to select patients with favorable intermediate-risk localized prostate cancer; however, patients should be informed that this comes with a higher risk of developing metastases compared to definitive treatment. (<strong>Conditional Recommendation; Evidence Level: Grade C</strong>) </li>
+    <li>Clinicians should recommend observation or watchful waiting for men with a life expectancy &amp;le;5 years with intermediate-risk localized prostate cancer. (<strong>Strong Recommendation; Evidence Level: Grade A</strong>) </li>
+    <li>Clinicians should inform intermediate-risk prostate cancer patients who are considering focal therapy or HIFU that these interventions are not standard care options because comparative outcome evidence is lacking. (<strong>Expert Opinion</strong>) </li>
+</ol>
+<p><strong>High-Risk Disease</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;22&quot;>
+    <li>Clinicians should stage high-risk localized prostate cancer patients with cross-sectional imaging (CT or MRI) and bone scan. (<strong>Clinical Principle</strong>) </li>
+    <li>Clinicians should recommend radical prostatectomy or radiotherapy plus ADT as standard treatment options for patients with high-risk localized prostate cancer. (<strong>Strong Recommendation; Evidence Level: Grade A</strong>) </li>
+    <li>Clinicians should not recommend active surveillance for patients with high-risk localized prostate cancer. Watchful waiting should only be considered in asymptomatic men with limited life expectancy (&amp;le;5 years). (<strong>Moderate Recommendation; Evidence Level: Grade C</strong>) </li>
+    <li>Cryosurgery, focal therapy and HIFU treatments are not recommended for men with high-risk localized prostate cancer outside of a clinical trial. (<strong>Expert Opinion</strong>) </li>
+    <li>Clinicians should not recommend primary ADT for patients with high-risk localized prostate cancer unless the patient has both limited life expectancy and local symptoms. (<strong>Strong Recommendation; Evidence Level: Grade A</strong>) </li>
+    <li>Clinicians may consider referral for genetic counseling for patients (and their families) with high-risk localized prostate cancer and a strong family history of specific cancers (e.g., breast, ovarian, pancreatic, other gastrointestinal tumors, lymphoma). (<strong>Expert Opinion</strong>) </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Recommended Approaches and Details of Specific Care Options</span></strong></p>
+<p><strong>Active Surveillance</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;28&quot;>
+    <li>Localized prostate cancer patients who elect active surveillance should have accurate disease staging including systematic biopsy with ultrasound or MRI-guided imaging. (<strong>Clinical Principle</strong>) </li>
+    <li>Localized prostate cancer patients undergoing active surveillance should have routine surveillance prostate-specific antigen (PSA) testing and digital rectal exams. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>Localized prostate cancer patients undergoing active surveillance should be encouraged to have a confirmatory biopsy within the initial two years and surveillance biopsies thereafter. (<strong>Clinical Principle</strong>) </li>
+    <li>Clinicians may consider multiparametric prostate MRI as a component of active surveillance for localized prostate cancer patients. (<strong>Expert Opinion</strong>) </li>
+    <li>Tissue-based genomic biomarkers have not shown a clear role in active surveillance for localized prostate cancer and are not necessary for follow-up. (<strong>Expert Opinion</strong>) </li>
+    <li>Clinicians should offer definitive treatment to localized prostate cancer patients undergoing active surveillance who develop adverse reclassification. (<strong>Moderate Recommendation; Evidence Level: Grade B</strong>) </li>
+</ol>
+<p><strong>Prostatectomy</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;34&quot;>
+    <li>Clinicians should inform localized prostate cancer patients that younger or healthier men (e.g., &amp;lt;65 years of age or &amp;gt;10 year life expectancy) are more likely to experience cancer control benefits from prostatectomy than older men. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>Clinicians should inform localized prostate cancer patients that open and robot-assisted radical prostatectomy offer similar cancer control, continence recovery, and sexual recovery outcomes. (<strong>Moderate Recommendation; Evidence Level: Grade C</strong>) </li>
+    <li>Clinicians should inform localized prostate cancer patients that robotic/laparoscopic or perineal techniques are associated with less blood loss than retropupic prostatectomy. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>Clinicians should counsel localized prostate cancer patients that nerve-sparing is associated with better erectile function recovery than non-nerve sparing. (<strong>Strong Recommendation; Evidence Level: Grade A</strong>) </li>
+    <li>Clinicians should not treat localized prostate cancer patients who have elected to undergo radical prostatectomy with neoadjuvant ADT or other systemic therapy outside of clinical trials. (<strong>Strong Recommendation; Evidence Level: Grade A</strong>) </li>
+    <li>Clinicians should inform localized prostate cancer patients considering prostatectomy that older men experience higher rates of permanent erectile dysfunction and urinary incontinence after prostatectomy compared to younger men. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>Pelvic lymphadenectomy can be considered for any localized prostate cancer patients undergoing radical prostatectomy and is recommended for those with unfavorable intermediate-risk or high-risk disease. Patients should be counseled regarding the common complications of lymphadenectomy, including lymphocele development and its treatment. (<strong>Expert Opinion</strong>) </li>
+    <li>Clinicians should inform localized prostate cancer patients with unfavorable intermediate-risk or high-risk prostate cancer about benefits and risks related to the potential option of adjuvant radiotherapy when locally extensive prostate cancer is found at prostatectomy. (<strong>Moderate Recommendation; Evidence Level: Grade B</strong>) </li>
+</ol>
+<p><strong>Radiotherapy</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;42&quot;>
+    <li>Clinicians may offer single modality external beam radiotherapy or brachytherapy for patients who elect radiotherapy for low-risk localized prostate cancer. (<strong>Clinical Principle</strong>) </li>
+    <li>Clinicians may offer external beam radiotherapy or brachytherapy alone or in combination for favorable intermediate-risk localized prostate cancer. (<strong>Clinical Principle</strong>) </li>
+    <li>Clinicians should offer 24 to 36 months of ADT as an adjunct to either external beam radiotherapy alone or external beam radiotherapy combined with brachytherapy to patients electing radiotherapy for high-risk localized prostate cancer. (<strong>Strong Recommendation; Evidence Level: Grade A</strong>) </li>
+    <li>Clinicians should inform localized prostate cancer patients that use of ADT with radiation increases the likelihood and severity of adverse treatment-related events on sexual function in most men and can cause other systemic side effects. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>Clinicians should consider moderate hypofractionation when the localized prostate cancer patient (of any risk category) and clinician decide on external beam radiotherapy to the prostate (without nodal radiotherapy). (<strong>Moderate Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>For localized prostate cancer patients with obstructive, non-cancer-related lower urinary function, surgical approaches may be preferred. If radiotherapy is used for these patients or those with previous significant transurethral resection of the prostate, low-dose rate brachytherapy should be discouraged. (<strong>Moderate Recommendation; Evidence Level: Grade C</strong>) </li>
+    <li>Clinicians should inform localized prostate cancer patients who are considering proton beam therapy that it offers no clinical advantage over other forms of definitive treatment. (<strong>Moderate Recommendation; Evidence Level: Grade C</strong>) </li>
+    <li>Clinicians should inform localized prostate cancer patients considering brachytherapy that it has similar effects as external beam radiotherapy with regard to erectile dysfunction and proctitis but can also exacerbate urinary obstructive symptoms. (<strong>Expert Opinion</strong>) </li>
+</ol>
+<p><strong>Whole-Gland Cryosurgery</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;50&quot;>
+    <li>Clinicians may consider whole-gland cryosurgery in low- and intermediate-risk localized prostate cancer patients who are not suitable for either radical prostatectomy or radiotherapy due to comorbidities yet have &amp;gt;10 year life expectancy. (<strong>Expert Opinion</strong>) </li>
+    <li>Clinicians should inform localized prostate cancer patients considering whole-gland cryosurgery that cryosurgery has similar progression-free survival as did non-dose escalated external beam radiation (also given with neoadjuvant hormonal therapy) in low- and intermediate-risk disease, but conclusive comparison of cancer mortality is lacking. (<strong>Conditional Recommendation; Evidence Level: Grade C</strong>) </li>
+    <li>Defects from prior transurethral resection of the prostate are a relative contraindication for whole-gland cryosurgery due to the increased risk of urethral sloughing. (<strong>Clinical Principle</strong>) </li>
+    <li>For whole-gland cryosurgery treatment, clinicians should utilize a third or higher generation, argon-based cryosurgical system for whole-gland cryosurgery treatment. (<strong>Clinical Principle</strong>) </li>
+    <li>Clinicians should inform localized prostate cancer patients considering cryosurgery that it is unclear whether or not concurrent ADT improves cancer control, though it can reduce prostate size to facilitate treatment. (<strong>Clinical Principle</strong>) </li>
+    <li>Clinicians should inform localized prostate cancer patients considering whole-gland cryosurgery that erectile dysfunction is an expected outcome. (<strong>Clinical Principle</strong>) </li>
+    <li>Clinicians should inform localized prostate cancer patients considering whole-gland cryosurgery about the adverse events of urinary incontinence, irritative and obstructive urinary problems. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+</ol>
+<p><strong>HIFU and Focal Therapy</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;57&quot;>
+    <li>Clinicians should inform those localized prostate cancer patients considering focal therapy or HIFU that these treatment options lack robust evidence of efficacy. (<strong>Expert Opinion</strong>) </li>
+    <li>Clinicians should inform localized prostate cancer patients who are considering HIFU that even though HIFU is approved by the&amp;nbsp;U.S. Food and Drug Administration (FDA) for the destruction of prostate tissue, it is not approved explicitly for the treatment of prostate cancer (<strong>Expert Opinion</strong>). </li>
+    <li>Clinicians should advise localized prostate cancer patients considering HIFU that tumor location may influence oncologic outcome. Limiting apical treatment to minimize morbidity increases the risk of cancer persistence. (<strong>Moderate Recommendation; Evidence Level: Grade C</strong>) </li>
+    <li>As prostate cancer is often multifocal, clinicians should inform localized prostate cancer patients considering focal therapy that focal therapy may not be curative and that further treatment for prostate cancer may be necessary. (<strong>Expert Opinion</strong>) </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Outcome Expectations and Management</span></strong></p>
+<p><strong>Treatment Side Effects and Health-Related Quality of Life</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;61&quot;>
+    <li>Clinicians should inform localized prostate cancer patients that erectile dysfunction occurs in many patients following prostatectomy or radiation, and that ejaculate will be lacking despite preserved ability to attain orgasm, whereas observation does not cause such sexual dysfunction. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>Clinicians should inform localized prostate cancer patients that long-term obstructive or irritative urinary problems occur in a subset of patients following observation or active surveillance or following radiation, whereas prostatectomy can relieve pre-existing urinary obstruction. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>Clinicians should inform localized prostate cancer patients that whole-gland cryosurgery is associated with worse sexual side effects and similar urinary and bowel/rectal side effects as those after radiotherapy. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>Clinicians should inform localized prostate cancer patients that temporary urinary incontinence occurs in most patients after prostatectomy and persists long-term in a small but significant subset, more than during observation or active surveillance or after radiation. (<strong>Strong Recommendation; Evidence Level: Grade A</strong>) </li>
+    <li>Clinicians should inform localized prostate cancer patients that temporary proctitis following radiation persists in some patients long-term in a small but significant subset and is rare during observation or active surveillance or after prostatectomy. (<strong>Strong Recommendation; Evidence Level: Grade A</strong>) </li>
+</ol>
+<p><strong>Post-Treatment Follow-Up</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;66&quot;>
+    <li>Clinicians should monitor localized prostate cancer patients post therapy with PSA, even though not all PSA recurrences are associated with metastatic disease and prostate cancer specific death. (<strong>Clinical Principle</strong>) </li>
+    <li>Clinicians should inform localized prostate cancer patients of their individualized risk-based estimates of post-treatment prostate cancer recurrence. (<strong>Clinical Principle</strong>) </li>
+    <li>Clinicians should support localized prostate cancer patients who have survivorship or outcomes concerns by facilitating symptom management and encouraging engagement with professional or community-based resources. (<strong>Clinical Principle</strong>) </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Body of Evidence Strength</strong></p>
+<p><strong>Grade A</strong>: Well-conducted and highly-generalizable randomized controlled trials (RCTs) or exceptionally strong observational studies with consistent findings</p>
+<p><strong>Grade B</strong>: RCTs with some weaknesses of procedure or generalizability or moderately strong observational studies with consistent findings</p>
+<p><strong>Grade C</strong>: RCTs with serious deficiencies of procedure, generalizability, or extremely small sample sizes or observational studies that are inconsistent, have small sample sizes, or have other problems that potentially confound interpretation of data</p>
+<p class=&quot;note&quot;><strong>Note</strong>: By definition, Grade A evidence is evidence about which the Panel has a high level of certainty, Grade B evidence is evidence about which the Panel has a moderate level of certainty, and Grade C evidence is evidence about which the Panel has a low level of certainty.</p>
+<p><strong>American Urological Association (AUA) Nomenclature Linking Statement Type to Level of Certainty, Magnitude of Benefit or Risk/Burden, and Body of Evidence Strength</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;3&quot; cellpadding=&quot;3&quot; summary=&quot;Table: AUA Nomenclature Linking Statement Type to Level of Certainty, Magnitude of Benefit or Risk/Burden, and Body of Evidence Strength&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>&amp;nbsp;</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence Strength A (High Certainty)</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence Strength B (Moderate Certainty)</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence Strength C (Low Certainty)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Strong Recommendation<br />
+            <br />
+            (Net benefit or harm substantial)</th>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is substantial<br />
+            <br />
+            Applies to most patients in most circumstances and future research is unlikely to change confidence</td>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is substantial<br />
+            <br />
+            Applies to most patients in most circumstances but better evidence could change confidence</td>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is substantial<br />
+            <br />
+            Applies to most patients in most circumstances but better evidence is likely to change confidence (rarely used to support a Strong Recommendation)</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Moderate Recommendation<br />
+            <br />
+            (Net benefit or harm moderate)</th>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is moderate<br />
+            <br />
+            Applies to most patients in most circumstances and future research is unlikely to change confidence</td>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is moderate<br />
+            <br />
+            Applies to most patients in most circumstances and future research is unlikely to change confidence</td>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) appears moderate<br />
+            <br />
+            Applies to most patients in most circumstances and future research is unlikely to change confidence</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Conditional Recommendation<br />
+            <br />
+            (No apparent net benefit or harm)</th>
+            <td valign=&quot;top&quot;>Benefits = Risks/Burdens<br />
+            <br />
+            Best action depends on individual patient circumstances<br />
+            <br />
+            Future research unlikely to change confidence<br />
+            </td>
+            <td valign=&quot;top&quot;>Benefits = Risks/Burdens<br />
+            <br />
+            Best action depends on individual patient circumstances<br />
+            <br />
+            Better evidence could change confidence</td>
+            <td valign=&quot;top&quot;>Balance between Benefits &amp;amp; Risks/Burdens unclear<br />
+            <br />
+            Alternative strategies may be equally reasonable<br />
+            <br />
+            Better evidence likely to change confidence</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Clinical Principle</th>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>A statement about a component of clinical care that is widely agreed upon by urologists or other clinicians for which there may or may not be evidence in the medical literature</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Expert Opinion</th>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>A statement, achieved by consensus of the Panel, that is based on members' clinical training, experience, knowledge, and judgment for which there is no evidence</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Clinically localized prostate cancer</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Counseling"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Oncology"/>
+      <fieldvalue value="Radiation Oncology"/>
+      <fieldvalue value="Surgery"/>
+      <fieldvalue value="Urology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To provide a clinical framework stratified by cancer severity (or risk group) to facilitate care decisions </li>
+    <li>To guide the specifics of implementing the selected management options, including active surveillance, observation/watchful waiting, prostatectomy, radiotherapy, cryosurgery, high-intensity focused ultrasound (HIFU) and focal therapy </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Men with clinically localized prostate cancer</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Shared decision making
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Counseling of patients to select a management strategy for localized prostate cancer that incorporates shared decision making </li>
+        <li>Counseling regarding the importance of modifiable health-related behaviors or risk factors, such as smoking and obesity </li>
+        <li>Informing patients about suitable clinical trials and encouraging patients to consider participation in such trials </li>
+    </ul>
+    </li>
+    <li>Care options by cancer severity/risk group
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Cross-sectional imaging (computed tomography [CT] or magnetic resonance imaging [MRI]) and/or bone scans for staging </li>
+        <li>Active surveillance </li>
+        <li>Radical prostatectomy </li>
+        <li>Radiotherapy </li>
+        <li>Androgen deprivation therapy (ADT) in addition to radiotherapy </li>
+        <li>Informing patients of side effects of whole-gland cryosurgery </li>
+        <li>Informing patients that evidence is lacking concerning focal therapy or high-intensity focused ultrasound (HIFU) </li>
+        <li>Use of tissue-based genomic biomarkers in the selection of candidates for active surveillance </li>
+        <li>Observation or watchful waiting </li>
+        <li>Cryosurgery </li>
+        <li>Primary ADT (<em>not recommended unless the patient has both limited life expectancy and local symptoms</em>) </li>
+        <li>Referral for genetic counseling </li>
+    </ul>
+    </li>
+    <li>Outcome expectations and management
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Informing patients about treatment side effects (sexual, urinary, and bowel) and health-related quality of life </li>
+        <li>Post-treatment follow-up </li>
+    </ul>
+    </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Overall survival or all-cause mortality </li>
+    <li>Prostate cancer-specific mortality </li>
+    <li>Progression to metastatic disease </li>
+    <li>Patient-reported health-related quality of life (measured by validated instruments) </li>
+    <li>Adverse events (sexual dysfunction, urinary or bowel incontinence) </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+      <fieldvalue value="Searches of Unpublished Data"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note</strong>: The systematic review utilized in the creation of this guideline was completed in part through the Agency for Healthcare Research and Quality (AHRQ) and through additional supplementation that further addressed additional key questions and more recently published literature.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Key Questions (KQ)</span></strong></p>
+<p>In order to analyze the existing evidence to generate the pertinent guidelines, the panel chose to include the following three questions from the 2014 Evidence-based Practice Center (EPC) report.</p>
+<p><strong>Key Question 1</strong></p>
+<p>What are the comparative risks and benefits of the following therapies for clinically localized prostate cancer?</p>
+<ol style=&quot;list-style-stype: lower-alpha;&quot;>
+    <li>Radical prostatectomy (RP), including open (retropubic and perineal) and laparoscopic (with or without robotic assistance) approaches </li>
+    <li>External beam radiotherapy (EBRT), including standard therapy and therapies designed to decrease exposure to normal tissues such as intensity-modulated radiotherapy (IMRT), three-dimensional conformal radiotherapy (3D-CRT), proton beam therapy, and stereotactic body radiation therapy </li>
+    <li>Interstitial brachytherapy (BT) </li>
+    <li>Cryotherapy </li>
+    <li>Watchful waiting (WW) </li>
+    <li>Active surveillance (AS) </li>
+    <li>Hormonal therapy </li>
+    <li>High-intensity focused ultrasound (HIFU) </li>
+</ol>
+<p><strong>Key Question 2</strong></p>
+<p>How do specific patient characteristics (e.g., age, race/ethnicity, presence or absence of comorbid illness, preferences such as tradeoff of treatment-related adverse effects versus (vs) potential for disease progression) affect the outcomes of these therapies overall and differentially?</p>
+<p><strong>Key Question 4</strong></p>
+<p>How do tumor characteristics (e.g., Gleason score, tumor volume, screen-detected vs clinically detected tumors, and prostate-specific antigen [PSA] levels) affect the outcomes of these therapies overall and differentially?</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Literature Search</span></strong></p>
+<p>A comprehensive search of the literature was performed by ECRI Institute. This search covered articles published between 1/1/2007 and 8/24/2015. The 2014 EPC report had used March 7, 2014 as its latest search date; therefore, this report includes data published in the subsequent ~17-month period.</p>
+<p><strong>Resources Searched</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Cochrane Central Register of Controlled Trials (CENTRAL): 2007 through September 16, 2015 (Wiley) </li>
+    <li>The Cochrane Database of Methodology Reviews (Methodology Reviews): 2007 through September 16, 2015 (Wiley) </li>
+    <li>The Cochrane Database of Systematic Reviews (Cochrane Reviews): 2007 through September 16, 2015 (Wiley) </li>
+    <li>Database of Abstracts of Reviews of Effects (DARE): 2007 through September 16, 2015 (Wiley) </li>
+    <li>EMBASE (Excerpta Medica): 2007 through August 24, 2015 (Embase.com) </li>
+    <li>MEDLINE: 2007 through August 24, 2015 (Embase.com) </li>
+    <li>PUBMED (PreMEDLINE: 2007 through August 24, 2015 (NLM) </li>
+</ul>
+<p><strong>Hand Searches of Journal Literature</strong></p>
+<p>Journals and supplements maintained in ECRI Institute's collections were reviewed. Nonjournal publications and conference proceedings from professional organizations, private agencies, and government agencies were also screened. Other mechanisms used to retrieve additional relevant information included review of bibliographies/reference lists from peer-reviewed and gray literature. (Gray literature consists of reports, studies, articles, and monographs produced by federal and local government agencies, private organizations, educational facilities, consulting firms, and corporations. These documents do not appear in the peer-reviewed journal literature.)</p>
+<p><strong>Study Selection after Literature Searched</strong></p>
+<p>Two analysts reviewed the abstracts identified in the literature search. Articles which potentially fulfill the outlined inclusion criteria (below) and answer one or more of the questions specified by the panel were retrieved in full text for review by the team. For all full-text exclusions, the panel recorded the reason for exclusion.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Inclusion and Exclusion Criteria</span></strong></p>
+<p>Non-English-language studies were excluded</p>
+<p><strong>Inclusion Criteria for KQ1</strong></p>
+<p><em>Designs</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Randomized controlled studies (RCTs), except that RCTs that assigned treatments based on pathological staging were excluded </li>
+    <li>Non-RCT if:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Comparative </li>
+        <li>Concurrent </li>
+        <li>Multicenter </li>
+        <li>&amp;ge;500 patients </li>
+        <li>Some method to control for selection bias (propensity scores, instrumental variables, multivariate regression) </li>
+        <li>For effectiveness: Either the Surveillance, Epidemiology, and End Results (SEER) program, or prospective. A retrospective analysis of a true prospective study was considered prospective. However, a retrospective analysis of &quot;prospectively collected&quot; data that was not part of a pre-planned study was considered retrospective. </li>
+        <li>For adverse events: Either SEER, or prospective, or retrospective with consecutive enrollment or random enrollment </li>
+    </ul>
+    </li>
+</ul>
+<p><em>Population</em></p>
+<p>Any prostate cancer population as long as data reported separately for T1/T2 patients, (but aggregate data is acceptable if T1/T2 population is &amp;gt;85% of the total population)</p>
+<p><em>Comparisons</em></p>
+<p>Comparisons within a category are included (e.g., open vs laparoscopic prostatectomy), except 1) nerve-sparing vs standard prostatectomy and 2) different doses of treatment such as radiotherapy, brachytherapy, cryotherapy, hormonal therapy, ultrasound (RCTs included in the 2008 report are included if they cover a treatment of interest, even if it is a dose comparison. Note: 1 RCT from the 2008 EPC report was excluded due to no treatment of interest).</p>
+<p><em>Outcomes</em></p>
+<p>Effectiveness outcomes:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Overall survival or all-cause mortality </li>
+    <li>Prostate cancer-specific mortality </li>
+    <li>Progression to metastatic disease </li>
+    <li>Patient-reported health-related quality of life (HRQOL) (measured by validated instruments) </li>
+</ul>
+<p>Adverse events (AEs, exclude adverse events ascertained from claims data):</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Classify outcomes on any measures of sexual dysfunction, urinary or bowel incontinence under AEs, and only include more general quality of life (QoL) measures under &quot;Patient-reported HRQOL&quot; </li>
+    <li>PSA is excluded </li>
+    <li>Biochemical survival is excluded because it is always based on PSA </li>
+    <li>Disease-free survival is excluded because typically it is based on PSA<br />
+    (Note: 2 RCTs from the 2008 EPC report were excluded due to no outcome of interest) </li>
+</ul>
+<p>Follow-up: &amp;ge;1 year for &amp;ge;85% of population. The panel will include data on outcomes &amp;lt;1 year only for studies that report &amp;ge;1-year data.</p>
+<p><strong>Inclusion Criteria for KQ2 and KQ4</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Any design </li>
+    <li>Multicenter </li>
+    <li>For predicting effectiveness outcomes, either SEER, or prospective </li>
+    <li>For predicting adverse event outcomes, either SEER, or prospective, or retrospective with consecutive enrollment or random enrollment </li>
+    <li>500+ enrolled patients </li>
+    <li>One or more treatments of interest (see list above). The panel excluded analyses that lumped different treatments (e.g., &quot;active treatment&quot; as a catch-all for multiple specific treatments) </li>
+    <li>85%+ had T1 or T2, or data were provided specifically for a group of patients that was 85%+ T1/T2 </li>
+    <li>Reported data on the association between a baseline patient characteristic (KQ2) and a treatment outcome of interest (see list above), OR reported data on the association between a baseline tumor characteristic (KQ4) and a treatment outcome of interest (see list above) </li>
+    <li>Non-randomized studies must have performed a multivariate analysis of the association between the risk factor and the outcome. Randomized studies could have reported either univariate or multivariate analyses of this association. </li>
+    <li>Minimum follow-up of one year. The panel will include data on outcomes &amp;lt;1 year only for studies that report &amp;ge;1-year data. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Of the 105 publications retrieved for full review, 60 were excluded. The most common exclusions were for retrospective studies that did not report data on adverse events, single-center nonrandomized studies, and studies with less than one year of follow-up. Pertinent publications from the 2008 and 2014 Evidence-based Practice Center (EPC) reports and 45 new publications were included.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Body of Evidence Strength</span></strong></p>
+<p><strong>Grade A</strong>: Well-conducted and highly-generalizable randomized controlled trials (RCTs) or exceptionally strong observational studies with consistent findings</p>
+<p><strong>Grade B</strong>: RCTs with some weaknesses of procedure or generalizability or moderately strong observational studies with consistent findings</p>
+<p><strong>Grade C</strong>: RCTs with serious deficiencies of procedure, generalizability, or extremely small sample sizes or observational studies that are inconsistent, have small sample sizes, or have other problems that potentially confound interpretation of data</p>
+<p class=&quot;note&quot;><strong>Note</strong>: By definition, Grade A evidence is evidence about which the Panel has a high level of certainty, Grade B evidence is evidence about which the Panel has a moderate level of certainty, and Grade C evidence is evidence about which the Panel has a low level of certainty.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note</strong>: The systematic review utilized in the creation of this guideline was completed in part through the Agency for Healthcare Research and Quality (AHRQ) and through additional supplementation that further addressed additional key questions and more recently published literature.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Data Extraction</span></strong></p>
+<p>Information from each included article was extracted by team members using standard extraction forms. Given the quantity of eligible articles, the team members did not perform duplicate data extraction.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Assessment of Quality</span></strong></p>
+<p>The quality of each study was rated using the following seven items:</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Were patients randomly or pseudorandomly (e.g., using instrumental variable analysis) assigned to the study groups? </li>
+    <li>Was there concealment of group allocation? </li>
+    <li>Were data analyzed based on the intention-to-treat-principle? </li>
+    <li>Were those who assessed the patient outcomes blinded to the group to which the patients were assigned? </li>
+    <li>Was the outcome measure of interest objective and was it objectively measured? </li>
+    <li>Was there a 15% or less difference in the length of follow-up for the two groups? </li>
+    <li>Was there fidelity to protocol? </li>
+</ol>
+<p>To be considered as having high quality, the study must have met all the following conditions: randomization or pseudorandomization (e.g., using instrumental variable analysis) of study participants to treatment groups, concealment of allocation (studies with central randomization received a &quot;yes&quot; on this item), data analysis based on the intention-to-treat-principle, an outcome that was objective if outcome assessors were not blinded or blinding of outcome assessors was not reported, a difference of 15 percent or less in the length of follow-up for the comparison groups, and no clear indication of lack of fidelity to the protocol.</p>
+<p>To be considered as having low quality, the study must have met at least one of the following criteria: trial did not randomly or pseudorandomly (i.e., using instrumental variables) assign patients to study groups and did not blind outcome assessors, trial had a difference of 15 percent or more in the length of follow-up for comparison groups, or trial stated that there was not good fidelity to the protocol.</p>
+<p>To be considered as having medium quality, the study met neither the criteria for low quality nor the criteria for high quality.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Analyses</span></strong></p>
+<p>For Key Question 1, each treatment comparison was considered separately, and within each comparison the team members discussed first the randomized trials and then the nonrandomized studies. The reason for this separation involves quality: nonrandomized studies are unable to adjust for unknown confounders, therefore their results are more susceptible to bias. For Key Questions 2 and 4, which involve prediction of outcomes and not treatment comparisons, randomized trials and nonrandomized studies were discussed together, because randomization to treatments is not a critical aspect of determining which patient or tumor characteristics predict outcomes.</p>
+<p>Qualitative syntheses for all Key Questions were performed. For most Key Questions, the body of evidence was rated using the American Urological Association (AUA) system of A, B, or C (see the &quot;Rating Scheme for the Strength of the Evidence&quot; field).</p>
+<p>It should be noted that Level B evidence may include evidence from observational studies with medium quality and consistent findings of a strong treatment effect. Panelists can therefore make a stronger statement (standard or recommendation) based on this evidence. In instances where evidence for a given question is rated as level C, this does not mean that the panel cannot make a statement based on the evidence, particularly if findings from included studies are not substantially different. In cases where studies show conflicting evidence or evidence is sparse, panelists may still use clinical judgment to inform a guideline statement. Note that the worst possible rating for randomized controlled trials (RCTs) is Level B. Evidence comprised of only RCTs, therefore, would be judged as either Level A or Level B.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+      <fieldvalue value="Expert Consensus (Delphi)"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Localized Prostate Cancer Panel was created in 2012 by the American Urological Association Education and Research, Inc. (AUA). The Practice Guidelines Committee (PGC) of the AUA selected the Panel Chair who in turn appointed the Vice Chair. In a collaborative process, additional Panel members, including members of the American Society for Radiation Oncology (ASTRO), the American Society of Clinical Oncology (ASCO), and Society of Urologic Oncology (SUO), with specific expertise in this area were then nominated and approved by the PGC.</p>
+<p>The mission of the Panel was to develop recommendations that are analysis-based or consensus-based, depending on Panel processes and available data, for optimal clinical practices in the treatment of clinically localized prostate cancer.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>AUA Nomenclature: Linking Statement Type to Evidence Strength</span></strong></p>
+<p>The AUA nomenclature system explicitly links statement type to body of evidence strength, level of certainty, magnitude of benefit or risk/burdens, and the Panel's judgment regarding the balance between benefits and risks/burdens (see the &quot;Rating Scheme for the Strength of the Recommendations&quot; field).</p>
+<p>Where gaps in the evidence existed, the Panel provides guidance in the form of <em>Clinical Principles</em> or <em>Expert Opinion</em> with consensus achieved using a modified Delphi technique if differences of opinion emerged.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>American Urological Association (AUA) Nomenclature Linking Statement Type to Level of Certainty, Magnitude of Benefit or Risk/Burden, and Body of Evidence Strength</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;3&quot; cellpadding=&quot;3&quot; summary=&quot;Table: AUA Nomenclature Linking Statement Type to Level of Certainty, Magnitude of Benefit or Risk/Burden, and Body of Evidence Strength&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>&amp;nbsp;</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence Strength A (High Certainty)</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence Strength B (Moderate Certainty)</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence Strength C (Low Certainty)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Strong Recommendation<br />
+            <br />
+            (Net benefit or harm substantial)</th>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is substantial<br />
+            <br />
+            Applies to most patients in most circumstances and future research is unlikely to change confidence</td>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is substantial<br />
+            <br />
+            Applies to most patients in most circumstances but better evidence could change confidence</td>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is substantial<br />
+            <br />
+            Applies to most patients in most circumstances but better evidence is likely to change confidence (rarely used to support a Strong Recommendation)</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Moderate Recommendation<br />
+            <br />
+            (Net benefit or harm moderate)</th>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is moderate<br />
+            <br />
+            Applies to most patients in most circumstances and future research is unlikely to change confidence</td>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is moderate<br />
+            <br />
+            Applies to most patients in most circumstances and future research is unlikely to change confidence</td>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) appears moderate<br />
+            <br />
+            Applies to most patients in most circumstances and future research is unlikely to change confidence</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Conditional Recommendation<br />
+            <br />
+            (No apparent net benefit or harm)</th>
+            <td valign=&quot;top&quot;>Benefits = Risks/Burdens<br />
+            <br />
+            Best action depends on individual patient circumstances<br />
+            <br />
+            Future research unlikely to change confidence<br />
+            </td>
+            <td valign=&quot;top&quot;>Benefits = Risks/Burdens<br />
+            <br />
+            Best action depends on individual patient circumstances<br />
+            <br />
+            Better evidence could change confidence</td>
+            <td valign=&quot;top&quot;>Balance between Benefits &amp;amp; Risks/Burdens unclear<br />
+            <br />
+            Alternative strategies may be equally reasonable<br />
+            <br />
+            Better evidence likely to change confidence</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Clinical Principle</th>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>A statement about a component of clinical care that is widely agreed upon by urologists or other clinicians for which there may or may not be evidence in the medical literature</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Expert Opinion</th>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>A statement, achieved by consensus of the Panel, that is based on members' clinical training, experience, knowledge, and judgment for which there is no evidence</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American Urological Association Education and Research, Inc. (AUA) conducted a thorough peer review process. The draft guideline document was distributed to peer reviewers. The Panel reviewed and discussed all submitted comments and revised the draft as needed. Once finalized, the guideline was submitted for approval to the Practice Guidelines Committee (PGC) and Science and Quality Council (S&amp;amp;Q). Then it was submitted to the AUA, American Society for Radiation Oncology (ASTRO), and Society of Urologic Oncology (SUO) Board of Directors for final approval. It was approved by the AUA Board of Directors in April 2017.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p>
+<p>Where gaps in the evidence existed, the Panel provides guidance in the form of <em>Clinical Principles</em> or <em>Expert Opinions</em> with consensus.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The magnitude of benefit or risk/burdens, and the Panel's judgment regarding the balance between benefits and risks/burdens are taken into account for each guideline statement. Refer to the original guideline document for a discussion of evidence of benefits for specific statements.</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients electing definitive therapy are more likely to have immediate side effects. Surgery patients may experience bleeding, infection, and pain in the immediate term and then experience erectile dysfunction, urinary incontinence, urethral stricture and (very rarely) bowel problems. The risk of perioperative death from prostate cancer surgery is &amp;lt;0.1% in most series. The same side effects observed after surgery are possible with radiotherapy approaches, though bowel problems are more common, and sexual and continence side effects take much longer to develop. In general, radical prostatectomy causes more early erectile dysfunction (nerve-sparing better than non-nerve sparing) and urinary incontinence than radiation treatment, though erectile dysfunction and urinary bother beyond two to five years may be similar between surgery and radiation. Radiation treatment causes more urinary irritation (brachytherapy more than external beam radiation) and modestly more gastrointestinal side effects than radical prostatectomy. </li>
+    <li>Radiation treatment may be associated with a very small but increased risk for secondary cancer, specifically bladder cancer and rectal cancer. The suspected incidence of radiation-induced second primary cancers is reported to affect between 1% and 3% of patients in the years following treatment. However, the absolute increase in risk is likely small, and published studies are difficult to interpret due to uncontrolled confounders. External beam radiotherapy is associated with secondary rectal cancers (30 cases per 100,000 person-years of follow-up; or 0.03% of patients followed for 10 years). Brachytherapy may have a slightly lower risk of secondary rectal cancers than external beam radiation (6 cases per 100,000 person-years). </li>
+    <li>Older men experience higher rates of permanent erectile dysfunction and urinary incontinence after prostatectomy compared to younger men. </li>
+    <li>Lymphocele is the most common complication of pelvic lymphadenectomy (PLND) occurring in up to 60% of cases. Most lymphoceles are asymptomatic and require no treatment. Symptomatic lymphoceles occur in 0.4% to 16% of patients, </li>
+    <li>Use of androgen deprivation therapy (ADT) with radiation increases the likelihood and severity of adverse treatment-related events on sexual function in most men and can cause other systemic side effects. ADT can cause sexual side effects, hot flashes, decreased bone mineral density, gynecomastia, depression, fatigue, and weight gain. </li>
+    <li>Brachytherapy has similar effects as external beam radiotherapy with regard to erectile dysfunction and proctitis but can also exacerbate urinary obstructive symptoms. </li>
+    <li>A 2009 review of the literature concluded that most patients (80%-90%) should expect erectile dysfunction after whole-gland cryosurgery and that it should not be offered to patients who desire preservation of potency. </li>
+    <li>In addition to the high risk of erectile dysfunction, patients considering cryosurgery should be informed about the risks of adverse urinary and bowel quality of life outcomes. </li>
+</ul>
+<p>Refer to the original guideline document for additional discussion of evidence of harms for specific statements.</p>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Defects from prior transurethral resection of the prostate (TURP) are a relative contraindication for whole-gland cryosurgery due to the increased risk of urethral sloughing. </li>
+    <li>Cryosurgery is contraindicated in patients who cannot have transrectal ultrasound guidance and monitoring of probe placement and the ablation cycle, such as surgical absence of the rectum from a previous abdominal perineal resection. </li>
+    <li>Whole gland ablative therapies such as cryosurgery may be appropriate for patients with contraindications to more traditional therapies, such as prostatectomy or radiotherapy (e.g., medically inoperable patients with either previous pelvic radiotherapy or autoimmune disorders). </li>
+    <li>Because external beam radiation therapy (EBRT) and brachytherapy, especially the latter, can cause acute urinary obstructive and irritative symptoms, patients with significant baseline urinary obstructive symptoms may prefer radical prostatectomy. Another relative contraindication for brachytherapy is large prostate size &amp;gt;60 cc because of increased risk of urinary side effects. A prior TURP is an absolute contraindication for brachytherapy if the defect precludes adequate placement of seeds. </li>
+    <li>Relative contraindications to EBRT and brachytherapy include inflammatory bowel disease and history of prior pelvic radiotherapy due to increased risk for treatment-related morbidity. Ataxia telangiectasia is an absolute contraindication to both EBRT and brachytherapy because these patients have a severe response to ionizing radiation. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>While these guidelines do not necessarily establish the standard of care, the American Urological Association Education and Research, Inc. (AUA) seeks to recommend and to encourage compliance by practitioners with current best practices related to the condition being treated. As medical knowledge expands and technology advances, the guidelines will change. Today these evidence-based guidelines statements represent not absolute mandates but provisional proposals for treatment under the specific conditions described in each document. For all these reasons, the guidelines do not pre-empt physician judgment in individual cases. </li>
+    <li>Treating physicians must take into account variations in resources, and patient tolerances, needs, and preferences. Conformance with any clinical guideline does not guarantee a successful outcome. The guideline text may include information or recommendations about certain drug uses (&quot;off label&quot;) that are not approved by the Food and Drug Administration (FDA), or about medications or substances not subject to the FDA approval process. AUA urges strict compliance with all government regulations and protocols for prescription and use of these substances. The physician is encouraged to carefully follow all available prescribing information about indications, contraindications, precautions and warnings. These guidelines and best practice statements are not intended to provide legal advice about use and misuse of these substances. </li>
+    <li>Although guidelines are intended to encourage best practices and potentially encompass available technologies with sufficient data as of close of the literature review, they are necessarily time-limited. Guidelines cannot include evaluation of all data on emerging technologies or management, including those that are FDA-approved, which may immediately come to represent accepted clinical practices. For this reason, the AUA does not regard technologies or management which are too new to be addressed by this guideline as necessarily experimental or investigational. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Quick Reference Guides/Physician Guides"/>
+      <fieldvalue value="Slide Presentation"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Sanda MG, Chen RC, Crispino T, Freedland S, Greene K, Klotz LH, Makarov DV, Nelson JB, Reston J, Rodrigues G, Sandler HM, Taplin ME, Cadeddu JA. Clinically localized prostate cancer: AUA/ASTRO/SUO guideline. Linthicum (MD): American Urological Association Education and Research, Inc.; 2017 Apr. 56 p.  [283 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2017 Apr"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American Society for Radiation Oncology - Professional Association"/>
+      <fieldvalue value="American Urological Association Education and Research, Inc. - Medical Specialty Society"/>
+      <fieldvalue value="Society of Urologic Oncology - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Funding of the Panel was provided by the American Urological Association Education and Research, Inc. (AUA). Panel members received no remuneration for their work.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p> Localized Prostate Cancer Panel</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Localized Prostate Cancer Panel Members</em>: Martin G. Sanda, MD (<em>Chair</em>), The Emory Clinic, Inc., Atlanta, GA; Jeffrey A. Cadeddu, MD (<em>Vice Chair</em>), UT Southwestern, Dallas, TX; Ronald C. Chen, MD, MPH, University of North Carolina at Chapel Hill, Chapel Hill, NC; Tony Crispino (<em>Patient Advocate</em>), UsTOO Las Vegas, Las Vegas, NV; Stephen J. Freedland, MD, Cedars-Sinai Medical Center, Los Angeles, CA; Kirsten Greene, MD, University of California San Francisco, San Francisco, CA; Laurence H. Klotz, MD, Sunnybrook Health Sciences Centre, Ontario, Canada; Danil V. Makarov, MD, NYU Langone Medical Center, New York, NY; Joel B. Nelson, MD, University of Pittsburgh Medical Center, Pittsburgh, PA; George Rodrigues, MD, PhD, London Health Sciences Centre, Ontario, Canada; Howard M. Sandler, MD, Cedars-Sinai Medical Center, Los Angeles, CA; Mary Ellen Taplin, MD, Dana-Farber Cancer Institute, Boston, MA</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><span style=&quot;text-decoration: underline;&quot;><strong>Conflict of Interest (COI) Disclosures</strong></span></p>
+<p>All panel members completed COI disclosures. Disclosures listed include both topic&amp;ndash; and non-topic-related relationships.</p>
+<p><strong>Consultant/Advisor</strong>: <strong>Martin G. Sanda</strong>, Movember, Prostate Cancer Foundation; <strong>Jeffrey A. Cadeddu</strong>, Levita Magnetics; <strong>Stephen J. Freedland</strong>, Dendreon, Medication, Janssen, Bayer, Astellas, Sanofi, ProteoMediX, Parallel 6, MDxHealth, Oncell MDx; <strong>Laurence H. Klotz</strong>, Ferring, Amgen, Profound Medical; <strong>Danil Makarov</strong>, Castlight Health, Center for Devices and Radiological Health (FDA); <strong>Howard M. Sandler</strong>, Eviti; <strong>Mary Ellen Taplin</strong>, Medivation, Janssen, Tokai, Bayer, Dendreon, Sanofi</p>
+<p><strong>Meeting Participant or Lecturer</strong>: <strong>Stephen J. Freedland</strong>, Janssen, Astellas; <strong>Laurence H. Klotz</strong>, Astellas, Medivation, Abbvie, Janssen, Profound Medical; <strong>Howard M. Sandler</strong>, Janssen, Sanofi</p>
+<p><strong>Scientific Study or Trial</strong>: <strong>Martin G. Sanda</strong>, Movember, Prostate Cancer Foundation; <strong>Jeffrey A. Cadeddu</strong>, Levita Magnetics; <strong>Ronald C. Chen</strong>, Accuray Inc.; <strong>Stephen J. Freedland</strong>, GSK, Dendreon, Janssen, Bayer, Myriad, GenomeDX, Metabolon, MDxHealth, Progenika, Oncell MDx; <strong>Laurence H. Klotz</strong>, Ferring, Amgen, Astellas, Medivation, Abbvie, Janssen, Profound Medical; <strong>Mary Ellen Taplin</strong>, Medivation, Tokai, Bayer, Genetech</p>
+<p><strong>Leadership Position</strong>: <strong>George Rodrigues</strong>, ASTRO</p>
+<p><strong>Investment Interest</strong>: <strong>Jeffrey A. Cadeddu</strong>, Titan Medical Inc, Transenterix; <strong>Mary Ellen Taplin</strong>, Janssen</p>
+<p><strong>Health Publishing</strong>: <strong>George Rodrigues</strong>, Demos Medical Publishers; <strong>Howard M. Sandler</strong>, Caribou Publishing</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Prostate Cancer Clinical Guideline Update Panel. Guideline for the management of clinically localized prostate cancer: 2007 update. Linthicum (MD): American Urological Association Education and Research, Inc.; 2007. 82 p. [123 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://www.auanet.org/Documents/education/clinical-guidance/Clinically-Localized-Prostate-Cancer.pdf&quot; title=&quot;AUA Web site&quot;>American Urological Association Education and Research, Inc. (AUA) Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Sanda MG, Chen RC, Crispino T, Freedland S, Greene K, Klotz LH, Makarov DV, Nelson JB, Reston J, Rodrigues G, Sandler HM, Taplin ME, Cadeddu JA. Clinically localized prostate cancer: AUA/ASTRO/SUO guideline. Executive summary. Linthicum (MD): American Urological Association Education and Research, Inc.; 2017 Apr. Available from the <a href=&quot;http://www.auanet.org/guidelines/clinically-localized-prostate-cancer-new-(aua/astro/suo-guideline-2017)&quot; title=&quot;AUA Web site&quot;>American Urological Association Education and Research, Inc. (AUA) Web site</a>. </li>
+    <li>Taplin ME. Clinically localized prostate cancer: AUA/ASTRO/SUO guideline. High-risk disease. Presentation from the 2017 AUA Annual Meeting. Boston (MA): American Urological Association Education and Research, Inc.; 2017 May. 10 p. Available from the <a href=&quot;http://www.auanet.org/Documents/education/clinical-guidance/Localized-Prostate-Cancer-High-Risk-Plenary-Slides.pdf&quot; title=&quot;AUA Web site&quot;>AUA Web site</a>. </li>
+    <li>Sanda MG. Clinically localized prostate cancer: AUA/ASTRO/SUO guideline. Intermediate-risk disease. Presentation from the 2017 AUA Annual Meeting. American Urological Association Education and Research, Inc.; 2017 May. 10 p. Available from the <a href=&quot;http://www.auanet.org/Documents/education/clinical-guidance/Localized-Prostate-Cancer-Intermediate-Risk-Plenary-Slides.pdf&quot; title=&quot;AUA Web site&quot;>AUA Web site</a>. </li>
+    <li>Cadeddu JA. Clinically localized prostate cancer: AUA/ASTRO/SUO guideline. Very Low-/Low-risk disease. Presentation from the 2017 AUA Annual Meeting. American Urological Association Education and Research, Inc.; 2017 May. 12 p. Available from the <a href=&quot;http://www.auanet.org/Documents/education/clinical-guidance/Localized-Prostate-Cancer-Low-Risk-Plenary-Slides.pdf&quot; title=&quot;AUA Web site&quot;>AUA Web site</a>. </li>
+</ul>
+<p>The AUA Guidelines-At-A-Glance mobile app is available for download from the <a href=&quot;http://www.auanet.org/guidelines&quot; title=&quot;AUA Web site&quot;>AUA Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI on March 26, 1999. The information was verified by the guideline developer as of May 14, 1999. This summary was updated by ECRI Institute on November 5, 2007. The updated information was verified by the guideline developer on November 12, 2007. The currency of the guideline was reaffirmed by the developer in 2011 and this summary was updated by ECRI Institute on October 16, 2012. This summary was updated by ECRI Institute on June 15, 2017. The updated information was not verified by the guideline developer. </p>
+<p>This NEATS assessment was completed by ECRI Institute on July 12, 2017. The information was verified by the guideline developer on August 7, 2017. </p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is copyrighted by the American Urological Association Education and Research, Inc. (AUAER).</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 01:06:17 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:37:53 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 275.715 (3)
+  esindex: 0.008
+  captures_list: 295.789
+  CDXLines.iter: 16.274 (3)
+  PetaboxLoader3.datanode: 80.647 (4)
+  exclusion.robots: 0.298
+  exclusion.robots.policy: 0.285
+  RedisCDXSource: 0.482
+  PetaboxLoader3.resolve: 190.126 (2)
+  load_resource: 30.253
+-->

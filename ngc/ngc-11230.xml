@@ -1,0 +1,575 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app16.us.archive.org';v.server_ms=600;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11230?contentType=xml', '20180713005903')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713005903/https://www.guideline.gov/summaries/downloadcontent/ngc-11230?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713005903/https://www.guideline.gov/summaries/downloadcontent/ngc-11230?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11230?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713005903" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610072508/https://www.guideline.gov/summaries/downloadcontent/ngc-11230?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 00:59:03 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610072508/https://www.guideline.gov/summaries/downloadcontent/ngc-11230?contentType=xml" title="07:25:08 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 00:59:03 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2017</td>
+		  <td class="c" id="displayYearEl" title="You are here: 00:59:03 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713005903*/https://www.guideline.gov/summaries/downloadcontent/ngc-11230?contentType=xml" title="See a list of every capture for this URL">4 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">13 Apr 2018 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11230?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>American Gastroenterological Association Institute guidelines for the diagnosis and management of acute liver failure.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Flamm SL, Yang YX, Singh S, Falck-Ytter YT, AGA Institute Clinical Guidelines Committee. American Gastroenterological Association Institute guidelines for the diagnosis and management of acute liver failure. Gastroenterology. 2017 Feb;152(3):644-7. [4 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=28056348&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="705" ordby="150" name="NEATS Assessment">
+    <field fieldid="183" ordby="10" id="706" name="Disclosure of Guideline Funding Source" type="picklist-one">
+      <fieldvalue value="No"/>
+    </field>
+    <field fieldid="184" ordby="20" id="707" name="Disclosure and Management of Financial Conflict of Interests" type="picklist-one">
+      <fieldvalue value="3"/>
+    </field>
+    <field fieldid="185" ordby="30" id="708" name="Guideline Development Group Composition: Multidisciplinary Group" type="picklist-one">
+      <fieldvalue value="Unknown"/>
+    </field>
+    <field fieldid="186" ordby="40" id="709" name="Guideline Development Group Composition: Methodologist Involvement" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="187" ordby="50" id="710" name="Guideline Development Group Composition: Patient and Public Perspectives" type="picklist-one">
+      <fieldvalue value="2"/>
+    </field>
+    <field fieldid="188" ordby="60" id="711" name="Use of a Systematic Review of Evidence: Search Strategy" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="189" ordby="70" id="712" name="Use of a Systematic Review of Evidence: Study Selection" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="190" ordby="80" id="713" name="Use of a Systematic Review of Evidence: Synthesis of Evidence" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="191" ordby="90" id="714" name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="192" ordby="100" id="715" name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="193" ordby="110" id="716" name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="194" ordby="120" id="717" name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="195" ordby="130" id="718" name="Specific and Unambiguous Articulation of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="196" ordby="140" id="719" name="External Review" type="picklist-one">
+      <fieldvalue value="3"/>
+    </field>
+    <field fieldid="197" ordby="150" id="720" name="Updating" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Definitions for the quality of evidence (<strong>High, Moderate, Low, Very low</strong>) and strength of recommendation (<strong>Strong, Conditional</strong>) are provided at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong>Recommendation 1</strong>: In patients presenting with acute liver failure, the American Gastroenterological Association (AGA) Institute suggests against routinely testing all patients for Wilson's disease. (<strong>Conditional recommendation; very-low-quality evidence</strong>)</p>
+<p><em>Comments</em>: In a setting of high clinical suspicion, testing for Wilson's disease can be considered, keeping in mind the low positive predictive value. Although the management and outcome of acute liver failure (ALF) would not be altered, identification of Wilson's disease would allow appropriate post-transplantation management and screening of the patient's family members.</p>
+<p><strong>Recommendation 2</strong>: In patients presenting with ALF, the AGA suggests testing for herpes simplex virus and treatment of patients with herpes simplex virus. (<strong>Conditional recommendation; very-low-quality evidence</strong>)</p>
+<p><strong>Recommendation 3</strong>: In immunocompetent patients presenting with ALF, the AGA suggests against routinely testing all patients for varicella zoster virus (VZV). (<strong>Conditional recommendation; very-low-quality evidence</strong>)</p>
+<p><strong>Recommendation 4</strong>: In pregnant women presenting with ALF, the AGA suggests testing for hepatitis E. (<strong>Conditional recommendation; very-low-quality evidence</strong>)</p>
+<p><strong>Recommendation 5</strong>: In patients presenting with ALF, the AGA suggests using Model for End-Stage Liver Disease (MELD) score rather than Kings College Criteria (KCC) as a prognostic scoring system. (<strong>Conditional recommendation; very-low-quality evidence</strong>)</p>
+<p><em>Comment</em>: A MELD score of 30.5 (fixed cut-off value) should be used for prognosis. Higher scores predict a need for liver transplantation.</p>
+<p><strong>Recommendation 6</strong>: In patients presenting with ALF, the AGA suggests against the routine use of liver biopsy. (<strong>Conditional recommendation; very-low-quality evidence</strong>)</p>
+<p><strong>Recommendation 7</strong>: In patients presenting with ALF, the AGA suggests autoantibody testing be performed. (<strong>Conditional recommendation; very-low-quality evidence</strong>)</p>
+<p><strong>Recommendation 8</strong>: In patients presenting with ALF, the AGA suggests against the empiric use of treatments to reduce intracranial pressure (ICP). (<strong>Conditional recommendation; very-low-quality evidence</strong>)</p>
+<p><strong>Recommendation 9</strong>: In patients presenting with ALF, the AGA recommends that extracorporeal artificial liver support systems only be used within the context of a clinical trial. (<strong>No recommendation</strong>)</p>
+<p><strong>Recommendation 10</strong>: In patients presenting with acetaminophen-associated ALF, the AGA recommends the use of N-acetyl cysteine in acetaminophen-associated ALF. (<strong>Strong recommendation; very-low-quality evidence</strong>)</p>
+<p><strong>Recommendation 11</strong>: In patients presenting with non&amp;ndash;acetaminophen-associated ALF, the AGA recommends that N-acetyl cysteine be used only in the context of clinical trials. (<strong>No recommendation</strong>)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Grading of Recommendations Assessment, Development and Evaluation (GRADE) Definitions of Quality/Certainty of the Evidence</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Grading of Recommendations Assessment, Development and Evaluation (GRADE) Definitions of Quality/Certainty of the Evidence&quot;>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>High</th>
+            <td valign=&quot;top&quot;>The Committee is very confident that the true effect lies close to that of the estimate of the effect.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Moderate</th>
+            <td valign=&quot;top&quot;>The Committee is moderately confident in the effect estimate. The true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Low</th>
+            <td valign=&quot;top&quot;>The Committee's confidence in the effect estimate is limited. The true effect may be substantially different from the estimate of the effect.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Very low</th>
+            <td valign=&quot;top&quot;>The Committee has very little confidence in the effect estimate. The true effect is likely to be substantially different from the estimate of effect.</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>GRADE Categories on Strength of Recommendation</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: GRADE Categories on Strength of Recommendation&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot;>&amp;nbsp;</th>
+            <th valign=&quot;top&quot; scope=&quot;col&quot;>Wording in Guideline</th>
+            <th valign=&quot;top&quot; scope=&quot;col&quot;>For the Patient</th>
+            <th valign=&quot;top&quot; scope=&quot;col&quot;>For the Clinician</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Strong</th>
+            <td valign=&quot;top&quot;>&quot;The AGA recommends...&quot;</td>
+            <td valign=&quot;top&quot;>Most individuals in this situation would want the recommended course of action and only a small proportion would not.</td>
+            <td valign=&quot;top&quot;>Most individuals should receive the recommended course of action. Formal decision aids are not likely to be needed to help individuals make decisions consistent with their values and preferences.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Conditional</th>
+            <td valign=&quot;top&quot;>&quot;The AGA suggests...&quot;</td>
+            <td valign=&quot;top&quot;>The majority of individuals in this situation would want the suggested course of action, but many would not.</td>
+            <td valign=&quot;top&quot;>Different choices will be appropriate for different patients. Decision aids may well be useful helping individuals making decisions consistent with their values and preferences. Clinicians should expect to spend more time with patients when working towards a decision.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Acute liver failure (ALF)</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Gastroenterology"/>
+      <fieldvalue value="Internal Medicine"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To offer recommendations about controversial diagnostic and treatment strategies and predictive models for outcome in acute liver failure</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adults &amp;ge;18 years of age with suspected or confirmed acute liver failure (ALF), defined as acute-onset liver disease with evidence of coagulopathy and/or hepatic encephalopathy without pre-existing liver disease</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Diagnosis/Evaluation</span></strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Testing for Wilson's disease (not recommended routinely) </li>
+    <li>Testing for and treatment of herpes simplex virus (HSV) </li>
+    <li>Testing for varicella zoster virus (not recommended routinely) </li>
+    <li>Testing for hepatitis E virus in pregnant patients </li>
+    <li>Prognostic scoring systems (e.g., model for end-stage liver disease [MELD], Kings College Criteria) </li>
+    <li>Liver biopsy (not recommended routinely) </li>
+    <li>Autoantibody testing </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Treatment Management</span></strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Empiric use of treatments to reduce intracranial pressure (ICP) </li>
+    <li>Extracorporeal artificial liver support systems (in a clinical trial) </li>
+    <li>N-acetyl cysteine for acetaminophen-associated acute liver failure only </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Sensitivity and specificity </li>
+    <li>Likelihood ratio (+/-) </li>
+    <li>Transplantation and mortality </li>
+    <li>All-cause mortality </li>
+    <li>Transplant-free survival time </li>
+    <li>Renal function </li>
+    <li>Risk of infection </li>
+    <li>Bleeding complications </li>
+    <li>Electrolyte abnormalities </li>
+    <li>Hepatic recovery </li>
+    <li>N-acetyl cysteine (NAC) adverse events </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Defining the Clinical Questions</span></strong></p>
+<p>Each statement followed the following format: population, intervention, comparator, and outcome (PICO). The population was adult acute liver failure (ALF) patients (age, &amp;gt;18 y) defined as acute-onset liver disease with evidence of coagulopathy and/or hepatic encephalopathy without pre-existing liver disease. The interventions were diagnostic tests such as tests for Wilson's disease; serology for herpes simplex, varicella zoster, or hepatitis E viruses; autoantibodies; prognostic scoring systems; liver biopsy; as well as therapeutic interventions such as N-acetyl cysteine, mannitol, barbiturates, hypothermia hyperventilation, hypertonic saline, lactulose, and artificial liver support systems. The comparator was usual care without the relevant diagnostic test or intervention and the main outcomes assessed were mortality, liver transplantation, and adverse events. For the diagnostic tests the reviewers sought information on diagnostic accuracy (sensitivity, specificity, and positive and negative likelihood ratios), but if this was not available they evaluated the prevalence of disease in the ALF populations. This was to provide evidence for the likely utility of a test as if the disease is very rare and there is no specific treatment then it may not be appropriate to test for this disease. A summary of the PICO questions is given in Table 1 in the technical review document (see the &quot;Availability of Companion Documents&quot; field). The evidence and outcomes that were sought are outlined in Table 1, but in some cases this was not available and reviewers then evaluated indirect evidence to guide decision making. All PICO questions were investigated; when there was insufficient direct or indirect evidence to make any conclusions these questions were not included in the results.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Identifying the Evidence</span></strong></p>
+<p>The reviewers conducted an electronic search using MEDLINE, EMBASE, and the Cochrane Library until November 2015. An experienced information specialist developed search strategies for each statement. All authors iteratively refined the search strategy to maximize the sensitivity but not provide a prohibitively large number of titles (usually &amp;lt;1000 titles) to explore manually. The search was limited to the English language. Abstracts and letters were included but investigators did not explicitly search the grey literature for this evidence. The search strategies were developed to identify evidence for either a single statement or for 2 to 3 statements and these are outlined in Appendix 1 of the technical review (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p>When possible, the investigators used available systematic reviews to inform the clinical question and rated their validity according to commonly used criteria. Well-done systematic reviews that were missing recent trial data were updated and re-analyzed rather than creating a de novo systematic review. When well-done systematic reviews were unavailable, investigators searched for primary studies.</p>
+<p>Therapeutic intervention evidence was restricted to randomized controlled studies, but observational studies were included for other statements. In the case of serology studies, single case reports were also evaluated. The investigators restricted searches to ALF in the adult population, but if data were limited they also evaluated the pediatric literature and patients with pre-existing liver disease as supportive information.</p>
+<p>All titles were screened by one researcher and relevant articles were retrieved. A methodologist assessed eligibility for the technical review and another methodologist confirmed that articles were appropriate to include in an unblinded assessment.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A total of 2320 references were identified in the search and 97 met inclusion criteria for the guideline technical review.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Grading of Recommendations Assessment, Development and Evaluation (GRADE) Definitions of Quality/Certainty of the Evidence</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Grading of Recommendations Assessment, Development and Evaluation (GRADE) Definitions of Quality/Certainty of the Evidence&quot;>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>High</th>
+            <td valign=&quot;top&quot;>The Committee is very confident that the true effect lies close to that of the estimate of the effect.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Moderate</th>
+            <td valign=&quot;top&quot;>The Committee is moderately confident in the effect estimate. The true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Low</th>
+            <td valign=&quot;top&quot;>The Committee's confidence in the effect estimate is limited. The true effect may be substantially different from the estimate of the effect.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Very low</th>
+            <td valign=&quot;top&quot;>The Committee has very little confidence in the effect estimate. The true effect is likely to be substantially different from the estimate of effect.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Meta-Analysis"/>
+      <fieldvalue value="Meta-Analysis of Observational Trials"/>
+      <fieldvalue value="Meta-Analysis of Randomized Controlled Trials"/>
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Well-done systematic reviews that were missing recent trial data were updated and re-analyzed rather than creating a de novo systematic review.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Synthesizing the Data</span></strong></p>
+<p>Randomized control trial data were summarized as relative risks (RR), whereas case&amp;ndash;control studies were summarized using odds ratios (ORs), each with their 95% confidence intervals (CIs). Data were pooled using a random-effects model. Proportions were transformed using the Freeman&amp;ndash;Tukey double-arcsine method, and then reviewers used an inverse-variance random-effects meta-analysis. Data on diagnostic accuracy were expressed as sensitivity and specificity as well as positive and negative likelihood ratios (LRs). A positive LR can be used to predict the probability of disease if the test is positive and a negative LR predicts the probability that the disease is absent if the test is negative. These measures are analogous to a positive and negative predictive value but have the advantage that they do not vary with the prevalence of disease. Where appropriate, data were pooled and summary receiver operator curves were constructed using hierarchical logistic regression. Positive and negative predictive values were calculated using LRs and applying the median absolute effect reported in the literature as well as plausible ranges from this value.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Assessing the Quality of Evidence</span></strong></p>
+<p>The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach was used for assessing quality of the evidence and this is graded as high, moderate, low, or very low (see the &quot;Rating Scheme for the Strength of the Evidence&quot; field). Randomized control trial (RCT) data are rated as high quality, but are rated down if one or more of the following are present: studies have a high risk of bias, are significantly inconsistent, provide imprecise estimates, or there is evidence of publication bias and/or indirectness, such as the evidence is not related directly to the population of interest. The more issues there are with the evidence from RCTs and the more severe the problem, the lower the quality of evidence is rated. Outcomes from observational studies start at low quality of evidence and can be rated down further if any of the issues described earlier are present. However, evidence can be rated higher if the effect is strong, there is a dose response, or any confounding would reduce the demonstrated effect. High-quality evidence suggests that the reviewers are confident of the direction and magnitude of the effect and any new data are unlikely to alter this.</p>
+<p>Two methodologists evaluated the quality of the evidence according to these criteria for each statement and then discussed this with the team. All outcomes critical to decision making were evaluated, although frequently this was limited by the quantity and quality of the evidence. Reviewers intended to resolve any disagreements by consensus but there were no disagreements for this technical review. A summary of the quality of the evidence is given in Tables 2 and 3 and Supplementary Tables 1 and 2 of the technical review.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American Gastroenterological Association Institute (AGA) process for developing clinical practice guidelines incorporates Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology and best practices as outlined by the Institute of Medicine. GRADE methodology was used to prepare the background information for the guideline and the technical review that accompanies it. Optimal understanding of this guideline will be enhanced by reading applicable portions of the technical review. The guideline panel and the authors of the technical review met face-to-face on May 20, 2016, to discuss the quality of evidence and consider other factors relevant for the risk-benefit assessment of the recommendations. The guideline authors subsequently formulated the recommendations. Although quality of evidence was a key factor in determining the strength of each recommendation, the panel also considered the balance between the benefit and harm of interventions, patients' values and preferences, and resource utilization.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Grading of Recommendations Assessment, Development and Evaluation (GRADE) Categories on Strength of Recommendation</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Grading of Recommendations Assessment, Development and Evaluation (GRADE) Categories on Strength of Recommendation&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot;>&amp;nbsp;</th>
+            <th valign=&quot;top&quot; scope=&quot;col&quot;>Wording in Guideline</th>
+            <th valign=&quot;top&quot; scope=&quot;col&quot;>For the Patient</th>
+            <th valign=&quot;top&quot; scope=&quot;col&quot;>For the Clinician</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Strong</th>
+            <td valign=&quot;top&quot;>&quot;The AGA recommends...&quot;</td>
+            <td valign=&quot;top&quot;>Most individuals in this situation would want the recommended course of action and only a small proportion would not.</td>
+            <td valign=&quot;top&quot;>Most individuals should receive the recommended course of action. Formal decision aids are not likely to be needed to help individuals make decisions consistent with their values and preferences.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Conditional</th>
+            <td valign=&quot;top&quot;>&quot;The AGA suggests...&quot;</td>
+            <td valign=&quot;top&quot;>The majority of individuals in this situation would want the suggested course of action, but many would not.</td>
+            <td valign=&quot;top&quot;>Different choices will be appropriate for different patients. Decision aids may well be useful helping individuals making decisions consistent with their values and preferences. Clinicians should expect to spend more time with patients when working towards a decision.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This document presents the official recommendations of the American Gastroenterological Association Institute on initial testing and management of acute liver failure. The guideline was developed by the Clinical Guidelines Committee and approved by the American Gastroenterological Association Institute Governing Board.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The recommendations included here represent a rigorous, evidence-based summary of extensive literature describing the diagnosis and treatment of acute liver failure (ALF) and use of predictive models. Review of this guideline, plus the associated technical review, will facilitate effective shared decision making with ALF patients.</p>
+<p>See the original guideline document and the technical review (see the &quot;Availability of Companion Documents&quot; field) for information about potential benefits and the balance between the benefits and harms of specific interventions.</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Six randomized controlled trials (RCTs) reported adverse events of extracorporeal liver support systems but data were presented in terms of individual events and could not be synthesized. Five RCTs reported that adverse events were very similar between the liver support systems and usual care with no statistically significant difference in any individual adverse event. One RCT stated that 2 of 12 patients randomized to Extracorporeal Liver Assist Device (ELAD) withdrew, 1 because of a fever and the other because of bleeding from the liver support site in the context of severe coagulopathy. </li>
+    <li>One RCT did report on adverse events of N-acetyl cysteine (NAC) vs placebo and reported that nausea and vomiting occurred in 14% of NAC-treated patients compared with 4% treated with placebo (P = .03). </li>
+</ul>
+<p>See the original guideline document and the technical review (see the &quot;Availability of Companion Documents&quot; field) for information about potential harms and the balance between the benefits and harms of specific interventions.</p>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Limitations of Current Evidence and Future Directions</span></strong></p>
+<p>This technical review allows the clinician to better appreciate the nature of the data in important areas regarding acute liver failure. Current practice patterns may be based on evidence that is not robust and therefore does not inspire confident decision making for these very ill patients. This review, and the guideline that will be derived from it, can help guide the direction of further study in the areas of diagnosis, prognosis, and interventions in the management of the patient with acute liver failure. Data on the usefulness of diagnostic testing may allow more specific diagnosis, at less cost, than currently is provided. An algorithmic approach to prognosis, which most likely will be based on MELD given the earlier data analysis, will provide the clinician with needed decision support. Finally, decisions regarding the use of expensive interventions such as artificial liver support, intracranial pressure monitoring, and liver transplantation should be scrutinized by the generation of higher-quality data.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Staff Training/Competency Material"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Flamm SL, Yang YX, Singh S, Falck-Ytter YT, AGA Institute Clinical Guidelines Committee. American Gastroenterological Association Institute guidelines for the diagnosis and management of acute liver failure. Gastroenterology. 2017 Feb;152(3):644-7. [4 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=28056348&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2017 Feb"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American Gastroenterological Association Institute - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American Gastroenterological Association Institute</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American Gastroenterological Association Institute Clinical Guidelines Committee</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Authors</em>: Steven L. Flamm, Division of Gastroenterology and Hepatology, Department of Medicine, Northwestern Feinberg School of Medicine, Chicago, Illinois; Yu-Xiao Yang, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania; Siddharth Singh, Division of Gastroenterology, University of California San Diego, La Jolla, California; Yngve T. Falck-Ytter, Division of Gastroenterology, Cleveland VA Medical Center and University Hospitals, Case Western Reserve University, Cleveland, Ohio</p>
+<p><em>American Gastroenterological Association (AGA) Institute Clinical Guidelines Committee Members</em>: Steven L. Flamm, Northwestern Feinberg School of Medicine, Chicago, IL; Joseph K. Lim, Yale School of Medicine, New Haven, CT; Joel H. Rubenstein, Veterans Affairs Center for Clinical Management Research and University of Michigan Medical School, Ann Arbor, MI; Walter E. Smalley, Vanderbilt University School of Medicine, Nashville, TN; Neil Stollman, University of California San Francisco, Northern California Gastroenterology Consultants, San Francisco, CA; Santhi Swaroop Vege, Mayo Clinic, Rochester, MN; Sachin B. Wani, University of Colorado, Boulder, CO; David S. Weinberg, Department of Medicine, Fox Chase Cancer Center, Philadelphia, PA; and Yu-Xiao Yang, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Conflicts of Interest</span></strong></p>
+<p>All members were required to complete a disclosure statement. These statements are maintained at the American Gastroenterological Association Institute headquarters in Bethesda, Maryland, and pertinent disclosures are published with the report.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://www.gastrojournal.org/article/S0016-5085%2816%2935540-8/pdf&quot; title=&quot;Gastroenterology Journal Web site&quot;>Gastroenterology Journal Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Herrine SK, Moayyedi P, Brown RS Jr, Falck-Ytter YT. American Gastroenterology Association institute technical review on initial testing and management of acute liver disease. Gastroenterology. 2017 Feb;152(3):648&amp;ndash;64. Available from the <a href=&quot;http://www.gastrojournal.org/article/S0016-5085%2816%2935541-X/pdf&quot; title=&quot;Gastroenterology Journal Web site&quot;>Gastroenterology Journal Web site</a>. </li>
+    <li>Herrine SK, Moayyedi P, Brown RS Jr, Falck-Ytter YT. American Gastroenterology Association institute technical review on initial testing and management of acute liver disease. Online supplement. Appendix 1. Search strategies employed for the technical review. Gastroenterology. 2017 Feb. 5 p. Available from the<a href=&quot;http://www.gastrojournal.org/cms/attachment/2082204649/2072723531/mmc1.pdf&quot; title=&quot;Gastroenterology Journal Web site&quot;> Gastroenterology Journal Web site</a>. </li>
+    <li>AGA process for developing guidelines. 2014 Dec. Available from the <a href=&quot;http://www.gastro.org/guidelines-policies&quot; title=&quot;AGA Web site&quot;>American Gastroenterological Association (AGA) Web site</a>. </li>
+    <li>The AGA Institute process for developing clinical practice guidelines part one: grading the evidence. Clin Gastroenterol Hepatol. 2013 Apr;11(4):329-32. Available from the <a href=&quot;http://www.cghjournal.org/article/S1542-3565(13)00177-8/fulltext&quot; title=&quot;Clinical Gastroenterology and Hepatology Web site&quot;>Clinical Gastroenterology and Hepatology Web site</a>. </li>
+</ul>
+<p>In addition, a continuing medical education activity is available from the <a href=&quot;http://www.gastrojournal.org/article/S0016-5085(17)30053-7/fulltext#intraref0005&quot; title=&quot;Gastroenterology Journal Web site&quot;>Gastroenterology Journal Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on June 27, 2017. The information was verified by the guideline developer on August 24, 2017.</p>
+<p>This NEATS assessment was completed by ECRI Institute on July 13, 2017. The information was verified by the guideline developer on August 24, 2017.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 00:59:03 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:36:36 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 367.305 (3)
+  esindex: 0.01
+  captures_list: 384.709
+  CDXLines.iter: 13.135 (3)
+  PetaboxLoader3.datanode: 101.95 (4)
+  exclusion.robots: 0.376
+  exclusion.robots.policy: 0.36
+  RedisCDXSource: 0.78
+  PetaboxLoader3.resolve: 409.847 (4)
+  load_resource: 183.453
+-->

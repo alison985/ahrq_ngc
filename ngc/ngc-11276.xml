@@ -1,0 +1,821 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app42.us.archive.org';v.server_ms=143;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11276?contentType=xml', '20180713063524')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713063524/https://www.guideline.gov/summaries/downloadcontent/ngc-11276?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713063524/https://www.guideline.gov/summaries/downloadcontent/ngc-11276?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11276?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713063524" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610060759/https://www.guideline.gov/summaries/downloadcontent/ngc-11276?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 06:35:24 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610060759/https://www.guideline.gov/summaries/downloadcontent/ngc-11276?contentType=xml" title="06:07:59 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 06:35:24 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2017</td>
+		  <td class="c" id="displayYearEl" title="You are here: 06:35:24 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713063524*/https://www.guideline.gov/summaries/downloadcontent/ngc-11276?contentType=xml" title="See a list of every capture for this URL">4 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">13 Apr 2018 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11276?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Treatment of non-metastatic muscle-invasive bladder cancer: AUA/ASCO/ASTRO/SUO guideline.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Treatment of non-metastatic muscle-invasive bladder cancer: AUA/ASCO/ASTRO/SUO guideline. Linthicum (MD): American Urological Association Education and Research, Inc.; 2017 Mar. 42 p.  [277 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria. </p></div>"/>
+    </field>
+  </section>
+  <section secid="705" ordby="150" name="NEATS Assessment">
+    <field fieldid="183" ordby="10" id="706" name="Disclosure of Guideline Funding Source" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="184" ordby="20" id="707" name="Disclosure and Management of Financial Conflict of Interests" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="185" ordby="30" id="708" name="Guideline Development Group Composition: Multidisciplinary Group" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="186" ordby="40" id="709" name="Guideline Development Group Composition: Methodologist Involvement" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="187" ordby="50" id="710" name="Guideline Development Group Composition: Patient and Public Perspectives" type="picklist-one">
+      <fieldvalue value="3"/>
+    </field>
+    <field fieldid="188" ordby="60" id="711" name="Use of a Systematic Review of Evidence: Search Strategy" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="189" ordby="70" id="712" name="Use of a Systematic Review of Evidence: Study Selection" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="190" ordby="80" id="713" name="Use of a Systematic Review of Evidence: Synthesis of Evidence" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="191" ordby="90" id="714" name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="192" ordby="100" id="715" name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="193" ordby="110" id="716" name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="194" ordby="120" id="717" name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="195" ordby="130" id="718" name="Specific and Unambiguous Articulation of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="196" ordby="140" id="719" name="External Review" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="197" ordby="150" id="720" name="Updating" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Definitions for the body of evidence strength (<strong>Grade A, B, or C</strong>), the strength of the recommendations (<strong>Strong, Moderate, Conditional</strong>), and for statements labeled as <strong>Clinical Principle</strong> and <strong>Expert Opinion</strong> are provided at the end of the &quot;Major Recommendations&quot; field. </p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Initial Patient Evaluation and Counseling</strong></span></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Prior to treatment consideration, a full history and physical exam should be performed, including an exam under anesthesia, at the time of transurethral resection of bladder tumor for a suspected invasive cancer. (<strong>Clinical Principle</strong>) </li>
+    <li>Prior to muscle-invasive bladder cancer management, clinicians should perform a complete staging evaluation, including imaging of the chest and cross-sectional imaging of the abdomen and pelvis with intravenous contrast if not contraindicated. Laboratory evaluation should include a comprehensive metabolic panel (complete blood count, liver function tests, alkaline phosphatase, and renal function). (<strong>Clinical Principle</strong>) </li>
+    <li>An experienced genitourinary pathologist should review the pathology of a patient when variant histology is suspected or if muscle invasion is equivocal (e.g., micropapillary, nested, plasmacytoid, neuroendocrine, sarcomatoid, extensive squamous or glandular differentiation). (<strong>Clinical Principle</strong>) </li>
+    <li>For patients with newly diagnosed muscle-invasive bladder cancer, curative treatment options should be discussed before determining a plan of therapy that is based on both patient comorbidity and tumor characteristics. Patient evaluation should be completed using a multidisciplinary approach. (<strong>Clinical Principle</strong>) </li>
+    <li>Prior to treatment, clinicians should counsel patients regarding complications and the implications of treatment on quality of life (e.g., impact on continence, sexual function, fertility, bowel dysfunction, metabolic problems). (<strong>Clinical Principle</strong>) </li>
+</ol>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Treatment</strong></span></p>
+<p><strong>Neoadjuvant/Adjuvant Chemotherapy</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;6&quot;>
+    <li>Utilizing a multidisciplinary approach, clinicians should offer cisplatin-based neoadjuvant chemotherapy to eligible radical cystectomy patients prior to cystectomy. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>Clinicians should not prescribe carboplatin-based neoadjuvant chemotherapy for clinically resectable stage cT2-T4aN0 bladder cancer. Patients ineligible for cisplatin-based neoadjuvant chemotherapy should proceed to definitive locoregional therapy. (<strong>Expert Opinion</strong>) </li>
+    <li>Clinicians should perform radical cystectomy as soon as possible following a patient's completion of and recovery from neoadjuvant chemotherapy. (<strong>Expert Opinion</strong>) </li>
+    <li>Eligible patients who have not received cisplatin-based neoadjuvant chemotherapy and have non-organ confined (pT3/T4 and/or N+) disease at cystectomy should be offered adjuvant cisplatin-based chemotherapy. (<strong>Moderate Recommendation; Evidence Level: Grade C</strong>) </li>
+</ol>
+<p><strong>Radical Cystectomy</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;10&quot;>
+    <li>Clinicians should offer radical cystectomy with bilateral pelvic lymphadenectomy for surgically eligible patients with resectable non-metastatic (M0) muscle-invasive bladder cancer. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>When performing a standard radical cystectomy, clinicians should remove the bladder, prostate, and seminal vesicles in males and should remove the bladder, uterus, fallopian tubes, ovaries, and anterior vaginal wall in females. (<strong>Clinical Principle</strong>) </li>
+    <li>Clinicians should discuss and consider sexual function preserving procedures for patients with organ-confined disease and absence of bladder neck, urethra, and prostate (male) involvement. (<strong>Moderate Recommendation; Evidence Level: Grade C</strong>) </li>
+</ol>
+<p><em>Urinary Diversion</em></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;13&quot;>
+    <li>In patients undergoing radical cystectomy, ileal conduit, continent cutaneous, and orthotopic neobladder urinary diversions should all be discussed. (<strong>Clinical Principle</strong>) </li>
+    <li>In patients receiving an orthotopic urinary diversion, clinicians must verify a negative urethral margin. (<strong>Clinical Principle</strong>) </li>
+</ol>
+<p><em>Perioperative Surgical Management</em></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;15&quot;>
+    <li>Clinicians should attempt to optimize patient performance status in the perioperative setting. (<strong>Expert Opinion</strong>) </li>
+    <li>Perioperative pharmacologic thromboembolic prophylaxis should be given to patients undergoing radical cystectomy. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>In patients undergoing radical cystectomy &amp;mu;-opioid antagonist therapy should be used to accelerate gastrointestinal recovery, unless contraindicated. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>Patients should receive detailed teaching regarding care of urinary diversion prior to discharge from the hospital. (<strong>Clinical Principle</strong>) </li>
+</ol>
+<p><strong>Pelvic Lymphadenectomy</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;19&quot;>
+    <li>Clinicians must perform a bilateral pelvic lymphadenectomy at the time of any surgery with curative intent. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>When performing bilateral pelvic lymphadenectomy, clinicians should remove, at a minimum, the external and internal iliac and obturator lymph nodes (standard lymphadenectomy). (<strong>Clinical Principle</strong>) </li>
+</ol>
+<p><strong>Bladder Preserving Approaches</strong></p>
+<p><em>Patient Selection</em></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;21&quot;>
+    <li>For patients with newly diagnosed non-metastatic muscle-invasive bladder cancer who desire to retain their bladder, and for those with significant comorbidities for whom radical cystectomy is not a treatment option, clinicians should offer bladder preserving therapy when clinically appropriate. (<strong>Clinical Principle</strong>) </li>
+    <li>In patients under consideration for bladder preserving therapy, maximal debulking transurethral resection of bladder tumor and assessment of multifocal disease/carcinoma in situ should be performed. (<strong>Strong Recommendation; Evidence Level: Grade C</strong>) </li>
+</ol>
+<p><em>Maximal Transurethral Resection of Bladder Tumor (TURBT) and Partial Cystectomy</em></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;23&quot;>
+    <li>Patients with muscle-invasive bladder cancer who are medically fit and consent to radical cystectomy should not undergo partial cystectomy or maximal transurethral resection of bladder tumor as primary curative therapy. (<strong>Moderate Recommendation; Evidence Level: Grade C</strong>) </li>
+</ol>
+<p><em>Primary Radiation Therapy</em></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;24&quot;>
+    <li>For patients with muscle-invasive bladder cancer, clinicians should not offer radiation therapy alone as a curative treatment. (<strong>Strong Recommendation; Evidence Level: Grade C</strong>) </li>
+</ol>
+<p><em>Multi-modal Bladder Preserving Therapy</em></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;25&quot;>
+    <li>For patients with muscle-invasive bladder cancer who have elected multi-modal bladder preserving therapy, clinicians should offer maximal transurethral resection of bladder tumor, chemotherapy combined with external beam radiation therapy, and planned cystoscopic re-evaluation. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>Radiation sensitizing chemotherapy regimens should include cisplatin or 5-fluorouracil and mitomycin C. (<strong>Strong Recommendation; Evidence Level: Grade B</strong>) </li>
+    <li>Following completion of bladder preserving therapy, clinicians should perform regular surveillance with computed tomography (CT) scans, cystoscopy, and urine cytology. (<strong>Strong Recommendation; Evidence Level: Grade C</strong>) </li>
+</ol>
+<p><em>Bladder Preserving Treatment Failure</em></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;28&quot;>
+    <li>In patients who are medically fit and have residual or recurrent muscle-invasive disease following bladder preserving therapy, clinicians should offer radical cystectomy with bilateral pelvic lymphadenectomy. (<strong>Strong Recommendation; Evidence Level: Grade C</strong>) </li>
+    <li>In patients who have a non-muscle invasive recurrence after bladder preserving therapy, clinicians may offer either local measures, such as transurethral resection of bladder tumor with intravesical therapy, or radical cystectomy with bilateral pelvic lymphadenectomy. (<strong>Moderate Recommendation; Evidence Level: Grade C</strong>) </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Patient Surveillance and Follow Up</span></strong></p>
+<p><strong>Imaging</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;30&quot;>
+    <li>Clinicians should obtain chest imaging and cross sectional imaging of the abdomen and pelvis with CT or MRI at 6- to 12-month intervals for 2 to 3 years and then may continue annually. (<strong>Expert Opinion</strong>) </li>
+</ol>
+<p><strong>Laboratory Values and Urine Markers</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;31&quot;>
+    <li>Following therapy for muscle-invasive bladder cancer, patients should undergo laboratory assessment at 3- to 6-month intervals for 2 to 3 years and then annually thereafter. (<strong>Expert Opinion</strong>) </li>
+    <li>Following radical cystectomy in patients with a retained urethra, clinicians should monitor the urethral remnant for recurrence. (<strong>Expert Opinion</strong>) </li>
+</ol>
+<p><strong>Patient Survivorship</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;33&quot;>
+    <li>Clinicians should discuss with patients how they are coping with their bladder cancer diagnosis and treatment and should recommend that patients consider participating in cancer support groups or consider receiving individual counseling. (<strong>Expert Opinion</strong>) </li>
+    <li>Clinicians should encourage bladder cancer patients to adopt healthy lifestyle habits, including smoking cessation, exercise, and a healthy diet, to improve long-term health and quality of life. (<strong>Expert Opinion</strong>) </li>
+</ol>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Variant Histology</strong></span></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;35&quot;>
+    <li>In patients diagnosed with variant histology, clinicians should consider unique clinical characteristics that may require divergence from standard evaluation and management for urothelial carcinoma. (<strong>Expert Opinion</strong>) </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Body of Evidence Strength</strong></p>
+<p><strong>Grade A</strong>: Well-conducted and highly-generalizable randomized controlled trials (RCTs) or exceptionally strong observational studies with consistent findings</p>
+<p><strong>Grade B</strong>: RCTs with some weaknesses of procedure or generalizability or moderately strong observational studies with consistent findings</p>
+<p><strong>Grade C</strong>: RCTs with serious deficiencies of procedure, generalizability, or extremely small sample sizes or observational studies that are inconsistent, have small sample sizes, or have other problems that potentially confound interpretation of data</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: By definition, Grade A evidence is evidence about which the Panel has a high level of certainty, Grade B evidence is evidence about which the Panel has a moderate level of certainty, and Grade C evidence is evidence about which the Panel has a low level of certainty.</p>
+<p><strong>American Urological Association (AUA) Nomenclature Linking Statement Type to Level of Certainty, Magnitude of Benefit or Risk/Burden, and Body of Evidence Strength</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;3&quot; cellpadding=&quot;3&quot; summary=&quot;Table: AUA Nomenclature Linking Statement Type to Level of Certainty, Magnitude of Benefit or Risk/Burden, and Body of Evidence Strength&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>&amp;nbsp;</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence Strength A (High Certainty)</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence Strength B (Moderate Certainty)</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence Strength C (Low Certainty)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;><strong>Strong Recommendation</strong><br />
+            <br />
+            (Net benefit or harm substantial)</th>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is substantial<br />
+            <br />
+            Applies to most patients in most circumstances and future research is unlikely to change confidence</td>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is substantial<br />
+            <br />
+            Applies to most patients in most circumstances but better evidence could change confidence</td>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) appears substantial<br />
+            <br />
+            Applies to most patients in most circumstances but better evidence is likely to change confidence (rarely used to support a Strong Recommendation)</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;><strong>Moderate Recommendation</strong><br />
+            <br />
+            (Net benefit or harm moderate)</th>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is moderate<br />
+            <br />
+            Applies to most patients in most circumstances and future research is unlikely to change confidence</td>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is moderate<br />
+            <br />
+            Applies to most patients in most circumstances but better evidence could change confidence</td>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) appears moderate<br />
+            <br />
+            Applies to most patients in most circumstances but better evidence could change confidence</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;><strong>Conditional Recommendation</strong><br />
+            <br />
+            (No apparent net benefit or harm)</th>
+            <td valign=&quot;top&quot;>Benefits = Risks/Burdens<br />
+            <br />
+            Best action depends on individual patient circumstances<br />
+            <br />
+            Future research unlikely to change confidence<br />
+            </td>
+            <td valign=&quot;top&quot;>Benefits = Risks/Burdens<br />
+            <br />
+            Best action depends on individual patient circumstances<br />
+            <br />
+            Better evidence could change confidence</td>
+            <td valign=&quot;top&quot;>Balance between Benefits &amp;amp; Risks/Burdens unclear<br />
+            <br />
+            Alternative strategies may be equally reasonable<br />
+            <br />
+            Better evidence likely to change confidence</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;><strong>Clinical Principle</strong></th>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>A statement about a component of clinical care that is widely agreed upon by urologists or other clinicians for which there may or may not be evidence in the medical literature</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;><strong>Expert Opinion</strong></th>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>A statement, achieved by consensus of the Panel, that is based on members' clinical training, experience, knowledge, and judgment for which there is no evidence</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An algorithm titled &quot;Non-metastatic Muscle-invasive Bladder Cancer: Treatment Algorithm&quot; is available from the <a href=&quot;http://www.auanet.org/Documents/education/clinical-guidance/Muscle-Invasive-Bladder-Cancer-Algorithm.pdf&quot; title=&quot;American Urological Association Education and Research, Inc. (AUA) Web site&quot;>American Urological Association Education and Research, Inc. (AUA) Web site</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Non-metastatic muscle-invasive bladder cancer (MIBC)</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Oncology"/>
+      <fieldvalue value="Radiation Oncology"/>
+      <fieldvalue value="Surgery"/>
+      <fieldvalue value="Urology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To provide a risk-stratified, clinical framework for the management of muscle-invasive urothelial bladder cancer</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients diagnosed with non-metastatic muscle-invasive bladder cancer (MIBC)</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: The treatment of patients with clinically evident metastatic bladder cancer is outside the context of this guideline and will not be discussed.</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><span style=&quot;text-decoration: underline;&quot;><strong>Evaluation/Counseling</strong></span></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Full patient history </li>
+    <li>Physical exam, including exam under anesthesia </li>
+    <li>Staging evaluation (including chest imaging, cross-sectional imaging of the abdomen and pelvis with intravenous contrast) </li>
+    <li>Comprehensive metabolic panel </li>
+    <li>Pathology review by an experienced genitourinary pathologist </li>
+    <li>Plan of therapy based on patient comorbidity and tumor characteristics </li>
+    <li>Counselling of patients regarding implications of treatment </li>
+</ol>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Management/Treatment</strong></span></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Cisplatin-based adjuvant or neoadjuvant chemotherapy </li>
+    <li>Locoregional therapy </li>
+    <li>Radical cystectomy with bilateral pelvic lymphadenectomy </li>
+    <li>Sexual function preserving procedures </li>
+    <li>Urinary diversion (ileal conduit, continent cutaneous, orthotopic neobladder) </li>
+    <li>Perioperative surgical management
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Patient optimization in accordance with enhanced recovery pathway principles </li>
+        <li>Pharmacologic thromboembolic prophylaxis </li>
+        <li>&amp;mu;-opioid antagonist therapy </li>
+        <li>Education regarding care of urinary diversion </li>
+    </ul>
+    </li>
+    <li>Bladder preserving approaches
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Maximal debulking transurethral resection of bladder tumor </li>
+        <li>Assessment of multifocal disease/carcinoma in situ </li>
+        <li>Multi-modal bladder preserving therapy </li>
+        <li>Regular surveillance (computer tomography [CT] scans, cystoscopy, urine cytology) </li>
+        <li>Salvage procedures for treatment failure </li>
+    </ul>
+    </li>
+    <li>Surveillance and follow up
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Chest imaging and cross sectional imaging of the abdomen and pelvis with CT or magnetic resonance imaging (MRI) </li>
+        <li>Routine laboratory assessments </li>
+        <li>Monitoring of urethral remnant for recurrence </li>
+        <li>Cancer support groups </li>
+        <li>Individual counseling </li>
+        <li>Healthy lifestyle habits </li>
+    </ul>
+    </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: The following were considered but not recommended: carboplatin-based neoadjuvant chemotherapy for clinically resectable stage cT2-T4aN0 bladder cancer, partial cystectomy or maximal transurethral resection of bladder tumor as primary curative therapy, radiation therapy alone as curative treatment. </p></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Mortality </li>
+    <li>Recurrence of bladder cancer </li>
+    <li>Progression or metastasis of bladder cancer </li>
+    <li>Quality of life </li>
+    <li>Functional status </li>
+    <li>Complications or adverse effects related to treatment </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+      <fieldvalue value="Searches of Unpublished Data"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><span style=&quot;text-decoration: underline;&quot;><strong>Systematic Review</strong></span></p>
+<p>The systematic review utilized to inform this guideline was conducted by a methodology team at the Pacific Northwest Evidence-based Practice Center. The original review was funded by the Agency for Healthcare Research and Quality (AHRQ), and a subsequent supplemental report was funded by the American Urological Association Education and Research, Inc. (AUA) to address additional key questions (see the AHRQ review [see the &quot;Availability of Companion Documents&quot; field] for the original key questions) and more recently published literature. A research librarian experienced in conducting literature searches for comparative effectiveness reviews searched in Ovid MEDLINE&amp;reg; (January 1990 to October 2014), the Cochrane Central Register of Controlled Trials (through September 2014), the Cochrane Database of Systematic Reviews (through September 2014), Health Technology Assessments (through Third Quarter 2014), the National Health Sciences Economic Evaluation Database (through Third Quarter 2014), and the Database of Abstracts of Reviews of Effects (through Third Quarter 2014) to capture published and gray literature. The methodology team searched for unpublished studies in clinical trial registries (ClinicalTrials.gov, Current Controlled Trials, ClinicalStudyResults.org and the World Health Organization International Clinical Trials Registry Platform) and regulatory documents (Drugs@FDA.gov and FDA Medical Devices Registration and Listing). Reference lists of relevant studies and previous systematic reviews were hand-searched for additional studies. Scientific information packets were solicited from drug and device manufacturers and via a notice published in the Federal Register.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Supplemental Review</span></strong></p>
+<p><strong>Scope of Review and Key Questions</strong></p>
+<p>The scope of this supplemental review and the key questions were developed with input from experts at the AUA. This review follows the methods suggested in the AHRQ Methods Guide for Effectiveness and Comparative Effectiveness Reviews (&quot;AHRQ Methods Guide&quot;). All methods were determined a priori. The key questions are as follows:</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>For patients with muscle-invasive bladder cancer (MIBC), what is the comparative accuracy of positron emission tomography/computed tomography (PET/CT), bone scan, magnetic resonance imaging (MRI), or CT for staging? </li>
+    <li>For patients with MIBC, what is the comparative effectiveness of carboplatin- versus cisplatin- based combination neoadjuvant or adjuvant chemotherapy? </li>
+    <li>For patients with MIBC, what is the comparative effectiveness of immediate versus deferred adjuvant chemotherapy? </li>
+    <li>In patients with MIBC, what is the comparative effectiveness of bladder-preserving therapies versus radical cystectomy? </li>
+    <li>In patients with MIBC, what is the comparative effectiveness of dose-dense versus conventional methotrexate, vinblastine, doxorubicin (Adriamycin), and cisplatin (MVAC)? </li>
+    <li>In patients with MIBC, what is the comparative effectiveness of gemcitabine-cisplatin versus MVAC? </li>
+    <li>In patients with MIBC, what is the comparative effectiveness of robot-assisted laparoscopic cystectomy versus open cystectomy? </li>
+    <li>In patients with MIBC, what is the association between the volume of cystectomies performed and surgical outcomes? </li>
+    <li>In patients with clinically node-negative MIBC who undergo radical cystectomy, what is the comparative effectiveness of lymph node dissection versus no lymph node dissection, and how does effectiveness vary according to the dissection template used or lymph node yield? </li>
+    <li>In patients with MIBC, what is the comparative effectiveness of different follow-up methods following definitive treatment? </li>
+</ol>
+<p><strong>Data Sources and Searches</strong></p>
+<p>A research librarian updated searches previously conducted for the AHRQ report and conducted additional searches to address new key questions. Searches were conducted on multiple electronic databases, including Ovid MEDLINE and the Cochrane Central Register of Controlled Trials, through February 2, 2016. The investigators reviewed the citations from the original searches for the full AHRQ-funded review, as there were new key questions and some studies were already included in the original review. The investigators also reviewed reference lists and previous systematic reviews for additional studies.</p>
+<p><strong>Study Selection</strong></p>
+<p>Two reviewers evaluated each study on the basis of pre-defined inclusion criteria that were applied to each key question.</p>
+<p>For all key questions, the population of interest was persons with clinically or pathologically diagnosed MIBC. For key question 9, the reviewers focused on patients with clinically node-negative MIBC. </p>
+<p>For key question 1, studies that compared the accuracy of different imaging modalities (PET/CT, MRI, bone scintigraphy, or CT) for staging of MIBC were included. Studies had to use a reference standard that included pathological confirmation (e.g., radical cystectomy with pelvic lymph node dissection); for studies that evaluated accuracy for diagnosis of distant metastasis the reviewers also included studies that utilized clinical and imaging follow-up for patients with negative findings on the index imaging test. They included studies that evaluated accuracy of TNM or T staging (e.g. proportion correctly staged, understaged, and overstaged), as well as studies that evaluated the diagnostic accuracy (e.g., sensitivity, specificity) for presence of muscle wall invasion, pelvic lymph node metastasis, or distant metastasis.</p>
+<p>For all other key questions, randomized controlled trials that addressed the relevant comparison and evaluated clinical outcomes (e.g., overall- or cancer-specific mortality, quality of life, function, harms) were included. Cohort studies when there were fewer than 2 randomized trials were also included. For key question 6, studies that reported effects of neoadjuvant MVAC versus gemcitabine plus cisplatin on tumor downstaging and for key question 7 studies that reported effects of robot-assisted laparoscopic cystectomy versus open cystectomy on estimated blood loss, operation time, hospital length of stay, and costs were included.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Initial database searches for the Agency for Healthcare Research and Quality (AHRQ) review resulted in 3,921 potentially relevant articles. After dual review of abstracts and titles, 295 articles were selected for full-text dual review, and 39 studies (in 41 publications) were determined to meet inclusion criteria and were included in the review. For the supplemental review, an additional 70 studies were included.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Body of Evidence Strength</span></strong></p>
+<p><strong>Grade A</strong>: Well-conducted and highly-generalizable randomized controlled trials (RCTs) or exceptionally strong observational studies with consistent findings</p>
+<p><strong>Grade B</strong>: RCTs with some weaknesses of procedure or generalizability or moderately strong observational studies with consistent findings</p>
+<p><strong>Grade C</strong>: RCTs with serious deficiencies of procedure, generalizability, or extremely small sample sizes or observational studies that are inconsistent, have small sample sizes, or have other problems that potentially confound interpretation of data</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: By definition, Grade A evidence is evidence about which the Panel has a high level of certainty, Grade B evidence is evidence about which the Panel has a moderate level of certainty, and Grade C evidence is evidence about which the Panel has a low level of certainty.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><span style=&quot;text-decoration: underline;&quot;><strong>Systematic Review</strong></span></p>
+<p><strong>Data Extraction and Data Management</strong></p>
+<p>The methodology team extracted the following information into evidence tables: study design; setting; inclusion and exclusion criteria; dose and duration of treatment for experimental and control groups; duration of follow up; number of subjects screened, eligible, and enrolled; population ES-5 characteristics (including age, race/ethnicity, sex, stage of disease, and functional status); results; adverse events; withdrawals due to adverse events; and sources of funding. Methodologists verified or calculated relative risks and associated 95% confidence intervals (CIs) based on the information provided (sample sizes and incidence of outcomes in each intervention group). Methodologists noted discrepancies between calculated and reported results when present. Data extraction for each study was completed by one investigator and independently reviewed for accuracy and completeness by a second investigator. </p>
+<p><strong>Assessment of the Risk of Bias of Individual Studies</strong></p>
+<p>The methodology team assessed the risk of bias for randomized controlled trials (RCTs) and observational studies using criteria adapted from those developed by the U.S. Preventive Services Task Force. These criteria were applied in conjunction with the approach recommended in the Agency for Healthcare Research and Quality (AHRQ) Methods Guide for medical interventions. Two investigators independently assessed the risk of bias of each study. Discrepancies were resolved through discussion and consensus. Each study was rated as low, medium, or high risk of bias. Methodologists rated the quality of each RCT based on the methods used for randomization, allocation concealment, and blinding; the similarity of compared groups at baseline; whether attrition was adequately reported and acceptable; similarity in use of co-interventions; compliance with allocated treatments; the use of intent-to-treat analysis; and avoidance of selective outcomes reporting. Methodologists rated the quality of each cohort study based on whether it enrolled a consecutive or random sample of patients meeting inclusion criteria; whether it evaluated comparable groups; whether rates of loss to follow up were reported and acceptable; whether it used accurate methods for ascertaining exposures, potential confounders, and outcomes; and whether it performed adjustment for important potential confounders (defined as a minimum of age, sex, tumor stage, and tumor grade). Studies rated low risk of bias were considered to have no more than very minor methodological shortcomings with their results likely to be valid. Studies rated medium risk of bias have some methodological shortcomings, but no flaw or combination of flaws judged likely to cause major bias. In some cases, the article did not report important information, making it difficult to assess its methods or potential limitations. The category of medium risk of bias is broad, and studies with this rating vary in their strengths and weaknesses; the results of some studies assessed to have medium risk of bias are likely to be valid, while others may be only possibly valid. Studies rated high risk of bias have significant flaws that may invalidate the results. They have a serious or fatal flaw or combination of flaws in design, analysis, or reporting; large amounts of missing information (including publication of only preliminary results in a subgroup of patients randomized); or serious discrepancies in reporting. Methodologists did not exclude studies rated as having high risk of bias a priori, but they were considered the least reliable when synthesizing the evidence, particularly when discrepancies between studies were present.</p>
+<p><strong>Determination of Evidence Strength</strong></p>
+<p>The categorization of evidence strength is conceptually distinct from the quality of individual studies. Evidence strength refers to the body of evidence available for a particular question and includes not only individual study quality but consideration of study design, consistency of findings across studies, adequacy of sample sizes, and generalizability of samples, settings, and treatments for the purposes of the guideline. See the &quot;Rating Scheme for the Strength of the Evidence&quot; field for the categories of the body of evidence.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Supplemental Review</span></strong></p>
+<p><strong>Data Abstraction and Quality Rating</strong> </p>
+<p>For each study, the investigators abstracted details regarding the study design, patient population, tumor characteristics (including stage and grade), country, interventions (including chemotherapy regimens, radiation regimens, surgical techniques, and imaging modalities), duration of follow-up, and results. Two investigators independently applied criteria to rate the risk of bias of each study as low, medium, or high. Discrepancies were resolved through consensus. </p>
+<p><strong>Data Synthesis</strong></p>
+<p>The investigators assessed the strength of each body of evidence as high, moderate, low, or insufficient based on risk of bias, consistency, directness, and precision, following methods outlined in the Agency for Healthcare Research and Quality Methods Guide. Pooling of studies was not performed due to small numbers of studies for most key questions, heterogeneity between studies in populations and outcomes addressed, and methodological shortcomings in the studies, with few randomized trials.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+      <fieldvalue value="Expert Consensus (Delphi)"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Process</span></strong></p>
+<p>The Muscle-Invasive Bladder Cancer Panel was created in 2014 by the American Urological Association Education and Research, Inc. (AUA). The Practice Guidelines Committee (PGC) of the AUA selected the Panel Chair who in turn appointed the Vice Chair. In a collaborative process, additional Panel members, including additional members of the American Society for Radiation Oncology (ASTRO), the American Society of Clinical Oncology (ASCO), and Society of Urologic Oncology (SUO), with specific expertise in this area were then nominated and approved by the PGC. This represents the first joint guidelines by these organizations. </p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>AUA Nomenclature: Linking Statement Type to Evidence Strength</strong></span></p>
+<p>The AUA nomenclature system explicitly links statement type to body of evidence strength, level of certainty, magnitude of benefit or risk/burdens, and the Panel's judgment regarding the balance between benefits and risks/burdens (see the &quot;Rating Scheme for the Strength of the Recommendations&quot; field). </p>
+<p>Where gaps in the evidence existed, the Panel provides guidance in the form of <em>Clinical Principles</em> or <em>Expert Opinion</em> with consensus achieved using a modified Delphi technique if differences of opinion emerged.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>American Urological Association (AUA) Nomenclature Linking Statement Type to Level of Certainty, Magnitude of Benefit or Risk/Burden, and Body of Evidence Strength</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;3&quot; cellpadding=&quot;3&quot; summary=&quot;Table: AUA Nomenclature Linking Statement Type to Level of Certainty, Magnitude of Benefit or Risk/Burden, and Body of Evidence Strength&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>&amp;nbsp;</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence Strength A (High Certainty)</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence Strength B (Moderate Certainty)</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence Strength C (Low Certainty)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;><strong>Strong Recommendation</strong><br />
+            <br />
+            (Net benefit or harm substantial)</th>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is substantial<br />
+            <br />
+            Applies to most patients in most circumstances and future research is unlikely to change confidence</td>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is substantial<br />
+            <br />
+            Applies to most patients in most circumstances but better evidence could change confidence</td>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) appears substantial<br />
+            <br />
+            Applies to most patients in most circumstances but better evidence is likely to change confidence (rarely used to support a Strong Recommendation)</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;><strong>Moderate Recommendation</strong><br />
+            <br />
+            (Net benefit or harm moderate)</th>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is moderate<br />
+            <br />
+            Applies to most patients in most circumstances and future research is unlikely to change confidence</td>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) is moderate<br />
+            <br />
+            Applies to most patients in most circumstances but better evidence could change confidence</td>
+            <td valign=&quot;top&quot;>Benefits &amp;gt; Risks/Burdens (or vice versa)<br />
+            <br />
+            Net benefit (or net harm) appears moderate<br />
+            <br />
+            Applies to most patients in most circumstances but better evidence could change confidence</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;><strong>Conditional Recommendation</strong><br />
+            <br />
+            (No apparent net benefit or harm)</th>
+            <td valign=&quot;top&quot;>Benefits = Risks/Burdens<br />
+            <br />
+            Best action depends on individual patient circumstances<br />
+            <br />
+            Future research unlikely to change confidence<br />
+            </td>
+            <td valign=&quot;top&quot;>Benefits = Risks/Burdens<br />
+            <br />
+            Best action depends on individual patient circumstances<br />
+            <br />
+            Better evidence could change confidence</td>
+            <td valign=&quot;top&quot;>Balance between Benefits &amp;amp; Risks/Burdens unclear<br />
+            <br />
+            Alternative strategies may be equally reasonable<br />
+            <br />
+            Better evidence likely to change confidence</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;><strong>Clinical Principle</strong></th>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>A statement about a component of clinical care that is widely agreed upon by urologists or other clinicians for which there may or may not be evidence in the medical literature</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;><strong>Expert Opinion</strong></th>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>A statement, achieved by consensus of the Panel, that is based on members' clinical training, experience, knowledge, and judgment for which there is no evidence</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Published cost analyses were reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American Urological Association Education and Research, Inc. (AUA) conducted a thorough peer review process. The draft guideline document was distributed to 128 peer reviewers, 67 of which submitted comments. The Panel reviewed and discussed all submitted comments and revised the draft as needed. Once finalized, the guideline was submitted for approval to the Practice Guidelines Committee (PGC) and Science and Quality Council (S&amp;amp;Q). Then it was submitted to the AUA, American Society for Radiation Oncology (ASTRO),  American Society of Clinical Oncology (ASCO), and Society of Urologic Oncology (SUO) Board of Directors for final approval.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A thorough history and physical examination will help to determine optimal management and may impact both the readiness for surgery and the type of procedure or urinary diversion that is best suited for the patient. </li>
+    <li>Utilization of clinical pathways is associated with decreased narcotic usage, lower incidence of postoperative ileus, and shorter hospital length of stay. </li>
+    <li>The use of intermittent pneumatic compression along with pharmacologic agents such as low-dose unfractionated heparin (LDUH) and low molecular weight heparin (LMWH) have been shown to reduce venous thromboembolic risk in patients undergoing a variety of general surgical, urological, and orthopedic procedures. </li>
+    <li>The use of peripherally active &amp;mu;-opioid receptor antagonists has been shown to enhance the recovery of bowel function and decrease hospital length of stay in patients undergoing radical cystectomy and other abdominal surgical procedures. </li>
+    <li>Appropriate stoma education with nurse specialists can shorten the hospital length of stay and reduce subsequent stoma-related complications. Detailed teaching may also improve health-related QOL for patients undergoing stoma surgery. </li>
+    <li>In multiple prospective trials, the ability to resect all tumor predicted the best response to bladder preserving therapies. In prospective studies from the Radiation Therapy Oncology Group (RTOG) and from single institutions, the rates of local control are approximately 20% higher if a visibly complete resection was achieved at transurethral resection of bladder tumor (TURBT). </li>
+    <li>The Bladder Cancer 2001 trial of 360 patients demonstrated that concurrent chemo-radiation using 5-fluorouracil (5-FU) and mitomycin C significantly improved loco-regional disease-free survival when compared to radiation alone. Survival at 5 years was higher with chemo-radiotherapy, but the study was not powered to determine a difference in overall survival. Many prospective studies have reported high rates of local control (&amp;gt;70%) in patients selected for treatment on protocols that included cisplatin with or without 5-FU. </li>
+    <li>Over the last 25 years there has been extensive research on the positive effects of support groups as a method of coping with cancer and improving QOL. Support groups help reduce the three most significant stressors associated with cancer: unwanted aloneness, loss of control, and loss of hope. </li>
+    <li>Studies have shown that a healthy diet helps to prevent late effects, such as obesity, heart disease, and metabolic syndrome. </li>
+</ul>
+<p>The magnitude of benefit or risk/burdens, and the Panel's judgment regarding the balance between benefits and risks/burdens are taken into account for each guideline statement. Refer to the original guideline document for additional discussion of evidence of benefits for specific statements. </p>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A review of cystectomy procedures in patients over 65 found that complication rates ranged extensively and included ileus (2%&amp;ndash;32%), infections (mainly pyelonephritis, 5%&amp;ndash;39%), and urinary diversion&amp;ndash;related complications (up to 33%). Although a significant proportion of complications are less severe, high-grade complications have been observed in approximately 20% of patients after radical cystectomy. Mortality rates are less than 3% in most series but can be as high as 4% to 6% in patients over 75 years of age. Readmission rates range from 10% to 30%, and a recent retrospective review reported that of those readmitted, 26% required readmission to an intensive care unit. </li>
+    <li>Bladder preserving multi-modal therapy has been associated with early and late (greater than 120 days post-therapy) toxicities. Bladder preserving multi-modal therapies for bladder cancer can also adversely impact long-term urinary and sexual function. </li>
+    <li>Patients who undergo ileal conduit urinary diversion will have to contend with external appliances and potential issues with leakage or stomal complications. Patients with continent cutaneous reservoirs require self-catheterization for the rest of their lives and have the potential for incontinence via their stoma, stricture, pouchitis, pouch stones, and metabolic derangements. Patients with neobladders have a risk of incontinence (especially night-time), bladder neck contractures, voiding dysfunction with retention, fistula formation, as well as the risk of metabolic issues. The risk of urinary retention, described in the literature as hypercontinence (failure to empty), is higher in women. </li>
+    <li>There are also significant risks of sexual dysfunction. Nerve-sparing cystectomy is not commonly utilized, and even with this approach the risk of impotence is 40% or greater. Similarly, a review assessing female sexual function post radical cystectomy and urinary diversion found that loss of sexual desire and orgasmic disorders were frequently reported (49% and 39%, respectively). Dyspareunia and vaginal lubrication disorders were also reported in 25% and 9.5%, respectively. In female patients receiving gynecologic organ- or nerve-sparing cystectomy, the incidence of sexual dysfunction was reduced to 10% versus 59% for those receiving conventional cystectomy. </li>
+    <li>While the data is scant, there is a known harmful impact of pelvic radiation on sexual function in both men and women. Furthermore, as noted above, there is a risk for late genitourinary and gastrointestinal toxicity. Urinary symptoms can vary from obstructive symptoms, such as worsening stream, to irritative symptoms, such as frequency/urgency/nocturia, and bleeding. Bowel symptoms can include loose stools, diarrhea, hematochezia, or tenesmus. </li>
+    <li>Metabolic and nutritional issues can result from urinary diversions. Resection of an ileal or colonic segment of bowel may result in malabsorption of bile salts, although this is uncommon for conduits. Use of the distal ileum may also lead to inadequate absorption of vitamin B12 intrinsic factor complex resulting in megaloblastic anemia or neurological symptoms. There is also a risk for electrolyte abnormalities due to reabsorption of excreted metabolites, with hyperchloremic hypokalemic metabolic acidosis representing the most common abnormality for ileal and colonic segments. </li>
+    <li>Several studies have noted a risk of decline in long-term renal function in patients undergoing cystectomy. There may also be a higher risk of fracture after cystectomy, possibly as a consequence of metabolic acidosis. </li>
+    <li>Thromboembolic risk following a major pelvic surgery such as radical cystectomy is significant and exposes patients to a potentially life-threatening postoperative complication. </li>
+</ul>
+<p>The magnitude of benefit or risk/burdens, and the Panel's judgment regarding the balance between benefits and risks/burdens are taken into account for each guideline statement. Refer to the original guideline document for additional discussion of evidence of harms for specific statements. </p>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Cisplatin eligibility is a major determinant of candidacy for neoadjuvant chemotherapy (NAC). Toxicities of cisplatin, including nephrotoxicity, diminished cardiac function, neurotoxicity, and hearing loss, preclude 30% to 50% of muscle-invasive bladder cancer (MIBC) patients from safe receipt of cisplatin-based chemotherapy. In addition, reduced performance status (PS) (World Health Organization [WHO] or Eastern Cooperative Oncology Group [ECOG] PS &amp;ge;2 or Karnofsky performance status of &amp;le;60% to 70%) is associated with increased toxic effects of cisplatin. Baseline renal dysfunction with an estimated or calculated creatinine clearance &amp;lt;60 ml/min is generally felt to preclude patients from cisplatin-based chemotherapy, although selected patients may be treated by using split-dosing of cisplatin and aggressive hydration. New York Heart Association Class III-IV heart failure (marked or severe limitation in activity) is felt to be exclusionary due to the volume of intravenous fluid required for safe cisplatin administration. Hearing loss at baseline consisting of a decrease of &amp;gt;25 dB in at least one ear at two contiguous frequencies (Common Terminology Criteria for Adverse Events [CTCAE] v4.0 grade 2 hearing loss) is also considered a contraindication, as cisplatin may lead to an additional 20 dB loss in patients, resulting in severe hearing loss. Cisplatin-induced peripheral neuropathy is increased in patients with pre-existing sensory neuropathy and may preclude treatment. </li>
+    <li>Absolute contraindications to continent diversion include 1) insufficient bowel segment length; 2) inadequate motor function or psychological issues that limit the ability to perform self-catheterization; 3) inadequate renal or hepatic function that increases the risk metabolic abnormalities as a consequence of reabsorption of urine from continent diversions (e.g., an estimated glomerular filtration rate [eGFR] &amp;lt;45); 4) cancer at the urethral margin (specifically for orthotopic neobladder); and 5) significant urethral stricture disease that is not correctable. </li>
+    <li>&amp;mu;-opioid receptor antagonists are contraindicated in patients who have taken opioids for one week or greater prior to surgery. </li>
+    <li>Patients with adenocarcinomas, sarcomas, and squamous cell carcinomas have not been included in prospective studies of radiation-based bladder preservation and thus should not receive this therapy unless medically unfit for cystectomy. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>While these guidelines do not necessarily establish the standard of care, the American Urological Association Education and Research, Inc. (AUA) seeks to recommend and to encourage compliance by practitioners with current best practices related to the condition being treated. As medical knowledge expands and technology advances, the guidelines will change. Today these evidence-based guidelines statements represent not absolute mandates but provisional proposals for treatment under the specific conditions described in each document. For all these reasons, the guidelines do not pre-empt physician judgment in individual cases. </li>
+    <li>Treating physicians must take into account variations in resources, and patient tolerances, needs, and preferences. Conformance with any clinical guideline does not guarantee a successful outcome. The guideline text may include information or recommendations about certain drug uses ('off label') that are not approved by the Food and Drug Administration (FDA), or about medications or substances not subject to the FDA approval process. AUA urges strict compliance with all government regulations and protocols for prescription and use of these substances. The physician is encouraged to carefully follow all available prescribing information about indications, contraindications, precautions and warnings. These guidelines and best practice statements are not intended to provide legal advice about use and misuse of these substances. </li>
+    <li>Although guidelines are intended to encourage best practices and potentially encompass available technologies with sufficient data as of close of the literature review, they are necessarily time-limited. Guidelines cannot include evaluation of all data on emerging technologies or management, including those that are FDA-approved, which may immediately come to represent accepted clinical practices. For this reason, the AUA does not regard technologies or management which are too new to be addressed by this guideline as necessarily experimental or investigational. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Treatment of non-metastatic muscle-invasive bladder cancer: AUA/ASCO/ASTRO/SUO guideline. Linthicum (MD): American Urological Association Education and Research, Inc.; 2017 Mar. 42 p.  [277 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2017 Mar"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American Society for Radiation Oncology - Professional Association"/>
+      <fieldvalue value="American Society of Clinical Oncology - Medical Specialty Society"/>
+      <fieldvalue value="American Urological Association Education and Research, Inc. - Medical Specialty Society"/>
+      <fieldvalue value="Society of Urologic Oncology - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Funding of the Panel was provided by the American Urological Association Education and Research, Inc. (AUA). Panel members received no remuneration for their work.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Muscle-Invasive Bladder Cancer Panel</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Panel Members</em>: Sam S. Chang, MD, MBA, FACS (<em>Chair</em>), Vanderbilt University Medical Center, Nashville, TN; Jeffrey M. Holzbeierlein, MD, FACS (<em>Vice Chair</em>), Kansas University Medical Center, Kansas City, KS; Bernard H. Bochner, MD, FACS, Memorial Sloan Kettering Cancer Center, New York, NY; Robert Dreicer, MD, MS, MACP, FASCO, University of Virginia, Charlottesville, VA; Ashish M. Kamat, MD, MBBS, FACS, MD Anderson Cancer Center, Houston, TX; Seth P. Lerner, MD, FACS, Baylor College of Medicine, Houston, TX; Yair Lotan, MD, UT Southwestern, Dallas, TX; Joshua J. Meeks, MD, PhD, Northwestern University, Chicago, IL; Jeff M. Michalski, MD, MBA, Washington University School of Medicine, Saint Louis, MO; Todd M. Morgan, MD, University of Michigan, Ann Arbor, MI; Diane Z. Quale, Bladder Cancer Advocacy Network (BCAN), Bethesda, MD; Jonathan E. Rosenberg, MD, Memorial Sloan Kettering Cancer Center, New York, NY; Anthony L. Zietman, MD, Massachusetts General Hospital, Salem, MA</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><span style=&quot;text-decoration: underline;&quot;><strong>Conflict of Interest (COI) Disclosures</strong></span></p>
+<p>All panel members completed COI disclosures. Disclosures listed include both topic&amp;ndash; and non-topic-related relationships. </p>
+<p><strong>Consultant/Advisor</strong>: <strong>Sam S. Chang</strong>, Astellas, GLG, Janssen; <strong>Jeffrey M. Holzbeierlein</strong>, Janssen; <strong>Robert Dreicer</strong>, Asana, Genentech, Churchill Pharma; <strong>Ashish Kamat</strong>, Photocure, Sanofi, Abbott, Theralase, Telesta, Heat Biologics, Merck, Spectrum Pharmaceuticals, Oncogenix; <strong>Seth Paul Lerner</strong>, Theracoat, Biocancell, Vaxxion, Sitka, Nucleix, OncoGeneX, Taris Biomedical; <strong>Yair Lotan</strong>, Danone, MDxHealth; <strong>Todd M. Morgan</strong>, Myriad Genetics, MDxHealth; <strong>Jonathan E. Rosenberg</strong>, Oncogenex, Eli Lilly, Genentech </p>
+<p><strong>Meeting Participant or Lecturer</strong>: <strong>Jeffrey M. Holzbeierlein</strong>, Janssen; <strong>Ashish Kamat</strong>, Photocure, Sanofi, Pacific Edge </p>
+<p><strong>Scientific Study or Trial</strong>: <strong>Sam S. Chang</strong>, NIH; <strong>Bernard H. Bochner</strong>, Genentech; <strong>Ashish Kamat</strong>, FKD, Photocure, Heat Biologics, Merck; <strong>Seth Paul Lerner</strong>, Endo, FKD, Dendreon, Viventia; <strong>Yair Lotan</strong>, Abbott, Danone, Cepheid, Pacific Edge, FKD, Biocancell, Genomic Health, GenomeDX Biosciences, Photocure; <strong>Todd M. Morgan</strong>, Myriad Genetics; <strong>Jonathan E. Rosenberg</strong>, Oncogenex, Genentech, Astellas, Mirati </p>
+<p><strong>Leadership Position</strong>: <strong>Todd M. Morgan</strong>, Visible Health; <strong>Jonathan E. Rosenberg</strong>, BCAN, NCI, Alliance for Clinical Trials in Oncology; <strong>Anthony L. Zietman</strong>, American Board of Radiology, NCI, ASTRO </p>
+<p><strong>Investment Interest</strong>: <strong>Jonathan E. Rosenberg</strong>, Merck, Illumina </p>
+<p><strong>Health Publishing</strong>: <strong>Jonathan E. Rosenberg</strong>, Uptodate.com </p>
+<p><strong>Other</strong>: <strong>Joshua J. Meeks</strong>, NCCN </p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria. </p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://www.auanet.org/documents/education/clinical-guidance/Muscle-Invasive-Bladder-Cancer.pdf&quot; title=&quot;American Urological Association Education and Research, Inc. (AUA) Web site&quot;>American Urological Association Education and Research, Inc. (AUA) Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Treatment of nonmetastatic muscle-invasive bladder cancer. Comparative Effectiveness Review No. 152. AHRQ Publication No. 15-EHC015-EF. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Jun. 256 p. Available from the <a href=&quot;https://effectivehealthcare.ahrq.gov/sites/default/files/pdf/bladder-cancer-muscle-invasive_research.pdf&quot; title=&quot;Agency for Healthcare Research and Quality (AHRQ) Web site&quot; target=&quot;_blank&quot;>Agency for Healthcare Research and Quality (AHRQ) Web site</a>. </li>
+    <li>Holzbeierlein JM, Weigel JW. Treatment of non-metastatic muscle-invasive bladder cancer: AUA/ASCO/ASTRO/SUO guideline. Presentation from the 2017 AUA Annual Meeting. Linthicum (MD): American Urological Association Education and Research, Inc. (AUA); 2017 May. 22 p. Available from the <a href=&quot;http://www.auanet.org/Documents/education/clinical-guidance/MIBC-Plenary-Slides.pdf&quot; title=&quot;American Urological Association Education and Research, Inc. (AUA) Web site&quot;>AUA Web site</a>. </li>
+</ul>
+<p>The AUA Guidelines-At-A-Glance mobile app is available for download from the <a href=&quot;http://auanet.org/guidelines&quot; title=&quot;AUA Web site&quot;>AUA Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>What is muscle-invasive bladder cancer? [internet]. Linthicum (MD): Urology Care Foundation. Available from the <a href=&quot;http://www.urologyhealth.org/urologic-conditions/muscle-invasive-bladder-cancer&quot; title=&quot;Urology Care Foundation Web site&quot;>Urology Care Foundation Web site</a>. </li>
+    <li>Muscle invasive cancer patient guide. Linthicum (MD): Urology Care Foundation; 2017. Available from the <a href=&quot;http://www.urologyhealth.org/educational-materials/muscle-invasive-bladder-cancer-patient-guide&quot; title=&quot;Urology Care Foundation Web site&quot;>Urology Care Foundation Web site</a>. </li>
+</ul>
+<p class=&quot;Note&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content. </p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on February 5, 2018. The information was verified by the guideline developer on February 19, 2018.</p>
+<p>This NEATS assessment was completed by ECRI Institute on January 12, 2018. The information was verified by the guideline developer on February 19, 2018.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is copyrighted by the American Urological Association Education and Research, Inc. (AUA).</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 06:35:24 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:29:41 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 68.248 (3)
+  esindex: 0.01
+  captures_list: 87.975
+  CDXLines.iter: 14.605 (3)
+  PetaboxLoader3.datanode: 54.635 (4)
+  exclusion.robots: 0.441
+  exclusion.robots.policy: 0.423
+  RedisCDXSource: 1.59
+  load_resource: 22.774
+-->

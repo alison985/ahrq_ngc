@@ -1,0 +1,930 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app57.us.archive.org';v.server_ms=196;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11229?contentType=xml', '20180713004250')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713004250/https://www.guideline.gov/summaries/downloadcontent/ngc-11229?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713004250/https://www.guideline.gov/summaries/downloadcontent/ngc-11229?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11229?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713004250" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180609151600/https://www.guideline.gov/summaries/downloadcontent/ngc-11229?contentType=xml" title="09 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 00:42:50 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180609151600/https://www.guideline.gov/summaries/downloadcontent/ngc-11229?contentType=xml" title="15:16:00 Jun 09, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 00:42:50 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2017</td>
+		  <td class="c" id="displayYearEl" title="You are here: 00:42:50 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713004250*/https://www.guideline.gov/summaries/downloadcontent/ngc-11229?contentType=xml" title="See a list of every capture for this URL">4 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">13 Apr 2018 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11229?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Clinical practice guideline (update): earwax (cerumen impaction).</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Schwartz SR, Magit AE, Rosenfeld RM, Ballachanda BB, Hackell JM, Krouse HJ, Lawlor CM, Lin K, Parham K, Stutz DR, Walsh S, Woodson EA, Yanagisawa K, Cunningham ER Jr. Clinical practice guideline (update): earwax (cerumen impaction). Otolaryngol Head Neck Surg. 2017 Jan;156 (Suppl 1):S1-S29. [121 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=28045591&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Roland PS, Smith TL, Schwartz SR, Rosenfeld RM, Ballachanda B, Earll JM, Fayad J, Harlor AD Jr, Hirsch BE, Jones SS, Krouse HJ, Magit A, Nelson C, Stutz DR, Wetmore S. Clinical practice guideline: cerumen impaction. Otolaryngol Head Neck Surg. 2008 Sep;139(3 Suppl 2):S1-21. [97 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="705" ordby="150" name="NEATS Assessment">
+    <field fieldid="183" ordby="10" id="706" name="Disclosure of Guideline Funding Source" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="184" ordby="20" id="707" name="Disclosure and Management of Financial Conflict of Interests" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="185" ordby="30" id="708" name="Guideline Development Group Composition: Multidisciplinary Group" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="186" ordby="40" id="709" name="Guideline Development Group Composition: Methodologist Involvement" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="187" ordby="50" id="710" name="Guideline Development Group Composition: Patient and Public Perspectives" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="188" ordby="60" id="711" name="Use of a Systematic Review of Evidence: Search Strategy" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="189" ordby="70" id="712" name="Use of a Systematic Review of Evidence: Study Selection" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="190" ordby="80" id="713" name="Use of a Systematic Review of Evidence: Synthesis of Evidence" type="picklist-one">
+      <fieldvalue value="3"/>
+    </field>
+    <field fieldid="191" ordby="90" id="714" name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="192" ordby="100" id="715" name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="193" ordby="110" id="716" name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="194" ordby="120" id="717" name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="195" ordby="130" id="718" name="Specific and Unambiguous Articulation of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="196" ordby="140" id="719" name="External Review" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="197" ordby="150" id="720" name="Updating" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The evidence grades (<strong>A-D, X</strong>) and evidence-based statements (<strong>Strong Recommendation, Recommendation</strong>, and <strong>Option</strong>) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 1. Primary Prevention</span></strong></p>
+<p>Clinicians should explain proper ear hygiene to prevent cerumen impaction when patients have an accumulation of cerumen.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on observational studies and a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Communicating safe preventive measures to patients (National Quality Strategy domain: patient and family engagement) </li>
+    <li>Aggregate evidence quality: Grade C, based on preponderance of survey studies and 1 prospective pilot study </li>
+    <li>Level of confidence in evidence: Medium </li>
+    <li>Benefit: Promote safe and effective self-care behaviors in ear hygiene; prevent self-inflicted harms, such as abrasions, cuts, and impaction; reduction in health care utilization </li>
+    <li>Risks, harms, costs: Induced patient anxiety regarding an asymptomatic condition; time spent in counseling; potential for increased use of health care resources if self-cleaning with cotton-tipped applicators is abandoned </li>
+    <li>Benefit-harm assessment: Preponderance of benefit </li>
+    <li>Value judgments: Perception by the group that patients overmanipulate the ears (i.e., cotton swab use) and that there is benefit in educating patients about proper ear hygiene </li>
+    <li>Intentional vagueness: The term <em>proper ear hygiene</em> is used and is discussed in detail in the text. The term <em>accumulation</em> is used but not precisely defined, as it is up to the clinician to determine. This statement applies to patients with impacted cerumen and those who are at risk. </li>
+    <li>Role of patient preferences: Small; patient can decline education </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Statement 2A. Diagnosis of Cerumen Impaction</strong></span></p>
+<p>Clinicians should diagnose cerumen impaction when an accumulation of cerumen, as seen with otoscopy, 1) is associated with symptoms, 2) prevents needed assessment of the ear, or 3) both.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on diagnostic studies with minor limitations and a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong>:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Allow for accurate diagnosis and properly identify patients in need of treatment (National Quality Strategy domain: clinical processes/effectiveness) </li>
+    <li>Aggregate evidence quality: Grade B for diagnostic studies with minor limitations regarding impact of cerumen on hearing and visualizations and grade C with respect to signs and symptoms associated with cerumen impaction </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Identify individuals with cerumen impaction who require intervention, including those with otologic symptoms and those who require diagnostic assessment (raise awareness of the consequences of cerumen impaction&amp;mdash;e.g., cerumen impaction prevents caloric stimulation during electronystagmography) </li>
+    <li>Risks, harms, costs: Overdiagnosis of cerumen impaction based on symptoms as a criterion resulting in failure to identify another cause of the symptoms; no additional cost </li>
+    <li>Benefits-harm assessment: Preponderance of benefits over harms </li>
+    <li>Value judgments: Emphasis on clinical symptoms and signs for initial diagnosis; importance of avoiding unnecessary diagnostic tests; consensus on using the term <em>cerumen impaction</em> to imply cerumen that requires treatment </li>
+    <li>Intentional vagueness: Symptoms are defined in the supporting text (see the original guideline document); prevention of needed assessments is defined by the clinician </li>
+    <li>Role of patient preferences: None </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 2B. Modifying Factors</span></strong></p>
+<p>Clinicians should assess the patient with cerumen impaction by history and/or physical examination for factors that modify management such as &amp;ge;1 of the following: anticoagulant therapy, immunocompromised state, diabetes mellitus, prior radiation therapy to the head and neck, ear canal stenosis, exostoses, nonintact tympanic membrane.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on observational studies with a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong>:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Avoiding harms from intervention in people at increased risk based on patient characteristics (National Quality Strategy domain: patient safety) </li>
+    <li>Aggregate evidence quality: Grade C, recommendations regarding diabetes mellitus and prior radiation therapy; Grade D, recommendations regarding immunocompromised state, anticoagulation, and anatomic abnormalities of the ear canal and tympanic membrane </li>
+    <li>Level of confidence in evidence: Medium </li>
+    <li>Benefit: Reduce complications </li>
+    <li>Risks, harms, costs: Time of the assessment </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Consensus that identifying modifying factors will improve outcomes </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: None </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 3A. Need for Intervention if Impacted</span></strong></p>
+<p>Clinicians should treat, or refer to another clinician who can treat, cerumen impaction when identified.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Strong recommendation</span></em> based on randomized controlled trials (RCTs) with heterogeneity with a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong>:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Prioritize patients for intervention (National Quality Strategy domain: clinical processes/effectiveness) </li>
+    <li>Aggregate evidence quality: Grade B, RCTs with heterogeneity </li>
+    <li>Level of confidence in the evidence: High </li>
+    <li>Benefit: Improved hearing and symptom relief compared with no treatment </li>
+    <li>Risks, harms, costs: Potential complications related to treatment; direct cost of managing the impaction </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: None </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Small </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Strong recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 3B. Nonintervention if Asymptomatic</span></strong></p>
+<p>Clinicians should not routinely treat cerumen in patients who are asymptomatic and whose ears can be adequately examined.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation against</span></em> based on control groups in randomized trials and observational studies and a preponderance of benefit over harms.</p>
+<p><strong>Action Statement Profile</strong>:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Avoidance of harm, efficient use of health care resources (National Quality Strategy domains: patient safety and efficient use of health care resources) </li>
+    <li>Aggregate evidence quality: Grade C, control groups in randomized trials and observational studies </li>
+    <li>Level of confidence in the evidence: Medium </li>
+    <li>Benefit: Avoid unnecessary treatment with potential adverse events and costs </li>
+    <li>Risks, harms, costs: Potential progression to impaction </li>
+    <li>Benefit-harm assessment: Preponderance of benefit over harms </li>
+    <li>Value judgments: The presence of cerumen is not in itself harmful, and it may not progress to impaction; in fact, it may resolve spontaneously. If it progresses, it can be managed at that time. </li>
+    <li>Intentional vagueness: The word <em>routinely</em> was added to this statement to acknowledge that there may be circumstances where cerumen removal may be offered anyway, as in a patient with hearing aids. </li>
+    <li>Role of patient preferences: Substantial role for shared decision making. The patient may still opt for removal of the cerumen. </li>
+    <li>Exceptions: Medical reasons for exceptions to this statement include, but are not limited to, history of recurrent cerumen impaction </li>
+    <li>Policy level: Recommendation against </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 3C. Need for Intervention in Special Populations</span></strong></p>
+<p>Clinicians should identify patients with obstructing cerumen in the ear canal who may not be able to express symptoms (young children and cognitively impaired children and adults), and they should promptly evaluate the need for intervention.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on cohort and observational studies with a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong>:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Efficient use of health care resources and coordination of care (National Quality Strategy domains: care coordination and efficient use of health care resources) </li>
+    <li>Aggregate evidence quality: Grade C, cohort and observational studies </li>
+    <li>Level of confidence in the evidence: High </li>
+    <li>Benefit: Improved hearing and functional health status; improved evaluation of external auditory canal, tympanic membrane, and middle ear </li>
+    <li>Risks, harms, costs: Potential overtreatment of cerumen that is asymptomatic; evaluation and treatment costs; substantial administrative burden in settings with a high prevalence of cognitively impaired individuals, such as nursing homes and institutional facilities </li>
+    <li>Benefit-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Importance of identifying and treating cerumen impaction in special populations </li>
+    <li>Intentional vagueness: The term <em>young children</em> does not specify age but rather indicates children who are unable or too immature to express symptoms or who fail to disclose real symptoms out of fear of treatment. Additionally, the term <em>promptly</em> does not specify a time frame but allows for clinical judgment regarding how expedient the evaluation should be. </li>
+    <li>Role of patient preferences: None for the patient but moderate for patient advocates </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 4. Intervention in Hearing Aid Users</span></strong></p>
+<p>Clinicians should perform otoscopy to detect the presence of cerumen in patients with hearing aids during a health care encounter.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on cohort and observational studies with a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong>:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Effective use of health care resources and prevention of problems with hearing aid use in high-risk populations (National Quality Strategy domains: efficient use of health care resources and clinical processes/effectiveness) </li>
+    <li>Aggregate evidence quality: Grade C, observational studies </li>
+    <li>Level of confidence in the evidence: High </li>
+    <li>Benefit: Prevent hearing aid dysfunction and associated repair costs </li>
+    <li>Risks, harms, costs: Overtreatment of asymptomatic cerumen </li>
+    <li>Benefit-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Cerumen can have a disproportionate effect on patients with hearing aids due to their underlying hearing loss and the impact of the cerumen on the hearing aids, even if there is not an actual impaction. </li>
+    <li>Intentional vagueness: The term <em>health care encounter</em> is somewhat vague but is intended to indicate any time that a patient with a hearing aid is assessed by a health care worker. </li>
+    <li>Role of patient preferences: Small </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 5A. Recommended Interventions</span></strong></p>
+<p>Clinicians should treat, or refer to a clinician who can treat, the patient with cerumen impaction with an appropriate intervention, which may include one or more of the following: cerumenolytic agents, irrigation, or manual removal requiring instrumentation.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on RCTs and observational studies with a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Engage patient and family; promote the use of effective therapy (National Quality Strategy domains: patient and family engagement and clinical processes/effectiveness) </li>
+    <li>Aggregate evidence quality: Grade B<strong>, </strong>RCTs with limitations and cohort studies </li>
+    <li>Level of confidence in the evidence: High </li>
+    <li>Benefit: Improved cerumen removal by using effective therapies and to avoid harm from ineffective or untested therapies </li>
+    <li>Risks, harms, cost: Specific adverse effects related to treatments used; no cost associated with the decision to use appropriate therapy </li>
+    <li>Benefit-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Therapy should be effective and minimize harm </li>
+    <li>Intentional vagueness: This does not specify one method as superior, as studies have not compared them head-to-head and all may be effective. </li>
+    <li>Role of patient preferences: Large </li>
+    <li>Exceptions: Irrigation and cerumenolytics should not be used in the setting of a nonintact tympanic membrane. </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 5B. Contraindicated Intervention (Ear Candling/Coning)</span> </strong></p>
+<p>Clinicians should recommend against ear candling/coning for treating or preventing cerumen impaction.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation against</span></em> based on RCTs and observational studies with a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Reducing harm and avoiding ineffective treatments (National Quality Strategy domain: patient safety and clinical processes/effectiveness) </li>
+    <li>Aggregate evidence quality: Grade C </li>
+    <li>Level of confidence in evidence: Medium </li>
+    <li>Benefit: Avoid ineffective therapy; avoid harms; cost savings; prevent delay of effective therapy </li>
+    <li>Risks, harms, costs: None </li>
+    <li>Benefit-harm assessment: Preponderance of benefit </li>
+    <li>Value judgments: Strong consensus of the group to avoid potentially harmful and costly therapies with no proven benefit </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: None </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Recommendation against </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 6. Cerumenolytic Agents</span></strong></p>
+<p>Clinicians may use cerumenolytic agents (including water or saline solution) in the management of cerumen impaction.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Option</span></em> based on limited randomized trials with a balance of benefit and harm.</p>
+<p><strong>Action Statement Profile</strong>:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Encourage use of effective care; promote effective therapy (National Quality Strategy domain: clinical processes/effectiveness) </li>
+    <li>Aggregate evidence quality: Grade C, individual treatment arms of randomized trials showing beneficial outcomes, 1 RCT suggesting better outcomes over no treatment </li>
+    <li>Level of confidence in the evidence: High </li>
+    <li>Benefit: Safe and effective removal of impacted cerumen </li>
+    <li>Risks, harms, costs: Potential external otitis, allergic reactions, and otalgia; cost of cerumenolytic agents other than water or saline solution, cost of procedure if performed in an office setting </li>
+    <li>Benefit-harm assessment: Balance of benefit and harm </li>
+    <li>Value judgments: The panel values cost control and safety in view of limited data on absolute and comparative efficacy </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Large role for shared decision making </li>
+    <li>Exceptions: Medical reasons for exceptions to this statement include, but are not limited to, persons with a history of allergic reactions to any component, persons with infection of the ear canal or active dermatitis, and persons with a nonintact tympanic membrane. </li>
+    <li>Policy level: Option </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 7. Irrigation</span></strong></p>
+<p>Clinicians may use irrigation in the management of cerumen impaction.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Option</span></em> based on RCTs with heterogeneity and with a balance of benefit and harm.</p>
+<p><strong>Action Statement Profile</strong>:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Promote effective therapy (National Quality Strategy domain: clinical processes/effectiveness) </li>
+    <li>Aggregate evidence quality: Grade B, 1 RCT verifying absolute efficacy but multiple treatment arms of comparative studies verifying benefit over cerumenolytic alone </li>
+    <li>Level of confidence in the evidence: High </li>
+    <li>Benefit: Resolve cerumen impaction </li>
+    <li>Risks, harms, costs: External otitis, vertigo, tympanic membrane perforation, otalgia, temporal bone osteomyelitis; cost of supplies and procedure </li>
+    <li>Benefit-harm assessment: Balance of benefit and harm </li>
+    <li>Value judgments: Panel enthusiasm was tempered by the lack of appropriate head-to-head trials comparing irrigation to manual removal or cerumenolytics </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Large </li>
+    <li>Exceptions: Medical reasons for exceptions to this statement include, but are not limited to, persons with open tympanic membrane, active dermatitis or infection of the ear canal and surrounding tissue, previous intolerance or adverse reaction to this technique, anatomic abnormalities of the ear canal, or history of surgery of the ear or ear canal (including ear tubes). </li>
+    <li>Policy level: Option </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Statement 8. Manual Removal</strong></span></p>
+<p>Clinicians may use manual removal requiring instrumentation in the management of cerumen impaction.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Option</span></em> based on case series and expert opinion with a balance of benefit and harm.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Promote effective therapy (National Quality Strategy domain: clinical processes/effectiveness) </li>
+    <li>Aggregate evidence quality: Grade C, observational case series and expert opinion </li>
+    <li>Level of confidence in the evidence: High </li>
+    <li>Benefit: Removal of cerumen impaction under direct visualization </li>
+    <li>Risks, harms, costs: Bleeding, laceration, tympanic membrane perforation, otalgia; procedural cost; equipment cost </li>
+    <li>Benefit-harm assessment: Balance of benefit and harm </li>
+    <li>Value judgments: Recommendation acknowledges widespread practice of manual removal, but this is tempered by the relative absence of evidence </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Large </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Option </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 9. Outcomes Assessment</span></strong></p>
+<p>Clinicians should assess patients at the conclusion of in-office treatment of cerumen impaction and document the resolution of impaction. If the impaction is not resolved, the clinician should use additional treatment. If full or partial symptoms persist despite resolution of impaction, the clinician should evaluate the patient for alternative diagnoses.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on RCTs with limitations (supporting a failure of clearance of cerumen in some cases) and with a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Ensuring effectiveness of treatment to optimize patient outcomes and ensuring accurate diagnosis of cause of symptoms (National Quality Strategy domain: clinical processes/effectiveness) </li>
+    <li>Aggregate evidence quality: Grade C. Observation in treatment arms of several randomized trials show that retreatment is sometimes necessary and can be effective; first principles support evaluation for efficacy after treatment. </li>
+    <li>Level of confidence in the evidence: High </li>
+    <li>Benefit: Detect complications; encourage proper diagnosis; ensure effective therapy </li>
+    <li>Risks, harms, costs: See sections on individual treatments; cost of additional treatment or evaluation </li>
+    <li>Benefit-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Importance of clinician assessment after treatment; avoid misdiagnosis </li>
+    <li>Intentional vagueness: The term <em>additional treatment</em> does not specify what type of treatment. Additional treatment can include repeating the same treatment or trying an alternative method (i.e., manual removal if irrigation was tried first or use of softening agents if not used initially). </li>
+    <li>Role of patient preferences: Small </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Statement 10. Referral and Coordination of Care</strong></span></p>
+<p>If initial management is unsuccessful, clinicians should refer patients with persistent cerumen impaction to clinicians who have specialized equipment and training to clean and evaluate ear canals and tympanic membranes.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on individual arms of randomized trials and preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Coordination of care and effective treatment (National Quality Strategy domains: care coordination and clinical processes/effectiveness) </li>
+    <li>Aggregate evidence quality: Grade C, individual arms of randomized trials </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Promote successful removal of cerumen impaction; timely coordination of care; avoidance of harm from repeated unsuccessful interventions; avoid patient and clinician frustration; avoiding misdiagnosis </li>
+    <li>Risks, harms, costs: Cost of additional care; limited access to specialty care </li>
+    <li>Benefit-harm assessment: Preponderance of benefit </li>
+    <li>Value judgments: Skill and instruments will promote a better outcome. The level of care that can be rendered can be limited by the available equipment and training. </li>
+    <li>Intentional vagueness: The specialized equipment and training are vague but may include access to binocular microscopy, suction, microinstruments, or the operating room. Type of training is not specified, but this refers to someone with advanced capabilities of removing cerumen. Unsuccessful treatment may entail a repeat visit or multiple treatments by the initial clinician to allow for use of softening agents or spontaneous improvement of impacted cerumen. </li>
+    <li>Role of patient preferences: Small </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Statement 11. Secondary Prevention</strong></span></p>
+<p>Clinicians may educate/counsel patients with cerumen impaction or excessive cerumen regarding control measures.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Option</span></em> based on survey and comparative studies with unclear balance of benefit vs harm.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Patient and family engagement (National Quality Strategy domain: patient and family engagement) </li>
+    <li>Aggregate evidence quality: Grade C; observational studies, experimental pilot studies, and expert opinion </li>
+    <li>Level of confidence in the evidence: High </li>
+    <li>Benefit: Prevent development of cerumen impaction or recurrent cerumen impaction </li>
+    <li>Risks, harms, costs: Time for counseling and potential risk of preventive measures if used </li>
+    <li>Benefit-harm assessment: Balance benefit over harm </li>
+    <li>Value judgments: Importance of prevention in managing patients with cerumen impaction </li>
+    <li>Intentional vagueness: The term <em>excessive cerumen</em> is used to indicate when cerumen is present but not actively causing symptoms, to allow the clinician freedom to counsel patients who appear to be at risk for cerumen impaction even when the ear is not actually impacted. </li>
+    <li>Role of patient preferences: Large, opportunities for shared decision making </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Option </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Aggregate Grades of Evidence by Question Type<sup>a</sup></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Aggregate Grades of Evidence by Question Type&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Treatment</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Diagnosis</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Prognosis</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of randomized trials</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of cross-sectional studies with consistently applied reference standard and blinding</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of inception cohort studies<sup>c</sup></td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>B</td>
+            <td valign=&quot;top&quot;>Randomized trials or observational studies with dramatic effects or highly consistent evidence</td>
+            <td valign=&quot;top&quot;>Cross-sectional studies with consistently applied reference standard and blinding</td>
+            <td valign=&quot;top&quot;>Inception cohort studies<sup>c</sup></td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>C</td>
+            <td valign=&quot;top&quot;>Nonrandomized or historically controlled studies, including case-control and observational studies</td>
+            <td valign=&quot;top&quot;>Nonconsecutive studies, case-control studies, or studies with poor, nonindependent, or inconsistently applied reference standards</td>
+            <td valign=&quot;top&quot;>Cohort study, control arm of a randomized trial, case series, or case-control studies; poor-quality prognostic cohort study</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>D</td>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>Case reports, mechanism-based reasoning, or reasoning from first principles</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>Exceptional situations where validating studies cannot be performed and there is a clear preponderance of benefit over harm</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;><sup>a</sup>American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation guideline development manual (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p class=&quot;Note&quot;><sup>b</sup>A systematic review may be downgraded to level B because of study limitations, heterogeneity, or imprecision.</p>
+<p class=&quot;Note&quot;><sup>c</sup>A group of individuals identified for subsequent study at an early, uniform point in the course of the specified health condition or before the condition develops.</p>
+<p><strong>Strength of Action Terms in Guideline Statements and Implied Levels of Obligation</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Strength of Action Terms in Guideline Statements and Implied Levels of Obligation&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Strength</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Definition</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Implied Obligation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Strong Recommendation</td>
+            <td valign=&quot;top&quot;>A strong recommendation means the benefits of the recommended approach clearly exceed the harms (or, in the case of a strong negative recommendation, that the harms clearly exceed the benefits) and that the quality of the supporting evidence is high (grade A or B).<sup>a</sup> In some clearly identified circumstances, strong recommendations may be made based on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits strongly outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Recommendation</td>
+            <td valign=&quot;top&quot;>A recommendation means the benefits exceed the harms (or, in the case of a negative recommendation, that the harms exceed the benefits), but the quality of evidence is not as high (grade B or C).<sup>a</sup> In some clearly identified circumstances, recommendations may be made based on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should also generally follow a recommendation but should remain alert to new information and sensitive or patient preferences.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Option</td>
+            <td valign=&quot;top&quot;>An option means that either the quality of evidence is suspect (grade D)<sup>a</sup> or that well-done studies (grade A, B, or C)<sup>a</sup> show little clear advantage to one approach vs another.</td>
+            <td valign=&quot;top&quot;>Clinicians should be flexible in their decision making regarding appropriate practice, although they may set bounds on alternatives; patient preference should have a substantial influencing role.</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;><sup>a</sup>See the &quot;Rating Scheme for the Strength of Evidence&quot; field for definitions of evidence grades.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An algorithm titled &quot;Algorithm showing the interrelationship of guideline key action statements (KASs)&quot; is provided in the original guideline document.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Cerumen impaction, defined as an accumulation of cerumen that causes symptoms or prevents a needed assessment of the ear canal, tympanic membrane, or audiovestibular system, or both</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Geriatrics"/>
+      <fieldvalue value="Nursing"/>
+      <fieldvalue value="Otolaryngology"/>
+      <fieldvalue value="Pediatrics"/>
+      <fieldvalue value="Preventive Medicine"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To update the original multidisciplinary guideline by examining previously and newly identified quality improvement opportunities in the management of impacted cerumen </li>
+    <li>To help clinicians identify patients with cerumen impaction who may benefit from intervention and to promote evidence-based management </li>
+    <li>To highlight needs and management options in special populations or in patients who have modifying factors </li>
+    <li>To create a guideline suitable for deriving a performance measure on cerumen impaction </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients &amp;gt;6 months of age with a clinical diagnosis of cerumen impaction</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: The guideline does <em>not</em> apply to patients with cerumen impaction associated with the following conditions: dermatologic diseases of the ear canal; recurrent otitis externa; keratosis obturans; prior radiation therapy affecting the ear; exostoses or osteoma; neoplasms of the ear canal; previous tympanoplasty/myringoplasty, canal wall down mastoidectomy, or other surgery affecting the ear canal. However, the guideline discusses the relevance of these conditions in cerumen management. The following modifying factors are not the primary focus of the guideline but are discussed relative to their impact on management: nonintact tympanic membrane (perforation or tympanostomy tube), ear canal stenosis, exostoses, diabetes mellitus, immunocompromised state, anticoagulant therapy, or bleeding disorder.</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Diagnosis/Evaluation</span></strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Targeted history and physical examination for patient factors that may modify management </li>
+    <li>Otoscopy </li>
+    <li>Binocular microscopy </li>
+    <li>Identifying need for interventions in special populations (e.g., young children and cognitively impaired children and adults) </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Treatment/Management/Prevention</span></strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Education on proper hygiene </li>
+    <li>Cerumenolytic agents </li>
+    <li>Ear canal irrigation </li>
+    <li>Manual removal other than irrigation (curette, probe, forceps, suction, hook) </li>
+    <li>Ear candling/coning (contraindicated) </li>
+    <li>Outcomes assessment </li>
+    <li>Referral and coordination of care </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Resolution or change in the signs and symptoms associated with cerumen impaction </li>
+    <li>Complications/adverse events </li>
+    <li>Cost </li>
+    <li>Adherence to therapy </li>
+    <li>Quality of life </li>
+    <li>Return to work or activity </li>
+    <li>Return physician visits </li>
+    <li>Effect on comorbid conditions (e.g., sensorineural hearing loss, conductive hearing loss) </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A literature search was performed by an information specialist to identify systematic reviews, clinical practice guidelines, and randomized controlled trials (RCTs) published since the prior guideline cutoff (September 2007). The following databases were searched from October 2007 to April 2015: MEDLINE (OvidSP), EMBASE (OvidSP), AMED (OvidSP), Cumulative Index to Nursing and Allied Health, PubMed, National Guideline Clearinghouse, and Cochrane Controlled Trials Register. The databases were searched for the topic of interest with use of controlled vocabulary words and synonymous free text words (cerumen, earwax, and impaction). The search strategies were adjusted for the syntax appropriate for each database/platform.</p>
+<p>The initial English-language search identified 1 potential clinical practice guideline, 7 systematic reviews, 5 RCTs and 10 other studies. All searches were conducted on April 3, 2015. Clinical practice guidelines were included if they met quality criteria of (a) an explicit scope and purpose, (b) multidisciplinary stakeholder involvement, (c) systematic literature review, (d) explicit system for ranking evidence, and (e) explicit system for linking evidence to recommendations. Systematic reviews were emphasized and included if they met quality criteria of (a) clear objective and methodology, (b) explicit search strategy, and (c) valid data extraction methods. RCTs were included if they met quality criteria of (a) trials involved study randomization, (b) trials were described as double blind, or (c) trials denoted a clear description of withdrawals and dropouts of study participants. Additional evidence was identified, as needed, with targeted searches to support needs of the guideline development group in updating sections of the guideline text. Specifically, ear candling/coning was identified as an area of concern by the reviewers. The databases were also searched through use of controlled vocabulary words and synonymous free text words for the topic of interest (ear candling and ear coning) in this population. The search strategies were adjusted for the syntax appropriate for each database/platform. The search was not limited by date range or study design, but was limited to English language.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>In total, the evidence supporting this guideline includes 1 clinical practice guideline, 4 systematic reviews, and 5 randomized control trials.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Aggregate Grades of Evidence by Question Type</span><sup>a</sup></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Aggregate Grades of Evidence by Question Type&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Treatment</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Diagnosis</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Prognosis</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of randomized trials</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of cross-sectional studies with consistently applied reference standard and blinding</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of inception cohort studies<sup>c</sup></td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>B</td>
+            <td valign=&quot;top&quot;>Randomized trials or observational studies with dramatic effects or highly consistent evidence</td>
+            <td valign=&quot;top&quot;>Cross-sectional studies with consistently applied reference standard and blinding</td>
+            <td valign=&quot;top&quot;>Inception cohort studies<sup>c</sup></td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>C</td>
+            <td valign=&quot;top&quot;>Nonrandomized or historically controlled studies, including case-control and observational studies</td>
+            <td valign=&quot;top&quot;>Nonconsecutive studies, case-control studies, or studies with poor, nonindependent, or inconsistently applied reference standards</td>
+            <td valign=&quot;top&quot;>Cohort study, control arm of a randomized trial, case series, or case-control studies; poor-quality prognostic cohort study</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>D</td>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>Case reports, mechanism-based reasoning, or reasoning from first principles</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>Exceptional situations where validating studies cannot be performed and there is a clear preponderance of benefit over harm</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;><sup>a</sup>American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation guideline development manual (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p class=&quot;Note&quot;><sup>b</sup>A systematic review may be downgraded to level B because of study limitations, heterogeneity, or imprecision.</p>
+<p class=&quot;Note&quot;><sup>c</sup>A group of individuals identified for subsequent study at an early, uniform point in the course of the specified health condition or before the condition develops.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The evidence-based approach to guideline development requires that the evidence supporting a policy be identified, appraised, and summarized, and that an explicit link between evidence and statements be defined. Evidence-based statements reflect both the <em>quality of evidence</em> and the <em>balance of benefit and harm</em> that is anticipated when the statement is followed. The definitions for evidence-based statements are listed in &quot;Ratings Scheme for the Strength of the Evidence&quot; and &quot;Rating Scheme for the Strength of the Recommendations&quot; fields.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline update was developed with an explicit and transparent a priori protocol for creating actionable statements based on supporting evidence and the associated balance of benefit and harm, as outlined in the &quot;Clinical Practice Guideline Development Manual, Third Edition: A Quality-Driven Approach for Translating Evidence into Action&quot; (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p>The original cerumen impaction guideline was first sent to a panel of expert reviewers, who were asked (1) to assess the key action statements and decide if they should be revised, kept as stands, or removed on the basis of relevancy, omissions, or controversies that the guideline spurred and (2) to identify any new literature or treatments that might affect the guideline recommendations. The reviewers concluded that the original guideline action statements remained valid but should be updated with minor modifications. A suggestion was also made for a new key action statement on the role of alternative therapies in management.</p>
+<p>The American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation (AAO-HNSF) assembled a Guideline Update Group (GUG) representing the disciplines of otolaryngology&amp;ndash;head and neck surgery, otology/neurotology, family medicine, audiology, advanced practice nursing, pediatrics, geriatrics, a resident physician (otolaryngology), and a consumer advocate. The GUG also included a staff liaison from the AAO-HNSF, but this individual was not a voting member of the GUG and served only in an editorial capacity in writing the guideline. Several group members had significant prior experience in developing clinical practice guidelines.</p>
+<p>The GUG had several conference calls and one in-person meeting, during which comments from the expert panel review and the literature search were reviewed for each key action statement. The GUG then decided to leave the statements unaltered, change slightly, or rewrite per the impact of the literature search, the reviewer comments, and the benefit-harm balance. The supporting text was then edited to explain any changes from the original key action statement, and the recommendation level was modified accordingly.</p>
+<p>The evidence profile for each statement was then converted into an action statement profile, which was moved to immediately follow the action statement. Statements about the quality improvement opportunity, level of confidence in the evidence, differences of opinion, intentional vagueness, and any exclusion to which the action statement does not apply were added to the action statement profiles. These additions reflect the current methodology for guideline development by the AAO-HNSF and conform to the Institute of Medicine's standards for developing trustworthy guidelines. The updated guideline then underwent GuideLine Implementability Appraisal to appraise adherence to methodologic standards, improve clarity of recommendations, and predict potential obstacles to implementation. The GUG received summary appraisals in October 2015 and modified an advanced draft of the guideline on the basis of the appraisal.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Strength of Action Terms in Guideline Statements and Implied Levels of Obligation</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Strength of Action Terms in Guideline Statements and Implied Levels of Obligation&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Strength</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Definition</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Implied Obligation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Strong Recommendation</td>
+            <td valign=&quot;top&quot;>A strong recommendation means the benefits of the recommended approach clearly exceed the harms (or, in the case of a strong negative recommendation, that the harms clearly exceed the benefits) and that the quality of the supporting evidence is high (grade A or B).<sup>a</sup> In some clearly identified circumstances, strong recommendations may be made based on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits strongly outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Recommendation</td>
+            <td valign=&quot;top&quot;>A recommendation means the benefits exceed the harms (or, in the case of a negative recommendation, that the harms exceed the benefits), but the quality of evidence is not as high (grade B or C).<sup>a</sup> In some clearly identified circumstances, recommendations may be made based on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should also generally follow a recommendation but should remain alert to new information and sensitive or patient preferences.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Option</td>
+            <td valign=&quot;top&quot;>An option means that either the quality of evidence is suspect (grade D)<sup>a</sup> or that well-done studies (grade A, B, or C)<sup>a</sup> show little clear advantage to one approach vs another.</td>
+            <td valign=&quot;top&quot;>Clinicians should be flexible in their decision making regarding appropriate practice, although they may set bounds on alternatives; patient preference should have a substantial influencing role.</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;><sup>a</sup>See the &quot;Rating Scheme for the Strength of Evidence&quot; field for definitions of evidence grades.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline developers reviewed published cost analyses.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The final draft of the updated clinical practice guideline was revised according to comments received during multidisciplinary peer review, open public comment, and journal editorial peer review.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p> The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Improved diagnostic accuracy for cerumen impaction </li>
+    <li>Appropriate intervention in patients with cerumen impaction </li>
+    <li>Appropriate evaluation and intervention in special populations </li>
+    <li>Appropriate therapeutic options with outcomes assessment </li>
+    <li>Improved counseling and education for prevention of cerumen impaction </li>
+</ul>
+<p>For additional benefits of specific interventions considered in the guideline, see the &quot;Major Recommendations&quot; field.</p>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Though generally safe, treatment of cerumen impaction can result in significant complications. Tympanic membrane perforation, ear canal laceration, infection of the ear, bleeding, or hearing loss occurs at a rate of about 1 in 1000 ear irrigations. Applying this rate to the approximate number of ear irrigations performed in the United States estimates that 8000 complications occur annually and likely require further medical services. Other complications that have been reported include otitis externa (sometimes secondary to external auditory canal trauma), pain, dizziness, and syncope.</p>
+<p>For additional possible harms of specific interventions considered in the guideline, see the &quot;Major Recommendations&quot; field.</p></div>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Contraindicated intervention (ear candling/coning): Clinicians should recommend against ear candling/coning for treating or preventing cerumen impaction. </li>
+    <li>If the ear canal is currently infected, irrigation should be avoided. Ear irrigation should not be performed in individuals who have a nonintact tympanic membrane or those who have had ear surgery, since the tympanic membrane may be thinned or atrophic and vulnerable to perforation. </li>
+    <li>Jet irrigators should be avoided for home use due to risk of damage to ear structures. </li>
+</ul>
+<p>Refer to the &quot;Exceptions&quot; statements in the &quot;Action Statement Profiles&quot; for additional guidance on medical reasons to avoid certain interventions or procedures.</p>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The clinical practice guideline is provided for information and educational purposes only. It is not intended as a sole source of guidance in managing cerumen impaction. Rather, it is designed to assist clinicians by providing an evidence-based framework for decision-making strategies. The guideline is not intended to replace clinical judgment or establish a protocol for all individuals with this condition and may not provide the only appropriate approach to diagnosing and managing this program of care. As medical knowledge expands and technology advances, clinical indicators and guidelines are promoted as conditional and provisional proposals of what is recommended under specific conditions, but they are not absolute. Guidelines are not mandates; these do not and should not purport to be a legal standard of care. The responsible physician, in light of all circumstances presented by the individual patient, must determine the appropriate treatment. Adherence to these guidelines will not ensure successful patient outcomes in every situation. The American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation, Inc emphasizes that these clinical guidelines should not be deemed to include all proper treatment decisions or methods of care or to exclude other treatment decisions or methods of care reasonably directed to obtaining the same results.</li>
+    <li>Guidelines are never intended to supersede professional judgment; rather, they may be viewed as a relative constraint on individual clinician discretion in a particular clinical circumstance. Less-frequent variation in practice is expected for a strong recommendation than what might be expected with a recommendation. Options offer the most opportunity for practice variability. Clinicians should always act and decide in a way that they believe will best serve their patients' interests and needs, regardless of guideline recommendations. Guidelines represent the best judgment of a team of experienced clinicians and methodologists addressing the scientific evidence for a particular topic.</li>
+    <li>Making recommendations about health practices involves value judgments on the desirability of various outcomes associated with management options. Values applied by the guideline update group (GUG) sought to minimize harm and diminish unnecessary and inappropriate therapy. A major goal of the GUG was to be transparent and explicit about how values were applied and to document the process.</li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Implementation Considerations</span></strong></p>
+<p>The complete guideline is published as a supplement to <em>Otolaryngology&amp;ndash;Head and Neck Surgery</em> to facilitate reference and distribution. A full-text version of the guideline will also be accessible free of charge at the <a href=&quot;http://www.entnet.org/&quot; title=&quot;AAO-HNSF Web site&quot;>American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF) Web site</a>. Existing brochures and publications by the AAO-HNSF will be updated to reflect the guideline recommendations.</p>
+<p>An anticipated barrier to diagnosis is distinguishing modifying factors for cerumen impaction in a busy clinical setting. This will be addressed with a laminated teaching card or visual aid summarizing important factors that modify management. Laminated cards will be available for purchase through Guideline Central.</p>
+<p>An anticipated barrier to the &quot;observation option&quot; for nonimpacted cerumen is patient and clinician reluctance to not intervene when cerumen is observed. This barrier can be overcome with educational pamphlets and information sheets that outline the favorable natural history of nonimpacted cerumen, the moderate incremental benefit of removal on clinical outcomes, the potential adverse effects of treatment, and the benefits of cerumen for a healthy ear canal.</p>
+<p>Prompt evaluation of special populations may be hindered by the high prevalence of cerumen impaction in these populations and additional treatment time that may be necessary in busy practice settings. Information sheets outlining the high prevalence and the potential morbidity of cerumen impaction in these populations may increase awareness and willingness to manage this problem.</p>
+<p>Performance of irrigation and instrument removal other than irrigation, when appropriate, may be hindered by access to equipment and by procedural cost. Lastly, successfully achieving an understanding of the lack of efficacy and potential harms of ear candling, a popular alternative therapy, will require patient and clinician access to educational materials. Pamphlets may help in dispelling myths about comparative efficacy.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Foreign Language Translations"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Pocket Guide/Reference Cards"/>
+      <fieldvalue value="Quick Reference Guides/Physician Guides"/>
+      <fieldvalue value="Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Schwartz SR, Magit AE, Rosenfeld RM, Ballachanda BB, Hackell JM, Krouse HJ, Lawlor CM, Lin K, Parham K, Stutz DR, Walsh S, Woodson EA, Yanagisawa K, Cunningham ER Jr. Clinical practice guideline (update): earwax (cerumen impaction). Otolaryngol Head Neck Surg. 2017 Jan;156 (Suppl 1):S1-S29. [121 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=28045591&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2017 Jan"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American Academy of Otolaryngology - Head and Neck Surgery Foundation - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The cost of developing this guideline, including travel expenses of all panel members, was covered in full by the American Academy of Otolaryngology--Head and Neck Surgery Foundation (AAO-HNSF).</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American Academy of Otolaryngology&amp;ndash;Head and Neck Surgery Foundation (AAO-HNSF) Guideline Update Group (GUG)</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Guideline Development Group Members</em>: Seth R. Schwartz (<em>Chair</em>), Department of Otolaryngology, Virginia Mason Medical Center, Seattle, Washington, USA; Anthony E. Magit (<em>Assistant Chair</em>), Division of Otolaryngology, Rady Children's Hospital&amp;ndash;San Diego, San Diego, California, USA; Richard M. Rosenfeld (<em>Methodologist</em>), Department of Otolaryngology, SUNY Downstate Medical Center, Brooklyn, New York, USA; Bopanna B. Ballachanda, Premier Hearing Center, Albuquerque, New Mexico, USA; Jesse M. Hackell, Pomona Pediatrics, Pomona, New York, USA; Helene J. Krouse, College of Nursing, Wayne State University, Detroit, Michigan, USA; Claire M. Lawlor, Department of Otolaryngology, Tulane University, New Orleans, Louisiana, USA; Kenneth Lin, Georgetown University School of Medicine, Washington, DC, USA; Kourosh Parham, Division of Otolaryngology, University of Connecticut Health Center, Farmington, Connecticut, USA; David R. Stutz, University of Michigan Health System, East Ann Arbor Health Care Center, Ann Arbor, Michigan, USA; Sandy Walsh, Consumers United for Evidence-Based Healthcare, Davis, California, USA; Erika A. Woodson, Cleveland Clinic Head and Neck Institute, Cleveland, Ohio, USA; Ken Yanagisawa, Yale New Haven Hospital and Southern New England Ear, Nose, Throat &amp;amp; Facial Plastic Surgery Group, LLP, New Haven, Connecticut, USA; Eugene R. Cunningham Jr (<em>AAO-HNSF staff liaison</em>), American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation, Alexandria, Virginia, USA.</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Financial Disclosure and Conflicts of Interest</span></strong></p>
+<p>Potential conflicts of interest for all panel members in the past 5 years were compiled and distributed before the first conference call and were updated at each subsequent call and in-person meeting. After review and discussion of these disclosures, the panel concluded that individuals with potential conflicts could remain on the panel if they (1) reminded the panel of potential conflicts before any related discussion, (2) recused themselves from a related discussion if asked by the panel, and (3) agreed to not discuss any aspect of the guideline with industry before publication. Last, panelists were reminded that conflicts of interest extend beyond financial relationships and may include personal experiences, how a participant earns a living, and the participant's previously established &quot;stake&quot; in an issue.</p>
+<p><strong>Disclosures</strong></p>
+<p><em>Competing interests</em>: Bopanna B. Ballachanda, chief of Audiology and consultant for Audiology Management Group; Jesse M. Hackell, shareholder of Pfizer and GSK, expert witness, medical malpractice consultant; Helene J. Krouse, AAO-HNSF journal editor, spouse on AAO-HNSF Board of Directors, Sohn research funding; Erika A. Woodson, consultant for Oticon Medical, speaker honoraria for CitiGroup; Eugene R. Cunningham Jr, salaried employee of AAO-HNSF.</p></div>"/>
+    </field>
+    <field fieldid="159" ordby="1255" id="453" name="Guideline Endorser(s)" type="orglist">
+      <fieldvalue value="American Academy of Family Physicians - Medical Specialty Society"/>
+      <fieldvalue value="American Academy of Pediatrics - Medical Specialty Society"/>
+      <fieldvalue value="American Geriatrics Society - Medical Specialty Society"/>
+      <fieldvalue value="American Neurotology Society - Medical Specialty Society"/>
+      <fieldvalue value="American Otological Society - Medical Specialty Society"/>
+      <fieldvalue value="American Society of Geriatric Otolaryngology - Medical Specialty Society"/>
+      <fieldvalue value="American Society of Pediatric Otolaryngology - Medical Specialty Society"/>
+      <fieldvalue value="Society of Otorhinolaryngology and Head and Neck Nurses - Medical Specialty Society"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Roland PS, Smith TL, Schwartz SR, Rosenfeld RM, Ballachanda B, Earll JM, Fayad J, Harlor AD Jr, Hirsch BE, Jones SS, Krouse HJ, Magit A, Nelson C, Stutz DR, Wetmore S. Clinical practice guideline: cerumen impaction. Otolaryngol Head Neck Surg. 2008 Sep;139(3 Suppl 2):S1-21. [97 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://journals.sagepub.com/doi/pdf/10.1177/0194599816671491&quot; title=&quot;SAGE Journals Web site&quot;>SAGE Journals Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Schwartz SR, Magit AE, Rosenfeld RM, Ballachanda BB, Hackell JM, Krouse HJ, Lawlor CM, Lin K, Parham K, Stutz DR, Walsh S, Woodson EA, Yanagisawa K, Cunningham ER. Clinical practice guideline (update): earwax (cerumen impaction) executive summary. Otolaryngol Head Neck Surg. 2017;156 (Suppl 1):14-29. Available from the <a href=&quot;http://journals.sagepub.com/doi/full/10.1177/0194599816678832&quot; title=&quot;SAGE Journals Web site&quot;>SAGE Journals Web site</a>. </li>
+    <li>Clinical practice guideline (update): earwax (cerumen impaction). Podcast part 1 and 2. Alexandria (VA): American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF). 2017 Jan. Available from the <a href=&quot;http://www.entnet.org/content/clinical-practice-guideline-cerumen-impaction&quot; title=&quot;AAO-HNSF Web site&quot;>American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF) Web site.</a> </li>
+    <li>Clinical practice guideline (update): earwax (cerumen impaction). Pocket guide and mobile app. Alexandria (VA): American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF). 2017 Jan. Available from the <a href=&quot;https://www.guidelinecentral.com/shop/cerumen-impaction-guidelines-pocket-card/&quot; title=&quot;Guideline Central Web site&quot;>Guideline Central Web site.</a> </li>
+    <li>Rosenfeld RM, Shiffman RN, Robertson P. Clinical practice guideline development manual, third edition: a quality-driven approach for translating evidence into action. Otolaryngol Head Neck Surg. 2013 Jan;148(Suppl 1):S1-55. Available from the <a href=&quot;http://journals.sagepub.com/doi/full/10.1177/0194599812467004&quot; title=&quot;SAGE Journals Web site&quot;>SAGE Journals Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A variety of patient resources are available in English and Spanish from the <a href=&quot;http://www.entnet.org/?q=node/334&quot; title=&quot;AAO-HNSF Web site&quot;>American Academy of Otolaryngology&amp;ndash;Head and Neck Surgery Foundation (AAO-HNSF) Web site</a>.</p>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on March 27, 2009. The information was verified by the guideline developer on March 31, 2009. This summary was updated by ECRI Institute on June 28, 2017. The updated information was verified by the guideline developer on August 1, 2017.</p>
+<p>This NEATS assessment was completed by ECRI Institute on July 13, 2017. The information was verified by the guideline developer on August 2, 2017.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Permission is granted to reproduce the aforementioned material in <strong>print and electronic format</strong> at no charge subject to the following conditions:</p>
+
+<ol start=&quot;1&quot; type=&quot;1&quot;>
+<li>If any part of the material to be used (for example, figures) has appeared in our publication with credit or acknowledgement to another source, permission must also be sought from that source. If such permission is not obtained then that material may not be included in your publication/copies.</li>
+<li>Suitable acknowledgement to the source must be made, either as a footnote or in a reference list at the end of your publication, as follows:
+
+<p>&amp;quot;Reprinted from Publication title, Vol number, Author(s), Title of article, Pages No., Copyright (Year), with permission from American Academy of Otolaryngology &amp;#8211; Head and Neck Surgery Foundation, Inc.&amp;quot;</p>
+</li>
+
+<li>Reproduction of this material is confined to the purpose for which permission is hereby given.</li>
+<li>This permission is granted for non-exclusive world <strong><u>English</u></strong> rights only. For other languages please reapply separately for each one required.</li></ol></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 00:42:50 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:36:44 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 121.708 (3)
+  esindex: 0.005
+  captures_list: 138.114
+  CDXLines.iter: 11.451 (3)
+  PetaboxLoader3.datanode: 133.349 (4)
+  exclusion.robots: 0.262
+  exclusion.robots.policy: 0.25
+  RedisCDXSource: 2.288
+  load_resource: 44.859
+-->
