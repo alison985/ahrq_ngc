@@ -1,0 +1,825 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app58.us.archive.org';v.server_ms=168;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10792?contentType=xml', '20180712220553')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180712220553/https://www.guideline.gov/summaries/downloadcontent/ngc-10792?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180712220553/https://www.guideline.gov/summaries/downloadcontent/ngc-10792?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10792?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180712220553" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610072748/https://www.guideline.gov/summaries/downloadcontent/ngc-10792?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 22:05:53 Jul 12, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610072748/https://www.guideline.gov/summaries/downloadcontent/ngc-10792?contentType=xml" title="07:27:48 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 22:05:53 Jul 12, 2018">12</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930191953/https://www.guideline.gov/summaries/downloadcontent/ngc-10792?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 22:05:53 Jul 12, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180712220553*/https://www.guideline.gov/summaries/downloadcontent/ngc-10792?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 12 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10792?contentType=xml","2018-07-12",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>British Thoracic Society guidelines for home oxygen use in adults.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Hardinge M, Annandale J, Bourne S, Cooper B, Evans A, Freeman D, Green A, Hippolyte S, Knowles V, MacNee W, McDonnell L, Pye K, Suntharalingam J, Vora V, Wilkinson T, British Thoracic Society Home Oxygen Guideline Development Group, British Thoracic Society Standards of Care Committee. British Thoracic Society guidelines for home oxygen use in adults. Thorax. 2015 Jun;70 Suppl 1:i1-43. [154 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25870317&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The levels of evidence (<strong>1++</strong>, <strong>1+</strong>, <strong>1-</strong>, <strong>2++</strong>, <strong>2+</strong>, <strong>2-</strong>, <strong>3</strong>, <strong>4</strong>), grades of recommendations (<strong>A-D</strong>), and good practice points (<strong>GPPs</strong>) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Evidence for Use of Long-Term Oxygen Therapy in Patients with Chronic Obstructive Pulmonary Disease </span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients with stable chronic obstructive pulmonary disease (COPD) and a resting arterial oxygen tension (partial pressure) (PaO<sub>2</sub>) &amp;le;7.3 kPa should be assessed for long-term oxygen therapy (LTOT) which offers survival beneﬁt and improves pulmonary haemodynamics. (<strong>A</strong>) </li>
+    <li>LTOT should be ordered for patients with stable COPD with a resting PaO<sub>2</sub> &amp;le;8 kPa with evidence of peripheral oedema, polycythaemia (haematocrit &amp;ge;55%) or pulmonary hypertension. (<strong>A</strong>) </li>
+    <li>LTOT should be ordered for patients with resting hypercapnia if they fulﬁll all other criteria for LTOT. (<strong>B</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Evidence for Use of LTOT in Other Respiratory or Cardiac Disease</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>LTOT should be ordered for patients with interstitial lung disease (ILD) with a resting PaO<sub>2</sub> &amp;le;7.3 kPa. (<strong>D</strong>) </li>
+    <li>LTOT should be ordered for patients with ILD with a resting PaO<sub>2</sub> &amp;le;8 kPa in the presence of peripheral oedema, polycythaemia (haematocrit &amp;ge;55%) or evidence of pulmonary hypertension. (<strong>D</strong>) </li>
+    <li>Patients with ILD who experience severe breathlessness could be considered for palliative oxygen therapy (POT). (<strong>GPP</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>LTOT in Patients with Cystic Fibrosis</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>LTOT should be ordered for patients with cystic fibrosis (CF) with a resting PaO<sub>2</sub> &amp;le;7.3 kPa. (<strong>D</strong>) </li>
+    <li>LTOT should be ordered for patients with CF with a resting PaO<sub>2</sub> &amp;le;8 kPa in the presence of peripheral oedema, polycythaemia (haematocrit &amp;ge;55%) or evidence of pulmonary hypertension. (<strong>D</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>LTOT in Patients with Pulmonary Hypertension</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>LTOT should be ordered for patients with pulmonary hypertension, including idiopathic pulmonary hypertension, when the PaO<sub>2</sub> is &amp;le;8 kPa. (<strong>D</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>LTOT in Patients with Neuromuscular or Chest Wall Disorders</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Non-invasive ventilation (NIV) should be the treatment of choice for patients with chest wall or neuromuscular disease causing type 2 respiratory failure. Additional LTOT may be required in case of hypoxaemia not corrected with NIV. (<strong>D</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>LTOT in Patients with Advanced Cardiac Failure</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>LTOT should be ordered for patients with advanced cardiac failure with a resting PaO<sub>2</sub> &amp;le;7.3 kPa. (<strong>D</strong>) </li>
+    <li>LTOT should be ordered for patients with advanced cardiac failure with a resting PaO<sub>2</sub> &amp;le;8 kPa in the presence of peripheral oedema, polycythaemia (haematocrit &amp;ge;55%) or evidence of pulmonary hypertension on electrocardiogram (ECG) or echocardiograph. (<strong>D</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Outcomes of LTOT in Patients Who Continue to Smoke</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>If LTOT is ordered for patients who are continuing to smoke, the potential for more limited clinical beneﬁt should be discussed with the patient. (<strong>D</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Referral and Assessment of Patients for LTOT</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Written and verbal information should be given to patients referred to home oxygen assessment services at the time of referral. (<strong>D</strong>) </li>
+    <li>Patients with a resting stable oxygen saturation measured by pulse oximetry (SpO<sub>2</sub>) of &amp;le;92% should be referred for a blood gas assessment in order to assess eligibility for LTOT. (<strong>C</strong>) </li>
+    <li>In patients with clinical evidence of peripheral oedema, polycythaemia (haematocrit &amp;ge;55%) or pulmonary hypertension, referral for LTOT assessment may be considered at SpO<sub>2</sub> levels &amp;le;94% to identify patients with a resting PaO<sub>2</sub> &amp;le;8 kPa. (<strong>GPP</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Referral for Home Oxygen at Hospital Discharge</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients should undergo formal assessment for LTOT after a period of stability of at least 8 weeks from their last exacerbation. (<strong>B</strong>) </li>
+    <li>Patients who have borderline saturations (i.e., 93%&amp;ndash;94%) should have their oxygen saturations monitored at their annual review with their general practitioner (GP) or practice nurse, or sooner if they experience an exacerbation in the interim. (<strong>GPP</strong>) </li>
+    <li>Patients who exacerbate frequently and are unable to achieve a period of stability lasting 8 weeks may need to be assessed at an earlier stage after exacerbation. If LTOT is ordered for such patients, they should be counselled that in the future LTOT may no longer be required once they achieve a more stable state. (<strong>GPP</strong>) </li>
+    <li>Patients should not normally have LTOT ordered at the time of an acute exacerbation of their underlying condition. However, if home oxygen is ordered (e.g., at hospital discharge), it should be limited to patients with an SpO<sub>2</sub> of &amp;le;92%, who are breathless, and unable to manage off oxygen. These patients should undergo a blood gases assessment and be counselled that in the future LTOT may not be required after formal reassessment. (<strong>GPP</strong>) </li>
+    <li>The date of the patient's last exacerbation should be included in the referral request to the home oxygen assessment service. (<strong>GPP</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Use of Pulse Oximetry, Arterial and Capillary Blood Gases in Assessment for LTOT</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients potentially requiring LTOT should not be assessed using pulse oximetry alone. (<strong>D</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Assessment Using Arterial Blood Gases and Capillary Blood Gases </span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients being assessed for LTOT should undergo initial assessment for suitability using arterial arterial blood gase (ABG) sampling. (<strong>A</strong>) </li>
+    <li>Patients assessed for LTOT during a period of apparent clinical stability should undergo two ABG measurements at least 3 weeks apart, before the need for LTOT can be conﬁrmed. (<strong>B</strong>) </li>
+    <li>Patients undergoing LTOT assessment should be reassessed with ABG after oxygen titration is complete to determine whether adequate oxygenation has been achieved without precipitating respiratory acidosis and/or worsening hypercapnia. (<strong>D</strong>) </li>
+    <li>For oxygen titration during LTOT assessment, capillary blood gases (CBG) sampling can be used in place of ABG sampling for remeasuring PaCO<sub>2</sub> and pH at different oxygen ﬂow rates. (<strong>A</strong>) </li>
+    <li>For oxygen titration during LTOT assessment, cutaneous capnography can be used in place of ABG sampling for remeasuring arterial carbon dioxide tension (partial pressure) (PaCO<sub>2</sub>) alone but not pH at different oxygen ﬂow rates. (<strong>A</strong>) </li>
+    <li>Patients undergoing a radial ABG should be assessed with an Allen's test ﬁrst, to ensure they have a dual blood supply to the hand from both radial and ulnar arteries. (<strong>GPP</strong>) </li>
+    <li>Patients undergoing a radial ABG should be consented for the procedure with a discussion of possible risks. (<strong>GPP</strong>) </li>
+    <li>In many community commissioned home oxygen service-assessment and review (HOS-AR) services it is not practical for patients to undergo ABG sampling during LTOT assessment. Under such circumstances, a combination of CBGs and oximetry (but not capnography) could be used as an alternative tool for initial assessment for LTOT, and after oxygen titration is complete. Some patients may receive LTOT unnecessarily using this approach, but it is unlikely that any patient would be inappropriately denied LTOT. (<strong>GPP</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Management of Hypercapnia during LTOT Assessment</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients with baseline hypercapnia should be monitored for the development of respiratory acidosis and worsening hypercapnia using ABGs after each titration of ﬂow rate, as well as an ABG after oxygen titration is complete. (<strong>D</strong>) </li>
+    <li>Patients who develop a respiratory acidosis and/or a rise in PaCO<sub>2</sub> of &amp;gt;1 kPa (7.5 mm Hg) during an LTOT assessment may have clinically unstable disease. These patients should undergo further medical optimisation and be reassessed after 4 weeks. (<strong>GPP</strong>) </li>
+    <li>Patients who develop a respiratory acidosis and/or a rise in PaCO<sub>2</sub> of &amp;gt;1 kPa (7.5 mm Hg) during an LTOT assessment on two repeated occasions, while apparently clinically stable, should only have domiciliary oxygen ordered in conjunction with nocturnal ventilatory support. (<strong>GPP</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>LTOT Hours of Use</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>LTOT should be ordered for a minimum of 15 h per day, and up to 24 h per day may be of additional beneﬁt. (<strong>C</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>LTOT Flow Rates</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients eligible for LTOT should be initiated on a ﬂow rate of 1 L/min and titrated up in 1 L/min increments until SpO<sub>2</sub> &amp;gt;90%. An ABG should then be performed to conﬁrm that a target PaO<sub>2</sub> &amp;ge;8 kPa (60 mm Hg) at rest has been achieved. (<strong>B</strong>) </li>
+    <li>Non-hypercapnic patients initiated on LTOT should increase their ﬂow rate by 1 L/min during sleep in the absence of any contraindications. (<strong>B</strong>) </li>
+    <li>Patients initiated on LTOT who are active outdoors should receive an ambulatory oxygen assessment to assess whether their ﬂow rate needs increasing during exercise. (<strong>B</strong>) </li>
+    <li>Ambulatory and nocturnal oximetry may be performed to allow more accurate ﬂow rates to be ordered for exercise and sleep, respectively. (<strong>GPP</strong>) </li>
+    <li>Patients initiated on LTOT who have cognitive, visual or coordination impairments may not be able to safely manipulate their own ﬂow rates and should be maintained on a single ﬂow rate. (<strong>GPP</strong>) </li>
+    <li>Flow rates may be increased at 20 min intervals during an oxygen titration until a target PaO<sub>2</sub> is achieved. (<strong>GPP</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Patient Education at Time of Assessment</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients initiated on LTOT should be provided with formal education by a specialist home oxygen assessment team to ensure compliance with therapy. (<strong>D</strong>) </li>
+    <li>Patients being commenced on home oxygen on discharge from hospital should be advised that home oxygen may be removed if reassessment shows clinical improvement. (<strong>D</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Follow-up of LTOT Patients</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>LTOT patients should receive follow-up at 3 months after LTOT has been ordered, which should include assessment of blood gases and ﬂow rate to ensure LTOT is still indicated and therapeutic. (<strong>A</strong>) </li>
+    <li>LTOT patients should receive follow-up visits at 6&amp;ndash;12 months after their initial 3-month follow-up, which can be either home based or in combination with hospital visits. (<strong>D</strong>) </li>
+    <li>Follow-up visits should be conducted by a specialist home oxygen assessment team with the necessary skills to deliver patient education and manage withdrawal of home oxygen. (<strong>D</strong>) </li>
+    <li>All patients for whom LTOT has been ordered should be visited at home within 4 weeks by a specialist nurse or healthcare professional with experience of domiciliary oxygen therapy. The visit provides an opportunity to highlight potential risks and should be used to reinforce education and offer support to the patient and carer. Compliance may be checked, along with smoking status, symptoms of hypercapnia and oxygen saturations on oxygen to check that oxygen is therapeutic. (<strong>GPP</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Nocturnal Oxygen Therapy </span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Nocturnal oxygen therapy (NOT) is not recommended in patients with COPD who have nocturnal hypoxaemia but who fail to meet the criteria for LTOT. (<strong>A</strong>) </li>
+    <li>Other causes of nocturnal desaturation in COPD should be considered such as obesity hypoventilation, respiratory muscle weakness or obstructive sleep apnoea (OSA). (<strong>GPP</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>NOT in Patients with Cardiac Disease and Nocturnal Desaturation</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>NOT can be ordered for severe heart failure patients who do not fulﬁl indications for LTOT and have evidence of sleep disordered breathing (SDB) leading to daytime symptoms, after other causes of nocturnal desaturation have been excluded (e.g., obesity hypoventilation or OSA) and heart failure treatment has been optimised. Treatment with modalities of ventilatory support should also be considered. (<strong>B</strong>) </li>
+    <li>If NOT is ordered for patients with severe heart failure, it should be ordered at a low ﬂow rate of 1&amp;ndash;2 L/min and response should be assessed by a reduction in symptoms of daytime sleepiness, and SDB indices as measured by an overnight oximetry study. A blood gas assessment should be undertaken to exclude worsening hypercapnia and respiratory acidosis. Treatment with modalities of ventilatory support should be considered for patients who are hypercapnic. (<strong>GPP</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>NOT in Patients with CF</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>NOT should not be given to patients with CF with nocturnal hypoxaemia alone who do not fulﬁl LTOT criteria. It can be considered in patients with evidence of established ventilatory failure, where it should be given with NIV support. (<strong>B</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>NOT in Patients with ILD</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>NOT should not be given to patients with ILD with nocturnal hypoxaemia alone, who do not fulﬁl LTOT criteria. (<strong>B</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>NOT in Patients with Neuromuscular Weakness</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients with neuromuscular weakness affecting respiratory muscles should not have NOT alone ordered. It can be considered in patients with evidence of established ventilatory failure, where it should be given with NIV support. (<strong>B</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>NOT in Patients with OSA, Obesity Hypoventilation Syndrome or Overlap Syndrome</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients with OSA, obesity hypoventilation syndrome (OHS) or overlap syndrome should not have NOT alone ordered. It can be considered in patients with evidence of established ventilatory failure, where it should be given with NIV support. (<strong>D</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Ambulatory Oxygen Therapy </span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Ambulatory oxygen therapy (AOT) should not be routinely offered to patients who are not eligible for LTOT. (<strong>B</strong>) </li>
+    <li>AOT should not be routinely offered to patients already on LTOT. (<strong>D</strong>) </li>
+    <li>AOT assessment should only be offered to patients already on LTOT if they are mobile outdoors. (<strong>A</strong>) </li>
+    <li>AOT should be offered to patients for use during exercise in a pulmonary rehabilitation program or during an exercise program following a formal assessment demonstrating improvement in exercise endurance. (<strong>B</strong>) </li>
+    <li>Patients started on AOT should be reviewed regularly. If AOT was started during an exacerbation or when unwell, an initial review at 4 to 6 weeks to check it is still indicated is essential. (<strong>GPP</strong>) </li>
+    <li>Home visits may be useful to identify problems with equipment or setup. Further reviews should be carried out every 6 months when stable, or sooner if the patient's clinical status changes. (<strong>GPP</strong>) </li>
+    <li>AOT therapy may offer patients with active lifestyles or active treatment regimens (e.g., CF) additional beneﬁts. All patients should be assessed for AOT in the context of their daily activity and therapies. (<strong>GPP</strong>) </li>
+    <li>It is recognised that there may be some patients, for example with ILD and disabling breathlessness, who do not qualify for LTOT but who do desaturate on exercise who may beneﬁt from AOT. Once all other medical interventions have been optimised, these patients could be considered for AOT following formal assessment and continued provision following demonstration of beneﬁt and compliance. (<strong>GPP</strong>) </li>
+    <li>Patients with high respiratory rates (common in CF and ILD) should receive AOT at a selected ﬂow rate via a Venturi mask, which exceeds their peak tidal and exertional inspiratory ﬂow, and be supplied with home oxygen equipment which is able to deliver the required high ﬂow rates. (<strong>GPP</strong>) </li>
+    <li>AOT may be offered to LTOT patients who could otherwise not achieve 15 h per day oxygen usage, or who are severely hypoxaemic and are too symptomatic to leave their house without supplemental oxygen but may need to do so, for example to attend their general practitioner (GP) or hospital appointments. Formal assessment is not required in these circumstances. (<strong>GPP</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Palliative Oxygen Therapy </span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients with cancer or end stage cardiorespiratory disease who are experiencing intractable breathlessness should not receive treatment with palliative oxygen therapy (POT) if they are non-hypoxaemic or have mild levels of hypoxaemia above current LTOT thresholds (SpO<sub>2</sub> &amp;ge;92%). (<strong>A</strong>) </li>
+    <li>Patients with cancer or end stage cardiorespiratory disease who are experiencing intractable breathlessness should receive assessment for a trial of treatment with opiates from an appropriately trained healthcare professional. (<strong>A</strong>) </li>
+    <li>Patients with cancer or end stage cardiorespiratory disease who are experiencing intractable breathlessness should receive assessment for a trial of treatment with non-pharmacological treatments including fan therapy from an appropriately trained healthcare professional. (<strong>D</strong>) </li>
+    <li>POT may on occasion be considered by specialist teams for patients with intractable breathlessness unresponsive to all other modalities of treatment. In those instances, individual formal assessment of the effect of palliative oxygen on reducing breathlessness and improving quality of life should be made. (<strong>GPP</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Short Burst Oxygen Therapy </span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Short burst oxygen therapy (SBOT) should not be ordered for use prior to or following exercise in hypoxaemic or normoxic patients with COPD. (<strong>A</strong>) </li>
+    <li>SBOT should not be ordered on discharge from hospital for non-hypoxaemic patients with severe COPD. (<strong>A</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Use of SBOT in Cluster Headache </span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>SBOT delivering high ﬂow oxygen therapy (12 L/min via a non-rebreather mask) should be offered to treat acute attacks of cluster headaches (CHs). (<strong>A</strong>) </li>
+    <li>Appropriate equipment will need to be provided in order to ensure delivery of high ﬂow rate oxygen at 12 L/min for CH using a non-rebreather mask. Patients will usually have warning of a CH attack, and so provision should be made for urgent 4 h installation of home oxygen, if available, rather than a permanent home supply being provided. (<strong>GPP</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Equipment for Home Oxygen Therapy</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Oxygen concentrators should be used to deliver LTOT at ﬂow rates of 4 L/min or less. (<strong>B</strong>) </li>
+    <li>Portable oxygen should be delivered by whatever mode is best suited to the individual needs of the patient to increase the daily amount of oxygen used and activity levels in mobile patients. (<strong>C</strong>) </li>
+    <li>The type of portable device selected should balance patient factors with cost-effectiveness, resources and safety. (<strong>GPP</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Oxygen Delivery</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Nasal cannulae should be considered as the ﬁrst choice of delivery device for patients requiring home oxygen therapy. As an alternative some patients may beneﬁt from or prefer a Venturi mask system. (<strong>D</strong>) </li>
+    <li>Oxygen-conserving devices can be used in home oxygen patients requiring high ﬂow rates to increase the time the cylinder will last. (<strong>B</strong>) </li>
+    <li>Venturi masks should be considered in patients in whom there are concerns about existing or developing hypercapnic respiratory failure, those with a high resting respiratory rate or those with cognitive problems. (<strong>GPP</strong>) </li>
+    <li>Oxygen-conserving devices should be considered in patients who are active outside the home, following an ambulatory oxygen assessment. (<strong>GPP</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Humidiﬁcation</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Humidiﬁcation of home oxygen should not be ordered for non-tracheostomy patients. (<strong>D</strong>) </li>
+    <li>Patients receiving oxygen via a tracheostomy should receive humidiﬁed oxygen. (<strong>GPP</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Carrying Home Oxygen</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Less able patients should be offered wheeled devices or backpacks if assessment shows they improve ambulation and quality of life. (<strong>B</strong>) </li>
+    <li>When being transported in cars, cylinders should be secured either with a seat belt, or in the footwell or car boot, possibly using a cylinder box. Liquid oxygen should always be transported in an upright position. A warning triangle may be displayed and insurance companies should be informed. (<strong>GPP</strong>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Safety and Home Oxygen Therapy</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Smoking cessation should be discussed and written education given to all patients prior to ordering home oxygen and at each subsequent review if the patient continues to smoke. (<strong>C</strong>) </li>
+    <li>Patients should be made aware in writing of the dangers of using home oxygen within the vicinity of any naked ﬂame such as pilot lights, cookers, gas ﬁres and candles. (<strong>D</strong>) </li>
+    <li>Patients and family members who continue to smoke in the presence of home oxygen should be warned of the associated dangers of smoking in the presence of oxygen. (<strong>D</strong>) </li>
+    <li>Safety should be a factor when making decisions regarding the ordering of oxygen. Education and written information should be provided to the patient and family or carers regarding the safe use of oxygen and its equipment. (<strong>GPP</strong>) </li>
+    <li>The risks of prescribing oxygen to active smokers should be considered on a case by case basis: this should include a home visit to assess the patient's home situation, attitude toward risks and smoking behaviour. Home oxygen assessment services may decide not to prescribe home oxygen to smokers if the risks are in their judgement too high. Particular consideration needs to be given to risks to children and risks to neighbours in multiple occupancy dwellings. A risk assessment tool should be used, and the health professional who is undertaking the risk assessment may need to visit the home in conjunction with the local ﬁre service and/or the oxygen contractor. Where there is reasonable doubt, the therapy should not be prescribed. (<strong>GPP</strong>) </li>
+    <li>Patients who continue to smoke or live with other household smokers should be informed that the home oxygen order will be reviewed and evidence of increased risk may lead to withdrawal of home oxygen therapy. (<strong>GPP</strong>) </li>
+    <li>Carbon monoxide monitoring and measuring urine cotinine may help identify those patients who continue to smoke. (<strong>GPP</strong>) </li>
+    <li>Patients should be made aware that they should not use e-cigarettes and chargers within the vicinity of their home oxygen. (<strong>GPP</strong>) </li>
+    <li>Oil-based emollients and petroleum jelly can support combustion in the presence of oxygen. Patients should be made aware that only water-based products should be used on the hands and face or inside the nose while using oxygen. (<strong>GPP</strong>) </li>
+    <li>The oxygen supplier should be informed if the patient continues to smoke in order for the engineer to consider it in the home oxygen supplier risk assessment. (<strong>GPP</strong>) </li>
+    <li>Patients and family or carers should be instructed not to remove the ﬁre breaks or to change ﬂow rate on their oxygen equipment. Only oxygen tubing and connections supplied by the oxygen company should be used. (<strong>GPP</strong>) </li>
+    <li>The local ﬁre service should be made aware of patients who are using oxygen at home and especially those who continue to smoke in order for a home safety assessment to be carried out. (<strong>GPP</strong>) </li>
+    <li>Patients and carers should be aware that tubing should be checked on a regular basis and repositioned as necessary to ensure safety by preventing trips and falls. (<strong>GPP</strong>) </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Definitions</strong></span></p>
+<p><strong>Key to Evidence Statements</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Key to Evidence Statements&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;8%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1++</td>
+            <td valign=&quot;top&quot;>High-quality meta-analyses, systematic reviews of randomised controlled trials (RCTs) or RCTs with a very low risk of bias</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1+</td>
+            <td valign=&quot;top&quot;>Well conducted meta-analyses, systematic reviews of RCTs or RCTs with a low risk of bias</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1-</td>
+            <td valign=&quot;top&quot;>Meta-analyses, systematic reviews or RCTs or RCTs with a high risk of bias</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2++</td>
+            <td valign=&quot;top&quot;>High-quality systematic reviews of case-control or cohort studies or high-quality case-control or cohort studies with a very low risk of confounding, bias or chance, and a high probability that the relationship is causal</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2+</td>
+            <td valign=&quot;top&quot;>Well conducted case-control or cohort studies with a low risk of confounding, bias or chance, and a moderate probability that the relationship is causal</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2-</td>
+            <td valign=&quot;top&quot;>Case-control or cohort studies with a high risk of confounding, bias or chance and a significant risk that the relationship is not causal</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>Non-analytic studies, for example, case reports, case series</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4</td>
+            <td valign=&quot;top&quot;>Expert opinion</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Grades of Recommendations</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Grades of Recommendation&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Type of Evidence</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><strong>A</strong></td>
+            <td valign=&quot;top&quot;>At least one meta-analysis, systematic review, or RCT rated as 1++ and directly applicable to the target population <em>or</em><br />
+            <br />
+            A systematic review of RCTs or a body of evidence consisting principally of studies rated as 1+ directly applicable to the target population and demonstrating overall consistency of results</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><strong>B</strong></td>
+            <td valign=&quot;top&quot;>A body of evidence including studies rated as 2++ directly applicable to the target population and demonstrating overall consistency of results <em>or</em><br />
+            <br />
+            Extrapolated evidence from studies rated as 1++ or 1+</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><strong>C</strong></td>
+            <td valign=&quot;top&quot;>A body of evidence including studies rated as 2+ directly applicable to the target population and demonstrating overall consistency of results <em>or</em><br />
+            <br />
+            Extrapolated evidence from studies rated as 2++</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><strong>D</strong></td>
+            <td valign=&quot;top&quot;>Evidence level 3 or 4 <em>or</em><br />
+            <br />
+            Extrapolated evidence from studies rated as 2+</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><strong>GPP (Good Practice Point)</strong></td>
+            <td valign=&quot;top&quot;>Important practical points for which there is no research evidence, nor is there likely to be any research evidence. The Guideline Committee wishes to emphasise these as Good Practice Points.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Chronic respiratory and cardiac diseases requiring home oxygen use, including chronic obstructive pulmonary disease (COPD), interstitial lung disease (ILD), cystic fibrosis (CF), pulmonary hypertension, neuromuscular or chest wall disorders, advanced cardiac failure, cancer and end-stage cardiorespiratory disease, terminal illness or cluster headache</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Cardiology"/>
+      <fieldvalue value="Critical Care"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Neurology"/>
+      <fieldvalue value="Nursing"/>
+      <fieldvalue value="Oncology"/>
+      <fieldvalue value="Pulmonary Medicine"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Respiratory Care Practitioners"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To provide detailed evidence-based guidance for the use of home oxygen for patients out of hospital </li>
+    <li>To make recommendations for assessment and follow-up protocols, and risk assessments, particularly in the clinically challenging area of home oxygen users who smoke </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adults with:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Chronic respiratory disease including chronic obstructive pulmonary disease (COPD), pulmonary hypertension, pulmonary vascular disease, cystic ﬁbrosis (CF), interstitial lung disease (ILD), chest wall disease, neuromuscular disease, and pulmonary malignancy </li>
+    <li>Cardiac disease including congestive cardiac failure and adult congenital heart disease </li>
+    <li>Cluster headaches </li>
+</ul>
+<p class=&quot;Note&quot;><strong>Note</strong>: The guideline also considers special situations including palliative and end-of-life care, patients discharged from hospital pending a formal assessment when stable, and smokers. The following areas fall outside the scope of this guideline: home oxygen in children (younger than 18), home oxygen use during acute exacerbations of respiratory disease, home oxygen use during air travel.</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Use or restricted use of the following types of home oxygen therapy
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Long-term oxygen therapy (LTOT) </li>
+        <li>Nocturnal oxygen therapy (NOT) </li>
+        <li>Ambulatory oxygen therapy (AOT) </li>
+        <li>Palliative oxygen therapy (POT) </li>
+        <li>Short burst oxygen therapy (SBOT) </li>
+    </ul>
+    </li>
+    <li>Non-invasive ventilation </li>
+    <li>Considerations for referral </li>
+    <li>Assessment, including the roles of oximetry, arterial blood gases (ABGs) and capillary blood gases (CBGs) </li>
+    <li>Follow-up of patients for home oxygen therapy </li>
+    <li>Equipment used to deliver home oxygen therapy </li>
+    <li>Safety issues around home oxygen therapy, in particular risks of fire, burns and smoke inhalation from flammable sources such as smoking </li>
+    <li>Risk assessment processes put in place by the National Framework Agreement for home oxygen therapy (2010) </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Mortality </li>
+    <li>Morbidity </li>
+    <li>Survival </li>
+    <li>Pulmonary hypertension </li>
+    <li>Symptoms </li>
+    <li>Quality of life </li>
+    <li>Exercise capacity </li>
+    <li>Recovery time </li>
+    <li>Healthcare utilisation </li>
+    <li>Patient satisfaction and adherence to treatment </li>
+    <li>Risk of personal injury and damage to property </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Clinical Questions and Literature Search</span></strong></p>
+<p>Clinical questions were structured in the PICO (Patient, Intervention, Control, Outcome) format (see supplementary appendix 9 [see the &quot;Availability of Companion Documents&quot; field]) to deﬁne the scope of the guideline and inform the literature search.</p>
+<p>Systematic electronic database searches were conducted in order to identify potentially relevant studies for inclusion in the guideline. For each topic area the following databases were searched: Ovid MEDLINE (including MEDLINE In-Process), Ovid EMBASE, and the Cochrane Library (including the Cochrane Database of Systematic Reviews and the Database of Abstracts of Reviews of Effects) from 1980.</p>
+<p>The searches were ﬁrst run in July 2012 and updated in January 2014 (see supplementary appendix 10 for the search strategy [see the &quot;Availability of Companion Documents&quot; field]). Searches included a combination of indexed terms and free text terms and were limited to English language publications only. The initial search identiﬁed 1392 potential abstracts and the second search 326 abstracts.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Appraisal of the Literature</span></strong></p>
+<p>Appraisal was performed to be compliant with the Appraisal of Guidelines for Research and Evaluation (AGREE) collaboration. Four individuals read the title and abstract of each article retrieved by the literature searches and decided whether the paper was deﬁnitely relevant, possibly relevant or not relevant to the project. Criteria formulated for categorising the abstracts into these three groups were:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Whether the study addressed the clinical question </li>
+    <li>Whether the appropriate study type was used to produce the best evidence to answer the clinical question </li>
+    <li>Review articles were excluded </li>
+    <li>The abstract was in English </li>
+    <li>Abstracts were not rejected on the basis of the journal of publication, country in which the research was performed or published, or the date of publication </li>
+</ul>
+<p>The full paper was obtained for all relevant or possibly relevant abstracts and allocated to the relevant section(s) of the guideline.</p>
+<p>The ﬁrst screening process identiﬁed 511 of the initial 1392 reference abstracts to be deﬁnitely or possibly relevant to the guideline.</p>
+<p>The second literature search in January 2014 yielded 326 abstracts. Of these, 56 were identiﬁed as deﬁnitely or possibly relevant to the guideline. However, all of the pertinent abstracts from this search had been identiﬁed by the guideline development group (GDG) in the meantime and already incorporated.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The initial search in July 2012 identified 1392 potential abstracts. The first screening process identified 511 of the initial 1392 reference abstracts to be definitely or possibly relevant to the guideline.</p>
+<p>The second literature search in January 2014 yielded 326 abstracts. Of these, 56 were identiﬁed as deﬁnitely or possibly relevant to the guideline.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Key to Evidence Statements</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Key to Evidence Statements&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;8%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Evidence</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1++</td>
+            <td valign=&quot;top&quot;>High-quality meta-analyses, systematic reviews of randomised controlled trials (RCTs) or RCTs with a very low risk of bias</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1+</td>
+            <td valign=&quot;top&quot;>Well conducted meta-analyses, systematic reviews of RCTs or RCTs with a low risk of bias</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1-</td>
+            <td valign=&quot;top&quot;>Meta-analyses, systematic reviews or RCTs or RCTs with a high risk of bias</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2++</td>
+            <td valign=&quot;top&quot;>High-quality systematic reviews of case-control or cohort studies or high-quality case-control or cohort studies with a very low risk of confounding, bias or chance, and a high probability that the relationship is causal</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2+</td>
+            <td valign=&quot;top&quot;>Well conducted case-control or cohort studies with a low risk of confounding, bias or chance, and a moderate probability that the relationship is causal</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2-</td>
+            <td valign=&quot;top&quot;>Case-control or cohort studies with a high risk of confounding, bias or chance and a significant risk that the relationship is not causal</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>Non-analytic studies, for example, case reports, case series</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4</td>
+            <td valign=&quot;top&quot;>Expert opinion</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Two guideline reviewers per section independently reviewed the abstracts to identify papers to be appraised for the guideline. The two reviewers for each section then independently appraised each paper assigned to them using the Scottish Intercollegiate Guidelines Network (SIGN) critical appraisal checklists. The reliability of the evidence in each individual study was graded using the SIGN critical appraisal check lists and is shown in the evidence tables (++, + or &amp;minus;) (see supplementary appendix 11 [see the &quot;Availability of Companion Documents&quot; field]). The body of evidence for each recommendation was summarised into evidence statements and graded using the SIGN grading system (see the &quot;Rating Scheme for the Strength of the Evidence&quot; field). Disagreements were resolved by discussion with the section partner.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This guideline is based on the best available evidence. The methodology used to write the guideline adheres strictly to the criteria as set out by the Appraisal of Guidelines for Research and Evaluation (AGREE) collaboration, which is available online (<a href=&quot;http://www.agreetrust.org/resource-centre/agree-ii/&quot; title=&quot;AGREE Web site&quot;>http://www.agreetrust.org/resource-centre/agree-ii/</a>). The British Thoracic Society Standards of Care Committee guideline production manual is available at <a href=&quot;https://www.brit-thoracic.org.uk/guidelines-and-quality-standards/&quot; title=&quot;BTS Web site&quot;>https://www.brit-thoracic.org.uk/guidelines-and-quality-standards/</a>.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Considered Judgement and Grading of Evidence</span></strong></p>
+<p>The Guideline Development Group (GDG) used the evidence tables to judge the body of evidence and grade recommendations for this guideline. Evidence tables are available in supplementary appendix 11 (see the &quot;Availability of Companion Documents&quot; field). Where evidence was lacking to answer the formulated clinical questions, expert opinions were obtained through consensus. The following were considered in grading of the recommendations:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The available volume of the body of evidence </li>
+    <li>How applicable the obtained evidence was in making recommendations for the deﬁned target audience of this guideline </li>
+    <li>Whether the evidence was generalisable to the target population for the guideline </li>
+    <li>Whether there was clear consistency in the evidence obtained to support recommendations </li>
+    <li>What the implications of recommendations would be on clinical practice in terms of resources and skilled expertise </li>
+    <li>Cost-effectiveness was not reviewed in detail as in-depth economic analysis of recommendations falls beyond the scope of this guideline </li>
+</ul>
+<p>Recommendations were graded from A to D as indicated by the strength of the evidence as shown in the &quot;Rating Scheme for the Strength of the Recommendations&quot; field. In line with Scottish Intercollegiate Guidelines Network (SIGN) guidance, evidence rated 'minus' was considered by the GDG in context but in the absence of other supporting evidence with a 'plus' rating, any recommendation made was Grade D. Important practical points lacking any research evidence and not likely to be research evidence in the future, were highlighted as 'good practice points'.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Drafting the Guideline</span></strong></p>
+<p>The GDG corresponded regularly by email and meetings of the full group were held in November 2011, February and November 2012, and March, April and September 2013 in addition to a number of teleconferences.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Grades of Recommendations</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Grades of Recommendation&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Type of Evidence</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><strong>A</strong></td>
+            <td valign=&quot;top&quot;>At least one meta-analysis, systematic review, or randomised controlled trial (RCT) rated as 1++ and directly applicable to the target population <em>or</em><br />
+            <br />
+            A systematic review of RCTs or a body of evidence consisting principally of studies rated as 1+ directly applicable to the target population and demonstrating overall consistency of results</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><strong>B</strong></td>
+            <td valign=&quot;top&quot;>A body of evidence including studies rated as 2++ directly applicable to the target population and demonstrating overall consistency of results <em>or</em><br />
+            <br />
+            Extrapolated evidence from studies rated as 1++ or 1+</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><strong>C</strong></td>
+            <td valign=&quot;top&quot;>A body of evidence including studies rated as 2+ directly applicable to the target population and demonstrating overall consistency of results <em>or</em><br />
+            <br />
+            Extrapolated evidence from studies rated as 2++</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><strong>D</strong></td>
+            <td valign=&quot;top&quot;>Evidence level 3 or 4 <em>or</em><br />
+            <br />
+            Extrapolated evidence from studies rated as 2+</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><strong>GPP (Good Practice Point)</strong></td>
+            <td valign=&quot;top&quot;>Important practical points for which there is no research evidence, nor is there likely to be any research evidence. The Guideline Committee wishes to emphasise these as Good Practice Points (GPPs).</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline developers reviewed published cost analyses. Cost-effectiveness was not reviewed in detail as in-depth economic analysis of recommendations falls beyond the scope of this guideline.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The British Thoracic Society (BTS) Standards of Care Committee (SOCC) reviewed the draft guideline in March 2014. The draft guideline was made available online in July/August 2014 for public consultation and circulated to all the relevant stakeholders. The BTS SOCC re-reviewed the revised draft guideline in December 2014 and ﬁnal SOCC approval was granted in January 2015.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Improved life expectancy, symptoms, quality of life, pulmonary hypertension, and tissue oxygenation </li>
+    <li>Reduced breathlessness, increased exercise capacity, and reduced recovery time from exercise-induced breathlessness </li>
+</ul>
+<p>Refer to the evidence statements in the original guideline document for a discussion of benefits of specific recommendations, including benefits for specific patient subgroups.</p>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Serious complications of trans-tracheal oxygen can include catheter displacement, obstruction of the catheter by mucous, and infection. </li>
+    <li>Patients with baseline hypercapnia can undergo LTOT assessment without adverse outcome but require monitoring of pH and PCO<sub>2</sub> levels during and at the end of assessment. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Some studies conclude the risks of infection contraindicate use of oxygen humidification.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Healthcare providers need to use clinical judgement, knowledge and expertise when deciding whether it is appropriate to apply recommendations for the management of patients. The recommendations cited here are a guide and may not be appropriate for use in all situations. The guidance provided does not override the responsibility of healthcare professionals to make decisions appropriate to the circumstances of each patient, in consultation with the patient and/or their guardian or carer.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Chart Documentation/Checklists/Forms"/>
+      <fieldvalue value="Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="End of Life Care"/>
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+      <fieldvalue value="Safety"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Hardinge M, Annandale J, Bourne S, Cooper B, Evans A, Freeman D, Green A, Hippolyte S, Knowles V, MacNee W, McDonnell L, Pye K, Suntharalingam J, Vora V, Wilkinson T, British Thoracic Society Home Oxygen Guideline Development Group, British Thoracic Society Standards of Care Committee. British Thoracic Society guidelines for home oxygen use in adults. Thorax. 2015 Jun;70 Suppl 1:i1-43. [154 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25870317&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2015 Jun"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="British Thoracic Society - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>British Thoracic Society</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>British Thoracic Society Home Oxygen Guideline Development Group</p>
+<p>British Thoracic Society Standards of Care Committee</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Guideline Group Members</em>: Dr Maxine Hardinge (<em>Chair</em>), Consultant Respiratory Physician, Oxford University Hospitals NHS Trust; Joe Annandale, Respiratory Nurse Specialist, Hywel Dda University Health Board, Prince Philip Hospital, Llanelli, Representing ARNS; Dr Simon Bourne, Consultant Respiratory Physician, Portsmouth NHS Trust, Representing the Royal College of Physicians, London; Dr Brendan Cooper, Consultant Clinical Scientist, Lung Function and Sleep, Queen Elizabeth Hospital, Birmingham, Representing ARTP; Lynn McDonnell, Clinical Specialist Physiotherapist, London, Representing ACPRC; Angela Evans, Specialist Practitioner, Staffordshire and Stoke-on-Trent Partnership Trust, Representing ARTP; Dr Daryl Freeman, General Practitioner, Representing PCRS-UK; Angela Green, Respiratory Physiotherapist Improvement Academy (Y&amp;amp;H AHSN) Bradford Teaching Hospitals NHS FT; Mr Colin Hawkey (dec), Patient/carer representative: 2011/2013; Dr Sabrine Hippolyte, Respiratory Specialty Trainee, London; Vikki Knowles, Respiratory Nurse Specialist, Respiratory Care Team, Virgin Care, Surrey, Representing PCRS &amp;ndash;UK; Mrs Joan Ling, Patient/carer representation: 2011/2012; Professor William MacNee, Professor of Respiratory Medicine, Edinburgh; Kathy Pye, Clinical Nurse Specialist, Liverpool; Dr Jay Suntharalingam, Consultant Respiratory Physician, Bath; Dr Vandana Vora, Consultant Palliative Care Physician, Sheffield, Representing Association for Palliative Medicine; Dr Tom Wilkinson, Consultant Respiratory Physician, Clinical and Experimental Sciences, Faculty of Medicine, University of Southampton, Southampton</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All members of the Guideline Development Group (GDG) made declarations of interest in line with the British Thoracic Society (BTS) policy and further details can be obtained on request from BTS. Copies of all declarations are available on the BTS Web site or on request from BTS Head Office.</p></div>"/>
+    </field>
+    <field fieldid="159" ordby="1255" id="453" name="Guideline Endorser(s)" type="orglist">
+      <fieldvalue value="Association for Palliative Medicine of Great Britain and Ireland - Medical Specialty Society"/>
+      <fieldvalue value="Association for Respiratory Technology and Physiology - Professional Association"/>
+      <fieldvalue value="Association of Chartered Physiotherapists in Respiratory Care - Professional Association"/>
+      <fieldvalue value="Association of Respiratory Nurse Specialists - Professional Association"/>
+      <fieldvalue value="Primary Care Respiratory Society - UK - Medical Specialty Society"/>
+      <fieldvalue value="Royal College of Physicians - Medical Specialty Society"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;https://www.brit-thoracic.org.uk/document-library/clinical-information/oxygen/home-oxygen-guideline-%28adults%29/bts-guidelines-for-home-oxygen-use-in-adults/&quot; title=&quot;BTS Web site&quot;>British Thoracic Society (BTS) Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>British Thoracic Society Standards of Care Committee guideline production manual. London (UK): British Thoracic Society; 2014 Jul 1. 31 p. Available from the <a href=&quot;https://www.brit-thoracic.org.uk/media/82682/bts-standards-of-care-committee-guideline-manual-1-july-2014.pdf&quot; title=&quot;BTS Web site&quot;>British Thoracic Society (BTS) Web site</a>. </li>
+    <li>Supplementary appendices are available from the <a href=&quot;https://www.brit-thoracic.org.uk/guidelines-and-quality-standards/home-oxygen-guideline-adults/&quot; title=&quot;BTS Web site&quot;>BTS Web site</a>. </li>
+</ul>
+<p>In addition, the appendices of the <a href=&quot;https://www.brit-thoracic.org.uk/document-library/clinical-information/oxygen/home-oxygen-guideline-%28adults%29/bts-guidelines-for-home-oxygen-use-in-adults/&quot; title=&quot;BTS Web site&quot;>original guideline document</a> contain a number of resources including a protocol for ambulatory oxygen therapy assessment, an assessment referral form, an assessment protocol for palliative oxygen, risk assessment tools, sample home oxygen order forms (HOOF) and home oxygen consent forms (HOCF), sample patient information leaflets, and practical points for removal of home oxygen.</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on December 9, 2015. The information was verified by the guideline developer on January 18, 2016.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 22:05:53 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:57:34 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 95.066 (3)
+  esindex: 0.005
+  captures_list: 108.392
+  CDXLines.iter: 9.466 (3)
+  PetaboxLoader3.datanode: 97.385 (4)
+  exclusion.robots: 0.257
+  exclusion.robots.policy: 0.246
+  RedisCDXSource: 1.125
+  load_resource: 45.762
+-->

@@ -1,0 +1,903 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app19.us.archive.org';v.server_ms=408;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10928?contentType=xml', '20180713065906')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713065906/https://www.guideline.gov/summaries/downloadcontent/ngc-10928?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713065906/https://www.guideline.gov/summaries/downloadcontent/ngc-10928?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10928?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713065906" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610080343/https://www.guideline.gov/summaries/downloadcontent/ngc-10928?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 06:59:06 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610080343/https://www.guideline.gov/summaries/downloadcontent/ngc-10928?contentType=xml" title="08:03:43 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 06:59:06 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930165049/https://www.guideline.gov/summaries/downloadcontent/ngc-10928?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 06:59:06 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713065906*/https://www.guideline.gov/summaries/downloadcontent/ngc-10928?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10928?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>American Academy of Orthopaedic Surgeons clinical practice guideline on management of carpal tunnel syndrome.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>American Academy of Orthopaedic Surgeons (AAOS). American Academy of Orthopaedic Surgeons clinical practice guideline on management of carpal tunnel syndrome. Rosemont (IL): American Academy of Orthopaedic Surgeons (AAOS); 2016 Feb 29. 983 p.  [227 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates previous versions:</p>
+<p>American Academy of Orthopaedic Surgeons (AAOS). Clinical practice guideline on the treatment of carpal tunnel syndrome. Rosemont (IL): American Academy of Orthopaedic Surgeons (AAOS); 2008 Sep. 76 p. [116 references]</p>
+<p>American Academy of Orthopaedic Surgeons clinical guideline on diagnosis of carpal tunnel syndrome. Rosemont (IL): American Academy of Orthopaedic Surgeons (AAOS); 2007. 72 p. [381 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Definitions of the strength of recommendations (<strong>Strong</strong>, <strong>Moderate</strong>, <strong>Limited</strong>, and <strong>Consensus</strong>) and Strength Visual (★★★★, ★★★, ★★, ★) are provided at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong>Note from the American Academy of Orthopaedic Surgeons (AAOS)</strong>: The following is a summary of the recommendations of the AAOS Clinical Practice Guideline on the Management of Carpal Tunnel Syndrome. All readers of this summary are strongly urged to consult the full guideline and evidence report for this information. The AAOS work group is confident that those who read the full guideline and evidence report will see that the recommendations were developed using systematic evidence-based processes designed to combat bias, enhance transparency, and promote reproducibility.</p>
+<p>This summary of recommendations is not intended to stand alone. Treatment decisions should be made in light of all circumstances presented by the patient. Treatments and procedures applicable to the individual patient rely on mutual communication between patient, physician, and other healthcare practitioners.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Summary of Recommendations</span></strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Observation</span></strong></p>
+<p>Strong evidence supports thenar atrophy is strongly associated with ruling-in carpal tunnel syndrome (CTS), but poorly associated with ruling-out CTS. <strong>Strength of Recommendation: Strong Evidence ★★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Physical Signs</span></strong></p>
+<p>Strong evidence supports not using the Phalen test, Tinel sign, Flick sign, or Upper limb neurodynamic/nerve tension test (ULNT) criterion A/B as independent physical examination maneuvers to diagnose carpal tunnel syndrome, because <span style=&quot;text-decoration: underline;&quot;>alone</span>, each has a poor or weak association with ruling-in or ruling-out CTS. <strong>Strength of Recommendation: Strong Evidence ★★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Maneuvers</span></strong></p>
+<p>Moderate evidence supports not using the following as independent physical examination maneuvers to diagnose CTS, because <span style=&quot;text-decoration: underline;&quot;>alone</span>, each has a poor or weak association with ruling-in or ruling-out CTS:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Carpal compression test </li>
+    <li>Reverse Phalen test </li>
+    <li>Thenar weakness or thumb abduction weakness or abductor pollicis brevis manual muscle testing </li>
+    <li>2-point discrimination </li>
+    <li>Semmes-Weinstein monofilament test </li>
+    <li>CTS-relief maneuver (CTS-RM) </li>
+    <li>Pin prick sensory deficit; thumb or index or middle finger </li>
+    <li>ULNT Criterion C </li>
+    <li>Tethered median nerve stress test </li>
+    <li>Vibration perception &amp;ndash; tuning fork </li>
+    <li>Scratch collapse test </li>
+    <li>Luthy sign </li>
+    <li>Pinwheel </li>
+</ul>
+<p><strong>Strength of Recommendation: Moderate Evidence ★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>History Interview Topics</span></strong></p>
+<p>Moderate evidence supports not using the following as independent history interview topics to diagnose CTS, because <span style=&quot;text-decoration: underline;&quot;>alone</span>, each has a poor or weak association with ruling-in or ruling-out CTS:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Sex/gender </li>
+    <li>Ethnicity </li>
+    <li>Bilateral symptoms </li>
+    <li>Diabetes mellitus </li>
+    <li>Worsening symptoms at night </li>
+    <li>Duration of symptoms </li>
+    <li>Patient localization of symptoms </li>
+    <li>Hand dominance </li>
+    <li>Symptomatic limb </li>
+    <li>Age </li>
+    <li>Body mass index () </li>
+</ul>
+<p><strong>Strength of Recommendation: Moderate Evidence ★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Patient Reported Numbness or Pain</span></strong></p>
+<p>Limited evidence supports that patients who do not report frequent numbness or pain might not have CTS. <strong>Strength of Recommendation: Limited Evidence ★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Hand-held Nerve Conduction Study (NCS)</span></strong></p>
+<p>Limited evidence supports that a hand-held NCS device might be used for the diagnosis of CTS. <strong>Strength of Recommendation: Limited Evidence ★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Magnetic Resonance Imaging (MRI)</span></strong></p>
+<p>Moderate evidence supports not routinely using MRI for the diagnosis of CTS. <strong>Strength of Recommendation: Moderate Evidence ★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Diagnostic Ultrasound</span></strong></p>
+<p>Limited evidence supports not routinely using ultrasound for the diagnosis of CTS. <strong>Strength of Recommendation: Limited Evidence ★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Diagnostic Scales</span></strong></p>
+<p>Moderate evidence supports that diagnostic questionnaires and/or electrodiagnostic studies could be used to aid the diagnosis of CTS. <strong>Strength of Recommendation: Moderate Evidence ★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Increased Risk of CTS</span></strong></p>
+<ol style=&quot;list-style-type: upper-alpha;&quot; start=&quot;1&quot;>
+    <li>Strong evidence supports that BMI and high hand/wrist repetition rate are associated with the increased risk of developing CTS. <strong>Strength of Recommendation: Strong Evidence ★★★★</strong> </li>
+    <li>Moderate evidence supports that the following factors are associated with the increased risk of developing CTS:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Peri-menopausal </li>
+        <li>Wrist ratio/index </li>
+        <li>Rheumatoid arthritis </li>
+        <li>Psychosocial factors </li>
+        <li>Distal upper extremity tendinopathies </li>
+        <li>Gardening </li>
+        <li>American Conference of Governmental Industrial Hygienists Hand Activity Level at or above threshold </li>
+        <li>Assembly line work </li>
+        <li>Computer work </li>
+        <li>Vibration </li>
+        <li>Tendinitis </li>
+        <li>Workplace forceful grip/exertion </li>
+    </ul>
+    <p><strong>Strength of Recommendation: Moderate Evidence ★★★</strong></p>
+    </li>
+    <li>Limited evidence supports that the following factors are associated with the increased risk of developing CTS:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Dialysis </li>
+        <li>Fibromyalgia </li>
+        <li>Varicosis </li>
+        <li>Distal radius fracture </li>
+    </ul>
+    <p><strong>Strength of Recommendation: Limited Evidence ★★</strong></p>
+    </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Decreased Risk of CTS</span></strong></p>
+<p>Moderate evidence supports that physical activity/exercise is associated with the decreased risk of developing CTS. <strong>Strength of Recommendation: Moderate Evidence ★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Factors Showing No Associated Risk of CTS</span></strong></p>
+<ol style=&quot;list-style-type: upper-alpha;&quot; start=&quot;1&quot;>
+    <li>Moderate evidence supports that the use of oral contraception and female hormone replacement therapy (HRT) are not associated with increased or decreased risk of developing CTS. <strong>Strength of Recommendation: Moderate Evidence ★★★</strong> </li>
+    <li>Limited evidence supports that race/ethnicity and female education level are not associated with increased or decreased risk of developing CTS. <strong>Strength of Recommendation: Limited Evidence ★★</strong> </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Factors Showing Conflicting Risk of CTS</span></strong></p>
+<p>Limited evidence supports that the following factors have conflicting results regarding the development of CTS:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Diabetes </li>
+    <li>Age </li>
+    <li>Gender/sex </li>
+    <li>Genetics </li>
+    <li>Comorbid drug use </li>
+    <li>Smoking </li>
+    <li>Wrist bending </li>
+    <li>Workplace </li>
+</ul>
+<p><strong>Strength of Recommendation: Limited Evidence ★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Immobilization</span></strong></p>
+<p>Strong evidence supports that the use of immobilization (brace/splint/orthosis) should improve patient reported outcomes. <strong>Strength of Recommendation: Strong Evidence ★★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Steroid Injections</span></strong></p>
+<p>Strong evidence supports that the use of steroid (methylprednisolone) injection should improve patient reported outcomes. <strong>Strength of Recommendation: Strong Evidence ★★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Magnet Therapy</span></strong></p>
+<p>Strong evidence supports not using magnet therapy for the treatment of CTS. <strong>Strength of Recommendation: Strong Evidence ★★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Oral Treatments</span></strong></p>
+<p>Moderate evidence supports no benefit of oral treatments (diuretic, gabapentin, astaxanthin capsules, non-steroidal anti-inflammatory drugs [NSAIDs], or pyridoxine) compared to placebo. <strong>Strength of Recommendation: Moderate Evidence ★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Oral Steroids</span></strong></p>
+<p>Moderate evidence supports that oral steroids could improve patient reported outcomes as compared to placebo. <strong>Strength of Recommendation: Moderate Evidence ★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Ketoprofen Phonophoresis</span></strong></p>
+<p>Moderate evidence supports that ketoprofen phonophoresis could provide reduction in pain compared to placebo. <strong>Strength of Recommendation: Moderate Evidence ★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Therapeutic Ultrasound</span></strong></p>
+<p>Limited evidence supports that therapeutic ultrasound might be effective compared to placebo. <strong>Strength of Recommendation: Limited Evidence ★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Laser Therapy</span></strong></p>
+<p>Limited evidence supports that laser therapy might be effective compared to placebo. <strong>Strength of Recommendation: Limited Evidence ★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Surgical Release Location</span></strong></p>
+<p>Strong evidence supports that surgical release of the transverse carpal ligament should relieve symptoms and improve function. <strong>Strength of Recommendation: Strong Evidence ★★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Surgical Release Procedure</span></strong></p>
+<p>Limited evidence supports that if surgery is chosen, a practitioner might consider using endoscopic carpal tunnel release based on possible short term benefits. <strong>Strength of Recommendation: Limited Evidence ★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Surgical Versus Nonoperative</span></strong></p>
+<p>Strong evidence supports that surgical treatment of carpal tunnel syndrome should have a greater treatment benefit at 6 and 12 months as compared to splinting, NSAIDs/therapy, and a single steroid injection. <strong>Strength of Recommendation: Strong Evidence ★★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Adjunctive Techniques</span></strong></p>
+<p>Moderate evidence supports that there is no benefit to routine inclusion of the following adjunctive techniques: epineurotomy, neurolysis, flexor tenosynovectomy, and lengthening/reconstruction of the flexor retinaculum (transverse carpal ligament). <strong>Strength of Recommendation: Moderate Evidence ★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Bilateral Versus Staged Carpal Tunnel Release</span></strong></p>
+<p>Limited evidence supports that simultaneous bilateral or staged endoscopic carpal tunnel release might be performed based on patient and surgeon preference. No evidence meeting the inclusion criteria was found addressing bilateral simultaneous open carpal tunnel release. <strong>Strength of Recommendation: Limited Evidence ★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Local Versus Intravenous (IV) Regional Anesthesia</span></strong></p>
+<p>Limited evidence supports the use of local anesthesia rather than IV regional anesthesia (bier block) because it might offer longer pain relief after carpal tunnel release; no evidence meeting the inclusion criteria was found comparing general anesthesia to either regional or local anesthesia for carpal tunnel surgery. <strong>Strength of Recommendation: Limited Evidence ★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Buffered Versus Plain Lidocaine</span></strong></p>
+<p>Moderate evidence supports the use of buffered lidocaine rather than plain lidocaine for local anesthesia because it could result in less injection pain. <strong>Strength of Recommendation: Moderate Evidence ★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Aspirin Use</span></strong></p>
+<p>Limited evidence supports that the patient might continue the use of aspirin perioperatively; no evidence meeting the inclusion criteria addressed other anticoagulants. <strong>Strength of Recommendation: Limited Evidence ★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Preoperative Antibiotics</span></strong></p>
+<p>Limited evidence supports that there is no benefit for routine use of prophylactic antibiotics prior to carpal tunnel release because there is no demonstrated reduction in postoperative surgical site infection. <strong>Strength of Recommendation: Limited Evidence ★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Supervised Versus Home Therapy</span></strong></p>
+<p>Moderate evidence supports no additional benefit to routine supervised therapy over home programs in the immediate postoperative period. No evidence meeting the inclusion criteria was found comparing the potential benefit of exercise versus no exercise after surgery. <strong>Strength of Recommendation: Moderate Evidence ★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Postoperative Immobilization</span></strong></p>
+<p>Strong evidence supports no benefit to routine postoperative immobilization after carpal tunnel release. <strong>Strength of Recommendation: Strong Evidence ★★★★</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Strength of Recommendation Descriptions</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Strength of Recommendation Descriptions&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Strength</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Overall Strength of Evidence</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Description of Evidence Strength</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Strength Visual</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Strong</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Strong</td>
+            <td valign=&quot;top&quot;>Evidence from two or more &quot;High&quot; quality studies with consistent findings for recommending for or against the intervention.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>★★★★</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Moderate</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Moderate</td>
+            <td valign=&quot;top&quot;>Evidence from two or more &quot;Moderate&quot; quality studies with consistent findings, or evidence from a single &quot;High&quot; quality study for recommending for or against the intervention.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>★★★</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Limited</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Low Strength Evidence or Conflicting Evidence</td>
+            <td valign=&quot;top&quot;>Evidence from one or more &quot;Low&quot; quality studies with consistent findings <strong>or</strong> evidence from a single &quot;Moderate&quot; quality study for recommending for against the intervention or diagnostic or the evidence is insufficient or conflicting and does not allow a recommendation for or against the intervention.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>★★</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Consensus</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>No Evidence</td>
+            <td valign=&quot;top&quot;>There is no supporting evidence. In the absence of reliable evidence, the guideline development group is making a recommendation based on their clinical opinion. Consensus statements are published in a separate, complimentary document.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>★</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Carpal tunnel syndrome (CTS)</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Orthopedic Surgery"/>
+      <fieldvalue value="Physical Medicine and Rehabilitation"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Health Plans"/>
+      <fieldvalue value="Occupational Therapists"/>
+      <fieldvalue value="Physical Therapists"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Public Health Departments"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To help improve treatment based on the current best evidence </li>
+    <li>To serve as an information resource for decision makers and developers of practice guidelines and recommendations </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adult patients presenting with complaints which may be attributable to carpal tunnel syndrome (CTS)</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Diagnosis/Risk Assessment</span></strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Observation for thenar atrophy </li>
+    <li>Physical signs/maneuvers and history (not recommended to be used alone) </li>
+    <li>Diagnostic questionnaires and/or electrodiagnostic studies </li>
+    <li>Risk assessment based on specific patient factors </li>
+    <li>Hand-held nerve conduction study </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Management/Treatment</span></strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Non-operative treatment (with regular monitoring)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Local steroid injection </li>
+        <li>Immobilization (brace/splint/orthosis) </li>
+        <li>Oral steroids </li>
+        <li>Ultrasound </li>
+        <li>Ketoprofen phonophoresis </li>
+        <li>Laser therapy </li>
+    </ul>
+    </li>
+    <li>Surgical treatment
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Release of the transverse carpal ligament </li>
+        <li>Endoscopic carpal tunnel release </li>
+        <li>Simultaneous bilateral or staged endoscopic carpal tunnel release </li>
+        <li>Complete division of flexor retinaculum </li>
+        <li>Local anesthesia </li>
+        <li>Buffered lidocaine </li>
+        <li>Perioperative aspirin </li>
+    </ul>
+    </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: The following were considered but evidence did not support benefit: magnetic resonance imaging (MRI), diagnostic ultrasound, oral treatments (diuretic, gabapentin, astaxanthin capsules, non-steroidal anti-inflammatory drugs [NSAIDs], or pyridoxine), magnet therapy, routine inclusion of adjunctive techniques (epineurotomy, neurolysis, flexor tenosynovectomy, and lengthening/reconstruction of the flexor retinaculum [transverse carpal ligament]), routine use of prophylactic antibiotics prior to carpal tunnel release, routine supervised therapy over home programs in the immediate postoperative period, routine postoperative immobilization after carpal tunnel release.</p></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Incidence and prevalence of carpal tunnel syndrome </li>
+    <li>Relief of condition </li>
+    <li>Permanent sensory loss </li>
+    <li>Functional status </li>
+    <li>Quality of life </li>
+    <li>Patient satisfaction </li>
+    <li>Surgical complications </li>
+    <li>Cost </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Study Selection Criteria</span></strong></p>
+<p>The American Academy of Orthopaedic Surgeons (AAOS) developed <em>a priori</em> article inclusion criteria for review. These criteria are &quot;rules of evidence&quot; and articles that did not meet them are, for the purposes of this guideline, not evidence.</p>
+<p>To be included in the systematic reviews (and hence, in this guideline) an article had to meet the following criteria:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Study must be of a carpal tunnel syndrome (CTS) injury or prevention thereof </li>
+    <li>Study must be published in or after 1966 for <em>surgical treatment</em>, <em>rehabilitation</em>, <em>bracing</em>, <em>prevention</em> and <em>magnetic resonance imaging (MRI)</em> </li>
+    <li>Study must be published in or after 1966 for <em>x rays</em> and <em>non-operative treatment</em> </li>
+    <li>Study must be published in or after 1966 for all others non specified </li>
+    <li>Study should have 10 or more patients per group </li>
+    <li>For surgical treatment a minimum of 3 months follow up duration </li>
+    <li>Antibiotic prophylaxis, anticoagulations, mode of anesthesia: all follow-ups </li>
+    <li>For <em>non-operative</em> treatment a minimum of 1 month </li>
+</ul>
+<p><strong>Standard Criteria for all Clinical Practice Guidelines</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Article must be a full article report of a clinical study. </li>
+    <li>Retrospective non-comparative case series, medical records review, meeting abstracts, historical articles, editorials, letters, and commentaries are <strong><em>excluded</em></strong>. </li>
+    <li>Confounded studies (i.e., studies that give patients the treatment of interest AND another treatment) are <strong><em>excluded</em></strong>. </li>
+    <li>Case series studies that have non-consecutive enrollment of patients are <strong><em>excluded</em></strong>. </li>
+    <li>Controlled trials in which patients were not stochastically assigned to groups AND in which there was either a difference in patient characteristics or outcomes at baseline AND where the authors did not statistically adjust for these differences when analyzing the results are <strong><em>excluded</em></strong>. </li>
+    <li>All studies of &quot;Very Weak&quot; strength of evidence are <strong><em>excluded</em></strong>. </li>
+    <li>All studies evaluated as Level V will be <strong><em>excluded</em></strong>. </li>
+    <li>Composite measures or outcomes are <strong><em>excluded</em></strong> even if they are patient-oriented. </li>
+    <li>Study must appear in a peer-reviewed publication. </li>
+    <li>For any included study that uses &quot;paper-and-pencil&quot; outcome measures (e.g., 36-Item Short Form Health Survey [SF-36]), only those outcome measures that have been validated will be included </li>
+    <li>For any given follow-up time point in any included study, there must be &amp;ge;50% patient follow-up (if the follow-up is &amp;gt;50% but &amp;lt;80%, the study quality will be downgraded by one Level). </li>
+    <li>Study must be of humans. </li>
+    <li>Study must be published in English. </li>
+    <li>Study results must be quantitatively presented. </li>
+    <li>Study must not be an in vitro study. </li>
+    <li>Study must not be a biomechanical study. </li>
+    <li>Study must not have been performed on cadavers. </li>
+</ul>
+<p>Surrogate outcomes will only be evaluated when no patient oriented outcomes are available.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Literature Searches</span></strong></p>
+<p>The systematic review began with a comprehensive search of the literature. Articles considered were published prior to February 27, 2015 in four electronic databases: PubMed, EMBASE, CINAHL, and The Cochrane Central Register of Controlled Trials. The medical librarian conducted the search using key terms determined from the guideline development group's preliminary recommendations.</p>
+<p>The electronic search was supplemented with a manual search of the bibliographies of all retrieved publications, recent systematic reviews, and other review articles for potentially relevant citations. Recalled articles are evaluated for possible inclusion based on the study selection criteria and are summarized for the guideline development group who assist with reconciling possible errors and omissions.</p>
+<p>The study attrition diagram in Appendix IV (see the original guideline document) provides a detailed description of the numbers of identified abstracts and recalled and selected studies that were evaluated in the systematic review of this guideline. The search strategies used to identify the abstracts are contained in Appendix V in the original guideline document.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>230 articles included after full text review and quality analysis (see the Study Attrition Flowchart in Appendix IV of the original guideline document)</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Methods for Evaluating Evidence</span></strong></p>
+<p>The American Academy of Orthopaedic Surgeons (AAOS) judges quality based on <em>a priori</em> population, intervention, comparison, and outcome (PICO) questions and use an automated numerical scoring process to arrive at final ratings. Extensive measures are taken to determine quality ratings so that they are free of bias.</p>
+<p>The quality of evidence is evaluated separately for each study using modified versions of the Grading of Recommendations Assessment, Development and Evaluation (GRADE) and Quality Assessment of Diagnostic Studies (QUADAS) instruments. Depending on the type of study (i.e., diagnostic, prognostic, randomized control trial, or observational) the study design is evaluated using a list of standardized questions (see below for the domains evaluated for each type of study design).</p>
+<p><strong>Diagnostic Study Quality Appraisal Questions</strong></p>
+<p>The following questions are used to evaluate the study quality of diagnostic study designs.</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Was the patient spectrum representative of the patients who will receive the test in practice? </li>
+    <li>Were the selection criteria clearly described? </li>
+    <li>Was the execution of the index and reference tests described in sufficient detail to permit its replication? </li>
+    <li>Is the reference standard likely to correctly classify the target condition? </li>
+    <li>Are the index test(s) results interpreted by an examiner without the knowledge of the reference tests results (or vice versa)? </li>
+    <li>Other bias? </li>
+</ol>
+<p><em>Diagnostic Study Design Quality Key</em></p>
+<table width=&quot;40%&quot; border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Diagnostic Study Design Quality Key&quot;>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>High Quality Study</td>
+            <td valign=&quot;top&quot;>&amp;lt;1 Flaw</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Moderate Quality Study</td>
+            <td valign=&quot;top&quot;>&amp;ge;1 and &amp;lt;2 Flaws</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Low Quality Study</td>
+            <td valign=&quot;top&quot;>&amp;ge;2 and &amp;lt;3 Flaws</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Very Low Quality Study</td>
+            <td valign=&quot;top&quot;>&amp;ge;3 Flaws</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Prognostic Study Quality Appraisal Questions</strong></p>
+<p>The following questions are used to evaluate the study quality of prognostic study designs.</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Was the spectrum of patients studied for this prognostic variable representative of the patient spectrum seen in actual clinical practice? </li>
+    <li>Was loss to follow up unrelated to key characteristics? </li>
+    <li>Was the prognostic factor of interest adequately measured in the study to limit potential bias? </li>
+    <li>Was the outcome of interest adequately measured in study participants to sufficiently limit bias? </li>
+    <li>Were all important confounders adequately measured in study participants to sufficiently limit potential bias? </li>
+    <li>Was the statistical analysis appropriate for the design of the study, limiting potential for presentation of invalid results? </li>
+</ol>
+<p><em>Prognostic Study Design Quality Key</em></p>
+<table width=&quot;40%&quot; border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Prognostic Study Design Quality Key&quot;>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>High Quality Study</td>
+            <td valign=&quot;top&quot;>&amp;lt;1 Flaw</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Moderate Quality Study</td>
+            <td valign=&quot;top&quot;>&amp;ge;1 and &amp;lt;2 Flaws</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Low Quality Study</td>
+            <td valign=&quot;top&quot;>&amp;ge;2 and &amp;lt;3 Flaws</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Very Low Quality Study</td>
+            <td valign=&quot;top&quot;>&amp;ge;3 Flaws</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Randomized Study Quality Appraisal Questions</strong></p>
+<p>The following domains are evaluated to determine the study quality of randomized study designs.</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Random sequence generation </li>
+    <li>Allocation concealment </li>
+    <li>Blinding of participants and personnel </li>
+    <li>Incomplete outcome data </li>
+    <li>Selective reporting </li>
+    <li>Other bias </li>
+</ol>
+<p><em>Upgrading Randomized Study Quality Questions</em></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Is there a large magnitude of effect? </li>
+    <li>Influence of all plausible residual confounding </li>
+    <li>Dose-response gradient </li>
+</ol>
+<p><em>Randomized Study Design Quality Key</em></p>
+<table width=&quot;40%&quot; border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Randomized Study Design Quality Key&quot;>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>High Quality Study</td>
+            <td valign=&quot;top&quot;>&amp;lt;2 Flaws</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Moderate Quality Study</td>
+            <td valign=&quot;top&quot;>&amp;ge;2 and &amp;lt;4 Flaws</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Low Quality Study</td>
+            <td valign=&quot;top&quot;>&amp;ge;4 and &amp;lt;6 Flaws</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Very Low Quality Study</td>
+            <td valign=&quot;top&quot;>&amp;ge;6 Flaws</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Observational Study Design Quality Appraisal Questions</strong></p>
+<p>The following questions are used to evaluate the study quality of observational study designs. Note that all observation studies begin the appraisal process at &quot;low quality&quot; due to design flaws inherent in observational studies.</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Is this observational study a prospective case series? </li>
+    <li>Does the strategy for recruiting participants into the study differ across groups? </li>
+    <li>Did the study fail to balance the allocation between the groups or match groups (e.g., through stratification, matching, propensity scores)? </li>
+    <li>Were important confounding variables not taken into account in the design and/or analysis (e.g., through matching, stratification, interaction terms, multivariate analysis, or other statistical adjustment such as instrumental variables)? </li>
+    <li>Was the length of follow-up different across study groups? </li>
+    <li>Other bias? </li>
+</ol>
+<p><em>Upgrading Observational Study Quality Questions</em></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Is there a large magnitude of effect? </li>
+    <li>Influence of all plausible residual confounding </li>
+    <li>Dose-response gradient </li>
+</ol>
+<p><em>Observational Study Design Quality Key</em></p>
+<table width=&quot;40%&quot; border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Observational Study Design Quality Key&quot;>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>High Quality Study</td>
+            <td valign=&quot;top&quot;>&amp;lt;2 Flaws</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Moderate Quality Study</td>
+            <td valign=&quot;top&quot;>&amp;ge;2 and &amp;lt;4 Flaws</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Low Quality Study</td>
+            <td valign=&quot;top&quot;>&amp;ge;4 and &amp;lt;6 Flaws</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Very Low Quality Study</td>
+            <td valign=&quot;top&quot;>&amp;ge;6 Flaws</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Meta-Analysis of Randomized Controlled Trials"/>
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Best Evidence Synthesis</span></strong></p>
+<p>Only the best available evidence for any given outcome addressing a recommendation was included. Accordingly, first included was the highest quality evidence for any given outcome if it was available. In the absence of two or more occurrences of an outcome at this quality, the authors considered outcomes of the next lowest quality until at least two or more occurrences of an outcome had been acquired. For example, if there were two &quot;moderate&quot; quality occurrences of an outcome that addressed a recommendation, the authors did not include &quot;low&quot; quality occurrences of this outcome. A summary of the evidence that met the inclusion criteria, but was not best available evidence was created and can be viewed by recommendation in Appendix XII in the original guideline document.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statistical Methods</span></strong></p>
+<p><strong>Analysis of Diagnostic Data</strong></p>
+<p>Likelihood ratios (LRs), sensitivity, specificity and 95% confidence intervals were calculated to determine the accuracy of diagnostic modalities based on two by two diagnostic contingency tables extracted from the included studies. When summary values of sensitivity, specificity, or other diagnostic performance measures were reported, estimates of the diagnostic contingency table were used to calculate LRs.</p>
+<p>LRs indicate the magnitude of the change in probability of disease due to a given test result. For example, a positive LR of 10 indicates that a positive test result is 10 times more common in patients with disease than in patients without disease. LRs are interpreted according to previously published values, as seen in Table 4 in the original guideline document.</p>
+<p><strong>Analysis of Intervention/Prevention Data</strong></p>
+<p>When possible, the results were recalculated and reported in individual studies and compiled to answer the recommendations. The results of all statistical analysis conducted by the American Academy of Orthopaedic Surgeons (AAOS) Clinical Practice Guidelines Unit are conducted using SAS 9.4. SAS was used to determine the magnitude, direction, and/or 95% confidence intervals of the treatment effect. For data reported as means (and associated measures of dispersion) the mean difference between groups and the 95% confidence interval was calculated and a two-tailed t-test of independent groups was used to determine statistical significance. When published studies report measures of dispersion other than the standard deviation the value was estimated to facilitate calculation of the treatment effect. In studies that report standard errors or confidence intervals the standard deviation was back-calculated. In some circumstances statistical testing was conducted by the authors and measures of dispersion were not reported. In the absence of measures of dispersion, the results of the statistical analyses conducted by the authors (i.e., the p-value) are considered as evidence. For proportions, the authors report the proportion of patients that experienced an outcome along with the percentage of patients that experienced an outcome. The variance of the arcsine difference was used to determine statistical significance. P-values &amp;lt;0.05 were considered statistically significant.</p>
+<p>When the data was available, meta-analyses were performed using the random effects method of DerSimonian and Laird. A minimum of three studies was required for an outcome to be considered by meta-analysis. Heterogeneity was assessed with the I-squared statistic. Meta-analyses with I-squared values less than 50% were considered as evidence. Those with I-squared larger than 50% were not considered as evidence for this guideline. All meta-analyses were performed using SAS 9.4. The arcsine difference was used in meta-analysis of proportions. In order to overcome the difficulty of interpreting the magnitude of the arcsine difference, a summary odds ratio is calculated based on random effects meta-analysis of proportions and the number needed to treat (or harm) is calculated. The standardized mean difference was used for meta-analysis of means and magnitude was interpreted using Cohen's definitions of small, medium, and large effect.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus (Nominal Group Technique)"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This guideline and systematic review were prepared by the American Academy of Orthopaedic Surgeons (AAOS) Management of Carpal Tunnel Syndrome Guideline physician guideline development group (clinical experts) with the assistance of the AAOS Evidence-Based Medicine (EBM) Unit in the Department of Research and Scientific Affairs (methodologists) at the AAOS. To develop this guideline, the guideline development group held an introductory meeting on February 1, 2013 to establish the scope of the guideline and the systematic reviews. As the physician experts, the guideline development group defined the scope of the guideline by creating PICO Questions (i.e., population, intervention, comparison, and outcome) that directed the literature search. When necessary, these clinical experts also provided content help, search terms and additional clarification for the AAOS medical librarian. The medical librarian created and executed the search(s). The supporting group of methodologists (AAOS EBM Unit) reviewed all abstracts, recalled pertinent full-text articles for review and evaluated the quality of studies meeting the inclusion criteria. They also abstracted, analyzed, interpreted, and/or summarized the relevant evidence for each recommendation and prepared the initial draft for the final meeting. Upon completion of the systematic reviews, the physician guideline development group participated in a three-day recommendation meeting on May 15-17, 2015. At this meeting, the physician experts and methodologists evaluated and integrated all material to develop the final recommendations. The final recommendations and rationales were edited, written and voted on at the final meeting. The draft guideline recommendations and rationales received final review by the methodologists to ensure that these recommendations and rationales were consistent with the data. The draft was then completed and submitted for peer review on September 8, 2015.</p>
+<p>The resulting draft guidelines were then peer-reviewed, edited in response to that review and subsequently sent for public commentary, whereafter additional edits were made. Thereafter, the draft guideline was sequentially approved by the AAOS Committee on Evidence-Based Quality and Value, AAOS Council on Research and Quality, and the AAOS Board of Directors. All AAOS guidelines are reviewed and updated or retired every five years in accordance with the criteria of the National Guideline Clearinghouse (NGC).</p>
+<p>Thus the process of AAOS guideline development incorporates the benefits from clinical physician expertise as well as the statistical knowledge and interpretation of non-conflicted methodologists. The process also includes an extensive review process offering the opportunity for over 200 clinical physician experts to provide input into the draft prior to publication. This process provides a sound basis for minimizing bias, enhancing transparency and ensuring the highest level of accuracy for interpretation of the evidence.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Formulating PICO Questions</span></strong></p>
+<p>The guideline development group began work on this guideline by constructing a set of PICO questions. These questions specify the patient population of interest (P), the intervention of interest (I), the comparisons of interest (C), and the patient-oriented outcomes of interest (O). They function as questions for the systematic review, not as final recommendations or conclusions. Once established, these <em>a priori</em> PICO questions cannot be modified until the final guideline development group meeting.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Defining the Strength of the Recommendations</span></strong></p>
+<p>Judging the strength of evidence is only a stepping stone towards arriving at the strength of a guideline recommendation. The strength of recommendation also takes into account the quality, quantity, and the trade-off between the benefits and harms of a treatment, the magnitude of a treatment's effect, and whether there is data on critical outcomes.</p>
+<p>Strength of recommendation expresses the degree of confidence one can have in a recommendation. As such, the strength expresses how possible it is that a recommendation will be overturned by future evidence. It is very difficult for future evidence to overturn a recommendation that is based on many high quality randomized controlled trials that show a large effect. It is much more likely that future evidence will overturn recommendations derived from a few small case series. Consequently, recommendations based on the former kind of evidence are given a high strength of recommendation and recommendations based on the latter kind of evidence are given a low strength.</p>
+<p>To develop the strength of a recommendation, AAOS staff first assigned a preliminary strength for each recommendation that took only the final strength of evidence (including quality and applicability) and the quantity of evidence (see the &quot;Rating Scheme for the Strength of the Recommendations&quot; field).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Wording of the Final Recommendations</span></strong></p>
+<p>To prevent bias in the way recommendations are worded, the AAOS uses specific predetermined language stems that are governed by the evidence strengths. Each recommendation was written using language that accounts for the final strength of the recommendation.</p>
+<p><strong>AAOS Guideline Language Stems</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: AAOS Guideline Language Stems&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Guideline Language</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Strength of Recommendation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Strong evidence supports that the practitioner should/should not do X, because&amp;hellip;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Strong</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Moderate evidence supports that the practitioner could/could not do X, because&amp;hellip;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Moderate</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Limited evidence supports that the practitioner might/might not do X, because&amp;hellip;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Limited</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>In the absence of reliable evidence, it is the <strong><em>opinion</em></strong> of this work group that&amp;hellip;*</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Consensus*</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>*Consensus based recommendations are made according to specific criteria. These criteria can be found in Appendix VII in the original guideline document.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Voting on the Recommendations</span></strong></p>
+<p>The recommendations and their strength were voted on by the guideline development group members during the final meeting. If disagreement between the guideline development group occurred, there was further discussion to see whether the disagreement(s) could be resolved. Recommendations were approved and adopted in instances where a simple majority (60%) of the guideline development group voted to approve.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Strength of Recommendation Descriptions</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Strength of Recommendation Descriptions&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Strength</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Overall Strength of Evidence</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Description of Evidence Strength</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Strength Visual</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Strong</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Strong</td>
+            <td valign=&quot;top&quot;>Evidence from two or more &quot;High&quot; quality studies with consistent findings for recommending for or against the intervention.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>★★★★</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Moderate</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Moderate</td>
+            <td valign=&quot;top&quot;>Evidence from two or more &quot;Moderate&quot; quality studies with consistent findings, or evidence from a single &quot;High&quot; quality study for recommending for or against the intervention.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>★★★</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Limited</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Low Strength Evidence or Conflicting Evidence</td>
+            <td valign=&quot;top&quot;>Evidence from one or more &quot;Low&quot; quality studies with consistent findings <strong>or</strong> evidence from a single &quot;Moderate&quot; quality study for recommending for against the intervention or diagnostic or the evidence is insufficient or conflicting and does not allow a recommendation for or against the intervention.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>★★</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Consensus</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>No Evidence</td>
+            <td valign=&quot;top&quot;>There is no supporting evidence. In the absence of reliable evidence, the guideline development group is making a recommendation based on their clinical opinion. Consensus statements are published in a separate, complimentary document.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>★</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Peer Review</span></strong></p>
+<p>Following the final meeting, the guideline draft undergoes peer review for additional input from external content experts. Written comments are provided on the structured review form (see Appendix VII in the original guideline document). All peer reviewers are required to disclose their conflicts of interest. To guide who participates, the guideline development group identifies specialty societies at the introductory meeting. <em>Organizations</em>, not <em>individuals</em>, are specified.</p>
+<p>The specialty societies are solicited for nominations of individual peer reviewers approximately six weeks before the final meeting. The peer review period is announced as it approaches and others interested are able to volunteer to review the draft. The chair of the American Academy of Orthopaedic Surgeons (AAOS) Committee on Evidence Based Quality and Value reviews the draft of the guideline prior to dissemination.</p>
+<p>Some specialty societies (both orthopaedic and non-orthopaedic) ask their evidence-based practice (EBP) committee to provide review of the guideline. The organization is responsible for coordinating the distribution of materials and consolidating their comments onto one form. The chair of the external EBP committees provides disclosure of their conflicts of interest (COI) and manages the potential conflicts of their members.</p>
+<p>Again, the AAOS asks for comments to be assembled into a single response form by the specialty society and for the individual submitting the review to provide disclosure of potentially conflicting interests. The peer review stage gives external stakeholders an opportunity to provide evidence-based direction for modifications that they believe have been overlooked. Since the draft is subject to revisions until its approval by the AAOS Board of Directors as the final step in the guideline development process, confidentiality of all working drafts is essential.</p>
+<p>The manager of the evidence-based medicine unit drafts the initial responses to comments that address methodology. These responses are then reviewed by the guideline development group chair and vice-chair, who respond to questions concerning clinical practice and techniques. The director of the Department of Research and Scientific Affairs provides input as well. All comments received and the initial drafts of the responses are also reviewed by all members of the guideline development group. All changes to a recommendation as a result of peer review are based on the evidence and undergoes majority vote by the guideline development group members via teleconference. Final revisions are summarized in a detailed report that is made part of the guideline document throughout the remainder of the review and approval processes.</p>
+<p>The AAOS believes in the importance of demonstrating responsiveness to input received during the peer review process and welcomes the critiques of external specialty societies. Following final approval of the guideline, all individual responses are posted on the <a href=&quot;http://www.aaos.org/guidelines&quot; title=&quot;AAOS Web site&quot;>AAOS Web site</a> with a point-by-point reply to each non-editorial comment. Reviewers who wish to remain anonymous notify the AAOS to have their names de-identified; their comments, the authors'&amp;nbsp;responses, and their COI disclosures are still posted.</p>
+<p>Review of the Management of Carpal Tunnel Syndrome guideline was requested of 18 organizations. Seven returned comments on the structured review form (see Appendix IX in the original guideline document).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Public Commentary</span></strong></p>
+<p>After modifying the draft in response to peer review, the guideline was subjected to a thirty day period of &quot;Public Commentary.&quot; Commentators consist of members of the AAOS, members of the Council on Research and Quality, members of the Board of Councilors, and members of the Board of Specialty Societies. The guideline is automatically forwarded to the AAOS Board of Directors and Council on Research and Quality so that they may review it and provide comment prior to being asked to approve the document. Members of the Board of Councilors and Board of Specialty Societies are solicited for interest. If they request to see the document, it is forwarded to them for comment. Based on these bodies, over 200 commentators have the opportunity to provide input into this guideline. Three members returned public comments.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>The AAOS Guideline Approval Process</span></strong></p>
+<p>This final guideline draft must be approved by the AAOS Committee on Evidence Based Quality and Value Committee, the AAOS Council on Research and Quality, and the AAOS Board of Directors. These decision-making bodies are described in Appendix II in the original guideline document and are not designated to modify the contents. Their charge is to approve or reject its publication by majority vote.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is stated for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The main benefit of a guideline focused on diagnosis is the emphasis on standardized diagnostic criteria which reduce variability in the case definition for carpal tunnel syndrome (CTS). This could have an important impact on the care of CTS, by minimizing the risk of incorrect diagnosis, and also help in the design of studies seeking to identify associations with specific workplace exposures, an area of interest for workers.</p>
+<p>The benefits of treatment recommendations include decreased variability of care, relief of pain, and improvement in function.</p>
+<p>Refer to the original guideline document for benefits of specific interventions.</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The user should be aware of the limitations and specific utility of hand-held nerve conduction study (NCS) devices. They should not be used in patients that have symptoms or signs that might suggest an alternative diagnosis or in patients who have weakness or atrophy. Use of the hand-held NCS device in those with alternative diagnosis to carpal tunnel syndrome (CTS) or motor deficit may result in missed or delayed diagnosis. </li>
+    <li>While diagnostic scales/questionnaires can be used for the clinical assessment of CTS, they may be unable to exclude other etiologies that could mimic CTS (such as cervical radiculopathy), or identify other disorders (such as polyneuropathy) that may affect the decision making process regarding therapy. Where indicated, appropriate clinical evaluation for alternative diagnoses should be carried out. Electrodiagnostic testing may be of most value when the clinical diagnosis is unclear or when atypical features exist. </li>
+    <li>There is potential harm of corticosteroid injection in the vicinity of flexor tendons and neurovascular structures. </li>
+    <li>The risks associated with surgical release are those of a small outpatient operative procedure. </li>
+    <li>The main concern with the local infiltration of anesthetic agents is the well-documented cardiotoxicity of bupivacaine. </li>
+    <li>There is a potential risk of bleeding in patients who undergo surgical procedures while on anticoagulants. </li>
+    <li>Routine use of prophylactic antibiotics is not without consequence. Financial cost, anaphylaxis, development of antibiotic resistance, and changes in microbiome population are all factors. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>This Clinical Practice Guideline was developed by an American Academy of Orthopaedic Surgeons (AAOS) physician volunteer guideline development group based on a systematic review of the current scientific and clinical information and accepted approaches to treatment and/or diagnosis. This Clinical Practice Guideline is not intended to be a fixed protocol, as some patients may require more or less treatment or different means of diagnosis. Clinical patients may not necessarily be the same as those found in a clinical trial. Patient care and treatment should always be based on a clinician's independent medical judgment, given the individual patient's clinical circumstances. </li>
+    <li>This summary of recommendations is not intended to stand alone. Treatment decisions should be made in light of all circumstances presented by the patient. Treatments and procedures applicable to the individual patient rely on mutual communication between patient, physician, and other healthcare practitioners. </li>
+    <li>Some drugs or medical devices referenced or described in this Clinical Practice Guideline may not have been cleared by the U.S. Food and Drug Administration (FDA) or may have been cleared for a specific use only. The FDA has stated that it is the responsibility of the physician to determine the FDA clearance status of each drug or device he or she wishes to use in clinical practice. </li>
+    <li>Musculoskeletal care is provided in many different settings by many different providers. The authors created this guideline as an educational tool to guide qualified physicians through a series of treatment decisions in an effort to improve the quality and efficiency of care. This guideline should not be construed as including all proper methods of care or excluding methods of care reasonably directed to obtaining the same results. The ultimate judgment regarding any specific procedure or treatment must be made in light of all circumstances presented by the patient and the needs and resources particular to the locality or institution. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Guideline Dissemination Plans</span></strong></p>
+<p>The primary purpose of the present document is to provide interested readers with full documentation about not only the recommendations, but also about how the authors arrived at those recommendations.</p>
+<p>Shorter versions of the guideline are available in other venues. Publication of most guidelines is announced by an Academy press release, articles authored by the guideline development group and published in the <em>Journal of the American Academy of Orthopaedic Surgeons</em>, and articles published in <em>AAOS Now</em>. Most guidelines are also distributed at the American Academy of Orthopaedic Surgeons (AAOS) Annual Meeting in various venues such as on Academy Row and at Committee Scientific Exhibits.</p>
+<p>Selected guidelines are disseminated by webinar, an Online Module for the Orthopaedic Knowledge Online Web site, Radio Media Tours, Media Briefings, and by distributing them at relevant Continuing Medical Education (CME) courses and at the AAOS Resource Center.</p>
+<p>Other dissemination efforts outside of the AAOS will include submitting the guideline to the National Guideline Clearinghouse (NGC), the Guidelines International Network library, and distributing the guideline at other medical specialty societies' meetings.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Mobile Device Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>American Academy of Orthopaedic Surgeons (AAOS). American Academy of Orthopaedic Surgeons clinical practice guideline on management of carpal tunnel syndrome. Rosemont (IL): American Academy of Orthopaedic Surgeons (AAOS); 2016 Feb 29. 983 p.  [227 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2016 Feb 29"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American Academy of Orthopaedic Surgeons - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This Clinical Practice Guideline was funded exclusively by the American Academy of Orthopaedic Surgeons (AAOS) who received no funding from outside commercial sources to support the development of this document.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Guideline Development Group</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Work Group</em>: Brent Graham, MD, MSc, FRCSC (<em>Chair</em>), American Society for Surgery of the Hand, Toronto Western Hospital, Toronto, Ontario; Allan E. Peljovich, MD, MPH (<em>Vice-Chair</em>), American Academy of Orthopaedic Surgeons, The Hand &amp;amp; Upper Extremity Center of Georgia, P.C., Atlanta, GA; Robert Afra, MD, American Academy of Orthopaedic Surgeons, American Orthopaedics and Sports Medicine, Encinitas, CA; Mickey S. Cho, MD, American Academy of Orthopaedic Surgeons, Dept. of Orthopaedic Surgery &amp;amp; Rehabilitation, San Antonio Military Medical Center, Ft Sam Houston, TX; Rob Gray, MD, American Academy of Orthopaedic Surgeons, North-Shore University HealthCare System, Skokie, IL; John Stephenson, MD, American Academy of Orthopaedic Surgeons, University of Arkansas for Medical Sciences Department of Orthopaedic Surgery, Little Rock, AR; Andrew Gurman, MD, American Medical Association, Altoona Hand and Wrist Surgery, LLC, Altoona, PA; Joy MacDermid, PhD, American Society of Hand Therapist, Hand and Upper Limb Centre, St. Joseph's Health Centre, London, Ontario; Gary Mlady, MD, American College of Radiology, Department of Radiology, University of New Mexico, Albuquerque, NM; Atul T. Patel, MD, American Academy for Physical Medicine and Rehabilitation, Kansas City Bone &amp;amp; Joint Clinic, P.A., Overland Park, KS; David Rempel, MD, MPH, American College of Occupational and Environmental Medicine, University of California, Richmond, CA; Tamara D. Rozental, MD, American Society for Surgery of the Hand, Beth Israel Deaconess Medical Center, Department of Orthopaedic Surgery, Boston, MA; Mohammad Kian Salajegheh, MD, American Academy of Neurology, Department of Neurology, Brigham and Women's Hospital, Boston, MA</p>
+<p><em>Guidelines Oversight Chair</em>: Michael Warren Keith, MD </p>
+<p><em>AAOS Clinical Practice Guidelines Section Leader</em>: Kevin Shea, MD</p>
+<p><em>AAOS Council on Research and Quality Chair</em>: Kevin J. Bozic, MD, MBA</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>In accordance with American Academy of Orthopaedic Surgeons (AAOS) policy, all individuals whose names appear as authors or contributors to Clinical Practice Guideline filed a disclosure statement as part of the submission process. All panel members provided full disclosure of potential conflicts of interest prior to voting on the recommendations contained within this Clinical Practice Guidelines.</p>
+<p>Applicants with financial conflicts of interest (COI) related to the guideline topic cannot participate if the conflict occurred within one year of the start date of the guideline's development or if an immediate family member has, or has had, a relevant financial conflict. Additionally, all guideline development group members sign an attestation form agreeing to remain free of relevant financial conflicts for one year following the publication of the guideline.</p>
+<p>See Appendix IX in the original guideline document for individual work group members' conflicts of interest.</p></div>"/>
+    </field>
+    <field fieldid="159" ordby="1255" id="453" name="Guideline Endorser(s)" type="orglist">
+      <fieldvalue value="American College of Radiology - Medical Specialty Society"/>
+      <fieldvalue value="American College of Surgeons - Medical Specialty Society"/>
+      <fieldvalue value="American Society for Surgery of the Hand - Medical Specialty Society"/>
+      <fieldvalue value="American Society of Plastic Surgeons - Medical Specialty Society"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates previous versions:</p>
+<p>American Academy of Orthopaedic Surgeons (AAOS). Clinical practice guideline on the treatment of carpal tunnel syndrome. Rosemont (IL): American Academy of Orthopaedic Surgeons (AAOS); 2008 Sep. 76 p. [116 references]</p>
+<p>American Academy of Orthopaedic Surgeons clinical guideline on diagnosis of carpal tunnel syndrome. Rosemont (IL): American Academy of Orthopaedic Surgeons (AAOS); 2007. 72 p. [381 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://www.orthoguidelines.org/topic?id=1020&quot; title=&quot;OrthoGuidelines Web site&quot;>OrthoGuidelines Web site</a>.</p>
+<p>All AAOS clinical practice guidelines can be accessed through the AAOS OrthoGuidelines mobile app available from the <a href=&quot;http://www.orthoguidelines.org/nativeapp&quot; title=&quot;OrthoGuidelines Web site&quot;>OrthoGuidelines Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on December 26, 2008. The information was verified by the guideline developer on January 15, 2009. The currency of the guideline was reaffirmed by the developer in 2011 and updated by ECRI Institute on February 20, 2012. This summary was updated by ECRI Institute on June 14, 2016. The updated information was verified by the guideline developer on June 24, 2016.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions. All rights reserved. For more information, please contact AAOS Department of Research and Scientific Affairs, 9400 West Higgins Road, Rosemont, IL 60018; Phone: (847) 823-7186; Fax: (847) 823-8125.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 06:59:06 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:56:47 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 291.753 (3)
+  esindex: 0.012
+  captures_list: 317.381
+  CDXLines.iter: 15.194 (3)
+  PetaboxLoader3.datanode: 82.438 (4)
+  exclusion.robots: 0.513
+  exclusion.robots.policy: 0.491
+  RedisCDXSource: 5.963
+  load_resource: 60.986
+-->

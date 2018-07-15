@@ -1,0 +1,888 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app42.us.archive.org';v.server_ms=266;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10788?contentType=xml', '20180712225537')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180712225537/https://www.guideline.gov/summaries/downloadcontent/ngc-10788?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180712225537/https://www.guideline.gov/summaries/downloadcontent/ngc-10788?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10788?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180712225537" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610043544/https://www.guideline.gov/summaries/downloadcontent/ngc-10788?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 22:55:37 Jul 12, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610043544/https://www.guideline.gov/summaries/downloadcontent/ngc-10788?contentType=xml" title="04:35:44 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 22:55:37 Jul 12, 2018">12</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930214245/https://www.guideline.gov/summaries/downloadcontent/ngc-10788?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 22:55:37 Jul 12, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180712225537*/https://www.guideline.gov/summaries/downloadcontent/ngc-10788?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 12 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10788?contentType=xml","2018-07-12",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Diagnosis and treatment of adult isthmic spondylolisthesis.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>North American Spine Society (NASS). Diagnosis and treatment of adult isthmic spondylolisthesis. Burr Ridge (IL): North American Spine Society (NASS); 2014. 87 p.  [488 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The grades of recommendations (<strong>A&amp;ndash;C, I</strong>) and levels of evidence (<strong>I&amp;ndash;V</strong>) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definition and Natural History</span></strong></p>
+<p><strong>What is the best working definition of isthmic spondylolisthesis?</strong></p>
+<p>Isthmic spondylolisthesis is the anterior translation of one lumbar vertebra relative to the next caudal segment as a result of an abnormality in the pars interarticularis. When symptomatic, this causes a variable clinical syndrome of back and/or lower extremity pain, and may include varying degrees of neurologic deficits at or below the level of the injury. <em>Work Group Consensus Statement</em></p>
+<p><strong>What is the likelihood that spondylolysis (unilateral and/or bilateral, identified in adolescence or adulthood) will progress to become a symptomatic spondylolisthesis?</strong></p>
+<p>Spondylolisthesis occurs in 40% to 66% of patients with bilateral spondylolysis. Spondylolisthesis is unlikely to occur in patients with unilateral spondylolysis. <em>Grade of Recommendation: B</em></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Diagnosis and Imaging</span></strong></p>
+<p><strong>What are the most appropriate physical examination findings consistent with the diagnosis of isthmic spondylolisthesis in adult patients?</strong></p>
+<p>There is insufficient evidence to make a recommendation for or against the use of palpation in the physical exam diagnosis of adult patients with isthmic spondylolisthesis. <em>Grade of Recommendation: I (Insufficient Evidence)</em></p>
+<p>Approximately half of adult patients with symptomatic isthmic spondylolisthesis will have a positive straight leg test on examination. <em>Grade of Recommendation: B</em></p>
+<p><strong>In adult patients, what symptoms or clinical presentation are associated with the diagnosis of isthmic spondylolisthesis?</strong></p>
+<p>In adult patients with symptomatic isthmic spondylolisthesis, most patients present with low back pain and at least half present radicular lower extremity pain. <em>Grade of Recommendation: B</em></p>
+<p><strong>What are the most appropriate diagnostic tests for adult isthmic spondylolisthesis?</strong></p>
+<p>There is a relative paucity of high quality studies on imaging in adult patients with isthmic spondylolisthesis. It is the opinion of the work group that in adult patients with history and physical examination findings consistent with isthmic spondylolisthesis, standing plain radiographs, with or without oblique views or dynamic radiographs, be considered as the most appropriate, noninvasive test to confirm the presence of isthmic spondylolisthesis. In the absence of a reliable diagnosis on plain radiographs, computed tomography (CT) scan is considered the most reliable diagnostic test to diagnose a defect of the pars interarticularis. In adult patients with radiculopathy, magnetic resonance imaging (MRI) should be considered. <em>Work Group Consensus Statement</em></p>
+<p>MRI is suggested to identify neuroforaminal stenosis in adult patients with isthmic spondylolisthesis. <em>Grade of Recommendation: B</em></p>
+<p>There is insufficient evidence to make a recommendation for or against the use of MRI to differentiate isthmic versus degenerative spondylolisthesis in adult patients. <em>Grade of Recommendation: I (Insufficient Evidence)</em></p>
+<p>There is insufficient evidence to make a recommendation for or against the use of discography to evaluate adult patients with isthmic spondylolisthesis. <em>Grade of Recommendation: I (Insufficient Evidence)</em></p>
+<p>CT may be considered as an option to diagnose isthmic spondylolisthesis in adult patients. <em>Grade of Recommendation: C</em></p>
+<p>There is insufficient evidence to make a recommendation for or against the use of single-photon emission computerized tomography (SPECT) in evaluating isthmic spondylolisthesis in adult patients. <em>Grade of Recommendation: I (Insufficient Evidence)</em></p>
+<p><strong>In adult patients, what is the relationship between the radiological grade of isthmic spondylolisthesis and expected clinical presentation?</strong></p>
+<p>A systematic review of the literature yielded no studies to adequately address this question.</p>
+<p><strong>How frequently do adult patients with isthmic spondylolisthesis have abnormal findings of their sagittal spinopelvic alignment, sacral alignment and spinopelvic parameters?</strong></p>
+<p>Adult patients with a diagnosis of isthmic spondylolisthesis have a higher pelvic incidence, sacral slope, pelvic tilt and lumbar lordosis compared to patients without isthmic spondylolisthesis. <em>Grade of Recommendation: B</em></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Outcome Measures for Medical/Interventional and Surgical Treatment</span></strong></p>
+<p><strong>What are the appropriate outcome measures for the treatment of adult isthmic spondylolisthesis?</strong></p>
+<p>For information on outcome measures for spinal disorders, the North American Spine Society (NASS) has a publication entitled <em>Compendium of Outcome Instruments for Assessment and Research of Spinal Disorders</em>. To purchase a copy of the Compendium, visit <a href=&quot;https://webportal.spine.org/Purchase/ProductDetail.aspx?Product_code=68cdd1f4-c4ac-db11-95b2-001143edb1c1&quot; title=&quot;NASS Web site&quot;>https://webportal.spine.org/Purchase/ProductDetail.aspx?Product_code=68cdd1f4-c4ac-db11-95b2-001143edb1c1</a>.</p>
+<p>For additional information about the Compendium, please contact the NASS Research Department at <a href=&quot;mailto:nassresearch@spine.org&quot;>nassresearch@spine.org</a>.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Medical and Interventional Treatment</span></strong></p>
+<p><strong>What is the role of pharmacological treatment in the management of isthmic spondylolisthesis?</strong></p>
+<p>There was no evidence to address this clinical question. Due to the paucity of literature addressing this question, the work group was unable to generate a recommendation.</p>
+<p><strong>What is the role of manipulation in the treatment of isthmic spondylolisthesis?</strong></p>
+<p>There was no evidence to address this clinical question. Due to the paucity of literature addressing this question, the work group was unable to generate a recommendation.</p>
+<p><strong>What is the role of steroid injections for the treatment of isthmic spondylolisthesis?</strong></p>
+<p>There was no evidence to address this clinical question. Due to the paucity of literature addressing this question, the work group was unable to generate a recommendation.</p>
+<p><strong>What is the role of ancillary treatments such as bracing, traction, electrical stimulation and transcutaneous electrical stimulation (TENS) in the treatment of isthmic spondylolisthesis?</strong></p>
+<p>There was no evidence to address this clinical question. Due to the paucity of literature addressing this question, the work group was unable to generate a recommendation.</p>
+<p><strong>What is the role of physical therapy/exercise in the treatment of isthmic spondylolisthesis?</strong></p>
+<p>There is insufficient evidence to make a recommendation for or against the use of physical therapy/exercise for the treatment of isthmic spondylolisthesis. <em>Grade of Recommendation: I (Insufficient Evidence)</em></p>
+<p><strong>Does the degree of radiological grade, sagittal spinopelvic alignment, sacral and spinopelvic parameters, or the presence of dynamic instability in patients with isthmic spondylolisthesis affect the outcomes of patients treated with medical or interventional treatment?</strong></p>
+<p>There was no evidence to address this clinical question. Due to the paucity of literature addressing this question, the work group was unable to generate a recommendation.</p>
+<p><strong>What is the long-term result of medical/interventional management of isthmic spondylolisthesis?</strong></p>
+<p>There is insufficient evidence to make a recommendation for or against the use of medical/interventional treatment for the long-term management of patients with isthmic spondylolisthesis. <em>Grade of Recommendation: I (Insufficient Evidence)</em></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Surgical Treatment</span></strong></p>
+<p><strong>In adult patients, is surgical treatment more effective than medical/interventional treatment alone for the treatment of isthmic spondylolisthesis?</strong></p>
+<p>There is insufficient evidence to make a recommendation for or against the efficacy of surgical treatment as compared to medical/interventional alone for the management of adult patients with isthmic spondylolisthesis. <em>Grade of Recommendation: I (Insufficient Evidence)</em></p>
+<p><strong>Does the addition of lumbar fusion, with or without instrumentation, to surgical decompression improve surgical outcomes in the treatment of adult patients with isthmic spondylolisthesis compared to treatment by decompression alone?</strong></p>
+<p>There was no evidence to address this clinical question. Due to the paucity of literature addressing this question, the work group was unable to generate a recommendation.</p>
+<p><strong>Does the addition of instrumentation to decompression and fusion for adult patients with isthmic spondylolisthesis improve surgical outcomes compared with decompression and fusion alone?</strong></p>
+<p>In patients with low-grade isthmic spondylolisthesis, the addition of instrumentation may not improve outcomes in the setting of posterolateral fusion, with or without decompression. <em>Grade of Recommendation: B</em></p>
+<p><strong>How do outcomes of decompression with posterolateral fusion compare with those for 360&amp;deg; fusion in the treatment of adult patients with isthmic spondylolisthesis?</strong></p>
+<p>Posterolateral fusion and 360&amp;deg; fusion surgeries are recommended to improve the clinical outcomes in adult patients with low grade isthmic spondylolisthesis. <em>Grade of Recommendation: A</em></p>
+<p>360&amp;deg; fusion is recommended to provide higher radiographic fusion rates compared to posterolateral fusion in adult patients with low grade isthmic spondylolisthesis. <em>Grade of Recommendation: A</em></p>
+<p>There is conflicting evidence whether 360&amp;deg; fusion provides better clinical outcomes than posterolateral fusion alone. <em>Grade of Recommendation: I (Insufficient/Conflicting Evidence)</em></p>
+<p><strong>Does reduction with fusion result in better outcomes than fusion in situ in adult patients with isthmic spondylolisthesis?</strong></p>
+<p>There was no evidence to address this clinical question. Due to the paucity of literature addressing this question, the work group was unable to generate a recommendation.</p>
+<p><strong>What is the role of stand-alone inter body fusion, for the purpose of indirect decompression, in the treatment of adult patients with isthmic spondylolisthesis?</strong></p>
+<p>Anterior lumbar interbody fusion (ALIF) may be considered as an option to indirectly decompress foraminal stenosis in adult patients with low grade isthmic spondylolisthesis. <em>Grade of Recommendation: C</em></p>
+<p><strong>How do outcomes from minimally invasive spinal surgery (for decompression and/or fusion) for the management of adult patients with isthmic spondylolisthesis compare with traditional/open techniques?</strong></p>
+<p>In adult patients undergoing ALIF, supplemental posterior percutaneous pedicle screws lead to shorter hospital stays, less operation room time and less blood loss compared to open posterior instrumentation. <em>Grade of Recommendation: B</em></p>
+<p>There is conflicting evidence whether in adult patients undergoing ALIF, supplemental posterior percutaneous pedicle screws lead to comparable clinical outcomes to those undergoing open posterior instrumentation. <em>Grade of Recommendation: I (Insufficient/Conflicting Evidence)</em></p>
+<p><strong>How do outcomes of dynamic stabilization compare with fusion for the treatment of isthmic spondylolisthesis in adult patients?</strong></p>
+<p>There was no evidence to address this clinical question. Due to the paucity of literature addressing this question, the work group was unable to generate a recommendation.</p>
+<p><strong>Does the degree of radiological grade, sagittal spinopelvic alignment, sacral and spinopelvic parameters, or the presence of dynamic instability in adult patients with isthmic spondylolisthesis affect the outcomes of patients treated with surgery?</strong></p>
+<p>There is insufficient evidence to make a recommendation regarding the degree of radiological grade, sagittal spinopelvic alignment, sacral and spinopelvic parameters, or the presence of dynamic instability on the outcomes of adult patients undergoing surgical treatment for isthmic spondylolisthesis. <em>Grade of Recommendation: I (Insufficient Evidence)</em></p>
+<p><strong>Does the addition of fusion levels (cephalad, caudal or iliac) in the setting of a high grade isthmic spondylolisthesis in adult patients improve outcomes?</strong></p>
+<p>There was no evidence to address this clinical question. Due to the paucity of literature addressing this question, the work group was unable to generate a recommendation.</p>
+<p><strong>What is the long-term result (four+ years) of surgical management of adult patients with isthmic spondylolisthesis?</strong></p>
+<p>In adult patients undergoing surgical treatment for isthmic spondylolisthesis, fusion is suggested to provide long term clinical improvements. <em>Grade of Recommendation: B</em></p>
+<p>There is insufficient evidence to indicate that fusion leads to improved long term outcomes as compared with a directed exercise program. <em>Grade of Recommendation: I (Insufficient Evidence)</em></p>
+<p>There is insufficient evidence to recommend one surgical fusion technique over another to improve long term outcomes in adult patients undergoing surgical treatment for isthmic spondylolisthesis. <em>Grade of Recommendation: I (Insufficient Evidence)</em></p>
+<p>There is insufficient evidence to determine the clinical significance of adjacent segment degeneration on the long term outcomes of fusion. <em>Grade of Recommendation: I (Insufficient Evidence)</em></p>
+<p><strong>Are the results of surgical management for adult patients with isthmic spondylolisthesis affected by the presence of scoliosis or concurrent deformity?</strong></p>
+<p>There was no evidence to address this clinical question. Due to the paucity of literature addressing this question, the work group was unable to generate a recommendation.</p>
+<p><strong>Which prognostic factors have been associated with good or poor outcomes in the surgical management of adult patients with isthmic spondylolisthesis?</strong></p>
+<p>There is insufficient evidence to make a recommendation regarding which prognostic factors have been associated with good or poor outcomes. <em>Grade of Recommendation: I (Insufficient Evidence)</em></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Value of Spine Care</span></strong></p>
+<p><strong>Which medical or interventional treatment method of isthmic spondylolisthesis is the most cost-effective?</strong></p>
+<p>There was no evidence to address this clinical question. Due to the paucity of literature addressing this question, the work group was unable to generate a recommendation.</p>
+<p><strong>Is the surgical treatment of isthmic spondylolisthesis cost-effective compared to the medical and interventional therapies?</strong></p>
+<p>There was no evidence to address this clinical question. Due to the paucity of literature addressing this question, the work group was unable to generate a recommendation.</p>
+<p><strong>Which surgical treatment method of isthmic spondylolisthesis is the most cost-effective?</strong></p>
+<p>There was no evidence to address this clinical question. Due to the paucity of literature addressing this question, the work group was unable to generate a recommendation.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Levels of Evidence for Primary Research Question</strong><sup>1</sup></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Levels of Evidence for Primary Research Questions&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;5&quot;>Types of Studies</th>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>&amp;nbsp;</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Therapeutic Studies &amp;ndash; Investigating the results of treatment</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Prognostic Studies &amp;ndash; Investigating the effect of a patient characteristic on the outcome of disease</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Diagnostic Studies &amp;ndash; Investigating a diagnostic test</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Economic and Decision Analyses &amp;ndash; Developing an economic or decision model</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 8%;&quot; scope=&quot;row&quot;>Level I</td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>High quality randomized trial with statistically significant difference or no statistically significant difference but narrow confidence intervals </li>
+                <li>Systematic review<sup>2</sup> of Level I RCTs (and study results were homogenous<sup>3</sup>) </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>High quality prospective study<sup>4</sup> (all patients were enrolled at the same point in their disease with &amp;ge;80% follow-up of enrolled patients) </li>
+                <li>Systematic review<sup>2</sup> of Level I studies </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Testing of previously developed diagnostic criteria on consecutive patients (with universally applied reference &quot;gold&quot; standard) </li>
+                <li>Systematic review<sup>2</sup> of Level I studies </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Sensible costs and alternatives; values obtained from many studies; with multiway sensitivity analyses </li>
+                <li>Systematic review<sup>2</sup> of Level I studies </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Level II</td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Lesser quality RCT (e.g., &amp;lt;80% follow-up, no blinding, or improper randomization) </li>
+                <li>Prospective<sup>4</sup> comparative study<sup>5</sup> </li>
+                <li>Systematic review<sup>2</sup> of Level II studies or Level 1 studies with inconsistent results </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Retrospective<sup>6</sup> study </li>
+                <li>Untreated controls from an RCT </li>
+                <li>Lesser quality prospective study (e.g., patients enrolled at different points in their disease or &amp;lt;80% follow-up) </li>
+                <li>Systematic review<sup>2</sup> of Level II studies </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Development of diagnostic criteria on consecutive patients (with universally applied reference &quot;gold&quot; standard) </li>
+                <li>Systematic review<sup>2</sup> of Level II studies </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Sensible costs and alternatives; values obtained from limited studies; with multiway sensitivity analyses </li>
+                <li>Systematic review<sup>2</sup> of Level II studies </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Level III </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Case control study<sup>7</sup> </li>
+                <li>Retrospective<sup>6</sup> comparative study<sup>5</sup> </li>
+                <li>Systematic review<sup>2</sup> of Level III studies </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Case control study<sup>7</sup> </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Study of nonconsecutive patients; without consistently applied reference &quot;gold&quot; standard </li>
+                <li>Systematic review<sup>2</sup> of Level III studies </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Analyses based on limited alternatives and costs; and poor estimates </li>
+                <li>Systematic review<sup>2</sup> of Level III studies </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Level IV</td>
+            <td valign=&quot;top&quot;>Case series<sup>8</sup></td>
+            <td valign=&quot;top&quot;>Case series</td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Case-control study </li>
+                <li>Poor reference standard </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>Analyses with no sensitivity analyses</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Level V</td>
+            <td valign=&quot;top&quot;>Expert Opinion</td>
+            <td valign=&quot;top&quot;>Expert Opinion</td>
+            <td valign=&quot;top&quot;>Expert Opinion</td>
+            <td valign=&quot;top&quot;>Expert Opinion</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>RCT = randomized controlled trial</p>
+<p class=&quot;Note&quot;><sup>1</sup>A complete assessment of quality of individual studies requires critical appraisal of all aspects of the study design.</p>
+<p class=&quot;Note&quot;><sup>2</sup>A combination of results from two or more prior studies.</p>
+<p class=&quot;Note&quot;><sup>3</sup>Studies provided consistent results.</p>
+<p class=&quot;Note&quot;><sup>4</sup>Study was started before the first patient enrolled.</p>
+<p class=&quot;Note&quot;><sup>5</sup>Patients treated one way (e.g., cemented hip arthroplasty) compared with a group of patients treated in another way (e.g., uncemented hip arthroplasty) at the same institution.</p>
+<p class=&quot;Note&quot;><sup>6</sup>The study was started after the first patient enrolled.</p>
+<p class=&quot;Note&quot;><sup>7</sup>Patients identified for the study based on their outcome, called &quot;cases&quot; (e.g., failed total arthroplasty) are compared to those who did not have outcome, called &quot;controls&quot; (e.g., successful total hip arthroplasty).</p>
+<p class=&quot;Note&quot;><sup>8</sup>Patients treated one way with no comparison group of patients treated in another way.</p>
+<p><strong>Grades of Recommendations for Summaries or Reviews of Studies</strong></p>
+<p><strong>A</strong>: Good evidence (Level I Studies with consistent finding) for or against recommending intervention.</p>
+<p><strong>B</strong>: Fair evidence (Level II or III Studies with consistent findings) for or against recommending intervention.</p>
+<p><strong>C</strong>: Poor quality evidence (Level IV or V Studies) for or against recommending intervention.</p>
+<p><strong>I</strong>: Insufficient or conflicting evidence not allowing a recommendation for or against intervention.</p>
+<p><strong>Linking Levels of Evidence to Grades of Recommendation</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Linking Levels of Evidence to Grades of Recommendation&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Grade of Recommendation</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Standard Language</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;2&quot; scope=&quot;col&quot;>Levels of Evidence</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>A</td>
+            <td valign=&quot;top&quot;>Recommended</td>
+            <td valign=&quot;top&quot;>Two or more consistent Level I studies</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>B</td>
+            <td valign=&quot;top&quot;>Suggested</td>
+            <td valign=&quot;top&quot;>One Level I study with additional supporting Level II or III studies</td>
+            <td valign=&quot;top&quot;>Two or more consistent Level II or III studies</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>C</td>
+            <td valign=&quot;top&quot;>May be considered; is an option</td>
+            <td valign=&quot;top&quot;>One Level I, II or III study with supporting Level IV studies</td>
+            <td valign=&quot;top&quot;>Two or more consistent Level IV studies</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row'&quot;>I (Insufficient or Conflicting Evidence)</td>
+            <td valign=&quot;top&quot;>Insufficient evidence to make recommendation for or against</td>
+            <td valign=&quot;top&quot;>A single Level I, II, III or IV study without other supporting evidence</td>
+            <td valign=&quot;top&quot;>More than one study with inconsistent findings*</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot; colspan=&quot;4&quot;>*Note that in the presence of multiple consistent studies, and a single outlying, inconsistent study, the Grade of Recommendation will be based on the level of consistent studies.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Isthmic spondylolisthesis</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Neurological Surgery"/>
+      <fieldvalue value="Orthopedic Surgery"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To provide evidence-based recommendations to address key clinical questions surrounding the diagnosis and treatment of adult patients with isthmic spondylolisthesis </li>
+    <li>To assist in delivering optimum, efficacious treatment and functional recovery from isthmic spondylolisthesis </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adults (18 years or older) with variable back, lower extremity pain and/or neurologic deficit related to isthmic spondylolisthesis</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Physical examination
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Positive straight leg test </li>
+        <li>Consideration of radicular lower extremity pain </li>
+    </ul>
+    </li>
+    <li>Imaging
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Standing plain radiographs (with or without oblique or dynamic) </li>
+        <li>Computed tomography (CT) scan </li>
+        <li>Magnetic resonance imaging (MRI) </li>
+    </ul>
+    </li>
+    <li>Surgery
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Posterolateral fusion </li>
+        <li>360&amp;deg; fusion </li>
+        <li>Anterior lumbar interbody fusion (ALIF) </li>
+        <li>ALIF with supplemental posterior percutaneous pedicle screws </li>
+    </ul>
+    </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: The following interventions were considered but there was insufficient evidence to make a recommendation for or against:</p>
+<ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;>
+    <li>Palpation during physical exam </li>
+    <li>MRI to differentiate isthmic versus degenerative spondylolisthesis </li>
+    <li>Use of single-photon emission computerized tomography (SPECT) scan </li>
+    <li>Discography to evaluate adult patients with isthmic spondylolisthesis </li>
+    <li>Physical therapy/exercise </li>
+    <li>Medical/interventional treatment for the long-term management </li>
+</ul>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Appropriateness and efficacy of diagnostic tests </li>
+    <li>Reoperation rates </li>
+    <li>Pain and functional disability (Dallas Pain Questionnaire [DPQ] and the Low Back Pain Rating Scale [LBPR]) </li>
+    <li>Quality of life </li>
+    <li>Cost-effectiveness </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Identification of Clinical Questions</span></strong></p>
+<p>Trained guideline participants were asked to submit a list of clinical questions that the guideline should address. The proposed questions were compiled into a master list, which was then circulated to each member for review and comment. A conference call was held to review comments and condense and refine the draft clinical question list. The draft clinical question list was then submitted to the North American Spine Society (NASS) Health Policy and Research Councils for review. The councils submitted additional questions that may be useful for health policy or research purposes and approved the master list.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Identification of Search Terms and Parameters</strong></span></p>
+<p>One of the most crucial elements of evidence analysis is the comprehensive literature search. Thorough assessment of the literature is the basis for the review of existing evidence and the formulation of evidence-based recommendations. In order to ensure a thorough literature search, NASS has instituted a Literature Search Protocol (see Appendix E in the original guideline document) which has been followed to identify literature for evaluation in guideline development. In keeping with the Literature Search Protocol, work group members have identified appropriate search terms and parameters to direct the literature search. Specific search strategies, including search terms, parameters and databases searched, are documented in the technical report that accompanies this guideline.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Completion of the Literature Search</span></strong></p>
+<p>Once each work group identified search terms/parameters, the literature search was implemented by a medical/research librarian at InfoNOW at the University of Minnesota, consistent with the Literature Search Protocol. Following these protocols ensures that NASS recommendations (1) are based on a thorough review of relevant literature; (2) are truly based on a uniform, comprehensive search strategy; and (3) represent the current best research evidence available. NASS maintains a search history in Endnote, for future use or reference.</p>
+<p><strong>Literature Search Parameters</strong></p>
+<p><em>Search Strategy</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Medline/PubMed </li>
+    <li>The Cochrane Library </li>
+    <li>EMBASE </li>
+    <li>Duplicate records eliminated </li>
+    <li>Humans </li>
+    <li>English language </li>
+    <li>Date range: All literature to June 2013 (except for natural history question; literature search conducted for all literature to April 2013) </li>
+    <li>Adult patients &amp;ge;18 years (except for natural history question as including children and adolescents in the literature search was pertinent to addressing the clinical question) </li>
+    <li>Review of article references </li>
+</ul>
+<p><em>Inclusion Criteria</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Addresses clinical question </li>
+    <li>Isthmic spondylolisthesis patients (if mixed-diagnosis study did not include sub-group analysis of adult isthmic spondylolisthesis patients only, then it was excluded) </li>
+    <li>Meta-analysis, randomized controlled trials, prospective clinical trials, prospective and retrospective </li>
+    <li>Cohort studies, case-control studies, cross-sectional studies, case-series </li>
+    <li>Peer reviewed journal articles </li>
+</ul>
+<p><em>Exclusion Criteria</em> </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Mixed diagnosis studies without sub-group analysis of isthmic spondylolisthesis patients </li>
+    <li>Narrative reviews, case-reports </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Review of Search Results/Identification of Literature to Review</span></strong></p>
+<p>Work group members reviewed all abstracts yielded from the literature search and identified the literature they will review in order to address the clinical questions, in accordance with the Literature Search Protocol. Members have identified the best research evidence available to answer the targeted clinical questions. That is, if Level I, II and or III literature is available to answer specific questions, the work group was not required to review Level IV or V studies.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Articles meeting inclusion criteria and included in guideline:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Natural History: 3 </li>
+    <li>Diagnosis/Imaging: 18 </li>
+    <li>Medical/Interventional Treatment: 4 </li>
+    <li>Surgical Treatment: 28 </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Levels of Evidence for Primary Research Question</span></strong><sup>1</sup></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Levels of Evidence for Primary Research Questions&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;5&quot;>Types of Studies</th>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>&amp;nbsp;</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Therapeutic Studies &amp;ndash; Investigating the results of treatment</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Prognostic Studies &amp;ndash; Investigating the effect of a patient characteristic on the outcome of disease</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Diagnostic Studies &amp;ndash; Investigating a diagnostic test</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Economic and Decision Analyses &amp;ndash; Developing an economic or decision model</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 8%;&quot; scope=&quot;row&quot;>Level I</td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>High quality randomized trial with statistically significant difference or no statistically significant difference but narrow confidence intervals </li>
+                <li>Systematic review<sup>2</sup> of Level I RCTs (and study results were homogenous<sup>3</sup>) </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>High quality prospective study<sup>4</sup> (all patients were enrolled at the same point in their disease with &amp;ge;80% follow-up of enrolled patients) </li>
+                <li>Systematic review<sup>2</sup> of Level I studies </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Testing of previously developed diagnostic criteria on consecutive patients (with universally applied reference &quot;gold&quot; standard) </li>
+                <li>Systematic review<sup>2</sup> of Level I studies </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Sensible costs and alternatives; values obtained from many studies; with multiway sensitivity analyses </li>
+                <li>Systematic review<sup>2</sup> of Level I studies </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Level II</td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Lesser quality RCT (e.g., &amp;lt;80% follow-up, no blinding, or improper randomization) </li>
+                <li>Prospective<sup>4</sup> comparative study<sup>5</sup> </li>
+                <li>Systematic review<sup>2</sup> of Level II studies or Level I studies with inconsistent results </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Retrospective<sup>6</sup> study </li>
+                <li>Untreated controls from an RCT </li>
+                <li>Lesser quality prospective study (e.g., patients enrolled at different points in their disease or &amp;lt;80% follow-up) </li>
+                <li>Systematic review<sup>2</sup> of Level II studies </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Development of diagnostic criteria on consecutive patients (with universally applied reference &quot;gold&quot; standard) </li>
+                <li>Systematic review<sup>2</sup> of Level II studies </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Sensible costs and alternatives; values obtained from limited studies; with multiway sensitivity analyses </li>
+                <li>Systematic review<sup>2</sup> of Level II studies </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Level III </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Case control study<sup>7</sup> </li>
+                <li>Retrospective<sup>6</sup> comparative study<sup>5</sup> </li>
+                <li>Systematic review<sup>2</sup> of Level III studies </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Case control study<sup>7</sup> </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Study of nonconsecutive patients; without consistently applied reference &quot;gold&quot; standard </li>
+                <li>Systematic review<sup>2</sup> of Level III studies </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Analyses based on limited alternatives and costs; and poor estimates </li>
+                <li>Systematic review<sup>2</sup> of Level III studies </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Level IV</td>
+            <td valign=&quot;top&quot;>Case series<sup>8</sup></td>
+            <td valign=&quot;top&quot;>Case series</td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Case-control study </li>
+                <li>Poor reference standard </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>Analyses with no sensitivity analyses</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Level V</td>
+            <td valign=&quot;top&quot;>Expert Opinion</td>
+            <td valign=&quot;top&quot;>Expert Opinion</td>
+            <td valign=&quot;top&quot;>Expert Opinion</td>
+            <td valign=&quot;top&quot;>Expert Opinion</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>RCT = randomized controlled trial</p>
+<p class=&quot;Note&quot;><sup>1</sup>A complete assessment of quality of individual studies requires critical appraisal of all aspects of the study design.</p>
+<p class=&quot;Note&quot;><sup>2</sup>A combination of results from two or more prior studies.</p>
+<p class=&quot;Note&quot;><sup>3</sup>Studies provided consistent results.</p>
+<p class=&quot;Note&quot;><sup>4</sup>Study was started before the first patient enrolled.</p>
+<p class=&quot;Note&quot;><sup>5</sup>Patients treated one way (e.g., cemented hip arthroplasty) compared with a group of patients treated in another way (e.g., uncemented hip arthroplasty) at the same institution.</p>
+<p class=&quot;Note&quot;><sup>6</sup>The study was started after the first patient enrolled.</p>
+<p class=&quot;Note&quot;><sup>7</sup>Patients identified for the study based on their outcome, called &quot;cases&quot; (e.g., failed total arthroplasty) are compared to those who did not have outcome, called &quot;controls&quot; (e.g., successful total hip arthroplasty).</p>
+<p class=&quot;Note&quot;><sup>8</sup>Patients treated one way with no comparison group of patients treated in another way.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Evidence Analysis</span></strong></p>
+<p>Members have independently developed evidentiary tables summarizing study conclusions, identifying strengths and weaknesses and assigning levels of evidence. In order to systematically control for potential biases, at least two work group members have reviewed each article selected and independently assigned levels of evidence to the literature using the North American Spine Society (NASS) levels of evidence. Any discrepancies in scoring have been addressed by two or more reviewers. Final ratings are completed at a final meeting or Web conference of all section workgroup members including the section chair and the guideline chair. The consensus level was then assigned to the article. Multi-diagnosis studies that did not include sub-group analysis of isthmic spondylolisthesis patients failed to meet inclusion criteria and were excluded from the guideline.</p>
+<p>As a final step in the evidence analysis process, members have identified and documented gaps in the evidence to educate guideline readers about where evidence is lacking and help guide further needed research by NASS and other societies.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Levels of Evidence</span></strong></p>
+<p>In evaluating studies as to levels of evidence for this guideline, the study design was interpreted as establishing only a potential level of evidence. As an example, a therapeutic study designed as a randomized controlled trial would be considered a potential Level I study. The study would then be further analyzed as to how well the study design was implemented and significant shortcomings in the execution of the study would be used to downgrade the levels of evidence for the study's conclusions. In the example cited previously, reasons to downgrade the results of a potential Level I randomized controlled trial to a Level II study would include, among other possibilities: an underpowered study (patient sample too small, variance too high), inadequate randomization or masking of the group assignments and lack of validated outcome measures.</p>
+<p>In addition, a number of studies were reviewed several times in answering different questions within this guideline. How a given question was asked might influence how a study was evaluated and interpreted as to its level of evidence in answering that particular question. For example, a randomized controlled trial reviewed to evaluate the differences between the outcomes of surgically treated versus untreated patients with lumbar disc herniation with radiculopathy might be a well designed and implemented Level I therapeutic study. This same study, however, might be classified as providing Level II prognostic evidence if the data for the untreated controls were extracted and evaluated prognostically.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus (Nominal Group Technique)"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Identification of Work Groups</span></strong></p>
+<p>Multidisciplinary teams were assigned to work groups and assigned specific clinical questions to address. Because NASS is comprised of surgical, medical and interventional specialists, it is imperative to the guideline development process that a cross-section of NASS membership is represented on the work group. This also helps to ensure that the potential for inadvertent biases in evaluating the literature and formulating recommendations is minimized.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Formulation of Evidence-Based Recommendations and Incorporation of Expert Consensus</span></strong></p>
+<p>Work groups held Web conferences and face-to-face meetings to discuss the evidence-based answers to the clinical questions, the grades of recommendations and the incorporation of expert consensus. Expert consensus was incorporated only where Level I to IV evidence is insufficient and the work group has deemed that a recommendation is warranted. Transparency in the incorporation of consensus is crucial, and all consensus-based recommendations made in this guideline very clearly indicate that Level I to IV evidence is insufficient to support a recommendation and that the recommendation is based only on expert consensus.</p>
+<p><strong>Consensus Development Process</strong></p>
+<p>Voting on guideline recommendations was conducted using a modification of the nominal group technique in which each work group member independently and anonymously ranked a recommendation on a scale ranging from 1 (&quot;extremely inappropriate&quot;) to 9 (&quot;extremely appropriate&quot;). Consensus was obtained when at least 80% of work group members ranked the recommendation as 7, 8 or 9. When the 80% threshold was not attained, up to three rounds of discussion and voting were held to resolve disagreements. If disagreements were not resolved after these rounds, no recommendation was adopted.</p>
+<p>After the recommendations were established, work group members developed the guideline content, addressing the literature supporting the recommendations.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Grades of Recommendations for Summaries or Reviews of Studies</span></strong></p>
+<p><strong>A</strong>: Good evidence (Level I Studies with consistent finding) for or against recommending intervention.</p>
+<p><strong>B</strong>: Fair evidence (Level II or III Studies with consistent findings) for or against recommending intervention.</p>
+<p><strong>C</strong>: Poor quality evidence (Level IV or V Studies) for or against recommending intervention.</p>
+<p><strong>I</strong>: Insufficient or conflicting evidence not allowing a recommendation for or against intervention.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Linking Levels of Evidence to Grades of Recommendation</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Linking Levels of Evidence to Grades of Recommendation&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Grade of Recommendation</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Standard Language</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;2&quot; scope=&quot;col&quot;>Levels of Evidence</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>A</td>
+            <td valign=&quot;top&quot;>Recommended</td>
+            <td valign=&quot;top&quot;>Two or more consistent Level I studies</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>B</td>
+            <td valign=&quot;top&quot;>Suggested</td>
+            <td valign=&quot;top&quot;>One Level I study with additional supporting Level II or III studies</td>
+            <td valign=&quot;top&quot;>Two or more consistent Level II or III studies</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>C</td>
+            <td valign=&quot;top&quot;>May be considered; is an option</td>
+            <td valign=&quot;top&quot;>One Level I, II or III study with supporting Level IV studies</td>
+            <td valign=&quot;top&quot;>Two or more consistent Level IV studies</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row'&quot;>I (Insufficient or Conflicting Evidence)</td>
+            <td valign=&quot;top&quot;>Insufficient evidence to make recommendation for or against</td>
+            <td valign=&quot;top&quot;>A single Level I, II, III or IV study without other supporting evidence</td>
+            <td valign=&quot;top&quot;>More than one study with inconsistent findings*</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot; colspan=&quot;4&quot;>*Note that in the presence of multiple consistent studies, and a single outlying, inconsistent study, the Grade of Recommendation will be based on the level of consistent studies.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline developers reviewed published cost analyses (see Section F, &quot;Value/Cost-effectiveness,&quot; in the original guideline document). Due to the paucity of evidence, a recommendation could not be made regarding the cost-effectiveness of medical/interventional treatment for the management of patients with isthmic spondylolisthesis. There was also insufficient evidence to make a recommendation for or against the cost-effectiveness of surgical treatments for isthmic spondylolisthesis.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Submission of the Draft Guidelines for Review/Comment</span></strong></p>
+<p>Guidelines were submitted to the full Evidence-Based Guideline Development Committee and the Research Council for review and comment. Revisions to recommendations were considered for incorporation only when substantiated by a preponderance of appropriate level evidence.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Submission for Board Approval</span></strong></p>
+<p>Once any evidence-based revisions were incorporated, the drafts were prepared for North American Spine Society (NASS) Board review and approval. Edits and revisions to recommendations and any other content were considered for incorporation only when substantiated by a preponderance of appropriate level evidence.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Assisting practitioners in their clinical decision making processes in the diagnosis and effective treatment of adult isthmus spondylolisthesis</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Surgical procedures for adult isthmic spondylolisthesis carry the risk of complications including deep wound infections, permanent and transient leg pain, pulmonary embolism, foot drops, postoperative paraparesis, permanent L5 injuries, pain in the bone graft donor site, nonunion, implant removals, nerve root injuries, and transient paralytic ileus.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>This guideline does not represent a &quot;standard of care,&quot; nor is it intended as a fixed treatment protocol. It is anticipated that there will be patients who will require less or more treatment than the average. It is also acknowledged that in atypical cases, treatment falling outside this guideline will sometimes be necessary. This guideline should not be seen as prescribing the type, frequency or duration of intervention. Treatment should be based on the individual patient's need and doctor's professional judgment and experience. This document is designed to function as a guideline and should not be used as the sole reason for denial of treatment and services. This guideline is not intended to expand or restrict a health care provider's scope of practice or to supersede applicable ethical standards or provisions of law. </li>
+    <li>This clinical guideline should not be construed as including all proper methods of care or excluding or other acceptable methods of care reasonably directed to obtaining the same results. The ultimate judgment regarding any specific procedure or treatment is to be made by the physician and patient in light of all circumstances presented by the patient and the needs and resources particular to the locality or institution. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>These guidelines are developed for educational purposes to assist practitioners in their clinical decision making processes. It is anticipated that where evidence is very strong in support of recommendations, these recommendations will be operationalized into performance measures.</p></div>"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>North American Spine Society (NASS). Diagnosis and treatment of adult isthmic spondylolisthesis. Burr Ridge (IL): North American Spine Society (NASS); 2014. 87 p.  [488 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2014"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="North American Spine Society - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This clinical guideline was developed and funded in its entirety by the North American Spine Society (NASS).</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>North American Spine Society (NASS) Evidence-Based Clinical Guidelines Committee</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Committee Members</em>: D. Scott Kreiner, MD (<em>Committee Co-chair and Natural History Section Chair</em>); Jamie Baisden, MD (<em>Diagnosis/Imaging Section Chair</em>); Daniel Mazanec, MD (<em>Medical/Interventional Treatment Section Chair</em>); Rakesh Patel, MD (<em>Surgical Treatment Section Chair</em>); Robert Shay Bess, MD (Value Section <em>Chair</em>); Douglas Burton, MD; Norman B. Chutkan, MD; Bernard A. Cohen, PhD; Charles H. Crawford III, MD; Gary Ghiselli, MD; Amgad S. Hanna, MD; Steven W. Hwang, MD; Cumhur Kilincer, MD, PhD; Mark E. Myers, MD; Paul Park, MD; Anil K. Sharma, MD; Christopher K. Taleghani, MD; Terry R. Trammel, MD; Andrew N. Vo, MD; Keith D. Williams, MD</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Disclosure of Potential Conflicts of Interest</span></strong></p>
+<p>All participants involved in guideline development have disclosed potential conflicts of interest to their colleagues in accordance with <a href=&quot;https://www.spine.org/Documents/WhoWeAre/DisclosurePolicy.pdf&quot; title=&quot;North American Spine Society (NASS) Web site&quot;>North American Spine Society (NASS) Disclosure Policy</a> for committee members and their potential conflicts have been documented in the original guideline document. NASS does not restrict involvement in guidelines based on conflicts as long as members provide full disclosure. Individuals with a conflict relevant to the subject matter were asked to recuse themselves from deliberation. Participants have been asked to update their disclosures regularly throughout the guideline development process.</p>
+<p>Please see the &quot;Financial Statement&quot; section in the original guideline document for a complete list of disclosures.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;https://www.spine.org/Portals/0/Documents/ResearchClinicalCare/Guidelines/AdultIsthmicSpondylolisthesis.pdf&quot; title=&quot;North American Spine Society (NASS) Web site&quot;>North American Spine Society (NASS) Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>North American Spine Society evidence-based guidelines: diagnosis and treatment of adult isthmic spondylolisthesis. Technical report. Burr Ridge (IL): North American Spine Society (NASS); 2014. 170 p. Available in from the <a href=&quot;https://www.spine.org/Portals/0/Documents/ResearchClinicalCare/Guidelines/AdultIsthmicSpondyGuidelineTechReport.pdf&quot; title=&quot;North American Spine Society (NASS) Web site&quot;>North American Spine Society (NASS) Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on November 2, 2015.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Full-text guidelines can only be acquired through the North American Spine Society (NASS). Questions regarding use and reproduction should be directed to NASS, attention Belinda Duszynski, Research Manager.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 22:55:37 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:59:06 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 100.094 (3)
+  esindex: 0.012
+  captures_list: 149.528
+  CDXLines.iter: 24.554 (3)
+  PetaboxLoader3.datanode: 120.517 (4)
+  exclusion.robots: 0.408
+  exclusion.robots.policy: 0.391
+  RedisCDXSource: 16.491
+  load_resource: 60.454
+-->

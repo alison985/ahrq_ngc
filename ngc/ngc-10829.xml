@@ -1,0 +1,913 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app58.us.archive.org';v.server_ms=679;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10829?contentType=xml', '20180713004806')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713004806/https://www.guideline.gov/summaries/downloadcontent/ngc-10829?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713004806/https://www.guideline.gov/summaries/downloadcontent/ngc-10829?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10829?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713004806" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610054503/https://www.guideline.gov/summaries/downloadcontent/ngc-10829?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 00:48:06 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610054503/https://www.guideline.gov/summaries/downloadcontent/ngc-10829?contentType=xml" title="05:45:03 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 00:48:06 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930210702/https://www.guideline.gov/summaries/downloadcontent/ngc-10829?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 00:48:06 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713004806*/https://www.guideline.gov/summaries/downloadcontent/ngc-10829?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10829?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Menopause: diagnosis and management.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Collaborating Centre for Women's and Children's Health. Menopause: diagnosis and management. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Nov 12. 29 p.&amp;nbsp;(NICE guideline; no. 23).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Women's and Children's Health (NCC-WCH) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Individualised Care</span></strong></p>
+<p>Adopt an individualised approach at all stages of diagnosis, investigation and management of menopause. Follow recommendations in the NICE guideline on <a href=&quot;http://www.nice.org.uk/guidance/cg138&quot; title=&quot;NICE Web site&quot;>Patient experience in adult NHS services</a>.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Diagnosis of Perimenopause and Menopause</span></strong></p>
+<p>Diagnose the following without laboratory tests in otherwise healthy women aged over 45 years with menopausal symptoms:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Perimenopause based on vasomotor symptoms and irregular periods </li>
+    <li>Menopause in women who have not had a period for at least 12 months and are not using hormonal contraception </li>
+    <li>Menopause based on symptoms in women without a uterus </li>
+</ul>
+<p>Take into account that it can be difficult to diagnose menopause in women who are taking hormonal treatments, for example for the treatment of heavy periods.</p>
+<p>Do not use the following laboratory and imaging tests to diagnose perimenopause or menopause in women aged over 45 years:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Anti-M&amp;uuml;llerian hormone </li>
+    <li>Inhibin A </li>
+    <li>Inhibin B </li>
+    <li>Oestradiol </li>
+    <li>Antral follicle count </li>
+    <li>Ovarian volume </li>
+</ul>
+<p>Do not use a serum follicle-stimulating hormone (FSH) test to diagnose menopause in women using combined oestrogen and progestogen contraception or high-dose progestogen.</p>
+<p>Consider using a FSH test to diagnose menopause only:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>In women aged 40 to 45 years with menopausal symptoms, including a change in their menstrual cycle </li>
+    <li>In women aged under 40 years in whom menopause is suspected (see &quot;Diagnosing and Managing Premature Ovarian Insufficiency&quot; below) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Information and Advice</span></strong></p>
+<p>Give information to menopausal women and their family members or carers (as appropriate) that includes:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>An explanation of the stages of menopause </li>
+    <li>Common symptoms (see recommendation below) and diagnosis </li>
+    <li>Lifestyle changes and interventions that could help general health and wellbeing </li>
+    <li>Benefits and risks of treatments for menopausal symptoms </li>
+    <li>Long-term health implications of menopause </li>
+</ul>
+<p>Explain to women that as well as a change in their menstrual cycle they may experience a variety of symptoms associated with menopause, including:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Vasomotor symptoms (for example, hot flushes and sweats) </li>
+    <li>Musculoskeletal symptoms (for example, joint and muscle pain) </li>
+    <li>Effects on mood (for example, low mood) </li>
+    <li>Urogenital symptoms (for example, vaginal dryness) </li>
+    <li>Sexual difficulties (for example, low sexual desire) </li>
+</ul>
+<p>Give information to menopausal women and their family members or carers (as appropriate) about the following types of treatment for menopausal symptoms:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Hormonal, for example hormone replacement therapy (HRT) </li>
+    <li>Non-hormonal, for example clonidine </li>
+    <li>Non-pharmaceutical, for example cognitive behavioural therapy (CBT) </li>
+</ul>
+<p>Give information on menopause in different ways to help encourage women to discuss their symptoms and needs.</p>
+<p>Give information about contraception to women who are in the perimenopausal and postmenopausal phase. See guidance from the Faculty of Sexual &amp;amp; Reproductive Healthcare (FSRH) on <a href=&quot;http://www.fsrh.org/pdfs/ContraceptionOver40July10.pdf&quot; title=&quot;FSRH Web site&quot;>Contraception for women aged over 40 years</a>.</p>
+<p>Offer women who are likely to go through menopause as a result of medical or surgical treatment (including women with cancer, at high risk of hormone-sensitive cancer or having gynaecological surgery) support and:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Information about menopause and fertility before they have their treatment </li>
+    <li>Referral to a healthcare professional with expertise in menopause </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Managing Short-term Menopausal Symptoms</span></strong></p>
+<p>The recommendations in this section are not intended for women with premature ovarian insufficiency (see recommendations below for management of premature ovarian insufficiency).</p>
+<p>Adapt a woman's treatment as needed, based on her changing symptoms.</p>
+<p><strong>Vasomotor Symptoms</strong></p>
+<p>Offer women HRT for vasomotor symptoms after discussing with them the short-term (up to 5 years) and longer-term benefits and risks. Offer a choice of preparations as follows:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Oestrogen and progestogen to women with a uterus </li>
+    <li>Oestrogen alone to women without a uterus </li>
+</ul>
+<p>Do not routinely offer selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs) or clonidine as first-line treatment for vasomotor symptoms alone.</p>
+<p>Explain to women that there is some evidence that isoflavones or black cohosh may relieve vasomotor symptoms. However, explain that:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Multiple preparations are available and their safety is uncertain </li>
+    <li>Different preparations may vary </li>
+    <li>Interactions with other medicines have been reported </li>
+</ul>
+<p><strong>Psychological Symptoms</strong></p>
+<p>Consider HRT to alleviate low mood that arises as a result of the menopause.</p>
+<p>Consider CBT to alleviate low mood or anxiety that arise as a result of the menopause.</p>
+<p>Ensure that menopausal women and healthcare professionals involved in their care understand that there is no clear evidence for SSRIs or SNRIs to ease low mood in menopausal women who have not been diagnosed with depression (see the NICE guideline on <a href=&quot;http://www.nice.org.uk/guidance/cg90&quot; title=&quot;NICE Web site&quot;>Depression in adults</a>).</p>
+<p><strong>Altered Sexual Function</strong></p>
+<p>Consider testosterone supplementation for menopausal women with low sexual desire if HRT alone is not effective. (At the time of publication [November 2015], testosterone did not have a UK marketing authorisation for this indication in women. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's <a href=&quot;http://www.gmc-uk.org/guidance/ethical_guidance/14327.asp&quot; title=&quot;General Medical Council Web site&quot;>Prescribing guidance: prescribing unlicensed medicines</a> for further information.)</p>
+<p><strong>Urogenital Atrophy</strong></p>
+<p>Offer vaginal oestrogen to women with urogenital atrophy (including those on systemic HRT) and continue treatment for as long as needed to relieve symptoms.</p>
+<p>Consider vaginal oestrogen for women with urogenital atrophy in whom systemic HRT is contraindicated, after seeking advice from a healthcare professional with expertise in menopause.</p>
+<p>If vaginal oestrogen does not relieve symptoms of urogenital atrophy, consider increasing the dose after seeking advice from a healthcare professional with expertise in menopause.</p>
+<p>Explain to women with urogenital atrophy that:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Symptoms often come back when treatment is stopped </li>
+    <li>Adverse effects from vaginal oestrogen are very rare </li>
+    <li>They should report unscheduled vaginal bleeding to their general practitioner (GP) </li>
+</ul>
+<p>Advise women with vaginal dryness that moisturisers and lubricants can be used alone or in addition to vaginal oestrogen.</p>
+<p>Do not offer routine monitoring of endometrial thickness during treatment for urogenital atrophy.</p>
+<p><strong>Complementary Therapies and Unregulated Preparations</strong></p>
+<p>Explain to women that the efficacy and safety of unregulated compounded bioidentical hormones are unknown.</p>
+<p>Explain to women who wish to try complementary therapies that the quality, purity and constituents of products may be unknown.</p>
+<p>Advise women with a history of, or at high risk of, breast cancer that, although there is some evidence that St John's wort may be of benefit in the relief of vasomotor symptoms, there is uncertainty about:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Appropriate doses </li>
+    <li>Persistence of effect </li>
+    <li>Variation in the nature and potency of preparations </li>
+    <li>Potential serious interactions with other drugs (including tamoxifen, anticoagulants and anticonvulsants) </li>
+</ul>
+<p><strong>Review and Referral</strong></p>
+<p>Discuss with women the importance of keeping up to date with nationally recommended health screening.</p>
+<p>Review each treatment for short-term menopausal symptoms:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>At 3 months to assess efficacy and tolerability </li>
+    <li>Annually thereafter unless there are clinical indications for an earlier review (such as treatment ineffectiveness, side effects or adverse events) </li>
+</ul>
+<p>Refer women to a healthcare professional with expertise in menopause if treatments do not improve their menopausal symptoms or they have ongoing troublesome side effects.</p>
+<p>Consider referring women to a healthcare professional with expertise in menopause if:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>They have menopausal symptoms and contraindications to HRT <strong>or</strong> </li>
+    <li>There is uncertainty about the most suitable treatment options for their menopausal symptoms </li>
+</ul>
+<p><strong>Starting and Stopping HRT</strong></p>
+<p>Explain to women with a uterus that unscheduled vaginal bleeding is a common side effect of HRT within the first 3 months of treatment but should be reported at the 3-month review appointment, or promptly if it occurs after the first 3 months (see recommendations on endometrial cancer in the NGC summary of the NICE guideline <a href=&quot;/content.aspx?id=49436&quot; title=&quot;Guideline #10742&quot; target=&quot;_blank&quot;>Suspected cancer: recognition and referral</a>).</p>
+<p>Offer women who are stopping HRT a choice of gradually reducing or immediately stopping treatment.</p>
+<p>Explain to women that:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Gradually reducing HRT may limit recurrence of symptoms in the short term </li>
+    <li>Gradually reducing or immediately stopping HRT makes no difference to their symptoms in the longer term </li>
+</ul>
+<p><strong>Women with, or at High Risk of, Breast Cancer</strong></p>
+<p>For advice on the treatment of menopausal symptoms in women with breast cancer or at high risk of breast cancer, see Section 1.3 of the NICE guideline <a href=&quot;http://www.nice.org.uk/guidance/cg80&quot; title=&quot;NICE Web site&quot;>Early and locally advanced breast cancer</a> and the NGC summary of the NICE guideline <a href=&quot;/content.aspx?id=46932&quot; title=&quot;Guideline #9952&quot; target=&quot;_blank&quot;>Familial breast cancer: classification and care of people at risk of familial breast cancer and management of breast cancer and related risks in people with a family history of breast cancer</a>.</p>
+<p>Offer menopausal women with, or at high risk of, breast cancer:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Information on all available treatment options </li>
+    <li>Information that the SSRIs paroxetine and fluoxetine should not be offered to women with breast cancer who are taking tamoxifen </li>
+    <li>referral to a healthcare professional with expertise in menopause </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Long-term Benefits and Risks of Hormone Replacement Therapy</span></strong></p>
+<p><strong>Venous Thromboembolism</strong></p>
+<p>Explain to women that:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The risk of venous thromboembolism (VTE) is increased by oral HRT compared with baseline population risk </li>
+    <li>The risk of VTE associated with HRT is greater for oral than transdermal preparations </li>
+    <li>The risk associated with transdermal HRT given at standard therapeutic doses is no greater than baseline population risk </li>
+</ul>
+<p>Consider transdermal rather than oral HRT for menopausal women who are at increased risk of VTE, including those with a body mass index (BMI) over 30 kg/m<sup>2</sup>.</p>
+<p>Consider referring menopausal women at high risk of VTE (for example, those with a strong family history of VTE or a hereditary thrombophilia) to a haematologist for assessment before considering HRT.</p>
+<p><strong>Cardiovascular Disease</strong></p>
+<p>Ensure that menopausal women and healthcare professionals involved in their care understand that HRT:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Does not increase cardiovascular disease risk when started in women aged under 60 years </li>
+    <li>Does not affect the risk of dying from cardiovascular disease </li>
+</ul>
+<p>Be aware that the presence of cardiovascular risk factors is not a contraindication to HRT as long as they are optimally managed.</p>
+<p>Using Tables 1 and 2 in the original guideline document, explain to women that:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The baseline risk of coronary heart disease and stroke for women around menopausal age varies from one woman to another according to the presence of cardiovascular risk factors </li>
+    <li>HRT with oestrogen alone is associated with no, or reduced, risk of coronary heart disease </li>
+    <li>HRT with oestrogen and progestogen is associated with little or no increase in the risk of coronary heart disease </li>
+</ul>
+<p>Explain to women that taking oral (but not transdermal) oestrogen is associated with a small increase in the risk of stroke. Also explain that the baseline population risk of stroke in women aged under 60 years is very low (see Table 2 in the original guideline document).</p>
+<p><strong>Type 2 Diabetes</strong></p>
+<p>Explain to women that taking HRT (either orally or transdermally) is not associated with an increased risk of developing type 2 diabetes.</p>
+<p>Ensure that women with type 2 diabetes and all healthcare professionals involved in their care are aware that HRT is not generally associated with an adverse effect on blood glucose control.</p>
+<p>Consider HRT for menopausal symptoms in women with type 2 diabetes after taking comorbidities into account and seeking specialist advice if needed.</p>
+<p><strong>Breast Cancer</strong></p>
+<p>Using Table 3 in the original guideline document, explain to women around the age of natural menopause that:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The baseline risk of breast cancer for women around menopausal age varies from one woman to another according to the presence of underlying risk factors </li>
+    <li>HRT with oestrogen alone is associated with little or no change in the risk of breast cancer </li>
+    <li>HRT with oestrogen and progestogen can be associated with an increase in the risk of breast cancer </li>
+    <li>Any increase in the risk of breast cancer is related to treatment duration and reduces after stopping HRT </li>
+</ul>
+<p><strong>Osteoporosis</strong></p>
+<p>Give women advice on bone health and discuss these issues at review appointments (see the NGC summary of the NICE guideline <a href=&quot;/content.aspx?id=38410&quot; title=&quot;Guideline #9309&quot; target=&quot;_blank&quot;>Osteoporosis: assessing the risk of fragility fracture</a>).</p>
+<p>Using Table 4 in the original guideline document, explain to women that the baseline population risk of fragility fracture for women around menopausal age in the UK is low and varies from one woman to another.</p>
+<p>Using Table 4 in the original guideline document, explain to women that their risk of fragility fracture is decreased while taking HRT and that this benefit:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Is maintained during treatment but decreases once treatment stops </li>
+    <li>May continue for longer in women who take HRT for longer </li>
+</ul>
+<p><strong>Dementia</strong></p>
+<p>Explain to menopausal women that the likelihood of HRT affecting their risk of dementia is unknown.</p>
+<p><strong>Loss of Muscle Mass and Strength</strong></p>
+<p>Explain to women that:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>There is limited evidence suggesting that HRT may improve muscle mass and strength </li>
+    <li>Muscle mass and strength is maintained through, and is important for, activities of daily living </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Diagnosing and Managing Premature Ovarian Insufficiency</span></strong></p>
+<p><strong>Diagnosing Premature Ovarian Insufficiency</strong></p>
+<p>Take into account the woman's clinical history (for example, previous medical or surgical treatment) and family history when diagnosing premature ovarian insufficiency.</p>
+<p>Diagnose premature ovarian insufficiency in women aged under 40 years based on:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Menopausal symptoms, including no or infrequent periods (taking into account whether the woman has a uterus) <strong>and</strong> </li>
+    <li>Elevated FSH levels on 2 blood samples taken 4 to 6 weeks apart </li>
+</ul>
+<p>Do not diagnose premature ovarian insufficiency on the basis of a single blood test.</p>
+<p>Do not routinely use anti-M&amp;uuml;llerian hormone testing to diagnose premature ovarian insufficiency.</p>
+<p>If there is doubt about the diagnosis of premature ovarian insufficiency, refer the woman to a specialist with expertise in menopause or reproductive medicine.</p>
+<p><strong>Managing Premature Ovarian Insufficiency</strong></p>
+<p>Offer sex steroid replacement with a choice of HRT or a combined hormonal contraceptive to women with premature ovarian insufficiency, unless contraindicated (for example, in women with hormone-sensitive cancer).</p>
+<p>Explain to women with premature ovarian insufficiency:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The importance of starting hormonal treatment either with HRT or a combined hormonal contraceptive and continuing treatment until at least the age of natural menopause (unless contraindicated) </li>
+    <li>That the baseline population risk of diseases such as breast cancer and cardiovascular disease increases with age and is very low in women aged under 40 </li>
+    <li>That HRT may have a beneficial effect on blood pressure when compared with a combined oral contraceptive </li>
+    <li>That both HRT and combined oral contraceptives offer bone protection </li>
+    <li>That HRT is not a contraceptive </li>
+</ul>
+<p>Give women with premature ovarian insufficiency and contraindications to hormonal treatments advice, including on bone and cardiovascular health, and symptom management.</p>
+<p>Consider referring women with premature ovarian insufficiency to healthcare professionals who have the relevant experience to help them manage all aspects of physical and psychosocial health related to their condition.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An algorithm titled &quot;Care algorithm&quot; is provided in the original guideline document.</p>
+<p>In addition, a National Institute for Health and Care Excellence (NICE) pathway titled &quot;Menopause overview&quot; is available from the <a href=&quot;http://pathways.nice.org.uk/pathways/menopause&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Menopause</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Counseling"/>
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Obstetrics and Gynecology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Patients"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To provide advice for both healthcare professionals and women regarding menopause and the way symptom relief can be achieved</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Menopausal women (covering the perimenopause and postmenopause) </li>
+    <li>Women with premature ovarian insufficiency (irrespective of cause) </li>
+</ul>
+<p class=&quot;Note&quot;><strong>Note</strong>: This guideline does not cover:</p>
+<ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;>
+    <li>Women who are pregnant </li>
+    <li>Women who are breastfeeding </li>
+    <li>Men </li>
+    <li>Transgender women </li>
+</ul>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Assessment/Diagnosis</span></strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Symptom assessment </li>
+    <li>Serum follicle-stimulating hormone (FSH) test (as indicated) </li>
+    <li>Diagnosing premature ovarian insufficiency
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Clinical history </li>
+        <li>Menopausal symptom assessment </li>
+        <li>Elevated FSH levels (2 blood samples taken 4 to 6 weeks apart) </li>
+    </ul>
+    </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Management/Treatment</span></strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Individualised care </li>
+    <li>Provision of information and advice to menopausal women and their family members or carers </li>
+    <li>Hormone replacement therapy (HRT) management of vasomotor symptoms
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Oestrogen and progestogen to women with a uterus </li>
+        <li>Oestrogen alone to women without a uterus </li>
+        <li>Isoflavones and black cohosh </li>
+    </ul>
+    </li>
+    <li>Management of psychological symptoms
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>HRT </li>
+        <li>Cognitive behavioural therapy (CBT) </li>
+    </ul>
+    </li>
+    <li>Testosterone supplementation for management of altered sexual function </li>
+    <li>Management of urogenital atrophy
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Vaginal oestrogen </li>
+        <li>Vaginal moisturisers and lubricants </li>
+    </ul>
+    </li>
+    <li>Patient education regarding complementary therapies and unregulated preparations </li>
+    <li>Treatment review and referral to a healthcare professional with expertise in menopause </li>
+    <li>Starting and stopping HRT </li>
+    <li>Management of symptoms in women with, or at high risk of, breast cancer </li>
+    <li>Explanation of long-term benefits and risks of HRT </li>
+    <li>Managing premature ovarian insufficiency
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Sex steroid replacement (HRT or a combined hormonal contraceptive) </li>
+        <li>Referral to healthcare professionals who have the relevant experience to help manage all aspects of related physical and psychosocial health </li>
+    </ul>
+    </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: The following were considered but not recommended: selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs) or clonidine as first-line treatment for vasomotor symptoms; routine monitoring of endometrial thickness during treatment for urogenital atrophy.</p></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Changes in menopausal symptom scores </li>
+    <li>Reduction in frequency or intensity of vasomotor, musculoskeletal or psychological symptoms or alterations in sexual function </li>
+    <li>Treatment-related adverse effects </li>
+    <li>Health-related quality of life </li>
+    <li>Mortality </li>
+    <li>Coronary events </li>
+    <li>Stroke or transient ischaemic attack </li>
+    <li>Breast cancer </li>
+    <li>Osteoporotic fractures </li>
+    <li>Cognitive function and dementia </li>
+    <li>Type 2 diabetes </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Women and Children's Health (NCC-WCH) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Developing the Review Questions and Protocols</span></strong></p>
+<p>Review questions were developed according to the type of question:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Intervention reviews &amp;ndash; in a PICO framework (patient, intervention, comparison and outcome) </li>
+    <li>Reviews of diagnostic test accuracy &amp;ndash; in a framework of population, index tests, reference standard and target condition </li>
+    <li>Qualitative reviews &amp;ndash; using population, area of interest and outcomes </li>
+</ul>
+<p>These frameworks guided the literature searching process, critical appraisal and synthesis of evidence and facilitated the development of recommendations by the Guideline Development Group (GDG). The review questions were drafted by the NCC-WCH technical team and refined and validated by the group. The questions were based on the key clinical areas identified in the scope (see Appendix A in the full guideline appendices [see the &quot;Availability of Companion Documents&quot; field]).</p>
+<p>A total of 17 review questions were identified (see Table 3 in the full version of the guideline).</p>
+<p>Full literature searches, critical appraisals and evidence reviews were completed for all the specified review questions.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Clinical Literature Search</span></strong></p>
+<p>Systematic literature searches were undertaken to identify all published clinical evidence relevant to the review questions.</p>
+<p>Databases were searched using relevant medical subject headings, free-text terms and study type filters where appropriate. Studies published in languages other than English were not reviewed. Where possible, searches were restricted to retrieve only articles published in English. All searches were conducted in MEDLINE, EMBASE and The Cochrane Library. All searches were updated on 22 January 2015. Due to the complexity of the network meta-analysis (NMA) and the time implications of updating the data analysis, searches were updated at an earlier date, on 13 January 2015. Any studies added to the databases after this date (even those published prior to this date) were not included unless specifically stated in the text.</p>
+<p>Search strategies were quality assured by cross-checking reference lists of highly relevant papers, analysing search strategies in other systematic reviews and asking the group members to highlight any additional studies. The questions, the study types applied, the databases searched and the years covered can be found in Appendix E in the full guideline appendices.</p>
+<p>The titles and abstracts of records retrieved by the searches were sifted for relevance, with potentially significant publications obtained in full text. These were assessed against the inclusion criteria.</p>
+<p>During the scoping stage, a search was conducted for guidelines and reports on websites of organisations relevant to the topic. Searching for grey literature or unpublished literature was not undertaken. Searches for electronic, ahead-of-print publications were not routinely undertaken unless indicated by the Guideline Development Group (GDG). All references suggested by stakeholders at the scoping consultation were initially considered.</p>
+<p><strong>Reviewing and Synthesising the Evidence</strong></p>
+<p>The evidence was reviewed following these steps: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Potentially relevant studies were identified for each review question from the relevant search results by reviewing titles and abstracts. Full papers were then obtained. </li>
+    <li>Full papers were reviewed against pre-specified inclusion and exclusion criteria in the review protocols (see Appendix D in the full guideline appendices) and were presented in summary tables in each chapter and in evidence tables (see Appendix H in the full guideline appendices). </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Health Economics</span></strong></p>
+<p>Refer to the &quot;Cost Analysis&quot; field and Appendix L in the full guideline appendices for information about the health economic literature search.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Clinical Literature Search</span></strong></p>
+<p>Refer to Appendix F in the full guideline appendices (see the &quot;Availability of Companion Documents&quot; field) for flow diagrams of clinical selection, which detail the total number of studies included for each guideline topic.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Health Economics</span></strong></p>
+<p>A search of economic evidence relating to short term treatments for menopause symptoms identified 480 papers. After screening titles and abstracts 41 full text articles were retrieved for further review. Of these 41 studies, 9 were considered to be relevant to the review question and are summarised in Table 1 in Appendix L in the full guideline appendices.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Level</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>High</th>
+            <td valign=&quot;top&quot;>Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Moderate</th>
+            <td valign=&quot;top&quot;>Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Low</th>
+            <td valign=&quot;top&quot;>Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Very Low</th>
+            <td valign=&quot;top&quot;>Any estimate of effect is very uncertain.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Meta-Analysis"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Women and Children's Health (NCC-WCH) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Reviewing and Synthesising the Evidence</span></strong></p>
+<p>The evidence was reviewed following these steps:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Full papers were reviewed against pre-specified inclusion and exclusion criteria in the review protocols (see Appendix D in the full guideline appendices [see the &quot;Availability of Companion Documents&quot; field]) and were presented in summary tables in each chapter and in evidence tables (see Appendix H in the full guideline appendices). </li>
+    <li>Relevant studies were critically appraised using the appropriate checklist as specified in the NICE Guidelines Manual 2012 (see the &quot;Availability of Companion Documents&quot; field). </li>
+    <li>Summaries of evidence were generated by outcome and were presented in Guideline Development Group (GDG) meetings:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Randomised studies &amp;ndash; data were meta-analysed where appropriate and reported in Grading of Recommendations Assessment, Development and Evaluation (GRADE) profiles (for interventional reviews) </li>
+        <li>Observational studies &amp;ndash; data were presented as a range of values or meta-analysed (where appropriate) in GRADE profiles and usually this was organised by outcomes </li>
+        <li>Diagnostic accuracy studies &amp;ndash; presented as measures of diagnostic test accuracy (sensitivity, specificity, positive and negative likelihood ratio, area under the curve) in a modified version of a GRADE profile; a meta-analysis was not conducted when included studies were too heterogeneous </li>
+        <li>Qualitative studies &amp;ndash; the themes of the studies were organised in summary evidence tables, along with quality assessment otherwise presented in a narrative form </li>
+    </ul>
+    </li>
+    <li>Of all data extracted, 80% was quality assured by a second reviewer and 50% of the GRADE quality assessment was quality assured by a second reviewer to minimise any potential risk of reviewer bias or error </li>
+</ul>
+<p><strong>Methods of Combining Clinical Studies</strong></p>
+<p><em>Data Synthesis for Intervention Reviews</em></p>
+<p>Where possible, meta-analyses were conducted to combine the results of studies for each review question using Cochrane Review Manager (RevMan5) software or STATA. Fixed-effects (Mantel-Haenszel) techniques were used to calculate risk ratios (relative risk) for the binary outcomes.</p>
+<p>For the continuous outcomes, measures of central tendency (mean) and variation (standard deviation) were required for meta-analysis. A generic inverse variance option in RevMan5 was used if any studies reported solely the summary statistics and 95% confidence interval (95% CI) or standard error; this included any hazard ratios reported. However, in cases where standard deviations were not reported per intervention group, the standard error (SE) for the mean difference was calculated from other reported statistics (probability [p] values or 95% CIs) if available: meta-analysis was then undertaken for the mean difference and SE using the generic inverse variance method in RevMan5. When the only evidence was based on studies that summarised results by presenting medians (and interquartile ranges), or only p values were given, this information was assessed in terms of the study's sample size and was included in the GRADE tables as a narrative summary. Consequently, aspects of quality assessment such as imprecision of effect could not be assessed for this evidence and this has been recorded in the footnotes of the GRADE tables.</p>
+<p>In instances where multiple scales were reported for a single outcome, mean differences were standardised (divided by their standard deviation) before pooling, giving meta-analysed results that were reported as standardised mean differences (SMD), with a standard deviation of 1.</p>
+<p>Where reported, time-to-event data were presented as a hazard ratio or results from a Cox hazard proportion model were given as a result from a multivariate analysis.</p>
+<p>Stratified analyses were predefined for some review questions at the protocol stage when the group identified these strata to be different in terms of clinical characteristics and the interventions were expected to have a different effect, for example on the management of short-term symptoms. The reviewers stratified their analysis for women with a uterus, women without a uterus and women with a history of or at risk of breast cancer.</p>
+<p>Statistical heterogeneity was assessed by visually examining the forest plots, and by considering the chi-squared test for significance at p&amp;lt;0.1 or an I-squared inconsistency statistic (with an I-squared value of 50%&amp;ndash;74.99% indicating serious inconsistency and I-squared value of over 75% indicating very serious inconsistency). If the heterogeneity still remained, a random effects model was employed to provide a more conservative estimate of the effect. Where considerable heterogeneity was present, the authors set out to perform predefined subgroup analyses based on the following factors:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Different stages of menopause (peri- or postmenopausal) </li>
+    <li>Different age groups </li>
+</ul>
+<p><em>Data Synthesis for Diagnostic Test Accuracy Review</em></p>
+<p>For diagnostic test accuracy studies, the following outcomes were reported:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Sensitivity </li>
+    <li>Specificity </li>
+    <li>Positive and negative likelihood ratio </li>
+    <li>Area under the curve (AUC) </li>
+</ul>
+<p><em>Data Synthesis for Qualitative Review</em></p>
+<p>For the qualitative review in the guideline, results were reported narratively either by individual study or by summarising the range of values as reported across similar studies. A summary evidence table was used when data allowed for this.</p>
+<p><em>Data Synthesis Using Network Meta-analysis</em></p>
+<p>A network meta-analysis (NMA) was formulated to synthesise direct and indirect evidence of treatments' efficacy to relieve short-term menopausal symptoms while preserving randomisation for the outcomes of frequency of vasomotor symptoms (VMS), discontinuation of treatment and vaginal bleeding. Hierarchical Bayesian NMAs with class effects were performed using the software WinBUGS version 1.4. Data from women in 3 distinct populations were used as inputs to the models: women with a uterus, women without a uterus and women with breast cancer or a history of breast cancer. The reviewers examined statistical models for fixed and random effects that allowed inclusion of multi-arm trials and accounted for the correlation between arms in the trials with any number of trial arms. These models were based on original work from the University of Bristol (<a href=&quot;https://www.bris.ac.uk/cobm/research/mpes/mtc.html&quot; title=&quot;University of Bristol Web site&quot;>https://www.bris.ac.uk/cobm/research/mpes/mtc.html</a>).</p>
+<p>As no dependency on time was identified, discontinuation of treatment and vaginal bleeding were treated as dichotomous outcomes and were modelled on the log-odds ratio scale. Frequency of VMS was distributed in the form of an overdispersed Poisson distribution and was therefore modelled on the log-mean ratio scale. On this scale, final and change from baseline frequencies of VMS could not be pooled, so a correlation coefficient was used to estimate final frequencies from change from baseline.</p>
+<p>For all the networks set up in the NMA, models for fixed and random effects were developed and then these were compared based on residual deviance and deviance information criteria (DIC). The model with the smallest DIC is estimated to be the model that would best predict a replicate dataset which has the same structure as that currently observed. A small difference in DIC between the fixed and random effects models (3&amp;ndash;5 points) implies that the better fit obtained by adding random effects does not justify the additional complexity. However, if the difference in DIC between a fixed and random effects model was less than 5 points, and the models make very similar inferences, then we would report the results from a fixed effects model as it does not make as many assumptions as the random effects model, contains fewer parameters and is easier for clinical interpretation than the random effects model.</p>
+<p>Where closed loops of treatment comparisons existed in the networks, inconsistency was assessed by comparing any available direct and indirect treatment and testing the null hypothesis that the indirect evidence was no different from the direct evidence.</p>
+<p>There were 3 main outputs from the NMA:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The estimation of summary estimates (means ratios [MRs] or odds ratios [ORs]) (with their 95% credible intervals) were calculated for comparisons of the direct and indirect evidence </li>
+    <li>The probability that each treatment was best based on the proportion of Markov chain iterations in which treatment had the highest probability of achieving the outcomes selected in the networks </li>
+    <li>The ranking of treatments compared with baseline groups (presented as median rank and its 95% credible intervals) </li>
+</ul>
+<p>The following sensitivity analyses were conducted:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Changes to the value of the correlation coefficient used to estimate final frequencies of VMS from change from baseline </li>
+    <li>Combining women with and without a uterus into a single population to determine if this led to changes in heterogeneity </li>
+    <li>Removing low dose oral oestradiol plus progestogen to determine if this dose was reducing the overall efficacy of oral oestradiol plus progestogen in the model </li>
+</ul>
+<p><strong>Appraising the Quality of Evidence by Outcomes</strong></p>
+<p>The evidence for outcomes from the included randomised control trials (RCTs) and, where appropriate, observational studies was evaluated and presented using an adaptation of the GRADE toolbox developed by the international GRADE working group. The software developed by the GRADE working group (GRADEpro) was used to assess the quality of each outcome, taking into account individual study quality factors and the meta-analysis results. The clinical/economic evidence profile tables include details of the quality assessment and pooled outcome data, where appropriate, an absolute measure of intervention effect and the summary of quality of evidence for that outcome. In this table, the columns for intervention and control indicate summary measures of effect and measures of dispersion (such as mean and standard deviation or median and range) for continuous outcomes and frequency of events (n/N: the sum across studies of the number of patients with events divided by sum of the number of randomised or completers) for binary outcomes. Reporting of publication bias was only taken into consideration in the quality assessment and included in the clinical evidence profile tables if it was apparent.</p>
+<p>The selection of outcomes for each review question was decided when each review protocol was discussed with the GDG. However, given the nature of most of the review questions included in this guideline (driven by short- or long-term outcomes), the categorisation of outcomes as critical and important did not follow the standard GRADE approach. The outcomes selected for a review question were critical for decision-making in a specific context.</p>
+<p>The evidence for each outcome in interventional reviews was examined separately for the quality elements listed and defined in Table 4 in the full version of the guideline. Each element was graded using the quality levels listed in Table 5 in the full version of the guideline.</p>
+<p>The main criteria considered in the rating of these elements are discussed below. Footnotes were used to describe reasons for grading a quality element as having serious or very serious limitations. The ratings for each component were summed to obtain an overall assessment for each outcome (see Table 6 in the full version of the guideline).</p>
+<p>The GRADE toolbox is designed only for RCTs and observational studies but the reviewers adapted the quality assessment elements and outcome presentation for diagnostic accuracy and qualitative studies, subject to data availability. For example, for diagnostic accuracy studies, the GRADE tables were modified to include the most appropriate measures of diagnostic accuracy (sensitivity, specificity, positive and negative likelihood ratio) whereas qualitative studies were presented in summary evidence tables around themes identified or direct participants' quotations. Quality of the evidence in the qualitative reviews was assessed per study level.</p>
+<p><em>Grading the Quality of Clinical Evidence</em></p>
+<p>After results were pooled, the overall quality of evidence for each outcome was considered. The following procedure was adopted when using the GRADE approach:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A quality rating was assigned based on the study design. RCTs start as high, observational studies as moderate and uncontrolled case series as low or very low. </li>
+    <li>The rating was then downgraded for the specified criteria: risk of bias (study limitations); inconsistency; indirectness; imprecision; and publication bias. Evidence from observational studies (which had not previously been downgraded) was upgraded if there was a large magnitude of effect or a dose-response gradient, and if all plausible confounding would reduce a demonstrated effect or suggest a spurious effect when results showed no effect. Each quality element considered to have 'serious' or 'very serious' risk of bias was rated down by 1 or 2 points respectively. </li>
+    <li>The downgraded/upgraded ratings were then summed and the overall quality rating was revised. For example, all RCTs started as high and the overall quality became moderate, low or very low if 1, 2 or 3 points were deducted respectively. </li>
+    <li>The reasons or criteria used for downgrading were specified in the footnotes. </li>
+</ul>
+<p>The details of the criteria used for each of the main quality elements are discussed further in Sections 3.3.3.2 to 3.3.3.6 in the full version of the guideline.</p>
+<p><em>Quality Assessment of NMA</em></p>
+<p>For the NMAs, quality was assessed by looking at risk of bias across the included evidence (using the standard GRADE approach for this domain), heterogeneity and inconsistency.</p>
+<p>The following limits of the upper 95% CI for between-study standard deviation were used to assess heterogeneity:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Less than 0.3 &amp;ndash; low heterogeneity; quality of evidence not downgraded </li>
+    <li>0.3 to 0.6 &amp;ndash; moderate heterogeneity; quality of evidence downgraded by 1 level </li>
+    <li>0.6 to 0.9 &amp;ndash; high heterogeneity; quality of evidence downgraded by 2 levels </li>
+    <li>0.9 to 1.2 &amp;ndash; very high heterogeneity; quality of evidence downgraded by 3 levels </li>
+</ul>
+<p>Inconsistency in NMA has a different meaning than in pairwise meta-analysis, referring to the discrepancy between direct and indirect evidence in closed treatment loops within the network. If closed treatment loops existed then the following criteria were adopted:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Significant inconsistency in 1 loop &amp;ndash; quality of evidence downgraded by 1 level </li>
+    <li>Significant inconsistency in more than 50% of loops where several loops exist &amp;ndash; quality of evidence downgraded by 2 levels </li>
+</ul>
+<p>For fixed-effect NMAs that did not model heterogeneity, or for networks in which inconsistency could not be assessed as no closed treatment loops existed, these criteria were not considered to impact the quality of evidence.</p>
+<p><em>Quality Assessment of Qualitative Studies</em></p>
+<p>Quality of qualitative studies (at study level) was assessed following the NICE checklists in The Guidelines Manual 2007 (see the &quot;Availability of Companion Documents&quot; field). The main quality assessment domains are organised across the definition of population included, the appropriateness of methods used and the completeness of data analysis and the overall relevance of the study participants to the population of interest for the guideline.</p>
+<p><em>Use of Absolute Effect in Decision-making</em></p>
+<p>The GDG assessed the evidence by outcome in order to determine if there was, or potentially was, a clinically important benefit, a clinically important harm or no clinically important difference between interventions. To facilitate this, binary outcomes were converted into absolute risk differences (ARDs) using GRADEpro software: the median control group risk across studies was used to calculate the ARD and its 95% CI from the pooled risk ratio with the exception of estimation of baseline risk for breast cancer and cardiovascular disease (CVD) (see Section 3.3.4 in the full version of the original guideline document for details).</p>
+<p><em>Evidence Statements</em></p>
+<p>Evidence statements are summary statements that are presented after the GRADE profiles, summarising the key features of the clinical evidence presented. The wording of the evidence statements reflects the certainty or uncertainty in the estimate of effect. The evidence statements are presented by comparison (for interventional reviews) or by description of outcome where appropriate and encompass the following key features of the evidence:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The number of studies and the number of participants for a particular outcome </li>
+    <li>A brief description of the participants </li>
+    <li>An indication of the direction of effect (if 1 treatment is beneficial or harmful compared with the other, or whether there is no difference between the 2 tested treatments) </li>
+    <li>A description of the overall quality of evidence (GRADE overall quality)</li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Health Economics</span></strong></p>
+<p>Refer to the &quot;Cost Analysis&quot; field and Appendix L in the full guideline appendices for information about the health economic literature search.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Women and Children's Health (NCC-WCH) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Who Developed This Guideline?</span></strong></p>
+<p>A multidisciplinary Guideline Development Group (GDG) comprising healthcare professionals and researchers as well as lay members developed this guideline (see the list of group members and acknowledgements). NICE funds the NCC-WCH and thus supported the development of this guideline. The GDG was convened by the NCC-WCH and chaired by Professor Mary Ann Lumsden in accordance with guidance from NICE.</p>
+<p>The group met every 4 to 6 weeks during the development of the guideline. At the start of the guideline development process all group members declared interests including consultancies, fee-paid work, shareholdings, fellowships and support from the healthcare industry. At all subsequent group meetings, members declared arising conflicts of interest.</p>
+<p>Members were either required to withdraw completely or for part of the discussion if their declared interest made it appropriate. The details of declared interests and the actions taken are shown in Appendix C in the full guideline appendices (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p>Staff from the NCC-WCH provided methodological support and guidance for the development process. The team working on the guideline included a guideline lead, a project manager, systematic reviewers, health economists and information scientists. They undertook systematic searches of the literature, appraised the evidence, conducted meta-analysis and cost-effectiveness analysis where appropriate and drafted the guideline in collaboration with the group.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Developing Recommendations</span></strong> </p>
+<p>Over the course of the guideline development process, the GDG was presented with:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Evidence tables of the clinical and economic evidence reviewed from the literature: all evidence tables are in Appendix H in the full guideline appendices </li>
+    <li>Summary of clinical and economic evidence and quality assessment (as presented in Chapters 4 to 11 in the full version of the guideline) </li>
+    <li>Forest plots (Appendix J in the full guideline appendices) </li>
+    <li>A description of the methods and results of the cost-effectiveness analysis undertaken for the guideline (Appendix L in the full guideline appendices) </li>
+</ul>
+<p>Recommendations were drafted on the basis of the group's interpretation of the available evidence, taking into account the balance of benefits, harms and costs between different courses of action. This was either done formally, in an economic model, or informally. Firstly, the net benefit over harm (clinical effectiveness) was considered, focusing on the critical outcomes, although most of the reviews in the guideline were outcome driven. When this was done informally, the group took into account the clinical benefits and harms when one intervention was compared with another. The assessment of net benefit was moderated by the importance placed on the outcomes (the group's values and preferences), and the confidence the group had in the evidence (evidence quality). Secondly, the group assessed whether the net benefit justified any differences in costs.</p>
+<p>When clinical and economic evidence was of poor quality, conflicting or absent, the group drafted recommendations based on their expert opinion. The considerations for making consensus-based recommendations include the balance between potential harms and benefits, the economic costs or implications compared with the economic benefits, current practices, recommendations made in other relevant guidelines, patient preferences and equality issues. The group also considered whether the uncertainty was sufficient to justify delaying making a recommendation to await further research, taking into account the potential harm of failing to make a clear recommendation.</p>
+<p>The wording of recommendations was agreed by the group and focused on the following factors:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The actions healthcare professionals need to take </li>
+    <li>The information readers need to know </li>
+    <li>The strength of the recommendation (for example the word 'offer' was used for strong recommendations and 'consider' for weak recommendations) </li>
+    <li>The involvement of patients (and their carers if needed) in decisions about treatment and care </li>
+    <li>Consistency with NICE's standard advice on recommendations about drugs, waiting times and ineffective intervention</li>
+</ul>
+<p>The main considerations specific to each recommendation are outlined in the 'Recommendations and link to evidence' sections within each chapter of the original guideline document.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The aims of the health economic input to the guideline were to inform the Guideline Development Group (GDG) of potential economic issues related to diagnosis and management of menopause to ensure that recommendations represented a cost-effective use of healthcare resources. Health economic evaluations aim to integrate data on benefits (ideally in terms of quality adjusted life years [QALYs]), harms and costs of different care options.</p>
+<p>The group prioritised a single review question &amp;ndash; on managing the short-term symptoms of menopause &amp;ndash; where it was thought that economic considerations would be particularly important in formulating recommendations and a review of the health economic literature was also undertaken for this question. For economic evaluations, no standard system of grading the quality of evidence exists and included papers were assessed using the economic evaluations checklist as specified in the National Institute for Health and Care Excellence (NICE) guidelines manual (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p>Health economic reviews were undertaken for review questions relating to short-term treatment and symptoms, the diagnosis of premature ovarian insufficiency (POI) and the treatment of urogenital atrophy in women with menopause-related vaginal/urogenital atrophy.</p>
+<p>No health economic literature review was reported for the long-term risks and benefits of hormone replacement therapy (HRT). It was agreed that the economic analysis would not address the impact of HRT beyond 5 years because authors of studies considering a longer term impact have reported that cost effectiveness is driven by differences in short-term symptom relief. In the context of this guideline it was not considered appropriate to investigate the cost effectiveness of a treatment that looked only at a health economic evaluation of long-term symptoms without considering the impact on short-term symptoms. Therefore relevant studies considering longer term risks and benefits would have been expected to have been captured by the systematic review the reviewers&amp;nbsp;had planned on short-term treatments. However, the absence of a health economic review did not preclude the use of data from the clinical review of longer term risks and benefits in the health economic analysis if the group considered that there were important longer term risks and benefits from short-term use of HRT.</p>
+<p>No health economic review was undertaken on the review question focused on information and advice as this focused primarily on the content and quality of information that is routinely provided rather than whether the provision of information itself represent a cost-effective use of resources. Therefore, this question was not primarily about competing alternatives which have different opportunity costs and therefore was not considered suitable for a health economic review.</p>
+<p>No clinical evidence was identified for classification systems for the diagnosis of menopause and it was thought a priori that it was most unlikely that there would be economic studies on this. Similarly, no clinical evidence was found on the intervals at which clinical review be undertaken to assess the effectiveness and safety of treatments to relieve menopausal symptoms and to determine when women need to be referred to specialist care and again it was thought <em>a priori</em> that it would be very unlikely that any economic evaluation would exist on this topic.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Validation Process</span></strong></p>
+<p>This guidance is subject to a 6-week public consultation and feedback as part of the quality assurance and peer review of the document. All comments received from registered stakeholders are responded to in turn and posted on the National Institute for Health and Care Excellence (NICE) Web site when the pre-publication check of the full guideline occurs.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Type of Studies</span></strong></p>
+<p>Randomised controlled trials (RCTs), non-randomised trials and observational studies (including diagnostic or comparative cohorts) were included in the evidence reviews as appropriate.</p>
+<p>Literature reviews, posters, letters, editorials, comment articles, unpublished studies and studies not in English were excluded.</p>
+<p>For most intervention reviews in this guideline, parallel RCTs were included because they are considered the most robust study design for unbiased estimation of intervention effects. Crossover RCTs were appropriate for some of the interventional questions.</p>
+<p>If there was limited evidence from RCTs, well-conducted non-randomised comparative studies were included. For most review questions investigating long term outcomes of hormone replacement therapy (HRT), prospective comparative studies with adjusted analyses on important confounders were selected in addition to RCTs. Please refer to Appendix D in the full guideline appendices (see the &quot;Availability of Companion Documents&quot; field) for full details on the study design of studies selected for each review question.</p>
+<p>For diagnostic reviews, cross-sectional and retrospective studies were included. Case-control or case series were not included for the presentation of evidence for any review question.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Optimal clinical management of menopause-related symptoms, including hormonal and non-hormonal therapies to improve quality of life</p>
+<p>Refer to the &quot;Consideration of clinical benefits and harms&quot; sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for benefits of specific interventions.</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Unscheduled vaginal bleeding is a common side effect with combined hormone therapy, but if persistent beyond 3 months then investigation may be required depending on the degree of clinical concern. </li>
+    <li>The Women's Health Initiative initially reported that although hormone replacement therapy (HRT) prevented osteoporotic fractures and colon cancer, it increased the risk of having a cardiovascular event as well as the incidence of breast cancer. However, the association between HRT and cardiovascular disease (CVD) has since been disputed and the data are now being reinterpreted. </li>
+    <li>An increase in the risk of venous thromboembolism (VTE) (deep vein thrombosis [DVT] or pulmonary embolism [PE]) is a significant side effect of HRT particularly because PEs can be fatal. This risk appears to be greater with oral than transdermal HRT. DVT risk increases with age and body mass index (BMI), among other risk factors. &amp;nbsp; </li>
+</ul>
+<p>Refer to the &quot;Consideration of clinical benefits and harms&quot; sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for harms of specific interventions.</p>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Hormone replacement therapy (HRT) is contraindicated in women who have (or are at high risk of) hormone-dependent cancer.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Healthcare professionals are expected to take the National Institute for Health and Care Excellence (NICE) clinical guidelines fully into account when exercising their clinical judgement. However, the guidance does not override the responsibility of healthcare professionals to make decisions appropriate to the circumstances of each patient, in consultation with the patient and/or their guardian or carer. </li>
+    <li>The guideline will assume that prescribers will use a medicine's summary of product characteristics to inform decisions made with individual patients. </li>
+    <li>Healthcare providers need to use clinical judgement, knowledge and expertise when deciding whether it is appropriate to apply guidelines. The recommendations cited here are a guide and may not be appropriate for use in all situations. The decision to adopt any of the recommendations cited here must be made by practitioners in light of individual patient circumstances, the wishes of the patient, clinical expertise and resources. </li>
+    <li>The National Collaborating Centre for Women and Children's Health (NCC-WCH) disclaims any responsibility for damages arising out of the use or non-use of these guidelines and the literature used in support of these guidelines. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Menopause Implementation: Getting Started</span></strong></p>
+<p>This section highlights 3 areas of the menopause guideline that could have a big impact on practice and be challenging to implement, along with the reasons why the authors are proposing change in these areas. The section also gives information on resources to help with implementation.</p>
+<p><strong>The Challenge: Stopping the Use of Follicle-stimulating Hormone Tests to Diagnose Menopause in Women Aged Over 45 Years</strong></p>
+<p>The follicle-stimulating hormone (FSH) test is often performed unnecessarily in women aged over 45 years. The evidence underpinning this guideline highlights that hormonal tests should not routinely be used in the diagnosis of menopause and that FSH tests should not be used in women aged over 45 years. This is because FSH fluctuates considerably over short periods of time during the years leading up to menopause and so blood levels are not a helpful addition to what is a clinical diagnosis. If a woman is aged over 45 years and has not had a period for at least 12 months, or has vasomotor symptoms and irregular periods (or just symptoms if she doesn't have a uterus), this is adequate information to diagnose menopause and perimenopause respectively. In younger women, FSH tests should not be used to diagnose menopause in those taking combined oestrogen and progestogen contraception or high-dose progestogen because these affect FSH measurements.</p>
+<p>Carrying out this test in this group of women does not improve menopause management and so this is an area of care where considerable savings could be made through disinvestment.</p>
+<p><em>Raising Awareness of the Need to Change Practice</em></p>
+<p>There may be staff in primary care services who do not know that FSH tests should not be carried out in women aged over 45 years.</p>
+<p>To raise awareness, clinical commissioning groups, practice managers and lead general practitioners (GPs) could:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Use newsletters, bulletins and education events to help ensure that GPs and other practice staff (in particular practice nurses) are aware of this change in practice and that they understand the evidence underpinning this recommendation. </li>
+    <li>Add a prompt to electronic requesting systems which remind primary care staff that this test should not be requested for women aged over 45. </li>
+    <li>Refer GPs to National Institute for Health and Care Excellence (NICE) clinical knowledge summary for menopause. </li>
+    <li>Use the NICE <a href=&quot;http://www.nice.org.uk/guidance/ng23/costing&quot; title=&quot;NICE Web site&quot;>costing report and template</a> to estimate the local savings that can be made. A sample calculation using this template showed that savings of &amp;pound;16,500 could be made for a population of 100,000. </li>
+    <li>Use the <a href=&quot;http://www.nice.org.uk/guidance/ng23/resources&quot; title=&quot;NICE Web site&quot;>baseline assessment tool</a> to establish current practice in requesting tests and carry out clinical audit so this can be monitored and improved. </li>
+</ul>
+<p>Also, laboratory staff and managers could:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Engage with their local GP practices. For example, in National Health Service (NHS) Lothian a GP/laboratory liaison group meets regularly every 2 months and holds an annual update meeting to which all GPs are invited. This continuing professional development (CPD) accredited meeting provides a good opportunity to promote changes in practice. </li>
+    <li>Encourage GPs to stop requesting FSH tests for women aged over 45 years by drawing attention to the fact that this test is unlikely to be informative and is not recommended. <a href=&quot;http://labtestsonline.org.uk/understanding/analytes/fsh/tab/test&quot; title=&quot;Lab Tests Online UK Web site&quot;>Lab Tests Online UK</a> and the UK National External Quality Assessment Service (UK NEQAS) are also raising awareness of the new NICE guidance. </li>
+</ul>
+<p><strong>The Challenge: Communicating the Long-term Benefits and Risks of Hormone Replacement Therapy</strong></p>
+<p>It is important to provide information on the benefits and risks of hormone replacement therapy (HRT) to help women make an informed choice about which treatment to use for menopausal symptoms. Media reports about HRT have not always been accurate, so providing healthcare professionals and women with a robust source of information is vital. Before publication of this guideline there was no consensus about the long-term benefits and risks of HRT. Although the <a href=&quot;https://www.whi.org/&quot; title=&quot;Women's Health Initiative Web site&quot;>Women's Health Initiative</a> found that HRT prevented osteoporotic fractures and colon cancer, it initially reported that HRT increased the risk of having a cardiovascular event as well as the incidence of breast cancer. However, the association between HRT and cardiovascular disease has since been disputed and the results show that the risk varies in accordance with individual factors. One of the aims of this guideline is to help GPs and other healthcare professionals to be more confident in prescribing HRT and women more confident in taking it. A knowledge gap among some GPs and other healthcare professionals could mean that they are reluctant to prescribe HRT because they overestimate the risks and contraindications, and underestimate the impact of menopausal symptoms on a woman's quality of life.</p>
+<p><em>Improving Knowledge Among Healthcare Professionals</em></p>
+<p>There is a need to improve knowledge about the long-term benefits and risks of HRT. No other treatment has been shown to be as effective as HRT for menopausal symptoms, though the balance of risks and benefits varies among women. Healthcare professionals need to be in a position to be able to support women to make an informed decision about individual benefits and risks of HRT.</p>
+<p>NICE is working with the Royal College of Obstetricians and Gynaecologists (RCOG) to ensure that management of menopause, including the benefits and risks of HRT, is covered within the <a href=&quot;https://www.rcog.org.uk/en/careers-training/specialty-training-curriculum/core-curriculum/&quot; title=&quot;RCOG Web site&quot;>core curriculum</a>. This includes supporting the update and promotion of the <a href=&quot;https://www.rcog.org.uk/en/careers-training/specialty-training-curriculum/atsms/atsm-menopause/&quot; title=&quot;RCOG Web site&quot;>advanced training specialist module</a> on menopause and the <a href=&quot;https://www.rcog.org.uk/en/careers-training/specialty-training-curriculum/subspecialty-training/reproductive-medicine-subspecialty-training/&quot; title=&quot;RCOG Web site&quot;>subspecialty training in reproductive medicine</a>. They are also working with the Faculty of Sexual &amp;amp; Reproductive Healthcare (FSRH) to highlight the <a href=&quot;http://www.fsrh.org/pages/Special_Skills.asp&quot; title=&quot;FSRH Web site&quot;>menopause special skills theory course</a> and the basic and advanced <a href=&quot;http://www.fsrh.org/pdfs/SpecialtyModule7.pdf&quot; title=&quot;FSRH Web site&quot;>special skills module</a>.</p>
+<p>To improve knowledge, clinical commissioning group prescribing leads could:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Help to develop formularies of good HRT prescribing for GPs. This could be done with input from GPs with a specialist interest in menopause and interested consultant gynaecologists. </li>
+    <li>Use briefings and newsletters to help disseminate prescribing knowledge on HRT. </li>
+</ul>
+<p>Also, GPs could:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Set up local meetings or teaching sessions (particularly those GPs with a specialist interest) to target interested GPs in each practice who can then take the information back to their partners. </li>
+    <li>Use the recommendations in Section 1.5 of the original guideline document and the HRT section of NICE's clinical knowledge summary to ensure that they are informed of the actual long-term benefits and risks of HRT for each individual and are not basing decisions on perceived knowledge. </li>
+    <li>Use materials such as NICE's <a href=&quot;http://www.nice.org.uk/guidance/ng23/informationforpublic&quot; title=&quot;NICE Web site&quot;>information for the public</a>, <a href=&quot;http://www.nhs.uk/conditions/menopause/pages/introduction.aspx&quot; title=&quot;NHS Web site&quot;>NHS choices</a> and the <a href=&quot;http://www.womens-health-concern.org/help-and-advice/factsheets/hrt-know-benefits-risks/&quot; title=&quot;Women's Health Concern Web site&quot;>Women's Health Concern leaflet</a> to help support women to make informed decisions when advising them about HRT. </li>
+    <li>Link with the menopause specialist in their area for advice. This could be by telephone or email about specific cases and/or through training delivered by the menopause specialist. </li>
+    <li>Complete the basic or advanced <a href=&quot;http://www.fsrh.org/pages/Special_Skills.asp&quot; title=&quot;FSRH Web site&quot;>FSRH special skills course</a>. Practice nurses may also complete this training. </li>
+</ul>
+<p><strong>The Challenge: Providing Enough Specialist Services</strong></p>
+<p>The number of women aged over 45 years in the UK has been steadily increasing and will continue to rise. The associated increase in the number of women going through menopause is expected to result in more new referrals to secondary care of both women needing short-term symptom control and those with associated long-term health issues. There is currently a lack of specialist services and their availability varies nationally. Throughout this guideline there are recommendations to refer certain women to a healthcare professional with expertise in menopause. Currently, there may not be enough services nationally to refer these women to.</p>
+<p><em>Reviewing and Redesigning Local Service Provision</em></p>
+<p>In order to address variation and potential gaps in service provision, local health services may need to review, map and redesign local service provision.</p>
+<p>To do this, commissioners and clinical commissioning groups could:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Use Menopause UK's national <a href=&quot;http://menopauseuk.org/resources/map-of-menopause-services/&quot; title=&quot;Menopause UK Web site&quot;>menopause map</a> as a starting point. This highlights variations in practice and the lack of overall provision. </li>
+    <li>Clarify current referral routes and communicate them if they are effective. </li>
+    <li>Identify lead clinicians to drive a change in service provision if a gap is identified. Ideally all clinical commissioning groups should have a GP with a specialist interest or a community gynaecologist who could do this. </li>
+    <li>Establish whether current referrals are appropriate. These may be to secondary care (hospitals), community services or a GP with a specialist interest and will vary according to local facilities. Ideally, services should be provided by a dedicated menopause clinic. </li>
+    <li>Confirm that care is provided by a healthcare professional with expertise in menopause (for example, women with breast cancer should have access to a specialist menopause clinic or professional but often receive treatment for menopause from their oncologist who may not have the appropriate training). </li>
+    <li>Consider the feasibility of providing dedicated menopause support by setting up clinics within current gynaecology services. </li>
+    <li>Menopause clinics may be multispecialist and so jointly led by a nurse consultant and a consultant ensuring that when a member of staff is unavailable the clinic may still run. </li>
+    <li>Establish regional menopause clinics if services are unable to have their own. </li>
+    <li>Use the learning from examples of practice where successful services have been set up to help. For example, a primary care service in Essex manages specialist clinic waiting lists through an established agreement whereby a GP with specialist interest accepts emails or written requests from all GPs within a clinical commissioning group. These requests are answered once a week. A specialist service in London has set up a helpline that receives calls outside of clinic times and can allow women to be given support and advice without the need for a clinic appointment. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Collaborating Centre for Women's and Children's Health. Menopause: diagnosis and management. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Nov 12. 29 p.&amp;nbsp;(NICE guideline; no. 23).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2015 Nov 12"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="National Guideline Alliance - National Government Agency [Non-U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The National Collaborating Centre for Women's and Children's Health (NCC-WCH) was commissioned by the National Institute for Health and Care Excellence (NICE) to undertake the work on this guideline.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Guideline Development Group (GDG)</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Guideline Development Group Members</em>: Terry Aspray, Consultant Physician, Musculoskeletal Unit, Freeman Hospital; Claire Bowring, Lay member; Melanie Davies, Consultant Obstetrician and Gynaecologist, University College London Hospitals (until November 2014); Deborah Holloway, Nurse Consultant Gynaecology, Guys and St Thomas's NHS Foundation Trust; Sally Hope, GP, Oxford, Oxfordshire; Deborah Keatley, Lay member; Mary Ann Lumsden (<em>Chair</em>), Professor of Medical Education and Gynaecology (Clinical Lead for Reproductive and Maternal Medicine), University of Glasgow, and Honorary Consultant Gynaecologist, Glasgow Royal Infirmary; Sara Moger, Lay member; Prunella Neale, Practice Nurse, Herschel Medical Centre, Slough; Nicholas Panay, Consultant Gynaecologist, Specialist in Reproductive Medicine, Queen Charlotte's and Chelsea &amp;amp; Chelsea and Westminster Hospitals, London; Anthony Parsons, Consultant Community Gynaecologist, Coventry and Warwichshire Partnership Trust; Imogen Shaw, GP, Finchingfield, Essex; Christine West, Consultant Gynaecologist, Simpson Centre for Reproductive Health, Royal Infirmary of Edinburgh (from Jan 2015)</p>
+<p><em>Expert Advisers</em>: Charlotte Coles (until October 2014), Consultant Clinical Oncologist, Addenbrooke's Hospital, Cambridge; Peter Collins, Professor of Clinical Cardiology, Imperial College London; Rebecca Hardy, Programme Leader for MRC Unit for Lifelong Health and Aging, University College London; Adrian Harnett, Consultant Clinical Oncologist, Norfolk and Norwich University Hospital; Myra Hunter, Professor of clinical health psychology, King's College London</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>See Appendix C in the full guideline appendices (see the &quot;Availability of Companion Documents&quot; field) for all interests declared between the start of development and submission on 23 March 2015.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng23&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Menopause: diagnosis and management. Full guideline. Methods, evidence and recommendations. London (UK): National Institute for Health and Care Excellence; 2015 Nov 12. 283 p. (NICE guideline; no. 23). Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng23/evidence/full-guideline-559549261&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. </li>
+    <li>Menopause: diagnosis and management. Appendices. London (UK): National Institute for Health and Care Excellence; 2015 Nov 12. (NICE guideline; no. 23). Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng23/evidence&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Menopause: diagnosis and management. Baseline assessment tool. London (UK): National Institute for Health and Care Excellence; 2015 Nov 12. (NICE guideline; no. 23). Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng23/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Menopause: diagnosis and management. Costing report. London (UK): National Institute for Health and Care Excellence; 2015 Nov 12. 15 p. (NICE guideline; no. 23). Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng23/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Menopause: diagnosis and management. Costing template. London (UK): National Institute for Health and Care Excellence; 2015 Nov 12. (NICE guideline; no. 23). Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng23/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>The guidelines manual 2012. London (UK): National Institute for Health and Care Excellence (NICE); 2012 Nov. Available from the <a href=&quot;https://www.nice.org.uk/article/pmg6/chapter/1%20introduction&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Menopause: diagnosis and management. Information for the public. London (UK): National Institute for Health and Care Excellence; 2015 Nov 12. 13 p. (NICE guideline; no. 23). Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng23/ifp/chapter/about-this-information&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. Also available for download in eBook and ePub formats from the <a href=&quot;http://www.nice.org.uk/guidance/ng23/ifp/chapter/about-this-information&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on February 1, 2016. This summary was updated by ECRI Institute on November 17, 2016 following the U.S. Food and Drug Administration advisory on Testosterone and Other Anabolic Androgenic Steroids (AAS).</p>
+<p>The National Institute for Health and Care Excellence (NICE) has granted the National Guideline Clearinghouse (NGC) permission to include summaries of their Diagnostics guidance with the intention of disseminating and facilitating the implementation of that guidance. NICE has not verified this content to confirm that it accurately reflects the original NICE guidance and therefore no guarantees are given by NICE in this regard. All NICE diagnostics guidance is prepared in relation to the National Health Service in England and Wales. NICE has not been involved in the development or adaptation of NICE guidance for use in any other country. The full versions of all NICE guidance can be found at <a href=&quot;http://www.nice.org.uk&quot; title=&quot;NICE Web site&quot;>www.nice.org.uk</a>.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 00:48:06 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:48:12 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 491.888 (3)
+  esindex: 0.01
+  captures_list: 628.777
+  CDXLines.iter: 12.975 (3)
+  PetaboxLoader3.datanode: 472.101 (4)
+  exclusion.robots: 0.293
+  exclusion.robots.policy: 0.277
+  RedisCDXSource: 120.086
+  load_resource: 32.46
+-->

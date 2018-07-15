@@ -1,0 +1,873 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app42.us.archive.org';v.server_ms=666;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10830?contentType=xml', '20180712223634')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180712223634/https://www.guideline.gov/summaries/downloadcontent/ngc-10830?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180712223634/https://www.guideline.gov/summaries/downloadcontent/ngc-10830?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10830?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180712223634" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610070347/https://www.guideline.gov/summaries/downloadcontent/ngc-10830?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 22:36:34 Jul 12, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610070347/https://www.guideline.gov/summaries/downloadcontent/ngc-10830?contentType=xml" title="07:03:47 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 22:36:34 Jul 12, 2018">12</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930205606/https://www.guideline.gov/summaries/downloadcontent/ngc-10830?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 22:36:34 Jul 12, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180712223634*/https://www.guideline.gov/summaries/downloadcontent/ngc-10830?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 12 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10830?contentType=xml","2018-07-12",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Blood transfusion.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Clinical Guideline Centre. Blood transfusion. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Nov 18. 26 p.&amp;nbsp;(NICE guideline; no. 24).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Clinical Guideline Centre (NCGC) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p>Some recommendations are made with more certainty than others. The wording of the recommendations reflects this. For example, the Guideline Development Group (GDG) uses 'offer' to reflect a strong recommendation, usually where there is clear evidence of benefit. The GDG uses 'consider' to reflect a recommendation for which the evidence of benefit is less certain. The strength of recommendation is defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p>Some people have religious beliefs that do not allow the transfusion of blood. Specific issues relating to these people have been addressed when reviewing the evidence and writing the recommendations.</p>
+<p>See the original guideline document for terms used in this guideline.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Alternatives to Blood Transfusion for Patients Having Surgery</strong></span></p>
+<p><strong>Erythropoietin</strong></p>
+<p>Do not offer erythropoietin to reduce the need for blood transfusion in patients having surgery, unless:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The patient has anaemia and meets the criteria for blood transfusion, but declines it because of religious beliefs or other reasons, or </li>
+    <li>The appropriate blood type is not available because of the patient's red cell antibodies </li>
+</ul>
+<p><strong>Intravenous and Oral Iron</strong></p>
+<p>Offer oral iron before and after surgery to patients with iron-deficiency anaemia.</p>
+<p>Consider intravenous iron before or after surgery for patients who:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Have iron-deficiency anaemia and cannot tolerate or absorb oral iron, or are unable to adhere to oral iron treatment (see the NICE guideline on <a href=&quot;http://www.nice.org.uk/guidance/cg76&quot; title=&quot;NICE Web site&quot;>medicines adherence</a>) </li>
+    <li>Are diagnosed with functional iron deficiency </li>
+    <li>Are diagnosed with iron-deficiency anaemia, and the interval between the diagnosis of anaemia and surgery is predicted to be too short for oral iron to be effective </li>
+</ul>
+<p>For guidance on managing anaemia in patients with chronic kidney disease, see the NGC summary of the NICE guideline <a href=&quot;/content.aspx?id=49260&quot; title=&quot;Guideline #10726&quot; target=&quot;_blank&quot;>Anaemia management in chronic kidney disease</a>.</p>
+<p><strong>Cell Salvage and Tranexamic Acid</strong></p>
+<p>Offer tranexamic acid to adults undergoing surgery who are expected to have at least moderate blood loss (greater than 500 ml).</p>
+<p>Consider tranexamic acid for children undergoing surgery who are expected to have at least moderate blood loss (greater than 10% blood volume).</p>
+<p>Do not routinely use cell salvage without tranexamic acid.</p>
+<p>Consider intra-operative cell salvage with tranexamic acid for patients who are expected to lose a very high volume of blood (for example in cardiac and complex vascular surgery, major obstetric procedures, and pelvic reconstruction and scoliosis surgery).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Red Blood Cells</span></strong></p>
+<p><strong>Thresholds and Targets</strong></p>
+<p>Use restrictive red blood cell transfusion thresholds for patients who need red blood cell transfusions and who do not:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Have major haemorrhage or </li>
+    <li>Have acute coronary syndrome or </li>
+    <li>Need regular blood transfusions for chronic anaemia </li>
+</ul>
+<p>When using a restrictive red blood cell transfusion threshold, consider a threshold of 70 g/litre and a haemoglobin concentration target of 70&amp;ndash;90 g/litre after transfusion.</p>
+<p>Consider a red blood cell transfusion threshold of 80 g/litre and a haemoglobin concentration target of 80&amp;ndash;100 g/litre after transfusion for patients with acute coronary syndrome.</p>
+<p>Consider setting individual thresholds and haemoglobin concentration targets for each patient who needs regular blood transfusions for chronic anaemia.</p>
+<p><strong>Doses</strong></p>
+<p>Consider single-unit red blood cell transfusions for adults (or equivalent volumes calculated based on body weight for children or adults with low body weight) who do not have active bleeding.</p>
+<p>After each single-unit red blood cell transfusion (or equivalent volumes calculated based on body weight for children or adults with low body weight), clinically reassess and check haemoglobin levels, and give further transfusions if needed.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Platelets</span></strong></p>
+<p><strong>Thresholds and Targets</strong></p>
+<p><em>Patients with Thrombocytopenia Who Are Bleeding</em></p>
+<p>Offer platelet transfusions to patients with thrombocytopenia who have clinically significant bleeding (World Health Organization [WHO] grade 2) and a platelet count below 30&amp;times;10<sup>9</sup> per litre.</p>
+<p>Use higher platelet thresholds (up to a maximum of 100&amp;times;10<sup>9 </sup>per litre) for patients with thrombocytopenia and either of the following:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Severe bleeding (WHO grades 3 and 4 below) </li>
+    <li>Bleeding in critical sites, such as the central nervous system (including eyes) </li>
+</ul>
+<p><em>Patients Who Are Not Bleeding or Having Invasive Procedures or Surgery</em></p>
+<p>Offer prophylactic platelet transfusions to patients with a platelet count below 10&amp;times;10<sup>9</sup> per litre who are not bleeding or having invasive procedures or surgery, and who do not have any of the following conditions:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Chronic bone marrow failure </li>
+    <li>Autoimmune thrombocytopenia </li>
+    <li>Heparin-induced thrombocytopenia </li>
+    <li>Thrombotic thrombocytopenic purpura </li>
+</ul>
+<p><em>Patients Who Are Having Invasive Procedures or Surgery</em></p>
+<p>Consider prophylactic platelet transfusions to raise the platelet count above 50&amp;times;10<sup>9</sup> per litre in patients who are having invasive procedures or surgery.</p>
+<p>Consider a higher threshold (for example 50&amp;ndash;75&amp;times;10<sup>9</sup> per litre) for patients with a high risk of bleeding who are having invasive procedures or surgery, after taking into account:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The specific procedure the patient is having </li>
+    <li>The cause of the thrombocytopenia </li>
+    <li>Whether the patient's platelet count is falling </li>
+    <li>Any coexisting causes of abnormal haemostasis </li>
+</ul>
+<p>Consider prophylactic platelet transfusions to raise the platelet count above 100&amp;times;10<sup>9 </sup>per litre in patients having surgery in critical sites, such as the central nervous system (including the posterior segment of the eyes).</p>
+<p><em>When Prophylactic Platelet Transfusions Are Not Indicated</em></p>
+<p>Do not routinely offer prophylactic platelet transfusions to patients with any of the following:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Chronic bone marrow failure </li>
+    <li>Autoimmune thrombocytopenia </li>
+    <li>Heparin-induced thrombocytopenia </li>
+    <li>Thrombotic thrombocytopenic purpura </li>
+</ul>
+<p>Do not offer prophylactic platelet transfusions to patients having procedures with a low risk of bleeding, such as adults having central venous cannulation or any patients having bone marrow aspiration and trephine biopsy.</p>
+<p><strong>Doses</strong></p>
+<p>Do not routinely transfuse more than a single dose of platelets.</p>
+<p>Only consider giving more than a single dose of platelets in a transfusion for patients with severe thrombocytopenia and bleeding in a critical site, such as the central nervous system (including eyes).</p>
+<p>Reassess the patient's clinical condition and check their platelet count after each platelet transfusion, and give further doses if needed.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Fresh Frozen Plasma</span></strong></p>
+<p><strong>Thresholds and Targets</strong></p>
+<p>Only consider fresh frozen plasma transfusion for patients with clinically significant bleeding but without major haemorrhage if they have abnormal coagulation test results (for example, prothrombin time ratio or activated partial thromboplastin time ratio above 1.5).</p>
+<p>Do not offer fresh frozen plasma transfusions to correct abnormal coagulation in patients who:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Are not bleeding (unless they are having invasive procedures or surgery with a risk of clinically significant bleeding) </li>
+    <li>Need reversal of a vitamin K antagonist </li>
+</ul>
+<p>Consider prophylactic fresh frozen plasma transfusions for patients with abnormal coagulation who are having invasive procedures or surgery with a risk of clinically significant bleeding.</p>
+<p><strong>Doses</strong></p>
+<p>Reassess the patient's clinical condition and repeat the coagulation tests after fresh frozen plasma transfusion to ensure that they are getting an adequate dose, and give further doses if needed.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Cryoprecipitate</span></strong></p>
+<p><strong>Thresholds and Targets</strong></p>
+<p>Consider cryoprecipitate transfusions for patients without major haemorrhage who have:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Clinically significant bleeding <strong>and</strong> </li>
+    <li>A fibrinogen level below 1.5 g/litre </li>
+</ul>
+<p>Do not offer cryoprecipitate transfusions to correct the fibrinogen level in patients who:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Are not bleeding <strong>and</strong> </li>
+    <li>Are not having invasive procedures or surgery with a risk of clinically significant bleeding </li>
+</ul>
+<p>Consider prophylactic cryoprecipitate transfusions for patients with a fibrinogen level below 1.0 g/litre who are having invasive procedures or surgery with a risk of clinically significant bleeding.</p>
+<p><strong>Doses</strong></p>
+<p>Use an adult dose of 2 pools when giving cryoprecipitate transfusions (for children, use 5&amp;ndash;10 ml/kg up to a maximum of 2 pools).</p>
+<p>Reassess the patient's clinical condition, repeat the fibrinogen level measurement and give further doses if needed.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Prothrombin Complex Concentrate </span></strong></p>
+<p><strong>Thresholds and Targets</strong></p>
+<p>Offer immediate prothrombin complex concentrate transfusions for the emergency reversal of warfarin anticoagulation in patients with either:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Severe bleeding <strong>or</strong> </li>
+    <li>Head injury with suspected intracerebral haemorrhage </li>
+</ul>
+<p>For guidance on reversing anticoagulation treatment in people who have a stroke and a primary intracerebral haemorrhage, see the recommendations in the NICE guideline <a href=&quot;https://www.nice.org.uk/guidance/cg68&quot; title=&quot;NICE Web site&quot;>Stroke. Diagnosis and initial management of acute stroke and transient ischaemic attack (TIA)</a> (NICE clinical guideline 68).</p>
+<p>Consider immediate prothrombin complex concentrate transfusions to reverse warfarin anticoagulation in patients having emergency surgery, depending on the level of anticoagulation and the bleeding risk.</p>
+<p>Monitor the international normalised ratio (INR) to confirm that warfarin anticoagulation has been adequately reversed, and consider further prothrombin complex concentrate.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Patient Safety</span></strong></p>
+<p><strong>Monitoring for Acute Blood Transfusion Reactions</strong></p>
+<p>Monitor the patient's condition and vital signs before, during and after blood transfusions, to detect acute transfusion reactions that may need immediate investigation and treatment.</p>
+<p>Observe patients who are having or have had a blood transfusion in a suitable environment with staff who are able to monitor and manage acute reactions.</p>
+<p><strong>Electronic Patient Identification Systems</strong></p>
+<p>Consider using a system that electronically identifies patients to improve the safety and efficiency of the blood transfusion process.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Patient Information</span></strong></p>
+<p>Provide verbal and written information to patients who may have or who have had a transfusion, and their family members or carers (as appropriate), explaining:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The reason for the transfusion </li>
+    <li>The risks and benefits </li>
+    <li>The transfusion process </li>
+    <li>Any transfusion needs specific to them </li>
+    <li>Any alternatives that are available, and how they might reduce their need for a transfusion </li>
+    <li>That they are no longer eligible to donate blood </li>
+    <li>That they are encouraged to ask questions </li>
+</ul>
+<p>Document discussions in the patient's notes.</p>
+<p>Provide the patient and their general practitioner (GP) with copies of the discharge summary or other written communication that explains:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The details of any transfusions they had </li>
+    <li>The reasons for the transfusion </li>
+    <li>Any adverse events </li>
+    <li>That they are no longer eligible to donate blood </li>
+</ul>
+<p>For guidance on communication and patient-centred care for adults, see the NICE guideline on <a href=&quot;http://www.nice.org.uk/guidance/cg138&quot; title=&quot;NICE Web site&quot;>patient experience in adult NHS services</a>.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Blood Transfusions for Patients with Acute Upper Gastrointestinal Bleeding</span></strong></p>
+<p>For guidance on blood transfusions for people with acute upper gastrointestinal bleeding, see the recommendations under &quot;Resuscitation and Initial Management&quot; in the NGC summary of the NICE guideline <a href=&quot;/content.aspx?id=37563&quot; title=&quot;Guideline #9131&quot; target=&quot;_blank&quot;>Acute upper gastrointestinal bleeding: management</a>.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Strength of Recommendations</strong></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><em>Interventions That Must (or Must Not) Be Used</em></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally the GDG uses 'must' (or 'must not') if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><em>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation</em></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost effective. Similar forms of words (for example, 'Do not offer&amp;hellip;') are used when the GDG is confident that an intervention will not be of benefit for most patients.</p>
+<p><em>Interventions That Could Be Used</em></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most patients, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A blood transfusion algorithm is provided in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p>In addition, a National Institute for Health and Care Excellence (NICE) pathway titled &quot;Blood Transfusion Overview&quot; is provided on the <a href=&quot;http://pathways.nice.org.uk/pathways/blood-transfusion&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Diseases or conditions requiring blood transfusion</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Critical Care"/>
+      <fieldvalue value="Hematology"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Surgery"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Patients"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Public Health Departments"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To develop a cross cutting clinical guideline on the assessment for and management of transfusion</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adults (aged 16 years and above) and children (over 1 year and under 16 years of age)</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: Excluded groups:</p>
+<ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;>
+    <li>Patient groups with special transfusion needs, such as foetuses, neonates and children under 1 year old, pregnant women, and patients with haemoglobinopathies </li>
+    <li>Specialist areas already covered by National Institute for Health and Care Excellence (NICE) guidelines, for example, patients with anaemia in chronic kidney disease, upper gastrointestinal bleeding and trauma and massive haemorrhage </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Alternatives to blood transfusion for patients having surgery
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Oral iron </li>
+        <li>Intravenous iron </li>
+        <li>Erythropoietin </li>
+        <li>Cell salvage </li>
+        <li>Tranexamic acid </li>
+    </ul>
+    </li>
+    <li>Monitoring for acute blood transfusion reactions </li>
+    <li>Electronic patient identification systems such as patient identification band, bar code or radiofrequency identification (RFID) to ensure patient safety during blood transfusions </li>
+    <li>Thresholds, targets, and doses for
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Red blood cell transfusion </li>
+        <li>Platelet transfusion </li>
+        <li>Fresh frozen plasma transfusion </li>
+        <li>Cryoprecipitate transfusion </li>
+        <li>Prothrombin complex concentrates transfusion </li>
+    </ul>
+    </li>
+    <li>Providing information and support to patients and family members/carers </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>All-cause mortality at 30 days </li>
+    <li>Quality of life </li>
+    <li>Length of stay (hospitalisation) </li>
+    <li>Infections (for example, pneumonia) </li>
+    <li>Number of patients needing transfusions </li>
+    <li>Number of units transfused </li>
+    <li>Bleeding </li>
+    <li>Serious adverse events </li>
+    <li>Cost-effectiveness </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Clinical Guideline Centre (NCGC) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Developing the Review Questions and Outcomes</span></strong></p>
+<p>Review questions were developed in a PICO framework (patient, intervention, comparison and outcome) for intervention reviews and in a framework of setting, population, interventions, context and evaluation for qualitative reviews. This use of a framework guided the literature searching process, critical appraisal and synthesis of evidence, and facilitated the development of recommendations by the Guideline Development Group (GDG). The review questions were drafted by the NCGC technical team and refined and validated by the GDG. The questions were based on the key clinical areas identified in the scope (see Appendix A in the full guideline appendices [see the &quot;Availability of Companion Documents&quot; field]). A total of 21 review questions were considered in this guideline. Full literature searches, critical appraisals and evidence reviews were completed for all the specified review questions. See Table 1 in the full version of the guideline for a list of all review questions considered in the guideline.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Searching for Evidence</span></strong></p>
+<p><strong>Clinical Literature Search</strong></p>
+<p>Systematic literature searches were undertaken to identify all published clinical evidence relevant to the review questions. Searches were undertaken according to the parameters stipulated within The guidelines manual 2012 (see the &quot;Availability of Companion Documents&quot; field). Databases were searched using relevant medical subject headings, free-text terms and study-type filters where appropriate. Studies published in languages other than English were not reviewed. Where possible, searches were restricted to articles published in English. All searches were conducted in MEDLINE, EMBASE, and The Cochrane Library. Additional subject specific databases were used for some questions: Cumulative Index to Nursing and Allied Health Literature (CINAHL) for monitoring and patient information; Health Management Information Consortium (HMIC) for decision support and patient identification; PsycINFO for patient information. All searches were updated on January 29, 2015. No papers published after this date were considered.</p>
+<p>Search strategies were quality assured by cross-checking reference lists of highly relevant papers, analysing search strategies in other systematic reviews, and asking GDG members to highlight any additional studies. The questions, the study types applied, the databases searched and the years covered can be found in Appendix G in the full guideline appendices. The titles and abstracts of records retrieved by the searches were sifted for relevance, with potentially significant publications obtained in full text. These were assessed against the inclusion criteria.</p>
+<p>During the scoping stage, a search was conducted for guidelines and reports on the Web sites listed below from organisations relevant to the topic. Searching for unpublished literature was not undertaken. All references sent by stakeholders were considered.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Guidelines International Network database (<a href=&quot;http://www.g-i-n.net&quot; title=&quot;GIN Web site&quot;>www.g-i-n.net</a>) </li>
+    <li>NGC (<a href=&quot;http://www.guideline.gov/&quot; title=&quot;NGC Web site&quot; target=&quot;_blank&quot;>www.guideline.gov/</a>) </li>
+    <li>NICE (<a href=&quot;http://www.nice.org.uk&quot; title=&quot;NICE Web site&quot;>www.nice.org.uk</a>) </li>
+    <li>National Institutes of Health Consensus Development Program (<a href=&quot;http://consensus.nih.gov/&quot; title=&quot;NIH Consensus Development Program Web site&quot; target=&quot;_blank&quot;>consensus.nih.gov/</a>) </li>
+    <li>National Health Service (NHS) Evidence Search (<a href=&quot;http://www.evidence.nhs.uk/&quot; title=&quot;NHS Evidence Search Web site&quot;>www.evidence.nhs.uk/</a>). </li>
+</ul>
+<p><strong>Health Economic Literature Search</strong></p>
+<p>Systematic literature searches were also undertaken to identify health economic evidence within published literature relevant to the review questions. The evidence was identified by conducting a broad search relating to transfusion in the NHS Economic Evaluation Database (NHS EED), the Health Technology Assessment database (HTA) and the Health Economic Evaluations Database (HEED) with no date restrictions. Additionally, the search was run on MEDLINE and EMBASE using a specific economic filter, from 2012, to ensure recent publications that had not yet been indexed by the economic databases were identified. Studies published in languages other than English were not reviewed. Where possible, searches were restricted to articles published in English. The health economic search strategies are included in Appendix G of the full guideline appendices. All searches were updated on January 29, 2015. No papers published after this date were considered.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Evidence of Effectiveness</span></strong></p>
+<p>The evidence was reviewed following the steps shown schematically in Figure 1 in the full version of the guideline:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Potentially relevant studies were identified for each review question from the relevant search results by reviewing titles and abstracts. Full papers were then obtained. </li>
+    <li>Full papers were reviewed against pre-specified inclusion and exclusion criteria to identify studies that addressed the review question in the appropriate population (review protocols are included in Appendix C in the full guideline appendices). </li>
+</ul>
+<p><strong>Inclusion and Exclusion Criteria</strong></p>
+<p>The inclusion and exclusion of studies was based on the review protocols, which can be found in Appendix C in the full guideline appendices. Excluded studies by review question (with the reasons for their exclusion) are listed in Appendix P in the full guideline appendices. The GDG was consulted about any uncertainty regarding inclusion or exclusion.</p>
+<p>The GDG also discussed the relative importance of different outcomes when drafting the protocol for each review question and the outcomes were classified as critical or important. The importance of the outcomes was directly related to the focus of the guideline which is to optimise the use of blood and blood components and products without compromising on patient safety and clinical effectiveness. To this effect, the outcomes on number of patients receiving allogeneic transfusions, number of units of blood transfused, mortality and adverse events were classified as critical outcomes. The importance varied slightly across reviews based on the focus of the review, for example, in the review on electronic patient identification, the main focus was on patient safety and therefore, incorrect blood component transfused and incorrect labelling of samples (incorrect blood in tube and rejected blood samples) were classified as critical outcomes.</p>
+<p>The guideline population was defined to be people who are receiving a blood transfusion or are at risk of receiving a blood transfusion. For some review questions (alternatives to blood transfusion), the review population was limited to surgical patients who are receiving blood transfusions.</p>
+<p>Randomised trials, non-randomised trials, and observational studies were included in the evidence reviews as appropriate.</p>
+<p>Conference abstracts were not automatically excluded from the review but were initially assessed against the inclusion criteria and then further processed only if no other full publication was available for that review question.</p>
+<p>Literature reviews, posters, letters, editorials, comment articles, unpublished studies and studies not in English were excluded.</p>
+<p>The review protocols are presented in Appendix C in the full guideline appendices.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Evidence of Cost-effectiveness</span></strong></p>
+<p>The GDG is required to make decisions based on the best available evidence of both clinical and cost-effectiveness. Guideline recommendations should be based on the expected costs of the different options in relation to their expected health benefits (that is, their 'cost-effectiveness') rather than the total implementation cost. Thus, if the evidence suggests that a strategy provides significant health benefits at an acceptable cost per patient treated, it should be recommended even if it would be expensive to implement across the whole population.</p>
+<p>Evidence on cost-effectiveness related to the key clinical issues being addressed in the guideline was sought. The health economist:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Undertook a systematic review of the published economic literature </li>
+    <li>Undertook new cost-effectiveness analysis in priority areas </li>
+</ul>
+<p><strong>Literature Review</strong></p>
+<p>The health economist:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Identified potentially relevant studies for each review question from the economic search results by reviewing titles and abstracts. Full papers were then obtained. </li>
+    <li>Reviewed full papers against pre-specified inclusion and exclusion criteria to identify relevant studies (see below for details) </li>
+</ul>
+<p><strong>Inclusion and Exclusion Criteria</strong></p>
+<p>Full economic evaluations (studies comparing costs and health consequences of alternative courses of action: cost&amp;ndash;utility, cost-effectiveness, cost&amp;ndash;benefit and cost&amp;ndash;consequences analyses) and comparative costing studies that addressed the review question in the relevant population were considered potentially includable as economic evidence.</p>
+<p>Studies that only reported cost per hospital (not per patient), or only reported average cost-effectiveness without disaggregated costs and effects, were excluded. Literature reviews, abstracts, posters, letters, editorials, comment articles, unpublished studies and studies not in English were excluded.</p>
+<p>Remaining studies were prioritised for inclusion based on their relative applicability to the development of this guideline and the study limitations. For example, if a high quality, directly applicable UK analysis was available, then other less relevant studies may not have been included. Where exclusions occurred on this basis, this is noted in the relevant section.</p>
+<p>For more details about the assessment of applicability and methodological quality see the economic evaluation checklist (Appendix F of The guidelines manual and the health economics review protocol in Appendix D in the full guideline appendices).</p>
+<p>When no relevant economic studies were found from the economic literature review, relevant UK NHS unit costs related to the compared interventions were presented to the GDG to inform the possible economic implications of the recommendations.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Refer to Appendix E in the full guideline appendices (see the &quot;Availability of Companion Documents&quot; field) for flow diagrams of clinical selection, which detail the total number of studies included for each guideline topic.</p>
+<p>Refer to Appendix F in the full guideline appendices for a flow diagram of economic article selection for the guideline.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Overall Quality of Outcome Evidence in GRADE (Grading of Recommendations Assessment, Development and Evaluation)&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Level</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>High</th>
+            <td valign=&quot;top&quot;>Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Moderate</th>
+            <td valign=&quot;top&quot;>Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Low</th>
+            <td valign=&quot;top&quot;>Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Very Low</th>
+            <td valign=&quot;top&quot;>Any estimate of effect is very uncertain.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Meta-Analysis"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Clinical Guideline Centre (NCGC) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Evidence of Effectiveness</span></strong></p>
+<p>The evidence was reviewed following the steps shown schematically in Figure 1 in the full version of the guideline:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Relevant studies were critically appraised using the appropriate checklist as specified in The guidelines manual (see the &quot;Availability of Companion Documents&quot; field). </li>
+    <li>Key information was extracted on the study's methods, PICO (patient, intervention, comparison and outcome) factors and results. These were presented in summary tables (in each review chapter) and evidence tables (in Appendix H in the full guideline appendices [see the &quot;Availability of Companion Documents&quot; field]). </li>
+    <li>Summaries of evidence were generated by outcome (included in the relevant review chapters) and were presented in Guideline Development Group (GDG) meetings:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Randomised studies: data were meta-analysed where appropriate and reported in Grading of Recommendations Assessment, Development, and Evaluation (GRADE) profiles (for intervention reviews). </li>
+        <li>Observational studies: data were presented as a range of values in GRADE profiles. </li>
+        <li>Qualitative studies: each study was summarised in a table where possible, otherwise presented in a narrative. </li>
+    </ul>
+    <p>A 20% sample of each of the above stages of the reviewing process was quality assured by a second reviewer to eliminate any potential of reviewer bias or error.</p>
+    </li>
+</ul>
+<p><strong>Methods of Combining Clinical Studies</strong></p>
+<p><em>Data Synthesis for Intervention Reviews</em></p>
+<p>Where possible, meta-analyses were conducted to combine the results of studies for each review question using Cochrane Review Manager (RevMan5) software. Fixed-effects (Mantel-Haenszel) techniques were used to calculate risk ratios (relative risk) for the binary outcomes, such as number of patients receiving allogeneic blood transfusions, mortality, incidence of infections and serious adverse events.</p>
+<p>For continuous outcomes, measures of central tendency (mean) and variation (standard deviation) were required for meta-analysis. Data for continuous outcomes, such as number of units of allogeneic blood transfused and length of stay in hospital, were analysed using an inverse variance method for pooling weighted mean differences and, where the studies had different scales, standardised mean differences were used. A generic inverse variance option in RevMan5 was used if any studies reported solely the summary statistics and 95% confidence interval (95% CI) or standard error; this included any hazard ratios reported. However, in cases where standard deviations were not reported per intervention group, the standard error (SE) for the mean difference was calculated from other reported statistics (<em>p</em> values or 95% CIs); meta-analysis was then undertaken for the mean difference and SE using the generic inverse variance method in RevMan5. When the only evidence was based on studies that summarised results by presenting medians (and interquartile ranges), or only <em>p</em> values were given, this information was assessed in terms of the study's sample size and was included in the GRADE tables without calculating the relative or absolute effects. Consequently, aspects of quality assessment such as imprecision of effect could not be assessed for evidence of this type.</p>
+<p>Stratified analyses were predefined for some review questions at the protocol stage when the GDG identified that these strata are different in terms of biological and clinical characteristics and the interventions were expected to have a different effect on subpopulations. For example, the population in reviews evaluating the threshold and target levels for platelet transfusion were stratified on the basis of haematology and non-haematology patients and the presence or absence of bleeding.</p>
+<p>Statistical heterogeneity was assessed by visually examining the forest plots, and by considering the chi-squared test for significance at <em>p</em>&amp;lt;0.1 or an I-squared inconsistency statistic (with an I-squared value of more than 50% indicating considerable heterogeneity). Where considerable heterogeneity was present, reviewers carried out predefined subgroup analyses as was defined in the individual review protocols. Sensitivity analysis based on the quality of studies was also carried out, eliminating studies at overall high risk of bias (randomisation, allocation concealment and blinding, missing outcome data).</p>
+<p>Assessments of potential differences in effect between subgroups were based on the chi-squared tests for heterogeneity statistics between subgroups. If no sensitivity analysis was found to completely resolve statistical heterogeneity then a random-effects (DerSimonian and Laird) model was employed to provide a more conservative estimate of the effect.</p>
+<p>The means and standard deviations of continuous outcomes were required for meta-analysis. However, in cases where standard deviations were not reported, the standard error was calculated if the <em>p</em> values or 95% CIs were reported and meta-analysis was undertaken with the mean and standard error using the generic inverse variance method in RevMan5. Where <em>p</em> values were reported as 'less than', a conservative approach was undertaken. For example, if <em>p</em> value was reported as '<em>p</em>&amp;le;0.001', the calculations for standard deviations will be based on a <em>p</em> value of 0.001. If these statistical measures were not available then the methods described in Section 16.1.3 of the Cochrane Handbook (March 2011) 'Missing standard deviations' were applied as the last resort.</p>
+<p>For interpretation of the binary outcome results, differences in the absolute event rate were calculated using the GRADEpro software, for the median event rate across the control arms of the individual studies in the meta-analysis. Absolute risk differences were presented in the GRADE profiles and in clinical summary of findings tables, for discussion with the GDG.</p>
+<p>For binary outcomes, absolute event rates were also calculated using the GRADEpro software using event rate in the control arm of the pooled results.</p>
+<p><em>Network Meta-Analysis </em></p>
+<p>A network meta-analysis (NMA) was conducted for two review questions which evaluated interventions which are alternatives to blood transfusion in surgical patients. The treatments evaluated were different types of cell salvage and tranexamic acid, alone or in combination with one another. This type of analysis simultaneously compares multiple treatments in a single meta-analysis, preserving the randomisation of randomised controlled trials (RCTs) included in the reviews of direct comparisons trials. The aim of the NMA was to include all relevant evidence in order both to answer questions on the clinical effectiveness of interventions when no direct comparison was available and to give a ranking of treatments in terms of efficacy. The output was expressed as the probability of each treatment being the best for an outcome and as effect estimates for how much each treatment is better than the other treatments included in the network.</p>
+<p>A hierarchical Bayesian NMA was performed using the software WinBUGS version 1.4. Reviewers used statistical models for fixed and random effects that allowed inclusion of multi-arm trials and accounts for the correlation between arms in the trials with any number of trial arms. The model was based on original work from the University of Bristol. The checklist 'Evidence Synthesis of Treatment Efficacy in Decision Making: A Reviewer's Checklist' was completed.</p>
+<p>As is the case for ordinary pairwise meta-analysis, NMA may be conducted using either fixed-effects or random-effects models. For pairwise meta-analysis, a fixed effects model was used in the first instance. For the networks set up in our NMA, both fixed- and random-effect models were performed. These models were then compared based on residual deviance and deviance information criteria (DIC). The model with the smallest DIC is estimated to be the model that would best predict a replicate dataset which has the same structure as that currently observed. A small difference in DIC between the fixed and random effects models (3&amp;ndash;5 points) implies that the better fit obtained by adding random effects does not justify the additional complexity. However, if the difference in DIC between a fixed and random effect model was smaller than 5 points and the models made very similar inferences, then reviewers reported the fixed-effects model results as that makes fewer assumptions than the random-effect model, contains fewer parameters and is easier to interpret clinically.</p>
+<p>Heterogeneity was assessed in the results of the random-effects model by using the method described by Dias et al. which compares the size of the treatment effect to the extent of between-trials variation. This method tries to answer the question of what is the reasonable confidence interval of the log odds ratio of an outcome for the prediction of the confidence interval of the log odds ratio of the same outcome of a future trial of infinite size.</p>
+<p>Inconsistency in the networks was tested by comparing any available direct and indirect treatment comparison and testing the null hypothesis that the indirect evidence was not different from the direct evidence on the odds ratio scale using the normal distribution. Inconsistency was identified if the mean estimates (mean odds ratios) of the direct comparisons were outside the confidence intervals of the odds ratios as generated from the NMA output.</p>
+<p>There were 3 main outputs from the NMA:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Estimated log odds ratios (with their 95% credible intervals) were calculated for comparisons of the direct and indirect evidence </li>
+    <li>The probability that each treatment was best, based on the proportion of Markov chain iterations in which each treatment had the highest probability of achieving the outcomes selected in the network(s) </li>
+    <li>A ranking of treatments compared to baseline groups (presented as the median rank and its 95% credible intervals) </li>
+</ul>
+<p>Further details of the network structure, rationale and stratification of risk groups can be found in Chapter 6 in the full guideline and in Appendix L in the full guideline appendices.</p>
+<p><em>Data Synthesis for Qualitative Study Reviews</em></p>
+<p>Where possible, a meta-synthesis was conducted to combine qualitative study results. The aim of the synthesis of qualitative data was to describe the main factors that may influence the experience of care of the person receiving blood transfusion and to enable the GDG to develop recommendations to improve this experience. Whenever studies identified a qualitative theme, this was extracted and the main characteristics were summarised. When all themes were extracted from studies, common concepts were categorised and tabulated. This included information on how many studies had identified this theme. A frequently identified theme may indicate an important issue for the review, but frequency of theme is not the only indicator of importance. Study type and population in qualitative research can differ widely, meaning that themes that may only be identified by one or a few studies can provide important new information. Therefore, for the purpose of the qualitative review in this guideline, the categorisation of themes was exhaustive, that is, all themes were accounted for in the synthesis. The GDG could then draw conclusions on the relative merits of each of the themes and how they may help in forming recommendations.</p>
+<p><strong>Appraising the Quality of Evidence by Outcomes</strong></p>
+<p>The evidence for outcomes from the included RCTs and, where appropriate, observational studies, were evaluated and presented using an adaptation of the 'GRADE toolbox' developed by the international GRADE working group (<a href=&quot;http://www.gradeworkinggroup.org/&quot; title=&quot;GRADE Working Group Web site&quot;>http://www.gradeworkinggroup.org/</a>). The software developed by the GRADE working group (GRADEpro) was used to assess the quality of each outcome, taking into account individual study quality factors and the meta-analysis results. Results were presented in GRADE profiles ('GRADE tables'), which consist of 2 sections: the 'Clinical evidence profile' table includes details of the quality assessment, while the 'Clinical evidence summary of findings' table includes pooled outcome data, where appropriate, an absolute measure of intervention effect and the summary of quality of evidence for that outcome. In this table, the columns for intervention and control indicate summary measures and measures of dispersion (such as mean and standard deviation or median and range) for continuous outcomes and frequency of events (n/N: the sum across studies of the number of patients with events divided by sum of the number of completers) for binary outcomes. Reporting or publication bias was only taken into consideration in the quality assessment and included in the 'Clinical evidence profile' table if it was apparent.</p>
+<p>The evidence for each outcome was examined separately for the quality elements. Each element was graded using quality levels. The main criteria considered in the rating of these elements are discussed below.</p>
+<p><strong>Grading the Quality of Clinical Evidence</strong></p>
+<p>After results were pooled, the overall quality of evidence for each outcome was considered. The following procedure was adopted when using GRADE:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A quality rating was assigned, based on the study design. RCTs start as High, observational studies as Low, and uncontrolled case series as Low or Very low. </li>
+    <li>The rating was then downgraded for the specified criteria: risk of bias (study limitations), inconsistency, indirectness, imprecision and publication bias. These criteria are detailed in Sections 4.3.6 to 4.3.9 in the full version of the guideline. Evidence from observational studies (which had not previously been downgraded) was upgraded if there was: a large magnitude of effect, a dose&amp;ndash;response gradient, and if all plausible confounding would reduce a demonstrated effect or suggest a spurious effect when results showed no effect. Each quality element considered to have 'serious' or 'very serious' risk of bias was rated down by 1 or 2 points respectively. </li>
+    <li>The downgraded or upgraded marks were then summed and the overall quality rating was revised. For example, all RCTs started as High and the overall quality became Moderate, Low or Very low if 1, 2 or 3 points were deducted respectively. </li>
+    <li>The reasons or criteria used for downgrading were specified in the footnotes. </li>
+</ul>
+<p><strong>Assessing Clinical Importance</strong></p>
+<p>The GDG assessed the evidence by outcome in order to determine if there was, or potentially was, a clinically important benefit, a clinically important harm or no clinically important difference between interventions. To facilitate this, binary outcomes were converted into absolute risk differences (ARDs) using GRADEpro software: the median control group risk across studies was used to calculate the ARD and its 95% CI from the pooled risk ratio.</p>
+<p>The assessment of benefit, harm, or no benefit or harm was based on the point estimate of absolute effect for intervention studies. The GDG were asked to assess if the absolute risk difference for each outcome was indicative of a clinically important benefit or harm and this was noted accordingly. Generally, the GDG considered for most of the outcomes in the intervention reviews that if at least 100 participants per 1000 (10%) achieved (if positive) the outcome of interest in the intervention group compared to the comparison group, then this intervention would be considered beneficial. However, for some outcomes this differed and was assessed on a case by case basis. For example, if evaluating mortality with a relative risk of 1.25 (1.15, 3.30) and an absolute risk reduction of 75 more per 1000 participants, the GDG were asked if 75 more deaths per 1000 was a clinically important harm and this was noted accordingly. The same point estimate but in the opposite direction would apply if the outcome was negative.</p>
+<p>This assessment was carried out by the GDG for each critical outcome, and an evidence summary table was produced to compile the GDG's assessments of clinical importance per outcome, alongside the evidence quality and the uncertainty in the effect estimate (imprecision).</p>
+<p><strong>Evidence Statements</strong></p>
+<p>Evidence statements are summary statements that are presented after the GRADE profiles, summarising the key features of the clinical effectiveness evidence presented. The wording of the evidence statements reflects the certainty or uncertainty in the estimate of effect. The evidence statements are presented by outcome and encompass the following key features of the evidence:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The number of studies and the number of participants for a particular outcome </li>
+    <li>A brief description of the participants </li>
+    <li>An indication of the direction of effect (if one treatment is beneficial or harmful compared to the other, or whether there is no difference between the 2 tested treatments) </li>
+    <li>A description of the overall quality of evidence (GRADE overall quality) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Evidence of Cost-effectiveness</span></strong></p>
+<p>The GDG is required to make decisions based on the best available evidence of both clinical and cost-effectiveness. Guideline recommendations should be based on the expected costs of the different options in relation to their expected health benefits (that is, their 'cost-effectiveness') rather than the total implementation cost. Thus, if the evidence suggests that a strategy provides significant health benefits at an acceptable cost per patient treated, it should be recommended even if it would be expensive to implement across the whole population.</p>
+<p>Evidence on cost-effectiveness related to the key clinical issues being addressed in the guideline was sought. The health economist:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Undertook a systematic review of the published economic literature </li>
+    <li>Undertook new cost-effectiveness analysis in priority areas </li>
+</ul>
+<p><strong>Literature Review</strong></p>
+<p>The health economist:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Critically appraised relevant studies using the economic evaluations checklist as specified in The guidelines manual. </li>
+    <li>Extracted key information about the studies' methods and results into evidence tables (included in Appendix H of the full guideline appendices). </li>
+    <li>Generated summaries of the evidence in NICE economic evidence profiles (included in the relevant chapter for each review question). </li>
+</ul>
+<p><strong>NICE Economic Evidence Profiles</strong></p>
+<p>The NICE economic evidence profile has been used to summarise cost and cost-effectiveness estimates. The economic evidence profile shows an assessment of applicability and methodological quality for each economic evaluation, with footnotes indicating the reasons for the assessment.</p>
+<p>These assessments were made by the health economist using the economic evaluation checklist from The guidelines manual. It also shows the incremental costs, incremental effects (for example, quality-adjusted life years [QALYs]) and incremental cost-effectiveness ratio for the base case analysis in the evaluation, as well as information about the assessment of uncertainty in the analysis. See Table 6 in the full version of the guideline for more details.</p>
+<p>If a non-UK study was included in the profile, the results were converted into pounds sterling using the appropriate purchasing power parity.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+      <fieldvalue value="Informal Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Clinical Guideline Centre (NCGC) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance and related appendices.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Who Developed This Guideline?</span></strong></p>
+<p>A multidisciplinary Guideline Development Group (GDG) comprising health professionals and researchers as well as lay members developed this guideline.</p>
+<p>NICE funds the NCGC and thus supported the development of this guideline. The GDG was convened by the NCGC and chaired in accordance with guidance from NICE.</p>
+<p>The group met approximately every 5 to 6 weeks during the development of the guideline.</p>
+<p>Staff from the NCGC provided methodological support and guidance for the development process. The team working on the guideline included a project manager, systematic reviewers, health economists and information scientists. They undertook systematic searches of the literature, appraised the evidence, conducted meta-analysis and cost-effectiveness analysis where appropriate and drafted the guideline in collaboration with the GDG.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Developing Recommendations</span></strong></p>
+<p>Over the course of the guideline development process, the GDG was presented with: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Evidence tables of the clinical and economic evidence reviewed from the literature. All evidence tables are in Appendices H and I in the full guideline appendices (see the &quot;Availability of Companion Documents&quot; field). </li>
+    <li>Summaries of clinical and economic evidence and quality (as presented in Chapters 1 to 11 in the full guideline appendices) </li>
+    <li>Forest plots (Appendix K in the full guideline appendices) </li>
+    <li>Results of network meta-analysis (Appendix L in the full guideline appendices) </li>
+    <li>A description of the methods and results of the cost-effectiveness analyses undertaken for the guideline (Appendix M in the full guideline appendices) </li>
+</ul>
+<p>Recommendations were drafted on the basis of the GDG's interpretation of the available evidence, taking into account the balance of benefits, harms and costs between different courses of action. This was either done formally in an economic model, or informally. Firstly, the net benefit over harm (clinical effectiveness) was considered, focusing on the critical outcomes. When this was done informally, the GDG took into account the clinical benefits and harms when one intervention was compared with another. The assessment of net benefit was moderated by the importance placed on the outcomes (the GDG's values and preferences), and the confidence the GDG had in the evidence (evidence quality). Secondly, whether the net benefit justified any differences in costs was assessed.</p>
+<p>When clinical and economic evidence was of poor quality, conflicting or absent, the GDG drafted recommendations based on their expert opinion. The considerations for making consensus-based recommendations include the balance between potential harms and benefits, the economic costs compared to the economic benefits, current practices, recommendations made in other relevant guidelines, patient preferences and equality issues. The consensus recommendations were agreed through discussions in the GDG. The GDG also considered whether the uncertainty was sufficient to justify delaying making a recommendation to await further research, taking into account the potential harm of failing to make a clear recommendation.</p>
+<p>The GDG considered the 'strength' of recommendations. This takes into account the quality of the evidence but is conceptually different. Some recommendations are 'strong' in that the GDG believes that the vast majority of healthcare and other professionals and patients would choose a particular intervention if they considered the evidence in the same way that the GDG has. This is generally the case if the benefits clearly outweigh the harms for most people and the intervention is likely to be cost-effective. However, there is often a closer balance between benefits and harms, and some patients would not choose an intervention whereas others would. This may happen, for example, if some patients are particularly averse to some side effect and others are not. In these circumstances the recommendation is generally weaker, although it may be possible to make stronger recommendations about specific groups of patients.</p>
+<p>The GDG focused on the following factors in agreeing the wording of the recommendations:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The actions health professionals need to take </li>
+    <li>The information readers need to know </li>
+    <li>The strength of the recommendation (for example the word 'offer' was used for strong recommendations and 'consider' for weak recommendations; see the &quot;Rating Scheme for the Strength of the Recommendations&quot; field) </li>
+    <li>The involvement of patients (and their carers if needed) in decisions on treatment and care </li>
+    <li>Consistency with NICE's standard advice on recommendations about drugs, waiting times and ineffective interventions </li>
+</ul>
+<p>The main considerations specific to each recommendation are outlined in the 'Recommendations and link to evidence' sections within each chapter in the full version of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Strength of Recommendations</span></strong></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><strong>Interventions That Must (or Must Not) Be Used</strong></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally the GDG uses 'must' (or 'must not') if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><strong>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation</strong></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost effective. Similar forms of words (for example, 'Do not offer&amp;hellip;') are used when the GDG is confident that an intervention will not be of benefit for most patients.</p>
+<p><strong>Interventions That Could Be Used</strong></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most patients, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Undertaking New Health Economic Analysis</span></strong></p>
+<p>As well as reviewing the published economic literature for each review question, new economic analysis was undertaken by the health economist in selected areas. Priority areas for new health economic analysis were agreed by the Guideline Development Group (GDG) after formation of the review questions and consideration of the available health economic evidence.</p>
+<p>The GDG identified the use of cell salvage, tranexamic acid or both in combination in people undergoing surgery as the highest priority area for original economic modelling. Economic evaluations identified in the systematic literature search indicate that cell salvage and tranexamic acids are likely to be cost-effective individually compared with standard treatment (no intervention or placebo). However, uncertainty remained regarding whether one may be more cost-effective than the other (head-to-head comparison) or whether they are more cost-effective when given in combination.</p>
+<p>The following general principles were adhered to in developing the cost-effectiveness analysis:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Methods were consistent with the National Institute for Health and Care Excellence (NICE) reference case. </li>
+    <li>The GDG was involved in the design of the model, selection of inputs and interpretation of the results. </li>
+    <li>Model inputs were based on the systematic review of the clinical literature supplemented with other published data sources where possible. </li>
+    <li>When published data were not available, GDG expert opinion was used to populate the model. </li>
+    <li>Model inputs and assumptions were reported fully and transparently. </li>
+    <li>The results were subject to sensitivity analysis and limitations were discussed. </li>
+    <li>The model was peer-reviewed by another health economist at the National Clinical Guideline Centre (NCGC). </li>
+</ul>
+<p>Full methods for the cost-effectiveness analysis for tranexamic acid and cell salvage are described in Appendix M of the full version of the guideline.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Cost-effectiveness Criteria</span></strong></p>
+<p>NICE's report 'Social value judgements: principles for the development of NICE guidance' sets out the principles that GDGs should consider when judging whether an intervention offers good value for money. In general, an intervention was considered to be cost-effective if either of the following criteria applied (given that the estimate was considered plausible):</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The intervention dominated other relevant strategies (that is, it was both less costly in terms of resource use and more clinically effective compared with all the other relevant alternative strategies), or </li>
+    <li>The intervention cost less than &amp;pound;20,000 per QALY gained compared with the next best strategy </li>
+</ul>
+<p>If the GDG recommended an intervention that was estimated to cost more than &amp;pound;20,000 per quality-adjusted life-year (QALY) gained, or did not recommend one that was estimated to cost less than &amp;pound;20,000 per QALY gained, the reasons for this decision are discussed explicitly in the 'Recommendations and link to evidence' section of the relevant chapter in the original guideline document, with reference to issues regarding the plausibility of the estimate or to the factors set out in 'Social value judgements: principles for the development of NICE guidance.'</p>
+<p>When QALYs or life years gained are not used in the analysis, results are difficult to interpret unless one strategy dominates the others with respect to every relevant health outcome and cost.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>In the Absence of Economic Evidence</span></strong></p>
+<p>When no relevant published studies were found, and a new analysis was not prioritised, the GDG made a qualitative judgement about cost-effectiveness by considering expected differences in resource use between options and relevant UK National Health Service (NHS) unit costs, alongside the results of the clinical review of effectiveness evidence.</p>
+<p>See the economic considerations in the relevant chapter for each review question in the full version of the guideline.</p>
+<p>See Appendices F and I in the full guideline appendices for economic article selection and economic evidence tables.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Validation Process</span></strong></p>
+<p>This guidance is subject to a 6-week public consultation and feedback as part of the quality assurance and peer review of the document. All comments received from registered stakeholders are responded to in turn and posted on the National Institute for Health and Care Excellence (NICE) website.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Type of Studies</span></strong></p>
+<p>For most intervention reviews in this guideline, parallel randomised controlled trials (RCTs) were included because they are considered the most robust type of study design that could produce an unbiased estimate of the intervention effects. If the Guideline Development Group (GDG) believed RCT data were not appropriate or there was limited evidence from RCTs, well-conducted non-randomised studies were included. Please refer to Appendix C in the full guideline appendices (see the &quot;Availability of Companion Documents&quot; field) for full details on the study design of studies selected for each review question. For example, due to a lack of RCTs for the review on electronic decision support, a number of before and after implementation studies were included in this review. Where data from observational studies were included, the GDG decided that the results for each outcome should be presented separately for each study and meta-analysis was not conducted.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Reduction in inappropriate use of blood components and use of alternatives to transfusion will improve patient care and reduce hospital costs. </li>
+    <li>The clinical evidence suggested that using electronic decision support systems for blood ordering may reduce the number of patients transfused, the number of units transfused, the proportion of inappropriate transfusions and the length of stay in hospital. </li>
+</ul>
+<p>See also the &quot;Trade-off between clinical benefits and harms&quot; sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for benefits of specific interventions.</p>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Evidence from 14 randomised controlled trials (RCTs) comparing erythropoietin (EPO) with placebo/no EPO showed an increase in mortality and the number of patients with thrombotic complications in the EPO group compared to the placebo group, but there was considerable uncertainty in the effect estimates. The evidence suggested no difference of effect between patients receiving EPO and placebo with respect to serious adverse events and infection, but there was some uncertainty in the effect estimates. </li>
+    <li>The Guideline Development Group (GDG) noted the potential for side effects of oral iron, for example, nausea and gastric discomfort, and the risk of accidental overdose in children. </li>
+    <li>The GDG considered the side effects of intravenous (IV) iron, as all preparations carry a small risk of adverse reactions which can be life threatening if not treated promptly. However, the benefits outweigh the risks for the treatment of iron deficiency when administration of oral iron is ineffective or poorly tolerated. Patients should be closely monitored for signs of hypersensitivity during or for at least 30 minutes after each administration. </li>
+    <li>Two RCTs compared prophylactic platelet transfusion with no prophylactic platelet transfusion in adult haematology patients. No difference was observed between groups with respect to side effects of transfusion and serious adverse events, including sepsis and respiratory deterioration, but there was considerable uncertainty. The evidence suggested that transfusion-related serious adverse events (urticarial and angioedema) and number of units (platelets) transfused per patient may be higher in patients receiving prophylactic platelet transfusion, but there was considerable uncertainty. </li>
+    <li>Despite considerable efforts to ensure the safety of blood transfusions, they are associated with significant risks. The Serious Hazards of Transfusion (SHOT) scheme estimated that in 2014 the risk of transfusion-related death was 5.6 per million blood components issued, and the risk of transfusion-related major morbidity was 63.5 per million blood components issued, although it was not always certain that transfusion was the direct cause of death or major morbidity. Removing cases where patient harm was caused by delayed transfusion rather than transfusion itself reduces the risk of transfusion-related death to 4.5 per million blood components issued, and the risk of transfusion-related major morbidity was 61.9 per million blood components issued. The most common cause of death associated with transfusion was transfusion associated circulatory overload. There is evidence from the national audits of transfusion practice that: some patients are receiving the wrong blood components, the choice of blood component is not always based on clinical findings and laboratory test values patients are not always monitored for the adverse effects of transfusion, and these effects are not always managed correctly, and some patients are transfused unnecessarily. There is evidence from several national audits that inappropriate over-use of all blood components is at around 20%. This is wasteful of a scarce and costly resource and puts patients at unnecessary risk </li>
+    <li>Accurate patient identification is a crucial step. Giving a patient the wrong blood transfusion is an avoidable serious hazard, and can result from errors made anywhere in the transfusion process. </li>
+    <li>Fresh frozen plasma transfusions may cause adverse outcomes in people who are critically ill, including transfusion-related acute lung injury, transfusion-related circulatory overload, multi-organ failure and an increased risk of infections. </li>
+    <li>The literature suggests that there may be some evidence of harm with the use of restrictive red blood cell thresholds in populations with coronary ischaemia at baseline. In this guideline a level of 80&amp;ndash;100 g/litre was used for patients with acute coronary syndrome, but further studies are needed to determine the optimal transfusion threshold for patients with chronic cardiovascular disease. </li>
+</ul>
+<p>See also the &quot;Trade-off between clinical benefits and harms&quot; sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for additional discussion of harms of specific interventions.</p>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Intravenous iron is contraindicated in patients with known hypersensitivity to any parenteral iron product, and should not be used to treat pregnant women in the first trimester.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Healthcare professionals are expected to take National Institute for Health and Care Excellence (NICE) clinical guidelines fully into account when exercising their clinical judgement. However, the guidance does not override the responsibility of healthcare professionals to make decisions appropriate to the circumstances of each patient, in consultation with the patient and, where appropriate, their guardian or carer. </li>
+    <li>Healthcare providers need to use clinical judgement, knowledge and expertise when deciding whether it is appropriate to apply guidelines. The recommendations cited here are a guide and may not be appropriate for use in all situations. The decision to adopt any of the recommendations cited here must be made by practitioners in light of individual patient circumstances, the wishes of the patient, clinical expertise and resources. </li>
+    <li>The National Clinical Guideline Centre (NCGC) disclaims any responsibility for damages arising out of the use or non-use of this guideline and the literature used in support of this guideline. </li>
+    <li>No evidence was found on transfusions specifically for young people (age 16 to 18 years). Recommendations for adults in this guideline will generally apply to young people as well, but healthcare professionals should use their clinical judgement on when this is not appropriate for individual patients. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Key Priorities for Implementation</span></strong></p>
+<p>The following recommendations have been identified as priorities for implementation.</p>
+<p><strong>Alternatives to Blood Transfusion for Patients Having Surgery</strong></p>
+<p><em>Intravenous and Oral Iron</em></p>
+<p>Offer oral iron before and after surgery to patients with iron-deficiency anaemia.</p>
+<p><em>Cell Salvage and Tranexamic Acid</em></p>
+<p>Offer tranexamic acid to adults undergoing surgery who are expected to have at least moderate blood loss (greater than 500 ml).</p>
+<p>Consider intra-operative cell salvage with tranexamic acid for patients who are expected to lose a very high volume of blood (for example in cardiac and complex vascular surgery, major obstetric procedures, and pelvic reconstruction and scoliosis surgery).</p>
+<p><strong>Red Blood Cells</strong></p>
+<p><em>Thresholds and Targets</em></p>
+<p>When using a restrictive red blood cell transfusion threshold, consider a threshold of 70 g/litre and a haemoglobin concentration target of 70&amp;ndash;90 g/litre after transfusion.</p>
+<p><em>Doses</em></p>
+<p>Consider single-unit red blood cell transfusions for adults (or equivalent volumes calculated based on body weight for children or adults with low body weight) who do not have active bleeding.</p>
+<p><strong>Platelets</strong></p>
+<p><em>Thresholds and Targets</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Patients Who Are Not Bleeding or Having Invasive Procedures or Surgery</span></p>
+<p>Offer prophylactic platelet transfusions to patients with a platelet count below 10&amp;times;10<sup>9</sup> per litre who are not bleeding or having invasive procedures or surgery, and who do not have any of the following conditions:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Chronic bone marrow failure </li>
+    <li>Autoimmune thrombocytopenia </li>
+    <li>Heparin-induced thrombocytopenia </li>
+    <li>Thrombotic thrombocytopenic purpura </li>
+</ul>
+<p><em>Doses</em></p>
+<p>Do not routinely transfuse more than a single dose of platelets.</p>
+<p><strong>Fresh Frozen Plasma</strong></p>
+<p>Do not offer fresh frozen plasma transfusions to correct abnormal coagulation in patients who:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Are not bleeding (unless they are having invasive procedures or surgery with a risk of clinically significant bleeding) </li>
+    <li>Need reversal of a vitamin K antagonist </li>
+</ul>
+<p><strong>Prothrombin Complex Concentrate</strong></p>
+<p>Offer immediate prothrombin complex concentrate transfusions for the emergency reversal of warfarin anticoagulation in patients with either:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Severe bleeding <strong>or</strong> </li>
+    <li>Head injury with suspected intracerebral haemorrhage </li>
+</ul>
+<p><strong>Patient Information</strong></p>
+<p>Provide verbal and written information to patients who may have or who have had a transfusion, and their family members or carers (as appropriate), explaining:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The reason for the transfusion </li>
+    <li>The risks and benefits </li>
+    <li>The transfusion process </li>
+    <li>Any transfusion needs specific to them </li>
+    <li>Any alternatives that are available, and how they might reduce their need for a transfusion </li>
+    <li>That they are no longer eligible to donate blood </li>
+    <li>That they are encouraged to ask questions </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Implementation: Getting Started</strong></span></p>
+<p>This section highlights 2 areas of the blood transfusion guideline (using tranexamic acid as an alternative to transfusion and using electronic identification systems) that could have a big impact on practice and be challenging to implement, along with the reasons why these areas are important. These sections were identified with the help of stakeholders and guideline committee members. The section of the guideline also gives information on resources to help with implementation. Refer to the original guideline document for details.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+      <fieldvalue value="Safety"/>
+      <fieldvalue value="Timeliness "/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Clinical Guideline Centre. Blood transfusion. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Nov 18. 26 p.&amp;nbsp;(NICE guideline; no. 24).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2015 Nov 18"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="National Guideline Centre - National Government Agency [Non-U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The National Clinical Guideline Centre was commissioned by the National Institute for Health and Care Excellence to undertake the work on this guideline.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Guideline Development Group (GDG)</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Guideline Development Group Members</em>: Professor Michael Murphy, Professor of Transfusion Medicine, University of Oxford and Consultant Haematologist, NHS Blood and Transplant and Oxford University Hospitals; Dr. Shubha Allard, Consultant Haematologist, NHS Blood &amp;amp; Transplant and Barts Health NHS Trust; Mr. David Blackwell, Transfusion Practitioner, Medway NHS Foundation Trust; Mr. Graham Donald, Patient Member; Mr. Kenneth Halligan, Patient Member; Ms. Karen Madgwick, Biomedical Scientist (Transfusion Practitioner), North Middlesex University Hospital NHS Trust; Ms. Mary Marsden, Transfusion Practitioner Nurse Specialist, Central Manchester University Hospitals NHS Foundation Trust; Mr. Robert Morris, Consultant Neurosurgeon, Cambridge University Hospitals NHS Trust; Dr. Helen New, Consultant in Paediatric Haematology and Transfusion Medicine, Imperial College Healthcare NHS Trust/NHSBT; Dr. Susan Robinson, Consultant Haematologist, Guy's and St Thomas' NHS Foundation Trust; Dr. Dafydd Thomas, Consultant in Anaesthesia and Critical Care, Morriston Hospital; Dr. Timothy Walsh, Professor of Critical Care, Edinburgh University, Queens Medical Research Institute, Edinburgh, Honorary Consultant in Critical Care, Edinburgh Royal infirmary, Lothian University Hospitals Division, Edinburgh</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>At the start of the guideline development process all Guideline Development Group (GDG) members declared interests including consultancies, fee-paid work, share-holdings, fellowships and support from the healthcare industry. At all subsequent GDG meetings, members declared arising conflicts of interest. Members were either required to withdraw completely or for part of the discussion if their declared interest made it appropriate. The details of declared interests and the actions taken are shown in Appendix B in the full guideline appendices (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng24&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. Also available for download in ePub and eBook formats from the <a href=&quot;https://www.nice.org.uk/guidance/ng24&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Blood transfusion. Full guideline. Methods, evidence and recommendations. London (UK): National Institute for Health and Care Excellence; 2015 Nov. 351 p. (NICE guideline; no. 24). Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng24/evidence/full-guidance-2177160733&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. </li>
+    <li>Blood transfusion. Appendices. London (UK): National Institute for Health and Care Excellence; 2015 Nov. (NICE guideline; no. 24). Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng24/evidence&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Blood transfusion. Baseline assessment tool. London (UK): National Institute for Health and Care Excellence; 2015 Nov. (NICE guideline; no. 24). Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng24/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Blood transfusion. Costing statement. London (UK): National Institute for Health and Care Excellence; 2015 Nov. 16 p. (NICE guideline; no. 24). Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng24/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>The guidelines manual 2012. London (UK): National Institute for Health and Care Excellence (NICE); 2012 Nov. Available from the <a href=&quot;https://www.nice.org.uk/article/pmg6/chapter/1%20introduction&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Blood transfusion. Information for the public. London (UK): National Institute for Health and Care Excellence; 2015 Nov. 8 p. (NICE guideline; no. 24). Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng24/ifp/chapter/about-this-information&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. Also available for download in eBook and ePub formats from the <a href=&quot;https://www.nice.org.uk/guidance/ng24/ifp/chapter/about-this-information&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on January 15, 2016.</p>
+<p>The National Institute for Health and Care Excellence (NICE) has granted the National Guideline Clearinghouse (NGC) permission to include summaries of their clinical guidelines with the intention of disseminating and facilitating the implementation of that guidance. NICE has not yet verified this content to confirm that it accurately reflects that original NICE guidance and therefore no guarantees are given by NICE in this regard. All NICE clinical guidelines are prepared in relation to the National Health Service in England and Wales. NICE has not been involved in the development or adaptation of NICE guidance for use in any other country. The full versions of all NICE guidance can be found at <a href=&quot;http://www.nice.org.uk&quot; title=&quot;NICE Web site&quot;>www.nice.org.uk</a>.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 22:36:34 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:48:01 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 508.529 (3)
+  esindex: 0.011
+  captures_list: 540.962
+  CDXLines.iter: 18.696 (3)
+  PetaboxLoader3.datanode: 223.061 (4)
+  exclusion.robots: 0.507
+  exclusion.robots.policy: 0.486
+  RedisCDXSource: 6.325
+  PetaboxLoader3.resolve: 355.792 (2)
+  load_resource: 103.091
+-->

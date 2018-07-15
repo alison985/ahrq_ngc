@@ -1,0 +1,997 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app16.us.archive.org';v.server_ms=194;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10856?contentType=xml', '20180712214616')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180712214616/https://www.guideline.gov/summaries/downloadcontent/ngc-10856?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180712214616/https://www.guideline.gov/summaries/downloadcontent/ngc-10856?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10856?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180712214616" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610071838/https://www.guideline.gov/summaries/downloadcontent/ngc-10856?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 21:46:16 Jul 12, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610071838/https://www.guideline.gov/summaries/downloadcontent/ngc-10856?contentType=xml" title="07:18:38 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 21:46:16 Jul 12, 2018">12</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930211554/https://www.guideline.gov/summaries/downloadcontent/ngc-10856?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 21:46:16 Jul 12, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180712214616*/https://www.guideline.gov/summaries/downloadcontent/ngc-10856?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 12 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10856?contentType=xml","2018-07-12",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Type 2 diabetes in adults: management.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Institute for Health and Care Excellence (NICE). Type 2 diabetes in adults: management. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Dec 2. 57 p.&amp;nbsp;(NICE guideline; no. 28).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: National Collaborating Centre for Chronic Conditions. Type 2 diabetes. The management of type 2 diabetes. London (UK): National Institute for Health and Clinical Excellence (NICE); 2009 May. 49 p. (Clinical guideline; no. 87).</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="394" ordby="200" name="Regulatory Alert">
+    <field fieldid="154" ordby="205" id="395" name="FDA Warning/Regulatory Alert" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse</strong>: This guideline references a drug(s) for which important revised regulatory and/or warning information has been released.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><a href=&quot;https://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm558605.htm&quot; title=&quot;FDA Web site&quot; target=&quot;_blank&quot;>May 16, 2017 &amp;ndash; Canagliflozin (Invokana, Invokamet)</a>: Based on new data from two large clinical trials, the FDA has concluded that the type 2 diabetes medicine canagliflozin (Invokana, Invokamet, Invokamet XR) causes an increased risk of leg and foot amputations. FDA is requiring new warnings, including the most prominent Boxed Warning, to be added to the canagliflozin drug labels to describe this risk. </li>
+</ul></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Institute for Health and Care Excellence (NICE) Internal Clinical Guidelines Programme. See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance and related appendices.</p>
+<p><strong>Note from NGC and NICE</strong>: In July 2016, NICE reworded the recommendation on screening for eye disease to clarify the role of general practitioners (GPs) in referring people for eye screening and also to add information on when this should happen. This change is reflected in the recommendations below.</p>
+<p>Recommendations are marked as <strong>[new 2015]</strong>, <strong>[2015]</strong>, <strong>[2009]</strong>, <strong>[2009, amended 2015]</strong> or <strong>[2009, amended 2016]</strong>:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>[new 2015]</strong> indicates that the evidence has been reviewed and the recommendation has been added or updated. </li>
+    <li><strong>[2015]</strong> indicates that the evidence has been reviewed but no change has been made to the recommended action. </li>
+    <li><strong>[2009]</strong> indicates that the evidence has not been reviewed since 2009. </li>
+    <li><strong>[2009, amended 2015]</strong> or <strong>[2009, amended 2016]</strong> indicates that the evidence has not been reviewed since 2009, but either changes have been made to the recommendation wording that change the meaning or NICE has made editorial changes to the original wording to clarify the action to be taken. </li>
+</ul>
+<p>The wording used in the recommendations in this guideline (for example, words such as 'offer' and 'consider') denotes the certainty with which the recommendation is made (the strength of the recommendation) and is defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Individualised Care</span></strong></p>
+<p>Adopt an individualised approach to diabetes care that is tailored to the needs and circumstances of adults with type 2 diabetes, taking into account their personal preferences, comorbidities, risks from polypharmacy, and their ability to benefit from long‑term interventions because of reduced life expectancy. Such an approach is especially important in the context of multimorbidity. Reassess the person's needs and circumstances at each review and think about whether to stop any medicines that are not effective. <strong>[new 2015]</strong></p>
+<p>Take into account any disabilities, including visual impairment, when planning and delivering care for adults with type 2 diabetes. <strong>[new 2015]</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Patient Education</span></strong></p>
+<p>Offer structured education to adults with type 2 diabetes and/or their family members or carers (as appropriate) at and around the time of diagnosis, with annual reinforcement and review. Explain to people and their carers that structured education is an integral part of diabetes care. <strong>[2009]</strong></p>
+<p>Ensure that any structured education programme for adults with type 2 diabetes includes the following components:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>It is evidence-based, and suits the needs of the person. </li>
+    <li>It has specific aims and learning objectives, and supports the person and their family members and carers in developing attitudes, beliefs, knowledge and skills to self‑manage diabetes. </li>
+    <li>It has a structured curriculum that is theory-driven, evidence-based and resource-effective, has supporting materials, and is written down. </li>
+    <li>It is delivered by trained educators who have an understanding of educational theory appropriate to the age and needs of the person, and who are trained and competent to deliver the principles and content of the programme. </li>
+    <li>It is quality assured, and reviewed by trained, competent, independent assessors who measure it against criteria that ensure consistency. </li>
+    <li>The outcomes are audited regularly. <strong>[2015]</strong> </li>
+</ul>
+<p>Ensure the patient-education programme provides the necessary resources to support the educators, and that educators are properly trained and given time to develop and maintain their skills. <strong>[2009]</strong></p>
+<p>Offer group education programmes as the preferred option. Provide an alternative of equal standard for a person unable or unwilling to participate in group education. <strong>[2009]</strong></p>
+<p>Ensure that the patient-education programmes available meet the cultural, linguistic, cognitive and literacy needs within the local area. <strong>[2009]</strong></p>
+<p>Ensure that all members of the diabetes healthcare team are familiar with the patient‑education programmes available locally, that these programmes are integrated with the rest of the care pathway, and that adults with type 2 diabetes and their family members or carers (as appropriate) have the opportunity to contribute to the design and provision of local programmes. <strong>[2009]</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Dietary Advice</span></strong></p>
+<p>Provide individualised and ongoing nutritional advice from a healthcare professional with specific expertise and competencies in nutrition. <strong>[2009]</strong></p>
+<p>Provide dietary advice in a form sensitive to the person's needs, culture and beliefs, being sensitive to their willingness to change and the effects on their quality of life. <strong>[2009]</strong></p>
+<p>Emphasise advice on healthy balanced eating that is applicable to the general population when providing advice to adults with type 2 diabetes. Encourage high-fibre, low-glycaemic-index sources of carbohydrate in the diet, such as fruit, vegetables, wholegrains and pulses; include low‑fat dairy products and oily fish; and control the intake of foods containing saturated and trans fatty acids. <strong>[2009]</strong></p>
+<p>Integrate dietary advice with a personalised diabetes management plan, including other aspects of lifestyle modification, such as increasing physical activity and losing weight. <strong>[2009]</strong></p>
+<p>For adults with type 2 diabetes who are overweight, set an initial body weight loss target of 5% to 10%. Remember that lesser degrees of weight loss may still be of benefit, and that larger degrees of weight loss in the longer term will have advantageous metabolic impact. <strong>[2009]</strong></p>
+<p>Individualise recommendations for carbohydrate and alcohol intake, and meal patterns. Reducing the risk of hypoglycaemia should be a particular aim for a person using insulin or an insulin secretagogue. <strong>[2009]</strong></p>
+<p>Advise adults with type 2 diabetes that limited substitution of sucrose-containing foods for other carbohydrate in the meal plan is allowable, but that they should take care to avoid excess energy intake. <strong>[2009]</strong></p>
+<p>Discourage the use of foods marketed specifically for people with diabetes. <strong>[2009]</strong></p>
+<p>When adults with type 2 diabetes are admitted to hospital as inpatients or to any other care setting, implement a meal planning system that provides consistency in the carbohydrate content of meals and snacks. <strong>[2009]</strong></p>
+<p>For recommendations on lifestyle advice, see the NICE guidelines on <a href=&quot;http://www.nice.org.uk/guidance/ng7&quot; title=&quot;NICE Web site&quot;>preventing excess weight gain</a>, <a href=&quot;http://www.nice.org.uk/guidance/ph53&quot; title=&quot;NICE Web site&quot;>weight management</a>, <a href=&quot;http://www.nice.org.uk/guidance/ph44&quot; title=&quot;NICE Web site&quot;>physical activity</a>, <a href=&quot;http://www.nice.org.uk/guidance/ph1&quot; title=&quot;NICE Web site&quot;>smoking: brief interventions and referrals</a>, <a href=&quot;http://www.nice.org.uk/guidance/ph10&quot; title=&quot;NICE Web site&quot;>stop smoking services</a>, <a href=&quot;http://www.nice.org.uk/guidance/ph45&quot; title=&quot;NICE Web site&quot;>smoking: harm reduction</a>, and <a href=&quot;http://www.nice.org.uk/guidance/ph48&quot; title=&quot;NICE Web site&quot;>smoking: acute, maternity and mental health services</a>. See also the see the NGC summary of the NICE guideline <a href=&quot;/content.aspx?id=48872&quot; title=&quot;Guideline #10611&quot; target=&quot;_blank&quot;>Obesity: identification, assessment and management of overweight and obesity in children, young people and adults</a>. <strong>[new 2015]</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Blood Pressure Management</span></strong></p>
+<p>Measure blood pressure at least annually in an adult with type 2 diabetes without previously diagnosed hypertension or renal disease. Offer and reinforce preventive lifestyle advice. <strong>[2009]</strong></p>
+<p>For an adult with type 2 diabetes on antihypertensive drug treatment when diabetes is diagnosed, review blood pressure control and medications used. Make changes only if there is poor control or if current drug treatment is not appropriate because of microvascular complications or metabolic problems. <strong>[2009]</strong></p>
+<p>Repeat blood pressure measurements within:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>1 month if blood pressure is higher than 150/90 mmHg </li>
+    <li>2 months if blood pressure is higher than 140/80 mmHg </li>
+    <li>2 months if blood pressure is higher than 130/80 mmHg and there is kidney, eye or cerebrovascular damage </li>
+</ul>
+<p>Provide lifestyle advice (diet and exercise) at the same time. <strong>[2009]</strong></p>
+<p>Provide lifestyle advice (see &quot;Dietary Advice&quot; above in this guideline and the NICE guideline <a href=&quot;https://www.nice.org.uk/guidance/cg127&quot; title=&quot;NICE Web site&quot;>Hypertension. Clinical management of primary hypertension in adults</a>) if blood pressure is confirmed as being consistently above 140/80 mmHg (or above 130/80 mmHg if there is kidney, eye or cerebrovascular damage). <strong>[2009]</strong></p>
+<p>Add medications if lifestyle advice does not reduce blood pressure to below 140/80 mmHg (below 130/80 mmHg if there is kidney, eye or cerebrovascular damage). <strong>[2009]</strong></p>
+<p>Monitor blood pressure every 1 to 2 months, and intensify therapy if the person is already on antihypertensive drug treatment, until the blood pressure is consistently below 140/80 mmHg (below 130/80 mmHg if there is kidney, eye or cerebrovascular damage). <strong>[2009]</strong></p>
+<p>First-line antihypertensive drug treatment should be a once-daily, generic angiotensin-converting enzyme (ACE) inhibitor. Exceptions to this are people of African or Caribbean family origin, or women for whom there is a possibility of becoming pregnant. <strong>[2009]</strong></p>
+<p>The first-line antihypertensive drug treatment for a person of African or Caribbean family origin should be an ACE inhibitor plus either a diuretic or a generic calcium-channel blocker. <strong>[2009]</strong></p>
+<p>A calcium-channel blocker should be the first-line antihypertensive drug treatment for a woman for whom, after an informed discussion, it is agreed there is a possibility of her becoming pregnant. <strong>[2009]</strong></p>
+<p>For a person with continuing intolerance to an ACE inhibitor (other than renal deterioration or hyperkalaemia), substitute an angiotensin II-receptor antagonist for the ACE inhibitor. <strong>[2009]</strong></p>
+<p>Do not combine an ACE inhibitor with an angiotensin II-receptor antagonist to treat hypertension. <strong>[new 2015]</strong></p>
+<p>If the person's blood pressure is not reduced to the individually agreed target with first-line therapy, add a calcium-channel blocker or a diuretic (usually a thiazide or thiazide-related diuretic). Add the other drug (that is, the calcium-channel blocker or diuretic) if the target is not reached with dual therapy. <strong>[2009, amended 2015]</strong></p>
+<p>If the person's blood pressure is not reduced to the individually agreed target with triple therapy, add an alpha-blocker, a beta-blocker or a potassium-sparing diuretic (the last with caution if the person is already taking an ACE inhibitor or an angiotensin II-receptor antagonist). <strong>[2009]</strong></p>
+<p>Monitor the blood pressure of a person who has attained and consistently remained at his or her blood pressure target every 4 to 6 months. Check for possible adverse effects of antihypertensive drug treatment &amp;ndash; including the risks from unnecessarily low blood pressure. <strong>[2009]</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Antiplatelet Therapy</span></strong></p>
+<p>Do not offer antiplatelet therapy (aspirin or clopidogrel) for adults with type 2 diabetes without cardiovascular disease. <strong>[new 2015]</strong></p>
+<p>For guidance on the primary and secondary prevention of cardiovascular disease in adults with type 2 diabetes, see the NGC summaries of the NICE guidelines <a href=&quot;/content.aspx?id=48406&quot; title=&quot;Guideline #10501&quot; target=&quot;_blank&quot;>Lipid modification: cardiovascular risk assessment and the modification of blood lipids for the primary and secondary prevention of cardiovascular disease</a> and <a href=&quot;/content.aspx?id=47700&quot; title=&quot;Guideline #10185&quot; target=&quot;_blank&quot;>MI - secondary prevention. Secondary prevention in primary and secondary care for patients following a myocardial infarction</a>.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Blood Glucose Management</span></strong></p>
+<p><strong>HbA1c Measurement and Targets</strong></p>
+<p><em>Measurement</em></p>
+<p>In adults with type 2 diabetes, measure glycated haemoglobin (HbA1c) levels at:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>3- to 6-monthly intervals (tailored to individual needs), until the HbA1c is stable on unchanging therapy </li>
+    <li>6-monthly intervals once the HbA1c level and blood glucose lowering therapy are stable <strong>[2015]</strong> </li>
+</ul>
+<p>Use methods to measure HbA1c that have been calibrated according to International Federation of Clinical Chemistry (IFCC) standardisation. <strong>[new 2015]</strong></p>
+<p>If HbA1c monitoring is invalid because of disturbed erythrocyte turnover or abnormal haemoglobin type, estimate trends in blood glucose control using one of the following:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality-controlled plasma glucose profiles </li>
+    <li>Total HbA1c estimation (if abnormal haemoglobins) </li>
+    <li>Fructosamine estimation <strong>[2015]</strong> </li>
+</ul>
+<p>Investigate unexplained discrepancies between HbA1c and other glucose measurements. Seek advice from a team with specialist expertise in diabetes or clinical biochemistry. <strong>[2015]</strong></p>
+<p><em>Targets</em></p>
+<p>Involve adults with type 2 diabetes in decisions about their individual HbA1c target. Encourage them to achieve the target and maintain it unless any resulting adverse effects (including hypoglycaemia), or their efforts to achieve their target, impair their quality of life. <strong>[new 2015]</strong></p>
+<p>Offer lifestyle advice and drug treatment to support adults with type 2 diabetes to achieve and maintain their HbA1c target (see &quot;Dietary Advice&quot; above). For more information about supporting adherence, see the NICE guideline on <a href=&quot;http://www.nice.org.uk/guidance/cg76&quot; title=&quot;NICE Web site&quot;>medicines adherence</a>.<strong> [new 2015]</strong> </p>
+<p>For adults with type 2 diabetes managed either by lifestyle and diet, or by lifestyle and diet combined with a single drug not associated with hypoglycaemia, support the person to aim for an HbA1c level of 48 mmol/mol (6.5%). For adults on a drug associated with hypoglycaemia, support the person to aim for an HbA1c level of 53 mmol/mol (7.0%). <strong>[new 2015]</strong> </p>
+<p>In adults with type 2 diabetes, if HbA1c levels are not adequately controlled by a single drug and rise to 58 mmol/mol (7.5%) or higher:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Reinforce advice about diet, lifestyle and adherence to drug treatment <strong>and</strong> </li>
+    <li>Support the person to aim for an HbA1c level of 53 mmol/mol (7.0%) <strong>and</strong> </li>
+    <li>Intensify drug treatment <strong>[new 2015]</strong> </li>
+</ul>
+<p>Consider relaxing the target HbA1c level (see recommendations above) on a case-by-case basis, with particular consideration for people who are older or frail, for adults with type 2 diabetes:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Who are unlikely to achieve longer-term risk-reduction benefits, for example, people with a reduced life expectancy </li>
+    <li>For whom tight blood glucose control poses a high risk of the consequences of hypoglycaemia, for example, people who are at risk of falling, people who have impaired awareness of hypoglycaemia, and people who drive or operate machinery as part of their job </li>
+    <li>For whom intensive management would not be appropriate, for example, people with significant comorbidities <strong>[new 2015]</strong> </li>
+</ul>
+<p>If adults with type 2 diabetes achieve an HbA1c level that is lower than their target and they are not experiencing hypoglycaemia, encourage them to maintain it. Be aware that there are other possible reasons for a low HbA1c level, for example, deteriorating renal function or sudden weight loss. <strong>[new 2015]</strong></p>
+<p>For guidance on HbA1c targets for women with type 2 diabetes who are pregnant or planning to become pregnant, see the NGC summary of the NICE guideline <a href=&quot;/content.aspx?id=49120&quot; title=&quot;Guideline #10691&quot; target=&quot;_blank&quot;>Diabetes in pregnancy: management of diabetes and its complications from preconception to the postnatal period</a>. <strong>[new 2015]</strong> </p>
+<p><strong>Self-Monitoring of Blood Glucose</strong></p>
+<p>Take the Driver and Vehicle Licensing Agency (DVLA) <a href=&quot;https://www.gov.uk/government/publications/at-a-glance&quot; title=&quot;UK Government Web site&quot;>At a glance guide to the current medical standards of fitness to drive</a> into account when offering self‑monitoring of blood glucose levels for adults with type 2 diabetes. <strong>[new 2015]</strong></p>
+<p>Do not routinely offer self-monitoring of blood glucose levels for adults with type 2 diabetes unless:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The person is on insulin <strong>or</strong> </li>
+    <li>There is evidence of hypoglycaemic episodes <strong>or</strong> </li>
+    <li>The person is on oral medication that may increase their risk of hypoglycaemia while driving or operating machinery <strong>or</strong> </li>
+    <li>The person is pregnant, or is planning to become pregnant. For more information, see the NGC summary of the NICE guideline <a href=&quot;/content.aspx?id=49120&quot; title=&quot;Guideline #10691&quot; target=&quot;_blank&quot;>Diabetes in pregnancy: management of diabetes and its complications from preconception to the postnatal period</a>. <strong>[new 2015]</strong> </li>
+</ul>
+<p>Consider short-term self-monitoring of blood glucose levels in adults with type 2 diabetes (and review treatment as necessary):</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>When starting treatment with oral or intravenous corticosteroids <strong>or</strong> </li>
+    <li>To confirm suspected hypoglycaemia <strong>[new 2015]</strong> </li>
+</ul>
+<p>Be aware that adults with type 2 diabetes who have acute intercurrent illness are at risk of worsening hyperglycaemia. Review treatment as necessary. <strong>[new 2015]</strong></p>
+<p>If adults with type 2 diabetes are self-monitoring their blood glucose levels, carry out a structured assessment at least annually. The assessment should include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The person's self-monitoring skills </li>
+    <li>The quality and frequency of testing </li>
+    <li>Checking that the person knows how to interpret the blood glucose results and what action to take </li>
+    <li>The impact on the person's quality of life </li>
+    <li>The continued benefit to the person </li>
+    <li>The equipment used <strong>[2015]</strong> </li>
+</ul>
+<p><strong>Drug Treatment</strong></p>
+<p>Recommendations in this section that cover dipeptidyl peptidase-4 (DPP-4) inhibitors, glucagon-like peptide-1 (GLP-1) mimetics and sulfonylureas refer to each of these groups of drugs at a class level.</p>
+<p>For adults with type 2 diabetes, discuss the benefits and risks of drug treatment, and the options available. Base the choice of drug treatment(s) on:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The effectiveness of the drug treatment(s) in terms of metabolic response </li>
+    <li>Safety (see <a href=&quot;https://www.gov.uk/drug-safety-update&quot; title=&quot;UK Government Web site&quot;>Medicines and Healthcare products Regulatory Agency [MHRA] guidance</a>) and tolerability of the drug treatment(s) </li>
+    <li>The person's individual clinical circumstances, for example, comorbidities, risks from polypharmacy </li>
+    <li>The person's individual preferences and needs </li>
+    <li>The licensed indications or combinations available </li>
+    <li>Cost (if 2 drugs in the same class are appropriate, choose the option with the lowest acquisition cost) <strong>[new 2015]</strong> </li>
+</ul>
+<p><em>Rescue Therapy at Any Phase of Treatment</em></p>
+<p>If an adult with type 2 diabetes is symptomatically hyperglycaemic, consider insulin (see recommendations below) or a sulfonylurea, and review treatment when blood glucose control has been achieved. <strong>[new 2015]</strong></p>
+<p><em>Initial Drug Treatment</em></p>
+<p>Offer standard-release metformin as the initial drug treatment for adults with type 2 diabetes. <strong>[new 2015]</strong></p>
+<p>Gradually increase the dose of standard-release metformin over several weeks to minimise the risk of gastrointestinal side effects in adults with type 2 diabetes. <strong>[new 2015]</strong></p>
+<p>If an adult with type 2 diabetes experiences gastrointestinal side effects with standard-release metformin, consider a trial of modified-release metformin. <strong>[new 2015]</strong></p>
+<p>In adults with type 2 diabetes, review the dose of metformin if the estimated glomerular filtration rate (eGFR) is below 45 ml/minute/1.73 m<sup>2</sup>:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Stop metformin if the eGFR is below 30 ml/minute/1.73 m<sup>2</sup>. </li>
+    <li>Prescribe metformin with caution for those at risk of a sudden deterioration in kidney function and those at risk of eGFR falling below 45 ml/minute/1.73m<sup>2</sup>. <strong>[2015]</strong> </li>
+</ul>
+<p>In adults with type 2 diabetes, if metformin is contraindicated or not tolerated, consider initial drug treatment<sup>1</sup> with:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A dipeptidyl peptidase-4 (DPP-4) inhibitor or </li>
+    <li>Pioglitazone<sup>2</sup> or </li>
+    <li>A sulfonylurea <strong>[new 2015]</strong> </li>
+</ul>
+<p>In adults with type 2 diabetes, do not offer or continue pioglitazone<sup>2</sup> if they have any of the following: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Heart failure or history of heart failure </li>
+    <li>Hepatic impairment </li>
+    <li>Diabetic ketoacidosis </li>
+    <li>Current, or a history of, bladder cancer </li>
+    <li>Uninvestigated macroscopic haematuria <strong>[new 2015]</strong> </li>
+</ul>
+<p><em>First Intensification of Drug Treatment</em></p>
+<p>In adults with type 2 diabetes, if initial drug treatment with metformin has not continued to control HbA1c to below the person's individually agreed threshold for intensification, consider dual therapy with:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Metformin and a DPP-4 inhibitor <strong>or</strong> </li>
+    <li>Metformin and pioglitazone<sup>2</sup> <strong>or</strong> </li>
+    <li>Metformin and a sulfonylurea <strong>[new 2015]</strong> </li>
+</ul>
+<p>In adults with type 2 diabetes, if metformin is contraindicated or not tolerated and initial drug treatment has not continued to control HbA1c to below the person's individually agreed threshold for intensification, consider dual therapy<sup>3</sup> with:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A DPP‑4 inhibitor and pioglitazone<sup>2</sup> <strong>or</strong> </li>
+    <li>A DPP‑4 inhibitor and a sulfonylurea <strong>or</strong> </li>
+    <li>Pioglitazone<sup>2</sup> and a sulfonylurea <strong>[new 2015]</strong> </li>
+</ul>
+<p>Treatment with combinations of medicines including sodium&amp;ndash;glucose cotransporter 2 (SGLT‑2) inhibitors may be appropriate for some people with type 2 diabetes; see the NICE guidance on <a href=&quot;http://www.nice.org.uk/guidance/ta315&quot; title=&quot;NICE Web site&quot;>canagliflozin in combination therapy for treating type 2 diabetes</a> and <a href=&quot;https://www.nice.org.uk/guidance/ta288&quot; title=&quot;NICE Web site&quot;>Dapagliflozin in combination therapy for treating type 2 diabetes</a>, and the NGC summary of the NICE guideline <a href=&quot;/content.aspx?id=49124&quot; title=&quot;Guideline #10695&quot; target=&quot;_blank&quot;>Empagliflozin in combination therapy for treating type 2 diabetes</a>.</p>
+<p><em>Second Intensification of Drug Treatment</em></p>
+<p>In adults with type 2 diabetes, if dual therapy with metformin and another oral drug (see recommendation above) has not continued to control HbA1c to below the person's individually agreed threshold for intensification, consider either:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Triple therapy with:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Metformin, a DPP-4 inhibitor and a sulfonylurea <strong>or</strong> </li>
+        <li>Metformin, pioglitazone<sup>2</sup> and a sulfonylurea <strong>or</strong> </li>
+    </ul>
+    </li>
+    <li>Starting insulin-based treatment (see recommendations below) <strong>[new 2015]</strong> </li>
+</ul>
+<p>If triple therapy with metformin and 2 other oral drugs (see recommendation above) is not effective, not tolerated or contraindicated, consider combination therapy with metformin, a sulfonylurea and a glucagon-like peptide-1 (GLP-1) mimetic for adults with type 2 diabetes who:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Have a body mass index (BMI) of 35 kg/m<sup>2</sup> or higher (adjust accordingly for people from black, Asian and other minority ethnic groups) <strong>and</strong> specific psychological or other medical problems associated with obesity <strong>or</strong> </li>
+</ul>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Have a BMI lower than 35 kg/m<sup>2</sup> <strong>and</strong>:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>For whom insulin therapy would have significant occupational implications <strong>or</strong> </li>
+        <li>Weight loss would benefit other significant obesity-related comorbidities <strong>[new 2015]</strong> </li>
+    </ul>
+    </li>
+</ul>
+<p>Only continue GLP-1 mimetic therapy if the person with type 2 diabetes has had a beneficial metabolic response (a reduction of at least 11 mmol/mol [1.0%] in HbA1c and a weight loss of at least 3% of initial body weight in 6 months). <strong>[2015]</strong></p>
+<p>In adults with type 2 diabetes, if metformin is contraindicated or not tolerated, and if dual therapy with 2 oral drugs (see recommendation above) has not continued to control HbA1c to below the person's individually agreed threshold for intensification, consider insulin-based treatment (see recommendations below). <strong>[new 2015]</strong></p>
+<p>In adults with type 2 diabetes, only offer a GLP-1 mimetic in combination with insulin with specialist care advice and ongoing support from a consultant‑led multidisciplinary team<sup>4</sup>. <strong>[new 2015]</strong></p>
+<p>Treatment with combinations of medicines including SGLT‑2 inhibitors may be appropriate for some people with type 2 diabetes; see the NICE guidance on <a href=&quot;http://www.nice.org.uk/guidance/ta315&quot; title=&quot;NICE Web site&quot;>canagliflozin in combination therapy for treating type 2 diabetes</a> and <a href=&quot;https://www.nice.org.uk/guidance/ta288&quot; title=&quot;NICE Web site&quot;>Dapagliflozin in combination therapy for treating type 2 diabetes</a>, and the NGC summary of the NICE guideline <a href=&quot;/content.aspx?id=49124&quot; title=&quot;Guideline #10695&quot; target=&quot;_blank&quot;>Empagliflozin in combination therapy for treating type 2 diabetes</a>.</p>
+<p><strong>Insulin-based Treatments</strong></p>
+<p>When starting insulin therapy in adults with type 2 diabetes, use a structured programme employing active insulin dose titration that encompasses:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Injection technique, including rotating injection sites and avoiding repeated injections at the same point within sites </li>
+    <li>Continuing telephone support </li>
+    <li>Self-monitoring </li>
+    <li>Dose titration to target levels </li>
+    <li>Dietary understanding </li>
+    <li>DVLA guidance (<a href=&quot;https://www.gov.uk/government/publications/at-a-glance&quot; title=&quot;UK Government Web site&quot;>At a glance guide to the current medical standards of fitness to drive</a>) </li>
+    <li>Management of hypoglycaemia </li>
+    <li>Management of acute changes in plasma glucose control </li>
+    <li>Support from an appropriately trained and experienced healthcare professional <strong>[2015]</strong> </li>
+</ul>
+<p>When starting insulin therapy in adults with type 2 diabetes, continue to offer metformin for people without contraindications or intolerance. Review the continued need for other blood glucose lowering therapies<sup>5</sup>. <strong>[new 2015]</strong></p>
+<p>Start insulin therapy for adults with type 2 diabetes from a choice of a number of insulin types and regimens:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Offer NPH insulin injected once or twice daily according to need. </li>
+    <li>Consider starting both NPH and short‑acting insulin (particularly if the person's HbA1c is 75 mmol/mol [9.0%] or higher), administered either:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Separately <strong>or</strong> </li>
+        <li>As a pre-mixed (biphasic) human insulin preparation </li>
+    </ul>
+    </li>
+    <li>Consider, as an alternative to NPH insulin, using insulin detemir or insulin glargine<sup>6</sup> if:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>The person needs assistance from a carer or healthcare professional to inject insulin, and use of insulin detemir or insulin glargine<sup>6</sup> would reduce the frequency of injections from twice to once daily <strong>or</strong> </li>
+        <li>The person's lifestyle is restricted by recurrent symptomatic hypoglycaemic episodes <strong>or</strong> </li>
+        <li>The person would otherwise need twice-daily NPH insulin injections in combination with oral glucose-lowering drugs </li>
+    </ul>
+    </li>
+    <li>Consider pre-mixed (biphasic) preparations that include short-acting insulin analogues, rather than pre-mixed (biphasic) preparations that include short-acting human insulin preparations, if:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>A person prefers injecting insulin immediately before a meal <strong>or</strong> </li>
+        <li>Hypoglycaemia is a problem <strong>or</strong> </li>
+        <li>Blood glucose levels rise markedly after meals <strong>[2015]</strong> </li>
+    </ul>
+    </li>
+</ul>
+<p>Consider switching to insulin detemir or insulin glargine<sup>6</sup> from NPH insulin in adults with type 2 diabetes:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Who do not reach their target HbA1c because of significant hypoglycaemia <strong>or</strong> </li>
+    <li>Who experience significant hypoglycaemia on NPH insulin irrespective of the level of HbA1c reached <strong>or</strong> </li>
+    <li>Who cannot use the device needed to inject NPH insulin but who could administer their own insulin safely and accurately if a switch to one of the long-acting insulin analogues was made <strong>or</strong> </li>
+    <li>Who need help from a carer or healthcare professional to administer insulin injections and for whom switching to one of the long-acting insulin analogues would reduce the number of daily injections <strong>[2015]</strong> </li>
+</ul>
+<p>Monitor adults with type 2 diabetes who are on a basal insulin regimen (NPH insulin, insulin detemir or insulin glargine<sup>6</sup>) for the need for short-acting insulin before meals (or a pre-mixed [biphasic] insulin preparation). <strong>[2015]</strong></p>
+<p>Monitor adults with type 2 diabetes who are on pre‑mixed (biphasic) insulin for the need for a further injection of short‑acting insulin before meals or for a change to a basal bolus regimen with NPH insulin or insulin detemir or insulin glargine<sup>6</sup>, if blood glucose control remains inadequate. <strong>[2015]</strong></p>
+<p>Treatment with combinations of medicines including SGLT-2 inhibitors may be appropriate for some people with type 2 diabetes; see the NICE guidance on <a href=&quot;http://www.nice.org.uk/guidance/ta315&quot; title=&quot;NICE Web site&quot;>canagliflozin in combination therapy for treating type 2 diabetes</a> and <a href=&quot;https://www.nice.org.uk/guidance/ta288&quot; title=&quot;NICE Web site&quot;>Dapagliflozin in combination therapy for treating type 2 diabetes</a>, and the NGC summary of the NICE guideline <a href=&quot;/content.aspx?id=49124&quot; title=&quot;Guideline #10695&quot; target=&quot;_blank&quot;>Empagliflozin in combination therapy for treating type 2 diabetes</a>.</p>
+<p><strong>Insulin Delivery</strong></p>
+<p>For guidance on insulin delivery for adults with type 2 diabetes, see the &quot;Insulin Delivery&quot; section in the NGC summary of the NICE guideline <a href=&quot;/content.aspx?id=49529&quot; title=&quot;Guideline #10781&quot; target=&quot;_blank&quot;>Type 1 diabetes in adults: diagnosis and management</a>. <strong>[new 2015]</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Managing Complications</span></strong></p>
+<p><strong>Gastroparesis</strong></p>
+<p>Think about a diagnosis of gastroparesis in adults with type 2 diabetes with erratic blood glucose control or unexplained gastric bloating or vomiting, taking into account possible alternative diagnoses. <strong>[2009, amended 2015]</strong></p>
+<p>For adults with type 2 diabetes who have vomiting caused by gastroparesis, explain that:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>There is not strong evidence that any available antiemetic therapy is effective. </li>
+    <li>Some people have had benefit with domperidone<sup>7</sup>, erythromycin<sup>8</sup> or metoclopramide<sup>9</sup>. </li>
+    <li>The strongest evidence for effectiveness is for domperidone<sup>7</sup>, but prescribers must take into account its safety profile, in particular its cardiac risk and potential interactions with other medicines. <strong>[new 2015]</strong> </li>
+</ul>
+<p>For treating vomiting caused by gastroparesis in adults with type 2 diabetes:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Consider alternating use of erythromycin<sup>8</sup> and metoclopramide<sup>9</sup>. </li>
+    <li>Consider domperidone<sup>7</sup> only in exceptional circumstances (if domperidone is the only effective treatment) and in accordance with MHRA guidance. <strong>[new 2015]</strong> </li>
+</ul>
+<p>If gastroparesis is suspected, consider referral to specialist services if:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The differential diagnosis is in doubt <strong>or</strong> </li>
+    <li>Persistent or severe vomiting occurs <strong>[2009]</strong> </li>
+</ul>
+<p><strong>Painful Diabetic Neuropathy</strong></p>
+<p>For guidance on managing painful diabetic peripheral neuropathy in adults with type 2 diabetes, see the NGC summary of the NICE guideline <a href=&quot;/content.aspx?id=47701&quot; title=&quot;Guideline #10186&quot; target=&quot;_blank&quot;>Neuropathic pain - pharmacological management. The pharmacological management of neuropathic pain in adults in non-specialist settings</a>. <strong>[new 2015]</strong></p>
+<p><strong>Autonomic Neuropathy</strong></p>
+<p>Think about the possibility of contributory sympathetic nervous system damage for adults with type 2 diabetes who lose the warning signs of hypoglycaemia. <strong>[2009, amended 2015]</strong></p>
+<p>Think about the possibility of autonomic neuropathy affecting the gut in adults with type 2 diabetes who have unexplained diarrhoea that happens particularly at night. <strong>[2009, amended 2015]</strong></p>
+<p>When using tricyclic drugs and antihypertensive drug treatments in adults with type 2 diabetes who have autonomic neuropathy, be aware of the increased likelihood of side effects such as orthostatic hypotension. <strong>[2009]</strong></p>
+<p>Investigate the possibility of autonomic neuropathy affecting the bladder in adults with type 2 diabetes who have unexplained bladder-emptying problems. <strong>[2009]</strong></p>
+<p>In managing autonomic neuropathy symptoms, include specific interventions indicated by the manifestations (for example, for abnormal sweating or nocturnal diarrhoea). <strong>[2009]</strong></p>
+<p><strong>Diabetic Foot Problems</strong></p>
+<p>For guidance on preventing and managing foot problems in adults with type 2 diabetes, see the NGC summary of the NICE guideline <a href=&quot;/content.aspx?id=49566&quot; title=&quot;Guideline #10691&quot; target=&quot;_blank&quot;>Diabetic foot problems: prevention and management</a>. <strong>[new 2015]</strong></p>
+<p><strong>Diabetic Kidney Disease</strong></p>
+<p>For guidance on managing kidney disease in adults with type 2 diabetes, see the NGC summary of the NICE guideline <a href=&quot;http://www.guideline.gov/content.aspx?id=48405&quot; title=&quot;Guideline #10500&quot; target=&quot;_blank&quot;>Chronic kidney disease. Early identification and management of chronic kidney disease in adults in primary and secondary care</a>. <strong>[new 2015] </strong></p>
+<p><strong>Erectile Dysfunction</strong></p>
+<p>Offer men with type 2 diabetes the opportunity to discuss erectile dysfunction as part of their annual review. <strong>[2015]</strong></p>
+<p>Assess, educate and support men with type 2 diabetes who have problematic erectile dysfunction, addressing contributory factors such as cardiovascular disease as well as possible treatment options. <strong>[2015]</strong></p>
+<p>Consider a phosphodiesterase-5 inhibitor to treat problematic erectile dysfunction in men with type 2 diabetes, initially choosing the drug with the lowest acquisition cost and taking into account any contraindications. <strong>[new 2015]</strong></p>
+<p>Following discussion, refer men with type 2 diabetes to a service offering other medical, surgical or psychological management of erectile dysfunction if treatment (including a phosphodiesterase-5 inhibitor, as appropriate) has been unsuccessful. <strong>[2015] </strong></p>
+<p><strong>Eye Disease</strong></p>
+<p>On diagnosis, GPs should immediately refer adults with type 2 diabetes to the local eye screening service. Perform screening as soon as possible and no later than 3 months from referral. Arrange repeat structured eye screening annually. <strong>[2009, amended 2016]</strong></p>
+<p>Explain the reasons for, and success of, eye screening systems to adults with type 2 diabetes, so that attendance is not reduced by lack of knowledge or fear of outcome. <strong>[2009]</strong></p>
+<p>Use mydriasis with tropicamide when photographing the retina, after prior informed agreement following discussion of the advantages and disadvantages. Discussions should include precautions for driving. <strong>[2009]</strong></p>
+<p>Use a quality-assured digital retinal photography programme using appropriately trained staff. <strong>[2009]</strong></p>
+<p>Perform visual acuity testing as a routine part of eye screening programmes. <strong>[2009]</strong></p>
+<p>Depending on the findings, follow structured eye screening by:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Routine review in 1 year <strong>or</strong> </li>
+    <li>Earlier review <strong>or</strong> </li>
+    <li>Referral to an ophthalmologist <strong>[2009]</strong> </li>
+</ul>
+<p>Arrange emergency review by an ophthalmologist for:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Sudden loss of vision </li>
+    <li>Rubeosis iridis </li>
+    <li>Pre-retinal or vitreous haemorrhage </li>
+    <li>Retinal detachment <strong>[2009]</strong> </li>
+</ul>
+<p>Arrange rapid review by an ophthalmologist for new vessel formation. <strong>[2009]</strong></p>
+<p>Refer to an ophthalmologist in accordance with the National Screening Committee criteria and timelines if any of these features are present:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Referable maculopathy:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Exudate or retinal thickening within 1 disc diameter of the centre of the fovea </li>
+        <li>Circinate or group of exudates within the macula (the macula is defined here as a circle centred on the fovea, with a diameter the distance between the temporal border of the optic disc and the fovea) </li>
+        <li>Any microaneurysm or haemorrhage within 1 disc diameter of the centre of the fovea, only if associated with deterioration of best visual acuity to 6/12 or worse. </li>
+    </ul>
+    </li>
+    <li>Referable pre-proliferative retinopathy (if cotton wool spots are present, look carefully for the following features, but cotton wool spots themselves do not define pre‑proliferative retinopathy):
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Any venous beading </li>
+        <li>Any venous reduplication </li>
+        <li>Any intraretinal microvascular abnormalities </li>
+        <li>Multiple deep, round or blot haemorrhages </li>
+    </ul>
+    </li>
+    <li>Any large, sudden unexplained drop in visual acuity <strong>[2009, amended 2015]</strong> </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Footnotes</span></strong></p>
+<p class=&quot;Note&quot;><sup>1</sup>Be aware that, if metformin is contraindicated or not tolerated, repaglinide is both clinically effective and cost effective in adults with type 2 diabetes. However, discuss with any person for whom repaglinide is being considered, that there is no licensed non-metformin-based combination containing repaglinide that can be offered at first intensification.</p>
+<p class=&quot;Note&quot;><sup>2</sup>When prescribing pioglitazone, exercise particular caution if the person is at high risk of the adverse effects of the drug. Pioglitazone is associated with an increased risk of heart failure, bladder cancer and bone fracture. Known risk factors for these conditions, including increased age, should be carefully evaluated before treatment: see the manufacturers' summaries of product characteristics for details. <a href=&quot;https://www.gov.uk/drug-safety-update/pioglitazone-risk-of-bladder-cancer&quot; title=&quot;UK Government Web site&quot;>Medicines and Healthcare products Regulatory Agency (MHRA) guidance</a> (2011) advises that 'prescribers should review the safety and efficacy of pioglitazone in individuals after 3 to 6 months of treatment to ensure that only patients who are deriving benefit continue to be treated'.</p>
+<p class=&quot;Note&quot;><sup>3</sup>Be aware that the drugs in dual therapy should be introduced in a stepwise manner, checking for tolerability and effectiveness of each drug.</p>
+<p class=&quot;Note&quot;><sup>4</sup>A consultant-led multidisciplinary team may include a wide range of staff based in primary, secondary and community care.</p>
+<p class=&quot;Note&quot;><sup>5</sup><a href=&quot;https://www.gov.uk/drug-safety-update/pioglitazone-risk-of-bladder-cancer&quot; title=&quot;UK Government Web site&quot;>Medicines and Healthcare products Regulatory Agency (MHRA) guidance</a> (2011) notes that cases of cardiac failure have been reported when pioglitazone was used in combination with insulin, especially in patients with risk factors for the development of cardiac failure. It advises that if the combination is used, people should be observed for signs and symptoms of heart failure, weight gain, and oedema. Pioglitazone should be discontinued if any deterioration in cardiac status occurs.</p>
+<p class=&quot;Note&quot;><sup>6</sup>The recommendations in this guideline also apply to any current and future biosimilar product(s) of insulin glargine that have an appropriate marketing authorisation that allows the use of the biosimilar(s) in the same indication.</p>
+<p class=&quot;Note&quot;><sup>7</sup><a href=&quot;https://www.gov.uk/drug-safety-update/domperidone-risks-of-cardiac-side-effects&quot; title=&quot;UK Government Web site&quot;>Medicines and Healthcare products Regulatory Agency (MHRA) guidance</a> (2014) notes that domperidone is associated with a small increased risk of serious cardiac side effects. Domperidone is now contraindicated in certain groups in whom the risk of cardiac effects is higher; its marketing authorisations have also been restricted to its use in the relief of nausea and vomiting only, at the lowest effective dose and for the shortest possible time (usually not more than 1 week): see the MHRA guidance and summaries of product characteristics. The MHRA advises that prescribers should take into account the overall safety profile of domperidone, and in particular its cardiac risk and potential interactions with other medicines (such as erythromycin), if there is a clinical need to use it at doses or durations greater than those authorised. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's <a href=&quot;http://www.gmc-uk.org/guidance/ethical_guidance/14327.asp&quot; title=&quot;General Medical Council Web site&quot;>Prescribing guidance: prescribing unlicensed medicines</a> for further information.</p>
+<p class=&quot;Note&quot;><sup>8</sup>At the time of publication (December 2015), erythromycin did not have a UK marketing authorisation for this indication. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's <a href=&quot;http://www.gmc-uk.org/guidance/ethical_guidance/14327.asp&quot; title=&quot;General Medical Council Web site&quot;>Prescribing guidance: prescribing unlicensed medicines</a> for further information. NICE has published an evidence summary: <a href=&quot;http://www.nice.org.uk/advice/esuom13/chapter/Key-points-from-the-evidence&quot; title=&quot;NICE Web site&quot;>unlicensed or off-label medicine on oral erythromycin for gastroparesis in adults</a>, including a version for the public.</p>
+<p class=&quot;Note&quot;><sup>9</sup><a href=&quot;https://www.gov.uk/drug-safety-update/metoclopramide-risk-of-neurological-adverse-effects&quot; title=&quot;UK Government Web site&quot;>Medicines and Healthcare products Regulatory Agency (MHRA) guidance</a> (2013) notes that metoclopramide has well-known risks of neurological effects such as short-term extrapyramidal disorders and tardive dyskinesia. It advises that metoclopramide should be prescribed only for short-term use (up to 5 days) at a maximum dose of 30 mg in 24 hours (usual dose of 10 mg up to 3 times a day).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Strength of Recommendations</strong></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most people would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><em>Interventions That Must (or Must Not) Be Used</em></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally 'must' (or 'must not') is used if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><em>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation</em></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of people, an intervention will do more good than harm, and be cost effective. The GDG uses similar forms of words (for example, 'Do not offer&amp;hellip;') when they are confident that an intervention will not be of benefit for most people.</p>
+<p><em>Interventions That Could Be Used</em></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most people, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the person's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the person.</p>
+<p><em>Recommendation Wording in Guideline Updates</em></p>
+<p>The National Institute for Health and Care Excellence (NICE) began using this approach to denote the strength of recommendations in guidelines that started development after publication of the 2009 version of 'The guidelines manual' (January 2009). This does not apply to any recommendations ending <strong>[2009]</strong>. In particular, for recommendations labelled <strong>[2009]</strong>, the word 'consider' may not necessarily be used to denote the strength of the recommendation.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An algorithm titled &quot;Algorithm for blood glucose lowering therapy&quot; is provided in the original guideline document.</p>
+<p>In addition, a National Institute for Health and Care Excellence (NICE) pathway titled &quot;Type 2 diabetes in adults overview&quot; is available on the <a href=&quot;http://pathways.nice.org.uk/pathways/type-2-diabetes-in-adults&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Type 2 diabetes</p></div>"/>
+    </field>
+    <field fieldid="4622" ordby="408" id="703" name="Other Disease/Condition(s) Addressed" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Hypertension</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Counseling"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Endocrinology"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Geriatrics"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Nutrition"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Dietitians"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Optometrists"/>
+      <fieldvalue value="Patients"/>
+      <fieldvalue value="Pharmacists"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Podiatrists"/>
+      <fieldvalue value="Public Health Departments"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To provide recommendations for managing type 2 diabetes in adults, with a focus on patient education, dietary advice, managing cardiovascular risk, managing blood glucose levels, and identifying and managing long-term complications</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Adults (aged 18 years and older) with type 2 diabetes </li>
+    <li>Specific patient subgroups for whom the management of type 2 diabetes may vary, including (but not restricted to):
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Adults aged 65 years and older </li>
+        <li>People with renal impairment </li>
+        <li>People in specific ethnic groups </li>
+        <li>People in specific cardiovascular risk groups </li>
+    </ul>
+    </li>
+</ul>
+<p class=&quot;Note&quot;><strong>Note</strong>: The following patient groups are not covered: children and young people with type 1 or type 2 diabetes, adults (aged 18 years and older) with type 1 diabetes, diabetes in pregnancy.</p>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>Adopting an individualised approach to diabetes care </li>
+    <li>Patient education </li>
+    <li>Dietary advice </li>
+    <li>Blood pressure management
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Blood pressure measurements (monitoring blood pressure) </li>
+        <li>Providing lifestyle advice </li>
+        <li>Adding antihypertensive medications (angiotensin-converting enzyme [ACE] inhibitors, calcium channel blockers, angiotensin-II receptor antagonists, diuretics) </li>
+    </ul>
+    </li>
+    <li>Antiplatelet therapy (aspirin or clopidogrel) </li>
+    <li>Blood glucose management
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Glycated haemoglobin (HbA1c) measurement and targets </li>
+        <li>Self-monitoring of blood glucose </li>
+        <li>Drug treatments including metformin, dipeptidyl peptidase-4 (DPP-4) inhibitors, pioglitazone, sulfonylureas, glucagon-like peptide-1 (GLP-1) mimetics, sodium&amp;ndash;glucose cotransporter 2 (SGLT-2) inhibitors, and insulin alone or in combination </li>
+    </ul>
+    </li>
+    <li>Use of insulin-based treatment and insulin delivery </li>
+    <li>Management of complications (gastroparesis, painful diabetic neuropathy, autonomic neuropathy, foot problems, diabetic kidney disease, erectile dysfunction, eye disease) </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Changes in blood glucose levels (including glycated haemoglobin [HbA1c]) </li>
+    <li>Changes in weight or body mass index (BMI) </li>
+    <li>Frequency and severity of hypoglycaemic episodes </li>
+    <li>Adverse events </li>
+    <li>Development of microvascular and macrovascular complications </li>
+    <li>Changes in lipid levels and blood pressure </li>
+    <li>Mortality </li>
+    <li>Quality of life </li>
+    <li>Resource use and cost </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Institute for Health and Care Excellence (NICE) Internal Clinical Guidelines Programme. See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance and related appendices.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Search Strategies</span></strong></p>
+<p>The evidence reviews used to develop the guideline recommendations were underpinned by systematic literature searches, following the methods described in 'The guidelines manual (2012)' (see the &quot;Availability of Companion Documents&quot; field). The aim of the systematic searches was to comprehensively identify the published evidence to answer the review questions developed by the Guideline Development Group (GDG) and Internal Clinical Guidelines Technical Team.</p>
+<p>The search strategies for the review questions were developed by the Information Services Team with advice from the Internal Clinical Guidelines Technical Team. Structured questions were developed using the PICO (population, intervention, comparison, outcome) model and translated into search strategies using subject heading and free text terms. The strategies were run across a number of databases, date restrictions were included when requested by the Technical Team.</p>
+<p>The National Health Service Economic Evaluation Database (NHS EED) and the Health Economic Evaluations Database (HEED) were searched for economic evaluations. Search filters for economic evaluations and quality of life studies were used on bibliographic databases. Date restrictions were included when requested by the Technical Team.</p>
+<p>GDG members were also asked to alert the Internal Clinical Guidelines Technical Team to any additional evidence, published, unpublished or in press, that met the inclusion criteria.</p>
+<p>The searches were undertaken between July 2012 and June 2013. The re-run searches took place in June 2014.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Scoping Searches</span></strong></p>
+<p>Scoping searches were undertaken in March 2012 using the Web sites and data bases listed in Section C.2 of Appendix C browsing or simple search strategies were employed. The search results were used to provide information for scope development and project planning.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Main Searches</span></strong></p>
+<p>The following sources were searched:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Cochrane Database of Systematic Reviews &amp;ndash; CDSR (Wiley) </li>
+    <li>Cochrane Central Register of Controlled Trials &amp;ndash; CENTRAL (Wiley) </li>
+    <li>Database of Abstracts of Reviews of Effects &amp;ndash; DARE (Wiley) </li>
+    <li>Health Technology Assessment Database &amp;ndash; HTA (Wiley) </li>
+    <li>EMBASE (Ovid) </li>
+    <li>MEDLINE (Ovid) </li>
+    <li>MEDLINE In-Process (Ovid) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Systematic Reviews and Mapping Searches</span></strong></p>
+<p>The MEDLINE search strategies for each review question are presented in Section C.4 of Appendix C. They were translated for use in each of the other databases.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Health Economics Searches</span></strong></p>
+<p>The following sources were searched to identify economic evaluations and quality of life data featuring the patient population of type 2 diabetes:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Ovid MEDLINE </li>
+    <li>Ovid MEDLINE-in-Process </li>
+    <li>EMBASE (Ovid) </li>
+    <li>NHS EED (Wiley) </li>
+    <li>HEED </li>
+</ul>
+<p>See Appendix C for additional details.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>See the evidence review sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for the number and type of studies included in the systematic review for each of the guideline review questions.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)</span></strong></p>
+<table border=&quot;1&quot; summary=&quot;Table: Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Level</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>High</th>
+            <td valign=&quot;top&quot;>Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Moderate</th>
+            <td valign=&quot;top&quot;>Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Low</th>
+            <td valign=&quot;top&quot;>Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Very Low</th>
+            <td valign=&quot;top&quot;>Any estimate of effect is very uncertain.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Meta-Analysis"/>
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Institute for Health and Care Excellence (NICE) Internal Clinical Guidelines Programme. See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance and related appendices.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Data Extraction</span></strong></p>
+<p><strong>Time-points</strong></p>
+<p>The included evidence reported a variety of follow-up periods. Given the number and heterogeneity of the time-points reported in the literature, it was important to prioritise which time-points were extracted. In order to enable the comparison of studies with different follow-up periods, the Guideline Development Group (GDG) considered it important to extract outcomes at common time-points. Based on clinical practice of 3-monthly medication review and the use of glycated haemoglobin (HbA1c) as the main indicator of glycaemic control, the GDG agreed that the following time-points would provide clinically relevant evidence and enable comparisons across all studies for the review question focusing on drug treatments to lower blood glucose levels:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>3 months (12 to 16 weeks) </li>
+    <li>6 months (22 to 30 weeks) </li>
+    <li>12 months (44 to 60 weeks) </li>
+    <li>24 months (96 to 112 weeks) </li>
+</ul>
+<p>Data were extracted for each relevant time-point that was reported in the included trials. If a study reported more than 1 data-point in the time ranges outlined above, the one closest to the central figure was extracted. For example, if data were reported at 25 and 28 weeks, the data-point closest to 6 months was extracted, that is 25 weeks. If data-points were equidistant from the time-point, for example 24 and 28 weeks, the later time period, 28 weeks, was extracted. A minimum of 12 weeks' follow-up from start of treatment was agreed to be clinically relevant as it coincides with medicine reviews and HbA1c measurements.</p>
+<p>For the supplementary review question on the long-term serious adverse effects of blood glucose lowering drug treatments, the GDG agreed that a minimum follow-up period of 2 years was sufficient to allow for adverse events and complications to occur.</p>
+<p>For the review question on self-monitoring of blood glucose levels, the GDG agreed that a minimum follow-up period of 4 weeks would allow for important information on short-term outcomes such as hypoglycaemia to be captured.</p>
+<p>No time restrictions were placed on the remaining review questions on optimal blood glucose targets, use of antiplatelet therapy for primary prevention of cardiovascular disease and management of erectile dysfunction.</p>
+<p>For dichotomous outcomes such as adverse events, data were generally extracted at study end-point.</p>
+<p><strong>Conversion of Continuous Outcome Data</strong></p>
+<p>Continuous outcomes which reported different units (for example, HbA1c in % or mmol/mol) were converted to a common unit prior to synthesis. Estimates of body weight in kilograms were calculated from studies which only reported body mass index (BMI). Where the mean height of the cohort was available, this was used to estimate weight; where no height data were available the mean height of people in the THIN dataset derived for the health economic model (168 cm) was used.</p>
+<p><strong>Process</strong></p>
+<p>Data were extracted by 1 reviewer and a second reviewer checked the studies included in the analyses. Where numerical data were not reported in tables or text, information was extracted from graphs by digitising the images and using a bespoke electronic ruler in Microsoft Excel. Data were typically extracted from graphs where relevant time-points were not reported (for example, the study reported outcomes at 1 year but provided a graph of changes over time with data-points at 3 and 6 months) and only if measures of dispersion were provided (for example, error bars from graphs were used to estimate standard deviations).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Data Imputation</span></strong></p>
+<p><strong>Estimating Mean Change from Baseline</strong></p>
+<p>Where possible, mean difference from baseline to follow-up was the point of synthesis for continuous measures. If the study did not provide the mean difference, where possible, it was calculated from reported baseline and follow-up scores that is, follow-up score minus baseline value. However, the standard deviation (SD) of mean differences is also required for syntheses. To estimate this, it is necessary to specify the correlation between measurements at the 2 time-points. These were estimated from studies in the effectiveness evidence base. Where a study reports SD at baseline (&amp;sigma;<sub>b</sub>), SD at follow-up (&amp;sigma;<sub>f</sub>) and the SD of changes between baseline and follow-up (&amp;sigma;<sub>c</sub>), the correlation (C) between baseline and follow-up for that study may be estimated. Refer to Section 3.4.1 in the full version of the guideline for additional details and formulas for estimating correlation coefficients.</p>
+<p><strong>Estimating Person Time at Risk</strong></p>
+<p>When events are likely to occur to a person more than once (for example, hypoglycaemic events), it is preferable to use count or rate data. To calculate the rate of an event occurring, the total number of events and total person-time at risk are needed. However, papers did not commonly report person-time at risk.</p>
+<p>Where papers reported the rate of events occurring and the total number of events, the corresponding person-time at risk was estimated. If studies provided data on specific timings of dropouts for people who withdrew from the trial, these durations were used to estimate the person-time at risk. Where these data were not reported, a crude estimate of person-time at risk for each arm in a trial was obtained from the number of participants (<em>N</em>), the duration of the trial (<em>D</em>) and the number of dropouts in the trial arm (<em>y</em>) using the formula <em>ND</em>&amp;minus;0.5<em>Dy</em>.</p>
+<p>The accuracy of this crude estimation of person time at risk was tested by comparing values obtained using the equation above with values obtained using reported rates and total number of events. Although there were some differences in the values of person-time at risk, there was minimal impact on the overall rate of events.</p>
+<p><strong>Approach to Missing Data</strong></p>
+<p>Many of the included trials that used intention-to-treat (ITT) analyses used the last observation carried forward (LOCF) imputation, which is considered to overestimate treatment effects. Unfortunately, it is difficult to adequately deal with this data for continuous outcomes without individual patient data reported for each study.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Crossover Trials</span></strong></p>
+<p>The incorporation of data from randomised controlled trials (RCTs) of parallel and crossover design in single quantitative syntheses is a subject of methodological debate. The following approaches were considered:</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>The optimal method is to include data from crossover studies in a way that exploits the increased precision the crossover design provides. This is straightforward where within-patient differences from a paired analysis are reported by authors; alternatively, methods are available that can impute these data if the correlation between treatment periods is known (or can be calculated). </li>
+    <li>Another method sometimes used is to restrict attention to the first period of randomised treatment in each crossover trial only. In this way, a parallel trial of half the size is derived. This approach is suboptimal, as it discards data from the remainder of the trial, and relies on data being reported in a way that facilitates the extraction of data from the initial period only. </li>
+    <li>Another option is to exclude all crossover studies from consideration. </li>
+    <li>Finally, it is possible to ignore the crossover design of the trials, and analyse them as if they had a parallel design. This method is not generally recommended, as it ignores within-patient correlations and therefore discards the design advantages of crossover trials. However, this means that the approach is conservative, as it results in the trials having less weight in syntheses than they would have if paired data were used (or imputed). </li>
+</ol>
+<p>The issue of washout period was discussed with the GDG and it was agreed that a minimum of 4 to 6 weeks would be adequate to minimise the influence of existing therapies. Therefore, the following decisions were taken relating to which data from crossover trials were extracted:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>If the trial reported analysis that is considered appropriate for crossover designs and a washout period of 4 to 6 weeks, then the end of treatment data were extracted. </li>
+    <li>If the trial reported analysis that is considered appropriate for crossover designs but a washout period of less than 4 weeks, then data from the first treatment period only were extracted. </li>
+    <li>If the trial did not report analysis that is considered appropriate for crossover designs, then data from the first treatment period only were extracted. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Evidence Synthesis</span></strong></p>
+<p><strong>Meta-analyses</strong></p>
+<p>Where possible, meta-analyses were conducted to combine the results of studies for each outcome. For continuous outcomes, where change from baseline data were reported in the trials and were accompanied by a measure of spread (for example standard deviation), these were extracted and used in the meta-analysis. Where measures of spread for change from baseline values were not reported, the corresponding values at study end were used and were combined with change from baseline values to produce summary estimates of effect. These studies were assessed to ensure that baseline values were balanced across the treatment groups; if there were differences at baseline these studies were not included in any meta-analysis and were reported separately.</p>
+<p><strong>Network Meta-analyses</strong></p>
+<p>Network meta-analyses (NMAs) were conducted to simultaneously compare multiple treatments in a single meta-analysis, preserving the randomisation of the included trials in the reviews. This allows all evidence to be combined in a single internally consistent model.</p>
+<p>An extensive series of NMAs was undertaken to synthesise evidence on pharmacological treatments to control blood glucose. The GDG's preferred approach to identifying and synthesising relevant evidence for these analyses relied on several critical assumptions that are discussed in Section 8.4.1 of the full version of the guideline.</p>
+<p>Hierarchical Bayesian NMA was performed using the software WinBUGS version 1.4.3. The models were based on the approach and code provided in the NICE Decision Support Unit's Technical Support Documents on evidence synthesis, particularly Technical Support Document 2 ('A generalised linear modelling framework for pairwise and network meta-analysis of randomised controlled trials'; see <a href=&quot;http://www.nicedsu.org.uk/&quot; title=&quot;NICE Decision Support Unit Web site&quot;>http://www.nicedsu.org.uk/</a>). Model code is provided in Appendix K.</p>
+<p>See additional details concerning the NMA in Sections 3.6.2 of the full version of the guideline.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Quality Assessment</span></strong></p>
+<p>Grading of Recommendations Assessment, Development and Evaluation (GRADE) was used to assess the quality of evidence for the selected outcomes as specified in 'The guidelines manual (2012)'.</p>
+<p><strong>GRADE for Pairwise Meta-analyses</strong></p>
+<p>The quality of the evidence base was downgraded for the reasons outlined in Table 1 of Section 3.7 of the full version of the guideline, including risk of bias, inconsistency, indirectness, imprecision, and other considerations.</p>
+<p><strong>Modified GRADE for Network Meta-analyses</strong></p>
+<p>The use of GRADE to assess the quality of studies addressing a particular review question for pairwise comparisons of interventions is relatively established. However, the use of GRADE to assess the quality of evidence across a NMA is still a developing methodology. While most criteria for pairwise meta-analyses still apply, it is important to adapt some of the criteria to take into consideration additional factors, such as how each 'link' or pairwise comparison within the network applies to the others. The rationale for downgrading quality of evidence in NMA is outline in Table 2 of Section 3.7 in the full version of the guideline.</p>
+<p><strong>Modified GRADE for Prognostic Evidence</strong></p>
+<p>GRADE has not been developed for use with prognostic studies; therefore a modified approach was applied using the framework provided for GRADE in diagnostic studies. This assessment was used for evidence in the review question on optimal target values (see Section 8.1 in the full version of the guideline).</p>
+<p>Cohort studies within the non-modified GRADE approach start at the low-quality level because of accepted inherent study design limitations. Within a modified approach it is acceptable to initially indicate a high-quality level to this study type and to assess the quality of evidence from this point. The same criteria (risk of bias, inconsistency, imprecision and indirectness) were used to downgrade the quality of evidence. Quality ratings were downgraded further for risk of bias if there was evidence of selection bias. Indirectness was assessed by examining any important differences in population, prognostic factor or outcome of the included evidence compared with those for whom the recommendation is intended. Imprecision was assessed by examining the sample size or the 95% confidence intervals around the estimate of effect. GRADE provides a guide when assessing imprecision in intervention questions (that is, where the total sample size is less than 400, the event rate is less than 300, or the 95% confidence intervals cross the thresholds for appreciable benefit or harm or the minimal important difference). The evidence was downgraded for imprecision where the 95% confidence intervals were wide or the sample size was less than 400.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Institute for Health and Care Excellence (NICE) Internal Clinical Guidelines Programme. See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance and related appendices.</p>
+<p>This guideline update [2015] was developed in accordance with the process and methods outlined in 'The guidelines manual (2012)' (see the &quot;Availability of Companion Documents&quot; field), which are different to those used to develop clinical guideline CG66 [2008] and CG87 [2009]. Chapters 7, 8, and 9.3 in the full version of the guideline have been updated in 2015 and systematic reviews for each clinical question followed the review protocols (see Appendix C) agreed by the Guideline Development Group (GDG). Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology was used and/or adapted for appraising the quality of the evidence, and the Linking Evidence to Recommendations (LETR) framework was adopted to transparently document the GDG's decision-making process. In instances where the guidelines manual does not provide advice, additional methods were used and are described in detail.</p>
+<p>There is more information about how NICE clinical guidelines are developed on the NICE Web site. A booklet, '<a href=&quot;http://publications.nice.org.uk/how-nice-clinical-guidelines-are-developed-an-overview-for-stakeholders-the-public-and-the-nhs-pmg6f/nice-clinical-guidelines&quot; title=&quot;NICE Web site&quot;>How NICE clinical guidelines are developed: an overview for stakeholders, the public and the NHS</a>' is available.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><span style=&quot;text-decoration: underline;&quot;><strong>Strength of Recommendations</strong></span></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most people would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><strong>Interventions That Must (or Must Not) Be Used</strong></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally 'must' (or 'must not') is used if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><strong>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation</strong></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of people, an intervention will do more good than harm, and be cost effective. The GDG uses similar forms of words (for example, 'Do not offer&amp;hellip;') when they are confident that an intervention will not be of benefit for most people.</p>
+<p><strong>Interventions That Could Be Used</strong></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most people, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the person's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the person.</p>
+<p><strong>Recommendation Wording in Guideline Updates</strong></p>
+<p>The National Institute for Health and Care Excellence (NICE) began using this approach to denote the strength of recommendations in guidelines that started development after publication of the 2009 version of 'The guidelines manual' (January 2009). This does not apply to any recommendations ending <strong>[2009]</strong>. In particular, for recommendations labelled<strong> [2009]</strong>, the word 'consider' may not necessarily be used to denote the strength of the recommendation.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Refer to the health economic evidence statements in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for a discussion of published economic evidence for each of the guideline review questions Appendix F (see the &quot;Availability of Companion Documents&quot; field) contains the full health economics report. This appendix sets out the original health economic evaluation undertaken to assess the cost-effectiveness of pharmacological blood glucose-lowering therapies to control blood glucose levels in people with type 2 diabetes. It was developed by the Internal Clinical Guidelines team at the National Institute for Health and Care Excellence (NICE).</p>
+<p>The health economic analyses address 1 main review question from the guideline scope that is split into 3 sub-questions, based on question prioritisation by the Guideline Development Group (GDG). The main question (question 1) was 'which pharmacological blood glucose-lowering therapies should be used to control blood glucose levels in people with type 2 diabetes?' The 3 sub-questions address different stages of disease progression.</p>
+<p>After undertaking the systematic literature review, the absence of directly applicable cost-utility analyses with only minor limitations covering all the comparators under consideration for each sub-question for this guideline confirmed the GDG's view that an original economic analysis should be undertaken.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline was validated through two consultations.</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>The first draft of the guideline (the full guideline and National Institute for Health and Care Excellence [NICE] guideline) were consulted with stakeholders and comments were considered by the Guideline Development Group (GDG). </li>
+    <li>The final consultation draft of the full guideline, the NICE guideline and the Information for the Public were submitted to stakeholders for final comments. </li>
+</ol>
+<p>The final draft was submitted to the Guideline Review Panel for review prior to publication.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of evidence supporting the recommendations is not specifically stated.</p>
+<p>Refer to the &quot;Evidence to recommendations&quot; sections in the full version of the guideline for detailed discussion of the evidence supporting each recommendation.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Regular monitoring of blood glucose levels can help people with diabetes to manage their risk of developing complications. The current National Institute for Health and Care Excellence (NICE) recommended target for blood glucose control in people with type 2 diabetes is glycated haemoglobin (HbA1c) of 6.5% (48 mmol/mol is now used in clinical practice). However, specific targets may be individualised to meet people's needs, taking into consideration their risk of hypoglycaemia, cardiovascular risk and other comorbidities. Good management of blood pressure (including the use of angiotensin-converting enzyme [ACE] inhibitors, calcium-channel blockers and diuretics) and the management of blood lipid levels (including the use of statins and fibrates) can help to prevent or delay the onset of microvascular or macrovascular complications.</p>
+<p>See the &quot;Trade-off between benefits and harms&quot; sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for benefits of specific recommendations.</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Adverse effects of drug therapy, including hypoglycaemia with glucose-lowering therapy (see sections on adverse effects of specific drugs in the full version of the guideline) </li>
+    <li>There is a need to emphasise caution over the use of some drug classes in the increasing numbers of women with type 2 diabetes who might become pregnant. The Guideline Development Group (GDG) felt comfortable that the decision to use, or not use such drugs should be one of informed agreement between each woman and their professional advisor. </li>
+</ul>
+<p>See the &quot;Trade-off between benefits and harms&quot; sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for harms of specific recommendations.</p>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Metformin is not recommended for individuals with an estimated glomerular filtration rate (eGFR) of less than 30 ml/minute/1.73 m<sup>2</sup>. </li>
+    <li>Domperidone is associated with a small increased risk of serious cardiac side effects. Domperidone is now contraindicated in certain groups in whom the risk of cardiac effects is higher; its marketing authorisations have also been restricted to its use in the relief of nausea and vomiting only, at the lowest effective dose and for the shortest possible time (usually not more than 1 week). </li>
+    <li>Pioglitazone is not recommended for people with active bladder cancer, a history of bladder cancer or uninvestigated haematuria, or for people with heart failure or a risk of osteoporosis. </li>
+    <li>Phosphodiesterase-5 (PDE-5) inhibitors are specifically contraindicated in individuals taking nitrates (for example, for ischaemic heart disease). </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The National Institute for Health and Care Excellence (NICE) produces guidance, standards and information on commissioning and providing high-quality healthcare, social care, and public health services. NICE has agreements to provide certain NICE services to Wales, Scotland and Northern Ireland. Decisions on how NICE guidance and other products apply in those countries are made by ministers in the Welsh government, Scottish government, and Northern Ireland Executive. NICE guidance or other products may include references to organisations or people responsible for commissioning or providing care that may be relevant only to England. </li>
+    <li>This guidance represents the view of NICE, which was arrived at after careful consideration of the evidence available. Healthcare professionals are expected to take it fully into account when exercising their clinical judgement. However, the guidance does not override the individual responsibility of healthcare professionals to make decisions appropriate to the circumstances of the individual patient, in consultation with the patient and/or guardian or carer, and informed by the summaries of product characteristics of any drugs. </li>
+    <li>Implementation of this guidance is the responsibility of local commissioners and/or providers. Commissioners and providers are reminded that it is their responsibility to implement the guidance, in their local context, in light of their duties to have due regard to the need to eliminate unlawful discrimination, advance equality of opportunity and foster good relations. Nothing in this guidance should be interpreted in a way that would be inconsistent with compliance with those duties. </li>
+    <li>For all recommendations, NICE expects that there is discussion with the patient about the risks and benefits of the interventions, and their values and preferences. This discussion aims to help them to reach a fully informed decision (see also &quot;Patient-centred care&quot; in the full version of the guideline [see the &quot;Availability of Companion Documents&quot; field]). </li>
+    <li>The guideline will assume that prescribers will use a medicine's summary of product characteristics to inform decisions made with individual patients. </li>
+    <li>This guideline recommends some medicines for indications for which they do not have a UK marketing authorisation at the date of publication, if there is good evidence to support that use. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. The patient (or those with authority to give consent on their behalf) should provide informed consent, which should be documented. See the General Medical Council's Prescribing guidance: prescribing unlicensed medicines for further information. Where recommendations have been made for the use of medicines outside their licensed indications ('off-label use'), these medicines are marked with a footnote in the recommendations. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Implementation tools and resources to help put the guideline into practice are available on the <a href=&quot;http://www.nice.org.uk/guidance/ng28/resources&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a> (see also the &quot;Availability of Companion Documents&quot; field).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Key Priorities for Implementation</span></strong></p>
+<p>The following recommendations have been identified as priorities for implementation.</p>
+<p><strong>Patient Education</strong></p>
+<p>Offer structured education to adults with type 2 diabetes and/or their family members or carers (as appropriate) at and around the time of diagnosis, with annual reinforcement and review. Explain to people and their carers that structured education is an integral part of diabetes care. <strong>[2009]</strong></p>
+<p>Ensure that any structured education programme for adults with type 2 diabetes includes the following components:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>It is evidence-based, and suits the needs of the person. </li>
+    <li>It has specific aims and learning objectives, and supports the person and their family members and carers in developing attitudes, beliefs, knowledge and skills to self-manage diabetes. </li>
+    <li>It has a structured curriculum that is theory-driven, evidence-based and resource-effective, has supporting materials, and is written down. </li>
+    <li>It is delivered by trained educators who have an understanding of educational theory appropriate to the age and needs of the person, and who are trained and competent to deliver the principles and content of the programme. </li>
+    <li>It is quality assured, and reviewed by trained, competent, independent assessors who measure it against criteria that ensure consistency. </li>
+    <li>The outcomes are audited regularly. <strong>[2015]</strong> </li>
+</ul>
+<p><strong>Dietary Advice</strong></p>
+<p>Integrate dietary advice with a personalised diabetes management plan, including other aspects of lifestyle modification, such as increasing physical activity and losing weight. <strong>[2009]</strong></p>
+<p><strong>Blood Pressure Management</strong></p>
+<p>Add medications if lifestyle advice does not reduce blood pressure to below 140/80 mmHg (below 130/80 mmHg if there is kidney, eye or cerebrovascular damage). <strong>[2009]</strong></p>
+<p>Monitor blood pressure every 1 to 2 months, and intensify therapy if the person is already on antihypertensive drug treatment, until the blood pressure is consistently below 140/80 mmHg (below 130/80 mmHg if there is kidney, eye or cerebrovascular damage). <strong>[2009]</strong></p>
+<p><strong>Blood Glucose Management</strong></p>
+<p>Involve adults with type 2 diabetes in decisions about their individual glycated haemoglobin (HbA1c) target. Encourage them to achieve the target and maintain it unless any resulting adverse effects (including hypoglycaemia), or their efforts to achieve their target, impair their quality of life. <strong>[new 2015]</strong></p>
+<p>In adults with type 2 diabetes, if HbA1c levels are not adequately controlled by a single drug and rise to 58 mmol/mol (7.5%) or higher:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Reinforce advice about diet, lifestyle and adherence to drug treatment <strong>and</strong> </li>
+    <li>Support the person to aim for an HbA1c level of 53 mmol/mol (7.0%) <strong>and</strong> </li>
+    <li>Intensify drug treatment <strong>[new 2015]</strong> </li>
+</ul>
+<p>Do not routinely offer self-monitoring of blood glucose levels for adults with type 2 diabetes unless:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The person is on insulin <strong>or</strong> </li>
+    <li>There is evidence of hypoglycaemic episodes <strong>or</strong> </li>
+    <li>The person is on oral medication that may increase their risk of hypoglycaemia while driving or operating machinery <strong>or</strong> </li>
+    <li>The person is pregnant, or is planning to become pregnant. For more information, see the National Guideline Clearinghouse (NGC) summary of the NICE guideline <a href=&quot;/content.aspx?id=49120&quot; title=&quot;Guideline #10691&quot; target=&quot;_blank&quot;>Diabetes in pregnancy: management of diabetes and its complications from preconception to the postnatal period</a>. <strong>[new 2015]</strong> </li>
+</ul>
+<p><strong>Drug Treatment</strong></p>
+<p>Offer standard-release metformin as the initial drug treatment for adults with type 2 diabetes. <strong>[new 2015]</strong></p>
+<p>In adults with type 2 diabetes, if metformin is contraindicated or not tolerated, consider initial drug treatment<sup>1</sup> with:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A dipeptidyl peptidase-4 (DPP-4) inhibitor <strong>or</strong> </li>
+    <li>Pioglitazone<sup>2</sup> <strong>or</strong> </li>
+    <li>A sulfonylurea <strong>[new 2015]</strong> </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Footnotes</strong></span></p>
+<p class=&quot;Note&quot;><sup>1</sup>Be aware that, if metformin is contraindicated or not tolerated, repaglinide is both clinically effective and cost effective in adults with type 2 diabetes. However, discuss with any person for whom repaglinide is being considered, that there is no licensed non-metformin-based combination containing repaglinide that can be offered at first intensification.</p>
+<p class=&quot;Note&quot;><sup>2</sup>When prescribing pioglitazone, exercise particular caution if the person is at high risk of the adverse effects of the drug. Pioglitazone is associated with an increased risk of heart failure, bladder cancer and bone fracture. Known risk factors for these conditions, including increased age, should be carefully evaluated before treatment: see the manufacturers' summaries of product characteristics for details. <a href=&quot;https://www.gov.uk/drug-safety-update/pioglitazone-risk-of-bladder-cancer&quot; title=&quot;UK Government Web site&quot;>Medicines and Healthcare products Regulatory Agency (MHRA) guidance (2011)</a> advises that 'prescribers should review the safety and efficacy of pioglitazone in individuals after 3 to 6 months of treatment to ensure that only patients who are deriving benefit continue to be treated'.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Institute for Health and Care Excellence (NICE). Type 2 diabetes in adults: management. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Dec 2. 57 p.&amp;nbsp;(NICE guideline; no. 28).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2015 Dec 2"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="National Institute for Health and Care Excellence (NICE) - National Government Agency [Non-U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>National Institute for Health and Care Excellence (NICE)</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Guideline Development Group (GDG)</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Guideline Development Group (GDG) Members</em>: Damien Longson (<em>Guideline Chair</em>), Consultant Liaison Psychiatrist, Manchester Mental Health and Social Care Trust; Amanda Adler, Consultant Diabetologist, Addenbrooke's Hospital, Cambridge University Hospitals NHS Foundation Trust; Anne Bentley, Medicines Optimisation Lead Pharmacist, NHS East Lancashire Primary Care Trust; Christine Bundy (<em>co-opted expert member</em>), Senior Lecturer in Behavioural Medicine, Institute for Inflammation and Repair, University of Manchester; Bernard Clarke (<em>co-opted expert member</em>), Honorary Clinical Professor of Cardiology, Manchester Academic Health Science Centre, University of Manchester; Maria Cowell, Community Diabetes Specialist Nurse, Cambridge; Indranil Dasgrupta (<em>co-opted expert member</em>), Consultant Nephrologist, Heart of England NHS Foundation Trust, Birmingham; David Ronald Edwards, Principal in General Practice, Whitehouse Surgery, Oxfordshire; Andrew Farmer, Professor in General Practice, Department of Primary Care Health Sciences, University of Oxford; Natasha Jacques, Principal Pharmacist in Diabetes, Heart of England NHS Foundation Trust, Birmingham; Yvonne Johns, Patient/carer member; Ian Lewin, Consultant Diabetologist, North Devon District Hospital, Northern Devon Healthcare NHS Trust; Natasha Marsland, Patient/carer member, Diabetes UK; Prunella Neale, Practice Nurse, Herschel Medical Centre, Berkshire; Jonathan Roddick, Principal General Practitioner, Woodseats Medical Centre, Sheffield; Mohammed Roshan (<em>August 2012&amp;ndash;October 2013</em>), Principal in General Practice, Leicester City and County; Sailesh Sankar, Consultant Diabetologist, University Hospitals Coventry and Warwickshire NHS Trust</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Members of the Guideline Development Group (GDG) declared any interests. See Section 4.4 in the original guideline document. Also see Appendix A in the full guideline appendices (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: National Collaborating Centre for Chronic Conditions. Type 2 diabetes. The management of type 2 diabetes. London (UK): National Institute for Health and Clinical Excellence (NICE); 2009 May. 49 p. (Clinical guideline; no. 87).</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng28&quot; title=&quot;NICE Web site&quot;>National Institute for Care Excellence (NICE) Web site</a>. Also available in ePub or eBook formats from the <a href=&quot;http://www.nice.org.uk/guidance/ng28&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Type 2 diabetes in adults: management. Full guideline. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Dec. 349 p. (NICE guideline; no. 28). Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng28/evidence/full-guideline-2185320349&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. </li>
+    <li>Type 2 diabetes in adults: management. Appendices. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Dec. (NICE guideline; no. 28). Available from the<a href=&quot;http://www.nice.org.uk/guidance/ng28/evidence&quot; title=&quot;NICE Web site&quot;> NICE Web site</a>. </li>
+    <li>Type 2 diabetes in adults: management. Baseline assessment tool. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Dec 2. (NICE guideline; no. 28). Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng28/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Type 2 diabetes in adults: management. Resource impact report. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Dec 2. 4 p. (NICE guideline; no. 28). Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng28/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Type 2 diabetes in adults: management. Patient decision aid. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Dec 2. (NICE guideline; no. 28). Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng28/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>The guidelines manual 2012. London (UK): National Institute for Health and Care Excellence (NICE); 2012 Nov. Available from the <a href=&quot;http://www.nice.org.uk/article/pmg6/chapter/1%20introduction&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Type 2 diabetes in adults: management. Information for the public. London (UK): National Institute for Health and Care Excellence; 2015 Dec 2. 18 p. (NICE guideline; no. 28). Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng28/ifp/chapter/about-this-information&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. Also available in ePub or eBook formats from the <a href=&quot;http://www.nice.org.uk/guidance/ng28/ifp/chapter/about-this-information&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI on July 12, 2004. The information was verified by the guideline developer on November 26, 2004. This summary was updated by ECRI Institute on January 25, 2010. This summary was updated by ECRI Institute on May 17, 2010 following the U.S. Food and Drug Administration advisory on Plavix (clopidogrel). This summary was updated by ECRI Institute on June 27, 2011 following the U.S. Food and Drug Administration advisory on Zocor (simvastatin). This summary was updated by ECRI Institute on November 22, 2011 following the U.S. Food and Drug Administration (FDA) advisory on Trilipix (fenofibric acid). This summary was updated by ECRI Institute on April 13, 2012 following the U.S. Food and Drug Administration advisories on Statin Drugs and Statins and HIV or Hepatitis C drugs. This summary was updated by ECRI Institute on April 4, 2014 following the U.S. Food and Drug Administration (FDA) advisory on Rosiglitazone-containing Diabetes Medicines. This summary was updated by ECRI Institute on February 11, 2016. This summary was updated by ECRI Institute on April 12, 2016 following the U.S. Food and Drug Administration (FDA) advisory on Diabetes Medications Containing Saxagliptin and Alogliptin. This summary was updated by ECRI Institute on April 15, 2016 following the U.S. Food and Drug Administration advisory on Metformin-containing Drugs. This summary was updated by ECRI Institute on July 4, 2016 following the U.S. Food and Drug Administration advisory on Canagliflozin (Invokana, Invokamet) and Dapagliflozin (Farxiga, Xigduo XR). This summary was updated by ECRI Institute on December 14, 2016 following the U.S. Food and Drug Administration advisory on Pioglitazone-containing Medicines. This summary was updated by ECRI Institute on July 11, 2017 following the U.S. Food and Drug Administration advisory on Canagliflozin (Invokana, Invokamet).</p>
+<p>The National Institute for Health and Care Excellence (NICE) has granted the National Guideline Clearinghouse (NGC) permission to include summaries of their clinical guidelines with the intention of disseminating and facilitating the implementation of that guidance. NICE has not yet verified this content to confirm that it accurately reflects that original NICE guidance and therefore no guarantees are given by NICE in this regard. All NICE clinical guidelines are prepared in relation to the National Health Service in England and Wales. NICE has not been involved in the development or adaptation of NICE guidance for use in any other country. The full versions of all NICE guidance can be found at <a href=&quot;http://www.nice.org.uk&quot; title=&quot;NICE Web site&quot;>www.nice.org.uk</a>.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 21:46:16 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:41:13 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 51.799 (3)
+  esindex: 0.011
+  captures_list: 71.614
+  CDXLines.iter: 13.966 (3)
+  PetaboxLoader3.datanode: 49.408 (4)
+  exclusion.robots: 0.496
+  exclusion.robots.policy: 0.442
+  RedisCDXSource: 0.724
+  PetaboxLoader3.resolve: 62.736
+  load_resource: 95.541
+-->

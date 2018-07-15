@@ -1,0 +1,872 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app18.us.archive.org';v.server_ms=359;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10906?contentType=xml', '20180713050304')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713050304/https://www.guideline.gov/summaries/downloadcontent/ngc-10906?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713050304/https://www.guideline.gov/summaries/downloadcontent/ngc-10906?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10906?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713050304" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610035917/https://www.guideline.gov/summaries/downloadcontent/ngc-10906?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 05:03:04 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610035917/https://www.guideline.gov/summaries/downloadcontent/ngc-10906?contentType=xml" title="03:59:17 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 05:03:04 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930224723/https://www.guideline.gov/summaries/downloadcontent/ngc-10906?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 05:03:04 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713050304*/https://www.guideline.gov/summaries/downloadcontent/ngc-10906?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10906?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Responding to intimate partner violence and sexual violence against women: WHO clinical and policy guidelines.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>World Health Organization (WHO). Responding to intimate partner violence and sexual violence against women: WHO clinical and policy guidelines. Geneva (Switzerland): World Health Organization (WHO); 2013. 56 p.  [142 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The definitions for the strength of the recommendations (<strong>Strong</strong>, <strong>Conditional</strong>) and the quality of evidence (<strong>High</strong>, <strong>Moderate</strong>, <strong>Low</strong>, <strong>Very low</strong>) are provided at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Women-Centred Care</span></strong></p>
+<p><strong>Recommendation 1</strong>. Women who disclose any form of violence by an intimate partner (or other family member) or sexual assault by any perpetrator should be offered immediate support (Note: This recommendation is adapted from <em>Psychological first aid</em> World Health Organization [WHO], 2011). Health-care providers should, as a minimum, offer first-line support when women disclose violence. First-line support includes:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Being non-judgemental and supportive and validating what the woman is saying </li>
+    <li>Providing practical care and support that responds to her concerns, but does not intrude </li>
+    <li>Asking about her history of violence, listening carefully, but not pressuring her to talk (care should be taken when discussing sensitive topics when interpreters are involved) </li>
+    <li>Helping her access information about resources, including legal and other services that she might think helpful </li>
+    <li>Assisting her to increase safety for herself and her children, where needed </li>
+    <li>Providing or mobilizing social support </li>
+</ul>
+<p>Providers should ensure:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>That the consultation is conducted in private </li>
+    <li>Confidentiality, while informing women of the limits of confidentiality (e.g., when there is mandatory reporting) </li>
+</ul>
+<p>If health-care providers are unable to provide first-line support, they should ensure that someone else (within their health-care setting or another that is easily accessible) is immediately available to do so.</p>
+<p><em>Quality of evidence</em>: Indirect evidence was identified.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Remarks</strong></p>
+<ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+    <li>Any intervention must be guided by the principle to &quot;do no harm&quot;, ensuring the balance between benefits and harms, and prioritizing the safety of women and their children as the uppermost concern. </li>
+    <li>The privacy and confidentiality of the consultation, including discussing relevant documentation in the medical record and the limits of confidentiality with women, should be a priority. Therefore, good communication skills are essential. </li>
+    <li>Health-care providers should discuss options and support women in their decision-making. The relationship should be supportive and collaborative, while respecting women's autonomy. Health-care providers should work with the women, presenting options and possibilities, as well as providing information, with the aim to develop an effective plan and set realistic goals, but the woman should always be the one to make the decisions. </li>
+    <li>In some settings, such as emergency care departments, as much as possible should be done during first contact, in case the woman does not return. Follow-up support, care, and the negotiation of safe and accessible means for follow-up consultation should be offered. </li>
+    <li>Health-care providers need to have an understanding of the gender-based nature of violence against women, and of the human rights dimension of the problem. </li>
+    <li>Women who have physical or mental disabilities are at an increased risk of intimate partner and sexual violence. Health-care providers should pay particular attention to their multiple needs. Women who are pregnant may also have special requirements (see recommendation 8 below). </li>
+</ol>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Identification and Care for Survivors of Intimate Partner Violence</strong></span></p>
+<p><strong>Identification of Intimate Partner Violence</strong></p>
+<p><strong>Recommendation 2</strong>. &quot;Universal screening&quot; or &quot;routine enquiry&quot; (i.e., asking women in all health-care encounters) should not be implemented.</p>
+<p><em>Quality of evidence</em>: Low&amp;ndash;moderate.</p>
+<p><em>Strength of recommendation</em>: Conditional.</p>
+<p><strong>Remarks</strong></p>
+<ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+    <li>There is strong evidence of an association between intimate partner violence and mental health disorders among women. Women with mental health symptoms or disorders (depression, anxiety, post-traumatic stress disorder [PTSD], self-harm/suicide attempts) could be asked about intimate partner violence as part of good clinical practice, particularly as this may affect their treatment and care. </li>
+    <li>Intimate partner violence may affect disclosure of human immunodeficiency virus (HIV) status or jeopardize the safety of women who disclose, as well as their ability to implement risk-reduction strategies. Asking women about intimate partner violence could therefore be considered in the context of HIV testing and counselling, although further research to evaluate this is needed. </li>
+    <li>Antenatal care is an opportunity to enquire routinely about intimate partner violence, because of the dual vulnerability of pregnancy. There is some limited evidence from high-income settings to suggest that advocacy and empowerment interventions (e.g., multiple sessions of structured counselling) following identification through routine enquiry in antenatal care, may result in improved health outcomes for women, and there is also the possibility for follow-up during antenatal care. However, certain things need to be in place before this can be done (see &quot;Minimum Requirements for Asking about Partner Violence&quot;). </li>
+</ol>
+<p><strong>Recommendation 3</strong>. Health-care providers should ask about exposure to intimate partner violence when assessing conditions that may be caused or complicated by intimate partner violence (see Box 1, <em>Examples of clinical conditions associated with intimate partner violence</em>, in the original guideline document), in order to improve diagnosis/identification and subsequent care (see recommendation 30 below).</p>
+<p><em>Quality of evidence</em>: Indirect evidence.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Remarks</strong></p>
+<ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+    <li>A minimum condition for health-care providers to ask women about violence is that it is safe to do so (i.e., the partner is not present); they must be trained on the correct way to ask and on how to respond to women who disclose violence (see &quot;Minimum Requirements for Asking about Partner Violence&quot; above). This should at least include first-line support for intimate partner violence (see recommendation 1). </li>
+    <li>Providers need to be aware and knowledgeable about resources available to refer women to when asking about intimate partner violence. </li>
+</ol>
+<p><em>Minimum Requirements for Asking about Partner Violence</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A protocol/standard operating procedure </li>
+    <li>Training on how to ask, minimum response or beyond </li>
+    <li>Private setting </li>
+    <li>Confidentiality ensured </li>
+    <li>System for referral in place </li>
+</ul>
+<p><strong>Recommendation 4</strong>. Written information on intimate partner violence should be available in health-care settings in the form of posters, and pamphlets or leaflets made available in private areas such as women's washrooms (with appropriate warnings about taking them home if an abusive partner is there).</p>
+<p><em>Quality of evidence</em>: No relevant evidence was identified.</p>
+<p><em>Strength of recommendation</em>: Conditional.</p>
+<p><strong>Care for Survivors of Intimate Partner Violence</strong></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Psychological/Mental Health Interventions</span></p>
+<p><strong>Recommendation 5</strong>. Women with a pre-existing diagnosed or partner violence-related mental disorder (such as depression, or alcohol use disorder) who are experiencing intimate partner violence should receive mental health care for the disorder in accordance with WHO Mental health Gap Action Programme (mhGAP) intervention guidelines (WHO, 2010), delivered by health-care professionals with a good understanding of violence against women.</p>
+<p><em>Quality of evidence</em>: Indirect evidence; variable (varies with intervention, see <a href=&quot;http://www.who.int/mental_health/mhgap/evidence/en/&quot; title=&quot;WHO Web site&quot;>http://www.who.int/mental_health/mhgap/evidence/en</a>).</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p>See also Box 2 in the original guideline document for abridged recommendations for depression and other significant emotional or medically unexplained complaints.</p>
+<p><strong>Remark</strong></p>
+<p>Use of psychotropic medications in women who are either pregnant or breastfeeding requires specialist knowledge and is best provided in consultation with a specialist where available. For details on management of mental health issues in these two groups please see the mhGAP guidelines (WHO, 2010).</p>
+<p><strong>Recommendation 6</strong>. Cognitive behavioural therapy () or eye movement desensitization and reprocessing (EMDR) interventions, delivered by health-care professionals with a good understanding of violence against women, are recommended for women who are no longer experiencing violence but are suffering from PTSD.</p>
+<p><em>Quality of evidence</em>: Low&amp;ndash;moderate.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><span style=&quot;text-decoration: underline;&quot;>Advocacy/Empowerment Interventions</span></p>
+<p><strong>Recommendation 7</strong>. Women who have spent at least one night in a shelter, refuge, or safe house should be offered a structured programme of advocacy, support, and/or empowerment.</p>
+<p><em>Quality of evidence</em>: Low.</p>
+<p><em>Strength of recommendation</em>: Conditional.</p>
+<p><strong>Remarks</strong></p>
+<ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+    <li>The extent to which this may apply to women leaving the household in situations where shelters do not exist is not clear. </li>
+    <li>This may be considered for women disclosing intimate partner violence to health-care providers, although the extent to which this may apply in circumstances outside of shelters is not clear and should be researched further. </li>
+    <li>In populations where the prevalence of intimate partner violence is high, priority should be given to women experiencing the most severe abuse. (The Guideline Development Group [GDG] did not agree whether this should extend to severe psychological abuse.) </li>
+    <li>Interventions should be delivered by trained health-care or social care providers or trained lay mentors, tailored to the woman's personal circumstances and designed to combine emotional support and empowerment with access to community resources. </li>
+</ol>
+<p><strong>Recommendation 8</strong>. Pregnant women who disclose intimate partner violence should be offered brief to medium-duration empowerment counselling (up to 12 sessions) and advocacy/support, including a safety component, offered by trained service providers where health systems can support this. The extent to which this may apply to settings outside of antenatal care, or its feasibility in low- or middle-income countries is uncertain.</p>
+<p><em>Quality of evidence</em>: Low.</p>
+<p><em>Strength of recommendation</em>: Conditional.</p>
+<p><strong>Remarks</strong></p>
+<ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+    <li>Information about exposure to violence should be recorded unless the woman declines, and this should always be conducted in a discreet manner (i.e., not with labels or noticeable markings that can be stigmatizing for women, especially when health-care professionals label them as &quot;battered&quot;). Women may not wish to have information recorded in their clinical history files, in the fear that their partner may find out. This concern will need to be balanced against the need to ensure adequate forensic evidence in circumstances where women decide to pursue a legal case. </li>
+    <li>A woman should be helped to develop a plan to improve her safety and that of her children, where relevant. </li>
+    <li>Attention should be paid to self-care for providers, including the potential for vicarious trauma. </li>
+</ol>
+<p><span style=&quot;text-decoration: underline;&quot;>Mother-Child Interventions</span></p>
+<p><strong>Recommendation 9</strong>. Where children are exposed to intimate partner violence, a psychotherapeutic intervention, including sessions where they are with, and sessions where they are without, their mother, should be offered, although the extent to which this would apply in low- and middle-income settings is unclear.</p>
+<p><em>Quality of evidence</em>: Moderate.</p>
+<p><em>Strength of recommendation</em>: Conditional.</p>
+<p><strong>Remarks</strong></p>
+<ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+    <li>The cost of intensive psychotherapeutic interventions focusing on the mother-child dyad makes it challenging to implement them in resource-poor settings. </li>
+    <li>The lack of providers trained to provide this type of interventions also poses challenges in resource-poor settings. </li>
+</ol>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Clinical Care for Survivors of Sexual Assault</strong></span></p>
+<p><strong>Interventions during the First 5 Days after the Assault</strong></p>
+<p><span style=&quot;text-decoration: underline;&quot;>First-Line Support</span></p>
+<p><strong>Recommendation 10</strong>. Offer first-line support to women survivors of sexual assault by any perpetrator (see also recommendation 1 above), which includes:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Providing practical care and support, which responds to her concerns, but does not intrude on her autonomy </li>
+    <li>Listening without pressuring her to respond or disclose information </li>
+    <li>Offering comfort and help to alleviate or reduce her anxiety </li>
+    <li>Offering information and helping her to connect to services and social supports </li>
+</ul>
+<p><em>Quality of evidence</em>: Indirect evidence was identified (WHO, 2011).</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Recommendation 11</strong>. Take a complete history, recording events to determine what interventions are appropriate, and conduct a complete physical examination (head-to-toe including genitalia) (WHO, 2003; WHO/Office of the United Nations High Commissioner for Refugees [UNHCR], 2004; WHO/UNHCR/United Nations Population Fund [UNFPA], 2009). The history should include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The time since assault and type of assault </li>
+    <li>Risk of pregnancy </li>
+    <li>Risk of HIV and other sexually transmitted infections (STIs) </li>
+    <li>Mental health status. </li>
+</ul>
+<p><em>Quality of evidence</em>: Indirect evidence was identified (WHO, 2003; WHO/UNHCR/UNFPA, 2009).</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><span style=&quot;text-decoration: underline;&quot;>Emergency Contraception</span></p>
+<p><strong>Recommendation 12</strong>. Offer emergency contraception to survivors of sexual assault presenting within 5 days of sexual assault, ideally as soon as possible after the exposure, to maximize effectiveness.</p>
+<p><em>Quality of evidence</em>: Moderate. </p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Remark</strong></p>
+<p>If used, emergency contraception should be initiated as soon as possible after the rape, as it is more effective if given within 3 days, although it can be given up to 5 days (120 hours).</p>
+<p><strong>Recommendation 13</strong>. Health-care providers should offer levonorgestrel, if available. A single dose of 1.5 mg is recommended, since it is as effective as two doses of 0.75 mg given 12&amp;ndash;24 hours apart.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>If levonorgestrel is <strong>NOT</strong> available, the combined oestrogen&amp;ndash;progestogen regimen may be offered, along with anti-emetics if available. </li>
+    <li>If oral emergency contraception is not available and it is feasible, copper-bearing intrauterine devices (IUDs) may be offered to women seeking on-going pregnancy prevention. Taking into account the risk of STIs, the IUD may be inserted up to 5 days after sexual assault for those who are medically eligible (see WHO <em>medical eligibility criteria</em>, 2010). </li>
+</ul>
+<p><em>Quality of evidence</em>: Moderate.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Remarks</strong></p>
+<ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+    <li>The GDG discussed some of the contraindications and side-effects of the drugs. Emergency contraceptive pills on the market are extremely safe and well tolerated and meet the criteria for over-the-counter provision. </li>
+    <li>Ulipristal acetate is a relatively new drug that appears to be as effective as, or more effective than, levonorgestrel. While the side-effect profile seems similar to that of levonorgestrel, it is not yet included in the WHO essential medicines list (WHO, 2011), although further evidence may change this. Levonorgestrel remains cheaper and is relatively widely available. </li>
+    <li>The higher risk of STIs following rape should be considered if using a copper-bearing IUD. IUDs are an effective method of emergency contraception and should be made available to women seeking emergency contraception. </li>
+    <li>A pregnancy test is not required, but if one was done and the result was positive, emergency contraception would not be necessary or effective. </li>
+</ol>
+<p><strong>Recommendation 14</strong>. If a woman presents after the time required for emergency contraception (5 days), emergency contraception fails, or the woman is pregnant as a result of rape, she should be offered safe abortion, in accordance with national law.</p>
+<p><em>Quality of evidence</em>: No relevant evidence was identified.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Remark</strong></p>
+<p>Where abortion is not permitted, other options such as adoption should be explored with the survivor.</p>
+<p><span style=&quot;text-decoration: underline;&quot;>HIV Post-Exposure Prophylaxis: Treatment and Adherence</span></p>
+<p><strong>Recommendation 15</strong>. Consider offering HIV post-exposure prophylaxis (PEP) for women presenting within 72 hours of a sexual assault. Use shared decision-making with the survivor to determine whether HIV PEP is appropriate (WHO/International Labour Organization [ILO], 2007).</p>
+<p><em>Quality of evidence</em>: Very low, based on indirect evidence (WHO/ILO, 2007).</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Remarks</strong></p>
+<ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+    <li>PEP should be initiated as soon as possible after the assault, ideally within a few hours and no later than 72 hours after the exposure. </li>
+    <li>In low-prevalence settings, policies on offering routine HIV PEP will need to consider the local context, resources and opportunity and other costs of offering it. </li>
+</ol>
+<p><strong>Recommendation 16</strong>. Discuss HIV risk to determine use of PEP with the survivor, including:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>HIV prevalence in the geographic area </li>
+    <li>Limitations of PEP </li>
+    <li>The HIV status and characteristics of the perpetrator if known </li>
+    <li>Assault characteristics, including the number of perpetrators </li>
+    <li>Side-effects of the antiretroviral drugs used in the PEP regimen </li>
+    <li>The likelihood of HIV transmission </li>
+</ul>
+<p><em>Quality of evidence</em>: Indirect evidence was identified (WHO/ILO, 2007).</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Recommendation 17</strong>. If HIV PEP is used:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Start the regimen as soon as possible and before 72 hours. </li>
+    <li>Provide HIV testing and counselling at the initial consultation. </li>
+    <li>Ensure patient follow-up at regular intervals. </li>
+    <li>Two-drug regimens (using a fixed-dose combination) are generally preferred over three-drug regimens, prioritizing drugs with fewer side effects. </li>
+    <li>The choice of drug and regimens for HIV PEP should follow national guidance. </li>
+</ul>
+<p><em>Quality of evidence</em>: Indirect evidence was identified (WHO/ILO, 2007).</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Remark</strong></p>
+<p>The choice of PEP drugs should be based on the country's first-line antiretroviral regimen for HIV.</p>
+<p><strong>Recommendation 18</strong>. Adherence counselling should be an important element in PEP provision.</p>
+<p><em>Quality of evidence</em>: Very low, based on indirect evidence.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Remark</strong></p>
+<p>Many female survivors of sexual assault provided with HIV PEP do not successfully complete the preventive regimen because HIV PEP results in physical side-effects such as nausea and vomiting, may trigger painful thoughts of the rape, and may be overtaken by other issues in the lives of survivors. Health-care providers should be aware that adherence is very difficult to attain and efforts should be made to ensure that it is maintained. As yet, no effective intervention to promote adherence has been identified.</p>
+<p><strong>General Remarks</strong></p>
+<ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+    <li>It is important to determine the circumstances of the rape and whether HIV PEP is appropriate. The Joint WHO/ILO guidelines on post-exposure prophylaxis to prevent HIV infection (WHO/ILO, 2007, p. 52) recommend the following eligibility criteria for HIV PEP post-sexual assault:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Rape (penetration) took place less than 72 hours ago </li>
+        <li>HIV status of perpetrator positive or unknown </li>
+        <li>Exposed individual not known to be HIV infected (need to offer HIV testing at time of consultation) </li>
+        <li>Defined risk of exposure, such as:
+        <ul style=&quot;list-style-type: disc;&quot;>
+            <li>Receptive vaginal or anal intercourse without a condom or with a condom that broke or slipped; or </li>
+            <li>Contact between the perpetrator's blood or ejaculation and mucous membrane or non-intact skin during the assault; or </li>
+            <li>Recipient of oral sex with ejaculation; or </li>
+            <li>The person who was sexually assaulted was drugged or otherwise unconscious at a time of the alleged assault and is uncertain about the nature of the potential exposure; or </li>
+            <li>The person was gang-raped </li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+    <li>HIV testing is recommended prior to giving PEP but should not preclude PEP being offered. However, people with HIV infection should not be given PEP and should be linked to care and provided with antiretroviral therapy. </li>
+    <li>Health policy-makers should consider whether to include routine offer of HIV PEP in post-rape care, based on local prevalence, ethical and resource considerations. </li>
+</ol>
+<p><span style=&quot;text-decoration: underline;&quot;>Post-exposure Prophylaxis for Sexually Transmitted Infections</span></p>
+<p><strong>Recommendation 19</strong>. Women survivors of sexual assault should be offered prophylaxis/presumptive treatment for:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Chlamydia </li>
+    <li>Gonorrhoea </li>
+    <li>Trichomonas </li>
+    <li>Syphilis, depending on the prevalence in the geographic area </li>
+</ul>
+<p>The choice of drug and regimens should follow national guidance.</p>
+<p><em>Quality of evidence</em>: Indirect evidence; low&amp;ndash;very low.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Recommendation 20</strong>. Hepatitis B vaccination without hepatitis B immune globulin should be offered as per national guidance.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Take blood for hepatitis B status prior to administering the first vaccine dose. </li>
+    <li>If immune, no further course of vaccination is required. </li>
+</ul>
+<p><em>Quality of evidence</em>: Indirect evidence; very low.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Remark</strong></p>
+<p>Presumptive treatment is preferable to testing for STIs, in order to avoid unnecessary delays. Therefore, the GDG does not recommend testing prior to treatment.</p>
+<p><strong>Psychological/Mental Health Interventions</strong></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Interventions during the First Days after the Assault</span></p>
+<p><strong>Recommendation 21</strong>. Continue to offer support and care described in recommendation 10.</p>
+<p><em>Quality of evidence</em>: Indirect evidence was identified (WHO, 2011).</p>
+<p><em>Strength of recommendation</em>: Strong. </p>
+<p><strong>Recommendation 22</strong>. Provide written information on coping strategies for dealing with severe stress (with appropriate warnings about taking printed material home if an abusive partner is there).</p>
+<p><em>Quality of evidence</em>: No relevant evidence was identified.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Recommendation 23</strong>. Psychological debriefing should not be used.</p>
+<p><em>Quality of evidence</em>: Very low&amp;ndash;low (WHO, 2011).</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><em>Interventions up to 3 Months Post-trauma</em></p>
+<p><strong>Recommendation 24</strong>. Continue to offer support and care described in recommendation 10.</p>
+<p><em>Quality of evidence</em>: Indirect evidence was identified (WHO, 2011).</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Recommendation 25</strong>. Unless the person is depressed, has alcohol or drug use problems, psychotic symptoms, is suicidal or self-harming or has difficulties functioning in day-to-day tasks, apply &quot;watchful waiting&quot; for 1 to 3 months after the event. Watchful waiting involves explaining to the woman that she is likely to improve over time and offering the option to come back for further support by making regular follow-up appointments.</p>
+<p><em>Quality of evidence</em>: Very low&amp;ndash;low (WHO, 2010).</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Recommendation 26</strong>. If the person is incapacitated by the post-rape symptoms (i.e., she cannot function on a day-to-day basis), arrange for CBT or EDMR by a health-care provider with a good understanding of sexual violence.</p>
+<p><em>Quality of evidence</em>: Low&amp;ndash;moderate.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Recommendation 27</strong>. If the person has any other mental health problems (symptoms of depression, alcohol or drug use problems, suicide or self-harm) provide care in accordance with the WHO mhGAP intervention guide (WHO, 2010).</p>
+<p><em>Quality of evidence</em>: Indirect evidence; variable (varies with the intervention, see <a href=&quot;http://www.who.int/mental_health/mhgap/evidence/en/&quot; title=&quot;WHO Web site&quot;>http://www.who.int/mental_health/mhgap/evidence/en/</a>).</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><span style=&quot;text-decoration: underline;&quot;>Interventions from 3 Months Post-trauma</span></p>
+<p><strong>Recommendation 28</strong>. Assess for mental health problems (symptoms of acute stress/PTSD, depression, alcohol and drug use problems, suicidality or self-harm) and treat depression, alcohol use disorder and other mental health disorders using the mhGAP intervention guide (WHO, 2010), which covers WHO evidence-based clinical protocols for mental health problems.</p>
+<p><em>Quality of evidence</em>: Indirect evidence; variable (varies with intervention, see <a href=&quot;http://www.who.int/mental_health/mhgap/evidence/en/&quot; title=&quot;WHO Web site&quot;>http://www.who.int/mental_health/mhgap/evidence/en</a>).</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Recommendation 29</strong>. If the person has been assessed as experiencing PTSD, arrange for PTSD treatment with CBT or EMDR.</p>
+<p><em>Quality of evidence</em>: Low&amp;ndash;moderate.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>General Remarks</strong></p>
+<ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+    <li>Consider the potential harms of psychotherapy (including CBT) when not administered properly to potentially vulnerable survivors. Informed consent and attention to safety is essential. A trained health-care provider with a good understanding of sexual violence should implement therapy. </li>
+    <li>Pre-existing mental health conditions should be considered when making an assessment and planning care and, where necessary, treatment or referral provided as per the WHO mhGAP intervention guide (WHO, 2010). Women with mental health and substance abuse problems may be at greater risk of rape than other women, so there is likely to be a disproportionate burden of pre-existing mental health and substance abuse problems among rape survivors. Similarly, pre-existing traumatic events (e.g., sexual abuse in childhood, intimate partner violence, war-related trauma, etc.) should be considered. </li>
+    <li>It is important to recognize that sexual assault is sometimes perpetrated by a person the woman lives with. This can include not just a partner but other family members, such as a stepfather, in-law, friend of the family, or other. </li>
+    <li>Most women should have access to group or individual lay support, ideally based on the principles of psychological first aid (WHO, 2011). </li>
+</ol>
+<p>Figure 2 in the original guideline document shows the care pathway for a woman presenting for sexual assault and should help guide the providers' response to a survivor of sexual assault.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Training of Health-care Providers on Intimate Partner Violence and Sexual Violence</span></strong></p>
+<p><strong>Recommendation 30</strong>. Training at pre-qualification level in first-line support for women who have experienced intimate partner violence and sexual assault (see recommendation 1) should be provided to health-care providers (in particular doctors, nurses and midwives).</p>
+<p><em>Quality of evidence</em>: Very low.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Remark</strong></p>
+<p>The health-care provider may have experience of gender-based violence, as either a victim or a perpetrator. This needs to be addressed in their training.</p>
+<p><strong>Recommendation 31</strong>. Health-care providers offering care to women should receive in-service training on violence against women, ensuring it:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Enables them to provide first-line support (see recommendations 1 and 10) </li>
+    <li>Teaches them appropriate skills, including:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>When and how to enquire about violence </li>
+        <li>The best way to respond to women (refer to sections &quot;Identification and care for survivors of intimate partner violence&quot; and &quot;Clinical care for survivors of sexual assault&quot;) </li>
+        <li>How to conduct forensic evidence collection where appropriate (See WHO, 2003; WHO/UNHCR, 2004; WHO/UNHCR/UNFPA, 2009) </li>
+    </ul>
+    </li>
+    <li>Addresses:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Basic knowledge about violence, including laws that are relevant to victims of intimate partner violence and sexual violence </li>
+        <li>Knowledge of existing services that might offer support to survivors of intimate partner violence and sexual violence (this could be in the form of a directory of community services) </li>
+        <li>Inappropriate attitudes among health-care providers (e.g., blaming women for the violence, expecting them to leave immediately, etc.), as well as their own experiences of partner and sexual violence </li>
+    </ul>
+    </li>
+</ul>
+<p><em>Quality of evidence</em>: Low&amp;ndash;moderate.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Remarks</strong></p>
+<ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+    <li>Training should be intensive and content-appropriate to the context and setting. </li>
+    <li>Attention should be paid to self-care for providers, including the potential for vicarious trauma. </li>
+</ol>
+<p><strong>Recommendation 32</strong>. Training for health-care providers on intimate partner violence and sexual assault should include different aspects of the response to intimate partner violence and sexual assault (e.g., identification, safety assessment and planning, communication and clinical skills, documentation and provision of referral pathways).</p>
+<p><em>Quality of evidence</em>: Low.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Remarks</strong></p>
+<ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+    <li>Intensive multidisciplinary training (e.g., involving different kinds of health-care providers and/or police and advocates) delivered by domestic violence advocates or support workers should be offered to health-care professionals where referrals to specialist domestic violence services are possible. </li>
+    <li>Using interactive techniques may be helpful. </li>
+    <li>Training should go beyond the providers and include system-level strategies (e.g., patient flows, reception area, incentives and support mechanisms) to enhance the quality of care and sustainability. </li>
+</ol>
+<p><strong>Recommendation 33</strong>. Training for both intimate partner violence and sexual assault should be integrated in the same programme, given the overlap between the two issues and the limited resources available for training health-care providers on these issues.</p>
+<p><em>Quality of evidence</em>: No relevant evidence was identified. </p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>General Remarks</strong></p>
+<ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+    <li>Priority for training should be given to those most likely to come into contact with women survivors of intimate partner violence and/or sexual assault, for example health-care providers in antenatal care, family planning or gynaecologic services, and post-abortion care, mental health and HIV, as well as primary care providers and those in emergency services. </li>
+    <li>Training should include clinical examination and care for intimate partner violence and sexual assault, as well as attention to cultural competency, gender equality and human rights considerations. </li>
+    <li>Training should take place within the healthcare setting, to promote attendance. </li>
+    <li>There should be reinforcement of initial training and the provision of continual support. Regular follow up and quality supervision are extremely important. </li>
+    <li>A clear care pathway of management and referral, a designated and accessible (domestic) violence against women worker, and regular reminders (e.g., computer prompts) were shown in one study to be helpful in sustaining the benefit of training. </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Health-care Policy and Provision</span></strong></p>
+<p><strong>Recommendation 34</strong>. Care for women experiencing intimate partner violence and sexual assault should, as much as possible, be integrated into existing health services rather than as a stand-alone service (see Box 3 in the original guideline document).</p>
+<p><em>Quality of evidence</em>: Very low.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Remarks</strong></p>
+<ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+    <li>A multicomponent programme including training of health-care providers to make them aware of factors that would raise clinical suspicion and of how to provide first-line support is preferable. A clear referral pathway may also increase effectiveness. This training needs to be repeated regularly, in order to sustain the benefit (see the &quot;Identification and care for survivors of intimate partner violence&quot; section). </li>
+    <li>Offering vertical stand-alone services may be difficult to sustain and have potential harmful effects. For instance, there might be a risk that a currently under-staffed mental health service would be further weakened if it had to provide services specifically for victims of violence, rather than ensuring that all clients (including survivors of violence) get the best possible care. </li>
+    <li>Providing support to the carers and the possibilities of debriefing should also be part of the health-systems response, although this requires additional human resources. It is also important for the health services to meet regularly with other agencies such as police or social workers, to ensure that there is coordination and coherence across services and that referrals are working effectively. </li>
+</ol>
+<p><strong>Recommendation 35</strong>. A country needs multiple models of care for survivors of intimate partner violence and sexual assault, for different levels of the health system (see Table 1 in the original guideline document). However, priority should be given to providing training and service delivery at the primary level of care.</p>
+<p><em>Quality of evidence</em>: Very low.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Recommendation 36</strong>. A health-care provider (nurse, doctor or equivalent) who is trained in gender-sensitive sexual assault care and examination should be available at all times of the day or night (on location or on-call) at a district/area level.</p>
+<p><em>Quality of evidence</em>: Very low.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>General Remarks</strong></p>
+<ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+    <li>Until there is further evidence, countries need to have multiple models to provide care, but evaluation should be promoted to identify what works best and is most cost effective in different settings. </li>
+    <li>One-stop centres, where appropriate, are best located within health services, where the priority for provision of services is women's health rather than being based on legal outcomes. They appear to be best suited for areas with high population density, whereas integrated services within or across health facilities may be more cost effective in rural areas. </li>
+    <li>Whatever model is used, it should aim to reduce the number of services and providers that a woman has to contact (and tell her story to), and facilitate access to services she may need, in a manner that respects her dignity and confidentiality and prioritizes her safety. </li>
+    <li>Violence against women is also a violation of a woman's human rights. Policies and laws need to be revised to ensure they do not discriminate against women and that they adequately penalize acts of violence, including those that take place within the home. </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Mandatory Reporting of Intimate Partner Violence</span></strong></p>
+<p><strong>Recommendation 37</strong>. Mandatory reporting of intimate partner violence to the police by the health-care provider is not recommended. However, health-care providers should offer to report the incident to the appropriate authorities (including the police) if the woman wants this, and is aware of her rights.</p>
+<p><em>Quality of evidence</em>: Very low.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>Recommendation 38</strong>. Child maltreatment and life-threatening incidents must be reported to the relevant authorities by the health-care provider, where there is a legal requirement to do so.</p>
+<ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+    <li>It is noted, however, that there is growing consensus that countries with mandatory child reporting laws should allow children and families greater access to confidential services where they can receive support on a voluntary basis. </li>
+    <li>Furthermore, the usefulness of mandatory reporting is particularly questionable in situations where there is no functioning legal or child protection system to act on a report (Butchart et al., 2006). </li>
+</ol>
+<p><em>Quality of evidence</em>: Very low.</p>
+<p><em>Strength of recommendation</em>: Strong.</p>
+<p><strong>General Remark</strong></p>
+<p>The issue of mandatory reporting is intertwined with that of child protection (which was outside of the scope of these guidelines).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Quality of Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)</strong></p>
+<p><strong>High</strong>: The GDG is very confident that the true effect lies close to that of the estimate of the effect.</p>
+<p><strong>Moderate</strong>: The GDG is moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.</p>
+<p><strong>Low</strong>: Confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the true effect.</p>
+<p><strong>Very low</strong>: The group has very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of the effect.</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: The strength of the evidence is labeled as &quot;indirect evidence&quot; when no direct evidence was identified for this population and the recommendation was therefore based on evidence extrapolated from another appropriate population. When no evidence was identified for either a clinical or a health policy recommendation, this was indicated in the summary of the evidence in the original guideline document.</p>
+<p><strong>Strength of Recommendations</strong></p>
+<p><strong>Strong recommendations</strong>: Strong recommendations communicate the message that the guideline is based on the confidence that the desirable effects of adherence to the recommendation outweigh the undesirable consequences. Strong recommendations are uncommon because the balance between the benefits and harms of implementing a recommendation is rarely certain. In particular, GDGs need to be cautious when considering making strong recommendations on the basis of evidence whose quality is low or very low.</p>
+<p><strong>Conditional recommendations</strong>: Recommendations that are conditional or weak are made when a GDG is less certain about the balance between the benefits and harms or disadvantages of implementing a recommendation. Conditional recommendations generally include a description of the conditions under which the end-user should or should not implement the recommendation.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Two algorithms are provided in the original guideline document:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Care pathway for intimate partner violence </li>
+    <li>Woman presents following sexual assault </li>
+</ul></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Physical and psychological sequelae of intimate partner violence and sexual violence, including physical injury, unintended pregnancy, human immunodeficiency virus (HIV) and other sexually transmitted infections (STIs), and psychological and emotional disorders such as post-traumatic stress disorder (PTSD)</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Counseling"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Screening"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Emergency Medicine"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Infectious Diseases"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Obstetrics and Gynecology"/>
+      <fieldvalue value="Preventive Medicine"/>
+      <fieldvalue value="Psychiatry"/>
+      <fieldvalue value="Psychology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Emergency Medical Technicians/Paramedics"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Other"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Psychologists/Non-physician Behavioral Health Clinicians"/>
+      <fieldvalue value="Public Health Departments"/>
+      <fieldvalue value="Social Workers"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To provide evidence-based guidance to health-care providers on the appropriate responses to intimate partner violence and sexual violence against women, including clinical interventions and emotional support </li>
+    <li>To raise awareness, among health-care providers and policymakers, of violence against women, to better understand the need for an appropriate health-sector response to violence against women </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Women who have been subjected to intimate partner violence (physical, sexual, or emotional) or sexual assault</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: Although men are also victims of partner violence and sexual assault, these guidelines focus on women, because they experience more sexual violence, more severe physical violence, and more coercive control from male partners. However, much of the advice given will be relevant in respect of violence against women by family members other than intimate partners and may be relevant for partner abuse of men. Some of the advice will also be relevant to sexual assault of men.</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Women-centred care
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Offering first-line support when women disclose violence </li>
+        <li>Being non-judgemental and supportive </li>
+        <li>Ensuring privacy and confidentiality </li>
+        <li>Providing links to other services </li>
+    </ul>
+    </li>
+    <li>Identification and care for survivors of intimate partner violence
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Universal screening (not recommended) </li>
+        <li>Asking about exposure to intimate partner violence when assessing conditions that may be caused or complicated by intimate partner violence </li>
+        <li>Providing posters and pamphlets about intimate partner violence in healthcare settings </li>
+    </ul>
+    </li>
+    <li>Clinical care for survivors of sexual assault
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Comprehensive care including first-line support </li>
+        <li>Mental health care for depression or other partner violence-related mental disorder </li>
+        <li>Cognitive behavioural therapy (CBT) or eye movement desensitization and reprocessing (EMDR) interventions </li>
+        <li>Counseling for pregnant women </li>
+        <li>Psychotherapeutic interventions for children, both with and without the mother </li>
+        <li>Emergency contraception (levonorgestrel, combined oestrogen&amp;ndash;progestogen regimen, copper-bearing intrauterine device [IUD]) </li>
+        <li>Offering abortion services </li>
+        <li>Sexually transmitted infection prophylaxis </li>
+        <li>Human immunodeficiency virus (HIV) infection post-exposure prophylaxis (PEP) </li>
+        <li>Hepatitis B vaccination </li>
+        <li>Continuing care and assessment </li>
+    </ul>
+    </li>
+    <li>Training of health-care providers on intimate partner violence and sexual violence </li>
+    <li>Health-care policy and provision </li>
+    <li>Reporting of intimate partner violence (Note: <span style=&quot;text-decoration: underline;&quot;>Mandatory</span> reporting is not recommended) </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality of life </li>
+    <li>Physical, emotional, psychological and reproductive health including health functioning </li>
+    <li>Symptoms of depression and post-traumatic stress disorder (PTSD) </li>
+    <li>Recurrence of intimate partner violence </li>
+    <li>Referral rates </li>
+    <li>Adherence to human immunodeficiency virus post-exposure prophylaxis (HIV PEP) </li>
+    <li>Use of health services </li>
+    <li>Safety behaviors </li>
+    <li>Harm/adverse events </li>
+    <li>Economic well-being </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The scope of the guidelines and the questions were informed by the results of the <em>Expert meeting on health-sector responses to violence against women</em>, held between 17 and 19 March 2009, in Geneva, Switzerland. A total of 16 PICOT questions (Population, Intervention, Comparator, Outcome and Time frame) were developed by the Steering Group, with input from external reviewers. The questions were reviewed by the Guideline Development Group (GDG) and by peer reviewers, who also provided input on the selection and rating of the outcomes to be considered. The full list of PICOT questions is available on request. The evidence was reviewed by different individuals and the strategies are detailed separately. A list of each review and evidence table available upon request can be found in the table in Annex III of the original guideline document. The search strategy and methods of quality assessment and appraisal are provided in each review.</p>
+<p>Reviews are available on request.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Five systematic reviews were used.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Quality of Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)</span></strong></p>
+<p><strong>High</strong>: The Guideline Development Group (GDG) is very confident that the true effect lies close to that of the estimate of the effect.</p>
+<p><strong>Moderate</strong>: The GDG is moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.</p>
+<p><strong>Low</strong>: Confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the true effect.</p>
+<p><strong>Very low</strong>: The group has very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of the effect.</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: The strength of the evidence is labeled as &quot;indirect evidence&quot; when no direct evidence was identified for this population and the recommendation was therefore based on evidence extrapolated from another appropriate population. When no evidence was identified for either a clinical or a health policy recommendation, this was indicated in the summary of the evidence in the original guideline document.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The scientific evidence for the recommendations was synthesized using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology for the clinical interventions. For each preselected critical question, evidence profiles were prepared from existing or commissioned systematic reviews. For the questions on policy and health-care delivery, the descriptive evidence was summarized, with the strengths and weaknesses of different approaches identified.</p>
+<p>For recommendations on clinical interventions and on training, GRADE methodology as defined in the World Health Organization (WHO) methods handbook (see the &quot;Availability of Companion Documents&quot; field) was used. The studies were double extracted and appraised. The different appraisals were then compared and discussed between the two reviewers and, where there was a difference, this was resolved by a third reviewer. For clinical interventions, the quality of the supporting evidence was graded as very low, low, moderate, or high, using GRADE methodology (see the &quot;Rating Scheme for the Strength of the Evidence&quot; field). Reviews on mental health interventions in populations experiencing intimate partner or sexual violence were complemented by the more general evidence in the WHO mental health guidelines (recommendations 5, 27 and 28 [see the &quot;Major Recommendations&quot; field]). Where clinical recommendations were based on indirect evidence (in other words evidence that was not directly from the population of women suffering intimate partner violence or sexual assault), the assessment of the quality of the evidence was labelled accordingly. Indirect evidence was largely based on existing guidelines on emergency contraception, sexually transmitted infections (STIs) prophylaxis and related mental health and other issues. Where no evidence was available, recommendations were made because they were considered to be best practices or they addressed human rights and equity issues, and the lack of relevant evidence was noted.</p>
+<p>For questions related to health-care policy and provision and to mandatory reporting, the literature was systematically reviewed, the available data compiled in evidence tables, and these data qualitatively summarized. GRADE methodology was not used, however, to assess the quality of the body of evidence for these types of questions, because the individual studies were too heterogeneous and most had serious methodological limitations. In addition, many of the questions and recommendations were based on best practices, human rights conventions, and issues of equity, which do not lend themselves to GRADE methodology. The GDG therefore reviewed the qualitative summary of the available data and formulated recommendations based on those data, as well as on best practices, and on human rights principles and conventions. The assessment of the quality of evidence for these recommendations was labelled as very low.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The process used in the development of these guidelines, which is outlined in the World Health Organization (WHO) <em>Handbook for guideline development</em> (see the &quot;Availability of Companion Documents&quot; field), involved: (i) identification of questions related to clinical practice and health policy; (ii) retrieval of up-to-date evidence; (iii) assessment and synthesis of the evidence; (iv) formulation of recommendations with inputs from a wide range of stakeholders; and (v) formulation of plans for dissemination, implementation and updating.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Recruitment of the Guideline Development Group</span></strong></p>
+<p>The Guideline Development Group (GDG) was made up of academics, clinicians, government officials and advisers on health-care policy, as well as people who worked directly with women experiencing violence and women's health and rights advocates from low- and middle-income countries. Consideration was given to geographic diversity and gender balance, although the latter was difficult as this field is dominated by women.</p>
+<p>Potential members of the GDG were selected on the basis of their contribution to the area, as well as the need for regional and area of expertise diversity. The 25 attendees at the 2009 <em>&amp;nbsp;</em> represented a wide variety of stakeholders within the field. As a respected researcher in the field, the chairman was selected for his extensive experience of guideline development methodology and of chairing guideline development groups. The potential GDG members were identified, in part from among the attendees of the 2009 meeting, who were asked to send in a personal statement and complete the WHO declaration of interest form. The personal statements were reviewed by the Steering Group.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Decision-making during the Guideline Development Group Meeting</span></strong></p>
+<p>The GDG met at the WHO in Geneva for a three-day meeting between 12 and 14 September 2011. The review of evidence was sent out in advance so it could be summarized in a presentation during the meeting. The GDG members began by discussing the evidence, clarifying points of fact, and interpreting the findings. In terms of developing recommendations, the GDG recognized that there exists a very wide variation from region to region in the prevalence of violence against women, the laws to protect women, and the resources available to help them. It was therefore particularly necessary for the GDG to consider the relevance of the evidence in this context, using the following considerations:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The balance of benefits versus the harms of an intervention </li>
+    <li>Values and preferences of women, sensitivity to women's needs and concerns, and human rights standards such as the right to information, respect and dignity </li>
+    <li>Costs and resource use and other relevant feasibility issues of providers in low- and middle-income settings </li>
+</ul>
+<p>The GDG set the evidence into context using the considerations above. Where there was a need for guidance, but no relevant research evidence was available, recommendations were developed using the expertise of the GDG and the considerations above.</p>
+<p>Taking into account the above considerations, if it was agreed that the recommendation would be of near universal benefit, it would be rated as a strong recommendation. If, however, there were caveats on its benefit in different contexts, it was rated as conditional. The recommendations on health-care policy and provision were based on the systematic reviews that primarily found descriptive observational studies. The recommendations on training of health care providers and on health-care policy and provision recognized the dual objectives of equitable access and good quality care, and the importance of training providers to be competent in responding to women survivors of violence, so they can access services and do so in a way that protects and promotes their health and rights. The feasibility of implementing the recommendations in country settings with limited human and other resources was also taken into account.</p>
+<p>Recommendations were considered as strong or conditional (see the &quot;Rating Scheme for the Strength of the Recommendations&quot; field), on the basis of the generalizability of benefit across different settings, and the needs and preferences of women to access services, as well as taking into consideration the level of human and other resources that would be required. In order to ensure each recommendation could be understood and used in accordance with its intended meaning, the GDG offered further clarifications, which are noted below the recommendations as remarks (see the &quot;Major Recommendations&quot; field).</p>
+<p>The wording and strength of each recommendation was determined, in most cases, through consensus. Unanimous agreement was reached for all but two recommendations. (These were recommendation 2, regarding 'universal screening', and recommendation 7, regarding advocacy/support/empowerment for intimate partner violence.) Where the agreement was not unanimous, the outcome was decided upon by a vote. The reviewer of the topic, and WHO staff, were exempt from voting, but regional WHO staff who had been invited as advisers did vote. In these two cases, the minority opinion is written up in the discussion or remarks in the relevant section (see the &quot;Major Recommendations&quot; field and the original guideline document).</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Strength of Recommendations</span></strong></p>
+<p><strong>Strong recommendations</strong>: Strong recommendations communicate the message that the guideline is based on the confidence that the desirable effects of adherence to the recommendation outweigh the undesirable consequences. Strong recommendations are uncommon because the balance between the benefits and harms of implementing a recommendation is rarely certain. In particular, Guideline Development Groups (GDGs) need to be cautious when considering making strong recommendations on the basis of evidence whose quality is low or very low.</p>
+<p><strong>Conditional recommendations</strong>: Recommendations that are conditional or weak are made when a GDG is less certain about the balance between the benefits and harms or disadvantages of implementing a recommendation. Conditional recommendations generally include a description of the conditions under which the end-user should or should not implement the recommendation.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Document Preparation and Peer Review</span></strong></p>
+<p>In addition to the Guideline Development Group (GDG) members, suitable peer reviewers were identified to allow input from a wider range of stakeholders.</p>
+<p>Both GDG members and peer reviewers were invited to:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Rate the outcomes of the Population, Intervention, Comparator, Outcome and Time frame (PICOT) questions in advance of the evidence reviews </li>
+    <li>Comment on the reviews and draft recommendations of the clinical interventions for sexual assault and intimate partner violence prior to the meeting </li>
+    <li>Comment on the other reviews, following the meeting but prior to revision </li>
+    <li>Comment on the final guidelines document after the meeting </li>
+</ul>
+<p>All comments were collated by the Steering Group, with each comment reviewed and responses added to the comments in a table (available on request). Relevant revisions were then made to the documents, before the revised version was sent back to the members of the GDG for a final review.</p>
+<p>A total of 26 people commented on the PICOT questions and rated the outcomes (a table of ratings is available on request). The systematic reviews and Grading of Recommendations Assessment, Development and Evaluation (GRADE) or other tables were prepared and presented to the GDG to inform the recommendations. Many people, including World Health Organization (WHO) staff, peer reviewers, stakeholders and GDG members, participated in the consultation on the review of evidence and in the preparation of the final guidelines.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="98" ordby="605" id="425" name="References Supporting the Recommendations" type="citation">
+      <fieldvalue value="<table><tr><td>Butchart A, Harvey A, Mian M, Furniss T. Preventing child maltreatment: a guide to taking action and generating evidence. Geneva (Switzerland): World Health Organization (WHO); 2006. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>World Health Organization (WHO), International Labour Organization (ILO). Post-exposure prophylaxis to prevent HIV infection. Joint WHO/ILO guidelines on post-exposure prophylaxis (PEP) to prevent HIV infection. Geneva (Switzerland): World Health Organization (WHO); 2007. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>World Health Organization (WHO), United Nations High Commissioner for Refugees (UNHCR), United Nations Fund for Population Activities (UNFPA). Clinical management of rape survivors. E-learning programme. Geneva (Switzerland): World Health Organization (WHO); 2009. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>World Health Organization (WHO), United Nations High Commissioner for Refugees (UNHCR). WHO/UNHCR Guidance on clinical management of rape. Geneva (Switzerland): World Health Organization (WHO); 2004. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>World Health Organization (WHO). Guidelines for medico-legal care of sexual violence survivors. Geneva (Switzerland): World Health Organization (WHO); 2003. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>World Health Organization (WHO). mhGAP intervention guide for mental, neurological and substance use disorders in non-specialized health settings. Geneva (Switzerland): World Health Organization (WHO); 2010. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>World Health Organization (WHO). Psychological first aid: guide for field workers. Geneva (Switzerland): World Health Organization (WHO); 2011. </td></tr></table>"/>
+    </field>
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Improved quality of care and health outcomes related to violence against women</p>
+<p>See the &quot;Evidence summary&quot; and &quot;From evidence to recommendations&quot; sections in the original guideline document for benefits of specific interventions.</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The combined oestrogen&amp;ndash;progestogen regimen used for emergency contraception is commonly associated with the side-effects of nausea and vomiting. </li>
+    <li>While the side-effect profile of ulipristal seems similar to that of levonorgestrel, it is a relatively new drug not yet included in the World Health Organization (WHO) essential medicines list. </li>
+    <li>Many female survivors of sexual assault provided with human immunodeficiency virus post-exposure prophylaxis (HIV PEP) do not successfully complete the preventive regimen because HIV PEP results in physical side-effects such as nausea and vomiting, may trigger painful thoughts of the rape, and may be overtaken by other issues in the lives of survivors. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of the World Health Organization (WHO) concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted lines on maps represent approximate border lines for which there may not yet be full agreement. </li>
+    <li>The mention of specific companies or of certain manufacturers' products does not imply that they are endorsed or recommended by the WHO in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of proprietary products are distinguished by initial capital letters. </li>
+    <li>All reasonable precautions have been taken by the WHO to verify the information contained in this publication. However, the published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation and use of the material lies with the reader. In no event shall the WHO be liable for damages arising from its use. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Dissemination and Implementation of the Guidelines</span></strong></p>
+<p>The ultimate goal of these guidelines is to improve the quality of care and health outcomes related to violence against women. Hence, dissemination and implementation of the guidelines by the international community, ministries of health and local health-care services is crucial. The World Health Organization (WHO) Department of Reproductive Health and Research (RHR) has adopted a formal knowledge-to-action framework for the dissemination, adaptation and implementation of guidelines. In addition to this framework, a list of priority actions will be established to enable WHO and other partners to foster their dissemination and implementation.</p>
+<p><strong>Guideline Dissemination</strong></p>
+<p>The recommendations in these guidelines will be disseminated through a broad network of international partners, including WHO country and regional offices, ministries of health, WHO collaborating centres, professional associations; other United Nations agencies, particularly United Nations Population Fund (UNFPA) and UN Women; and nongovernmental organizations (NGOs). They will also be published on the WHO Web site and in the WHO Reproductive Health Library, where they will be accompanied by an independent critical appraisal. In addition, a policy brief aimed at a wide range of policy-makers, programme managers and clinicians will be developed and disseminated through WHO country offices and its respective partners.</p>
+<p>A clinical handbook will be developed based on the recommendations in this guideline for health-care providers, as well as policy briefs for policy-makers.</p>
+<p><strong>Guideline Implementation</strong></p>
+<p>The successful introduction into national programmes and health-care services of evidence-based policies related to violence against women relies on well-planned and participatory consensus-driven processes of adaptation and implementation. These may include the development or revision of existing national guidelines or protocols.</p>
+<p>The recommendations contained in these guidelines should be adapted into a locally appropriate document that can meet the needs of each country and health service, while taking the human and financial resources available into account. This needs to include national policy as well as local clinical guidance. In this context, modifications may be limited to conditional recommendations, and justification for any changes should be made in an explicit and transparent manner.</p>
+<p>In addition, a framework should be established to ensure that an enabling environment is created for use of the recommendations and that the health-care practitioner is supported in the use of evidence-based practices. In this process, the role of local professional societies is also important, and an all-inclusive and participatory process should be encouraged.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Monitoring and Evaluating Implementation of the Guidelines</span></strong></p>
+<p>Ideally, implementation of the recommendations should be monitored at a health-facility level. Interrupted time-series of clinical audits or criterion-based clinical audits could be used to obtain relevant data related to changes in the care that is given to women survivors of violence. Clearly defined review criteria and monitoring and evaluation indicators are needed and could be associated with locally agreed targets. In this context, <em>Violence against women and girls: a compendium of monitoring and evaluation indicators</em> by Measure Evaluation provides a comprehensive list of indicators that can be considered for health programmes addressing violence against women and girls. A few indicative indicators are suggested in the original guideline document, but final selection should consider measurability and feasibility.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Audit Criteria/Indicators"/>
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Foreign Language Translations"/>
+      <fieldvalue value="Resources"/>
+      <fieldvalue value="Tool Kits"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+      <fieldvalue value="Safety"/>
+      <fieldvalue value="Timeliness "/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>World Health Organization (WHO). Responding to intimate partner violence and sexual violence against women: WHO clinical and policy guidelines. Geneva (Switzerland): World Health Organization (WHO); 2013. 56 p.  [142 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2013"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="World Health Organization - International Agency"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>World Health Organization</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Guideline Development Group</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Guideline Development Group (GDG) Members</em>: Siti Hawa Ali, Associate Professor, School of Health Sciences, Universiti Sains Malaysia, Kampus Kesihatan, Kubang Krian, Kota Bharu, Kelantan, Malaysia; Maha A. Almuneef (was unable to attend the meeting but was invited to review final document), Executive Director, National Family Safety Program, member of Princess Nora Bint Abdullah Women's Health research Chair, King Saud University, Riyadh, Saudi Arabia; Jacquelyn C. Campbell, Anna D. Wolf Chair, Gilman Scholar and Professor, National Director, Robert Wood Johnson Foundation, Nurse Faculty Scholars, The Johns Hopkins University School of Nursing, Baltimore, MD, USA; Padma Desthali*, Coordinator, Centre for Enquiry into Health &amp;amp; Allied Themes, Research Centre of Anusandhan Trust Sai, Vakola, Santacruz (E), Mumbai, India; Gene Feder (<em>Chairman of the GDG</em>)*, Professor of Primary Health Care, Academic unit of primary health care, School of Social and Community Medicine, University of Bristol, Bristol, UK; Kelsey Lee Hegarty, Associate Professor, Department of General Practice, University of Melbourne, Victoria, Australia; Louise M. Howard, Professor in Women's Mental Health &amp;amp; Head of Section of Women's Mental Health, Health Service and Population Research Department, Institute of Psychiatry, King's College London, London, UK; Rachel Jewkes*, Director, Gender &amp;amp; Health Research Unit, Medical Research Council, Pretoria, South Africa; Ruxana Jina, University of the Witwatersrand, Johannesburg. South Africa; Joanne Klevens, Centers for Disease Control, National Center for Injury Control and Prevention, Division of Violence Prevention, Prevention Development and Evaluation, Atlanta, GA, USA; Sylvie Lo Fo Wong, Family physician/senior researcher, Radboud University Nijmegen Medical Centre, Department of Primary &amp;amp; Community Care, Gender &amp;amp; Women's Health, Nijmegen, Netherlands; Judith McFarlane, Parry Chair in Health Promotion &amp;amp; Disease Prevention, PI &amp;ndash; Mother Child Study To Inform Practice &amp;amp; Policy, Professor, Texas Woman's University, College of Nursing Houston, TX, USA, Visiting Professor, Aga Khan University, School of Nursing and Midwifery, Karachi, Pakistan; Harriet MacMillan, Professor, Departments of Psychiatry and Behavioural Neurosciences and Pediatrics, David (Dan) Offord Chair in Child Studies, Offord Centre for Child Studies, McMaster University, Hamilton, Ontario, Canada; Sandra L. Martin*, Professor, The University of North Carolina at Chapel Hill, Department of Maternal and Child Health, Chapel Hill, NC, USA; Jagadeesh Narayana Reddy, Professor of Forensic Medicine, Vydehi Institute of Medical Sciences &amp;amp; Research Centre, Bangalore, Karnataka, India; Josephine Njoroge (until January 2012), Liverpool VCT Care &amp;amp; Treatment, Nairobi, Kenya; Ana Fl&amp;aacute;via Pires Lucas d'Oliveria, Departamento de Medicina Preventiva FMUSP, S&amp;atilde;o Paulo, Brazil; Aurora del Rio Zolezzi, Deputy Director General of Gender Equity, National Center for Gender Equity and Reproductive Health, Ministry of Health Mexico, Mexico; Laura Sadowski*, Co-Director, Collaborative Research Unit, Cook County Hospital, Chicago, Illinois, USA; Agnes Tiwari, Professor and Head, School of Nursing, The University of Hong Kong, Li Ka Shing Faculty of Medicine, Pokfulam, Hong Kong; Zhao Gengli, Associate Professor and Director, Women's and Children's Health Center of Peking University, Beijing, People's Republic of China</p>
+<p class=&quot;Note&quot;>*Members of the Steering Group </p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Declaration of Interest by Guideline Development Group Members and Peer Reviewers</span></strong></p>
+<p>All Guideline Development Group (GDG) members and participants of the meeting completed a declaration of interests form prior to the meeting. These forms were reviewed by the responsible officer at the World Health Organization (WHO), the senior coordinator in the WHO Department of Reproductive Health and Research (RHR), and the project manager, before finalization of the group composition and invitation to attend the GDG meeting. Annex II in the original guideline document contains a summary of the relevant declarations of interest. The peer reviewers, who were sent the guidelines for review, also submitted a declaration of interest form prior to reviewing the guidelines, and these were also similarly reviewed. Procedures for management of conflicts of interest were based on WHO <em>Guidelines for declaration of interest</em> (WHO experts). This is not a field with significant financial interests, but it does contain publicly stated opinions and research that are of interest. Because the GDG membership included many of the key researchers in the field, before each topic was discussed, members declared which studies they had been involved in, and in these cases they did not actively participate in the discussion but only responded in order to clarify any questions posed by other GDG members. Because of a stated public position, the chairman stood down during the discussion on 'screening' for intimate partner violence, allowing the session to be chaired by the WHO officer responsible for the guidelines.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available in <a href=&quot;http://apps.who.int/iris/bitstream/10665/85240/1/9789241548595_eng.pdf?ua=1&quot; title=&quot;WHO Web site (English Version)&quot;>English</a>, <a href=&quot;http://apps.who.int/iris/bitstream/10665/85240/13/9789245548591_chi.pdf?ua=1&quot; title=&quot;WHO Web site (Chinese Version)&quot;>Chinese</a>, and <a href=&quot;http://apps.who.int/iris/bitstream/10665/85240/7/9789241548595_ger.pdf?ua=1&amp;amp;ua=1&quot; title=&quot;WHO Web site (Dutch Version)&quot;>Dutch</a> from the World Health Organization (WHO) Web site.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Violence against women: guidelines for health sector response. Infographic. Geneva (Switzerland): World Health Organization (WHO); 2013. 1 p. Available from the <a href=&quot;http://www.who.int/entity/reproductivehealth/publications/violence/VAW_WHO_Guidelines.jpeg?ua=1&quot; title=&quot;WHO Web site&quot;>World Health Organization (WHO) Web site</a>. </li>
+    <li>Violence against women: health-care worker intervention. Infographic. Geneva (Switzerland): World Health Organization (WHO); 2013. 1 p. Available from the <a href=&quot;http://www.who.int/entity/reproductivehealth/publications/violence/VAW_WHO_Intervention.jpeg?ua=1&quot; title=&quot;WHO Web site&quot;>WHO Web site</a>. </li>
+    <li>Violence against women: global picture health response. Infographic. Geneva (Switzerland): World Health Organization (WHO); 2013. 1 p. Available from the <a href=&quot;http://www.who.int/entity/reproductivehealth/publications/violence/VAW_infographic.pdf?ua=1&quot; title=&quot;WHO Web site&quot;>WHO Web site</a>. </li>
+    <li>Global and regional estimates of violence against women. Prevalence and health effects of intimate partner violence and non-partner sexual violence. Geneva (Switzerland): World Health Organization (WHO); 2013. 51 p. Available from the <a href=&quot;http://www.who.int/reproductivehealth/publications/violence/9789241564625/en/&quot; title=&quot;WHO Web site&quot;>WHO Web site</a>. </li>
+    <li>New toolkit to strengthen the medico-legal response to sexual violence. Web page. Geneva (Switzerland): World Health Organization (WHO); 2015. Available from the <a href=&quot;http://www.who.int/reproductivehealth/topics/violence/en/&quot; title=&quot;WHO Web site&quot;>WHO Web site</a>. </li>
+</ul>
+<p>The full reviews used to create this guideline plus all evidence tables, are available upon request from <a href=&quot;mailto:rhr@who.int&quot;>rhr@who.int</a>.</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on April 22, 2016.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 05:03:04 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:29:18 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 184.825 (3)
+  esindex: 0.013
+  captures_list: 206.598
+  CDXLines.iter: 16.812 (3)
+  PetaboxLoader3.datanode: 125.989 (4)
+  exclusion.robots: 0.455
+  exclusion.robots.policy: 0.437
+  RedisCDXSource: 0.754
+  PetaboxLoader3.resolve: 148.516 (2)
+  load_resource: 120.961
+-->

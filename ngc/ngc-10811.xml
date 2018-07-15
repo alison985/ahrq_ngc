@@ -1,0 +1,932 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app57.us.archive.org';v.server_ms=442;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10811?contentType=xml', '20171003000219')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20171003000219/https://www.guideline.gov/summaries/downloadcontent/ngc-10811?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20171003000219/https://www.guideline.gov/summaries/downloadcontent/ngc-10811?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10811?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20171003000219" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930205417/https://www.guideline.gov/summaries/downloadcontent/ngc-10811?contentType=xml" title="30 Sep 2016"><strong>Sep</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 00:02:19 Oct 03, 2017">OCT</td>
+		  <td class="f" nowrap="nowrap">Nov</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930205417/https://www.guideline.gov/summaries/downloadcontent/ngc-10811?contentType=xml" title="20:54:17 Sep 30, 2016"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 00:02:19 Oct 03, 2017">03</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930205417/https://www.guideline.gov/summaries/downloadcontent/ngc-10811?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 00:02:19 Oct 03, 2017">2017</td>
+		  <td class="f" nowrap="nowrap">2018</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20171003000219*/https://www.guideline.gov/summaries/downloadcontent/ngc-10811?contentType=xml" title="See a list of every capture for this URL">2 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 03 Oct 2017</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10811?contentType=xml","2017-10-03",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Patient blood management guidelines: module 3 - medical.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Blood Authority. Patient blood management guidelines: module 3 - medical. Canberra ACT (Australia): National Blood Authority; 2012. 138 p.  [178 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Definitions for the levels of evidence (<strong>I, II, III-1, III-2, III-3, IV</strong>) and grades of recommendations (<strong>A-D, Practice Point</strong>) are provided at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>General Medical</span></strong></p>
+<p><strong>Red Cells</strong></p>
+<p>Red blood cell (RBC) transfusion should not be dictated by a haemoglobin (Hb) concentration alone, but should also be based on assessment of the patient's clinical status (<strong>Practice Point</strong>).</p>
+<p>Where indicated, transfusion of a single unit of RBC, followed by clinical reassessment to determine the need for further transfusion, is appropriate. This reassessment will also guide the decision on whether to retest the Hb level (<strong>Practice Point</strong>).</p>
+<p>Direct evidence is not available in general medical patients.<sup>a</sup> Evidence from other patient groups and Clinical/Consumer Reference Group (CRG) consensus suggests that, with a:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Hb concentration &amp;lt;70 g/L</strong>, RBC transfusion may be associated with reduced mortality and is likely to be appropriate. However, transfusion may not be required in well-compensated patients or where other specific therapy is available. </li>
+    <li><strong>Hb concentration of 70&amp;ndash;100 g/L</strong>, RBC transfusion is not associated with reduced mortality. The decision to transfuse patients (with a single unit followed by reassessment) should be based on the need to relieve clinical signs and symptoms of anaemia, and the patient's response to previous transfusions. No evidence was found to warrant a different approach for patients who are elderly or who have respiratory or cerebrovascular disease. </li>
+    <li><strong>Hb concentration &amp;gt;100 g/L</strong>, RBC transfusion is likely to be unnecessary and is usually inappropriate. Transfusion has been associated with increased mortality in patients with ACS. (<strong>Practice Points</strong>) </li>
+</ul>
+<p>In patients with iron deficiency anaemia, iron therapy is required to replenish iron stores regardless of whether a transfusion is indicated (<strong>Practice Point</strong>).</p>
+<p class=&quot;Note&quot;><sup>a</sup>Recommendations and practice points for medical patients in a critical care setting will be found in the National Guideline Clearinghouse (NGC) summary of the National Blood Authority (NBA) guideline <a href=&quot;/content.aspx?id=49830&quot; title=&quot;Guideline #10812&quot; target=&quot;_blank&quot;>Patient blood management guidelines: module 4 - critical care</a>. Recommendations and practice points for specific medical subgroups (acute coronary syndrome, chronic heart failure, cancer, acute upper gastrointestinal bleeding and chronically transfused) appear below.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Cardiac &amp;ndash; Acute Coronary Syndrome (ACS)</span></strong></p>
+<p><strong>Red Cells</strong></p>
+<p>In ACS patients with a Hb concentration &amp;gt;100 g/L, RBC transfusion is not advisable because of an association with increased mortality (<strong>Grade C</strong>).</p>
+<p>RBC transfusion should not be dictated by a Hb concentration alone, but should also be based on assessment of the patient's clinical status (<strong>Practice Point</strong>).</p>
+<p>Where indicated, transfusion of a single unit of RBC, followed by clinical reassessment to determine the need for further transfusion, is appropriate. This reassessment will also guide the decision on whether to retest the Hb level (<strong>Practice Point</strong>).</p>
+<p>In patients with iron deficiency anaemia, iron therapy is required to replenish iron stores regardless of whether a transfusion is indicated (<strong>Practice Point</strong>).</p>
+<p>In patients with ACS and a Hb concentration &amp;lt;80 g/L, RBC transfusion may be associated with reduced mortality and is likely to be appropriate (<strong>Practice Point</strong>).</p>
+<p>In patients with ACS and a Hb concentration of 80&amp;ndash;100 g/L, the effect of RBC transfusion on mortality is uncertain and may be associated with an increased risk of recurrence of myocardial infarction (MI). Any decision to transfuse should be made with caution and based on careful consideration of the risks and benefits (<strong>Practice Point</strong>).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Cardiac &amp;ndash; Heart Failure</span></strong></p>
+<p><strong>Iron and Erythropoiesis-Stimulating Agents (ESAs)</strong></p>
+<p>In patients with chronic heart failure (CHF), identification and treatment of iron deficiency (absolute and functional) is recommended to improve functional or performance status (<strong>Grade B</strong>). This is consistent with the 2011 update to the <em>Guidelines for the Prevention, Detection and Management of Chronic Heart Failure</em> <em>in Australia</em>, 2006. Note: The studies reviewed only included patients treated with intravenous (IV) iron, and of New York Heart Association (NYHA) functional classes II or III.</p>
+<p><strong>Red Cells</strong></p>
+<p>RBC transfusion should not be dictated by a Hb concentration alone, but should also be based on assessment of the patient's clinical status (<strong>Practice Point</strong>).</p>
+<p>Where indicated, transfusion of a single unit of RBC, followed by clinical reassessment to determine the need for further transfusion, is appropriate. This reassessment will also guide the decision on whether to retest the Hb level (<strong>Practice Point</strong>).</p>
+<p>Direct evidence is not available in general medical patients.<sup>a</sup> Evidence from other patient groups and CRG consensus suggests that, with a:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Hb concentration &amp;lt;70 g/L</strong>, RBC transfusion may be associated with reduced mortality and is likely to be appropriate. However, transfusion may not be required in well-compensated patients or where other specific therapy is available. </li>
+    <li><strong>Hb concentration of 70&amp;ndash;100 g/L</strong>, RBC transfusion is not associated with reduced mortality. The decision to transfuse patients (with a single unit followed by reassessment) should be based on the need to relieve clinical signs and symptoms of anaemia, and the patient's response to previous transfusions. No evidence was found to warrant a different approach for patients who are elderly or who have respiratory or cerebrovascular disease. </li>
+    <li><strong>Hb concentration &amp;gt;100 g/L</strong>, RBC transfusion is likely to be unnecessary and is usually inappropriate. Transfusion has been associated with increased mortality in patients with ACS. (<strong>Practice Points</strong>) </li>
+</ul>
+<p>In patients with iron deficiency anaemia, iron therapy is required to replenish iron stores regardless of whether a transfusion is indicated (<strong>Practice Point</strong>).</p>
+<p>In all patients with heart failure, there is an increased risk of transfusion-associated circulatory overload. This needs to be considered in all transfusion decisions. Where indicated, transfusion should be of a single unit of RBC followed by reassessment of clinical efficacy and fluid status (<strong>Practice Point</strong>). For further guidance on how to manage patients with heart failure, refer to general medical or ACS sections, as appropriate.</p>
+<p class=&quot;Note&quot;><sup>a</sup>Recommendations and practice points for medical patients in a critical care setting will be found in the NGC summary of the NBA guideline <a href=&quot;/content.aspx?id=49830&quot; title=&quot;Guideline #10812&quot; target=&quot;_blank&quot;>Patient blood management guidelines: module 4 - critical care</a>.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Cancer</span></strong></p>
+<p><strong>Red Cells</strong></p>
+<p>RBC transfusion should not be dictated by a Hb concentration alone, but should also be based on assessment of the patient's clinical status (<strong>Practice Point</strong>).</p>
+<p>Where indicated, transfusion of a single unit of RBC, followed by clinical reassessment to determine the need for further transfusion, is appropriate. This reassessment will also guide the decision on whether to retest the Hb level (<strong>Practice Point</strong>).</p>
+<p>Direct evidence is not available in general medical patients.<sup>a</sup> Evidence from other patient groups and CRG consensus suggests that, with a:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Hb concentration &amp;lt;70 g/L</strong>, RBC transfusion may be associated with reduced mortality and is likely to be appropriate. However, transfusion may not be required in well-compensated patients or where other specific therapy is available. </li>
+    <li><strong>Hb concentration of 70&amp;ndash;100 g/L</strong>, RBC transfusion is not associated with reduced mortality. The decision to transfuse patients (with a single unit followed by reassessment) should be based on the need to relieve clinical signs and symptoms of anaemia, and the patient's response to previous transfusions. No evidence was found to warrant a different approach for patients who are elderly or who have respiratory or cerebrovascular disease. </li>
+    <li><strong>Hb concentration &amp;gt;100 g/L</strong>, RBC transfusion is likely to be unnecessary and is usually inappropriate. Transfusion has been associated with increased mortality in patients with ACS. (<strong>Practice Points</strong>) </li>
+</ul>
+<p>In patients with iron deficiency anaemia, iron therapy is required to replenish iron stores regardless of whether a transfusion is indicated (<strong>Practice Point</strong>).</p>
+<p>In patients with cancer, the aetiology of anaemia is often multifactorial; where appropriate, reversible causes should be identified and treated (<strong>Practice Point</strong>).</p>
+<p>There is a lack of specific evidence relating to the effects of RBC transfusion in patients with cancer. Any decision to transfuse should be based on the need to relieve clinical signs and symptoms of anaemia (<strong>Practice Point</strong>). When treating patients with cancer, refer also to the general medical population.</p>
+<p class=&quot;Note&quot;><sup>a</sup>Recommendations and practice points for medical patients in a critical care setting will be found in the NGC summary of the NBA guideline <a href=&quot;/content.aspx?id=49830&quot; title=&quot;Guideline #10812&quot; target=&quot;_blank&quot;>Patient blood management guidelines: module 4 - critical care</a>.</p>
+<p><strong>Iron and ESAs</strong></p>
+<p>In cancer patients with anaemia, the <em>routine</em> use of ESAs is not recommended because of the increased risks of mortality and thromboembolic events (<strong>Grade A</strong>).</p>
+<p>In anaemic patients with cancer receiving ESAs, evaluate iron status to guide adjuvant iron therapy (<strong>Practice Point</strong>).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Gastrointestinal</span></strong></p>
+<p><strong>Red Cells</strong></p>
+<p>RBC transfusion should not be dictated by a Hb concentration alone, but should also be based on assessment of the patient's clinical status (<strong>Practice Point</strong>).</p>
+<p>Where indicated, transfusion of a single unit of RBC, followed by clinical reassessment to determine the need for further transfusion, is appropriate. This reassessment will also guide the decision on whether to retest the Hb level (<strong>Practice Point</strong>).</p>
+<p>Direct evidence is not available in general medical patients.<sup>a</sup> Evidence from other patient groups and CRG consensus suggests that, with a:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Hb concentration &amp;lt;70 g/L</strong>, RBC transfusion may be associated with reduced mortality and is likely to be appropriate. However, transfusion may not be required in well-compensated patients or where other specific therapy is available. </li>
+    <li><strong>Hb concentration of 70&amp;ndash;100 g/L</strong>, RBC transfusion is not associated with reduced mortality. The decision to transfuse patients (with a single unit followed by reassessment) should be based on the need to relieve clinical signs and symptoms of anaemia, and the patient's response to previous transfusions. No evidence was found to warrant a different approach for patients who are elderly or who have respiratory or cerebrovascular disease. </li>
+    <li><strong>Hb concentration &amp;gt;100 g/L</strong>, RBC transfusion is likely to be unnecessary and is usually inappropriate. Transfusion has been associated with increased mortality in patients with ACS. </li>
+</ul>
+<p>In patients with iron deficiency anaemia, iron therapy is required to replenish iron stores regardless of whether a transfusion is indicated (<strong>Practice Point</strong>).</p>
+<p>In well-compensated patients with acute upper gastrointestinal blood loss that is non-critical, there is no evidence to favour a liberal transfusion policy. Therefore, a more restrictive approach may be appropriate. There are no data to support a specific Hb treatment target in these patients (<strong>Practice Point</strong>).</p>
+<p>For critically bleeding patients, refer to the NBA guideline <a href=&quot;https://www.blood.gov.au/system/files/documents/pbm-module-1.pdf&quot; title=&quot;NBA Web site&quot;>Patient blood management guidelines: module 1 - critical bleeding/massive transfusion</a> (<strong>Practice Point</strong>).</p>
+<p class=&quot;Note&quot;><sup>a</sup>Recommendations and practice points for medical patients in a critical care setting will be found in the NGC summary of the NBA guideline <a href=&quot;/content.aspx?id=49830&quot; title=&quot;Guideline #10812&quot; target=&quot;_blank&quot;>Patient blood management guidelines: module 4 - critical care</a>.</p>
+<p><strong>Iron and ESAs</strong></p>
+<p>In patients with in inflammatory bowel disease (IBD), determine the cause of anaemia and treat reversible causes. IV iron may be required in patients who are intolerant of oral iron, or to avoid aggravation of intestinal inflammation (<strong>Practice Point</strong>).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Chronic Kidney Disease (CKD)</span></strong></p>
+<p><strong>Iron and ESAs</strong></p>
+<p>In anaemic patients with CKD, ESA therapy to a low to intermediate Hb target may be used to avoid RBC transfusion, after consideration of risks and benefits for the individual patient (<strong>Grade B</strong>). Note: The Caring for Australasians with Renal Impairment (CARI) guidelines recommend a Hb target between 100 and 115 g/L.</p>
+<p>In anaemic patients with CKD, ESA therapy to a low to intermediate Hb target may be used to relieve fatigue, after consideration of risks and benefits for the individual patient (<strong>Grade C</strong>). Note: The CARI guidelines recommend a Hb target between 100 and 115 g/L.</p>
+<p>In anaemic patients with CKD, ESA therapy to a Hb target of over 130 g/L is not recommended because of increased morbidity (<strong>Grade B</strong>).</p>
+<p>In anaemic patients with non dialysis-dependent CKD, type 2 diabetes and a history of malignancy, the <em>routine</em> use of ESAs is not recommended because of the increased risk of cancer-related mortality (<strong>Grade B</strong>).</p>
+<p>ESA use is less effective in patients with chronic renal failure who have absolute or functional iron deficiency (<strong>Practice Point</strong>).</p>
+<p>For comprehensive information about ESA and iron therapy in patients with CKD, refer to CARI iron guidelines (<strong>Practice Point</strong>).</p>
+<p><strong>Red Cells</strong></p>
+<p>RBC transfusion should not be dictated by a Hb concentration alone, but should also be based on assessment of the patient's clinical status (<strong>Practice Point</strong>).</p>
+<p>Where indicated, transfusion of a single unit of RBC, followed by clinical reassessment to determine the need for further transfusion, is appropriate. This reassessment will also guide the decision on whether to retest the Hb level (<strong>Practice Point</strong>).</p>
+<p>Direct evidence is not available in general medical patients.<sup>a</sup> Evidence from other patient groups and CRG consensus suggests that, with a:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Hb concentration &amp;lt;70 g/L</strong>, RBC transfusion may be associated with reduced mortality and is likely to be appropriate. However, transfusion may not be required in well-compensated patients or where other specific therapy is available. </li>
+    <li><strong>Hb concentration of 70&amp;ndash;100 g/L</strong>, RBC transfusion is not associated with reduced mortality. The decision to transfuse patients (with a single unit followed by reassessment) should be based on the need to relieve clinical signs and symptoms of anaemia, and the patient's response to previous transfusions. No evidence was found to warrant a different approach for patients who are elderly or who have respiratory or cerebrovascular disease. </li>
+    <li><strong>Hb concentration &amp;gt;100 g/L</strong>, RBC transfusion is likely to be unnecessary and is usually inappropriate. Transfusion has been associated with increased mortality in patients with ACS. (<strong>Practice Points</strong>) </li>
+</ul>
+<p class=&quot;Note&quot;><sup>a</sup>Recommendations and practice points for medical patients in a critical care setting will be found in the NGC summary of the NBA guideline <a href=&quot;/content.aspx?id=49830&quot; title=&quot;Guideline #10812&quot; target=&quot;_blank&quot;>Patient blood management guidelines: module 4 - critical care</a>.</p>
+<p>In patients with iron deficiency anaemia, iron therapy is required to replenish iron stores regardless of whether a transfusion is indicated (<strong>Practice Point</strong>).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Chemotherapy and Haematopoietic Stem Cell Transplantation</span></strong></p>
+<p><strong>Red Cells</strong></p>
+<p>RBC transfusion should not be dictated by a Hb concentration alone, but should also be based on assessment of the patient's clinical status (<strong>Practice Point</strong>).</p>
+<p>Where indicated, transfusion of a single unit of RBC, followed by clinical reassessment to determine the need for further transfusion, is appropriate. This reassessment will also guide the decision on whether to retest the Hb level (<strong>Practice Point</strong>).</p>
+<p>Direct evidence is not available in general medical patients.<sup>a</sup> Evidence from other patient groups and CRG consensus suggests that, with a:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Hb concentration &amp;lt;70 g/L</strong>, RBC transfusion may be associated with reduced mortality and is likely to be appropriate. However, transfusion may not be required in well-compensated patients or where other specific therapy is available. </li>
+    <li><strong>Hb concentration of 70&amp;ndash;100 g/L</strong>, RBC transfusion is not associated with reduced mortality. The decision to transfuse patients (with a single unit followed by reassessment) should be based on the need to relieve clinical signs and symptoms of anaemia, and the patient's response to previous transfusions. No evidence was found to warrant a different approach for patients who are elderly or who have respiratory or cerebrovascular disease. </li>
+    <li><strong>Hb concentration &amp;gt;100 g/L</strong>, RBC transfusion is likely to be unnecessary and is usually inappropriate. Transfusion has been associated with increased mortality in patients with ACS. (<strong>Practice Points</strong>) </li>
+</ul>
+<p class=&quot;Note&quot;><sup>a</sup>Recommendations and practice points for medical patients in a critical care setting will be found in the NGC summary of the NBA guideline <a href=&quot;/content.aspx?id=49830&quot; title=&quot;Guideline #10812&quot; target=&quot;_blank&quot;>Patient blood management guidelines: module 4 - critical care</a>.</p>
+<p>In patients with iron deficiency anaemia, iron therapy is required to replenish iron stores regardless of whether a transfusion is indicated (<strong>Practice Point</strong>).</p>
+<p><strong>Platelets</strong></p>
+<p>In patients undergoing chemotherapy and haematopoietic stem cell transplantation, the recommended strategy for prophylactic use of platelets is transfusion at a platelet count of &amp;lt;10 &amp;times; 10<sup>9</sup>/L in the absence of risk factors, and at &amp;lt;20 &amp;times; 10<sup>9</sup>/L in the presence of risk factors (e.g., fever, minor bleeding) (<strong>Grade B</strong>).</p>
+<p>Platelet transfusion may be indicated for the prevention and treatment of haemorrhage in patients with thrombocytopenia or platelet function defects. Platelet transfusions are not indicated in all causes of thrombocytopenia, and may be contraindicated in certain conditions (e.g., thrombotic thrombocytopenic purpura [TTP] and heparin-induced thrombocytopaenia [HIT]). Thus, the cause of the thrombocytopenia should be established and expert opinion sought (<strong>Practice Point</strong>).</p>
+<p>In patients undergoing chemotherapy and haematopoietic stem cell transplantation, there is no evidence to support:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A lower trigger for prophylactic platelet transfusion for patients with risk factors (e.g., fever, minor bleeding) </li>
+    <li>A strategy of therapeutic-only platelet transfusions (i.e., for treatment of clinically significant bleeding) </li>
+</ul>
+<p>Further research to determine the safety and efficacy of a lower platelet transfusion trigger is underway (<strong>Practice Point</strong>).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Thalassaemia and Myelodysplasia</span></strong></p>
+<p><strong>Red Cells</strong></p>
+<p>RBC transfusion should not be dictated by a Hb concentration alone, but should also be based on assessment of the patient's clinical status (<strong>Practice Point</strong>).</p>
+<p>Where indicated, transfusion of a single unit of RBC, followed by clinical reassessment to determine the need for further transfusion, is appropriate. This reassessment will also guide the decision on whether to retest the Hb level (<strong>Practice Point</strong>).</p>
+<p>In patients with thalassaemia, the evidence does not support any change to the current practice of maintaining a pretransfusion Hb concentration of 90&amp;ndash;100 g/L, with transfusions at about monthly intervals (<strong>Practice Point</strong>).</p>
+<p>In patients with myelodysplasia who are regularly and chronically transfused, there is no evidence to guide particular Hb thresholds. Decisions around appropriate triggers and frequency of transfusion need to be individualised, taking into account anaemia-related symptoms, functional or performance status, and the patient&amp;rsquo;s response to previous transfusions (<strong>Practice Point</strong>).</p>
+<p><strong>Platelets</strong></p>
+<p>In patients with chronic failure of platelet production (e.g., myelodysplasia or aplastic anaemia), a specific threshold for transfusion may not be appropriate. These patients are best managed on an individual basis, in consultation with a relevant expert.</p>
+<p>Long-term prophylactic platelet transfusions may be best avoided because of the risk of complications (e.g., alloimmunisation and platelet refractoriness).</p>
+<p>Therapeutic platelet transfusions could be considered for treatment of bleeding (<strong>Practice Point</strong>).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Coagulopathy</span></strong></p>
+<p><strong>Fresh Frozen Plasma (FFP)</strong></p>
+<p>The <em>routine</em> use of FFP in medical patients with coagulopathy (including those with liver impairment) is not supported. Tests for coagulation correlate poorly with bleeding risk in liver impairment.</p>
+<p>The underlying causes of coagulopathy should be assessed. Where FFP transfusion is considered necessary, the risks and benefits should be considered for each patient, and expert guidance sought (<strong>Practice Point</strong>).</p>
+<p>For guidance on the use of FFP in specific patient groups, refer to:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The NBA guideline <a href=&quot;https://www.blood.gov.au/system/files/documents/pbm-module-1.pdf&quot; title=&quot;NBA Web site&quot;>Patient blood management guidelines: module 1 - critical bleeding/massive transfusion</a> (2011) </li>
+    <li>The NGC summary of the <a href=&quot;/content.aspx?id=49828&quot; title=&quot;Guideline #10810&quot; target=&quot;_blank&quot;>NBA guideline Patient blood management guidelines: module 2 - perioperative</a> (2012) </li>
+    <li>Warfarin Reversal: Consensus Guidelines, on behalf of the Australasian Society of Thrombosis and Haemostasis (2004) </li>
+    <li>Australian Haemophilia Centre Directors' Organisation (AHCDO) guidelines for patients with specific factor deficiencies (<a href=&quot;http://www.ahcdo.org.au/&quot; title=&quot;AHCDO Web site&quot;>www.ahcdo.org.au</a>) </li>
+    <li>TTP: Guidelines for the Use of Fresh-Frozen Plasma, Cryoprecipitate and Cryosupernatant (2004) </li>
+</ul>
+<p><strong>Cryoprecipitate or Fibrinogen Concentrate</strong></p>
+<p>The routine use of cryoprecipitate or fibrinogen concentrate in medical patients with coagulopathy is not advised. The underlying causes of coagulopathy should be identified; where transfusion is considered necessary, the risks and benefits should be considered for each patient. Specialist opinion is advised for the management of disseminated intravascular coagulopathy (DIC) (<strong>Practice Point</strong>).</p>
+<p>For guidance on the use of cryoprecipitate or fibrinogen concentrate in specific patient groups, refer to:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The NBA guideline <a href=&quot;https://www.blood.gov.au/system/files/documents/pbm-module-1.pdf&quot; title=&quot;NBA Web site&quot;>Patient blood management guidelines: module 1 - critical bleeding/massive transfusion</a> (2011) </li>
+    <li>AHCDO guidelines for patients with specific factor deficiencies (<a href=&quot;http://www.ahcdo.org.au/&quot; title=&quot;AHCDO Web site&quot;>www.ahcdo.org.au</a>) </li>
+    <li>TTP: Guidelines for the Use of Fresh-Frozen Plasma, Cryoprecipitate and Cryosupernatant (2004) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Thrombocytopenia</span></strong></p>
+<p><strong>Platelets</strong></p>
+<p>Platelet transfusion may be indicated for the prevention and treatment of haemorrhage in patients with thrombocytopenia or platelet function defects. Platelet transfusions are not indicated in all causes of thrombocytopenia, and may be contraindicated in certain conditions (e.g., TTP and HIT). Thus, the cause of the thrombocytopenia should be established and expert opinion sought (<strong>Practice Point</strong>).</p>
+<p>In patients with chronic failure of platelet production (e.g., myelodysplasia or aplastic anaemia), a specific threshold for transfusion may not be appropriate. These patients are best managed on an individual basis, in consultation with a relevant expert.</p>
+<p>Long-term prophylactic platelet transfusions may be best avoided because of the risk of complications (e.g., alloimmunisation and platelet refractoriness).</p>
+<p>Therapeutic platelet transfusions could be considered for treatment of bleeding (<strong>Practice Point</strong>).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>National Health and Medical Research Council (NHMRC) Evidence Hierarchy: Designations of Levels of Evidence According to Type of Research Question*</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: National Health and Medical Research Council (NHMRC) Evidence Hierarchy: Designations of Levels of Evidence According to Type of Research Question&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Level</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Intervention<sup>a</sup></th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Prognosis</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Aetiology<sup>b</sup></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>I<sup>c</sup></th>
+            <td valign=&quot;top&quot;>A systematic review of Level II studies</td>
+            <td valign=&quot;top&quot;>A systematic review of Level II studies</td>
+            <td valign=&quot;top&quot;>A systematic review of Level II studies</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>II</th>
+            <td valign=&quot;top&quot;>A randomised controlled trial</td>
+            <td valign=&quot;top&quot;>A prospective cohort study<sup>d</sup></td>
+            <td valign=&quot;top&quot;>A prospective cohort study</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>III-1</th>
+            <td valign=&quot;top&quot;>A pseudo randomised controlled trial (i.e., alternate allocation or some other method)</td>
+            <td valign=&quot;top&quot;>All or none<sup>e</sup></td>
+            <td valign=&quot;top&quot;>All or none<sup>e</sup></td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>III-2</th>
+            <td valign=&quot;top&quot;>A comparative study with concurrent controls:
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Non-randomised, experimental trial<sup>f</sup> </li>
+                <li>Cohort study </li>
+                <li>Case&amp;ndash;control study </li>
+                <li>Interrupted time series with a&amp;nbsp; control group </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>Analysis of prognostic factors amongst persons in a single arm of a randomised controlled trial</td>
+            <td valign=&quot;top&quot;>A retrospective cohort study</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>III-3</th>
+            <td valign=&quot;top&quot;>A comparative study without concurrent controls:
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Historical control study </li>
+                <li>Two or more single arm study<sup>g</sup> </li>
+                <li>Interrupted time series without a parallel control group </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>A retrospective cohort study</td>
+            <td valign=&quot;top&quot;>A case&amp;ndash;control study</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>IV</th>
+            <td valign=&quot;top&quot;>Case series with either post-test or pre-test/post-test outcomes</td>
+            <td valign=&quot;top&quot;>Case series, or cohort study of persons at different stages of disease</td>
+            <td valign=&quot;top&quot;>A cross-sectional study or case series</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>*Source: National Health and Medical Research Council (NHMRC) (2009). NHMRC additional levels of evidence and grades for recommendations for developers of guidelines. NHMRC. <a href=&quot;https://www.nhmrc.gov.au/_files_nhmrc/file/guidelines/developers/nhmrc_levels_grades_evidence_120423.pdf&quot; title=&quot;NHMRC Web site&quot;>https://www.nhmrc.gov.au/_files_nhmrc/file/guidelines/developers/nhmrc_levels_grades_evidence_120423.pdf</a></p>
+<p class=&quot;Note&quot;><sup>a</sup>Definitions of these study designs are provided on pages 7-8, <em>How to use the evidence: assessment and application of scientific evidence</em> (NHMRC, 2000).</p>
+<p class=&quot;Note&quot;><sup>b</sup>If it is possible and ethical to determine a causal relationship using experimental evidence, then the 'intervention' hierarchy of evidence should be utilised. If it is only possible or ethical to determine a causal relationship using observational evidence (e.g., groups cannot be allocated to a potential harmful exposure, such as nuclear radiation), then the 'aetiology' hierarchy of evidence should be utilised.</p>
+<p class=&quot;Note&quot;><sup>c</sup>A systematic review will only be assigned a level of evidence as high as the studies it contains, except where those studies contain Level II evidence. Systematic reviews of Level II evidence provide more data than the individual studies, and any meta-analyses will increase the precision of the overall results, reducing the likelihood that the results are affected by chance. Systematic reviews of lower level evidence present results of likely poor internal validity and thus are rated on the likelihood that the results have been affected by bias, rather than whether the systematic review itself is of good quality. Systematic review quality should be assessed separately. A systematic review should consist of at least two studies. In systematic reviews that include different study designs, the overall level of evidence should relate to each individual outcome or result, as different studies (and study designs) might contribute to each different outcome.</p>
+<p class=&quot;Note&quot;><sup>d</sup>At study inception, the cohort is either non-diseased or all at the same stage of the disease. A randomised controlled trial with persons either non-diseased or at the same stage of the disease in both arms of the trial would also meet the criterion for this level of evidence.</p>
+<p class=&quot;Note&quot;><sup>e</sup>All or none of the people with the risk factor(s) experience the outcome; and the data arises from an unselected or representative case series which provides an unbiased representation of the prognostic effect. For example, no smallpox develops in the absence of the specific virus; and clear proof of the causal link has come from the disappearance of smallpox after large-scale vaccination.</p>
+<p class=&quot;Note&quot;><sup>f</sup>This also includes controlled before-and-after (pre-test/post-test) studies, as well as indirect comparisons (i.e., utilise A vs. B and B vs. C to determine A vs. C).</p>
+<p class=&quot;Note&quot;><sup>g</sup>Comparing single arm studies, i.e., case series from two studies. This would also include unadjusted indirect comparisons (i.e., utilise A vs. B and B vs. C to determine A vs. C, without statistical adjustment for B).</p>
+<p><strong>Body of Evidence Matrix</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Body of Evidence Matrix&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; rowspan=&quot;2&quot;>Component</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>A</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>B</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>C</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>D</th>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Excellent</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Good</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Satisfactory</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Poor</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Evidence Base</th>
+            <td valign=&quot;top&quot;>Several Level I or II studies with low risk of bias</td>
+            <td valign=&quot;top&quot;>One or two Level II studies with low risk of bias or a systematic review, or multiple Level III studies with low risk of bias</td>
+            <td valign=&quot;top&quot;>Level III studies with low risk of bias, or Level I or II studies with moderate risk of bias</td>
+            <td valign=&quot;top&quot;>Level IV studies, or Level I to III studies with high risk of bias</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Consistency</th>
+            <td valign=&quot;top&quot;>All studies consistent</td>
+            <td valign=&quot;top&quot;>Most studies consistent and inconsistency can be explained</td>
+            <td valign=&quot;top&quot;>Some inconsistency reflecting genuine uncertainty around clinical question</td>
+            <td valign=&quot;top&quot;>Evidence is inconsistent</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Clinical Impact</th>
+            <td valign=&quot;top&quot;>Very large</td>
+            <td valign=&quot;top&quot;>Substantial</td>
+            <td valign=&quot;top&quot;>Moderate</td>
+            <td valign=&quot;top&quot;>Slight or restricted</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Generalisability</th>
+            <td valign=&quot;top&quot;>Population/s studied in body of evidence are the same as the target population for the guideline</td>
+            <td valign=&quot;top&quot;>Population/s studied in the body of evidence are similar to the target population for the guideline</td>
+            <td valign=&quot;top&quot;>Population/s studied in the body of evidence are different to the target population but it is clinically sensible to apply this evidence to the target population for the guidelines</td>
+            <td valign=&quot;top&quot;>Population/s studied in the body of evidence are different to the target population, and it is hard to judge whether it is sensible to generalise to the target population for the guidelines</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Applicability</th>
+            <td valign=&quot;top&quot;>Directly applicable to the Australian healthcare context</td>
+            <td valign=&quot;top&quot;>Applicable to Australian healthcare context, with a few caveats</td>
+            <td valign=&quot;top&quot;>Probably applicable to Australian healthcare context with some caveats</td>
+            <td valign=&quot;top&quot;>Not applicable to the Australian healthcare context</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Grade of Recommendation</strong></p>
+<p><strong>Grade A</strong>: Body of evidence can be trusted to guide practice.</p>
+<p><strong>Grade B</strong>: Body of evidence can be trusted to guide practice in most situations.</p>
+<p><strong>Grade C</strong>: Body of evidence provides some support for recommendation(s) but care should be taken in its application.</p>
+<p><strong>Grade D</strong>: Body of evidence is weak and recommendations must be applied with caution.</p>
+<p><strong>Practice Point</strong>: The systematic review found insufficient high-quality data to produce evidence-based recommendations, but the CRG felt that clinicians require guidance to ensure good clinical practice.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Acute or chronic medical conditions requiring transfusion or other haematological intervention, including</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Acute coronary syndrome </li>
+    <li>Chronic heart failure </li>
+    <li>Cancer </li>
+    <li>Acute upper gastrointestinal blood loss </li>
+    <li>Inflammatory bowel disease </li>
+    <li>Chronic kidney disease </li>
+    <li>Diseases or conditions requiring chemotherapy and haematopoietic stem cell transplantation </li>
+    <li>Thalassaemia and myelodysplasia </li>
+    <li>Coagulopathy </li>
+    <li>Thrombocytopenia </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Cardiology"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Gastroenterology"/>
+      <fieldvalue value="Hematology"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Nephrology"/>
+      <fieldvalue value="Oncology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To assist and guide clinical decisions and coordination of health-care across the primary, secondary and tertiary care settings for patients with acute or chronic medical conditions requiring haematological intervention</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients with acute or chronic medical conditions requiring haematological intervention</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Red blood cell (RBC) transfusion </li>
+    <li>Evaluation of haemoglobin (Hb) concentration and clinical assessment to guide transfusion </li>
+    <li>Use of erythropoiesis-stimulating agents (ESAs) </li>
+    <li>Iron therapy (oral or intravenous) </li>
+    <li>Fresh frozen plasma transfusion </li>
+    <li>Cryoprecipitate or fibrinogen concentrate transfusion </li>
+    <li>Platelet transfusion </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Mortality </li>
+    <li>Cardiovascular mortality/sudden cardiac mortality </li>
+    <li>Myocardial infarction (MI) </li>
+    <li>Recurrent ischaemia </li>
+    <li>Heart failure </li>
+    <li>Functional/performance status (e.g., fatigue, vitality score, physical functioning) </li>
+    <li>Quality of life </li>
+    <li>Survival/overall survival </li>
+    <li>Stroke </li>
+    <li>Sudden death </li>
+    <li>Thromboembolic events </li>
+    <li>Transfusion-related adverse events </li>
+    <li>Bleeding </li>
+    <li>Gastrointestinal haemorrhage </li>
+    <li>Frequency and severity of haemorrhage/need for transfusion </li>
+    <li>Transfusion volume </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The clinical research questions for systematic review were structured according to three criteria: PICO ('population, intervention, comparator and outcome') for intervention questions, PPO ('population, predictor and outcome') for prognostic questions, or PRO ('population, risk factor and outcome') for aetiology questions. Three main strategies were used to identify potentially relevant literature: electronic database searching, manual searching and use of literature recommended by expert members of the Clinical/Consumer Reference Group (CRG). The primary databases searched were EMBASE, Medline, the Cochrane Library Database and PreMedline. Additional searches were conducted of Cumulative Index to Nursing and Allied Health Literature and Australasian Medical Index. The electronic searches included articles published between 1966 and July 2010.</p>
+<p>Inclusion criteria were determined from the PICO, PPO or PRO criteria that formed the basis of the systematically reviewed research questions. Non-English publications were excluded.</p>
+<p>See Technical Report Volumes 1 and 2 for further details on search strategies and inclusion criteria (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>See Appendix C in Technical Report Volume 2 for diagrams depicting literature search results and included studies for all review questions (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>National Health and Medical Research Council (NHMRC) Evidence Hierarchy: Designations of Levels of Evidence According to Type of Research Question</span>*</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: National Health and Medical Research Council (NHMRC) Evidence Hierarchy: Designations of Levels of Evidence According to Type of Research Question&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Level</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Intervention<sup>a</sup></th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Prognosis</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Aetiology<sup>b</sup></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>I<sup>c</sup></th>
+            <td valign=&quot;top&quot;>A systematic review of Level II studies</td>
+            <td valign=&quot;top&quot;>A systematic review of Level II studies</td>
+            <td valign=&quot;top&quot;>A systematic review of Level II studies</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>II</th>
+            <td valign=&quot;top&quot;>A randomised controlled trial</td>
+            <td valign=&quot;top&quot;>A prospective cohort study<sup>d</sup></td>
+            <td valign=&quot;top&quot;>A prospective cohort study</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>III-1</th>
+            <td valign=&quot;top&quot;>A pseudo randomised controlled trial (i.e., alternate allocation or some other method)</td>
+            <td valign=&quot;top&quot;>All or none<sup>e</sup></td>
+            <td valign=&quot;top&quot;>All or none<sup>e</sup></td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>III-2</th>
+            <td valign=&quot;top&quot;>A comparative study with concurrent controls:
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Non-randomised, experimental trial<sup>f</sup> </li>
+                <li>Cohort study </li>
+                <li>Case&amp;ndash;control study </li>
+                <li>Interrupted time series with a&amp;nbsp; control group </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>Analysis of prognostic factors amongst persons in a single arm of a randomised controlled trial</td>
+            <td valign=&quot;top&quot;>A retrospective cohort study</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>III-3</th>
+            <td valign=&quot;top&quot;>A comparative study without concurrent controls:
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Historical control study </li>
+                <li>Two or more single arm study<sup>g</sup> </li>
+                <li>Interrupted time series without a parallel control group </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;>A retrospective cohort study</td>
+            <td valign=&quot;top&quot;>A case&amp;ndash;control study</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>IV</th>
+            <td valign=&quot;top&quot;>Case series with either post-test or pre-test/post-test outcomes</td>
+            <td valign=&quot;top&quot;>Case series, or cohort study of persons at different stages of disease</td>
+            <td valign=&quot;top&quot;>A cross-sectional study or case series</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>*Source: National Health and Medical Research Council (NHMRC) (2009). NHMRC additional levels of evidence and grades for recommendations for developers of guidelines. NHMRC. <a href=&quot;https://www.nhmrc.gov.au/_files_nhmrc/file/guidelines/developers/nhmrc_levels_grades_evidence_120423.pdf&quot; title=&quot;NHMRC Web site&quot;>https://www.nhmrc.gov.au/_files_nhmrc/file/guidelines/developers/nhmrc_levels_grades_evidence_120423.pdf</a></p>
+<p class=&quot;Note&quot;><sup>a</sup>Definitions of these study designs are provided on pages 7-8, <em>How to use the evidence: assessment and application of scientific evidence</em> (NHMRC, 2000).</p>
+<p class=&quot;Note&quot;><sup>b</sup>If it is possible and ethical to determine a causal relationship using experimental evidence, then the 'intervention' hierarchy of evidence should be utilised. If it is only possible or ethical to determine a causal relationship using observational evidence (e.g., groups cannot be allocated to a potential harmful exposure, such as nuclear radiation), then the 'aetiology' hierarchy of evidence should be utilised.</p>
+<p class=&quot;Note&quot;><sup>c</sup>A systematic review will only be assigned a level of evidence as high as the studies it contains, except where those studies contain Level II evidence. Systematic reviews of Level II evidence provide more data than the individual studies, and any meta-analyses will increase the precision of the overall results, reducing the likelihood that the results are affected by chance. Systematic reviews of lower level evidence present results of likely poor internal validity and thus are rated on the likelihood that the results have been affected by bias, rather than whether the systematic review itself is of good quality. Systematic review quality should be assessed separately. A systematic review should consist of at least two studies. In systematic reviews that include different study designs, the overall level of evidence should relate to each individual outcome or result, as different studies (and study designs) might contribute to each different outcome.</p>
+<p class=&quot;Note&quot;><sup>d</sup>At study inception, the cohort is either non-diseased or all at the same stage of the disease. A randomised controlled trial with persons either non-diseased or at the same stage of the disease in both arms of the trial would also meet the criterion for this level of evidence.</p>
+<p class=&quot;Note&quot;><sup>e</sup>All or none of the people with the risk factor(s) experience the outcome; and the data arises from an unselected or representative case series which provides an unbiased representation of the prognostic effect. For example, no smallpox develops in the absence of the specific virus; and clear proof of the causal link has come from the disappearance of smallpox after large-scale vaccination.</p>
+<p class=&quot;Note&quot;><sup>f</sup>This also includes controlled before-and-after (pre-test/post-test) studies, as well as indirect comparisons (i.e., utilise A vs. B and B vs. C to determine A vs. C).</p>
+<p class=&quot;Note&quot;><sup>g</sup>Comparing single arm studies, i.e., case series from two studies. This would also include unadjusted indirect comparisons (i.e., utilise A vs. B and B vs. C to determine A vs. C, without statistical adjustment for B).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Body of Evidence Matrix</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Body of Evidence Matrix&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; rowspan=&quot;2&quot;>Component</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>A</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>B</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>C</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>D</th>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Excellent</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Good</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Satisfactory</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Poor</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Evidence Base</th>
+            <td valign=&quot;top&quot;>Several Level I or II studies with low risk of bias</td>
+            <td valign=&quot;top&quot;>One or two Level II studies with low risk of bias or a systematic review, or multiple Level III studies with low risk of bias</td>
+            <td valign=&quot;top&quot;>Level III studies with low risk of bias, or Level I or II studies with moderate risk of bias</td>
+            <td valign=&quot;top&quot;>Level IV studies, or Level I to III studies with high risk of bias</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Consistency</th>
+            <td valign=&quot;top&quot;>All studies consistent</td>
+            <td valign=&quot;top&quot;>Most studies consistent and inconsistency can be explained</td>
+            <td valign=&quot;top&quot;>Some inconsistency reflecting genuine uncertainty around clinical question</td>
+            <td valign=&quot;top&quot;>Evidence is inconsistent</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Clinical Impact</th>
+            <td valign=&quot;top&quot;>Very large</td>
+            <td valign=&quot;top&quot;>Substantial</td>
+            <td valign=&quot;top&quot;>Moderate</td>
+            <td valign=&quot;top&quot;>Slight or restricted</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Generalisability</th>
+            <td valign=&quot;top&quot;>Population/s studied in body of evidence are the same as the target population for the guideline</td>
+            <td valign=&quot;top&quot;>Population/s studied in the body of evidence are similar to the target population for the guideline</td>
+            <td valign=&quot;top&quot;>Population/s studied in the body of evidence are different to the target population but it is clinically sensible to apply this evidence to the target population for the guidelines</td>
+            <td valign=&quot;top&quot;>Population/s studied in the body of evidence are different to the target population, and it is hard to judge whether it is sensible to generalise to the target population for the guidelines</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Applicability</th>
+            <td valign=&quot;top&quot;>Directly applicable to the Australian healthcare context</td>
+            <td valign=&quot;top&quot;>Applicable to Australian healthcare context, with a few caveats</td>
+            <td valign=&quot;top&quot;>Probably applicable to Australian healthcare context with some caveats</td>
+            <td valign=&quot;top&quot;>Not applicable to the Australian healthcare context</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Systematic reviews were undertaken to attempt to answer the question specific to medical transfusion, and the generic questions relevant to all six modules of the Patient Blood Management Guidelines. The systematic review questions are listed in Box 2.1 in the original guideline document. Refer to the Technical Reports (see the &quot;Availability of Companion Documents&quot; field) for details concerning the systematic review process and all evidence summary tables.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Classification and Assessment of Evidence</span></strong></p>
+<p>Studies identified for inclusion from the literature search were classified according to the National Health and Medical Research Council (NHMRC) levels of evidence hierarchy (see the &quot;Rating Scheme for the Strength of the Evidence&quot; field). To ensure that modules were based on the best available evidence, studies of higher levels of evidence (Levels I or II) were included in preference to those presenting lower levels of evidence (Levels III or IV). This was to minimise the potential for bias in the evidence base for each systematically reviewed question. However, lower level studies were reviewed where evidence was not available in higher level studies for any of the primary outcomes.</p>
+<p>Studies identified from the systematic literature review were assessed according to NHMRC dimensions of evidence (see Table 2.2 in Technical Report Volume 1). There are three main domains: strength of the evidence, size of the effect, and relevance of the evidence. The first domain was derived directly from the literature identified for a particular intervention, aetiology or prognostic study. The other two domains were determined in consultation with the Clinical/Consumer Reference Group (CRG) as part of the study assessment process during the review of the evidence considered for module development. An aspect of the strength of the evidence domain is the level of evidence of the study, which was determined as described above using the NHMRC levels of evidence hierarchy.</p>
+<p><strong>Quality Appraisal</strong></p>
+<p>The methodological quality of the included studies was assessed using the criteria presented in Appendix 3 of Technical Report Volume 1. Quality assessment criteria varied according to whether included studies were systematic reviews, randomised controlled trials, cohort studies or case&amp;ndash;control studies. No weighting of quality criteria was applied, but studies that met all criteria, or all but one, were considered good quality with a low risk of bias. Quality assessments of included studies for all systematically reviewed research questions are presented in Appendix E in Technical Report Volume 2.</p>
+<p><strong>Data Extraction</strong></p>
+<p>Data and information were extracted into evidence summary tables according to the inclusion criteria (population, intervention, comparator, outcome [PICO], population, risk, outcome [PRO] or population, predictor, outcome [PPO]). Evidence summary tables were based on NHMRC requirements for externally developed guidelines. Extracted data and information included general study details (citation, study design, evidence level, country and setting), characteristics of study participants, details of interventions and comparators, details of internal (e.g., allocation and blinding) and external (applicability and generalisability) study validity; and results for outcomes specified in the inclusion criteria. Where relevant studies were identified, extracted data and information were used to construct study characteristics and results tables of included evidence for each systematically reviewed research question. Evidence summary tables for all included studies are presented in Appendix F of Technical Report Volume 2.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Assessment of the Body of Evidence</span></strong></p>
+<p>The body of evidence for each module recommendation was graded in accordance with the NHMRC framework for developing evidence-based recommendations. Assessment of the body of evidence considers the dimensions of evidence of studies relevant to that recommendation. The NHMRC developed an evidence statement form to be used with each clinical research question considered in guidelines development (see Appendix 3 of Technical Report Volume 1). Before the evidence statement form was completed, included studies were critically appraised and relevant data were summarised, as described. This information was required to formulate each recommendation and determine the overall grade of the body of evidence supporting each recommendation.</p>
+<p>The key findings from included studies were summarised as evidence statements for each systematically reviewed research question. Where required, separate evidence statements were developed for different patient populations and outcomes. CRG input helped ensure that the size of effects and relevance of evidence were considered when developing evidence statements. Where no evidence or insufficient relevant evidence was identified, this was explained in the evidence statement and an evidence statement form was not included.</p>
+<p>Refer to Technical Report Volume 1 for Steps 1 and 2 in using the NHMRC evidence statement form. Completed evidence statement forms for each research question are presented in Appendix D of Technical Report Volume 2.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Clinical/Consumer Reference Group (CRG) developed recommendations where sufficient evidence was available from the systematic review of the literature. The recommendations have been carefully worded to reflect the strength of the body of evidence. Each recommendation has been given a grade, which were set by the National Health and Medical Research Council (NHMRC) (see section 2 in the original guideline document for further information on this process).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Governance Structure</span></strong></p>
+<p>A multilevel management framework was established by the National Blood Authority (NBA) to coordinate the development of the new patient blood management guidelines. The management framework (illustrated in Appendix A of the original guideline document) consists of:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A Steering Committee, responsible for the overall development and governance of the entire project </li>
+    <li>An Expert Working Group (EWG), responsible for clinical oversight and integration of the six modules </li>
+    <li>CRGs (one for each of the six modules), with membership including representation from relevant colleges, societies and consumer groups, to provide expert knowledge and input </li>
+    <li>Systematic reviewers and a technical writer, contracted by the NBA to review the literature and develop a draft of each module </li>
+    <li>An independent systematic review expert, to provide advice and mentoring to the systematic reviewers, technical writer, EWG and CRGs; and to ensure that the development process and the revised guidelines comply with NHMRC requirements. </li>
+</ul>
+<p>The NBA provided the secretariat, project funding and project management. The NBA website includes a list of colleges and societies that have endorsed these guidelines. Appendix A in the original guideline document lists the membership of the bodies involved in governance of the guidelines. Details of how the guidelines will be implemented and updated are provided in Chapter 6 of the guideline.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Formulation of Recommendations</span></strong></p>
+<p><strong>Use of the NHMRC Evidence Statement Form</strong></p>
+<p><em>Step 3: Formulation of a Recommendation Based on the Body of Evidence</em></p>
+<p>Step 3 involved formulating the wording of the recommendation. This wording was intended to reflect the strength of the body evidence; that is, where the evidence base was regarded as poor or unreliable, words such as 'must' or 'should' were not used. The wording of recommendations was developed in conjunction with the CRG during meetings to review the evidence base for research questions.</p>
+<p><em>Step 4: Determination of the Grade for the Recommendation</em></p>
+<p>The overall grade for each recommendation was determined from a summary of the rating for each component of the body of evidence (outlined in the &quot;Rating Scheme for the Strength of the Evidence&quot; field). Definitions of the NHMRC grades of recommendations are presented in the &quot;Rating Scheme for the Strength of the Recommendations&quot; field. In accordance with the NHMRC framework, recommendations were not graded A or B unless the evidence base and consistency of evidence were both rated A or B unless only one study was included and consistency was rated 'N/A'. In this situation the quality, size and strength of the evidence base was relied upon to grade the recommendation. The grading of recommendations was determined in conjunction with the CRG.</p>
+<p>Developed recommendations were entered into the NHMRC evidence statement forms to accompany the corresponding evidence statement matrix, along with the overall grade determined in this step (see Appendix D of Technical Report Volume 2a [see the &quot;Availability of Companion Documents&quot; field]).</p>
+<p><strong>Practice Points</strong></p>
+<p>Practice points were developed by the CRG through a facilitated group discussion (see Appendix 4 in Technical Report Volume 1a [see the &quot;Availability of Companion Documents&quot; field)] in the following circumstances:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Where the underpinning evidence would have led to a grade D evidence-based recommendation </li>
+    <li>Where the CRG developed evidence-based recommendations graded C and above, but considered that additional information was required to guide clinical practice. Wherever possible, this guidance was sourced from other evidence-based guidelines assessed to be of high quality. </li>
+    <li>Where insufficient evidence was identified to support the development of an evidence-based recommendation </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Grade of Recommendation</span></strong></p>
+<p><strong>Grade A</strong>: Body of evidence can be trusted to guide practice.</p>
+<p><strong>Grade B</strong>: Body of evidence can be trusted to guide practice in most situations.</p>
+<p><strong>Grade C</strong>: Body of evidence provides some support for recommendation(s) but care should be taken in its application. </p>
+<p><strong>Grade D</strong>: Body of evidence is weak and recommendations must be applied with caution.</p>
+<p><strong>Practice Point</strong>: The systematic review found insufficient high-quality data to produce evidence-based recommendations, but the Clinical/Consumer Reference Group (CRG) felt that clinicians require guidance to ensure good clinical practice.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Cost-effectiveness</span></strong></p>
+<p>While no published cost-effectiveness analyses on the use of a multidisciplinary, multimodal perioperative patient blood management program was identified in the literature searches, a number of studies published information about costs or savings.</p>
+<p>When no cost-effectiveness studies relevant to a research question were identified, this is noted for that question in the technical report. Cost or savings analyses, when found, are discussed for each question in the technical report (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Public Consultation</span></strong></p>
+<p>Public consultation was conducted from 23 January to 16 March 2012, during which time the draft module was available on the National Blood Authority (NBA) Web site. Notification was posted in <em>The Australian</em> national newspaper, and the NBA invited a range of stakeholders, committees, working groups and interested people to provide submissions.</p>
+<p>Eleven submissions were received. The Clinical/Consumer Reference Group (CRG) met in April 2012 to consider all the public consultation submissions and, where necessary, revise this module in accordance with the submissions. Changes were made to the module to address comments and concerns raised in submissions, and to improve clarity.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Finalising the Guidelines</span></strong></p>
+<p>The final drafts of the module and technical reports were reviewed by a guidelines development expert (formerly a Guidelines Assessment Register consultant) to assess compliance with National Health and Medical Research Council (NHMRC) requirements for externally developed guidelines. The module was then reviewed by an Appraisal of Guidelines for Research and Evaluation (AGREE) II expert to assess it against international quality standards. The module and accompanying documents were then sent to the NHMRC for methodological and independent peer review on 20 April 2012.</p>
+<p>Approval from the NHMRC was received on 18 July 2012.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Improvement of clinical outcomes by avoiding unnecessary exposure to blood components including:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Optimisation of blood volume and red cell mass </li>
+    <li>Minimisation of blood loss </li>
+    <li>Optimisation of the patient's tolerance of anaemia</li>
+</ul></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Although there is some evidence of short-term harm associated with transfusion, there is uncertainty about the long-term consequences.</p>
+<p>Traditionally, it has been assumed that blood transfusion benefits patients; however, a benefit has not been demonstrable in many clinical scenarios. In addition, evidence is accumulating that serious nonviral adverse events, such as transfusion-associated circulatory overload (TACO) or transfusion-related acute lung injury (TRALI), are more common than previously thought, and that more recently identified conditions (e.g., transfusion-related immunomodulation) may cause patients harm.</p>
+<p>The risk of transmission of infectious diseases through blood transfusions has reduced significantly in recent years through improved manufacturing and laboratory processes. However, there is potential for transfusion of an unrecognised infectious agent.</p>
+<p>Despite improvements in systems management, there remains a risk of transfusion-related harm due to administrative error. Such an error has the potential to result in acute haemolytic reaction from ABO incompatibility, which may be fatal.</p>
+<p>Table B.1 in the original guideline document summarises transfusion risks, and Table B.2 in the original guideline document presents the Calman Chart (United Kingdom risk per one year), which may be useful to clinicians for explaining risks to patients.</p></div>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Platelet transfusions are not indicated in all causes of thrombocytopenia, and may be contraindicated in certain conditions (e.g., thrombotic thrombocytopenic purpura [TTP] and heparin-induced thrombocytopaenia [HIT]). Thus, the cause of the thrombocytopenia should be established and expert opinion sought.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>This document is a general guide to appropriate practice, to be followed subject to the circumstances, clinician's judgement and patient's preferences in each individual case. It is designed to provide information to assist decision making. Recommendations contained herein are based on the best available evidence published between 1966 and July 2010. The relevance and appropriateness of the information and recommendations in this document depend on the individual circumstances. Moreover, the recommendations and guidelines are subject to change over time. </li>
+    <li>Each of the parties involved in developing this document expressly disclaims and accepts no responsibility for any undesirable consequences arising from relying on the information or recommendations contained herein. </li>
+    <li>This publication reflects the views of the authors and not necessarily the views of the Australian Government. </li>
+    <li>If the patient requires therapy for anaemia, thrombocytopaenia or coagulopathy, transfusion should not be a default decision. Instead, the decision on whether to transfuse should be carefully considered, and should:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Take into account the full range of available therapies </li>
+        <li>Balance the evidence for efficacy and improved clinical outcome against the risks </li>
+        <li>Take into account patient values and choices </li>
+    </ul>
+    </li>
+    <li>In the process of obtaining informed consent, a clinician should allow the patient sufficient time to ask questions, and should answer those questions. If the patient is unable to speak or understand English, the clinician may need to involve an interpreter. In certain contexts, a trained medical interpreter may be required (rather than a family member or a friend). Written information and diagrams may be appropriate in certain circumstances to aid understanding. </li>
+    <li>All elements of the consent process should reflect local state, territory or national requirements. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Implementing, Evaluating and Maintaining the Guidelines</span></strong></p>
+<p>The National Blood Authority (NBA), in collaboration with the Steering Committee and Expert Working Group (EWG) members, developed a plan to guide appropriate communication on the implementation of this module. The plan identifies target audiences for the module, strategies and tools for effective implementation, communication channels and key messages.</p>
+<p>Continued re-evaluation of the guidelines is necessary to reduce variation in practice patterns, support appropriate use of blood component therapy and reduce inappropriate exposure of patients to blood components. A plan was designed to evaluate implementation of the six modules of the guidelines and to determine:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The extent to which the guidelines influence changes in clinical practice and health outcomes </li>
+    <li>What factors (if any) contribute to noncompliance with the guidelines </li>
+</ul>
+<p>The results of the evaluation will be used to inform future review of the guidelines. Economic issues were considered when formulating the evidence-based recommendations. The recommendations are likely to reduce product associated expenditure. All recommendations within this Module either constrain the use of more expensive products (such as blood and blood products and erythropoietin stimulating agents) or replace them with less expensive products (such as iron therapy). Patient blood management however, requires effective coordination of care. The cost of introducing a coordinated patient blood management approach is anticipated to be offset by savings in reduced product consumption. The NBA, together with the Jurisdictional Blood Committee (JBC) and key stakeholders, is developing a program to facilitate uptake of the Patient Blood Management (PBM) guidelines.</p>
+<p>The program will include the development of a comprehensive toolkit to support the introduction of patient blood management practices in the clinical setting. The toolkit is being developed with the help of a network of patient blood management practitioners, who will facilitate uptake of the guidelines. The NBA has also funded the development of an online iron deficiency anaemia course within the BloodSafe eLearning Program. Funding has been provided for this course to be marketed to healthcare practitioners in the primary and secondary care setting. In addition, the NBA is working with the Australian Commission on Safety and Quality in Healthcare (ACSQHC) to develop a hospital guide to support the implementation of the National Safety and Quality Health Service Standards. The guide will provide links to the patient blood management guidelines and toolkit, and the BloodSafe eLearning course. These resources provide explicit tools to support uptake of the recommendations in this module.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Implementation of Guidelines Recommendations</span></strong></p>
+<p>The National Health and Medical Research Council (NHMRC) framework directs that guidelines implementation should be considered at the same time that recommendations are formulated. The NHMRC evidence statement form contains questions related to the implementation of each module (see Appendix 3 in Technical Report Volume 1 [see the &quot;Availability of Companion Documents&quot; field]). These are:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Will this recommendation result in changes in usual care? </li>
+    <li>Are there any resource implications associated with implementing this recommendation? </li>
+    <li>Will the implementation of this recommendation require changes in the way care is currently organised? </li>
+    <li>Is the guidelines development group aware of any barriers to the implementation of this recommendation? </li>
+</ul>
+<p>This section of the NHMRC evidence statement form was completed in consultation with the Clinical/Consumer Reference Group (CRG) when each recommendation was formulated and graded. Implementation issues are recorded in the NHMRC evidence statement forms presented in Appendix D of Technical Report Volume 2 (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Audit Criteria/Indicators"/>
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Quick Reference Guides/Physician Guides"/>
+      <fieldvalue value="Resources"/>
+      <fieldvalue value="Staff Training/Competency Material"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+      <fieldvalue value="Safety"/>
+      <fieldvalue value="Timeliness "/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Blood Authority. Patient blood management guidelines: module 3 - medical. Canberra ACT (Australia): National Blood Authority; 2012. 138 p.  [178 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2012"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="National Blood Authority - National Government Agency [Non-U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Funding, secretariat and project management was provided by the National Blood Authority (NBA) Australia. The development of the final recommendations has not been influenced by the views or interests of the funding body.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Steering Committee</p>
+<p>Expert Working Group</p>
+<p>Clinical/Consumer Reference Group (CRG) - Medical</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Steering Committee</em>: Ms Stephanie Gunn (<em>Chair</em>), National Blood Authority; Mr Ken Davis, Australian &amp;amp; New Zealand Society of Blood Transfusion; Prof Henry Ekert, Australian Government Department of Health and Ageing; Ms Sue Ireland, Jurisdictional Blood Committee; Dr Amanda Thomson, Australian &amp;amp; New Zealand Society of Blood Transfusion</p>
+<p><em>Expert Working Group</em>: Dr Craig French (<em>Co-chair</em>), College of Intensive Care Medicine of Australia and New Zealand, and Australian &amp;amp; New Zealand Intensive Care Society; Dr Amanda Thomson (<em>Co-chair</em>), Australian &amp;amp; New Zealand Society of Blood Transfusion; A/Prof Donald Bowden, Thalassaemia Australia; A/Prof Mark Dean, Haematology Society of Australia and New Zealand &amp;amp; Royal Australasian College of Physicians; Mr Shannon Farmer, Patient Blood Management Advocate; Dr Chris Hogan, National Blood Authority; Ms Janine Learmont, Royal College of Nursing, Australia; Dr Helen Liley, Royal Australasian College of Physicians, Paediatric &amp;amp; Child Health Division; Dr Robert Lindeman, Royal College of Pathologists of Australasia; A/Prof Larry McNicol ,Australian &amp;amp; New Zealand College of Anaesthetists; Prof Michael Permezel, Royal Australian &amp;amp; New Zealand College of Obstetricians and Gynaecologists; Dr Kathryn Robinson, Australian Red Cross Blood Service; Dr Richard Seigne, Australian &amp;amp; New Zealand Society of Blood Transfusion; Dr Philip Truskett, Royal Australasian College of Surgeons; Dr John Vinen, Australasian College for Emergency Medicine</p>
+<p><em>Clinical/Consumer Reference Group (CRG) &amp;ndash; Medical Module</em>: Prof Mark Dean (<em>Chair</em>), Haematologist, Royal College of Physicians &amp;amp; Haematology Society of Australia &amp;amp; New Zealand; Dr Lilon Bandler, General practitioner and Indigenous health representative, Royal Australian College of General Practitioners; Prof Donald Bowden, Haematologist, Thalassemia Australia; Prof John Duggan*, Gastroenterologist, Independent expert &amp;ndash; gastroenterology; Mr Shannon Farmer, Researcher, Patient Blood Management Advocate; Dr Craig French, Intensive care physician, College of Intensive Care Medicine of Australia and New Zealand, and Australian &amp;amp; New Zealand Intensive Care Society; Dr Chris Hogan, Haematologist, National Blood Authority; Dr Robert Lindeman, Haematologist, Royal College of Pathologists Australia; Prof Lawrence McMahon*, Nephrologist, Independent expert &amp;ndash; renal medicine; Ms Penny O'Beid, Clinical Nurse Consultant, Transfusion Medicine Royal College of Nursing Australia; Dr Kathryn Robinson, Haematologist, Australian Red Cross Blood Service; Dr Amanda Thomson, Haematologist, Australian &amp;amp; New Zealand Society of Blood Transfusion</p>
+<p class=&quot;Note&quot;>*Two members joined the&amp;nbsp;CRG for the final four of 12 meetings after the review of the evidence and formulation of recommendations. This additional membership was sought to provide specialist input for specific populations (i.e. renal medicine and gastroenterology) and to ensure that the guidance developed by the CRG accorded, in so far as the evidence allowed, with other guidelines for these specific populations.</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All members of the Steering Committee, Clinical/Consumer Reference Group (CRG), Expert Working Group (EWG) and systematic review team declared any interests before starting work on the guidelines. Interests were also reviewed at intervals, and were required to be declared at the start of each meeting. The NBA keeps a register of all declared interests. If an interest is declared, the CRG decide by consensus if it affects the proceedings. If the interest is considered to be competing or in conflict, the Chair can prevent the member from participating in discussions and decisions pertaining to the declared interest. Three members declared interests during the guideline development process. Mr Shannon Farmer declared the following patient advocacy roles: the Society for the Advancement of Blood Management, the Medical Society for Blood Management and the Network for Advancement of Transfusion Alternatives. Professor Lawrence McMahon declared that he was a prescriber of erythropoiesis stimulating agents. He declared travel grants to attend the European Renal Association-European Dialysis and Transplant Association (ERA-EDTA) Annual Scientific Meeting in 2010 from Roche and in 2012 from Amgen. He received a research grant from Amgen in 2009 and an unrestricted educational grant for research from Roche in 2011. He was on the Roche Advisory Board for Mircera (continuous erythropoietin receptor activator) in 2008. Dr Kathryn Robinson declared an interstate airfare and accommodation for one night paid directly by Aspen Pharmacare for presenting at an educational iron forum organised by Aspen in February 2008; information from her presentation was used for an Aspen educational newsletter but no payment was received.</p>
+<p>The chair considered these declarations and determined that they did not constitute a sufficient conflict to require members to leave the room or excuse themselves from discussion at any time during the guideline development process. No other members declared any interests.</p></div>"/>
+    </field>
+    <field fieldid="159" ordby="1255" id="453" name="Guideline Endorser(s)" type="orglist">
+      <fieldvalue value="Australasian College for Emergency Medicine - Medical Specialty Society"/>
+      <fieldvalue value="Australasian Society for Emergency Medicine - Medical Specialty Society"/>
+      <fieldvalue value="Australian &amp; New Zealand Intensive Care Society - Nonprofit Organization"/>
+      <fieldvalue value="Australian and New Zealand College of Anaesthetists - Medical Specialty Society"/>
+      <fieldvalue value="Australian College of Nursing - Professional Association"/>
+      <fieldvalue value="Australian College of Rural and Remote Medicine - Professional Association"/>
+      <fieldvalue value="College of Intensive Care Medicine of Australia and New Zealand - Medical Specialty Society"/>
+      <fieldvalue value="Medical Oncology Group of Australia - Professional Association"/>
+      <fieldvalue value="Perinatal Society of Australia and New Zealand - Medical Specialty Society"/>
+      <fieldvalue value="Royal Australasian College of Surgeons - Professional Association"/>
+      <fieldvalue value="Royal Australian and New Zealand College of Obstetricians and Gynaecologists - Professional Association"/>
+      <fieldvalue value="Royal College of Pathologists of Australasia - Professional Association"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://www.blood.gov.au/system/files/documents/Update-PBM-module-3-w-pg-4.pdf&quot; title=&quot;NBA Web site&quot;>National Blood Authority (NBA) Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patient blood management guidelines: module 3 - medical. Quick reference guide. Canberra ACT (Australia): National Blood Authority; 2012. 41 p. Available from the <a href=&quot;http://www.blood.gov.au/system/files/documents/pbm-module-3-qrg.pdf&quot; title=&quot;NBA Web site&quot;>National Blood Authority (NBA) Web site</a>. </li>
+    <li>Patient blood management guidelines: module 3 - medical. Technical report. Volume 1. Review of the evidence. Canberra ACT (Australia): National Blood Authority; 2012 Apr. 489 p. Available from the <a href=&quot;http://www.blood.gov.au/system/files/documents/pbm-module3-tech-vol1_0.pdf&quot; title=&quot;NBA Web site&quot;>NBA Web site</a>. </li>
+    <li>Patient blood management guidelines: module 3 - medical. Technical report. Volume 2. Appendixes. Canberra ACT (Australia): National Blood Authority; 2012 Apr. 745 p. Available from the <a href=&quot;http://www.blood.gov.au/system/files/documents/pbm-module3-tech-vol2_0.pdf&quot; title=&quot;NBA Web site&quot;>NBA Web site</a>. </li>
+</ul>
+<p>A variety of additional implementation resources, including audit tools, templates, case studies, and other guidance, are available from the <a href=&quot;http://www.blood.gov.au/implementing-pbm&quot; title=&quot;NBA Web site&quot;>NBA Web site</a>. Instructions on how to add the guidelines to your mobile device are available from the <a href=&quot;http://www.blood.gov.au/pbm-ipad&quot; title=&quot;NBA Web site&quot;>NBA Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Various tools and resources to support patients in patient blood management decision making are available on the <a href=&quot;http://www.blood.gov.au/patients-pbm&quot; title=&quot;NBA Web site&quot;>National Blood Authority (NBA) Web site</a>.</p>
+<p class=&quot;Note&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on December 31, 2015. The information was verified by the guideline developer on April 1, 2016.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>With the exception of any logos and registered trademarks, and where otherwise noted, all material presented in this document is provided under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Australia (<a href=&quot;http://creativecommons.org/licenses/by-nc-sa/3.0/au/&quot; title=&quot;Creative Commons Web site&quot;>http://creativecommons.org/licenses/by-nc-sa/3.0/au/</a>) license.</p>
+<p>You are free to copy, communicate and adapt the work for non-commercial purposes, as long as you attribute the authors and distribute any derivative work (i.e., new work based on this work) only under this license.</p>
+<p>If you adapt this work in any way or include it in a collection, and publish, distribute or otherwise disseminate that adaptation to the public, it should be attributed in the following way:</p>
+<p>This work is based on/includes The National Blood Authority's Patient Blood Management Guideline: Module 3 Medical, which is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Australia license.</p>
+<p>Where this work is not modified or changed, it should be attributed in the following way:</p>
+<p>&amp;copy;National Blood Authority, 2012.</p>
+<p>Reprinted with corrections 2013.</p>
+<p>ISBN 978-0-9872519-8-5</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 00:02:19 Oct 03, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:53:24 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 40.779 (3)
+  esindex: 0.009
+  captures_list: 57.259
+  CDXLines.iter: 11.353 (3)
+  PetaboxLoader3.datanode: 182.945 (4)
+  exclusion.robots: 0.288
+  exclusion.robots.policy: 0.274
+  RedisCDXSource: 1.585
+  PetaboxLoader3.resolve: 209.985
+  load_resource: 368.077
+-->
