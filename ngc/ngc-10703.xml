@@ -1,0 +1,858 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app58.us.archive.org';v.server_ms=257;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10703?contentType=xml', '20180712230059')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180712230059/https://www.guideline.gov/summaries/downloadcontent/ngc-10703?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180712230059/https://www.guideline.gov/summaries/downloadcontent/ngc-10703?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10703?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180712230059" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610042819/https://www.guideline.gov/summaries/downloadcontent/ngc-10703?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 23:00:59 Jul 12, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610042819/https://www.guideline.gov/summaries/downloadcontent/ngc-10703?contentType=xml" title="04:28:19 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 23:00:59 Jul 12, 2018">12</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930165353/https://www.guideline.gov/summaries/downloadcontent/ngc-10703?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 23:00:59 Jul 12, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180712230059*/https://www.guideline.gov/summaries/downloadcontent/ngc-10703?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 12 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10703?contentType=xml","2018-07-12",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Clinical practice guideline (update): adult sinusitis.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Rosenfeld RM, Piccirillo JF, Chandrasekhar SS, Brook I, Ashok Kumar K, Kramper M, Orlandi RR, Palmer JN, Patel ZM, Peters A, Walsh SA, Corrigan MD. Clinical practice guideline (update): adult sinusitis. Otolaryngol Head Neck Surg. 2015 Apr;152(2 Suppl):S1-S39. [286 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25832968&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Rosenfeld RM, Andes D, Bhattacharyya N, Cheung D, Eisenberg S, Ganiats TG, Gelzer A, Hamilos D, Haydon RC 3rd, Hudgins PA, Jones S, Krouse HJ, Lee LH, Mahoney MC, Marple BF, Mitchell CJ, Nathan R, Shiffman RN, Smith TL, Witsell DL. Clinical practice guideline: adult sinusitis. Otolaryngol Head Neck Surg. 2007 Sep;137(3 Suppl):S1-31. [233 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The evidence grades (<strong>A-D, X</strong>) and evidence-based statements (<strong>Strong Recommendation, Recommendation, </strong>and<strong> Option</strong>) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 1A. Differential Diagnosis of Acute Rhinosinusitis</span></strong></p>
+<p>Clinicians should distinguish presumed acute bacterial rhinosinusitis (ABRS) from acute rhinosinusitis caused by viral upper respiratory infections and noninfectious conditions. A clinician should diagnose ABRS when (a) symptoms or signs of acute rhinosinusitis (purulent nasal drainage accompanied by nasal obstruction, facial pain-pressure-fullness, or both) <span style=&quot;text-decoration: underline;&quot;>persist without evidence of improvement for at least 10 days</span> beyond the onset of upper respiratory symptoms, or (b) symptoms or signs of acute rhinosinusitis <span style=&quot;text-decoration: underline;&quot;>worsen within 10 days</span> after an initial improvement (double worsening).</p>
+<p><span style=&quot;text-decoration: underline;&quot;><em>Strong recommendation</em></span> based on diagnostic studies with minor limitations and a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Avoid inappropriate use of antibiotics for presumed viral infections </li>
+    <li>Aggregate evidence quality: Grade B, systematic reviews, diagnostic studies with minor limitations regarding signs and symptoms associated with ABRS </li>
+    <li>Level of confidence in evidence: Medium </li>
+    <li>Benefit: Decrease inappropriate use of antibiotics for nonbacterial illness; distinguish noninfectious conditions from rhinosinusitis </li>
+    <li>Harms, risks, costs: Risk of misclassifying acute bacterial rhinosinusitis as viral or vice versa </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Importance of avoiding inappropriate antibiotic treatment of viral or nonbacterial illness; emphasis on clinical signs and symptoms for initial diagnosis; importance of avoiding unnecessary diagnostic tests </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: None </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Strong recommendation </li>
+    <li>Differences of opinion: None regarding the persistent and double-worsening presentations of ABRS; minor regarding whether to include a severe pattern of ABRS presentation (1 group member was in favor; 9 against) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 1B. Radiographic Imaging and Acute Rhinosinusitis</span></strong></p>
+<p>Clinicians should not obtain radiographic imaging for patients who meet diagnostic criteria for acute rhinosinusitis, unless a complication or alternative diagnosis is suspected.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><em>Recommendation (against imaging)</em></span> based on diagnostic studies with minor limitations and a preponderance of benefit over harm for not obtaining imaging.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Avoid costly diagnostic tests that do not improve diagnostic accuracy yet expose the patient to unnecessary radiation </li>
+    <li>Aggregate evidence quality: Grade B, diagnostic studies with minor limitations </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Avoid unnecessary radiation exposure; avoid delays in diagnosis from obtaining and interpreting imaging studies; incur financial savings by not performing routine radiologic imaging; avoid incidental findings that may cause undue patient concern or result in additional imaging studies </li>
+    <li>Risks, harms, costs: Delayed diagnosis of serious underlying condition </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Importance of avoiding unnecessary radiation and cost in diagnosing acute rhinosinusitis </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: None </li>
+    <li>Exceptions: Suspicion of complicated acute rhinosinusitis or alternative diagnosis based on severe headache, proptosis, cranial nerve palsies, facial swelling, or other clinical findings </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 2. Symptomatic Relief of Viral Rhinosinusitis (VRS)</span></strong></p>
+<p>Clinicians may recommend analgesics, topical intranasal steroids, and/or nasal saline irrigation for symptomatic relief of VRS.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><em>Option</em></span> based on randomized controlled trials (RCTs)&amp;nbsp;with limitations and cohort studies with an unclear balance of benefit and harm that varies by patient.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: To encourage consideration of supportive therapies that may improve quality of life for individuals with VRS and furthermore support the avoidance of unnecessary antibiotics in viral disease </li>
+    <li>Aggregate evidence quality: Grade B and C, RCTs with limitations and cohort studies </li>
+    <li>Level of confidence in evidence: Medium </li>
+    <li>Benefit: Reduction of symptoms; avoidance of unnecessary antibiotics </li>
+    <li>Risks, harms, costs: Adverse effects of decongestants, antihistamines, topical steroid sprays; cost of medications </li>
+    <li>Benefits-harm assessment: Balance of benefit and harm </li>
+    <li>Value judgments: A desire to call attention to VRS as a subset of the &quot;common cold,&quot; yet distinct from ABRS, that may benefit from explicit diagnosis and discussion of management options for symptomatic relief </li>
+    <li>Intentional vagueness: The specific &quot;symptomatic relief&quot; is at the discretion of the clinician and patient but should not include antibiotics </li>
+    <li>Role of patient preferences: Large role in selection and use of therapies for symptomatic relief based on shared decision making </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Option </li>
+    <li>Differences of opinion: Minor regarding the need to explicitly discuss VRS in a distinct key action statement </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 3. Symptomatic Relief of Acute Bacterial Rhinosinusitis (ABRS)</span></strong></p>
+<p>Clinicians may recommend analgesics, topical intranasal steroids, and/or nasal saline irrigation for symptomatic relief of ABRS.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><em>Option</em></span> based on RCTs with heterogeneous populations, diagnostic criteria, and outcome measures with a balance of benefit and harm.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Promote interventions that may relieve ABRS symptoms (analgesics, saline irrigation, topical intranasal steroids) and discourage interventions with questionable or unproven efficacy (antihistamines, systemic steroids, guaifenesin) </li>
+    <li>Aggregate evidence quality: Grade A, systematic review of RCTs for topical nasal steroids; Grade B, RCTs with heterogeneous populations, diagnostic criteria, and outcomes measures for saline irrigation and systemic steroids; grade D, first principles, for analgesics, decongestants, antihistamines (in non-atopic patients) and guaifenesin. </li>
+    <li>Level of confidence in evidence: Medium </li>
+    <li>Benefit: Relief of facial pain with analgesics, modest increase in symptom relief from topical nasal steroids (number needed to treat 14), and possible symptom relief from saline irrigations; avoidance of adverse events from ineffective therapies </li>
+    <li>Risks, harms, costs: Side effects of medications, which include local and systemic adverse reactions; cost of medications </li>
+    <li>Benefits-harm assessment: Balance of benefit and harm </li>
+    <li>Value judgments: Provide symptomatic relief while minimizing adverse events and costs </li>
+    <li>Intentional vagueness: The panel uses the broad term <em>symptomatic relief</em> to acknowledge there are several interventions available for this purpose and to encourage a conversation between clinicians and patients about which specific intervention(s) may be best for their specific ABRS symptoms </li>
+    <li>Role of patient preferences: Large role for shared decision making regarding use of analgesics, topical nasal steroids, and saline irrigation </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Option </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 4. Initial Management of Acute Bacterial Rhinosinusitis (ABRS)</span></strong></p>
+<p>Clinicians should either offer watchful waiting (without antibiotics) or prescribe initial antibiotic therapy for adults with uncomplicated ABRS. Watchful waiting should be offered only when there is assurance of follow-up, such that antibiotic therapy is started if the patient's condition fails to improve by 7 days after ABRS diagnosis or if it worsens at any time.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><em>Recommendation</em></span> based on systematic reviews of double-blind RCTs with some heterogeneity in diagnostic criteria and illness severity and a relative balance of benefit and risk.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Make explicit to clinicians and patients that not prescribing antibiotics for clinically diagnosed ABRS is an appropriate initial management strategy, because many patients will improve spontaneously and antibiotics could be started later if follow-up was assured. </li>
+    <li>Aggregate evidence quality: Grade A, multiple systematic reviews of RCTs with some heterogeneity in diagnostic criteria and illness severity </li>
+    <li>Level of confidence in evidence: Medium </li>
+    <li>Benefit: Promote more informed, shared decision making regarding whether or not to prescribe initial antibiotics for ABRS given the favorable natural history in placebo groups, the small to modest benefits of antibiotic therapy, and the higher rates of adverse events when antibiotics are prescribed; more selective initial use of antibiotics will reduce adverse events and the risk of bacterial resistance </li>
+    <li>Risks, harms, costs: Antibiotics could be withheld from patients who would have derived benefit from their use; antibiotics could be prescribed to patients who would have improved equally on their own. </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm (regarding the decision for initial management) </li>
+    <li>Value judgments: Perception by the guideline update group (GUG) that watchful waiting, without antibiotics, is an underused strategy for initial management of uncomplicated ABRS, despite existing guidelines and systematic reviews that support this approach. </li>
+    <li>Intentional vagueness: No restrictions have been stated for illness severity (e.g., mild, moderate, or severe), which was done in the prior guideline, because insufficient evidence to determine that severity would affect outcomes of antibiotic therapy, including the potential for complications. </li>
+    <li>Role of patient preferences: Large role for shared decision making </li>
+    <li>Exceptions: Complicated sinusitis, immune deficiency, or coexisting bacterial illness; the clinician should also consider the patient's age, general health, cardiopulmonary status, and comorbid conditions when assessing suitability for watchful waiting. </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: No difference of opinion regarding the choice to initially observe or prescribe antibiotics (one abstention); minor difference of opinion (1 against, 9 in favor) regarding the decision to remove severity (e.g., mild illness) as a criterion for watchful waiting </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 5. Choice of Antibiotic for Acute Bacterial Rhinosinusitis (ABRS)</span></strong></p>
+<p>If a decision is made to treat ABRS with an antibiotic agent, the clinician should prescribe amoxicillin with or without clavulanate as first-line therapy for 5 to 10 days for most adults.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><em>Recommendation</em></span> based on RCTs with heterogeneity and noninferiority design with a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Discourage initial prescribing of antibiotics other than amoxicillin, with or without clavulanate, that may have lower efficacy or have comparable efficacy but more adverse events. </li>
+    <li>Aggregate evidence quality: Grade A, systematic reviews of RCTs with heterogeneity and noninferiority design </li>
+    <li>Level of confidence in evidence: Moderate regarding choice of antibiotic but lower regarding the optimal duration of antibiotic therapy because of limited supporting evidence and statistical power </li>
+    <li>Benefit: Clinical outcomes that are comparable to broader spectrum antibiotics for initial therapy; potential reduced bacterial resistance by using a narrow-spectrum antibiotic as first-line therapy; cost-effectiveness of amoxicillin vs other antibiotic choices </li>
+    <li>Risks, harms, costs: Potential increased gastrointestinal adverse effects with amoxicillin-clavulanate compared with other antibiotics; adverse effects from penicillin allergy </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Promote safe and cost-effective initial therapy </li>
+    <li>Intentional vagueness: Whether to prescribe amoxicillin or amoxicillin-clavulanate is at the discretion of the clinician, as is the duration of therapy because systematic review has not shown consistent benefits for 10 days of therapy compared with shorter courses. A longer course of therapy may be appropriate for more severe illness or when symptoms persist despite a shorter course. </li>
+    <li>Role of patient preferences: Moderate role for shared decision making; large role in determining duration of antibiotic therapy since adverse events are reduced with shorter duration of therapy. </li>
+    <li>Exceptions: Patients with penicillin allergy for whom amoxicillin is contraindicated </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 6. Treatment Failure for Acute Bacterial Rhinosinusitis (ABRS)</span></strong></p>
+<p>If the patient fails to improve with the initial management option by 7 days after diagnosis or worsens during the initial management, the clinician should reassess the patient to confirm ABRS, exclude other causes of illness, and detect complications. If ABRS is confirmed in the patient initially managed with observation, the clinician should begin antibiotic therapy. If the patient was initially managed with an antibiotic, the clinician should change the antibiotic.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><em>Recommendation</em></span> based on RCTs with limitations supporting a cut-point of 7 days for lack of improvement and expert opinion and first principles for changing therapy with a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Define realistic expectations regarding clinical response to initial management and to articulate clearly when reassessment of the patient is warranted </li>
+    <li>Aggregate evidence quality: Grade B, RCTs with limitations supporting a cut-point of 7 days for lack of improvement; Grade D, expert opinion and first principles for changing therapy, including the use of rescue antibiotic in RCTs</li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Prevent complications, detect misdiagnosis, institute effective therapy </li>
+    <li>Risks, harms, costs: Delay of up to 7 days in changing therapy if patient fails to improve; medication cost </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Avoid excessive classification as treatment failures because of a premature time point for assessing outcomes; emphasize importance of worsening illness in definition of treatment failure </li>
+    <li>Intentional vagueness: How to define worsening is left to the judgment of the clinician and patient, but there was group consensus that fluctuations in signs and symptoms within the first 48 to 72 hours of initial therapy were not uncommon and not necessarily indicative of failure. </li>
+    <li>Role of patient preferences: None (unless the patient declines reassessment) </li>
+    <li>Exceptions: Include but are not limited to severe illness, complicated sinusitis, immune deficiency, prior sinus surgery, or coexisting bacterial illness; the clinician should also consider the patient's age, general health, cardiopulmonary status, and comorbid conditions in determining an appropriate cut-point for assessing treatment failure; changing antibiotic therapy before failure would be appropriate in the face of adverse treatment effects. </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 7A. Diagnosis of Chronic Rhinosinusitis (CRS) or Acute Rhinosinusitis (ARS)</span></strong></p>
+<p>Clinicians should distinguish CRS and recurrent ARS from isolated episodes of acute bacterial rhinosinusitis and other causes of sinonasal symptoms.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><em>Recommendation</em></span> based on cohort and observational studies with a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Raise awareness of the distinct clinical entities of CRS and recurrent ARS so that appropriate management strategies may be implemented </li>
+    <li>Aggregate evidence quality: Grade C, cohort and observational studies </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Distinguish conditions that might benefit from additional management strategies than isolated cases of ABRS </li>
+    <li>Risks, harms, costs: Potential misclassification of illness because of overlapping symptomatology with other illnesses; no cost </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Importance of accurate diagnosis </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Not applicable </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 7B. Objective Confirmation of a Diagnosis of Chronic Rhinosinusitis (CRS)</span></strong></p>
+<p>The clinician should confirm a clinical diagnosis of CRS with objective documentation of sinonasal inflammation, which may be accomplished using anterior rhinoscopy, nasal endoscopy, or computed tomography. </p>
+<p><span style=&quot;text-decoration: underline;&quot;><em>Strong recommendation</em></span> based on cross-sectional studies with a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Reduce overdiagnosis of CRS based on self-reported symptoms </li>
+    <li>Aggregate evidence quality: Grade B, cross-sectional studies </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Improved diagnostic certainty for CRS and fewer false-positive diagnoses, which allows patients with CRS to be managed more promptly and those without CRS to seek additional evaluation of their sinusitis-like symptoms and institute effective therapy </li>
+    <li>Risks, harms, costs: None associated with improved diagnostic certainty, but diagnostic modalities have their own risk and direct cost profiles </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Strong consensus by the GUG that the need for objective documentation of sinonasal inflammation is likely underappreciated and underperformed, despite its critical role in substantiating a diagnosis of CRS </li>
+    <li>Intentional vagueness: Which of the three listed diagnostic modalities to use is not stated </li>
+    <li>Role of patient preferences: Large role for shared decision making with clinicians regarding choice of the confirmatory diagnostic modality </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Strong recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 8. Modifying Factors</span></strong></p>
+<p>Clinicians should assess the patient with chronic rhinosinusitis or recurrent acute rhinosinusitis for multiple chronic conditions that would modify management such as asthma, cystic fibrosis, immunocompromised state, and ciliary dyskinesia.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on one systematic review and multiple observational studies with a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Identify comorbid conditions that are known to accompany CRS and recurrent ARS, the knowledge of which would improve management of the sinusitis, and conversely, management of sinusitis may improve the associated chronic condition (asthma) </li>
+    <li>Aggregate evidence quality: Grade B, one systematic review and multiple observational studies </li>
+    <li>Level of confidence in evidence: Medium </li>
+    <li>Benefit: Identify modifying factors that would alter management of CRS or recurrent acute rhinosinusitis; identify conditions that require therapy independent of rhinosinusitis </li>
+    <li>Risks, harms, costs: Identifying and treating incidental findings or subclinical conditions that might not require independent therapy; morbidity related to specific tests; variable costs based on testing ordered </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Consensus that identifying and managing modifying factors will improve outcomes </li>
+    <li>Intentional vagueness: The method of assessing for these conditions is at the discretion of the clinician and may include history, physical examination, or diagnostic tests. </li>
+    <li>Role of patient preferences: Small </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 9. Testing for Allergy and Immune Function</span></strong></p>
+<p>The clinician may obtain testing for allergy and immune function in evaluating a patient with chronic rhinosinusitis or recurrent acute rhinosinusitis.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><em>Option</em></span> based on observational studies with an unclear balance of benefit vs harm.</p>
+<p><strong>Action Statement Profile </strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Improve patient quality of life by identifying, and managing, allergies that often coexist with CRS and recurrent ARS and have overlapping symptoms that may make diagnosis difficult using strictly clinical criteria without testing </li>
+    <li>Aggregate evidence quality: Grade C, systematic review of observational studies </li>
+    <li>Level of confidence in evidence: Medium </li>
+    <li>Benefit: Identify allergies or immunodeficient states that are potential modifying factors for CRS or recurrent acute rhinosinusitis and improve management strategies </li>
+    <li>Risks, harms, costs: Procedural discomfort; instituting therapy based on test results with limited evidence of efficacy for CRS or recurrent acute rhinosinusitis; very rare chance of anaphylactic reactions during allergy testing; procedural and laboratory cost </li>
+    <li>Benefits-harm assessment: Balance of benefit and harm </li>
+    <li>Value judgments: Need to balance detecting allergy in a population with high prevalence vs limited evidence showing benefits of allergy management on rhinosinusitis outcomes </li>
+    <li>Intentional vagueness: The methods and scope of testing for allergy and immune function are at the discretion of the clinician </li>
+    <li>Role of patient preferences: Large for shared decision making </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Option </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 10. Chronic Rhinosinusitis (CRS) With Polyps</span></strong></p>
+<p>The clinician should confirm the presence or absence of nasal polyps in a patient with CRS.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><em>Recommendation</em></span> based on observational studies with preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Improve awareness of the prevalence of polyps in patients with CRS and their role as a modifying factor for further diagnostic assessment and treatment. </li>
+    <li>Aggregate evidence quality: High; Grade A, systematic review of multiple RCTs </li>
+    <li>Level of confidence in evidence: Medium </li>
+    <li>Benefit: Prioritize referral for specialty evaluation, identify patients likely to benefit most from topical (intranasal) or systemic corticosteroid therapy, identify patients for additional diagnostic tests to assess for conditions other than CRS that are associated with nasal polyposis and may require different management strategies </li>
+    <li>Risks, harms, and costs: None related to identifying patients; specific costs and risks based on the choice of diagnostic procedure </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Underappreciation of the importance of polyps as a modifying factor for CRS; perception of diagnostic uncertainty in the ability to detect or exclude the presence of polyps </li>
+    <li>Intentional vagueness: The method of confirming the diagnosis is left to the discretion of the clinician, provided that a high degree of diagnostic certainty is achieved </li>
+    <li>Role of patient preferences: None </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 11. Topical Intranasal Therapy for Chronic Rhinosinusitis (CRS)</span></strong></p>
+<p>Clinicians should recommend saline nasal irrigation, topical intranasal corticosteroids, or both for symptom relief of CRS.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Address underutilization; promote awareness of efficacy; reduce confusion over delivery method, frequency, and duration; educate patients on optimal administration </li>
+    <li>Aggregate evidence quality: Grade A, systematic reviews of RCTs </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Symptomatic relief, promoting awareness of effective over-the-counter interventions, discouraging improper and ineffective usage, and avoiding adverse events from systemic therapies </li>
+    <li>Risks, harms, costs: Intranasal discomfort, burning, stinging; epistaxis; direct costs of saline or steroid </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: None </li>
+    <li>Intentional vagueness: The choice of saline, steroid, or both is a shared decision; it is not clear how long the treatment should last as the natural history is unknown </li>
+    <li>Role of patient preferences: Large role for deciding which products to use and their duration </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 12. Antifungal Therapy for Chronic Rhinosinusitis (CRS)</span></strong></p>
+<p>Clinicians should not prescribe topical or systemic antifungal therapy for patients with CRS.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><em>Recommendation (against therapy)</em></span> based on systematic review of RCTs with a preponderance of benefit over harm (for not treating).</p>
+<p><strong>Action Statement Profile</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: Discourage use of antifungal therapy for CRS based on lack of efficacy and presence of significant cost and adverse effects </li>
+    <li>Aggregate evidence quality: Grade A, systematic reviews of RCTs </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Avoid cost of ineffective medications, avoid unnecessary adverse events, direct management away from ineffective therapy to beneficial therapy (opportunity cost), avoid selection of resistant fungi and alterations of sinonasal flora </li>
+    <li>Risks, harms, costs: None (for avoiding ineffective therapy) </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm (for not treating) </li>
+    <li>Value judgments: Antifungal therapy is frequently used, with regional variations, for treating CRS despite good evidence of no efficacy </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: None </li>
+    <li>Exceptions: Patients with allergic fungal sinusitis or invasive fungal sinusitis </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Definitions</strong></span></p>
+<p><strong>Aggregate Grades of Evidence by Question Type<sup>a</sup></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Aggregate Grades of Evidence by Question Type&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Treatment</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Diagnosis</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Prognosis</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>A</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of randomized trials</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of cross-sectional studies with consistently applied reference standard and blinding</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of inception cohort studies<sup>c</sup></td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>B</td>
+            <td valign=&quot;top&quot;>Randomized trials or observational studies with dramatic effects or highly consistent evidence</td>
+            <td valign=&quot;top&quot;>Cross-sectional studies with consistently applied reference standard and blinding</td>
+            <td valign=&quot;top&quot;>Inception cohort studies<sup>c</sup></td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>C</td>
+            <td valign=&quot;top&quot;>Nonrandomized or historically controlled studies, including case-control and observational studies</td>
+            <td valign=&quot;top&quot;>Nonconsecutive studies, case-control studies, or studies with poor, nonindependent, or inconsistently applied reference standards</td>
+            <td valign=&quot;top&quot;>Cohort study, control arm of a randomized trial, case series, or case-control studies; poor-quality prognostic cohort study</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>D</td>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>Case reports, mechanism-based reasoning, or reasoning from first principles</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>X</td>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>Exceptional situations where validating studies cannot be performed and there is a clear preponderance of benefit over harm</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;><sup>a</sup>American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation guideline development manual (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p class=&quot;Note&quot;><sup>b</sup>A systematic review may be downgraded to level B because of study limitations, heterogeneity, or imprecision.</p>
+<p class=&quot;Note&quot;><sup>c</sup>A group of individuals identified for subsequent study at an early, uniform point in the course of the specified health condition or before the condition develops.</p>
+<p><strong>Strength of Action Terms in Guideline Statements and Implied Levels of Obligation</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Strength of Action Terms in Guideline Statements and Implied Levels of Obligation&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Strength</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Definition</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Implied Obligation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot; scope=&quot;row&quot;>Strong Recommendation</td>
+            <td valign=&quot;top&quot;>A strong recommendation means the benefits of the recommended approach clearly exceed the harms (or, in the case of a strong negative recommendation, that the harms clearly exceed the benefits) and that the quality of the supporting evidence is high (Grade A or B).* In some clearly identified circumstances, strong recommendations may be made based on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits strongly outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot; scope=&quot;row&quot;>Recommendation</td>
+            <td valign=&quot;top&quot;>A recommendation means the benefits exceed the harms (or, in the case of a negative recommendation, that the harms exceed the benefits), but the quality of evidence is not as high (Grade B or C).* In some clearly identified circumstances, recommendations may be made based on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should also generally follow a recommendation but should remain alert to new information and sensitive or patient preferences.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot; scope=&quot;row&quot;>Option</td>
+            <td valign=&quot;top&quot;>An option means that either the quality of evidence is suspect (Grade D)* or that well-done studies (Grade A, B, or C)* show little clear advantage to one approach vs another.</td>
+            <td valign=&quot;top&quot;>Clinicians should be flexible in their decision making regarding appropriate practice, although they may set bounds on alternatives; patient preference should have a substantial influencing role.</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>*See the &quot;Rating Scheme for the Strength of Evidence&quot; field for definitions of evidence grades.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An algorithm titled &quot;Algorithm Showing the Interrelationship of Guideline Key Action Statements&quot; is provided in the original guideline document.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Uncomplicated rhinosinusitis </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Acute rhinosinusitis (ARS) </li>
+    <li>Chronic rhinosinusitis (CRS) </li>
+</ul>
+<p class=&quot;Note&quot;><strong>Note</strong>: The guideline will not consider management of the following clinical presentations: allergic rhinitis, eosinophilic nonallergic rhinitis, vasomotor rhinitis, invasive fungal rhinosinusitis, allergic fungal rhinosinusitis, vascular headaches, and migraines.</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Allergy and Immunology"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Infectious Diseases"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Nursing"/>
+      <fieldvalue value="Otolaryngology"/>
+      <fieldvalue value="Pulmonary Medicine"/>
+      <fieldvalue value="Radiology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To identify quality improvement opportunities in managing adult rhinosinusitis and to create explicit and actionable recommendations to implement these opportunities in clinical practice</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients age 18 years or older with a clinical diagnosis of uncomplicated rhinosinusitis</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: The guideline will not consider management of rhinosinusitis in patients with the following modifying factors: cystic fibrosis, immotile cilia disorders, ciliary dyskinesia, immune deficiency, prior history of sinus surgery, and anatomic abnormalities (e.g., deviated nasal septum).</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>Differential diagnosis
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Distinguishing between bacterial or viral acute rhinosinusitis (ARS) </li>
+        <li>Signs/symptoms worsening within 10 days </li>
+    </ul>
+    </li>
+    <li>Symptomatic relief of ARS and chronic rhinosinusitis (CRS) (analgesics, topical intranasal therapy and/or nasal saline irrigation) </li>
+    <li>Watchful waiting (without antibiotics) </li>
+    <li>Initial antibiotic therapy (amoxicillin with or without clavulanate) </li>
+    <li>Confirmation of clinical diagnosis of CRS and recurrent ARS from isolated episodes of acute bacterial rhinosinusitis (ABRS) </li>
+    <li>Assessment for multiple chronic conditions </li>
+    <li>Testing for allergy and immune function </li>
+    <li>Confirmation of the presence or absence of polyps in CRS </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: The following interventions were considered but not recommended:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li class=&quot;Note&quot;>Radiographic imaging </li>
+    <li class=&quot;Note&quot;>Antifungal therapy (topical or systemic) for CRS </li>
+</ul>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Sensitivity and specificity of a diagnostic tests </li>
+    <li>Cure or improvement rates </li>
+    <li>Adverse events </li>
+    <li>Quality of life </li>
+    <li>Patient satisfaction </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A systematic literature search was performed by an information specialist to identify systematic reviews, clinical practice guidelines, and randomized controlled trials (RCTs) published since the prior guideline (2007). The original MEDLINE search was updated from December 2006 to March 2014 to include MEDLINE, National Guideline Clearinghouse (NGC), Cochrane Database of Systematic Reviews, Excerpta Medica database (EMBASE), Cumulative Index to Nursing and Allied Health (CINAHL), and Web of Science using the search string &quot;(sinusit* OR rhinosinusit*).&quot; The initial English-language search identified 54 potential clinical practice guidelines, 166 systematic reviews, and 352 RCTs. Systematic reviews were emphasized and included if they met quality criteria of (a) clear objective and methods, (b) an explicit search strategy, and (c) valid data extraction. Additional evidence was identified, as needed, with targeted searches to support needs of the guideline development group in updating sections of the guideline text.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>After assessing quality and relevance of the initial search results, the guideline developers retained 5 guidelines, 42 systematic reviews, and 70 randomized controlled trials (RCTs).</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Aggregate Grades of Evidence by Question Type<sup>a</sup></span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Aggregate Grades of Evidence by Question Type&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Treatment</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Diagnosis</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Prognosis</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>A</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of randomized trials</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of cross-sectional studies with consistently applied reference standard and blinding</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of inception cohort studies<sup>c</sup></td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>B</td>
+            <td valign=&quot;top&quot;>Randomized trials or observational studies with dramatic effects or highly consistent evidence</td>
+            <td valign=&quot;top&quot;>Cross-sectional studies with consistently applied reference standard and blinding</td>
+            <td valign=&quot;top&quot;>Inception cohort studies<sup>c</sup></td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>C</td>
+            <td valign=&quot;top&quot;>Nonrandomized or historically controlled studies, including case-control and observational studies</td>
+            <td valign=&quot;top&quot;>Nonconsecutive studies, case-control studies, or studies with poor, nonindependent, or inconsistently applied reference standards</td>
+            <td valign=&quot;top&quot;>Cohort study, control arm of a randomized trial, case series, or case-control studies; poor-quality prognostic cohort study</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>D</td>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>Case reports, mechanism-based reasoning, or reasoning from first principles</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>X</td>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>Exceptional situations where validating studies cannot be performed and there is a clear preponderance of benefit over harm</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;><sup>a</sup>American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation guideline development manual (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p class=&quot;Note&quot;><sup>b</sup>A systematic review may be downgraded to level B because of study limitations, heterogeneity, or imprecision.</p>
+<p class=&quot;Note&quot;><sup>c</sup>A group of individuals identified for subsequent study at an early, uniform point in the course of the specified health condition or before the condition develops.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The evidence-based approach to guideline development requires that the evidence supporting a policy be identified, appraised, and summarized and that an explicit link between evidence and statements be defined. Evidence-based statements reflect both the quality of evidence and the balance of benefit and harm that are anticipated when the statement is followed. The definitions for evidence-based statements are listed in the &quot;Rating Scheme for the Strength of Evidence&quot; and &quot;Rating Scheme for the Strength of the Recommendations&quot; fields.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>In developing this update of the evidence-based clinical practice guideline, the methods outlined in the American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation (AAO-HNSF) Guideline Development Manual, third edition (see the &quot;Availability of Companion Documents&quot; field), were followed explicitly.</p>
+<p>The AAO-HNSF assembled a guideline update group (GUG) representing the disciplines of otolaryngology&amp;ndash;head and neck surgery, infectious disease, family medicine, allergy and immunology, advanced practice nursing, and a consumer advocate. The GUG also included a staff liaison from AAO-HNSF, but this individual was not a voting member of the GUG and served only in an editorial capacity in writing the guideline. Although radiology was represented on the original guideline development group, they were excluded from the update since the AAO-HNSF had recently published a clinical consensus statement on imaging for sinusitis. The guideline developers did, however, solicit radiology feedback about pertinent statements to ensure they remained valid and current.</p>
+<p>The GUG had several conference calls and one in-person meeting, during which comments from the expert panel review and the literature search were reviewed for each key action statement. The GUG then decided to leave the statement unaltered, change slightly, or rewrite the statement based on the impact of the literature search and the reviewer comments. The supporting text was then edited to explain any changes from the original key action statement, and the recommendation level was modified accordingly.</p>
+<p>The evidence profile for each statement was then converted into an action statement profile, which was moved up in the text to immediately follow the action statement. Statements about the quality improvement opportunity, level of confidence in the evidence, differences of opinion, intentional vagueness, and any exclusion to which the action statement does not apply were added to the action statement profiles. These additions reflect the current methodology for guideline development by the AAO-HNSF and conform to the Institute of Medicine's standards for developing trustworthy guidelines. The updated guideline then underwent Guideline Implementability Appraisal (GLIA) to appraise adherence to methodologic standards, to improve clarity of recommendations, and to predict potential obstacles to implementation.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Strength of Action Terms in Guideline Statements and Implied Levels of Obligation</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Strength of Action Terms in Guideline Statements and Implied Levels of Obligation&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Strength</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Definition</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Implied Obligation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot; scope=&quot;row&quot;>Strong Recommendation</td>
+            <td valign=&quot;top&quot;>A strong recommendation means the benefits of the recommended approach clearly exceed the harms (or, in the case of a strong negative recommendation, that the harms clearly exceed the benefits) and that the quality of the supporting evidence is high (Grade A or B).* In some clearly identified circumstances, strong recommendations may be made based on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits strongly outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot; scope=&quot;row&quot;>Recommendation</td>
+            <td valign=&quot;top&quot;>A recommendation means the benefits exceed the harms (or, in the case of a negative recommendation, that the harms exceed the benefits), but the quality of evidence is not as high (Grade B or C).* In some clearly identified circumstances, recommendations may be made based on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should also generally follow a recommendation but should remain alert to new information and sensitive or patient preferences.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot; scope=&quot;row&quot;>Option</td>
+            <td valign=&quot;top&quot;>An option means that either the quality of evidence is suspect (Grade D)* or that well-done studies (Grade A, B, or C)* show little clear advantage to one approach vs another.</td>
+            <td valign=&quot;top&quot;>Clinicians should be flexible in their decision making regarding appropriate practice, although they may set bounds on alternatives; patient preference should have a substantial influencing role.</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>*See the &quot;Rating Scheme for the Strength of Evidence&quot; field for definitions of evidence grades.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline developers reviewed published cost analyses.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The final draft of the updated clinical practice guideline was revised based on comments received during multidisciplinary peer review, open public comment, and journal editorial peer review. The recommendations contained in the guideline are based on the best available published data through March 2014.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p>
+<p>The recommendations contained in the guideline are based on the best available published data through March 2014. Where data were lacking, a combination of clinical experience and expert consensus was used.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Improved diagnostic accuracy for adult rhinosinusitis, promotion of judicious use of systemic and topical therapy, and promotion of appropriate use of ancillary tests to confirm diagnosis and guide management.</p>
+<p>For benefits of specific interventions considered in the guideline, see the &quot;Major Recommendations&quot; field.</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Topical decongestants should not be used more than 3 to 5 consecutive days without a prolonged intervening drug-free period due to their propensity to cause rebound congestion and rhinitis medicamentosa. </li>
+    <li>Adverse events are common with antibiotic therapy. An average event rate of 15% to 40% is observed, with the most frequent complaints being nausea, vomiting, diarrhea, abdominal pain, headache, skin rash, photosensitivity, and vaginal moniliasis.&amp;nbsp; </li>
+    <li>Resistance patterns must be considered when prescribing antibiotics for acute bacterial rhinosinusitis (ABRS) to avoid using an antibiotic that may be rendered ineffective by bacterial resistance. For example, &amp;beta;-lactamase producing H influenzae has a prevalence of 27% to 43% in the United States and would not be expected to respond to amoxicillin unless clavulanate was added. </li>
+    <li>Common side effects of nasal irrigation include fluid dripping from the nose. </li>
+</ul>
+<p>For possible harms of specific interventions considered in the guideline, see the &quot;Major Recommendations&quot; field.</p>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Oral decongestants may provide symptomatic relief and should be considered barring any medical contraindications, such as hypertension or anxiety.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The clinical practice guideline is provided for information and educational purposes only. It is not intended as a sole source of guidance in managing adults with rhinosinusitis. Rather, it is designed to assist clinicians by providing an evidence-based framework for decision-making strategies. The guideline is not intended to replace clinical judgment or establish a protocol for all individuals with this condition and may not provide the only appropriate approach to diagnosing and managing this program of care. As medical knowledge expands and technology advances, clinical indicators and guidelines are promoted as conditional and provisional proposals of what is recommended under specific conditions but are not absolute. Guidelines are not mandates; these do not and should not purport to be a legal standard of care. The responsible physician, in light of all circumstances presented by the individual patient, must determine the appropriate treatment. Adherence to these guidelines will not ensure successful patient outcomes in every situation. The American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation (AAO-HNSF) emphasizes that these clinical guidelines should not be deemed to include all proper treatment decisions or methods of care, or to exclude other treatment decisions or methods of care reasonably directed to obtaining the same results. </li>
+    <li>Guidelines are never intended to supersede professional judgment; rather, they may be viewed as a relative constraint on individual clinician discretion in a particular clinical circumstance. Less frequent variation in practice is expected for a strong recommendation than might be expected with a recommendation. Options offer the most opportunity for practice variability. Clinicians should always act and decide in a way that they believe will best serve their individual patients' interests and needs, regardless of guideline recommendations. Guidelines represent the best judgment of a team of experienced clinicians and methodologists addressing the scientific evidence for a particular topic. </li>
+    <li>Making recommendations about health practices involves value judgments on the desirability of various outcomes associated with management options. Values applied by the guideline update group (GUG) sought to minimize harm, diminish unnecessary and inappropriate therapy, and reduce the unnecessary use of systemic antibiotics. A major goal of the panel was to be transparent and explicit about how values were applied and to document the process. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Implementation Considerations</span></strong></p>
+<p>The complete guideline is published as a supplement to <em>Otolaryngology&amp;ndash;Head and Neck Surgery</em>, and an executive summary will be simultaneously published in the main journal. A full-text version of the guideline will also be accessible free of charge at <a href=&quot;http://www.entnet.org&quot; title=&quot;AAO-HNSF Web site&quot;>www.entnet.org</a>, the American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation (AAO-HNSF) Web site. The guideline will be presented to AAO-HNSF members as a miniseminar at the annual meeting following publication. Existing brochures, publications, and patient information sheets from the AAO-HNSF will be updated to reflect the guideline recommendations.</p>
+<p>An anticipated barrier to the diagnosis of rhinosinusitis is the differentiation of viral rhinosinusitis (VRS) from acute bacterial rhinosinusitis (ABRS) in a busy clinical setting. This is facilitated by the clear, unambiguous criteria in Table 4 (see the original guideline document) and in Key Action Statement 1a, which allow clinicians to identify illness that is likely bacterial based on the history and time course of illness, without invasive tests or imaging studies. Use of these criteria may be assisted by a teaching card or visual aid. Patient education (see Table 5 in the original guideline document) may help address this barrier. When diagnosed with VRS, patients may pressure clinicians for antibiotics, in addition to symptomatic therapy, especially when nasal discharge is colored or purulent. Existing educational material from the Centers for Disease Control and Prevention (CDC) Get Smart Campaign can be used by clinicians to help clarify misconceptions about viral illness and nasal discharge.</p>
+<p>Anticipated barriers to &quot;watchful waiting&quot; for ABRS are the reluctance of patients and clinicians to consider observing a presumed bacterial illness. Compared with the first version of this guideline, however, there is a now a more robust evidence base to substantiate watchful waiting as an initial management strategy, even when more severe symptoms are present. These barriers can be overcome with an educational handout (see Table 6 in the original guideline document) of patient information of nonsevere ABRS, the moderate incremental benefit of antibiotics on clinical outcomes, and the potential adverse effects of orally administered antibiotics (including induced bacterial resistance).</p>
+<p>A potential barrier to using &quot;wait-and-see&quot; or &quot;safety net&quot; prescriptions as part of a watchful waiting strategy for initial management of ABRS is that electronic health records may consider all antibiotic prescriptions, even if never filled by the patient, as &quot;antibiotic prescribing,&quot; which could adversely affect quality measures. One solution would be for companies that produce electronic health records to include a means of documenting delayed prescribing strategies (e.g., wait-and-see) for antibiotic therapy.</p>
+<p>Some patients and clinicians might object to amoxicillin, with or without clavulanate, as first-line therapy for ABRS, based on assumptions that newer, more expensive alternatives &quot;must be&quot; more effective. Most favorable clinical outcomes for nonsevere ABRS, however, result from natural history, not antibiotics, and randomized controlled trials of comparative efficacy do not support superiority of any single agent for initial empiric therapy. Pamphlets may help in dispelling myths about comparative efficacy.</p>
+<p>Barriers may also be anticipated concerning guideline statements for chronic rhinosinusitis (CRS) and recurrent acute rhinosinusitis. The diagnostic criteria for these entities are unfamiliar to many clinicians, who might benefit from a summary card or teaching aid that lists these criteria along with those for ABRS and VRS. Performance of nasal endoscopy, allergy evaluation, and immunologic assessment, when appropriate, may be hindered by access to equipment and by procedural cost.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Pocket Guide/Reference Cards"/>
+      <fieldvalue value="Quick Reference Guides/Physician Guides"/>
+      <fieldvalue value="Resources"/>
+      <fieldvalue value="Slide Presentation"/>
+      <fieldvalue value="Wall Poster"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Rosenfeld RM, Piccirillo JF, Chandrasekhar SS, Brook I, Ashok Kumar K, Kramper M, Orlandi RR, Palmer JN, Patel ZM, Peters A, Walsh SA, Corrigan MD. Clinical practice guideline (update): adult sinusitis. Otolaryngol Head Neck Surg. 2015 Apr;152(2 Suppl):S1-S39. [286 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25832968&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2007 Sep (revised 2015 Apr)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American Academy of Otolaryngology - Head and Neck Surgery Foundation - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF)</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF) Guideline Development Panel</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Panel Members</em>: Richard M. Rosenfeld, MD, MPH, Department of Otolaryngology, SUNY Downstate Medical Center, Brooklyn, New York, USA; Jay F. Piccirillo, MD, Department of Otolaryngology&amp;ndash;Head and Neck Surgery, Washington University in St Louis, School of Medicine, St Louis, Missouri, USA; Sujana S. Chandrasekhar, MD, New York Otology, New York Head and Neck Institute, New York, New York, USA; Itzhak Brook, MD, MSc, Department of Pediatrics, Georgetown University, Washington, DC, USA; Kaparaboyna Ashok Kumar, MD, FRCS, Department of Family Medicine, University of Texas Health Sciences Center at San Antonio, San Antonio, Texas, USA; Maggie Kramper, RN, FNP, Department of Otolaryngology, Washington University in St Louis School of Medicine, St Louis, Missouri, USA; Richard R. Orlandi, MD, Division of Otolaryngology, University of Utah School of Medicine, Salt Lake City, Utah, USA; James N. Palmer, MD, Department Otolaryngology, University of Pennsylvania Hospital, Philadelphia, Pennsylvania, USA; Zara M. Patel, MD, Department of Otolaryngology Head &amp;amp; Neck Surgery, Emory University, Atlanta, Georgia, USA; Anju Peters, MD, Department of Internal Medicine, Northwestern University Allergy Division, Chicago, Illinois, USA; Sandra A. Walsh, Consumers United for Evidence-Based Healthcare, Davis, California, USA; Maureen D. Corrigan, AAO-HNSF, Alexandria, Virginia, USA</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Financial Disclosure and Conflicts of Interest</span></strong></p>
+<p>The cost of developing this guideline, including travel expenses of all panel members, was covered in full by the American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation (AAO-HNSF). Potential conflicts of interest for all panel members in the past 5 years were compiled and distributed before the first conference call. After review and discussion of these disclosures, the panel concluded that individuals with potential conflicts could remain on the panel if they (1) reminded the panel of potential conflicts before any related discussion, (2) recused themselves from a related discussion if asked by the panel, and (3) agreed not to discuss any aspect of the guideline with industry before publication. Last, panelists were reminded that conflicts of interest extend beyond financial relationships and may include personal experiences, how a participant earns a living, and the participant's previously established &quot;stake&quot; in an issue.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Disclosures</span></strong></p>
+<p><em>Competing interests</em>: Sujana S. Chandrasekhar, shareholder in Scientific Development and Research; Kaparaboyna Ashok Kumar, speaker for National Procedures Institute and consultant for Fetal Alcohol Spectrum of Disorders (CDC); Richard R. Orlandi, consulting fee from Medtronic; James N. Palmer, ownership of Pathway&amp;ndash;HC Pathways; Zara M. Patel, Honorarium to teach&amp;ndash;ENT-Arthrocare; Anju Peters, consulting fee from Baxter, advisory board for Greer Laboratories; Maureen D. Corrigan, salaried employee of AAO-HNSF.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Rosenfeld RM, Andes D, Bhattacharyya N, Cheung D, Eisenberg S, Ganiats TG, Gelzer A, Hamilos D, Haydon RC 3rd, Hudgins PA, Jones S, Krouse HJ, Lee LH, Mahoney MC, Marple BF, Mitchell CJ, Nathan R, Shiffman RN, Smith TL, Witsell DL. Clinical practice guideline: adult sinusitis. Otolaryngol Head Neck Surg. 2007 Sep;137(3 Suppl):S1-31. [233 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;http://www.entnet.org/content/clinical-practice-guideline-adult-sinusitis&quot; title=&quot;AAO-HNSF Web site&quot;>American Academy of Otolaryngology - Head and Neck Surgery Foundation (AAO-HNSF) Web site</a> and from the <a href=&quot;http://oto.sagepub.com/content/152/2_suppl.toc&quot; title=&quot;SAGE Journals Web site&quot;>SAGE Journals Web site</a>.</p>
+<p>Print copies: Available from Barbara Eisenberg, Special Sales Manager at SAGE. E-mail: <a href=&quot;mailto:barbara.eisenberg@sagepub.com&quot;>barbara.eisenberg@sagepub.com</a>. </p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Rosenfeld RM, Piccirillo JF, Chandrasekhar SS, Brook I, Ashok Kumar K, Kramper M, Orlandi RR, Palmer JN, Patel ZM, Peters A, Walsh SA, Corrigan MD. Clinical practice guideline (update): adult sinusitis executive summary. Otolaryngol Head Neck Surg. 2015 Apr;152(4):598&amp;ndash;609. Electronic copies: Available from the <a href=&quot;http://oto.sagepub.com/content/152/4/598&quot; title=&quot;SAGE Journals Web site&quot;>SAGE Journals Web site</a>. </li>
+    <li>Clinical practice guideline (update): adult sinusitis. Podcast part 1 and 2. Alexandria (VA): American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF). 2015 Apr. Available from the <a href=&quot;http://www.entnet.org/content/clinical-practice-guideline-adult-sinusitis&quot; title=&quot;AAO-HNSF Web site&quot;>American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF) Web site</a>. </li>
+    <li>Clinical practice guideline (update): adult sinusitis. Diagnostic criteria for rhinosinusitis. Alexandria (VA): American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF). 2015 Apr. 1 p. Electronic copies: Available from the <a href=&quot;http://www.entnet.org/sites/default/files/uploads/PracticeManagement/Resources/_files/adult-sinusitis-physicianresource-diagnostic-criteria-rhinosinusitis.pdf&quot; title=&quot;AAO-HNSF Web site&quot;>AAO-HNSF Web site</a>. </li>
+    <li>Clinical practice guideline (update): adult sinusitis. Pocket guide and mobile app. Alexandria (VA): American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF). 2015 Apr. Available from the <a href=&quot;http://www.entnet.org/content/clinical-practice-guideline-adult-sinusitis&quot; title=&quot;AAO-HNSF Web site&quot;>AAO-HNSF Web site</a>. </li>
+    <li>Clinical practice guideline (update): adult sinusitis. Posters. Alexandria (VA): American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF). 2015 Apr. Electronic copies: Available from the <a href=&quot;http://www.entnet.org/content/clinical-practice-guideline-adult-sinusitis&quot; title=&quot;AAO-HNSF Web site&quot;>AAO-HNSF Web site</a>. </li>
+    <li>Rosenfeld RM, Shiffman RN, Robertson P. Clinical practice guideline development manual, third edition: a quality-driven approach for translating evidence into action. Otolaryngol Head Neck Surg. 2013 Jan;148(Suppl 1):S1-55. Electronic copies: Available from the <a href=&quot;http://oto.sagepub.com/content/148/1_suppl/S1.full&quot; title=&quot;SAGE Journals Web site&quot;>SAGE Journals Web site</a>. </li>
+</ul>
+<p>In addition, a slideset is available from the AAO-HNSF by contacting Sarah O'Connor (<a href=&quot;mailto:soconnor@entnet.org&quot;>soconnor@entnet.org</a>).</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Clinical practice guideline (update): adult sinusitis. Plain language summary. Alexandria (VA): American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF). 2015 Apr. 3 p. Electronic copies: Available from the <a href=&quot;http://www.entnet.org/sites/default/files/uploads/PracticeManagement/Resources/_files/adult-sinusitis-pls-4-3-2015.pdf&quot; title=&quot;AAO-HNSF Web site&quot;>American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation (AAO-HNSF) Web site</a>. </li>
+</ul>
+<p>In addition, a number of other patient resources related to allergies and hay fever and allergic rhinitis are available on the <a href=&quot;http://www.entnet.org/content/clinical-practice-guideline-adult-sinusitis&quot; title=&quot;AAO-HNSF Web site&quot;>AAO-HNSF Web site</a>.</p>
+<p class=&quot;Note&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on August 5, 2008. The information was verified by the guideline developer on August 7, 2008. This summary was updated by ECRI Institute on June 23, 2015. The updated information was verified by the guideline developer on August 13, 2015. This summary was updated by ECRI Institute on June 2, 2016 following the U.S. Food and Drug Administration advisory on Fluoroquinolone Antibacterial Drugs.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Permission is granted to reproduce the aforementioned material in <strong>print and electronic format</strong> at no charge subject to the following conditions:</p>
+<ol start=&quot;1&quot; style=&quot;list-style-type: decimal;&quot;>
+    <li>If any part of the material to be used (for example, figures) has appeared in our publication with credit or acknowledgement to another source, permission must also be sought from that source.&amp;nbsp; If such permission is not obtained then that material may not be included in your publication/copies.</li>
+    <li>Suitable acknowledgement to the source must be made, either as a footnote or in a reference list at the end of your publication, as follows:
+    <p>&quot;Reprinted from Publication title, Vol number, Author(s), Title of article, Pages No., Copyright (Year), with permission from American Academy of Otolaryngology &amp;ndash; Head and Neck Surgery Foundation, Inc.&quot;</p>
+    </li>
+    <li>Reproduction of this material is confined to the purpose for which permission is hereby given.</li>
+    <li>This permission is granted for non-exclusive world <strong><span style=&quot;text-decoration: underline;&quot;>English</span></strong> rights only. For other languages please reapply separately for each one required.</li>
+</ol></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 23:00:59 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:11:13 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 161.081 (3)
+  esindex: 0.006
+  captures_list: 174.393
+  CDXLines.iter: 10.155 (3)
+  PetaboxLoader3.datanode: 93.344 (4)
+  exclusion.robots: 0.243
+  exclusion.robots.policy: 0.231
+  RedisCDXSource: 0.545
+  PetaboxLoader3.resolve: 112.669 (2)
+  load_resource: 68.964
+-->
