@@ -1,0 +1,933 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=178;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11373?contentType=xml', '20180713013334')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713013334/https://www.guideline.gov/summaries/downloadcontent/ngc-11373?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713013334/https://www.guideline.gov/summaries/downloadcontent/ngc-11373?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11373?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713013334" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Jun</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 01:33:34 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180615071724/https://www.guideline.gov/summaries/downloadcontent/ngc-11373?contentType=xml" title="07:17:24 Jun 15, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 01:33:34 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2017</td>
+		  <td class="c" id="displayYearEl" title="You are here: 01:33:34 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713013334*/https://www.guideline.gov/summaries/downloadcontent/ngc-11373?contentType=xml" title="See a list of every capture for this URL">2 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">15 Jun 2018 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11373?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Clinical practice guideline: hoarseness (dysphonia) (update).</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Stachler RJ, Francis DO, Schwartz SR, Damask CC, Digoy GP, Krouse HJ, McCoy SJ, Ouellette DR, Patel RR, Reavis CCW, Smith LJ, Smith M, Strode SW, Woo P, Nnacheta LC. Clinical practice guideline: hoarseness (dysphonia) (update). Otolaryngol Head Neck Surg. 2018 Mar;158(1_suppl):S1-S42. [470 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=29494321 &quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Schwartz S, Cohen S, Dailey S, Rosenfeld R, Deutsch E, Gillespie B, Granieri E, Hapner E, Kimball E, Krouse H, McMurray S, Medina S, O'Brien K, Ouellette D, Messinger-Rapport B, Stachler R, Strode S, Thompson D, Stemple J, Willging P, Cowley T, McCoy, Bernad P, Patel M. Clinical practice guideline: hoarseness (dysphonia). Otolaryngol Head Neck Surg. 2009 Sep;141(3S2):S1-S31. [21 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="705" ordby="150" name="NEATS Assessment">
+    <field fieldid="183" ordby="10" id="706" name="Disclosure of Guideline Funding Source" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="184" ordby="20" id="707" name="Disclosure and Management of Financial Conflict of Interests" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="185" ordby="30" id="708" name="Guideline Development Group Composition: Multidisciplinary Group" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="186" ordby="40" id="709" name="Guideline Development Group Composition: Methodologist Involvement" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="187" ordby="50" id="710" name="Guideline Development Group Composition: Patient and Public Perspectives" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="188" ordby="60" id="711" name="Use of a Systematic Review of Evidence: Search Strategy" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="189" ordby="70" id="712" name="Use of a Systematic Review of Evidence: Study Selection" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="190" ordby="80" id="713" name="Use of a Systematic Review of Evidence: Synthesis of Evidence" type="picklist-one">
+      <fieldvalue value="3"/>
+    </field>
+    <field fieldid="191" ordby="90" id="714" name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="192" ordby="100" id="715" name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="193" ordby="110" id="716" name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="194" ordby="120" id="717" name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="195" ordby="130" id="718" name="Specific and Unambiguous Articulation of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="196" ordby="140" id="719" name="External Review" type="picklist-one">
+      <fieldvalue value="3"/>
+    </field>
+    <field fieldid="197" ordby="150" id="720" name="Updating" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The evidence grades (<strong>A-D, X</strong>) and evidence-based statements (<strong>Strong Recommendation, Recommendation</strong> and <strong>Option,</strong>) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 1. Identification of Abnormal Voice</span></strong></p>
+<p>Clinicians should identify dysphonia in a patient with altered voice quality, pitch, loudness, or vocal effort that impairs communication or reduces quality of life (QOL).</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on observational studies with a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile: 1</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: To promote awareness of dysphonia by all clinicians as a condition that may require intervention or additional investigation. National Quality Strategy domain: Prevention and Treatment of Leading Causes of Morbidity and Mortality. </li>
+    <li>Aggregate evidence quality: Grade C, observational studies for symptoms, with 1 systematic review of QOL in voice disorders and 2 systematic reviews on medication side effects </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Timely recognition of the need to search for an underlying etiology; identify patients who may benefit from treatment; discourage the perception of dysphonia as a trivial condition that does not warrant attention </li>
+    <li>Risks, harms, costs: Potential anxiety related to diagnosis; time expended in diagnosis, documentation, and discussion </li>
+    <li>Benefits-harm assessment: Preponderance of benefits over harm </li>
+    <li>Value judgments: The group believes that this is a critical component to caring for patients with altered voice, but it was constrained from calling this a strong recommendation from a lack of A- or B-level evidence </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preference: Small </li>
+    <li>Exclusions: None </li>
+    <li>Policy Level: Recommendation </li>
+    <li>Differences of opinions: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 2. Identifying Underlying Cause of Dysphonia</span></strong></p>
+<p>Clinicians should assess the patient with dysphonia by history and physical examination for underlying causes of dysphonia and factors that modify management.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on observational studies with a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile: 2</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: To guide the expediency and nature of recommended treatments/investigations through identification of potential underlying causes of the dysphonia. National Quality Strategy domains: Prevention and Treatment of Leading Causes of Morbidity and Mortality; Effective Communication and Care Coordination. </li>
+    <li>Aggregate evidence quality: Grade C, observational studies </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: To identify potential causative factors of the dysphonia, increase awareness of underlying causes of dysphonia, identify patients at risk for serious underlying conditions, and identify underlying cause to allow for targeted treatment </li>
+    <li>Risks, harms, costs: None </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Further management of dysphonia is completely dependent on the underlying cause. The group believed that while this seems obvious, it was an opportunity to educate clinicians about potential etiologies </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Small </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Strong recommendation </li>
+    <li>Differences of opinions: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 3. Escalation of Care</span></strong></p>
+<p>Clinicians should assess the patient with dysphonia by history and physical examination to identify factors where expedited laryngeal evaluation is indicated. These include but are not limited to recent surgical procedures involving the head, neck, or chest; recent endotracheal intubation; presence of concomitant neck mass; respiratory distress or stridor; history of tobacco abuse; and whether the patient is a professional voice user.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Strong recommendation</span></em> based on observational studies with a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile: 3</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: To encourage early referral of patients with dysphonia whose history, symptoms, or physical examination is concerning for a serious underlying etiology. National Quality Strategy domains: Prevention and Treatment of Leading Causes of Morbidity and Mortality; Effective Communication and Care Coordination; Patient Safety. </li>
+    <li>Aggregate evidence quality: Grade B, based on overwhelmingly consistent evidence from observational studies </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: To identify factors early in the course of management that could influence the timing of diagnostic procedures, choice of interventions, or provision of follow-up care; to identify risk factors; to identify populations for whom early or more aggressive intervention may be warranted (i.e., professional voice) </li>
+    <li>Risks, harms, costs: Time in assessment </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Importance of history taking and identifying modifying factors as an essential component of providing quality care </li>
+    <li>Intentional vagueness: The term <em>expedited</em> does not specify exact timing </li>
+    <li>Role of patient preferences: Moderate (small: in the setting of a neck mass with dysphonia or concern for malignancy) </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Strong recommendation </li>
+    <li>Differences of opinions: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 4A. Laryngoscopy and Dysphonia</span></strong></p>
+<p>Clinicians may perform diagnostic laryngoscopy at any time for a patient with dysphonia.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Option</span></em> based on observational studies, expert opinion, and a balance of benefit and harm.</p>
+<p><strong>Action Statement Profile: 4A</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: To highlight the important role of visualizing the larynx and vocal folds in treating a patient with dysphonia. National Quality Strategy domains: Prevention and Treatment of Leading Causes of Morbidity and Mortality; Effective Communication and Care Coordination; Patient Safety. </li>
+    <li>Aggregate evidence quality: Grade C, based on observational studies </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Establishing the underlying diagnosis, possible reduction in cost, improved diagnostic accuracy, appropriate referrals and treatment, avoidance of missed or delayed diagnosis, reduced anxiety by establishing diagnosis </li>
+    <li>Risks, harms, costs: Patient discomfort, cost of examination, procedure-related morbidity </li>
+    <li>Benefits-harm assessment: Balance of benefit and harm </li>
+    <li>Value judgments: Laryngoscopy is an essential tool for diagnosing the cause of dysphonia and should be available to those who can perform it; however, dysphonia is often self-limited and may resolve spontaneously without a diagnosis </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Moderate </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Option </li>
+    <li>Differences of opinions: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 4B. Need for Laryngoscopy in Persistent Dysphonia</span></strong></p>
+<p>Clinicians should perform laryngoscopy, or refer to a clinician who can perform laryngoscopy, when dysphonia fails to resolve or improve within 4 weeks or irrespective of duration if a serious underlying cause is suspected.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on observational studies, expert opinion, and a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile: 4B</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: To highlight the important role of visualizing the larynx and vocal folds in treating a patient with dysphonia, especially if the dysphonia fails to improve within 4 weeks' onset. National Quality Strategy domains: Prevention and Treatment of Leading Causes of Morbidity and Mortality; Effective Communication and Care Coordination. </li>
+    <li>Aggregate evidence quality: Grade C, observational studies on the natural history of benign laryngeal disorders; grade C for observational studies plus expert opinion on defining what constitutes a serious underlying condition </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Avoid missed or delayed diagnosis of serious conditions among patients without additional signs and/or symptoms to suggest underlying disease; permit prompt assessment of the larynx when serious concern exists </li>
+    <li>Risks, harms, costs: Potential for delay in diagnosis; procedure-related morbidity; procedure-related expense; patient discomfort </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: A need exists to balance timely diagnostic intervention with the potential for overutilization and excessive cost. The guideline update panel debated the optimal time for assessment of the larynx with a consensus-based approach and agreed on 4 weeks with the option to proceed more promptly based on clinical circumstances </li>
+    <li>Intentional vagueness: The term <em>serious underlying</em> concern is subject to the discretion of the clinician. Some conditions are clearly serious, but for other patients, the seriousness of the condition is dependent on the patient. Intentional vagueness was incorporated to allow for clinical judgment in the expediency of evaluation </li>
+    <li>Role of patient preferences: If there is a serious underlying concern, then there is a limited role for patient preference; however, among patients without a serious underlying concern, the role for patient preference is moderate </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinions: There was some disagreement about whether the time frame should be 4 or 6 weeks. After casting their votes, 10 panel members favored a 4-week time frame, and 5 favored a 6-week time frame. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 5. Imaging</span></strong></p>
+<p>Clinicians should not obtain computed tomography (CT) or magnetic resonance imaging (MRI) among patients with a primary voice complaint prior to visualization of the larynx.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation against imaging</span></em> based on observational studies of harm, absence of evidence concerning benefit, and a preponderance of harm over benefit.</p>
+<p><strong>Action Statement Profile: 5</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: To reduce variations of care and unnecessary expense as well as harm from radiation and/or contrast exposure. National Quality Strategy domain: Making Quality Care More Affordable. </li>
+    <li>Aggregate evidence quality: Grade C, observational studies regarding the adverse events of CT and MRI; no evidence identified concerning benefits among patients with dysphonia before laryngoscopy </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Avoid unnecessary testing and overdiagnosis; minimize cost and adverse events; maximize the diagnostic yield of CT and MRI when indicated; avoid radiation </li>
+    <li>Risks, harms, costs: Potential for delayed/missed diagnosis </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: None </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Small </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Recommendation against </li>
+    <li>Differences of opinions: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 6. Antireflux Medication and Dysphonia</span></strong></p>
+<p>Clinicians should not prescribe antireflux medications to treat isolated dysphonia, based on symptoms alone attributed to suspected gastroesophageal reflux disease (GERD) or laryngopharyngeal reflux (LPR), without visualization of the larynx.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation against prescribing</span></em> based on randomized trials with limitations and observational studies with a preponderance of harm over benefit.</p>
+<p><strong>Action Statement Profile: 6</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: To limit widespread use of antireflux medications as empiric therapy for dysphonia without symptoms of GERD or seeing changes in the larynx associated with LPR or laryngitis, given limited evidence of benefit and the potential adverse effects of the medications. National Quality Strategy domains: Prevention and Treatment of Leading Causes of Morbidity and Mortality; Patient Safety; Making Quality Care More Affordable. </li>
+    <li>Aggregate evidence quality: Grade B, randomized trials with limitations showing lack of benefits for antireflux therapy among patients with laryngeal symptoms alone, including dysphonia; observational studies with inconsistent or inconclusive results; inconclusive evidence regarding the prevalence of dysphonia as the only manifestation of reflux disease </li>
+    <li>Level of confidence in evidence: Medium based on small inconsistent randomized trials with heterogeneous entry criteria and poorly defined outcome measures </li>
+    <li>Benefit: Avoidance of unnecessary therapy; reduced cost; avoidance of complications from proton pump inhibitors (PPIs); avoidance of diagnostic and treatment delay due to course of PPI therapy. </li>
+    <li>Risks, harms, costs: Potential withholding of therapy from patients who may benefit </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: The committee thought that there is general overuse of these medications and that they have limited usefulness for most patients with dysphonia but that there may be a role for antireflux medications in a subset of hard-to-define cases. They also recognize that there is a role for these medications to treat gastroesophageal reflux </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Small </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Recommendation against </li>
+    <li>Differences of opinions: The panel was divided about whether to include the terms <em>GERD</em> and <em>LPR</em> in the action statement or to leave it simply as symptoms alone. The majority favored inclusion of these terms in the KAS </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 7. Corticosteroid therapy</span></strong></p>
+<p>Clinicians should not routinely prescribe corticosteroids for patients with dysphonia prior to visualization of the larynx.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation against prescribing</span></em> based on randomized trials showing adverse events and absence of clinical trials demonstrating benefits with a preponderance of harm over benefit for steroid use.</p>
+<p><strong>Action Statement Profile: 7</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: To discourage the empiric use of steroids for dysphonia prior to laryngeal examination. National Quality Strategy domains: Prevention and Treatment of Leading Causes of Morbidity and Mortality; Patient Safety; Making Quality Care More Affordable. </li>
+    <li>Aggregate evidence quality: Grade B, randomized trials showing increased incidence of adverse events associated with orally administered steroids; absence of clinical trials demonstrating any benefit of steroid treatment on outcomes </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Avoid potential adverse events associated with unproven therapy </li>
+    <li>Risks, harms, costs: None </li>
+    <li>Benefits-harm assessment: Preponderance of harm over benefit for steroid use </li>
+    <li>Value judgments: Avoid adverse events of ineffective or unproven therapy </li>
+    <li>Intentional vagueness: The word <em>routine</em> is used to acknowledge that there may be specific situations, based on laryngoscopy results, or other associated conditions that may justify steroid use on an individualized basis </li>
+    <li>Role of patient preferences: Small; there is a role for shared decision making in weighing the harms of steroids against the potential yet unproven benefit in specific circumstances (i.e., professional or avocation voice use and acute laryngitis) </li>
+    <li>Exclusions: Children with croup </li>
+    <li>Policy level: Recommendation against </li>
+    <li>Differences of opinions: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 8. Antimicrobial Therapy</span></strong></p>
+<p>Clinicians should not routinely prescribe antibiotics to treat dysphonia.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Strong recommendation against prescribing</span></em> based on systematic reviews and randomized trials showing ineffectiveness of antibiotic therapy and a preponderance of harm over benefit.</p>
+<p><strong>Action Statement Profile: 8</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: To discourage the misuse of antibiotics. National Quality Strategy domains: Prevention and Treatment of Leading Causes of Morbidity and Mortality; Patient Safety; Making Quality Care More Affordable. </li>
+    <li>Aggregate evidence quality: Grade A, systematic reviews showing no benefit for antibiotics for acute laryngitis or upper respiratory tract infection; grade A evidence showing potential harms of antibiotic therapy </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Avoidance of ineffective therapy, unnecessary cost, and antibiotic resistance </li>
+    <li>Risks, harms, costs: Potential for failing to treat bacterial, fungal, or mycobacterial causes of dysphonia </li>
+    <li>Benefits-harm assessment: Preponderance of harm over benefit if antibiotics are prescribed </li>
+    <li>Value judgments: Importance of limiting antimicrobial therapy to treating bacterial or fungal infections </li>
+    <li>Intentional vagueness: The word <em>routine</em> is used in the KAS to discourage empiric therapy yet to acknowledge there are occasional circumstances where antimicrobial use may be appropriate </li>
+    <li>Role of patient preferences: None </li>
+    <li>Exclusions: Patients with dysphonia caused by bacterial, fungal, or mycobacterial infection </li>
+    <li>Policy level: Strong recommendation against </li>
+    <li>Differences of opinions: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 9A. Laryngoscopy Prior to Voice Therapy</span></strong></p>
+<p>Clinicians should perform diagnostic laryngoscopy, or refer to a clinician who can perform diagnostic laryngoscopy, before prescribing voice therapy and document/communicate the results to the speech-language pathologist (SLP).</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on observational studies showing benefit and a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile: 9A</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: To encourage the routine use of diagnostic laryngoscopy for patients with dysphonia (hoarseness) before initiation of voice therapy and to promote the most effective treatment practices for patients with dysphonia. National Quality Strategy domains: Effective Communication and Care Coordination; Prevention and Treatment of Leading Causes of Morbidity and Mortality. </li>
+    <li>Aggregate evidence quality: Grade C, observational studies of the benefit of laryngoscopy for voice therapy </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Avoid delay in diagnosing laryngeal conditions not treatable with voice therapy, optimize voice therapy by allowing targeted therapy </li>
+    <li>Risks, harms, costs: Delay in initiation of voice therapy; cost of the laryngoscopy and associated clinician visit; patient discomfort </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: To ensure no delay in identifying pathology not treatable with voice therapy. The SLP should not initiate therapy prior to laryngoscopy </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Small </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinions: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 9B. Advocating for Voice Therapy</span></strong></p>
+<p>Clinicians should advocate voice therapy for patients with dysphonia from a cause amenable to voice therapy.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Strong recommendation</span></em> based on systematic reviews and randomized trials with a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile: 9B</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: To promote effective communication with patients and to promote the most effective prevention and treatment practices for patients with dysphonia. National Quality Strategy domains: Person and Family Centered Care; Prevention and Treatment of Leading Causes of Morbidity and Mortality; Making Quality Care More Affordable. </li>
+    <li>Aggregate evidence quality: Grade A, RCTs and systematic reviews </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Improve voice-related QOL; prevent relapse; potentially prevent need for more invasive therapy </li>
+    <li>Risks, harms, costs: No harm reported in controlled trials; cost of treatment </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Voice therapy is underutilized in managing dysphonia despite efficacy; advocacy is needed </li>
+    <li>Intentional vagueness: Deciding which patients will benefit from voice therapy is often determined by the voice therapist (SLP) </li>
+    <li>Role of patient preferences: Small </li>
+    <li>Exclusions: Patients unable to participate in therapy </li>
+    <li>Policy level: Strong recommendation </li>
+    <li>Differences of opinions: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 10. Surgery</span></strong></p>
+<p>Clinicians should advocate for surgery as a therapeutic option for patients with dysphonia with conditions amenable to surgical intervention, such as suspected malignancy, symptomatic benign vocal fold lesions that do not respond to conservative management, or glottic insufficiency.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on observational studies demonstrating a benefit of surgery in these conditions and a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile: 10</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: To advocate that clinicians discuss and consider surgery as a therapeutic option for patients with dysphonia whose underlying etiology is amenable to surgical intervention. National Quality Strategy domains: Person and Family Centered Care; Prevention and Treatment of Leading Causes of Morbidity and Mortality. </li>
+    <li>Aggregate evidence quality: Grade B, in support of surgery to reduce dysphonia and improve voice quality among selected patients based on observational studies overwhelmingly demonstrating the benefit of surgery </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Potential for improved voice outcomes among carefully selected patients </li>
+    <li>Risks, harms, costs: None </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Surgical options for treating dysphonia are not always recognized </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Small </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinions: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 11. Botulinum Toxin</span></strong></p>
+<p>Clinicians should offer, or refer to someone who can offer, botulinum toxin injections for the treatment of dysphonia caused by SD and other types of laryngeal dystonia.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on RCTs with minor limitations and preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile: 11</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: To expedite referral for suspected SD. National Quality Strategy domains: Person and Family Centered Care; Prevention and Treatment of Leading Causes of Morbidity and Mortality. </li>
+    <li>Aggregate evidence quality: Grade B, few controlled trials, diagnostic studies with minor limitations, and overwhelmingly consistent evidence from observational studies </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Improved voice quality and voice-related QOL </li>
+    <li>Risks, harms, costs: Dysphagia, airway obstruction, breathy voice, direct costs of treatment, time off work, and indirect costs of repeated treatments </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: Botulinum toxin is beneficial despite the potential need for repeated treatments given the limited availability of other effective interventions for SD </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Large </li>
+    <li>Exclusions: Allergy to botulinum toxin </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinions: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 12. Education/Prevention</span></strong></p>
+<p>Clinicians should inform patients with dysphonia about control/preventive measures.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on observational studies, small-sample RCTs, expert opinion, and a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile: 12</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: To provide guidance to clinicians in educating patients on behavioral strategies and environmental measures that may prevent or decrease the risk of dysphonia. National Quality Strategy domains: Person and Family Centered Care; Prevention and Treatment of Leading Causes of Morbidity and Mortality. </li>
+    <li>Aggregate evidence quality: Grade C, evidence based on observational studies, small-sample RCTs, expert opinion, and a preponderance of benefit over harm </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Possible decreased risk of recurrence of dysphonia; improved vocal hygiene may reduce dysphonia; possible prevention of dysphonia for persons at high risk </li>
+    <li>Risks, harms, costs: Time of education; cost of potentially ineffective interventions </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: None </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Small role in terms of receiving information from clinician; moderate to large role in shared decision making that involves choosing specific preventive and control measures to use </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinions: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Statement 13. Outcomes</span></strong></p>
+<p>Clinicians should document resolution, improvement, or worsened symptoms of dysphonia or change in QOL among patients with dysphonia after treatment or observation.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span></em> based on randomized trials and cohort studies with a preponderance of benefit over harm.</p>
+<p><strong>Action Statement Profile: 13</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quality improvement opportunity: To ensure that patients with dysphonia are followed until the dysphonia has improved or resolved or the underlying condition has been diagnosed and appropriately managed. National Quality Strategy domain: Effective Communication and Care Coordination. </li>
+    <li>Aggregate evidence quality: Grade C, recommendation based on randomized trials and cohort studies with a preponderance of benefit over harm </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Document the final status of dysphonia, communicate with referring clinicians, document favorable outcomes or failures of treatment </li>
+    <li>Risks, harms, costs: Cost of follow-up visits </li>
+    <li>Benefits-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: None </li>
+    <li>Intentional vagueness: The time frame for assessing outcome is not stated </li>
+    <li>Role of patient preferences: Small </li>
+    <li>Exclusions: None </li>
+    <li>Policy level: Recommendation </li>
+    <li>Differences of opinions: None </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Aggregate Grades of Evidence by Question Type<sup>a</sup></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Aggregate Grades of Evidence by Question Type&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>CEBM Level</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Treatment</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Harm</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Diagnosis</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Prognosis</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of randomized trials</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of randomized trials, nested case-control studies, or observational studies with dramatic effect</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of cross-sectional studies with consistently applied reference standard and blinding</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of inception cohort studies<sup>c</sup></td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>B</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>Randomized trials or observational studies with dramatic effects or highly consistent evidence</td>
+            <td valign=&quot;top&quot;>Randomized trials or observational studies with dramatic effects or highly consistent evidence</td>
+            <td valign=&quot;top&quot;>Cross-sectional studies with consistently applied reference standard and blinding</td>
+            <td valign=&quot;top&quot;>Inception cohort studies<sup>c</sup></td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>C</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3-4</td>
+            <td valign=&quot;top&quot;>Nonrandomized or historically controlled studies, including case-control and observational studies</td>
+            <td valign=&quot;top&quot;>Nonrandomized controlled cohort or follow-up study (postmarketing surveillance) with sufficient numbers to rule out a common harm; case series, case-control, or historically controlled studies</td>
+            <td valign=&quot;top&quot;>Nonconsecutive studies, case-control studies, or studies with poor, nonindependent, or inconsistently applied reference standards</td>
+            <td valign=&quot;top&quot;>Cohort study, control arm of a randomized trial, case series, or case-control studies; poor-quality prognostic cohort study</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>D</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot; colspan=&quot;4&quot;>Case reports, mechanism-based reasoning, or reasoning from first principles</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>N/A</td>
+            <td valign=&quot;top&quot; colspan=&quot;4&quot;>Exceptional situations where validating studies cannot be performed and there is a clear preponderance of benefit over harm</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>Abbreviation: CEBM, Oxford Centre for Evidence-Based Medicine; N/A, not applicable</p>
+<p class=&quot;Note&quot;><sup>a</sup>Adapted from Howick J, Chalmers I, Glasziou; the OCEBM Levels of Evidence Working Group. The Oxford 2011 levels of evidence: Oxford Centre for Evidence-Based Medicine. <a href=&quot;http://www.cebm.net/index.aspx?o=5653&quot; title=&quot;Oxford Centre for Evidence-Based Medicine Web site&quot;>http://www.cebm.net/index.aspx?o=5653</a>. Accessed October 22, 2015.</p>
+<p class=&quot;Note&quot;><sup>b</sup>A systematic review may be downgraded to level B because of study limitations, heterogeneity, or imprecision.</p>
+<p class=&quot;Note&quot;><sup>c</sup>A group of individuals identified for subsequent study at an early, uniform point in the course of the specified health condition or before the condition develops.</p>
+<p><strong>Guideline Definitions for Evidence-Based Statements</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Guideline Definitions for Evidence-Based Statements&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Statement</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Definition</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Implication</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Strong Recommendation</td>
+            <td valign=&quot;top&quot;>A strong recommendation means that the benefits of the recommended approach clearly exceed the harms (or that the harms clearly exceed the benefits, in the case of a strong negative recommendation) and that the quality of the supporting evidence is excellent (grade A or B).<sup>a</sup> In some clearly identified circumstances, strong recommendations may be made on the basis of lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits strongly outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Recommendation</td>
+            <td valign=&quot;top&quot;>A recommendation means that the benefits exceed the harms (or that the harms exceed the benefits, in the case of a negative recommendation) but that the quality of evidence is not as strong (grade B or C).<sup>a</sup> In some clearly identified circumstances, recommendations may be made on the basis of lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should also generally follow a recommendation but should remain alert to new information and sensitive or patient preferences.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Option</td>
+            <td valign=&quot;top&quot;>An option means either that the quality of evidence that exists is suspect (grade D)<sup>a </sup>or that well-done studies (grade A, B, or C) a show little clear advantage to one approach versus another.</td>
+            <td valign=&quot;top&quot;>Clinicians should be flexible in their decision making regarding appropriate practice, although they may set bounds on alternatives. Patient preference should have a substantial influencing role.</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;><sup>a</sup>American Academy of Pediatrics classification scheme.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An algorithm titled &quot;Hoarseness (dysphonia) clinical practice guideline algorithm&quot; is provided in the original guideline document.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Dysphonia</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: Dysphonia is characterized by altered vocal quality, pitch, loudness, or vocal effort that impairs communication and/or quality of life.</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Otolaryngology"/>
+      <fieldvalue value="Pediatrics"/>
+      <fieldvalue value="Speech-Language Pathology"/>
+      <fieldvalue value="Surgery"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Respiratory Care Practitioners"/>
+      <fieldvalue value="Speech-Language Pathologists"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To provide evidence-based recommendations on treating patients who present with dysphonia </li>
+    <li>To improve the quality of care for patients with dysphonia, based on current best evidence </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All individuals presenting with dysphonia, regardless of age</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>Identification </li>
+    <li>History and physical examination </li>
+    <li>Referral to specialty care </li>
+    <li>Laryngoscopy </li>
+    <li>Voice therapy </li>
+    <li>Surgery </li>
+    <li>Botulinum toxin (Botox) </li>
+    <li>Education/prevention </li>
+    <li>Documentation </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: The following interventions were considered but not recommended: computed tomography (CT), magnetic resonance imaging (MRI), antireflux medications, routine corticosteroids, routine use of antibiotics.</p>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Change in quality of life (QOL) </li>
+    <li>Complications and adverse events </li>
+    <li>Economic consequences </li>
+    <li>Adherence to therapy </li>
+    <li>Absenteeism </li>
+    <li>Communication function </li>
+    <li>Voice-related health care utilization </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Literature Search</span></strong></p>
+<p>An information specialist conducted 3 literature searches from December 2015 through April 2016 using a validated filter strategy to identify CPGs, systematic reviews, and RCTs. The search terms used were as follows: (&quot;hoarseness&quot;[MeSH Terms] OR &quot;hoarseness&quot;[tw] OR &quot;hoarse&quot;[tw] OR &quot;aphonia&quot;[MeSH Terms] OR &quot;aphonia&quot;[tw] OR &quot;phonation disorder&quot;[tw] OR &quot;dysphonia&quot;[MeSH Terms] OR &quot;dysphonia&quot;[tw] OR &quot;phonation disorders&quot;[tw] OR &quot;voice disorder&quot;[tw] OR &quot;voice disorders&quot;[tw] OR &quot;vocal disorder&quot;[tw] OR &quot;vocal disorders&quot;[tw] OR laryngitis[tw] OR &quot;laryngeal disorder&quot;[tw] OR &quot;laryngeal disorders&quot;[tw]). These search terms were used to capture all evidence on the population by incorporating all relevant treatments and outcomes.</p>
+<p>The English-language searches were performed in multiple databases: Health Services/Technology Assessment Texts (HSTAT), Agency for Healthcare Research and Quality (AHRQ), BIOSIS Previews, CAB Abstracts, Allied and Complementary Medicine Database (AMED), EMBASE, Guidelines International Network (GIN) International Guideline Library, Cochrane Library (Cochrane Database of Systematic Reviews, Database of Abstracts of Reviews of Effects (DARE), Health Technology Assessment (HTA) Database, NNHS Economic Evaluation Database National Health Service Economic Evaluation Database (NHS EED), Australian National Health and Medical Research Council, New Zealand Guidelines Group, Scottish Intercollegiate Guidelines Network (SIGN), TRIP Database, Canadian Medical Association (CMA) Infobase, National Guideline Clearinghouse, PubMed Search, and CINAHL.</p>
+<p>The initial English-language search identified 106 clinical practice guidelines (CPGs), 561 systematic reviews, and 516 randomized controlled trials (RCTs) published in 2008 or later. CPGs were included if they met quality criteria of (1) an explicit scope and purpose, (2) multidisciplinary stakeholder involvement, (3) systematic literature review, (4) explicit system for ranking evidence, and (5) explicit system for linking evidence to recommendations. Systematic reviews were emphasized and included if they met quality criteria of (1) a clear objective and methodology, (2) an explicit search strategy, and (3) valid data extraction methods. RCTs were included if they met quality criteria as follows: (1) trials involved study randomization; (2) trials were described as double-blind; and (3) trials denoted a clear description of withdrawals and dropouts of study participants. After removal of duplicates, irrelevant references, and non&amp;ndash;English language articles, 6 CPGs, 55 systematic reviews, and 24 RCTs were retained. In certain instances, targeted searches were performed by guideline update group (GUG) members to address gaps from the systematic searches identified in writing the guideline from June 2016 through February 2017. </p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>In total, the evidence supporting the guideline includes 3 clinical practice guidelines (CPGs), 16 systematic reviews, and 4 randomized controlled trials (RCTs).</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Aggregate Grades of Evidence by Question Type</span><sup>a</sup></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Aggregate Grades of Evidence by Question Type&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>CEBM Level</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Treatment</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Harm</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Diagnosis</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Prognosis</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of randomized trials</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of randomized trials, nested case-control studies, or observational studies with dramatic effect</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of cross-sectional studies with consistently applied reference standard and blinding</td>
+            <td valign=&quot;top&quot;>Systematic review<sup>b</sup> of inception cohort studies<sup>c</sup></td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>B</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>Randomized trials or observational studies with dramatic effects or highly consistent evidence</td>
+            <td valign=&quot;top&quot;>Randomized trials or observational studies with dramatic effects or highly consistent evidence</td>
+            <td valign=&quot;top&quot;>Cross-sectional studies with consistently applied reference standard and blinding</td>
+            <td valign=&quot;top&quot;>Inception cohort studies<sup>c</sup></td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>C</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3-4</td>
+            <td valign=&quot;top&quot;>Nonrandomized or historically controlled studies, including case-control and observational studies</td>
+            <td valign=&quot;top&quot;>Nonrandomized controlled cohort or follow-up study (postmarketing surveillance) with sufficient numbers to rule out a common harm; case series, case-control, or historically controlled studies</td>
+            <td valign=&quot;top&quot;>Nonconsecutive studies, case-control studies, or studies with poor, nonindependent, or inconsistently applied reference standards</td>
+            <td valign=&quot;top&quot;>Cohort study, control arm of a randomized trial, case series, or case-control studies; poor-quality prognostic cohort study</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>D</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot; colspan=&quot;4&quot;>Case reports, mechanism-based reasoning, or reasoning from first principles</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>N/A</td>
+            <td valign=&quot;top&quot; colspan=&quot;4&quot;>Exceptional situations where validating studies cannot be performed and there is a clear preponderance of benefit over harm</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>Abbreviation: CEBM, Oxford Centre for Evidence-Based Medicine; N/A, not applicable</p>
+<p class=&quot;Note&quot;><sup>a</sup>Adapted from Howick J, Chalmers I, Glasziou; the OCEBM Levels of Evidence Working Group. The Oxford 2011 levels of evidence: Oxford Centre for Evidence-Based Medicine. <a href=&quot;http://www.cebm.net/index.aspx?o=5653&quot; title=&quot;Oxford Centre for Evidence-Based Medicine Web site&quot;>http://www.cebm.net/index.aspx?o=5653</a>. Accessed October 22, 2015.</p>
+<p class=&quot;Note&quot;><sup>b</sup>A systematic review may be downgraded to level B because of study limitations, heterogeneity, or imprecision.</p>
+<p class=&quot;Note&quot;><sup>c</sup>A group of individuals identified for subsequent study at an early, uniform point in the course of the specified health condition or before the condition develops.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The evidence-based approach to guideline development requires that the evidence supporting a policy be identified, appraised, and summarized and that an explicit link between evidence and statements be defined. Evidence-based statements reflect both the quality of evidence and the balance of benefit and harm that is anticipated when the statement is followed. The definitions for evidence-based statements are listed in the &quot;Rating Scheme for the Strength of Evidence&quot; and &quot;Rating Scheme for the Strength of the Recommendations&quot; fields.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation (AAO-HNSF) assembled a guideline update group (GUG) representing the disciplines of advanced practice nursing, bronchoesophagology, consumer advocacy, family medicine, geriatric medicine, internal medicine, laryngology, neurology, otolaryngology&amp;ndash;head and neck surgery, pediatrics, professional voice, pulmonology, and speech-language pathology. The GUG had several conference calls and 1 in-person meeting during which it defined the scope and objectives of updating the guideline, reviewed comments from the expert panel review for each key action statement (KAS), identified other quality improvement opportunities, reviewed the literature search results, and drafted the document.</p>
+<p>The evidence profile for each statement in the earlier guideline was then converted into an expanded action statement profile for consistency with the current development standards. Information was added to the action statement profiles regarding quality improvement opportunities, level of confidence in the evidence, differences of opinion, role of patient preferences, and any exclusion to which the action statement does not apply. New KASs were developed with an explicit and transparent a priori protocol for creating actionable statements based on supporting evidence and the associated balance of benefit and harm. Electronic decision support software (BRIDGE-Wiz; Yale Center for Medical Informatics, New Haven, Connecticut) was used to facilitate the creation of actionable recommendations and evidence profiles.</p>
+<p>The updated guideline underwent GuideLine Implementability Appraisal to appraise adherence to methodologic standards, to improve clarity of recommendations, and to predict potential obstacles to implementation. The GUG received summary appraisals and modified an advanced draft of the guideline based on the appraisal.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Guideline Definitions for Evidence-Based Statements</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Guideline Definitions for Evidence-Based Statements&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Statement</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Definition</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Implication</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Strong Recommendation</td>
+            <td valign=&quot;top&quot;>A strong recommendation means that the benefits of the recommended approach clearly exceed the harms (or that the harms clearly exceed the benefits, in the case of a strong negative recommendation) and that the quality of the supporting evidence is excellent (grade A or B).<sup>a</sup> In some clearly identified circumstances, strong recommendations may be made on the basis of lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits strongly outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Recommendation</td>
+            <td valign=&quot;top&quot;>A recommendation means that the benefits exceed the harms (or that the harms exceed the benefits, in the case of a negative recommendation) but that the quality of evidence is not as strong (grade B or C).<sup>a</sup> In some clearly identified circumstances, recommendations may be made on the basis of lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should also generally follow a recommendation but should remain alert to new information and sensitive or patient preferences.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Option</td>
+            <td valign=&quot;top&quot;>An option means either that the quality of evidence that exists is suspect (grade D)<sup>a </sup>or that well-done studies (grade A, B, or C) a show little clear advantage to one approach versus another.</td>
+            <td valign=&quot;top&quot;>Clinicians should be flexible in their decision making regarding appropriate practice, although they may set bounds on alternatives. Patient preference should have a substantial influencing role.</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;><sup>a</sup>American Academy of Pediatrics classification scheme.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline developers reviewed published cost analyses.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The updated guideline underwent GuideLine Implementability Appraisal to appraise adherence to methodologic standards, to improve clarity of recommendations, and to predict potential obstacles to implementation. The guideline update group (GUG) received summary appraisals and modified an advanced draft of the guideline based on the appraisal. The final draft of the updated clinical practice guideline (CPG) was revised per the comments received during multidisciplinary peer review, open public comment, and journal editorial peer review.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate evaluation and management of dysphonia by improving diagnostic accuracy; reducing inappropriate antibiotic use, steroid use, anti-reflux medications, radiographic imaging; and promoting appropriate use of laryngoscopy, voice therapy, and surgery</p>
+<p>For benefits of specific interventions considered in the guideline, see the &quot;Major Recommendations&quot; field.</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>In one study, adverse effects included mild breathiness (25%) and coughing on fluids (10%) for the patients with adductor spasmodic dysphonia (SD) and &quot;mild stridor&quot; for the patients with abductor SD. Many other studies documented similar rates of adverse effects (breathiness and dysphagia, choking on fluids). Postinjection dysphagia may be more common among patients with preexisting dysphagia. Exertional wheezing, exercise intolerance, and stridor were more commonly reported for patients with abductor SD. Adverse events may result from diffusion of drug from the target muscle to adjacent muscles (&quot;black box warning&quot; by the FDA). Adjusting the dose, distribution, and timing of injections may decrease the frequency of adverse events. Bleeding is rare, and vocal fold edema was documented for only 1 patient receiving saline as a placebo. Reports of sensations of burning, tickling, irritation of the larynx or throat, excessive thick secretions, and dryness also occurred. Systemic effects are rare, with only 2 reports of generalized botulism-like syndromes and 1 report of possible precipitation of biliary colic. Acquired resistance to botulinum toxin can occur. </li>
+    <li>Refer to Table 8 in the original guideline document for side effects of corticosteroids. </li>
+</ul>
+<p>For harms associated with specific interventions considered in the guideline, see the &quot;Major Recommendations&quot; field.</p>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The use of polytetrafluoroethylene as a permanent injectable implant is not recommended due to its association with foreign body granulomas that can result in voice deterioration and airway compromise.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>This clinical practice guideline (CPG) is not intended as an exhaustive source of guidance for managing dysphonia (hoarseness). Rather, it is designed to assist clinicians by providing an evidence-based framework for decision-making strategies. The guideline is not intended to replace clinical judgment or establish a protocol for all individuals with this condition and may not provide the only appropriate approach to diagnosing and managing this program of care. As medical knowledge expands and technology advances, clinical indicators and guidelines are promoted as conditional and provisional proposals of what is recommended under specific conditions, but they are not absolute. Guidelines are not mandates. These do not and should not purport to be a legal standard of care. The responsible physician, in light of all circumstances presented by the individual patient, must determine the appropriate treatment. Adherence to these guidelines will not ensure successful patient outcomes in every situation. The American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation (AAO-HNSF) emphasizes that these clinical guidelines should not be deemed to include all proper treatment decisions or methods of care or to exclude other treatment decisions or methods of care reasonably directed to obtaining the same results. </li>
+    <li>Guidelines are not intended to supersede professional judgment but rather may be viewed as a relative constraint on individual clinician discretion in a particular clinical circumstance. Less frequent variation in practice is expected for a &quot;strong recommendation&quot; as compared with a &quot;recommendation.&quot; &quot;Options&quot; offer the most opportunity for practice variability. Clinicians should always act and decide in a way that they believe will best serve their patients' interests and needs, regardless of guideline recommendations. They must also operate within their scope of practice and according to their training. Guidelines represent the best judgment of a team of experienced clinicians and methodologists addressing the scientific evidence for a particular topic. Making recommendations about health practices involves value judgments on the desirability of various outcomes associated with management options. Values applied by the guideline panel sought to minimize harm and diminish unnecessary and inappropriate therapy. A major goal of the panel was to be transparent and explicit about how values were applied and to document the process. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Implementation Considerations</span></strong></p>
+<p>The complete guideline is published as a supplement to <em>Otolaryngology&amp;ndash;Head and Neck Surgery</em> to facilitate reference and distribution. The guideline was presented to American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation (AAO-HNS) members as a miniseminar at the AAO-HNSF 2017 Annual Meeting &amp;amp; OTO Experience prior to publication. Existing brochures and publications by the AAO-HNSF will be updated to reflect the guideline recommendations. A fulltext version of the guideline will also be accessible free of charge at <a href=&quot;http://www.entnet.org&quot; title=&quot;American Academy of Otolaryngology—Head and Neck Surgery Foundation (AAO-HNS) Web site&quot;>www.entnet.org</a>.</p>
+<p>An anticipated barrier to diagnosis is distinguishing modifying factors for dysphonia in a busy clinical setting. This barrier may be mitigated through a laminated teaching card or visual aid summarizing important factors that modify management.</p>
+<p>Laryngoscopy is an option at any time for patients with dysphonia, but the guideline also recommends that no patient be allowed to wait &amp;gt;4 weeks prior to having his or her larynx examined. It is also clearly recommended that if there is a concern of an underlying serious condition, then laryngoscopy should be immediate. Tables in this guideline regarding causes for concern should help guide clinicians regarding when prompt laryngoscopy is warranted. The cost of the laryngoscopy and the possible wait times to see clinicians trained in the technique may hinder access to care.</p>
+<p>While the guideline acknowledges that there may be a significant role for antireflux therapy to treat laryngeal inflammation, empiric use of antireflux medications for dysphonia has minimal support and a growing list of potential risks. Avoidance of empiric use of antireflux therapy represents a significant change in practice for some clinicians. Educational pamphlets describing the risks and benefits of these medications may help facilitate this potential change in practice pattern.</p>
+<p>Lack of knowledge about voice therapy by practitioners is a likely barrier to advocacy for its use. This barrier can be overcome by educational materials about voice therapy and its indications.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Pocket Guide/Reference Cards"/>
+      <fieldvalue value="Quick Reference Guides/Physician Guides"/>
+      <fieldvalue value="Slide Presentation"/>
+      <fieldvalue value="Staff Training/Competency Material"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Stachler RJ, Francis DO, Schwartz SR, Damask CC, Digoy GP, Krouse HJ, McCoy SJ, Ouellette DR, Patel RR, Reavis CCW, Smith LJ, Smith M, Strode SW, Woo P, Nnacheta LC. Clinical practice guideline: hoarseness (dysphonia) (update). Otolaryngol Head Neck Surg. 2018 Mar;158(1_suppl):S1-S42. [470 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=29494321 &quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2018 Mar"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American Academy of Otolaryngology - Head and Neck Surgery Foundation - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation (AAO-HNS) Guideline Update Group</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Update Group Members</em>: Robert J. Stachler, MD, Wayne State University, Detroit, Michigan, USA; David O. Francis, MD, MS, Virginia Mason Medical Center, Seattle, Washington, USA; Seth R. Schwartz, MD, MPH, University of Wisconsin, Madison, Wisconsin, USA; Cecelia C. Damask, DO, Private practice, Lake Mary, Florida, USA; German P. Digoy, MD, Oklahoma State University, Oklahoma City, Oklahoma, USA; Helene J. Krouse, PhD, University of Texas Rio Grande Valley, Edinburg, Texas, USA; Scott J. McCoy, DMA, Ohio State University, Columbus, Ohio, USA; Daniel R. Ouellette, MD, Henry Ford Health Systems, Detroit, Michigan, USA; Rita R. Patel, PhD, CCC-SLP, Indiana University, Bloomington, Indiana, USA; Charles (Charlie) W. Reavis, National Spasmodic Dysphonia Association, Itasca, Illinois, USA; Libby J. Smith, DO, University of Pittsburgh Medical Center, Pittsburgh, Pennsylvania, USA; Marshall Smith, MD, University of Utah School of Medicine, Salt Lake City, Utah, USA; Steven W. Strode, MD, MEd, MPH, Private practice, Sherwood, Arkansas, USA; Peak Woo, MD, Icahn School of Medicine at Mt Sinai, New York, New York, USA; Lorraine C. Nnacheta, MPH, Department of Research and Quality, American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation, Alexandria, Virginia, USA</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Financial Disclosure and Conflicts of Interest</span></strong></p>
+<p>The cost of developing this guideline, including travel expenses of all panel members, was covered in full by the American Academy of Otolaryngology&amp;mdash;Head and Neck Surgery Foundation (AAO-HNSF). Potential conflicts of interest for all panel members in the past 2 years were compiled and distributed before the first conference call. After review and discussion of these disclosures, the panel concluded that individuals with potential conflicts could remain on the panel if they (1) reminded the panel of potential conflicts before any related discussion, (2) recused themselves from a related discussion if asked by the panel, and (3) agreed not to discuss any aspect of the guideline with industry before publication. Last, panelists were reminded that conflicts of interest extend beyond financial relationships and may include personal experiences, how a participant earns a living, and the participant's previously established &quot;stake&quot; in an issue.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Disclosures</span></strong></p>
+<p><strong>Competing interests</strong>: David O. Francis, research funding from the Patient Centered Outcomes Research Institute and National Institute on Deafness and Other Communication Disorders; Seth R. Schwartz, conference travel expenses for Cochlear Americas, Oticon Medical, and Cochlear Corporation (2013); Cecelia C. Damask, consulting fee from Audigy Medical, honoraria from Teva Respiratory, and webinar speaker for ALK; Helene J. Krouse, Society of Otorhinolaryngology and Head-Neck Nurses Research Award (principal investigator, no salary support), AAO-HNSF and Society of Otorhinolaryngology and Head-Neck Nurses editorial boards, and AAO-HNSF editor in chief (self and partner); Daniel R. Ouellette, principal investigator for clinical trial with Cardeas Pharmaceuticals, which examines the treatment of ventilator-associated pneumonia in the intensive care unit with inhaled amikacin/fosfomycin versus placebo; expert witness for law firm of Marynell Maloney for a case involving pulmonary embolism; chair, guideline oversight committee for American College of Chest Physicians; Rita R. Patel, American Speech- Language-Hearing Association Special Interest Group 3 coordinator; Charles (Charlie) W. Reavis, National Spasmodic Dysphonia Association board member and president; Libby J. Smith, Olympus product focus group; Steven W. Strode, American Academy of Family Physicians, federal-level lobbying; Lorraine C. Nnacheta, salaried employee, AAO-HNSF.</p>
+<p><strong>Sponsorships</strong>: AAO-HNSF.</p></div>"/>
+    </field>
+    <field fieldid="159" ordby="1255" id="453" name="Guideline Endorser(s)" type="orglist">
+      <fieldvalue value="American Academy of Otolaryngic Allergy - Medical Specialty Society"/>
+      <fieldvalue value="American Academy of Pediatrics - Medical Specialty Society"/>
+      <fieldvalue value="American Academy of Physical Medicine and Rehabilitation - Medical Specialty Society"/>
+      <fieldvalue value="American Broncho-Esophagological Association - Medical Specialty Society"/>
+      <fieldvalue value="American College of Chest Physicians - Medical Specialty Society"/>
+      <fieldvalue value="American Laryngological Association - Medical Specialty Society"/>
+      <fieldvalue value="American Society of Pediatric Otolaryngology - Medical Specialty Society"/>
+      <fieldvalue value="American Speech-Language-Hearing Association - Professional Association"/>
+      <fieldvalue value="National Association of Teachers of Singing - Nonprofit Organization"/>
+      <fieldvalue value="National Spasmodic Dysphonia Association - Nonprofit Organization"/>
+      <fieldvalue value="Society of Otorhinolaryngology and Head and Neck Nurses - Medical Specialty Society"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Schwartz S, Cohen S, Dailey S, Rosenfeld R, Deutsch E, Gillespie B, Granieri E, Hapner E, Kimball E, Krouse H, McMurray S, Medina S, O'Brien K, Ouellette D, Messinger-Rapport B, Stachler R, Strode S, Thompson D, Stemple J, Willging P, Cowley T, McCoy, Bernad P, Patel M. Clinical practice guideline: hoarseness (dysphonia). Otolaryngol Head Neck Surg. 2009 Sep;141(3S2):S1-S31. [21 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://journals.sagepub.com/doi/pdf/10.1177/0194599817751030&quot; title=&quot;SAGE Journals Web site&quot;>SAGE Journals Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Stachler RJ, Francis DO, Schwartz SR, Damask CC, Digoy GP, Krouse HJ, McCoy SJ, Ouellette DR, Patel RR, Reavis CCW, Smith LJ, Smith M, Strode SW, Woo P, Nnacheta LC. Clinical practice guideline: hoarseness (dysphonia) (update) executive summary. Otolaryngol Head Neck Surg. 2018 Mar;158(3):409-426. Available from the <a href=&quot;http://journals.sagepub.com/doi/pdf/10.1177/0194599817751031&quot; title=&quot;SAGE Journals Web site&quot;>SAGE Journals Web site</a>. </li>
+    <li>Clinical practice guideline: hoarseness (dysphonia) (update). Podcast part 1 and 2. Alexandria (VA): American Academy of Otolaryngology&amp;ndash;Head and Neck Surgery Foundation (AAO-HNSF); 2018 Mar. Available from the <a href=&quot;http://www.entnet.org/content/clinical-practice-guideline-hoarseness-dysphonia&quot; title=&quot;American Academy of Otolaryngology–Head and Neck Surgery Foundation (AAO-HNSF) Web site&quot;>American Academy of Otolaryngology&amp;ndash;Head and Neck Surgery Foundation (AAO-HNSF) Web site</a>. </li>
+    <li>Clinical practice guideline: hoarseness (dysphonia) (update). Pocket guide and mobile app. Alexandria (VA): American Academy of Otolaryngology&amp;ndash;Head and Neck Surgery Foundation (AAO-HNSF); 2018 Mar. Available from the <a href=&quot;http://www.entnet.org/content/clinical-practice-guideline-hoarseness-dysphonia&quot; title=&quot;AAO-HNSF Web site&quot;>AAO-HNSF Web site</a>. </li>
+    <li>Rosenfeld RM, Shiffman RN, Robertson P. Clinical practice guideline development manual, third edition: a quality-driven approach for translating evidence into action. Otolaryngol Head Neck Surg. 2013 Jan;148(Suppl 1):S1-55. Available from the <a href=&quot;http://journals.sagepub.com/doi/pdf/10.1177/0194599812467004&quot; title=&quot;SAGE Journals Web site&quot;>SAGE Journals Web site</a>. </li>
+    <li>A variety of education opportunities are available from the <a href=&quot;http://www.entnet.org/content/clinical-practice-guideline-hoarseness-dysphonia&quot; title=&quot;AAO-HNSF Web site&quot;>AAO-HNSF Web site</a>. </li>
+</ul>
+<p>In addition, a slide set is available from the AAO-HNSF by contacting Sarah O'Connor (<a href=&quot;mailto:soconnor@entnet.org&quot;>soconnor@entnet.org</a>).</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A variety of resources for patients are available from the <a href=&quot;http://www.entnet.org/content/clinical-practice-guideline-hoarseness-dysphonia&quot; title=&quot;American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF) Web site&quot;>American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF) Web site</a>.</p>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on April 2, 2010. The information was verified by the guideline developer on April 9, 2010. This summary was updated by ECRI Institute on May 8, 2018. The updated information was verified by the guideline developer on May 29, 2018.</p>
+<p>This NEATS assessment was completed by ECRI Institute on May 1, 2018. The information was verified by the guideline developer on May 29, 2018.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 01:33:34 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:12:25 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 75.364 (3)
+  esindex: 0.007
+  captures_list: 90.455
+  CDXLines.iter: 10.65 (3)
+  PetaboxLoader3.datanode: 44.771 (4)
+  exclusion.robots: 0.277
+  exclusion.robots.policy: 0.263
+  RedisCDXSource: 1.677
+  PetaboxLoader3.resolve: 35.995
+  load_resource: 69.172
+-->

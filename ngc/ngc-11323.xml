@@ -1,5 +1,5 @@
 <script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app19.us.archive.org';v.server_ms=557;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app39.us.archive.org';v.server_ms=285;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
 
 <script type="text/javascript">
 __wbhack.init('https://web.archive.org/web');
@@ -39,7 +39,7 @@ body {
                   <div id="wm-save-snapshot-success">success</div>
           <div id="wm-save-snapshot-fail">fail</div>
           <a href="#"
-             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11322?contentType=xml', '20180713062859')"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11323?contentType=xml', '20180713015216')"
              title="Share via My Web Archive"
              id="wm-save-snapshot-open"
           >
@@ -56,35 +56,35 @@ body {
 	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
       </div>
       <div id="wm-share" style="text-align:right;">
-	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713062859/https://www.guideline.gov/summaries/downloadcontent/ngc-11322?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
-	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713062859/https://www.guideline.gov/summaries/downloadcontent/ngc-11322?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713015216/https://www.guideline.gov/summaries/downloadcontent/ngc-11323?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713015216/https://www.guideline.gov/summaries/downloadcontent/ngc-11323?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
       </div>
     </div>
     <table class="c" style="">
       <tbody>
 	<tr>
 	  <td class="u" colspan="2">
-	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11322?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713062859" /><input type="submit" value="Go" /></form>
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11323?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713015216" /><input type="submit" value="Go" /></form>
 	  </td>
 	  <td class="n" rowspan="2" style="width:110px;">
 	    <table>
 	      <tbody>
 		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
 		<tr class="m">
-		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610072134/https://www.guideline.gov/summaries/downloadcontent/ngc-11322?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
-		  <td class="c" id="displayMonthEl" title="You are here: 06:28:59 Jul 13, 2018">JUL</td>
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610072300/https://www.guideline.gov/summaries/downloadcontent/ngc-11323?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 01:52:16 Jul 13, 2018">JUL</td>
 		  <td class="f" nowrap="nowrap">Aug</td>
 		</tr>
 		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
 		<tr class="d">
-		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610072134/https://www.guideline.gov/summaries/downloadcontent/ngc-11322?contentType=xml" title="07:21:34 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
-		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 06:28:59 Jul 13, 2018">13</td>
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610072300/https://www.guideline.gov/summaries/downloadcontent/ngc-11323?contentType=xml" title="07:23:00 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 01:52:16 Jul 13, 2018">13</td>
 		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
 		</tr>
 		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
 		<tr class="y">
 		  <td class="b" nowrap="nowrap">2017</td>
-		  <td class="c" id="displayYearEl" title="You are here: 06:28:59 Jul 13, 2018">2018</td>
+		  <td class="c" id="displayYearEl" title="You are here: 01:52:16 Jul 13, 2018">2018</td>
 		  <td class="f" nowrap="nowrap">2019</td>
 		</tr>
 	      </tbody>
@@ -94,7 +94,7 @@ body {
 	<tr>
 	  <td class="s">
 	    	    <div id="wm-nav-captures">
-	      	      <a class="t" href="/web/20180713062859*/https://www.guideline.gov/summaries/downloadcontent/ngc-11322?contentType=xml" title="See a list of every capture for this URL">2 captures</a>
+	      	      <a class="t" href="/web/20180713015216*/https://www.guideline.gov/summaries/downloadcontent/ngc-11323?contentType=xml" title="See a list of every capture for this URL">2 captures</a>
 	      <div class="r" title="Timespan for captures of this URL">10 Jun 2018 - 13 Jul 2018</div>
 	      </div>
 	  </td>
@@ -155,16 +155,16 @@ ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam
       <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
     </div>
   </div></div></div></div><script type="text/javascript">
-__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11322?contentType=xml","2018-07-13",1996);
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11323?contentType=xml","2018-07-13",1996);
 </script>
 <!-- END WAYBACK TOOLBAR INSERT --><version>
   <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
   <section secid="390" ordby="100" name="General">
     <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
-      <fieldvalue value="<div class=&quot;content_title&quot;>ACR Appropriateness Criteria&amp;reg; suspected thoracic aortic aneurysm.</div>"/>
+      <fieldvalue value="<div class=&quot;content_title&quot;>ACR Appropriateness Criteria&amp;reg; tinnitus.</div>"/>
     </field>
     <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
-      <fieldvalue value="<table><tr><td>Bennett SJ, Dill KE, Hanley M, Ahmed O, Desjardins B, Gage KL, Ginsburg M, Khoynezhad A, Olivia IB, Steigner ML, Strax R, Verma N, Rybicki FJ, Expert Panel on Vascular Imaging. ACR Appropriateness Criteria® suspected thoracic aortic aneurysm. Reston (VA): American College of Radiology (ACR); 2017. 8 p.  [50 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kessler MM, Moussa M, Bykowski J, Kirsch CFE, Aulino JM, Berger KL, Choudhri AF, Fife TD, Germano IM, Kendi AT, Kim HJ, Luttrull MD, Nunez D Jr, Shah LM, Sharma A, Shetty VS, Symko SC, Cornelius RS, Expert Panel on Neurologic Imaging. ACR Appropriateness Criteria® tinnitus. Reston (VA): American College of Radiology (ACR); 2017. 11 p.  [63 references]</td></tr></table>"/>
     </field>
     <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
@@ -176,7 +176,7 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
       <fieldvalue value="Yes"/>
     </field>
     <field fieldid="184" ordby="20" id="707" name="Disclosure and Management of Financial Conflict of Interests" type="picklist-one">
-      <fieldvalue value="3"/>
+      <fieldvalue value="5"/>
     </field>
     <field fieldid="185" ordby="30" id="708" name="Guideline Development Group Composition: Multidisciplinary Group" type="picklist-one">
       <fieldvalue value="Yes"/>
@@ -203,7 +203,7 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
       <fieldvalue value="5"/>
     </field>
     <field fieldid="193" ordby="110" id="716" name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" type="picklist-one">
-      <fieldvalue value="5"/>
+      <fieldvalue value="4"/>
     </field>
     <field fieldid="194" ordby="120" id="717" name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" type="picklist-one">
       <fieldvalue value="4"/>
@@ -221,9 +221,9 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   <section secid="420" ordby="300" name="Recommendations">
     <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>ACR Appropriateness Criteria</span>&amp;reg;</strong></p>
-<p><strong>Suspected Thoracic Aortic Aneurysm</strong></p>
-<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 1</span>: Suspected thoracic aortic aneurysm. Initial imaging.</strong></p>
-<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 1: Suspected thoracic aortic aneurysm. Initial imaging&quot;>
+<p><strong>Tinnitus</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 1</span>: Subjective or objective pulsatile tinnitus (no myoclonus or Eustachian tube dysfunction)</strong>.</p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 1: Subjective or objective pulsatile tinnitus (no myoclonus or Eustachean tube dysfunction)&quot;>
     <thead>
         <tr>
             <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Procedure</th>
@@ -233,119 +233,328 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     </thead>
     <tbody>
         <tr>
-            <td valign=&quot;top&quot;>CTA chest with IV contrast</td>
+            <td valign=&quot;top&quot;>CTA head with IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>MRA chest with IV contrast</td>
+            <td valign=&quot;top&quot;>CTA head and neck with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT temporal bone without IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT venography head with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRA head without and with IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>MRA chest without IV contrast</td>
+            <td valign=&quot;top&quot;>MRI head and internal auditory canal without and with IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>CT chest without IV contrast</td>
+            <td valign=&quot;top&quot;>MRA head without IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MR venography head without and with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Arteriography cervicocerebral</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>US echocardiography transesophageal</td>
+            <td valign=&quot;top&quot;>MR venography head without IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>X-ray chest</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>CTA chest abdomen pelvis with IV contrast</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate (Disagreement)</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 5&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>MRA chest abdomen pelvis with IV contrast</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate (Disagreement)</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>MRA chest abdomen pelvis without IV contrast</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate (Disagreement)</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>US echocardiography transthoracic resting</td>
+            <td valign=&quot;top&quot;>MRI head and internal auditory canal without IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>CT chest abdomen pelvis without IV contrast</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td valign=&quot;top&quot;>US duplex Doppler carotid</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>CT chest abdomen pelvis with IV contrast</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td valign=&quot;top&quot;>CT temporal bone with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>CT chest abdomen pelvis without and with IV contrast</td>
+            <td valign=&quot;top&quot;>CT temporal bone without and with IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+    </tbody>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 2</span>: Asymmetric or unilateral, subjective, nonpulsatile tinnitus (no otoscopic finding; no asymmetric hearing loss, neurologic deficit, or trauma)</strong>.</p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 2: Asymmetric or unilateral, subjective, nonpulsatile tinnitus (no otoscopic finding; no asymmetric hearing loss, neurologic deficit, or trauma).&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Procedure</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Appropriateness Category</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Relative Radiation Level</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>MRI head and internal auditory canal without and with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>CT chest with IV contrast</td>
+            <td valign=&quot;top&quot;>MRI head and internal auditory canal without IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT temporal bone without IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT temporal bone with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CTA head with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CTA head and neck with IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>CT chest without and with IV contrast</td>
+            <td valign=&quot;top&quot;>CT venography head with IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>Aortography chest abdomen pelvis</td>
+            <td valign=&quot;top&quot;>MRA head without IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRA head without and with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MR venography head without IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MR venography head without and with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT temporal bone without and with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Arteriography cervicocerebral</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>US duplex Doppler carotid</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI functional (fMRI) head without IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MEG</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+    </tbody>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 3</span>: Symmetric or bilateral, subjective, nonpulsatile tinnitus (no hearing loss, neurologic deficit, or trauma)</strong>.</p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 3: Symmetric or bilateral, subjective, nonpulsatile tinnitus (no hearing loss, neurologic deficit, or trauma).&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Procedure</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Appropriateness Category</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Relative Radiation Level</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>CT venography head with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT temporal bone without IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI head and internal auditory canal without IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI head and internal auditory canal without and with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CTA head with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CTA head and neck with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT temporal bone with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT temporal bone without and with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRA head without IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRA head without and with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MR venography head without IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MR venography head without and with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>US duplex Doppler carotid</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Arteriography cervicocerebral</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI functional (fMRI) head without IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MEG</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
         </tr>
     </tbody>
 </table>
 <p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
 <p><span style=&quot;text-decoration: underline;&quot;><strong>Summary of Literature Review</strong></span></p>
-<p><strong>Introduction/Background</strong> </p>
-<p>Thoracic aortic aneurysms (TAAs) tend to be clinically silent, often discovered incidentally upon imaging for another cause, unlike abdominal aortic aneurysms (AAA) that may present with pain or a pulsatile abdominal mass. Although individuals with TAA are generally asymptomatic, some patients may describe chest or back pain. When patients with known or suspected TAA present with sudden onset of pain, complications such as dissection, hemorrhage, or impending rupture should be considered. Although uncommon, cases involving a large TAA may present with anatomical mass effect, which can manifest due to compression of adjacent structures such as the esophagus, blood vessels, or nerves. As intervention planning and follow-up are not within the scope of this document, readers should refer to the National Guideline Clearinghouse (NGC) summary of the <a href=&quot;/summaries/summary/51010&quot; title=&quot;Guideline #11028&quot; target=&quot;_blank&quot;>ACR Appropriateness Criteria&amp;reg; thoracic aorta interventional planning and follow-up</a> guideline.</p>
-<p>Normal thoracic aorta diameter varies from the aortic sinuses to the diaphragm, decreasing in size as it courses distally. The adult thoracic aorta diameter is dependent on the individual, but measures between 3.5 and 4.0 cm at the aortic root, and tapers distally to measure between 2.4 and 2.7 cm at the level of the diaphragm, with larger diameters seen particularly in older males. Aortic dilatation of &amp;lt;50% over normal qualifies as aortic ectasia, whereas TAA are diagnosed when there is at least 50% enlargement of the aortic lumen, or alternatively when the aortic diameter is more than two standard deviations above the mean for the patient's sex and age. Abnormal dilatation of the thoracic aorta may be focal or relatively diffuse, and both fusiform and saccular aneurysms can occur. The most common locations for TAA are in the ascending aorta, followed by the descending aorta, and are seen in similar incidence in the aortic arch and thoracoabdominal aorta. Larger aneurysms that reach &amp;gt;5 cm in diameter, and TAAs that increase in size &amp;gt;0.5 cm per year, trigger an evaluation for possible intervention due to their association with increased morbidity and mortality. See the NGC summary of the <a href=&quot;/summaries/summary/51010&quot; title=&quot;Guideline #11028&quot; target=&quot;_blank&quot;>ACR Appropriateness Criteria&amp;reg; thoracic aorta interventional planning and follow-up</a> guideline.</p>
-<p>The true incidence of TAA in the general population is unknown because most cases are asymptomatic and may go undiscovered. Review of the published literature reveals the incidence to be approximately 10.7 to 16.3 cases per 100,000 in men and between 7.1 to 9.1 cases per 100,000 in women per year, with both incidence and surgical interventions increasing over time. Other reports have estimated the incidence of TAA-related mortality to be on the decline, albeit with marked inequality between countries and patient demographic groups. Regardless of the exact incidence today, clinicians are frequently tasked with working up suspected or incidentally found TAA and should be familiar with the existing diagnostic modalities. </p>
-<p><strong>Discussion of Procedures by Variant</strong> </p>
-<p><em>Variant 1: Suspected Thoracic Aortic Aneurysm. Initial Imaging</em></p>
-<p><span style=&quot;text-decoration: underline;&quot;>Radiography</span></p>
-<p>Patients presenting to a clinic or the emergency department receive chest radiographs (CXRs) for a variety of indications. Regardless of symptoms, or lack thereof, abnormalities seen on a screening CXR are often the impetus for further imaging and clinical workup of TAA. Findings such as a widened mediastinum, mass effect or distortion of para-aortic structures, and aortic tortuosity or widening can signal the need for further clinical and imaging evaluation of possible aortic aneurysm. CXRs, though neither as sensitive nor specific as cross-sectional imaging, are also helpful to exclude other thoracic pathology and to rule out various causes of patient presentation, such as pneumothorax, osseous abnormalities (for example, fractures), and pneumonia. </p>
-<p><span style=&quot;text-decoration: underline;&quot;>TTE and TEE</span></p>
-<p>Resting transthoracic (TTE) and transesophageal (TEE) echocardiography are useful imaging modalities for both initial workup of suspected TAA and for follow-up evaluation of known TAA. Additionally, ultrasound (US) is often readily available at the bedside and can provide rapid results when patients are unstable or may require urgent surgery. TTE is less invasive than TEE; both modalities are useful in ruling out TAA. However, imaging with TTE may be limited for obese or intubated patients and for those who present with physical limitations to ultrasonographic evaluation, such as chest wall alterations from recent surgery, pneumothorax, or emphysema. Likewise, esophageal varices are a relative contraindication for TEE due to bleeding risk. TTE allows for evaluation of the aortic root, important anatomy to visualize due to the frequency of associated findings such as valvular abnormalities, incompetence, and regurgitation. However, the transthoracic approach is often limited by superimposed soft-tissue structures for evaluating the ascending and descending aortic arch. </p>
-<p>When patients are being evaluated with US, long axis views of the aorta are obtained from the aortic sinuses through the descending aorta. Complete evaluation of the aorta branch vessels is necessary to evaluate for aneurysm involvement, thrombus, dissection, and stenosis, as well as for treatment planning. One limitation to US evaluation is decreased sensitivity for pathology in the aortic arch. An additional &quot;blind spot&quot; for US is the anterior aortic arch, which limits sonographic imaging due to the trachea and left main bronchus blocking sound waves between the esophagus and aorta.</p>
+<p><strong>Introduction/Background</strong></p>
+<p>Tinnitus is the perception of sound when no external sound is present. It is common, occurring in approximately 10% of the U.S. adult population. Tinnitus is not a disease; rather, it is a symptom that can result from a number of underlying causes. Tinnitus may be categorized as pulsatile or nonpulsatile, primary (idiopathic) or secondary to another condition, and subjective or objective. </p>
+<p>&quot;Pulsatile&quot; tinnitus is a repetitive sound coinciding with the patient's heartbeat, whereas &quot;nonpulsatile&quot; tinnitus is a continuous or constant nonsynchronous sound. Nonpulsatile tinnitus is almost always &quot;subjective&quot; (heard only by the patient), and is the most common variant, often associated with presbycusis, medication toxicities, exposures to environmental noises, or additional etiologies. Subjective tinnitus is perceived only by the patient, and may be caused by a variety of otologic, neurologic, and metabolic disorders, most often in the setting of sensorineural hearing loss. &quot;Objective&quot; tinnitus is audible to the examining health care provider and should prompt evaluation for an underlying vascular abnormality. </p>
+<p>Primary tinnitus is idiopathic, and may or may not have concomitant sensorineural hearing loss, and there is typically no cure. It may resolve spontaneously or symptoms can be mitigated with auditory, behavioral, or cognitive therapies. Secondary tinnitus is associated with an underlying source that may or may not require imaging to define. Etiologies range from cerumen impaction to middle ear or labyrinthine disorders, vascular abnormalities, vestibular schwannoma or intracranial hypertension. </p>
+<p>The primary evaluation of tinnitus begins with a comprehensive otologic examination to determine if a vascular retrotympanic mass is present, audiometric examination, and review of medical history and medications (including over the counter), prior to imaging. The appropriateness of imaging examinations or modalities depends both upon the characterization of tinnitus and any related symptoms. It is common that tinnitus co-exists with other symptoms, therefore this document includes references to the ACR Appropriateness Criteria&amp;reg; Hearing Loss and/or Vertigo (see the <a href=&quot;/summaries/summary/47674&quot; title=&quot;Guideline #10159&quot; target=&quot;_blank&quot;>National Guideline Clearinghouse [NGC] summary</a>), Head Trauma (see the <a href=&quot;/summaries/summary/49914&quot; title=&quot;Guideline #10839&quot; target=&quot;_blank&quot;>NGC summary</a>), and Cerebrovascular Disease (see the <a href=&quot;/summaries/summary/50462&quot; title=&quot;Guideline #11059&quot; target=&quot;_blank&quot;>NGC summary</a>) guidelines to guide imaging in these settings. This is in accordance with the NGC summary of the American Academy of Otolaryngology - Head and Neck Surgery Foundation (AAO-HNSF) <a href=&quot;/summaries/summary/48751&quot; title=&quot;Guideline #10567&quot; target=&quot;_blank&quot;>Clinical practice guideline: tinnitus</a>, which also makes strong recommendations against imaging in patients with subjective, nonpulsatile tinnitus that does not localize to one ear and is not associated with a focal neurologic abnormality or asymmetric hearing loss. Those guidelines also focused on the impact of quality of life, noting that patients with tinnitus and severe anxiety or depression require prompt identification and intervention because suicide is reported in tinnitus patients with coexisting psychiatric illness. </p>
+<p><strong>Discussion of Procedures by Variant</strong></p>
+<p><em>Variant 1: Subjective or Objective Pulsatile Tinnitus (No Myoclonus or Eustachian Tube Dysfunction)</em></p>
+<p>The main purpose for the imaging of patients with pulsatile tinnitus is to determine if an underlying anomaly or abnormality may be addressed with medical, endovascular, surgical, or radiation therapy. Primary considerations include vascular masses, aberrant arterial or venous anatomy, vascular malformations, and intracranial hypertension. Objective tinnitus is rare and has been attributed to turbulent flow in the setting of atherosclerotic carotid artery disease, jugular bulb abnormalities, abnormal condylar, and mastoid emissary veins, which may not be recognized as having a pulsatile component. Correlation with the physical examination prior to imaging is recommended, to appropriately distinguish patients with objective tinnitus related to muscle spasm/myoclonus or Eustachian tube dysfunction from those where a vascular cause is suspected. </p>
 <p><span style=&quot;text-decoration: underline;&quot;>CT and CTA</span></p>
-<p>In patients who are found to have TAA on US, or in cases when more information is needed after CXR or clinical examination, computed tomography (CT) can be a high-quality imaging tool for more detailed evaluation, therapy planning, and follow-up. Nonenhanced CT with multiplanar reconstructions is often adequate for initial diagnosis of suspected TAA and for further delineation of any additional abnormal aortic findings, such as atherosclerotic plaque seen on US or CXR, but is limited in evaluation of acute TAA complications. Intravenous (IV) contrast should be administered to patients who can tolerate iodinated contrast so that CT angiography (CTA) may be performed. </p>
-<p>For the purposes of distinguishing between CT and CTA, the ACR Appropriateness Criteria topics use the definition in the <em>Practice Parameter for the Performance and Interpretation of Body Computed Tomography Angiography (CTA)</em>: &quot;CTA uses a thin-section CT acquisition that is timed to coincide with peak arterial or venous enhancement. The resultant volumetric dataset is interpreted using primary transverse reconstructions as well as multiplanar reformations and 3-D renderings.&quot;</p>
-<p>All procedure elements are essential: (1) timing, (2) recons/reformats, and (3) 3-D renderings. Standard CTs with contrast also include timing issues and recons/reformats. Only in CTA, however, is 3-D rendering a required element. This corresponds to the definitions that CMS has applied to the Current Procedural Terminology (CPT) codes. </p>
-<p>CTA has the additional advantage of high sensitivity for thrombus and dissection, and the delayed phase can be used to diagnose aortic wall thickening and enhancement in cases of infectious or inflammatory aortitis. In certain patients, multiphase CTA may be useful to further characterize complications in patients with known or suspected TAA. CTA is also useful for imaging the branch vessels, and often is employed to visualize the entire aorta from aortic sinus through the iliac bifurcation and into the lower extremities if needed. Additionally, multiphase CTA, including delayed-contrast images, is perhaps the best imaging tool for evaluation of patients who have had either open or endovascular TAA repair, and for patients who need preoperative treatment planning; however, this is discussed in greater detail in the thoracic aortic intervention planning and follow-up document. See the NGC summary of the <a href=&quot;/summaries/summary/51010&quot; title=&quot;Guideline #11028&quot; target=&quot;_blank&quot;>ACR Appropriateness Criteria&amp;reg; thoracic aorta interventional planning and follow-up</a>. Limitations of CTA include streak artifact from implanted devices, variable quality of images through the aortic root and coronary vessels due to cardiac motion in non-gated studies, and the need for IV iodinated contrast. Electrocardiogram (ECG)-gated CTA is often used to minimize cardiac motion artifact and to allow for accurate orthogonal measurement of the ascending thoracic aorta.</p>
-<p>A routine CT of the chest, abdomen, and pelvis with IV contrast in the venous phase, as is commonly ordered to evaluate the soft tissues, may reveal TAA, but should not be ordered without additional contrast phases if TAA or other aortic pathology is highest on the differential diagnosis list. Images may be obtained of the entire aorta because patients with TAA have an increased incidence of AAA, as well as aneurysmal disease elsewhere in the body. </p>
-<p><span style=&quot;text-decoration: underline;&quot;>MRA</span></p>
-<p>Magnetic resonance angiography (MRA) is an increasingly employed modality for diagnosing, characterizing, and after TAA. Although certain MRA sequences can be performed without IV contrast enhancement, the use of IV gadolinium-contrast medium provides for similar sensitivity and specificity to that of CTA while also allowing for postprocessing, which can generate 3-D reconstruction, maximum intensity projections and multiplanar reconstructions. Image acquisition times, though still longer than CTA, are becoming faster as new protocols are implemented and new technology reaches the market. ECG-gated MRA image acquisition and orthogonal measurement allows for increased accuracy of aortic diameter measurement than nongated studies and axial image measurements. </p>
-<p>Few contraindications exist for MRA; however, there is increased risk of nephrogenic systemic fibrosis in patients with severely impaired renal function. Standard practice is to avoid the administration of gadolinium-based contrast in patients with glomerular filtration rate &amp;lt;30 mL/min/1.73m<sup>2</sup>. MRA is of sufficient resolution to be used for evaluating TAA in patients who have received certain nitinol stents. MRA also provides high-resolution images of the surrounding thoracic structures and can help evaluate aortic and periaortic inflammation or infection. </p>
-<p><span style=&quot;text-decoration: underline;&quot;>Aortography</span></p>
-<p>Conventional catheter arteriography of the aorta may provide useful information about TAA and also provides access for intervention when indicated, particularly in patients with end-organ ischemia. Iodinated contrast doses for arteriography can vary widely, but very low doses may be used for patients with poor renal function or for those who have received a kidney transplant. Limitations of catheter-based arteriography include the potential to underestimate the aortic lumen diameter when thrombus is present, as well as the need for femoral, brachial or radial arteriotomy to allow for catheter placement. Additionally, catheter arteriography does not adequately evaluate atherosclerotic disease or the soft tissues in the thorax outside the aortic lumen. Rare complications may occur when catheterizing the aorta, such as dissection and stroke, warranting caution when being used for diagnostic evaluation. </p>
-<p><strong>Summary of Recommendations</strong> </p>
-<p>CTA chest or MRA chest is recommended for radiological diagnosis of suspected thoracic aortic aneurysm.</p>
+<p>Dedicated temporal bone computed tomography (CT) is recommended as a first-line study in the setting of a vascular retrotympanic mass or subjective pulsatile tinnitus to determine if a paraganglioma or adenomatous middle ear tumor is the source of pulsatile tinnitus, or if there is variant vascular anatomy. Temporal bone CT is also sensitive for semicircular canal dehiscence; however, a risk of overestimation of superior semicircular dehiscence may occur in the absence of oblique reformats (in the planes Stenver and Poschl) given the intrinsic sloping of the petrous temporal bone. </p>
+<p>Given concerns for a possible underlying vascular process, contrast-enhanced CT angiography (CTA) of the head and neck is also supported as a first-line imaging modality. Dedicated temporal bone CT reconstructions can be created from the high resolution source CTA images without additional radiation exposure to the patient, however, there is no evidence to support the practice of a combined CTA/CT temporal bone examination rather than one or the other alone or sequentially. Contrast bolus timing can be adapted to define arterial and venous anatomy, to identify vascular variants of the arteries, or persistent petro-squamosal sinus, and pathology such as dural arteriovenous fistula (AVF), arterial dissection, or sigmoid sinus wall diverticulum or anomalies (commonly associated with intracranial hypertension/pseudotumor cerebri syndrome). An advantage of CTA is bone algorithms that enable assessment of osseous channels in the bone in dural AVF, or dehiscence of the sigmoid plate or jugular bulb. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>MRI and MRA</span></p>
+<p>Magnetic resonance imaging (MRI) and magnetic resonance angiography (MRA) have been shown to be of comparable accuracy to catheter angiography in small series and may be considered as a noninvasive alternative to screen for a suspected intracranial vascular malformation. Noncontrast MRI and MRA techniques are available for evaluating for vascular anomalies, malformations or dissection in patients with allergies or contraindications to iodinated contrast or gadolinium contrast. MRI of the internal auditory canals and MRA techniques can characterize the relationship between nerves and blood vessels. There remains ongoing debate regarding the significance of vascular contact/impingement of the cisternal eighth cranial nerve and given the prevalence of normal, asymptomatic vascular loops, this finding should not obviate a search for another explanation for tinnitus. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>Angiography</span></p>
+<p>Craniocervical angiography is typically reserved for patients with objective pulsatile tinnitus, subjective pulsatile tinnitus with inconclusive noninvasive imaging findings, or for further characterization of an intracranial dural AVF identified on noninvasive imaging; it can also be used to better differentiate between a paraganglioma or lesion that may mimic a paraganglioma such as middle ear adenomatous tumors. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>US</span></p>
+<p>Carotid duplex or Doppler ultrasound (US) is helpful to delineate extracranial carotid stenosis when suspected as the prime cause of pulsatile tinnitus. Elevated extracranial carotid resistive indices and end diastolic velocity may be seen in the setting of intracranial vascular abnormalities, and should be addressed with intracranial modalities discussed above. </p>
+<p><em>Variant 2: Asymmetric or Unilateral, Subjective, Nonpulsatile Tinnitus (No Otoscopic Finding; No Asymmetric Hearing Loss, Neurologic Deficit, or Trauma)</em></p>
+<p>Nonpulsatile tinnitus may be described as ringing, buzzing, or clicking sensations. In this variant, a preceding clinical exam is important because otoscopy may identify a cause such as cerumen impaction, a middle ear infection, or mass. Any imaging decisions should be guided on those examination findings, rather than the symptom of tinnitus. If there is concomitant asymmetric hearing loss, neurologic deficit, or head trauma, imaging should be guided by the NGC summaries of the ACR Appropriateness Criteria&amp;reg; guidelines <a href=&quot;/summaries/summary/47674&quot; title=&quot;Guideline #10159&quot; target=&quot;_blank&quot;>Hearing loss and/or vertigo</a>, <a href=&quot;/summaries/summary/50462&quot; title=&quot;Guideline #11059&quot; target=&quot;_blank&quot;>Cerebrovascular disease</a>, or <a href=&quot;/summaries/summary/49914&quot; title=&quot;Guideline #10839&quot; target=&quot;_blank&quot;>Head trauma</a>, respectively.</p>
+<p><span style=&quot;text-decoration: underline;&quot;>MRI and MRA</span></p>
+<p>In the setting of subjective nonpulsatile unilateral tinnitus without clinically evident cause or other associated symptoms, retrocochlear lesions, such as a vestibular schwannoma or other cerebellopontine angle cistern lesion, or auditory pathway masses are of concern. These are best evaluated with MRI of the internal auditory canals without and with contrast. </p>
+<p>Unilateral tinnitus has also been associated with temporomandibular joint disorders, which may be evaluated with dedicated temporomandibular joint MRI protocols, although the mechanism is not clear. </p>
+<p>Delayed MRI after intravenous or intratympanic contrast has been proposed for the detection of endolymphatic hydrops in the setting of Meniere disease, however this has not been validated or shown to be correlative with tinnitus symptoms. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>CT and CTA</span></p>
+<p>If the patient is unable to undergo MR imaging, CT may be helpful to evaluate for underlying vascular or osseous processes; however, CT has limited sensitivity in detecting small masses along the cranial nerves, cisterns, brain or brainstem. Dedicated temporal bone CT reconstructions can be created from high resolution source CTA images without additional radiation exposure to the patient, but there is no evidence to support the practice of a combined CTA/CT temporal bone examination rather than one or the other alone or sequentially. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>Angiography</span></p>
+<p>Arteriography is not routinely used in the evaluation of patients with nonpulsatile tinnitus. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>US</span></p>
+<p>US is not routinely used in the evaluation of patients with nonpulsatile tinnitus. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>MEG and fMRI</span></p>
+<p>Magnetoencephalography (MEG) and functional MRI (fMRI) have been used to better define brain activity and neural connections in patients with tinnitus, however these techniques remain in the research realm. </p>
+<p><em>Variant 3: Symmetric or Bilateral, Subjective, Nonpulsatile Tinnitus (No Hearing Loss, Neurologic Deficit, or Trauma)</em> </p>
+<p>Imaging is not indicated in all cases of tinnitus symptoms, and is unrevealing in the setting of tinnitus related to medications, noise-induced hearing loss, presbycusis or chronic bilateral hearing loss. Whether CT or MRI is needed for evaluation of nonpulsatile tinnitus often depends on concomitant symptoms or examination findings such as hearing loss, neurologic deficit or head trauma, as tinnitus has been reported in the setting of hemorrhage, neurodegeneration, and spontaneous intracranial hypotension, among others. </p>
+<p>Tinnitus in the setting of a nontraumatic neurologic deficit should be primarily guided by the onset of symptoms, with reference to the NGC summary of the ACR Appropriateness Criteria&amp;reg; <a href=&quot;/summaries/summary/50462&quot; title=&quot;Guideline #11059&quot; target=&quot;_blank&quot;>Cerebrovascular disease</a> guideline.</p>
+<p>Please see the NGC summary of the ACR Appropriateness Criteria&amp;reg; <a href=&quot;/summaries/summary/47674&quot; title=&quot;Guideline #10159&quot; target=&quot;_blank&quot;>Hearing loss and/or vertigo</a> guideline to guide imaging of tinnitus in the setting of asymmetric hearing loss or vertigo, which may be associated with disorders of the middle ear (otitis or cholesteatoma), cochlea (labyrinthitis, otosclerosis, or intralabyrinthine hemorrhage), or central/neural structures (vestibular schwannoma and cerebellopontine angle masses, brainstem or auditory pathway lesions). </p>
+<p>Tinnitus may also be a presenting or delayed symptom in the setting of a temporal bone fracture or vascular injury. See the NGC summary of the ACR Appropriateness Criteria&amp;reg; <a href=&quot;/summaries/summary/49914&quot; title=&quot;Guideline #10839&quot; target=&quot;_blank&quot;>Head trauma</a> guideline for additional detail. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>CTA and CTV</span></p>
+<p>CTA/CT venography (CTV) is not routinely used in the evaluation of patients with symmetric or bilateral nonpulsatile tinnitus. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>MRI</span></p>
+<p>MRI is not routinely used in the evaluation of patients with symmetric or bilateral nonpulsatile tinnitus. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>MRA and MRV</span></p>
+<p>MRA/MR venography (MRV) is not routinely used in the evaluation of patients with symmetric or bilateral nonpulsatile tinnitus.</p>
+<p><span style=&quot;text-decoration: underline;&quot;>US</span></p>
+<p>US is not routinely used in the evaluation of patients with symmetric or bilateral nonpulsatile tinnitus. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>Arteriography</span></p>
+<p>Arteriography is not routinely used in the evaluation of patients with symmetric or bilateral nonpulsatile tinnitus. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>MEG and fMRI</span></p>
+<p>MEG and fMRI have been used to better define brain activity and neural connections in patients with tinnitus; however, these techniques remain in the research realm. </p>
+<p><strong>Summary of Recommendations</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>In patients with pulsatile tinnitus, temporal bone CT and CTA are appropriate to evaluate for a middle ear mass or vascular etiology. MRI may be considered as a noninvasive alternative to screen for a suspected intracranial vascular malformation. </li>
+    <li>Given concern for retrocochlear process, MRI of the internal auditory canals is the most appropriate imaging test for subjective nonpulsatile unilateral tinnitus without a clinically evident cause or other associated symptoms. </li>
+    <li>If there is concomitant asymmetric hearing loss, neurologic deficit, or head trauma, imaging should be guided by those respective ACR Appropriateness Criteria documents, rather than the presence of tinnitus. </li>
+    <li>Imaging is not indicated in all cases of tinnitus symptoms, and is usually not appropriate for symmetric or bilateral, subjective, nonpulsatile tinnitus in the absence of other symptoms. </li>
+</ul>
 <p><strong>Abbreviations</strong></p>
 <ul style=&quot;list-style-type: disc;&quot;>
     <li>CT, computed tomography </li>
     <li>CTA, computed tomographic angiography </li>
     <li>IV, intravenous </li>
+    <li>MEG, magnetoencephalography </li>
     <li>MRA, magnetic resonance angiography </li>
+    <li>MRI, magnetic resonance imaging </li>
     <li>US, ultrasound </li>
 </ul>
 <p><strong>Relative Radiation Level Designations</strong></p>
@@ -400,16 +609,17 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   </section>
   <section secid="396" ordby="400" name="Scope">
     <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Suspected thoracic aortic aneurysm</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Tinnitus</p></div>"/>
     </field>
     <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
-      <fieldvalue value="Diagnosis"/>
       <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Treatment"/>
     </field>
     <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
-      <fieldvalue value="Cardiology"/>
       <fieldvalue value="Family Practice"/>
       <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Otolaryngology"/>
       <fieldvalue value="Radiology"/>
     </field>
     <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
@@ -423,51 +633,55 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
       <fieldvalue value="Utilization Management"/>
     </field>
     <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>To evaluate the appropriateness of imaging procedures for diagnosis and evaluation of suspected thoracic aortic aneurysm</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To evaluate the appropriateness of imaging procedures in the evaluation of patients with tinnitus</p></div>"/>
     </field>
     <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients with suspected thoracic aortic aneurysm</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients with tinnitus</p></div>"/>
     </field>
     <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
       <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
     <li>Computed tomography angiography (CTA)
     <ul style=&quot;list-style-type: disc;&quot;>
-        <li>Chest with intravenous (IV) contrast </li>
-        <li>Chest, abdomen, pelvis with IV contrast </li>
-    </ul>
-    </li>
-    <li>Magnetic resonance angiography (MRA)
-    <ul style=&quot;list-style-type: disc;&quot;>
-        <li>Chest with IV contrast </li>
-        <li>Chest without IV contrast </li>
-        <li>Chest, abdomen, pelvis with IV contrast </li>
-        <li>Chest, abdomen, pelvis without IV contrast </li>
+        <li>Head with intravenous (IV) contrast </li>
+        <li>Head and neck with IV contrast </li>
     </ul>
     </li>
     <li>Computed tomography (CT)
     <ul style=&quot;list-style-type: disc;&quot;>
-        <li>Chest without IV contrast </li>
-        <li>Chest with IV contrast </li>
-        <li>Chest without and with IV contrast </li>
-        <li>Chest, abdomen, pelvis without IV contrast </li>
-        <li>Chest, abdomen, pelvis with IV contrast </li>
-        <li>Chest, abdomen, pelvis without and with IV contrast </li>
+        <li>Temporal bone without IV contrast </li>
+        <li>Temporal bone with IV contrast </li>
+        <li>Temporal bone without and with IV contrast </li>
+        <li>Venography, head with IV contrast </li>
     </ul>
     </li>
-    <li>Ultrasound (US) echocardiography
+    <li>Magnetic resonance angiography (MRA), head
     <ul style=&quot;list-style-type: disc;&quot;>
-        <li>Transesophageal </li>
-        <li>Transthoracic resting </li>
+        <li>Without and with IV contrast </li>
+        <li>Without IV contrast </li>
     </ul>
     </li>
-    <li>X-ray, chest </li>
-    <li>Aortography, chest, abdomen, pelvis </li>
+    <li>Magnetic resonance imaging (MRI), head and internal auditory canal
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Without and with IV contrast </li>
+        <li>Without IV contrast </li>
+    </ul>
+    </li>
+    <li>Magnetic resonance (MR) venography, head and internal auditory canal
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Without and with IV contrast </li>
+        <li>Without IV contrast </li>
+    </ul>
+    </li>
+    <li>Arteriography, cervicocerebral </li>
+    <li>Ultrasound, duplex Doppler, carotid </li>
+    <li>Functional MRI (fMRI), head without IV contrast </li>
+    <li>Magnetoencephalography (MEG) </li>
 </ol>"/>
     </field>
     <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
       <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
-    <li>Utility of imaging procedures in the imaging of suspected thoracic aortic aneurysm </li>
-    <li>Sensitivity, specificity, and accuracy of imaging procedures for suspected thoracic aortic aneurysm </li>
+    <li>Utility of imaging procedures in evaluation of tinnitus </li>
+    <li>Sensitivity, specificity, and accuracy of imaging procedures in evaluation of tinnitus </li>
 </ul>"/>
     </field>
   </section>
@@ -478,14 +692,14 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
       <fieldvalue value="Searches of Electronic Databases"/>
     </field>
     <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p><span style=&quot;text-decoration: underline;&quot;><strong>Literature Search Summary</strong></span></p>
-<p>Literature searches were conducted in March 2015 and August 2017 to identify evidence for the <em>ACR Appropriateness Criteria&amp;reg; Suspected Thoracic Aortic Aneurysm</em> topic. Using the search strategies described in the literature search companion (see the &quot;Availability of Companion Documents&quot; field), 700 articles were found. Six articles were used in the topic. One article was not used as it was a duplicate captured in more than one literature search. The remaining articles were not used due to either poor study design, the articles were not relevant or generalizable to the topic, or the results were unclear or biased. </p>
-<p>The author added 40 citations from bibliographies, Web sites, or books that were not found in the literature searches, including 22 articles outside of the search date ranges. </p>
-<p>Four supporting document citations were added by staff.</p>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Literature Search Summary</span></strong></p>
+<p>A literature search was conducted in January 2014, September 2014, and March 2016 to identify evidence for the <em>ACR Appropriateness Criteria&amp;reg; Tinnitus</em> topic. Using the search strategies described in the literature search companion (see the &quot;Availability of Companion Documents&quot; field), 515 articles were found. Fifty-five articles were used in the topic. The remaining articles were not used due to either poor study design, the articles were not relevant or generalizable to the topic, or the results were unclear or biased. </p>
+<p>The author added four citations from bibliographies, Web sites, or books that were not found in the literature searches because they were published outside of the search date ranges. </p>
+<p>Four citations are supporting documents that were added by staff.</p>
 <p>See also the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; literature search process document (see the &quot;Availability of Companion Documents&quot; field) for further information.</p></div>"/>
     </field>
     <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>The literature searches conducted in March 2015 and August 2017 found 6 articles that were used in the topic. The author added 40 citations from bibliographies, Web sites, or books that were not found in the literature searches, including 22 articles outside of the search date ranges. Four supporting document citations were added by staff.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The literature search conducted in January 2014, September 2014, and March 2016 found 55 articles that were used in the topic. The author added four citations from bibliographies, Web sites, or books that were not found in the literature searches because they were published outside of the search date ranges. Four citations are supporting documents that were added by staff.</p></div>"/>
     </field>
     <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
       <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
@@ -504,7 +718,6 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
 <p>Category M - Meta-analysis studies are not rated for study quality using the study element method because the method is designed to evaluate individual studies only. An &quot;M&quot; for the study quality will indicate that the study quality has not been evaluated for the meta-analysis study.</p></div>"/>
     </field>
     <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
-      <fieldvalue value="Review of Published Meta-Analyses"/>
       <fieldvalue value="Systematic Review with Evidence Tables"/>
     </field>
     <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
@@ -524,9 +737,10 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
 <ul style=&quot;list-style-type: disc;&quot;>
     <li>Ratings represent an individual's assessment of the risks and benefits of performing a specific procedure for a specific clinical scenario on an ordinal scale. The recommendation is the appropriateness category (i.e., &quot;Usually appropriate&quot;, &quot;May be appropriate&quot;, or &quot;Usually not appropriate&quot;). </li>
     <li>The appropriateness category for a procedure and clinical scenario is determined by the panel's median rating without disagreement (see below for definition of disagreement). The panel's median rating is calculated after each rating round. If there is disagreement after the second rating round, the rating category is &quot;May be appropriate (Disagreement)&quot; with a rating of &quot;5&quot; so users understand the group disagreed on the final recommendation. The actual panel median rating is documented to provide additional context. </li>
-    <li>Disagreement is defined as excessive dispersion of the individual ratings from the group (in this case, an Appropriateness Criteria [AC] panel) median as determined by comparison of the interpercentile range (IPR) and the interpercentile range adjusted for symmetry (IPRAS). In those instances when the IPR is greater than the IPRAS, there is disagreement. For a complete discussion, please refer to chapter 8 of the RAND/UCLA Appropriateness Method User Manual. Once the final recommendations have been determined, the panel reviews the document. If two thirds of the panel feel a final recommendation is wrong (e.g., does not accurately reflect the evidence, may negatively impact patient health, has unintended consequences that may harm health care, etc.) and the process must be started again from the beginning. </li>
+    <li>Disagreement is defined as excessive dispersion of the individual ratings from the group (in this case, an Appropriateness Criteria [AC] panel) median as determined by comparison of the interpercentile range (IPR) and the interpercentile range adjusted for symmetry (IPRAS). In those instances when the IPR is greater than the IPRAS, there is disagreement. For a complete discussion, please refer to chapter 8 of the RAND/UCLA Appropriateness Method User Manual. </li>
+    <li>Once the final recommendations have been determined, the panel reviews the document. If two thirds of the panel feel a final recommendation is wrong (e.g., does not accurately reflect the evidence, may negatively impact patient health, has unintended consequences that may harm health care, etc.) and the process must be started again from the beginning. </li>
 </ul>
-<p>For additional information on the ratings process see the Rating Round Information document (see the &quot;Availability of Companion Documents&quot; field). </p>
+<p>For additional information on the ratings process see the Rating Round Information document (see the &quot;Availability of Companion Documents&quot; field).</p>
 <p>Additional methodology documents, including a more detailed explanation of the complete topic development process and all ACR AC topics can be found on the <a href=&quot;https://www.acr.org/Clinical-Resources/ACR-Appropriateness-Criteria&quot; title=&quot;ACR Web site&quot;>ACR Web site</a> (see also the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
     </field>
     <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
@@ -576,30 +790,25 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
     <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>The recommendations are based on analysis of the current medical evidence literature and the application of the RAND/UCLA appropriateness method and expert panel consensus.</p>
-<p><strong><span style=&quot;text-decoration: underline;&quot;>Summary of Evidence</span></strong></p>
-<p>Of the 50 references cited in the <em>ACR Appropriateness Criteria&amp;reg; Suspected Thoracic Aortic Aneurysm</em> document, 10 are categorized as therapeutic references, including 3 good-quality studies, and 1 quality study that may have design limitations. Additionally, 39 references are categorized as diagnostic references, including 4 well-designed studies, 4 good-quality studies, and 10 quality studies that may have design limitations. There are 27 references that may not be useful as primary evidence. There is 1 reference that is a meta-analysis study. </p>
-<p>Although there are references that report on studies with design limitations, 11 well-designed or good-quality studies provide good evidence.</p></div>"/>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Summary of Evidence</span></strong> </p>
+<p>Of the 63 references cited in the <em>ACR Appropriateness Criteria&amp;reg; Tinnitus</em> document, 5 are categorized as therapeutic references including 1 good-quality study, and 1 quality study that may have design limitations. Additionally, 57 references are categorized as diagnostic references including 2 good-quality studies, and 11 quality studies that may have design limitations. There are 40 references that may not be useful as primary evidence. There is 1 reference that is a meta-analysis study. </p>
+<p>Although there are references that report on studies with design limitations, 3 good-quality studies provide good evidence.</p></div>"/>
     </field>
   </section>
   <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
     <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate use of imaging procedures to diagnose and evaluate suspected thoracic aortic aneurysm</p></div>"/>
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Determination of whether an underlying anomaly or abnormality may be addressed with medical, endovascular, surgical, or radiation therapy </li>
+    <li>Improved quality of life </li>
+</ul>"/>
     </field>
     <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
       <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
-    <li>Limitations of computed tomography angiography (CTA) include streak artifact from implanted devices, variable quality of images through the aortic root and coronary vessels due to cardiac motion in non-gated studies, and the need for intravenous (IV) iodinated contrast. </li>
-    <li>One limitation to ultrasound (US) evaluation is decreased sensitivity for pathology in the aortic arch. An additional &quot;blind spot&quot; for US is the anterior aortic arch, which limits sonographic imaging due to the trachea and left main bronchus blocking sound waves between the esophagus and aorta. </li>
+    <li>Computed tomography (CT) has limited sensitivity in detecting small masses along the cranial nerves, cisterns, brain or brainstem. </li>
+    <li>Temporal bone CT has a risk of overestimation of superior semicircular dehiscence occurring in the absence of oblique reformats (in the planes Stenver and Poschl) given the intrinsic sloping of the petrous temporal bone. </li>
 </ul>
 <p><strong><span style=&quot;text-decoration: underline;&quot;>Relative Radiation Level Information</span></strong></p>
 <p>Potential adverse health effects associated with radiation exposure are an important factor to consider when selecting the appropriate imaging procedure. Because there is a wide range of radiation exposures associated with different diagnostic procedures, a relative radiation level (RRL) indication has been included for each imaging examination. The RRLs are based on effective dose, which is a radiation dose quantity that is used to estimate population total radiation risk associated with an imaging procedure. Patients in the pediatric age group are at inherently higher risk from exposure, both because of organ sensitivity and longer life expectancy (relevant to the long latency that appears to accompany radiation exposure). For these reasons, the RRL dose estimate ranges for pediatric examinations are lower as compared to those specified for adults. Additional information regarding radiation dose assessment for imaging examinations can be found in the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; Radiation Dose Assessment Introduction document (see the &quot;Availability of Companion Documents&quot; field).</p>"/>
-    </field>
-  </section>
-  <section secid="430" ordby="800" name="Contraindications">
-    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
-      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
-    <li>Imaging with transthoracic echocardiography (TTE) may be limited for obese or intubated patients and for those who present with physical limitations to ultrasonographic evaluation, such as chest wall alterations from recent surgery, pneumothorax, or emphysema. Likewise, esophageal varices are a relative contraindication for transesophageal echocardiography (TEE) due to bleeding risk. </li>
-    <li>Few contraindications exist for magnetic resonance angiography (MRA); however, there is increased risk of nephrogenic systemic fibrosis in patients with severely impaired renal function. Standard practice is to avoid the administration of gadolinium-based contrast in patients with glomerular filtration rate &amp;lt;30 mL/min/1.73 m<sup>2</sup>. </li>
-</ul>"/>
     </field>
   </section>
   <section secid="432" ordby="900" name="Qualifying Statements">
@@ -612,12 +821,13 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   </section>
   <section secid="434" ordby="1000" name="Implementation of the Guideline">
     <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
     </field>
   </section>
   <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
     <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
       <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
     </field>
     <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
       <fieldvalue value="Effectiveness"/>
@@ -625,7 +835,7 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   </section>
   <section secid="442" ordby="1200" name="Identifying Information and Availability">
     <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
-      <fieldvalue value="<table><tr><td>Bennett SJ, Dill KE, Hanley M, Ahmed O, Desjardins B, Gage KL, Ginsburg M, Khoynezhad A, Olivia IB, Steigner ML, Strax R, Verma N, Rybicki FJ, Expert Panel on Vascular Imaging. ACR Appropriateness Criteria® suspected thoracic aortic aneurysm. Reston (VA): American College of Radiology (ACR); 2017. 8 p.  [50 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kessler MM, Moussa M, Bykowski J, Kirsch CFE, Aulino JM, Berger KL, Choudhri AF, Fife TD, Germano IM, Kendi AT, Kim HJ, Luttrull MD, Nunez D Jr, Shah LM, Sharma A, Shetty VS, Symko SC, Cornelius RS, Expert Panel on Neurologic Imaging. ACR Appropriateness Criteria® tinnitus. Reston (VA): American College of Radiology (ACR); 2017. 11 p.  [63 references]</td></tr></table>"/>
     </field>
     <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
@@ -640,24 +850,25 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
       <fieldvalue value="<div class=&quot;content_para&quot;><p>The funding for the process is assumed entirely by the American College of Radiology (ACR). ACR staff support the expert panels through the conduct of literature searches, acquisition of scientific articles, drafting of evidence tables, dissemination of materials for the Delphi process, collation of results, conference calls, document processing, and general assistance to the panelists.</p></div>"/>
     </field>
     <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Committee on Appropriateness Criteria, Expert Panel on Vascular Imaging</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Committee on Appropriateness Criteria, Expert Panel on Neurologic Imaging</p></div>"/>
     </field>
     <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Panel Members</em>: Shelby J. Bennett, MD (<em>Principal Author</em>); Karin E. Dill, MD (<em>Panel Chair</em>); Michael Hanley, MD (<em>Panel Vice-chair</em>); Osmanuddin Ahmed, MD; Benoit Desjardins, MD, PhD; Kenneth L. Gage, MD, PhD; Michael Ginsburg, MD; Ali Khoynezhad, MD, PhD; Isabel B. Oliva, MD; Michael L. Steigner, MD; Richard Strax, MD; Nupur Verma, MD; Frank J. Rybicki, MD, PhD (<em>Specialty Chair</em>)</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Panel Members</em>: Marcus M. Kessler, MD (<em>Principal Author</em>); Marwan Moussa, MB, ChB (<em>Research Author</em>); Julie Bykowski, MD (<em>Panel Chair</em>); Claudia F. E. Kirsch, MD (<em>Panel Vice-chair</em>); Joseph M. Aulino, MD; Kevin L. Berger, MD; Asim F. Choudhri, MD; Terry D. Fife, MD; Isabelle M. Germano, MD; A. Tuba Kendi, MD; H. Jeffrey Kim, MD; Michael D. Luttrull, MD; Diego Nunez Jr, MD, MPH; Lubdha M. Shah, MD; Aseem Sharma, MD; Vilaas S. Shetty, MD; Sophia C. Symko, MD; Rebecca S. Cornelius, MD (<em>Specialty Chair</em>)</p></div>"/>
     </field>
     <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Disclosing Potential Conflicts of Interest and Management of Conflicts of Interest</span></strong></p>
 <p>An important aspect of committee operations is the disclosure and management of potential conflicts of interest. In 2016, the American College of Radiology (ACR) began an organization-wide review of its conflict of interest (COI) policies. The current ACR COI policy is available on its <a href=&quot;https://www.acr.org/-/media/ACR/Files/Member-Resources/Volunteer/Conflict-of-Interest-Policy.pdf?la=en&quot; title=&quot;ACR Web site&quot;>Web site</a>. The Appropriateness Criteria (AC) program's COI process varies from the organization's current policy to accommodate the requirements for qualified provider-led entities as designated by the Centers for Medicare and Medicaid Services' Appropriate Use Criteria (AUC) program. </p>
 <p>When physicians become participants in the AC program, welcome letters are sent to inform them of their panel roles and responsibilities, including a link to complete the <a href=&quot;https://www.acr.org/-/media/ACR/Files/Appropriateness-Criteria/ACCOI-form.pdf?la=en&quot; title=&quot;ACR Web site&quot;>COI form</a>. The COI form requires disclosure of all potential conflicts of interest. ACR staff oversees the COI evaluation process, coordinating with review panels consisting of ACR staff and members, who determine when there is a conflict of interest and what action, if any, is appropriate. In addition to making the information publicly available, management may include exclusion from some topic processes, exclusion from a topic, or exclusion from the panel. </p>
 <p>Besides potential COI disclosure, AC staff begins every committee call with the conflict of interest disclosure statement listed below reminding members to update their COI forms. If any updates to their COI information have not been submitted, they are instructed not to participate in discussion where an undisclosed conflict may exist. </p>
-<p>Finally, all ACR AC are published as part of the Journal of the American College of Radiology (JACR) electronic supplement. Those who participated on the document and are listed as authors must complete the JACR process that includes completing the International Committee of Medical Journal Editors (ICMJE) COI form which is reviewed by the journal's staff/publisher. </p></div>"/>
+<p>Finally, all ACR AC are published as part of the Journal of the American College of Radiology (JACR) electronic supplement. Those who participated on the document and are listed as authors must complete the JACR process that includes completing the International Committee of Medical Journal Editors (ICMJE) COI form which is reviewed by the journal's staff/publisher. </p>
+<p>Dr. Marek Bykowski reports personal fees from Impact Biomedicines, outside the submitted work. The other authors have no conflicts of interest related to the material discussed in this article.</p></div>"/>
     </field>
     <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
 <p>This guideline meets NGC's 2013 (revised) inclusion criteria. </p></div>"/>
     </field>
     <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;https://acsearch.acr.org/docs/3102329/Narrative/&quot; title=&quot;American College of Radiology (ACR) Web site&quot;>American College of Radiology (ACR) Web site</a>.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;https://acsearch.acr.org/docs/3094199/Narrative/&quot; title=&quot;American College of Radiology (ACR) Web sit&quot;>American College of Radiology (ACR) Web site</a>.</p></div>"/>
     </field>
     <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
@@ -670,8 +881,8 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     <li>ACR Appropriateness Criteria&amp;reg;. Radiation dose assessment introduction. Reston (VA): American College of Radiology; 2017. 4 p. Available from the <a href=&quot;https://www.acr.org/-/media/ACR/Files/Appropriateness-Criteria/RadiationDoseAssessmentIntro.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
     <li>ACR Appropriateness Criteria&amp;reg;. Manual on contrast media. Reston (VA): American College of Radiology; 2017. 125 p. Available from the <a href=&quot;https://www.acr.org/Clinical-Resources/Contrast-Manual&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
     <li>ACR Appropriateness Criteria&amp;reg;. Procedure information. Reston (VA): American College of Radiology; 2017 Mar. 4 p. Available from the <a href=&quot;https://www.acr.org/-/media/ACR/Files/Appropriateness-Criteria/ProcedureInfo.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
-    <li>ACR Appropriateness Criteria&amp;reg; suspected thoracic aortic aneurysm. Evidence table. Reston (VA): American College of Radiology; 2017. 19 p. Available from the <a href=&quot;https://acsearch.acr.org/docs/3102329/EvidenceTable/&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
-    <li>ACR Appropriateness Criteria&amp;reg; suspected thoracic aortic aneurysm. Literature search. Reston (VA): American College of Radiology; 2017. 2 p. Available from the <a href=&quot;https://acsearch.acr.org/docs/3102329/LitSearch/&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg; tinnitus. Evidence table. Reston (VA): American College of Radiology; 2017. 26 p. Available from the <a href=&quot;https://acsearch.acr.org/docs/3094199/EvidenceTable/&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg; tinnitus. Literature search. Reston (VA): American College of Radiology; 2017. 2 p. Available from the <a href=&quot;https://acsearch.acr.org/docs/3094199/LitSearch/&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
 </ul></div>"/>
     </field>
     <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
@@ -695,8 +906,8 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     </field>
   </section>
 </version><!--
-     FILE ARCHIVED ON 06:28:59 Jul 13, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 17:23:13 Jul 15, 2018.
+     FILE ARCHIVED ON 01:52:16 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:23:06 Jul 15, 2018.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -704,14 +915,14 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
 -->
 <!--
 playback timings (ms):
-  LoadShardBlock: 481.024 (3)
-  esindex: 0.01
-  captures_list: 515.218
-  CDXLines.iter: 13.777 (3)
-  PetaboxLoader3.datanode: 52.212 (4)
-  exclusion.robots: 0.437
-  exclusion.robots.policy: 0.419
-  RedisCDXSource: 16.614
-  PetaboxLoader3.resolve: 416.101 (3)
-  load_resource: 22.586
+  LoadShardBlock: 105.086 (3)
+  esindex: 0.006
+  captures_list: 128.293
+  CDXLines.iter: 18.032 (3)
+  PetaboxLoader3.datanode: 56.529 (4)
+  exclusion.robots: 0.277
+  exclusion.robots.policy: 0.265
+  RedisCDXSource: 1.59
+  PetaboxLoader3.resolve: 125.002 (2)
+  load_resource: 118.752
 -->

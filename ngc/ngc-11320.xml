@@ -1,5 +1,5 @@
 <script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app19.us.archive.org';v.server_ms=557;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app23.us.archive.org';v.server_ms=402;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
 
 <script type="text/javascript">
 __wbhack.init('https://web.archive.org/web');
@@ -39,7 +39,7 @@ body {
                   <div id="wm-save-snapshot-success">success</div>
           <div id="wm-save-snapshot-fail">fail</div>
           <a href="#"
-             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11322?contentType=xml', '20180713062859')"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11320?contentType=xml', '20180712224542')"
              title="Share via My Web Archive"
              id="wm-save-snapshot-open"
           >
@@ -56,35 +56,35 @@ body {
 	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
       </div>
       <div id="wm-share" style="text-align:right;">
-	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713062859/https://www.guideline.gov/summaries/downloadcontent/ngc-11322?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
-	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713062859/https://www.guideline.gov/summaries/downloadcontent/ngc-11322?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180712224542/https://www.guideline.gov/summaries/downloadcontent/ngc-11320?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180712224542/https://www.guideline.gov/summaries/downloadcontent/ngc-11320?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
       </div>
     </div>
     <table class="c" style="">
       <tbody>
 	<tr>
 	  <td class="u" colspan="2">
-	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11322?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713062859" /><input type="submit" value="Go" /></form>
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11320?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180712224542" /><input type="submit" value="Go" /></form>
 	  </td>
 	  <td class="n" rowspan="2" style="width:110px;">
 	    <table>
 	      <tbody>
 		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
 		<tr class="m">
-		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610072134/https://www.guideline.gov/summaries/downloadcontent/ngc-11322?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
-		  <td class="c" id="displayMonthEl" title="You are here: 06:28:59 Jul 13, 2018">JUL</td>
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610072931/https://www.guideline.gov/summaries/downloadcontent/ngc-11320?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 22:45:42 Jul 12, 2018">JUL</td>
 		  <td class="f" nowrap="nowrap">Aug</td>
 		</tr>
 		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
 		<tr class="d">
-		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610072134/https://www.guideline.gov/summaries/downloadcontent/ngc-11322?contentType=xml" title="07:21:34 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
-		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 06:28:59 Jul 13, 2018">13</td>
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610072931/https://www.guideline.gov/summaries/downloadcontent/ngc-11320?contentType=xml" title="07:29:31 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 22:45:42 Jul 12, 2018">12</td>
 		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
 		</tr>
 		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
 		<tr class="y">
 		  <td class="b" nowrap="nowrap">2017</td>
-		  <td class="c" id="displayYearEl" title="You are here: 06:28:59 Jul 13, 2018">2018</td>
+		  <td class="c" id="displayYearEl" title="You are here: 22:45:42 Jul 12, 2018">2018</td>
 		  <td class="f" nowrap="nowrap">2019</td>
 		</tr>
 	      </tbody>
@@ -94,8 +94,8 @@ body {
 	<tr>
 	  <td class="s">
 	    	    <div id="wm-nav-captures">
-	      	      <a class="t" href="/web/20180713062859*/https://www.guideline.gov/summaries/downloadcontent/ngc-11322?contentType=xml" title="See a list of every capture for this URL">2 captures</a>
-	      <div class="r" title="Timespan for captures of this URL">10 Jun 2018 - 13 Jul 2018</div>
+	      	      <a class="t" href="/web/20180712224542*/https://www.guideline.gov/summaries/downloadcontent/ngc-11320?contentType=xml" title="See a list of every capture for this URL">2 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">10 Jun 2018 - 12 Jul 2018</div>
 	      </div>
 	  </td>
 	  <td class="k">
@@ -155,16 +155,16 @@ ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam
       <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
     </div>
   </div></div></div></div><script type="text/javascript">
-__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11322?contentType=xml","2018-07-13",1996);
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11320?contentType=xml","2018-07-12",1996);
 </script>
 <!-- END WAYBACK TOOLBAR INSERT --><version>
   <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
   <section secid="390" ordby="100" name="General">
     <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
-      <fieldvalue value="<div class=&quot;content_title&quot;>ACR Appropriateness Criteria&amp;reg; suspected thoracic aortic aneurysm.</div>"/>
+      <fieldvalue value="<div class=&quot;content_title&quot;>ACR Appropriateness Criteria&amp;reg; imaging of deep inferior epigastric arteries for surgical planning (breast reconstruction surgery).</div>"/>
     </field>
     <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
-      <fieldvalue value="<table><tr><td>Bennett SJ, Dill KE, Hanley M, Ahmed O, Desjardins B, Gage KL, Ginsburg M, Khoynezhad A, Olivia IB, Steigner ML, Strax R, Verma N, Rybicki FJ, Expert Panel on Vascular Imaging. ACR Appropriateness Criteria® suspected thoracic aortic aneurysm. Reston (VA): American College of Radiology (ACR); 2017. 8 p.  [50 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Olivia IB, Day K, Dill KE, Hanley M, Ahmed O, Bennett SJ, Desjardins B, Gage KL, Ginsburg M, Hamawy AH, Steigner ML, Strax R, Verma N, Rybicki FJ, Expert Panel on Vascular Imaging. ACR Appropriateness Criteria® imaging of deep inferior epigastric arteries for surgical planning (breast reconstruction surgery). Reston (VA): American College of Radiology (ACR); 2017. 8 p.  [39 references]</td></tr></table>"/>
     </field>
     <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
@@ -176,7 +176,7 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
       <fieldvalue value="Yes"/>
     </field>
     <field fieldid="184" ordby="20" id="707" name="Disclosure and Management of Financial Conflict of Interests" type="picklist-one">
-      <fieldvalue value="3"/>
+      <fieldvalue value="5"/>
     </field>
     <field fieldid="185" ordby="30" id="708" name="Guideline Development Group Composition: Multidisciplinary Group" type="picklist-one">
       <fieldvalue value="Yes"/>
@@ -221,9 +221,9 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   <section secid="420" ordby="300" name="Recommendations">
     <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>ACR Appropriateness Criteria</span>&amp;reg;</strong></p>
-<p><strong>Suspected Thoracic Aortic Aneurysm</strong></p>
-<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 1</span>: Suspected thoracic aortic aneurysm. Initial imaging.</strong></p>
-<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 1: Suspected thoracic aortic aneurysm. Initial imaging&quot;>
+<p><strong>Imaging of Deep Inferior Epigastric Arteries for Surgical Planning (Breast Reconstruction Surgery)</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 1</span>: Imaging of deep inferior epigastric arteries for surgical planning (breast reconstruction surgery).</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 1: Imaging of deep inferior epigastric arteries for surgical planning (breast reconstruction surgery)&quot;>
     <thead>
         <tr>
             <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Procedure</th>
@@ -233,119 +233,94 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     </thead>
     <tbody>
         <tr>
-            <td valign=&quot;top&quot;>CTA chest with IV contrast</td>
+            <td valign=&quot;top&quot;>CTA abdomen and pelvis with IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>MRA chest with IV contrast</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>MRA chest without IV contrast</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>CT chest without IV contrast</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>US echocardiography transesophageal</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>X-ray chest</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>CTA chest abdomen pelvis with IV contrast</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate (Disagreement)</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 5&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>MRA chest abdomen pelvis with IV contrast</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate (Disagreement)</td>
+            <td valign=&quot;top&quot;>MRA abdomen and pelvis without and with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>MRA chest abdomen pelvis without IV contrast</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate (Disagreement)</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>US echocardiography transthoracic resting</td>
+            <td valign=&quot;top&quot;>MRA abdomen and pelvis without IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>CT chest abdomen pelvis without IV contrast</td>
+            <td valign=&quot;top&quot;>Arteriography abdomen and pelvis</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>CT chest abdomen pelvis with IV contrast</td>
+            <td valign=&quot;top&quot;>CT abdomen and pelvis with IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>CT chest abdomen pelvis without and with IV contrast</td>
+            <td valign=&quot;top&quot;>US color Doppler abdomen and pelvis</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT abdomen and pelvis without and with IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>CT chest with IV contrast</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>CT chest without and with IV contrast</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>Aortography chest abdomen pelvis</td>
+            <td valign=&quot;top&quot;>CT abdomen and pelvis without IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI abdomen and pelvis without and with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI abdomen and pelvis without IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
         </tr>
     </tbody>
 </table>
 <p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
 <p><span style=&quot;text-decoration: underline;&quot;><strong>Summary of Literature Review</strong></span></p>
-<p><strong>Introduction/Background</strong> </p>
-<p>Thoracic aortic aneurysms (TAAs) tend to be clinically silent, often discovered incidentally upon imaging for another cause, unlike abdominal aortic aneurysms (AAA) that may present with pain or a pulsatile abdominal mass. Although individuals with TAA are generally asymptomatic, some patients may describe chest or back pain. When patients with known or suspected TAA present with sudden onset of pain, complications such as dissection, hemorrhage, or impending rupture should be considered. Although uncommon, cases involving a large TAA may present with anatomical mass effect, which can manifest due to compression of adjacent structures such as the esophagus, blood vessels, or nerves. As intervention planning and follow-up are not within the scope of this document, readers should refer to the National Guideline Clearinghouse (NGC) summary of the <a href=&quot;/summaries/summary/51010&quot; title=&quot;Guideline #11028&quot; target=&quot;_blank&quot;>ACR Appropriateness Criteria&amp;reg; thoracic aorta interventional planning and follow-up</a> guideline.</p>
-<p>Normal thoracic aorta diameter varies from the aortic sinuses to the diaphragm, decreasing in size as it courses distally. The adult thoracic aorta diameter is dependent on the individual, but measures between 3.5 and 4.0 cm at the aortic root, and tapers distally to measure between 2.4 and 2.7 cm at the level of the diaphragm, with larger diameters seen particularly in older males. Aortic dilatation of &amp;lt;50% over normal qualifies as aortic ectasia, whereas TAA are diagnosed when there is at least 50% enlargement of the aortic lumen, or alternatively when the aortic diameter is more than two standard deviations above the mean for the patient's sex and age. Abnormal dilatation of the thoracic aorta may be focal or relatively diffuse, and both fusiform and saccular aneurysms can occur. The most common locations for TAA are in the ascending aorta, followed by the descending aorta, and are seen in similar incidence in the aortic arch and thoracoabdominal aorta. Larger aneurysms that reach &amp;gt;5 cm in diameter, and TAAs that increase in size &amp;gt;0.5 cm per year, trigger an evaluation for possible intervention due to their association with increased morbidity and mortality. See the NGC summary of the <a href=&quot;/summaries/summary/51010&quot; title=&quot;Guideline #11028&quot; target=&quot;_blank&quot;>ACR Appropriateness Criteria&amp;reg; thoracic aorta interventional planning and follow-up</a> guideline.</p>
-<p>The true incidence of TAA in the general population is unknown because most cases are asymptomatic and may go undiscovered. Review of the published literature reveals the incidence to be approximately 10.7 to 16.3 cases per 100,000 in men and between 7.1 to 9.1 cases per 100,000 in women per year, with both incidence and surgical interventions increasing over time. Other reports have estimated the incidence of TAA-related mortality to be on the decline, albeit with marked inequality between countries and patient demographic groups. Regardless of the exact incidence today, clinicians are frequently tasked with working up suspected or incidentally found TAA and should be familiar with the existing diagnostic modalities. </p>
-<p><strong>Discussion of Procedures by Variant</strong> </p>
-<p><em>Variant 1: Suspected Thoracic Aortic Aneurysm. Initial Imaging</em></p>
-<p><span style=&quot;text-decoration: underline;&quot;>Radiography</span></p>
-<p>Patients presenting to a clinic or the emergency department receive chest radiographs (CXRs) for a variety of indications. Regardless of symptoms, or lack thereof, abnormalities seen on a screening CXR are often the impetus for further imaging and clinical workup of TAA. Findings such as a widened mediastinum, mass effect or distortion of para-aortic structures, and aortic tortuosity or widening can signal the need for further clinical and imaging evaluation of possible aortic aneurysm. CXRs, though neither as sensitive nor specific as cross-sectional imaging, are also helpful to exclude other thoracic pathology and to rule out various causes of patient presentation, such as pneumothorax, osseous abnormalities (for example, fractures), and pneumonia. </p>
-<p><span style=&quot;text-decoration: underline;&quot;>TTE and TEE</span></p>
-<p>Resting transthoracic (TTE) and transesophageal (TEE) echocardiography are useful imaging modalities for both initial workup of suspected TAA and for follow-up evaluation of known TAA. Additionally, ultrasound (US) is often readily available at the bedside and can provide rapid results when patients are unstable or may require urgent surgery. TTE is less invasive than TEE; both modalities are useful in ruling out TAA. However, imaging with TTE may be limited for obese or intubated patients and for those who present with physical limitations to ultrasonographic evaluation, such as chest wall alterations from recent surgery, pneumothorax, or emphysema. Likewise, esophageal varices are a relative contraindication for TEE due to bleeding risk. TTE allows for evaluation of the aortic root, important anatomy to visualize due to the frequency of associated findings such as valvular abnormalities, incompetence, and regurgitation. However, the transthoracic approach is often limited by superimposed soft-tissue structures for evaluating the ascending and descending aortic arch. </p>
-<p>When patients are being evaluated with US, long axis views of the aorta are obtained from the aortic sinuses through the descending aorta. Complete evaluation of the aorta branch vessels is necessary to evaluate for aneurysm involvement, thrombus, dissection, and stenosis, as well as for treatment planning. One limitation to US evaluation is decreased sensitivity for pathology in the aortic arch. An additional &quot;blind spot&quot; for US is the anterior aortic arch, which limits sonographic imaging due to the trachea and left main bronchus blocking sound waves between the esophagus and aorta.</p>
-<p><span style=&quot;text-decoration: underline;&quot;>CT and CTA</span></p>
-<p>In patients who are found to have TAA on US, or in cases when more information is needed after CXR or clinical examination, computed tomography (CT) can be a high-quality imaging tool for more detailed evaluation, therapy planning, and follow-up. Nonenhanced CT with multiplanar reconstructions is often adequate for initial diagnosis of suspected TAA and for further delineation of any additional abnormal aortic findings, such as atherosclerotic plaque seen on US or CXR, but is limited in evaluation of acute TAA complications. Intravenous (IV) contrast should be administered to patients who can tolerate iodinated contrast so that CT angiography (CTA) may be performed. </p>
-<p>For the purposes of distinguishing between CT and CTA, the ACR Appropriateness Criteria topics use the definition in the <em>Practice Parameter for the Performance and Interpretation of Body Computed Tomography Angiography (CTA)</em>: &quot;CTA uses a thin-section CT acquisition that is timed to coincide with peak arterial or venous enhancement. The resultant volumetric dataset is interpreted using primary transverse reconstructions as well as multiplanar reformations and 3-D renderings.&quot;</p>
-<p>All procedure elements are essential: (1) timing, (2) recons/reformats, and (3) 3-D renderings. Standard CTs with contrast also include timing issues and recons/reformats. Only in CTA, however, is 3-D rendering a required element. This corresponds to the definitions that CMS has applied to the Current Procedural Terminology (CPT) codes. </p>
-<p>CTA has the additional advantage of high sensitivity for thrombus and dissection, and the delayed phase can be used to diagnose aortic wall thickening and enhancement in cases of infectious or inflammatory aortitis. In certain patients, multiphase CTA may be useful to further characterize complications in patients with known or suspected TAA. CTA is also useful for imaging the branch vessels, and often is employed to visualize the entire aorta from aortic sinus through the iliac bifurcation and into the lower extremities if needed. Additionally, multiphase CTA, including delayed-contrast images, is perhaps the best imaging tool for evaluation of patients who have had either open or endovascular TAA repair, and for patients who need preoperative treatment planning; however, this is discussed in greater detail in the thoracic aortic intervention planning and follow-up document. See the NGC summary of the <a href=&quot;/summaries/summary/51010&quot; title=&quot;Guideline #11028&quot; target=&quot;_blank&quot;>ACR Appropriateness Criteria&amp;reg; thoracic aorta interventional planning and follow-up</a>. Limitations of CTA include streak artifact from implanted devices, variable quality of images through the aortic root and coronary vessels due to cardiac motion in non-gated studies, and the need for IV iodinated contrast. Electrocardiogram (ECG)-gated CTA is often used to minimize cardiac motion artifact and to allow for accurate orthogonal measurement of the ascending thoracic aorta.</p>
-<p>A routine CT of the chest, abdomen, and pelvis with IV contrast in the venous phase, as is commonly ordered to evaluate the soft tissues, may reveal TAA, but should not be ordered without additional contrast phases if TAA or other aortic pathology is highest on the differential diagnosis list. Images may be obtained of the entire aorta because patients with TAA have an increased incidence of AAA, as well as aneurysmal disease elsewhere in the body. </p>
-<p><span style=&quot;text-decoration: underline;&quot;>MRA</span></p>
-<p>Magnetic resonance angiography (MRA) is an increasingly employed modality for diagnosing, characterizing, and after TAA. Although certain MRA sequences can be performed without IV contrast enhancement, the use of IV gadolinium-contrast medium provides for similar sensitivity and specificity to that of CTA while also allowing for postprocessing, which can generate 3-D reconstruction, maximum intensity projections and multiplanar reconstructions. Image acquisition times, though still longer than CTA, are becoming faster as new protocols are implemented and new technology reaches the market. ECG-gated MRA image acquisition and orthogonal measurement allows for increased accuracy of aortic diameter measurement than nongated studies and axial image measurements. </p>
-<p>Few contraindications exist for MRA; however, there is increased risk of nephrogenic systemic fibrosis in patients with severely impaired renal function. Standard practice is to avoid the administration of gadolinium-based contrast in patients with glomerular filtration rate &amp;lt;30 mL/min/1.73m<sup>2</sup>. MRA is of sufficient resolution to be used for evaluating TAA in patients who have received certain nitinol stents. MRA also provides high-resolution images of the surrounding thoracic structures and can help evaluate aortic and periaortic inflammation or infection. </p>
-<p><span style=&quot;text-decoration: underline;&quot;>Aortography</span></p>
-<p>Conventional catheter arteriography of the aorta may provide useful information about TAA and also provides access for intervention when indicated, particularly in patients with end-organ ischemia. Iodinated contrast doses for arteriography can vary widely, but very low doses may be used for patients with poor renal function or for those who have received a kidney transplant. Limitations of catheter-based arteriography include the potential to underestimate the aortic lumen diameter when thrombus is present, as well as the need for femoral, brachial or radial arteriotomy to allow for catheter placement. Additionally, catheter arteriography does not adequately evaluate atherosclerotic disease or the soft tissues in the thorax outside the aortic lumen. Rare complications may occur when catheterizing the aorta, such as dissection and stroke, warranting caution when being used for diagnostic evaluation. </p>
-<p><strong>Summary of Recommendations</strong> </p>
-<p>CTA chest or MRA chest is recommended for radiological diagnosis of suspected thoracic aortic aneurysm.</p>
+<p><strong>Introduction/Background</strong></p>
+<p>The most common malignancy in women in the United States is breast cancer. Despite advances in treatment options, mastectomy followed by breast reconstruction remains a common therapeutic selection. There are various choices for breast reconstruction surgery ranging from saline or silicone implants to autologous tissue reconstruction. Autologous breast reconstruction is usually sought by patients and clinicians because it may provide a more aesthetic outcome than other breast reconstruction techniques. The breast can be reconstructed from a range of donor sites but the abdominal wall integument allows for versatility in flap volume and design. </p>
+<p>Breast reconstruction using a flap from a lower abdominal donor site began with the development of the pedicled transverse rectus abdominis myocutaneous (TRAM) flap in 1982. It was soon discovered that morbidity could be decreased by reducing the amount of injury to the muscle at the donor site, which led to the development of muscle-sparing procedures, including segmental latissimus dorsi myocutaneous and free-TRAM flaps. To further minimize donor site morbidity, the rectus abdominis musculature was increasingly spared in muscle-sparing TRAM flaps. The preservation of the entire rectus muscle was realized with the deep inferior epigastric perforator (DIEP) flap. </p>
+<p>The DIEP flap preserves the underlying muscle, reduces morbidity, and preserves functionality; however, it requires a more intensive surgery and microsurgical revascularization when compared to the TRAM flap procedures. The DIEP flap arterial supply is via intramuscular perforators from the deep inferior epigastric artery (DIEA), which arises from the external iliac artery. The anatomy of the DIEA itself is consistent, making this vessel easily identifiable without preoperative imaging and allowing this operation before the advent of preoperative imaging planning. </p>
+<p>The perforator branches of the DIEA have a variable anatomy that may even exist between the right and left hemiabdomen in the same patient. These perforator branches have been traditionally classified as a single (type 1), bifurcating (type 2), and trifurcating trunk (type 3). The perforator arteries are then individually divided into intramuscular, subfascial, and subcutaneous segments. This unpredictable anatomy may lead to lengthy perforator vessel selection and therefore longer operative times when imaging is not used as part of the preoperative planning. Additionally, preoperative imaging planning that accurately maps the perforators and its branches leads to reduced operative time, reduced abdominal morbidity, and increased flap reliability. </p>
+<p>The information most critical to the surgical team includes the location, size, and intramuscular course of the perforator branch. To best aid the surgical team, multiple perforators are identified, which are typically ranked based on size, location, and intramuscular course. The selection of the &quot;best&quot; perforator is the most difficult diagnostic challenge in preoperative imaging and during the surgery. The ideal perforator should have the largest caliber available given its influence on flap viability. The ideal perforator should also be medially located within the flap with an extended vascular territory beyond the midline to best provide optimal perfusion, preservation of muscle innervation, and avoid fat necrosis. Additionally, a short intramuscular course allows for successful dissection. Regardless of the imaging modality, perforators are reported with the location where it pierces the anterior rectus sheath in relation to the umbilicus. This is an important distinction because the position of the perforator within the subcutaneous tissues can move with applied pressure; however, the rectus sheath is immobile relative to the umbilicus. This concept is applied in computed tomography angiography (CTA) and magnetic resonance angiography (MRA) with localization of perforators on maximum intensity projection (MIP) images at the anterior rectus sheath and then superimposing the location onto 3-D skin surface rendered images. Information about the perforator size and intramuscular course are also reported to help prioritize which perforators may be used for the procedure. </p>
+<p><strong>Preoperative Imaging</strong></p>
+<p>The goal of preoperative imaging is to aid the surgical team in preoperative planning given the variability of the DIEA perforator branches anatomy between patients, and even between the left and right hemiabdomen of the same patient. Improved clinical outcomes with preoperative imaging have been shown (predominantly with CTA) to include decreased length of surgery, decreased flap loss rate, decreased hernia rate, decreased intraoperative blood loss, shorter mean inpatient stay, reduced learning curve when compared with hand-held Doppler, and increased surgeon confidence.</p>
+<p><strong>Discussion of Procedures by Variant</strong></p>
+<p><em>Variant 1: Imaging of Deep Inferior Epigastric Arteries for Surgical Planning (Breast Reconstruction Surgery)</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>US</span> </p>
+<p>Color Doppler ultrasound (US) allows for evaluation of perforator location, size, and associated information on vessel integrity including atherosclerotic disease, a prior surgery (scar tissue), or other vascular disorders. There is a significant challenge in interpreting real-time sonographic images into a report that is beneficial to the surgical team. For this document, it is assumed the procedure is performed and interpreted by an expert. Color Doppler US remains a real-time imaging technique that cannot be fully used by the surgical team in the operating room. When compared to color Doppler US, CTA is a more intuitive modality that is favored by many surgeons and can also be used for reference in the operating room. Multiple studies have shown the superior accuracy of CTA over color Doppler US in preoperative perforator imaging. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>Arteriography</span></p>
+<p>Conventional angiography with and without the use of cone-beam CT theoretically would aid preoperative planning for DIEP flaps given its relatively high spatial resolution and ability to selectively catheterize the DIEP. However, given the invasive nature of the procedure without therapeutic benefit and ionic contrast exposure, it is not routinely used in these patients. Prior to the development of noninvasive imaging modalities, DIEP flaps were performed without preoperative imaging given the consistency of the DIEA. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>CTA</span> </p>
+<p>CTA is the current diagnostic modality of choice for evaluation of perforators in preoperative DIEP flap planning. CT is a readily available and fast imaging test with a positive predictive value of 100% for perforators &amp;gt;1 mm. CTA is extremely reproducible. The diagnostic quality of CTA is dependent on optimal DIEA enhancement. Given the associated radiation, a single contrast-enhanced phase is obtained relying on a region of interest for automatic injection placed on the femoral artery. Additionally, reversed caudal-cranial scanning from the pubic symphysis towards the umbilicus improves DIEA enhancement.</p>
+<p>Perforators are localized on MIP images along the anterior rectus sheath; the location is then superimposed on 3-D skin surface rendered images. Additionally, axial and sagittal MIP images are used to depict the perforator's course through the subcutaneous tissues, including the intramuscular portion within the rectus muscle. Perforators are typically ranked based on size, location, and intramuscular course. Additional information that can be obtained by CTA includes venous communication between the right and left abdomen, cutaneous perforators, as well as other parameters that can be used to calculate flap viability and flap weights, all of which can help preoperative planning by surgical teams. Recent research has shown that 3-D postprocessing of CTA data may also improve accuracy in identifying perforators. CTA has been accepted as the gold standard in preoperative planning for DIEP flaps with sensitivity of 96% for all perforators and sensitivity of 100% for perforators &amp;gt;1 mm.</p>
+<p>Preoperative imaging with CTA demonstrates improved clinical outcomes including decreased length of surgery, decreased flap loss rate, decreased hernia rate, decreased intraoperative blood loss, shorter mean inpatient stay, reduced learning curve when compared with hand-held Doppler, and increased surgeon confidence. Additionally, meta-analyses of preoperative imaging in DIEP flaps demonstrate improved clinical outcomes with CTA over color Doppler US, including overall flap-related complications, donor-site morbidity, and decreased length of surgery. </p>
+<p>For the purposes of distinguishing between CT and CTA, the ACR Appropriateness Criteria topics use the definition in the <em>Practice Parameter for the Performance and Interpretation of Body Computed Tomography Angiography (CTA)</em>: &quot;CTA uses a thin-section CT acquisition that is timed to coincide with peak arterial or venous enhancement. The resultant volumetric dataset is interpreted using primary transverse reconstructions as well as multiplanar reformations and 3-D renderings.&quot; All procedure elements are essential: (1) timing, (2) recons/reformats, and (3) 3-D renderings. Standard CTs with contrast also include timing issues and recons/reformats. Only in CTA, however, is 3-D rendering a required element. This corresponds to the definitions that CMS has applied to the CPT codes. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>CT</span></p>
+<p>There is no relevant literature regarding the use of standard CT without and/or with contrast. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>MRA</span> </p>
+<p>MRA use in evaluation for DIEP flaps was described relatively recently, in 2009. The benefits of MRA are the lack of radiation exposure and iodinated contrast, which allows for multiple phases to be acquired and aids in optimal contrast timing. Although MRA has lower spatial resolution than CTA, MRA has higher contrast resolution, allowing the detection of submillimeter gadolinium-enhanced structures such as the DIEA perforators. MRA analysis and postprocessing is similar to CTA, which uses perforators localized on MIP images along the anterior rectus sheath, after which the location is superimposed on 3-D skin surface rendered images. Additionally, axial and sagittal MIP images are used to depict the perforator's course. Of note, slight errors in measurement may be attributable to compression of the anterior abdominal wall by the applied MR torso coil. Limitations of MRA include longer scan times than CT, and MRI contraindications including patient claustrophobia, implanted metallic devices, and renal impairment. </p>
+<p>Early studies have shown accurate localization of perforators with MRA for DIEP flaps. Application of novel MR techniques, such as the use of unenhanced MRA, has shown promise as the vessels can be visualized without intravenous administration of contrast. A few small studies comparing CTA and MRA have shown that CTA is more accurate than MRA and remains the preferred modality due to its higher spatial resolution and higher sensitivity in identifying the perforator branches. Larger studies are needed to evaluate the accuracy of the new emerging MRA techniques and their role in preoperative perforator branch imaging. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>MRI</span> </p>
+<p>There is no significant literature supporting the use of standard MRI without and/or with contrast. </p>
+<p><strong>Summary of Recommendations</strong></p>
+<p>In preoperative planning prior to breast reconstruction using DIEP flap, CTA abdomen and pelvis with IV contrast is the first-line imaging modality. MRA abdomen and pelvis without and with IV contrast is a reasonable alternative.</p>
 <p><strong>Abbreviations</strong></p>
 <ul style=&quot;list-style-type: disc;&quot;>
     <li>CT, computed tomography </li>
     <li>CTA, computed tomographic angiography </li>
     <li>IV, intravenous </li>
     <li>MRA, magnetic resonance angiography </li>
+    <li>MRI, magnetic resonance imaging </li>
     <li>US, ultrasound </li>
 </ul>
 <p><strong>Relative Radiation Level Designations</strong></p>
@@ -369,7 +344,7 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
             <td class=&quot;Center&quot; valign=&quot;top&quot;>&amp;lt;0.03 mSv</td>
         </tr>
         <tr>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol  1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>0.1-1 mSv</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>0.03-0.3 mSv</td>
         </tr>
@@ -400,16 +375,18 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   </section>
   <section secid="396" ordby="400" name="Scope">
     <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Suspected thoracic aortic aneurysm</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Breast cancer</p></div>"/>
     </field>
     <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
-      <fieldvalue value="Diagnosis"/>
       <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Treatment"/>
     </field>
     <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
-      <fieldvalue value="Cardiology"/>
       <fieldvalue value="Family Practice"/>
       <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Obstetrics and Gynecology"/>
+      <fieldvalue value="Oncology"/>
+      <fieldvalue value="Plastic Surgery"/>
       <fieldvalue value="Radiology"/>
     </field>
     <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
@@ -423,51 +400,41 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
       <fieldvalue value="Utilization Management"/>
     </field>
     <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>To evaluate the appropriateness of imaging procedures for diagnosis and evaluation of suspected thoracic aortic aneurysm</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To evaluate the appropriateness of imaging procedures for imaging of deep inferior epigastric arteries for surgical planning</p></div>"/>
     </field>
     <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients with suspected thoracic aortic aneurysm</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Women undergoing autologous breast reconstruction</p></div>"/>
     </field>
     <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
-      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
-    <li>Computed tomography angiography (CTA)
+      <fieldvalue value="<ol style=&quot;list-style-type: disc;&quot;>
+    <li>Computed tomography angiography (CTA), abdomen and pelvis with intravenous (IV) contrast </li>
+    <li>Magnetic resonance angiography (MRA), abdomen and pelvis
     <ul style=&quot;list-style-type: disc;&quot;>
-        <li>Chest with intravenous (IV) contrast </li>
-        <li>Chest, abdomen, pelvis with IV contrast </li>
+        <li>Without and with IV contrast </li>
+        <li>Without IV contrast </li>
     </ul>
     </li>
-    <li>Magnetic resonance angiography (MRA)
+    <li>Arteriography, abdomen and pelvis </li>
+    <li>Computed tomography (CT), abdomen and pelvis
     <ul style=&quot;list-style-type: disc;&quot;>
-        <li>Chest with IV contrast </li>
-        <li>Chest without IV contrast </li>
-        <li>Chest, abdomen, pelvis with IV contrast </li>
-        <li>Chest, abdomen, pelvis without IV contrast </li>
+        <li>With IV contrast </li>
+        <li>Without and with IV contrast </li>
+        <li>Without IV contrast </li>
     </ul>
     </li>
-    <li>Computed tomography (CT)
+    <li>Ultrasound (US) color Doppler, abdomen and pelvis </li>
+    <li>Magnetic resonance imaging (MRI), abdomen and pelvis
     <ul style=&quot;list-style-type: disc;&quot;>
-        <li>Chest without IV contrast </li>
-        <li>Chest with IV contrast </li>
-        <li>Chest without and with IV contrast </li>
-        <li>Chest, abdomen, pelvis without IV contrast </li>
-        <li>Chest, abdomen, pelvis with IV contrast </li>
-        <li>Chest, abdomen, pelvis without and with IV contrast </li>
+        <li>Without and with IV contrast </li>
+        <li>Without IV contrast </li>
     </ul>
     </li>
-    <li>Ultrasound (US) echocardiography
-    <ul style=&quot;list-style-type: disc;&quot;>
-        <li>Transesophageal </li>
-        <li>Transthoracic resting </li>
-    </ul>
-    </li>
-    <li>X-ray, chest </li>
-    <li>Aortography, chest, abdomen, pelvis </li>
 </ol>"/>
     </field>
     <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
       <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
-    <li>Utility of imaging procedures in the imaging of suspected thoracic aortic aneurysm </li>
-    <li>Sensitivity, specificity, and accuracy of imaging procedures for suspected thoracic aortic aneurysm </li>
+    <li>Utility of imaging procedures in the imaging of deep inferior epigastric arteries for surgical planning </li>
+    <li>Sensitivity, specificity, and accuracy of imaging procedures in imaging of deep inferior epigastric arteries for surgical planning </li>
 </ul>"/>
     </field>
   </section>
@@ -479,13 +446,12 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     </field>
     <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p><span style=&quot;text-decoration: underline;&quot;><strong>Literature Search Summary</strong></span></p>
-<p>Literature searches were conducted in March 2015 and August 2017 to identify evidence for the <em>ACR Appropriateness Criteria&amp;reg; Suspected Thoracic Aortic Aneurysm</em> topic. Using the search strategies described in the literature search companion (see the &quot;Availability of Companion Documents&quot; field), 700 articles were found. Six articles were used in the topic. One article was not used as it was a duplicate captured in more than one literature search. The remaining articles were not used due to either poor study design, the articles were not relevant or generalizable to the topic, or the results were unclear or biased. </p>
-<p>The author added 40 citations from bibliographies, Web sites, or books that were not found in the literature searches, including 22 articles outside of the search date ranges. </p>
-<p>Four supporting document citations were added by staff.</p>
+<p>A literature search was conducted in September 2015 and updated in June 2017 to identify evidence for the <em>ACR Appropriateness Criteria&amp;reg; Imaging of Deep Inferior Epigastric Arteries for Surgical Planning (Breast Reconstruction Surgery)</em> topic. Using the search strategy described in the literature search companion (see the &quot;Availability of Companion Documents&quot; field), 218 articles were found. Thirty-seven articles were used in the topic. Nine articles were not used as they were duplicates captured in more than one literature search. The remaining articles were not used due to either poor study design, the articles were not relevant or generalizable to the topic, or the results were unclear or biased. </p>
+<p>Two citations are supporting documents that were added by staff.</p>
 <p>See also the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; literature search process document (see the &quot;Availability of Companion Documents&quot; field) for further information.</p></div>"/>
     </field>
     <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>The literature searches conducted in March 2015 and August 2017 found 6 articles that were used in the topic. The author added 40 citations from bibliographies, Web sites, or books that were not found in the literature searches, including 22 articles outside of the search date ranges. Four supporting document citations were added by staff.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The literature search conducted in September 2015 and updated in June 2017 found 37 articles that were used in the topic. Two citations are supporting documents that were added by staff.</p></div>"/>
     </field>
     <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
       <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
@@ -524,7 +490,8 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
 <ul style=&quot;list-style-type: disc;&quot;>
     <li>Ratings represent an individual's assessment of the risks and benefits of performing a specific procedure for a specific clinical scenario on an ordinal scale. The recommendation is the appropriateness category (i.e., &quot;Usually appropriate&quot;, &quot;May be appropriate&quot;, or &quot;Usually not appropriate&quot;). </li>
     <li>The appropriateness category for a procedure and clinical scenario is determined by the panel's median rating without disagreement (see below for definition of disagreement). The panel's median rating is calculated after each rating round. If there is disagreement after the second rating round, the rating category is &quot;May be appropriate (Disagreement)&quot; with a rating of &quot;5&quot; so users understand the group disagreed on the final recommendation. The actual panel median rating is documented to provide additional context. </li>
-    <li>Disagreement is defined as excessive dispersion of the individual ratings from the group (in this case, an Appropriateness Criteria [AC] panel) median as determined by comparison of the interpercentile range (IPR) and the interpercentile range adjusted for symmetry (IPRAS). In those instances when the IPR is greater than the IPRAS, there is disagreement. For a complete discussion, please refer to chapter 8 of the RAND/UCLA Appropriateness Method User Manual. Once the final recommendations have been determined, the panel reviews the document. If two thirds of the panel feel a final recommendation is wrong (e.g., does not accurately reflect the evidence, may negatively impact patient health, has unintended consequences that may harm health care, etc.) and the process must be started again from the beginning. </li>
+    <li>Disagreement is defined as excessive dispersion of the individual ratings from the group (in this case, an Appropriateness Criteria [AC] panel) median as determined by comparison of the interpercentile range (IPR) and the interpercentile range adjusted for symmetry (IPRAS). In those instances when the IPR is greater than the IPRAS, there is disagreement. For a complete discussion, please refer to chapter 8 of the RAND/UCLA Appropriateness Method User Manual. </li>
+    <li>Once the final recommendations have been determined, the panel reviews the document. If two thirds of the panel feel a final recommendation is wrong (e.g., does not accurately reflect the evidence, may negatively impact patient health, has unintended consequences that may harm health care, etc.) and the process must be started again from the beginning. </li>
 </ul>
 <p>For additional information on the ratings process see the Rating Round Information document (see the &quot;Availability of Companion Documents&quot; field). </p>
 <p>Additional methodology documents, including a more detailed explanation of the complete topic development process and all ACR AC topics can be found on the <a href=&quot;https://www.acr.org/Clinical-Resources/ACR-Appropriateness-Criteria&quot; title=&quot;ACR Web site&quot;>ACR Web site</a> (see also the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
@@ -577,29 +544,27 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>The recommendations are based on analysis of the current medical evidence literature and the application of the RAND/UCLA appropriateness method and expert panel consensus.</p>
 <p><strong><span style=&quot;text-decoration: underline;&quot;>Summary of Evidence</span></strong></p>
-<p>Of the 50 references cited in the <em>ACR Appropriateness Criteria&amp;reg; Suspected Thoracic Aortic Aneurysm</em> document, 10 are categorized as therapeutic references, including 3 good-quality studies, and 1 quality study that may have design limitations. Additionally, 39 references are categorized as diagnostic references, including 4 well-designed studies, 4 good-quality studies, and 10 quality studies that may have design limitations. There are 27 references that may not be useful as primary evidence. There is 1 reference that is a meta-analysis study. </p>
-<p>Although there are references that report on studies with design limitations, 11 well-designed or good-quality studies provide good evidence.</p></div>"/>
+<p>Of the 39 references cited in the <em>ACR Appropriateness Criteria&amp;reg; Imaging of Deep Inferior Epigastric Arteries for Surgical Planning (Breast Reconstruction Surgery)</em> document, 2 are categorized as therapeutic references, including 1 well-designed study. Additionally, 35 references are categorized as diagnostic references including 9 good-quality studies and 12 quality studies that may have design limitations. There are 14 references that may not be useful as primary evidence. There are 2 references that are meta-analysis studies. </p>
+<p>Although there are references that report on studies with design limitations, 10 well-designed or good-quality studies provide good evidence.</p></div>"/>
     </field>
   </section>
   <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
     <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate use of imaging procedures to diagnose and evaluate suspected thoracic aortic aneurysm</p></div>"/>
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The goal of preoperative imaging is to aid the surgical team in preoperative planning given the variability of the deep inferior epigastric artery (DIEA) perforator branches anatomy between patients, and even between the left and right hemiabdomen of the same patient. Improved clinical outcomes with preoperative imaging have been shown (predominantly with computed tomography angiography [CTA]) to include decreased length of surgery, decreased flap loss rate, decreased hernia rate, decreased intraoperative blood loss, shorter mean inpatient stay, reduced learning curve when compared with hand-held Doppler, and increased surgeon confidence. </li>
+    <li>Preoperative imaging planning that accurately maps the perforators and its branches leads to reduced operative time, reduced abdominal morbidity, and increased flap reliability. </li>
+    <li>Preoperative imaging with CTA demonstrates improved clinical outcomes including decreased length of surgery, decreased flap loss rate, decreased hernia rate, decreased intraoperative blood loss, shorter mean inpatient stay, reduced learning curve when compared with hand-held Doppler, and increased surgeon confidence. Additionally, meta-analyses of preoperative imaging in deep inferior epigastric perforator (DIEP) flaps demonstrate improved clinical outcomes with CTA over color Doppler ultrasound (US), including overall flap-related complications, donor-site morbidity, and decreased length of surgery. </li>
+    <li>The benefits of magnetic resonance angiography (MRA) are the lack of radiation exposure and iodinated contrast, which allows for multiple phases to be acquired and aids in optimal contrast timing. Although MRA has lower spatial resolution than CTA, MRA has higher contrast resolution, allowing the detection of submillimeter gadolinium-enhanced structures such as the DIEA perforators. </li>
+</ul>"/>
     </field>
     <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
-      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
-    <li>Limitations of computed tomography angiography (CTA) include streak artifact from implanted devices, variable quality of images through the aortic root and coronary vessels due to cardiac motion in non-gated studies, and the need for intravenous (IV) iodinated contrast. </li>
-    <li>One limitation to ultrasound (US) evaluation is decreased sensitivity for pathology in the aortic arch. An additional &quot;blind spot&quot; for US is the anterior aortic arch, which limits sonographic imaging due to the trachea and left main bronchus blocking sound waves between the esophagus and aorta. </li>
-</ul>
-<p><strong><span style=&quot;text-decoration: underline;&quot;>Relative Radiation Level Information</span></strong></p>
-<p>Potential adverse health effects associated with radiation exposure are an important factor to consider when selecting the appropriate imaging procedure. Because there is a wide range of radiation exposures associated with different diagnostic procedures, a relative radiation level (RRL) indication has been included for each imaging examination. The RRLs are based on effective dose, which is a radiation dose quantity that is used to estimate population total radiation risk associated with an imaging procedure. Patients in the pediatric age group are at inherently higher risk from exposure, both because of organ sensitivity and longer life expectancy (relevant to the long latency that appears to accompany radiation exposure). For these reasons, the RRL dose estimate ranges for pediatric examinations are lower as compared to those specified for adults. Additional information regarding radiation dose assessment for imaging examinations can be found in the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; Radiation Dose Assessment Introduction document (see the &quot;Availability of Companion Documents&quot; field).</p>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Relative Radiation Level Information</span></strong></p>
+<p>Potential adverse health effects associated with radiation exposure are an important factor to consider when selecting the appropriate imaging procedure. Because there is a wide range of radiation exposures associated with different diagnostic procedures, a relative radiation level (RRL) indication has been included for each imaging examination. The RRLs are based on effective dose, which is a radiation dose quantity that is used to estimate population total radiation risk associated with an imaging procedure. Patients in the pediatric age group are at inherently higher risk from exposure, both because of organ sensitivity and longer life expectancy (relevant to the long latency that appears to accompany radiation exposure). For these reasons, the RRL dose estimate ranges for pediatric examinations are lower as compared to those specified for adults. Additional information regarding radiation dose assessment for imaging examinations can be found in the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; Radiation Dose Assessment Introduction document (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
     </field>
   </section>
   <section secid="430" ordby="800" name="Contraindications">
     <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
-      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
-    <li>Imaging with transthoracic echocardiography (TTE) may be limited for obese or intubated patients and for those who present with physical limitations to ultrasonographic evaluation, such as chest wall alterations from recent surgery, pneumothorax, or emphysema. Likewise, esophageal varices are a relative contraindication for transesophageal echocardiography (TEE) due to bleeding risk. </li>
-    <li>Few contraindications exist for magnetic resonance angiography (MRA); however, there is increased risk of nephrogenic systemic fibrosis in patients with severely impaired renal function. Standard practice is to avoid the administration of gadolinium-based contrast in patients with glomerular filtration rate &amp;lt;30 mL/min/1.73 m<sup>2</sup>. </li>
-</ul>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Magnetic resonance imaging (MRI) contraindications include patient claustrophobia, implanted metallic devices, and renal impairment.</p></div>"/>
     </field>
   </section>
   <section secid="432" ordby="900" name="Qualifying Statements">
@@ -612,7 +577,7 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   </section>
   <section secid="434" ordby="1000" name="Implementation of the Guideline">
     <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
     </field>
   </section>
   <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
@@ -625,7 +590,7 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   </section>
   <section secid="442" ordby="1200" name="Identifying Information and Availability">
     <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
-      <fieldvalue value="<table><tr><td>Bennett SJ, Dill KE, Hanley M, Ahmed O, Desjardins B, Gage KL, Ginsburg M, Khoynezhad A, Olivia IB, Steigner ML, Strax R, Verma N, Rybicki FJ, Expert Panel on Vascular Imaging. ACR Appropriateness Criteria® suspected thoracic aortic aneurysm. Reston (VA): American College of Radiology (ACR); 2017. 8 p.  [50 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Olivia IB, Day K, Dill KE, Hanley M, Ahmed O, Bennett SJ, Desjardins B, Gage KL, Ginsburg M, Hamawy AH, Steigner ML, Strax R, Verma N, Rybicki FJ, Expert Panel on Vascular Imaging. ACR Appropriateness Criteria® imaging of deep inferior epigastric arteries for surgical planning (breast reconstruction surgery). Reston (VA): American College of Radiology (ACR); 2017. 8 p.  [39 references]</td></tr></table>"/>
     </field>
     <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
@@ -637,27 +602,28 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
       <fieldvalue value="American College of Radiology - Medical Specialty Society"/>
     </field>
     <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>The funding for the process is assumed entirely by the American College of Radiology (ACR). ACR staff support the expert panels through the conduct of literature searches, acquisition of scientific articles, drafting of evidence tables, dissemination of materials for the Delphi process, collation of results, conference calls, document processing, and general assistance to the panelists.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The funding for the process is assumed entirely by the American College of Radiology (ACR). ACR staff support the expert panels through the conduct of literature searches, acquisition of scientific articles, drafting of evidence tables, dissemination of materials for the Delphi process, collation of results, conference calls, document processing, and general assistance to the panelists. </p></div>"/>
     </field>
     <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>Committee on Appropriateness Criteria, Expert Panel on Vascular Imaging</p></div>"/>
     </field>
     <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Panel Members</em>: Shelby J. Bennett, MD (<em>Principal Author</em>); Karin E. Dill, MD (<em>Panel Chair</em>); Michael Hanley, MD (<em>Panel Vice-chair</em>); Osmanuddin Ahmed, MD; Benoit Desjardins, MD, PhD; Kenneth L. Gage, MD, PhD; Michael Ginsburg, MD; Ali Khoynezhad, MD, PhD; Isabel B. Oliva, MD; Michael L. Steigner, MD; Richard Strax, MD; Nupur Verma, MD; Frank J. Rybicki, MD, PhD (<em>Specialty Chair</em>)</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Panel Members</em>: Isabel B. Oliva, MD (<em>Principal Author</em>); Kevin Day, MD (<em>Research Author</em>); Karin E. Dill (<em>Panel Chair</em>), MD; Michael Hanley, MD (<em>Panel Vice-chair</em>); Osmanuddin Ahmed, MD; Shelby J. Bennett, MD; Benoit Desjardins, MD, PhD; Kenneth L. Gage, MD, PhD; Michael Ginsburg, MD; Adam H. Hamawy, MD; Michael L. Steigner, MD; Richard Strax, MD; Nupur Verma, MD; Frank J. Rybicki, MD, PhD (<em>Specialty Chair</em>)</p></div>"/>
     </field>
     <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Disclosing Potential Conflicts of Interest and Management of Conflicts of Interest</span></strong></p>
 <p>An important aspect of committee operations is the disclosure and management of potential conflicts of interest. In 2016, the American College of Radiology (ACR) began an organization-wide review of its conflict of interest (COI) policies. The current ACR COI policy is available on its <a href=&quot;https://www.acr.org/-/media/ACR/Files/Member-Resources/Volunteer/Conflict-of-Interest-Policy.pdf?la=en&quot; title=&quot;ACR Web site&quot;>Web site</a>. The Appropriateness Criteria (AC) program's COI process varies from the organization's current policy to accommodate the requirements for qualified provider-led entities as designated by the Centers for Medicare and Medicaid Services' Appropriate Use Criteria (AUC) program. </p>
 <p>When physicians become participants in the AC program, welcome letters are sent to inform them of their panel roles and responsibilities, including a link to complete the <a href=&quot;https://www.acr.org/-/media/ACR/Files/Appropriateness-Criteria/ACCOI-form.pdf?la=en&quot; title=&quot;ACR Web site&quot;>COI form</a>. The COI form requires disclosure of all potential conflicts of interest. ACR staff oversees the COI evaluation process, coordinating with review panels consisting of ACR staff and members, who determine when there is a conflict of interest and what action, if any, is appropriate. In addition to making the information publicly available, management may include exclusion from some topic processes, exclusion from a topic, or exclusion from the panel. </p>
 <p>Besides potential COI disclosure, AC staff begins every committee call with the conflict of interest disclosure statement listed below reminding members to update their COI forms. If any updates to their COI information have not been submitted, they are instructed not to participate in discussion where an undisclosed conflict may exist. </p>
-<p>Finally, all ACR AC are published as part of the Journal of the American College of Radiology (JACR) electronic supplement. Those who participated on the document and are listed as authors must complete the JACR process that includes completing the International Committee of Medical Journal Editors (ICMJE) COI form which is reviewed by the journal's staff/publisher. </p></div>"/>
+<p>Finally, all ACR AC are published as part of the Journal of the American College of Radiology (JACR) electronic supplement. Those who participated on the document and are listed as authors must complete the JACR process that includes completing the International Committee of Medical Journal Editors (ICMJE) COI form which is reviewed by the journal's staff/publisher. </p>
+<p>The authors have no conflicts of interest related to the material discussed in this article.</p></div>"/>
     </field>
     <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
 <p>This guideline meets NGC's 2013 (revised) inclusion criteria. </p></div>"/>
     </field>
     <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;https://acsearch.acr.org/docs/3102329/Narrative/&quot; title=&quot;American College of Radiology (ACR) Web site&quot;>American College of Radiology (ACR) Web site</a>.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;https://acsearch.acr.org/docs/3101591/Narrative/&quot; title=&quot;American College of Radiology (ACR) Web site&quot;>American College of Radiology (ACR) Web site</a>.</p></div>"/>
     </field>
     <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
@@ -670,8 +636,8 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     <li>ACR Appropriateness Criteria&amp;reg;. Radiation dose assessment introduction. Reston (VA): American College of Radiology; 2017. 4 p. Available from the <a href=&quot;https://www.acr.org/-/media/ACR/Files/Appropriateness-Criteria/RadiationDoseAssessmentIntro.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
     <li>ACR Appropriateness Criteria&amp;reg;. Manual on contrast media. Reston (VA): American College of Radiology; 2017. 125 p. Available from the <a href=&quot;https://www.acr.org/Clinical-Resources/Contrast-Manual&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
     <li>ACR Appropriateness Criteria&amp;reg;. Procedure information. Reston (VA): American College of Radiology; 2017 Mar. 4 p. Available from the <a href=&quot;https://www.acr.org/-/media/ACR/Files/Appropriateness-Criteria/ProcedureInfo.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
-    <li>ACR Appropriateness Criteria&amp;reg; suspected thoracic aortic aneurysm. Evidence table. Reston (VA): American College of Radiology; 2017. 19 p. Available from the <a href=&quot;https://acsearch.acr.org/docs/3102329/EvidenceTable/&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
-    <li>ACR Appropriateness Criteria&amp;reg; suspected thoracic aortic aneurysm. Literature search. Reston (VA): American College of Radiology; 2017. 2 p. Available from the <a href=&quot;https://acsearch.acr.org/docs/3102329/LitSearch/&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg; imaging of deep inferior epigastric arteries for surgical planning (breast reconstruction surgery). Evidence table. Reston (VA): American College of Radiology; 2017. 13 p. Available from the <a href=&quot;https://acsearch.acr.org/docs/3101591/EvidenceTable/&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg; imaging of deep inferior epigastric arteries for surgical planning (breast reconstruction surgery). Literature search. Reston (VA): American College of Radiology; 2017. 2 p. Available from the <a href=&quot;https://acsearch.acr.org/docs/3101591/LitSearch/&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
 </ul></div>"/>
     </field>
     <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
@@ -695,8 +661,8 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     </field>
   </section>
 </version><!--
-     FILE ARCHIVED ON 06:28:59 Jul 13, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 17:23:13 Jul 15, 2018.
+     FILE ARCHIVED ON 22:45:42 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:23:28 Jul 15, 2018.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -704,14 +670,14 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
 -->
 <!--
 playback timings (ms):
-  LoadShardBlock: 481.024 (3)
+  LoadShardBlock: 89.442 (3)
   esindex: 0.01
-  captures_list: 515.218
-  CDXLines.iter: 13.777 (3)
-  PetaboxLoader3.datanode: 52.212 (4)
-  exclusion.robots: 0.437
-  exclusion.robots.policy: 0.419
-  RedisCDXSource: 16.614
-  PetaboxLoader3.resolve: 416.101 (3)
-  load_resource: 22.586
+  captures_list: 110.163
+  CDXLines.iter: 15.677 (3)
+  PetaboxLoader3.datanode: 53.867 (4)
+  exclusion.robots: 0.416
+  exclusion.robots.policy: 0.397
+  RedisCDXSource: 0.941
+  PetaboxLoader3.resolve: 67.294
+  load_resource: 264.578
 -->

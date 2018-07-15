@@ -1,5 +1,5 @@
 <script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app42.us.archive.org';v.server_ms=428;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app57.us.archive.org';v.server_ms=336;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
 
 <script type="text/javascript">
 __wbhack.init('https://web.archive.org/web');
@@ -39,7 +39,7 @@ body {
                   <div id="wm-save-snapshot-success">success</div>
           <div id="wm-save-snapshot-fail">fail</div>
           <a href="#"
-             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11334?contentType=xml', '20180713021554')"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11331?contentType=xml', '20180713051817')"
              title="Share via My Web Archive"
              id="wm-save-snapshot-open"
           >
@@ -56,35 +56,35 @@ body {
 	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
       </div>
       <div id="wm-share" style="text-align:right;">
-	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713021554/https://www.guideline.gov/summaries/downloadcontent/ngc-11334?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
-	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713021554/https://www.guideline.gov/summaries/downloadcontent/ngc-11334?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713051817/https://www.guideline.gov/summaries/downloadcontent/ngc-11331?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713051817/https://www.guideline.gov/summaries/downloadcontent/ngc-11331?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
       </div>
     </div>
     <table class="c" style="">
       <tbody>
 	<tr>
 	  <td class="u" colspan="2">
-	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11334?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713021554" /><input type="submit" value="Go" /></form>
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11331?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713051817" /><input type="submit" value="Go" /></form>
 	  </td>
 	  <td class="n" rowspan="2" style="width:110px;">
 	    <table>
 	      <tbody>
 		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
 		<tr class="m">
-		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180611172228/https://www.guideline.gov/summaries/downloadcontent/ngc-11334?contentType=xml" title="11 Jun 2018"><strong>Jun</strong></a></td>
-		  <td class="c" id="displayMonthEl" title="You are here: 02:15:54 Jul 13, 2018">JUL</td>
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180611170025/https://www.guideline.gov/summaries/downloadcontent/ngc-11331?contentType=xml" title="11 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 05:18:17 Jul 13, 2018">JUL</td>
 		  <td class="f" nowrap="nowrap">Aug</td>
 		</tr>
 		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
 		<tr class="d">
-		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180611172228/https://www.guideline.gov/summaries/downloadcontent/ngc-11334?contentType=xml" title="17:22:28 Jun 11, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
-		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 02:15:54 Jul 13, 2018">13</td>
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180611170025/https://www.guideline.gov/summaries/downloadcontent/ngc-11331?contentType=xml" title="17:00:25 Jun 11, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 05:18:17 Jul 13, 2018">13</td>
 		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
 		</tr>
 		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
 		<tr class="y">
 		  <td class="b" nowrap="nowrap">2017</td>
-		  <td class="c" id="displayYearEl" title="You are here: 02:15:54 Jul 13, 2018">2018</td>
+		  <td class="c" id="displayYearEl" title="You are here: 05:18:17 Jul 13, 2018">2018</td>
 		  <td class="f" nowrap="nowrap">2019</td>
 		</tr>
 	      </tbody>
@@ -94,7 +94,7 @@ body {
 	<tr>
 	  <td class="s">
 	    	    <div id="wm-nav-captures">
-	      	      <a class="t" href="/web/20180713021554*/https://www.guideline.gov/summaries/downloadcontent/ngc-11334?contentType=xml" title="See a list of every capture for this URL">2 captures</a>
+	      	      <a class="t" href="/web/20180713051817*/https://www.guideline.gov/summaries/downloadcontent/ngc-11331?contentType=xml" title="See a list of every capture for this URL">2 captures</a>
 	      <div class="r" title="Timespan for captures of this URL">11 Jun 2018 - 13 Jul 2018</div>
 	      </div>
 	  </td>
@@ -155,20 +155,20 @@ ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam
       <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
     </div>
   </div></div></div></div><script type="text/javascript">
-__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11334?contentType=xml","2018-07-13",1996);
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11331?contentType=xml","2018-07-13",1996);
 </script>
 <!-- END WAYBACK TOOLBAR INSERT --><version>
   <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
   <section secid="390" ordby="100" name="General">
     <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
-      <fieldvalue value="<div class=&quot;content_title&quot;>ACR Appropriateness Criteria&amp;reg; imaging for transcatheter aortic valve replacement.</div>"/>
+      <fieldvalue value="<div class=&quot;content_title&quot;>ACR Appropriateness Criteria&amp;reg; breast cancer screening.</div>"/>
     </field>
     <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
-      <fieldvalue value="<table><tr><td>Leipsic JA, Blanke P, Hanley M, Batlle JC, Bolen MA, Brown RKJ, Desjardins B, Eberhardt RT, Gornik HL, Hurwitz LM, Maniar H, Patel HJ, Sheybani EF, Steigner ML, Verma N, Abbara S, Rybicki FJ, Kirsch J, Dill KE, Expert Panel on Cardiac Imaging and Vascular Imaging. ACR Appropriateness Criteria® imaging for transcatheter aortic valve replacement. Reston (VA): American College of Radiology (ACR); 2017. 8 p.  [48 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mainiero MB, Moy L, Baron P, Didwania AD, diFlorio-Alexander RM, Green ED, Heller SL, Holbrook AI, Lee SJ, Lewin AA, Lourenco AP, Nance KJ, Niell BL, Slanetz PJ, Stuckey AR, Vincoff NS, Weinstein SP, Yepes MM, Newell MS, Expert Panel on Breast Imaging. ACR Appropriateness Criteria® breast cancer screening. Reston (VA): American College of Radiology (ACR); 2017. 9 p.  [65 references]</td></tr></table>"/>
     </field>
     <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
-<p>This guideline updates a previous version: Dill KE, George E, Rybicki FJ, Abbara S, Cummings K, Francois CJ, Gerhard-Herman MD, Gornik HL, Hanley M, Kalva SP, Kirsch J, Kramer CM, Majdalany BS, Moriarty JM, Oliva IB, Schenker MP, Strax R, Expert Panel on Vascular Imaging and Cardiac Imaging. ACR Appropriateness Criteria&amp;reg; imaging for transcatheter aortic valve replacement. [online publication]. Reston (VA): American College of Radiology (ACR); 2013. 12 p. [76 references]</p>
+<p>This guideline updates a previous version: Mainiero MB, Bailey L, D'Orsi C, Green ED, Holbrook AI, Lee SJ, Lourenco AP, Moy L, Sepulveda KA, Slanetz PJ, Trikha S, Yepes MM, Newell MS, Expert Panel on Breast Imaging. ACR Appropriateness Criteria&amp;reg; breast cancer screening. Reston (VA): American College of Radiology (ACR); 2016. 7 p. [52 references]</p>
 <p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
     </field>
   </section>
@@ -222,9 +222,9 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   <section secid="420" ordby="300" name="Recommendations">
     <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>ACR Appropriateness Criteria&amp;reg;</span></strong></p>
-<p><strong>Imaging for Transcatheter Aortic Valve Replacement</strong></p>
-<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 1:</span> Preintervention planning for transcatheter aortic valve replacement at the aortic valve plane.</strong></p>
-<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 1: Preintervention planning for transcatheter aortic valve replacement at the aortic valve plane&quot;>
+<p><strong>Breast Cancer Screening</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 1</span>: Breast cancer screening. Average-risk women: women with &amp;lt;15% lifetime risk of breast cancer.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Breast cancer screening. Average-risk women: women with &amp;lt;15% lifetime risk of breast cancer.&quot;>
     <thead>
         <tr>
             <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Procedure</th>
@@ -234,50 +234,46 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     </thead>
     <tbody>
         <tr>
-            <td valign=&quot;top&quot;>CTA chest with IV contrast</td>
+            <td valign=&quot;top&quot;>Mammography screening</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>US echocardiography transesophageal</td>
+            <td valign=&quot;top&quot;>Digital breast tomosynthesis screening</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>US breast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;>O</td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>MRA chest without IV contrast</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>MRA chest without and with IV contrast</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>CT chest without IV contrast</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>CT chest with IV contrast</td>
+            <td valign=&quot;top&quot;>MRI breast without and with IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;>O</td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>Aortography thoracic</td>
+            <td valign=&quot;top&quot;>MRI breast without IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;>O</td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>CT chest without and with IV contrast</td>
+            <td valign=&quot;top&quot;>FDG-PEM</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Tc-99m sestamibi MBI</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
         </tr>
     </tbody>
 </table>
 <p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
-<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 2:</span> Preintervention planning for transcatheter aortic valve replacement in the supravalvular aorta and iliofemoral system.</strong></p>
-<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 2: Pre-intervention planning in the supravalvular aorta and iliofemoral system.&quot;>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 2</span>: Breast cancer screening. Intermediate-risk women: women with personal history of breast cancer, lobular neoplasia, atypical ductal hyperplasia, or 15% to 20% lifetime risk of breast cancer.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 2: Breast cancer screening. Intermediate-risk women: women with personal history of breast cancer, lobular neoplasia, atypical ductal hyperplasia, or 15% to 20% lifetime risk of breast
+    cancer.&quot;>
     <thead>
         <tr>
             <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Procedure</th>
@@ -287,92 +283,146 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     </thead>
     <tbody>
         <tr>
-            <td valign=&quot;top&quot;>CTA abdomen and pelvis with IV contrast</td>
+            <td valign=&quot;top&quot;>Mammography screening</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 5&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>MRA abdomen and pelvis without and with IV contrast</td>
+            <td valign=&quot;top&quot;>Digital breast tomosynthesis screening</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI breast without and with IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;>O</td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>MRA abdomen and pelvis without IV contrast</td>
+            <td valign=&quot;top&quot;>US breast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;>O</td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>CT abdomen and pelvis without IV contrast</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>Aortography abdomen and pelvis</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
-        </tr>
-        <tr>
-            <td valign=&quot;top&quot;>CT abdomen and pelvis without and with IV contrast</td>
+            <td valign=&quot;top&quot;>FDG-PEM</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>US intravascular aorta and iliofemoral system</td>
+            <td valign=&quot;top&quot;>Tc-99m sestamibi MBI</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
         </tr>
         <tr>
-            <td valign=&quot;top&quot;>CT abdomen and pelvis with IV contrast</td>
+            <td valign=&quot;top&quot;>MRI breast without IV contrast</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;>O</td>
         </tr>
     </tbody>
 </table>
 <p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
-<p><strong><span style=&quot;text-decoration: underline;&quot;>Summary of Literature Review</span></strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 3</span>: Breast cancer screening. High-risk women: women with a BRCA gene mutation and their untested first-degree relatives, women with a history of chest irradiation between 10 to 30 years of age, women with 20% or greater lifetime risk of breast cancer.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 3: Breast cancer screening. High-risk women: women with a BRCA gene mutation and their untested first-degree relatives, women with a history of chest irradiation between 10 to 30 years of age, women with 20% or greater lifetime risk of breast cancer.&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Procedure</th>
+            <th width=&quot;35%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Appropriateness Category</th>
+            <th width=&quot;35%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Relative Radiation Level</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Mammography screening</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Digital breast tomosynthesis screening</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI breast without and with IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Appropriate</td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>US breast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>May Be Appropriate</td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>FDG-PEM</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Tc-99m sestamibi MBI</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI breast without IV contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Usually Not Appropriate</td>
+            <td valign=&quot;top&quot; style=&quot;text-align: center;&quot;>O</td>
+        </tr>
+    </tbody>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Summary of Literature Review</strong></span></p>
 <p><strong>Introduction/Background</strong></p>
-<p>Aortic stenosis (AS) is the most frequent type of valvular heart disease in Europe and North America. It primarily presents as calcific AS in adults of advanced age (2%&amp;ndash;7% of the population &amp;gt;65 years of age). Although aortic valve replacement (AVR) is a definitive therapy for patients who meet the criteria for severe AS, 32% to 48% of those patients do not undergo conventional AVR due to their advanced age, comorbidities, or prohibitive surgical risk. </p>
-<p>Transcatheter aortic valve replacement (TAVR) has dramatically impacted the management of high surgical risk patients by enabling a less invasive approach using a transfemoral, transapical, or other vascular access route to position a prosthesis at the aortic annulus that displaces the native aortic valve leaflets toward the aortic wall. Procedure-related complications are linked to inaccurate estimates of annular geometry; unlike surgical AVR, the aortic annulus is not directly inspected by the proceduralist at the time of the procedure, and multiple parameters related to the annulus should be measured. As the annulus has a complex geometry, volumetric data (computed tomography [CT] in particular) have emerged with standardized reformatting along patient-specific anatomic planes for annular assessment and device sizing. </p>
-<p>TAVR planning at or near the aortic annulus is essential because accurate measurements guide optimal choices for device sizing and deployment, with a secondary reduction in TAVR&amp;ndash;related complications. Because the transfemoral approach is favored and most commonly used, and because the catheter-based system ranges in size between 14 Fr and 24 Fr, the entire aorta and branches to potential access points (e.g., the femoral arteries) must be evaluated for the presence, burden, and distribution of peripheral vascular atherosclerosis. </p>
-<p>This document has two limitations in scope. First, the panel did not consider the diagnosis of AS or the assessment of coronary artery disease. It is presumed that patients considered in this document are otherwise suitable candidates for TAVR. Second, the panel did not consider planning done at the time of intervention with either catheter angiography, echocardiography done at the time of catheterization, or a combination of both. </p>
-<p>Instead, for this document the panel only considered the two clinical tasks required for preprocedure screening: (Variant 1) annular sizing and root evaluation to see if a device is suitable for deployment for patients with no past history of aortic valve surgery or prior TAVR, and then to help guide the choice of the valve prosthesis, considering and minimizing potential complications via multiple measurements; and (Variant 2) imaging the remainder of the aorta and iliofemoral arteries to determine the feasibility of the preferred transfemoral approach, and when this route is high risk, to assess potential alternate access routes.</p>
+<p>Other than skin cancer, breast cancer is the most common cancer diagnosis and the second leading cause of cancer death in women. Since the advent of screening mammography in the United States, breast cancer mortality has decreased 36% between 1989 and 2012, after slowly increasing before that time. Long-term follow-up analysis of populations before and after the institution of screening mammography attributes the decrease in mortality to screening of the general population. In addition to mortality reduction, early detection allows for a wider range of less invasive treatment options. </p>
+<p>The sensitivity of mammography is dependent upon breast density, where sensitivity decreases with the increase of breast density. Breast density is reported on mammography as: A = &quot;almost entirely fatty,&quot; B = &quot;scattered areas of fibroglandular density,&quot; C = &quot;heterogeneously dense,&quot; or D = &quot;extremely dense,&quot; where &quot;heterogeneously dense&quot; and &quot;extremely dense&quot; (C and D categories) are considered dense. </p>
 <p><strong>Discussion of Procedures by Variant</strong></p>
-<p><em>Variant 1: Preintervention Planning for TAVR at the Aortic Valve Plane</em></p>
-<p><span style=&quot;text-decoration: underline;&quot;>CT and CTA</span></p>
-<p>Retrospectively electrocardiogram (ECG)-gated CT angiography (CTA) is the first-line modality for preprocedural annular sizing, as it enables direct planimetry and reference standard measurements for all required annular parameters for TAVR deployment. Multiple single- and multicenter trials have consistently shown that integration of CTA in preprocedural planning helps reduce the rate of significant paravalvular regurgitation and also allows for the discrimination of risk of annular rupture, coronary occlusion, and vascular injury. Guiding optimum fluoroscopic projections with co-planar angles of the aortic root facilitates appropriate valve deployment. In addition, CTA provides data regarding the distribution of valve calcification. Whereas vascular access is typically extracardiac (and evaluated in the second variant), when introduction of the TAVR system via the cardiac apex is being considered, CTA is essential for planning. </p>
-<p>Noncontrast CT can be used to evaluate valve calcification; however, the incremental role in procedural planning remains uncertain, its primary role is in assisting the diagnosis of AS and not for guiding TAVR. When iodinated contrast is absolutely contraindicated, an alternate method for TAVR planning is generally required. For the large majority of patients who undergo CT for TAVR planning, contrast is administered for first-pass CTA (CTA chest with intravenous [IV] contrast) so that the annular size and related measurements can be performed after image postprocessing. There is essentially no role for imaging the chest after the first pass of contrast or for performing this acquisition after a noncontrast study (CT chest without and with IV contrast). </p>
-<p>For the purposes of distinguishing between CT and CTA, the ACR Appropriateness Criteria topics use the definition in the <a href=&quot;https://www.acr.org/-/media/ACR/Files/Practice-Parameters/body-cta.pdf?la=en&quot; title=&quot;ACR Web site&quot;>Practice Parameter for the Performance and Interpretation of Body Computed Tomography Angiography (CTA)</a>: &quot;CTA uses a thin-section CT acquisition that is timed to coincide with peak arterial or venous enhancement. The resultant volumetric dataset is interpreted using primary transverse reconstructions as well as multiplanar reformations and 3-D renderings.&quot; </p>
-<p>All procedure elements are essential: (1) timing, (2) recons/reformats, and (3) 3-D renderings. Standard CTs with contrast also include timing issues and recons/reformats. Only in CTA, however, is 3-D rendering a <strong>required</strong> element. This corresponds to the definitions that CMS has applied to the Current Procedural Terminology (CPT) codes. </p>
-<p><span style=&quot;text-decoration: underline;&quot;>Echocardiography</span></p>
-<p>Although 2-D transesophageal echocardiography was the initial method of choice for annular sizing, this method has been replaced with 3-D acquisitions to help with annular sizing. Annular measurements are reproducible and correlate with reference standard CTA. Compared to CT, there is significantly less data for evaluating root features such as coronary ostial height and the presence or absence of sub-annular calcification. It is more commonly used at the time of the procedure, utilization that is not being assessed in this guideline, rather than for planning. In the setting of contraindications for CT such as anaphylaxis and severe renal dysfunction, 3-D transesophageal echocardiography is commonly used to assess annular geometry and size. Of note, when echocardiography is used for TAVR planning, transthoracic acquisition (though used in the diagnosis of AS) is not used and was not considered in ratings. </p>
-<p><span style=&quot;text-decoration: underline;&quot;>MRA</span></p>
-<p>Although magnetic resonance angiography (MRA) provides highly accurate, low variability annular measurements for patients undergoing surgical AVR, there is only modest clinical adoption, and there is a paucity of supporting data for TAVR planning compared to CTA. MRA-based measurements do correlate with CT; therefore, MRA could be an alternative to CTA when there is a severe iodine-based contraindication. MRA approaches are limited when there is high-susceptibility artifact, magnetic field-incompatible devices, claustrophobia, and severe arrhythmia. Finally, the MRA examination is substantially longer than the CT acquisition, which can be problematic for patients with a poor clinical condition. </p>
-<p><span style=&quot;text-decoration: underline;&quot;>Aortography</span></p>
-<p>Whereas catheterization images acquired at the time of the procedure are necessary and complementary to planning, increasing data questions the need to perform preprocedural catheterization, based on the fact that all necessary parameters can typically be extracted from the CT images. Specifically, the 2-D projections may not adequately reflect the complex geometry of the aortic annulus. Instead, catheterization images focus on the assessment of root geometry and coronary height. </p>
-<p><em>Variant 2: Preintervention Planning for TAVR in the Supravalvular Aorta and Iliofemoral System</em></p>
-<p><span style=&quot;text-decoration: underline;&quot;>CT and CTA</span></p>
-<p>CTA acquisition with isotropic voxels enables image postprocessing to accurately depict geometry, lumen size, and the presence of dissections, atherosclerotic disease, and subsequent stenosis from the entire arterial system between the supravalvular aorta and the femoral arteries, the preferred TAVR access point. CTA also best identifies concentric or horseshoe calcification that is a relative contraindication for TAVR, especially in those with borderline vessel diameter. CTA is also essential for atypical TAVR apparatus access points such as transaortic or transcaval approaches. </p>
-<p>Whereas CTA is preferred for patients with a strong contraindication to contrast injection, noncontrast imaging can be used to evaluate calcification within the aorta and including the iliofemoral arteries under evaluation for access. If a patient receives IV contrast, CTA images should be acquired, as opposed to later phase imaging (CT abdomen and pelvis with IV contrast). Moreover, there would be no role for performing this acquisition after a noncontrast study (CT abdomen and pelvis without and with IV contrast). </p>
-<p><span style=&quot;text-decoration: underline;&quot;>Aortography</span></p>
-<p>Though catheter angiography allows assessment of luminal size, it provides limited evaluation of the arterial wall for plaque burden and calcification. Standard catheter angiography is also limited in that it is typically planar and therefore is limited in its capacity to evaluate tortuosity and for the detection of eccentric stenosis. Angiography also plays a limited role in the evaluation of patients for whom alternate access is being considered. </p>
-<p><span style=&quot;text-decoration: underline;&quot;>IVUS</span></p>
-<p>Whereas ultrasound (US) is often used to facilitate arterial puncture, surface-based sonography is insufficient to comprehensively assess arterial size, calcification, and tortuosity of the iliofemoral system and the aorta. There is little or no data regarding the usefulness of intravascular US (IVUS) for TAVR planning. Studies in abdominal aortic aneurysm subjects suggest that IVUS provides reliable information of aortoiliofemoral anatomy, especially luminal dimension, presence of and morphology of atherosclerotic plaque, and calcification. </p>
-<p><span style=&quot;text-decoration: underline;&quot;>MRA</span></p>
-<p>MRA provides an alternative to CT for evaluation of the aorta and iliofemoral arteries. However, it is limited in the assessment of vascular calcification. </p>
+<p><em>Variant 1: Breast Cancer Screening. Average-risk Women: Women with &amp;lt;15% Lifetime Risk of Breast Cancer</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Mammography and DBT</span></p>
+<p>In follow-up of randomized controlled trials of screening mammography in women 40 to 74 years of age, there continues to be a highly significant decrease in mortality in those randomized to invitation to screening mammography. Because breast cancer incidence increases with age, more women among the younger age group (40-50) will need to be screened for each life saved than for women 50 years of age or older. However, because younger women have a longer life expectancy, life years gained for the women diagnosed with breast cancer by screening in their 40s is higher than in the 50- to 70-year-old population. The age at which various organizations recommend beginning screening mammography and the frequency at which mammography is recommended in different age groups varies based upon the weight given to the perceived risks (false-positive examinations and the possibility of over-diagnosis) and benefits of screening (mortality reduction and less invasive treatment options). Some groups recommend screening for all women starting at age 50, with screening recommended between 40 to 50 years of age dependent upon patient preference or risk. However, personalized screening in the 40 to 49 year age group would cause the majority of screen-detected cancers to be excluded from detection. Groups also vary on whether screening mammography is recommended as an annual or biennial examination. Based on a review of the randomized trials and subsequent meta-analyses, the ACR recommends annual screening beginning at 40 years of age. There is no upper age limit established for screening mammography, but as the benefits of screening mammography may take years to be fully realized, screening recommendations should take into account life expectancy and comorbid conditions, with screening mammography remaining appropriate when a woman's life expectancy exceeds 5 to 7 years.</p>
+<p>Digital breast tomosynthesis (DBT) can address some of the limitations encountered with standard mammographic views. In addition to planar images, DBT allows for creation and viewing of thin-section reconstructed images that may decrease the lesion-masking effect of overlapping normal tissue and reveal the true nature of potential false-positive findings without the need for recall. Several studies confirm that in a screening setting, the cancer detection rate is increased with use of DBT compared with 2-D mammography alone. Additionally, the rate of recall for benign findings (false-positives) can be decreased. Some authors found these advantages to be especially pronounced in women under age 50, in those with dense breasts, and with lesion types including spiculated masses and asymmetries. Interpretation time for DBT images is greater than for standard mammography. Additionally, dose is increased if standard 2-D images are obtained in addition to DBT images. However, synthesized reconstructed images (a virtual planar image created from the tomographic dataset) may replace the need for a 2-D correlative view; current data suggest that these synthetic images perform as well as standard full-field digital images. DBT is almost always performed as part of an examination that also includes digital mammography. The digital mammography part of the examination may be in the form of traditional projection mammography or synthesized image from the DBT data. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>US</span></p>
+<p>The presence of dense breast tissue lowers the sensitivity of mammography and increases breast cancer risk when compared with patients with fatty breasts. Adding hand-held or automated breast ultrasound (US) to mammography in women with dense breasts increases the cancer detection rate but also substantially increases the false-positive rate. In the initial clinical experience with screening breast US after a dense breast notification law was enacted on a state-wide level, the cancer detection rate increased but the number of short interval follow-up recommendations increased substantially and the positive predictive value of a biopsy recommendation was much lower. For women with dense breasts tissue but no additional risk factors, US may be useful as an adjunct to mammography for incremental cancer detection, but the balance between increased cancer detection and the increased risk of a false-positive examination should be considered in the decision. There are no data to support the use of US for average-risk women with nondense breasts. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>MBI and FDG-PEM</span></p>
+<p>Supplementing mammography with molecular breast imaging (MBI) in women with dense breasts increases the cancer detection rate. However, there have been no large population studies of MBI for screening, and the whole-body radiation dose with this technique is concerning. Positron emission mammography with fluorine-18-2-fluoro-2-deoxy-D-glucose (FDG-PEM) is similarly limited by radiation dose and lack of evidence in large screening populations. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>MRI</span></p>
+<p>There is insufficient evidence to support the use of magnetic resonance imaging (MRI) for screening women of average risk. </p>
+<p><em>Variant 2: Breast Cancer Screening. Intermediate-risk Women: Women with Personal History of Breast Cancer, Lobular Neoplasia, Atypical Ductal Hyperplasia, or 15% to 20% Lifetime Risk of Breast Cancer</em></p>
+<p>Some women with an intermediate risk of breast cancer may benefit by beginning screening mammography earlier than 40 years of age and may also benefit from supplemental screening. The recommendations for supplemental screening for women at intermediate risk of breast cancer, including those with a personal history of breast cancer, a history of lobular carcinoma in situ or ADH, those with an intermediate family history and a lifetime risk of 15% to 20%, or women with dense breasts continues to be an area of debate. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>Mammography and DBT</span></p>
+<p>Annual screening mammography is recommended for women with biopsy-proven lobular neoplasia or atypical ductal hyperplasia beginning at diagnosis, but not when &amp;lt;30 years of age. Women who have a prior history of breast cancer are recommended to have mammography every 12 months (and 6 to 12 months post-radiation if the breast is conserved). </p>
+<p>The sensitivity of mammography is dependent upon breast density, with sensitivity decreasing with increasing breast density. DBT can address some of the limitations encountered with standard mammographic views. In addition to planar images, DBT allows for creation and viewing of thin-section reconstructed images that can decrease the lesion-masking effect of overlapping normal tissue and reveal the true nature of potential false-positive findings without the need for recall. Several studies confirm that in a screening setting, cancer detection rate is increased with the use of DBT compared to 2-D mammography alone. Additionally, the rate of recall for benign findings (false-positives) can be decreased. Some authors found these advantages to be especially pronounced in women under age 50, in those with dense breasts, and with lesion types including spiculated masses and asymmetries. Interpretation time for DBT images is greater than for standard mammography. Additionally, dose is increased if standard 2-D images are obtained in addition to DBT images. However, synthesized reconstructed images (a virtual planar image created from the tomographic dataset) may replace the need for a 2-D correlative view; current data suggest that these synthetic images perform as well as standard full-field digital images. DBT is almost always performed as part of an examination that also includes digital mammography. The digital mammography part of the examination may be in the form of traditional projection mammography or synthesized from the DBT data. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>US</span></p>
+<p>In women with dense breasts and increased risk of breast cancer, mammography sensitivity can be as low as 50%; supplementing mammography screening with US will significantly increase cancer detection, although false-positive rates are also substantially increased. In intermediate-risk women with dense breasts, supplemental US screening is an option. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>MRI</span></p>
+<p>The American Cancer Society considers there to be insufficient evidence for or against MRI as an adjunct to mammography in women at intermediate risk of breast cancer. However, recent studies support the use of screening MRI in certain subsets of this population, including women with a history of lobular carcinoma in situ or a personal history of breast cancer. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>MBI and FDG-PEM</span></p>
+<p>Supplementing mammography with MBI in women with dense breasts increases the cancer detection rate. However, there have been no large population studies of MBI for screening and whole body radiation dose with this technique is concerning. FDG-PEM is similarly limited by radiation dose and lack of evidence in large screening populations. </p>
+<p><em>Variant 3: Breast Cancer Screening. High-risk Women: Women with a BRCA Gene Mutation and Their Untested First-degree Relatives, Women with a History of Chest Irradiation Between 10 to 30 Years of Age, Women with 20% or Greater Lifetime Risk of Breast Cancer</em></p>
+<p>Women at high risk for breast cancer include those with BRCA or other known genetic predispositions, women with a very strong family history placing them at more than a 20% lifetime risk of breast cancer, and those with prior mantle radiation therapy between 10 to 30 years of age. In addition to beginning screening mammography earlier than the general population, women in this high-risk group benefit from supplemental screening. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>Mammography and DBT</span> </p>
+<p>Annual mammography is recommended starting 8 years after radiation therapy but not before age 25 for women who received mantle radiation between 10 to 30 years of age. As there is some concern about young women with an inherited cancer predisposition having increased sensitivity to radiation, women with a genetic predisposition are recommended for annual screening beginning 10 years earlier than the affected relative at the time of diagnosis but not before age 30. </p>
+<p>The sensitivity of mammography is dependent upon breast density, with sensitivity decreasing with increasing breast density. DBT can address some of the limitations encountered with standard mammographic views. In addition to planar images, DBT allows for creation and viewing of thin-section reconstructed images that may decrease the lesion-masking effect of overlapping normal tissue and reveal the true nature of potential false-positive findings without the need for recall. Several studies confirm that in a screening setting, the cancer detection rate is increased with use of DBT compared to 2-D mammography alone. Additionally, the rate of recall for benign findings (false-positives) can be decreased. Some authors found these advantages to be especially pronounced in women under age 50, in those with dense breasts, and those with lesion types including spiculated masses and asymmetries. Interpretation time for DBT images is greater than for standard mammography. Additionally, dose is increased if standard 2-D images are obtained in addition to DBT images. However, synthesized reconstructed images (a virtual planar image created from the tomographic dataset) may replace the need for a 2-D correlative view; and current data suggest that these synthetic images perform as well as standard full-field digital images. DBT is almost always performed as part of an examination that also includes digital mammography. The digital mammography part of the examination may be in the form of traditional projection mammography or synthesized image from the DBT data. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>MRI</span> </p>
+<p>Breast MRI in high-risk women has a higher sensitivity than mammography, and the combination of mammography and MRI in this population has the highest sensitivity. In a high-risk population, MRI and mammography combined have a higher sensitivity (92.7%) than US and mammography combined (52%). Therefore, in high-risk women for whom supplemental screening is indicated, MRI is recommended when possible. Screening MRI is recommended in women with BRCA gene mutations and their untested first-degree relatives as well as women with a lifetime risk of breast cancer of ~20% or greater. Also included in this high-risk group are women who have received radiation therapy to the chest between 10 to 30 years of age as well as women with other genetic syndromes that increase the risk of breast cancer. </p>
+<p>Screening high-risk women with breast MRI is cost-effective, and the cost-effectiveness of screening MRI increases with increasing breast cancer risk. The American Cancer Society recommends breast-screening MRI in high-risk women, and the ACR and the Society of Breast Imaging endorse those recommendations.</p>
+<p><span style=&quot;text-decoration: underline;&quot;>US</span> </p>
+<p>Screening US is indicated in high-risk patients who cannot tolerate MRI. Mammography alone does not perform as well as mammography plus supplemental screening in high-risk women, especially those with a genetic predisposition, and supplemental screening US is indicated in high-risk patients who cannot tolerate MRI. </p>
+<p><span style=&quot;text-decoration: underline;&quot;>MBI and FDG-PEM</span> </p>
+<p>Supplementing mammography with MBI in women with dense breasts increases the cancer detection rate. However, there have been no large population studies of MBI for screening and the whole-body radiation dose with this technique is concerning. FDG-PEM is similarly limited by radiation dose and lack of evidence in large screening populations. </p>
 <p><strong>Summary of Recommendations</strong></p>
 <ul style=&quot;list-style-type: disc;&quot;>
-    <li>Preintervention planning for TAVR at the aortic valve plane: 3-D cross sectional imaging of the aortic annular plane is essential with CTA of the chest with IV contrast being the first-line modality. </li>
-    <li>Preintervention planning for TAVR in the supravalvular aorta and iliofemoral system: CTA abdomen and pelvis with IV contrast is the preferred and first-line modality for vascular access assessment to identify those patients with potential risk for compromised intra-procedural vascular access. </li>
+    <li>For average-risk women, annual screening mammography or DBT (with accompanying planar or synthesized 2-D images) is recommended beginning at age 40. For women with dense breasts, US may also be considered, but the balance between increased cancer detection and the increased risk of a false-positive examination should be considered in the decision. </li>
+    <li>For intermediate-risk women, breast mammography or DBT (with accompanying planar or synthesized 2-D images) is recommended. MRI may be considered as an adjunct to mammography or DBT (with accompanying planar or synthesized 2-D images) depending upon risk factors. For women with dense breasts, US may be an option, but the balance between increased cancer detection and the increased risk of a false-positive examination should be considered in the decision. </li>
+    <li>For high-risk women, mammography or DBT (with accompanying planar or synthesized 2-D images) is recommended. MRI is recommended as an adjunct to screening mammography or DBT (with accompanying planar or synthesized 2-D images). US is recommended when the patient cannot tolerate MRI. </li>
 </ul>
 <p><strong>Abbreviations</strong></p>
 <ul style=&quot;list-style-type: disc;&quot;>
-    <li>CTA, computed tomography angiography </li>
+    <li>BRCA, BReast CAncer 1 gene </li>
+    <li>FDG-PEM, fluorine-18-2-fluoro-2-deoxy-D-glucose positron-emission mammography </li>
     <li>IV, intravenous </li>
-    <li>MRA, magnetic resonance angiography </li>
+    <li>MRI, magnetic resonance imaging </li>
+    <li>Tc-99m, technetium-99 metastable </li>
     <li>US, ultrasound </li>
 </ul>
 <p><strong>Relative Radiation Level Designations</strong></p>
-<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Relative Radiation Level Definitions&quot;>
+<table border=&quot;1&quot; cellspacing=&quot;3&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Relative Radiation Level Designations&quot;>
     <thead>
         <tr>
             <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Relative Radiation Level*</th>
@@ -387,27 +437,27 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
             <td class=&quot;Center&quot; valign=&quot;top&quot;>0 mSv</td>
         </tr>
         <tr>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>&amp;lt;0.1 mSv</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>&amp;lt;0.03 mSv</td>
         </tr>
         <tr>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>0.1-1 mSv</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>0.03-0.3 mSv</td>
         </tr>
         <tr>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>1-10 mSv</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>0.3-3 mSv</td>
         </tr>
         <tr>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>10-30 mSv</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>3-10 mSv</td>
         </tr>
         <tr>
-            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive symbol 5&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive symbol 1&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive symbol 2&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive symbol 3&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive symbol 4&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive symbol 5&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>30-100 mSv</td>
             <td class=&quot;Center&quot; valign=&quot;top&quot;>10-30 mSv</td>
         </tr>
@@ -423,18 +473,20 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   </section>
   <section secid="396" ordby="400" name="Scope">
     <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Aortic stenosis requiring transcatheter aortic valve replacement</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Breast cancer</p></div>"/>
     </field>
     <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
-      <fieldvalue value="Evaluation"/>
-      <fieldvalue value="Treatment"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Screening"/>
     </field>
     <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
-      <fieldvalue value="Cardiology"/>
       <fieldvalue value="Family Practice"/>
       <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Nuclear Medicine"/>
+      <fieldvalue value="Obstetrics and Gynecology"/>
+      <fieldvalue value="Oncology"/>
+      <fieldvalue value="Preventive Medicine"/>
       <fieldvalue value="Radiology"/>
-      <fieldvalue value="Thoracic Surgery"/>
     </field>
     <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
       <fieldvalue value="Advanced Practice Nurses"/>
@@ -447,57 +499,34 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
       <fieldvalue value="Utilization Management"/>
     </field>
     <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>To evaluate the appropriateness of preintervention imaging procedures for transcatheter aortic valve replacement</p>
-<p class=&quot;Note&quot;><strong>Note</strong>: The panel did not consider planning done at the time of intervention with either catheter angiography, echocardiography done at the time of catheterization, or a combination of both.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To evaluate the appropriateness of imaging procedures for breast cancer screening</p></div>"/>
     </field>
     <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients with aortic stenosis (AS) requiring transcatheter aortic valve replacement (TAVR)</p>
-<p class=&quot;Note&quot;><strong>Note</strong>: The panel did not consider the diagnosis of AS or the assessment of coronary artery disease. It is presumed that patients considered in the Appropriateness Criteria document are otherwise suitable candidates for TAVR.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Women at high, intermediate, and average risk of breast cancer </p></div>"/>
     </field>
     <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
       <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
-    <li>Computed tomography angiography (CTA)
+    <li>Mammography screening </li>
+    <li>Digital breast tomosynthesis screening </li>
+    <li>Magnetic resonance imaging (MRI), breast
     <ul style=&quot;list-style-type: disc;&quot;>
-        <li>Chest with intravenous (IV) contrast </li>
-        <li>Abdomen and pelvis with IV contrast </li>
+        <li>Without and with intravenous (IV) contrast </li>
+        <li>Without IV contrast </li>
     </ul>
     </li>
-    <li>Ultrasound (US)
-    <ul style=&quot;list-style-type: disc;&quot;>
-        <li>Echocardiography transesophageal </li>
-        <li>Intravascular aorta and iliofemoral system </li>
-    </ul>
-    </li>
-    <li>Magnetic resonance angiography (MRA)
-    <ul style=&quot;list-style-type: disc;&quot;>
-        <li>Chest without and with IV contrast </li>
-        <li>Chest without IV contrast </li>
-        <li>Abdomen and pelvis without and with IV contrast </li>
-        <li>Abdomen and pelvis without IV contrast </li>
-    </ul>
-    </li>
-    <li>Computed tomography (CT)
-    <ul style=&quot;list-style-type: disc;&quot;>
-        <li>Chest without IV contrast </li>
-        <li>Chest with IV contrast </li>
-        <li>Chest without and with IV contrast </li>
-        <li>Abdomen and pelvis without IV contrast </li>
-        <li>Abdomen and pelvis with IV contrast </li>
-        <li>Abdomen and pelvis without and with IV contrast </li>
-    </ul>
-    </li>
-    <li>Aortography
-    <ul style=&quot;list-style-type: disc;&quot;>
-        <li>Thoracic </li>
-        <li>Abdomen and pelvis </li>
-    </ul>
-    </li>
+    <li>Ultrasound (US), breast </li>
+    <li>Fluorine-18-2-fluoro-2-deoxy-D-glucose positron-emission mammography (FDG-PEM) </li>
+    <li>Technetium-99 metastable (Tc-99m) sestamibi breast-specific gamma imaging (BSGI) </li>
 </ol>"/>
     </field>
     <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
       <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
-    <li>Utility of imaging procedures for preintervention planning for transcatheter aortic valve replacement </li>
-    <li>Accuracy of imaging procedures for preintervention planning for transcatheter aortic valve replacement </li>
+    <li>Breast cancer mortality </li>
+    <li>Breast cancer detection rate </li>
+    <li>False-positive rates</li>
+    <li>Diagnostic accuracy, sensitivity, and specificity of imaging procedures for breast cancer diagnosis </li>
+    <li>Recall rates</li>
+    <li>Radiation dose</li>
 </ul>"/>
     </field>
   </section>
@@ -509,14 +538,13 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     </field>
     <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Literature Search Summary</span></strong></p>
-<p>Of the 75 citations in the original bibliography, 26 were retained in the final document. </p>
-<p>A literature search was conducted in March 2015 and June 2017 to identify additional evidence published since the <em>ACR Appropriateness Criteria&amp;reg; Imaging for Transcatheter Aortic Valve Replacement</em> topic was finalized. Using the search strategies described in the literature search companion (see the &quot;Availability of Companion Documents&quot; field), 578 articles were found. Four articles were added to the bibliography. The remaining articles were not used due to either poor study design, the articles were not relevant or generalizable to the topic, or the results were unclear or biased. </p>
-<p>The author added 16 citations from bibliographies, Web sites, or books that were not found in the literature searches. </p>
-<p>Two citations are supporting documents that were added by staff.</p>
+<p>Of the 65 citations in the original bibliography, 14 were retained in the final document. </p>
+<p>A new literature search was conducted in December 2015 and updated on March 2016 to identify additional evidence published since the <em>ACR Appropriateness Criteria&amp;reg; Breast Cancer Screening</em> topic was finalized. Using the search strategy described in the literature search companion (see the &quot;Availability of Companion Documents&quot; field), 379 articles were found. Twenty-four articles were added to the bibliography. The remaining articles were not used due to either poor study design, the articles were not relevant or generalizable to the topic, the results were unclear, misinterpreted, or biased, or the articles were already cited in the original bibliography. </p>
+<p>The author added 27 citations from bibliographies, Web sites, or books that were not found in the new literature search.</p>
 <p>See also the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; literature search process document (see the &quot;Availability of Companion Documents&quot; field) for further information.</p></div>"/>
     </field>
     <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Of the 75 citations in the original bibliography, 26 were retained in the final document. The literature search conducted in March 2015 and June 2017 found 4 articles that were added to the bibliography. The author added 16 citations from bibliographies, Web sites, or books that were not found in the literature searches. Two citations are supporting documents that were added by staff.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Of the 65 citations in the original bibliography, 14 were retained in the final document. The new literature search conducted in December 2015 and updated on March 2016 found 24 articles that were added to the bibliography. The author added 27 citations from bibliographies, Web sites, or books that were not found in the new literature search.</p></div>"/>
     </field>
     <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
       <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
@@ -535,6 +563,7 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
 <p>Category M - Meta-analysis studies are not rated for study quality using the study element method because the method is designed to evaluate individual studies only. An &quot;M&quot; for the study quality will indicate that the study quality has not been evaluated for the meta-analysis study.</p></div>"/>
     </field>
     <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
       <fieldvalue value="Systematic Review with Evidence Tables"/>
     </field>
     <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
@@ -595,7 +624,7 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
 </table></div>"/>
     </field>
     <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Screening high-risk women with breast magnetic resonance imaging (MRI) is cost effective and the cost-effectiveness of screening MRI increases with increasing breast cancer risk. </p></div>"/>
     </field>
     <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
       <fieldvalue value="Internal Peer Review"/>
@@ -607,29 +636,26 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
     <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>The recommendations are based on analysis of the current medical evidence literature and the application of the RAND/UCLA appropriateness method and expert panel consensus.</p>
-<p><strong><span style=&quot;text-decoration: underline;&quot;>Summary of Evidence</span></strong> </p>
-<p>Of the 48 references cited in the <em>ACR Appropriateness Criteria&amp;reg; Imaging for Transcatheter Aortic Valve Replacement</em> document, 15 are categorized as therapeutic references including 4 well-designed studies, and 6 good-quality studies. Additionally, 33 references are categorized as diagnostic references including 2 well-designed studies, 11 good-quality studies, and 7 quality studies that may have design limitations. There are 18 references that may not be useful as primary evidence. </p>
-<p>Although there are references that report on studies with design limitations, 23 well-designed or good-quality studies provide good evidence.</p></div>"/>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Summary of Evidence</span></strong></p>
+<p>Of the 65 references cited in the <em>ACR Appropriateness Criteria&amp;reg; Breast Cancer Screening</em> document, all of them are categorized as diagnostic references including 12 well-designed studies, 12 good-quality studies, and 22 quality studies that may have design limitations. There are 18 references that may not be useful as primary evidence. There is one reference that is a meta-analysis study.</p>
+<p>While there are references that report on studies with design limitations, 24 well-designed or good-quality studies provide good evidence.</p></div>"/>
     </field>
   </section>
   <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
     <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
       <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
-    <li>Reduced rate of procedural complications </li>
-    <li>Multiple single- and multicenter trials have consistently shown that integration of computed tomography angiography (CTA) in preprocedural planning helps reduce the rate of significant paravalvular regurgitation and also allows for the discrimination of risk of annular rupture, coronary occlusion, and vascular injury. </li>
+    <li>The age at which various organizations recommend beginning screening mammography and the frequency at which mammography is recommended in different age groups varies based upon the weight given to the perceived risks (false-positive examinations and the possibility of over-diagnosis) and benefits of screening (mortality reduction and less invasive treatment options). </li>
+    <li>Digital breast tomosynthesis (DBT) can address some of the limitations encountered with standard mammographic views. In addition to planar images, DBT allows for creation and viewing of thin-section reconstructed images that may decrease the lesion-masking effect of overlapping normal tissue and reveal the true nature of potential false-positive findings without the need for recall. Several studies confirm that in a screening setting, cancer detection rate is increased with use of digital breast tomosynthesis (DBT) compared to two-dimensional (2-D) mammography alone. Additionally, the rate of recall for benign findings (false positives) can be decreased. Some authors found these advantages to be especially pronounced in women under age 50, in those with dense breasts, and with lesion types including spiculated masses and asymmetries. </li>
+    <li>Breast magnetic resonance imaging (MRI) in high-risk women has a higher sensitivity than mammography, and the combination of mammography and MRI in this population has the highest sensitivity. In a high-risk population, MRI and mammography combined have a higher sensitivity (92.7%) than ultrasound (US) and mammography combined (52%). Screening high-risk women with breast MRI is cost-effective and the cost-effectiveness of screening MRI increases with increasing breast cancer risk. </li>
 </ul>"/>
     </field>
     <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Relative Radiation Level Information</span></strong></p>
-<p>Potential adverse health effects associated with radiation exposure are an important factor to consider when selecting the appropriate imaging procedure. Because there is a wide range of radiation exposures associated with different diagnostic procedures, a relative radiation level (RRL) indication has been included for each imaging examination. The RRLs are based on effective dose, which is a radiation dose quantity that is used to estimate population total radiation risk associated with an imaging procedure. Patients in the pediatric age group are at inherently higher risk from exposure, both because of organ sensitivity and longer life expectancy (relevant to the long latency that appears to accompany radiation exposure). For these reasons, the RRL dose estimate ranges for pediatric examinations are lower as compared to those specified for adults. Additional information regarding radiation dose assessment for imaging examinations can be found in the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; Radiation Dose Assessment Introduction document (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
-    </field>
-  </section>
-  <section secid="430" ordby="800" name="Contraindications">
-    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
       <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
-    <li>Anaphylaxis and severe renal dysfunction are contraindications to computed tomography (CT). </li>
-    <li>Concentric or horseshoe calcification is a relative contraindication for transcatheter aortic valve replacement (TAVR), especially in those with borderline vessel diameter. </li>
-</ul>"/>
+    <li>The age at which various organizations recommend beginning screening mammography and the frequency at which mammography is recommended in different age groups varies based upon the weight given to the perceived risks (false-positive examinations and the possibility of over-diagnosis) and benefits of screening (mortality reduction and less invasive treatment options). </li>
+    <li>The presence of dense breast tissue lowers the sensitivity of mammography and increases breast cancer risk when compared with patients with fatty breasts. Adding hand-held or automated breast ultrasound (US) to mammography in women with dense breasts increases the cancer detection rate but also substantially increases the false-positive rate. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Relative Radiation Level Information</span></strong></p>
+<p>Potential adverse health effects associated with radiation exposure are an important factor to consider when selecting the appropriate imaging procedure. Because there is a wide range of radiation exposures associated with different diagnostic procedures, a relative radiation level (RRL) indication has been included for each imaging examination. The RRLs are based on effective dose, which is a radiation dose quantity that is used to estimate population total radiation risk associated with an imaging procedure. Patients in the pediatric age group are at inherently higher risk from exposure, both because of organ sensitivity and longer life expectancy (relevant to the long latency that appears to accompany radiation exposure). For these reasons, the RRL dose estimate ranges for pediatric examinations are lower as compared to those specified for adults. Additional information regarding radiation dose assessment for imaging examinations can be found in the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; Radiation Dose Assessment Introduction document (see the &quot;Availability of Companion Documents&quot; field).</p>"/>
     </field>
   </section>
   <section secid="432" ordby="900" name="Qualifying Statements">
@@ -647,8 +673,7 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   </section>
   <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
     <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
-      <fieldvalue value="Getting Better"/>
-      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
     </field>
     <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
       <fieldvalue value="Effectiveness"/>
@@ -656,7 +681,7 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   </section>
   <section secid="442" ordby="1200" name="Identifying Information and Availability">
     <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
-      <fieldvalue value="<table><tr><td>Leipsic JA, Blanke P, Hanley M, Batlle JC, Bolen MA, Brown RKJ, Desjardins B, Eberhardt RT, Gornik HL, Hurwitz LM, Maniar H, Patel HJ, Sheybani EF, Steigner ML, Verma N, Abbara S, Rybicki FJ, Kirsch J, Dill KE, Expert Panel on Cardiac Imaging and Vascular Imaging. ACR Appropriateness Criteria® imaging for transcatheter aortic valve replacement. Reston (VA): American College of Radiology (ACR); 2017. 8 p.  [48 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mainiero MB, Moy L, Baron P, Didwania AD, diFlorio-Alexander RM, Green ED, Heller SL, Holbrook AI, Lee SJ, Lewin AA, Lourenco AP, Nance KJ, Niell BL, Slanetz PJ, Stuckey AR, Vincoff NS, Weinstein SP, Yepes MM, Newell MS, Expert Panel on Breast Imaging. ACR Appropriateness Criteria® breast cancer screening. Reston (VA): American College of Radiology (ACR); 2017. 9 p.  [65 references]</td></tr></table>"/>
     </field>
     <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
@@ -671,26 +696,26 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
       <fieldvalue value="<div class=&quot;content_para&quot;><p>The funding for the process is assumed entirely by the American College of Radiology (ACR). ACR staff support the expert panels through the conduct of literature searches, acquisition of scientific articles, drafting of evidence tables, dissemination of materials for the Delphi process, collation of results, conference calls, document processing, and general assistance to the panelists.</p></div>"/>
     </field>
     <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Committee on Appropriateness Criteria, Expert Panels on Cardiac Imaging and Vascular Imaging</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Committee on Appropriateness Criteria, Expert Panel on Breast Imaging</p></div>"/>
     </field>
     <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Panel Members</em>: Jonathon A. Leipsic, MD (<em>Principal Author</em>); Philipp Blanke, MD (<em>Research Author</em>); Michael Hanley, MD (<em>Panel Vice-chair [Vascular]</em>); Juan C. Batlle, MD; Michael A. Bolen, MD; Richard K. J. Brown, MD; Benoit Desjardins, MD, PhD; Robert T. Eberhardt, MD; Heather L. Gornik, MD; Lynne M. Hurwitz, MD; Hersh Maniar, MD; Himanshu J. Patel, MD; Elizabeth F. Sheybani, MD; Michael L. Steigner, MD; Nupur Verma, MD; Suhny Abbara, MD (<em>Specialty Chair [Cardiac]</em>); Frank J. Rybicki, MD, PhD (<em>Specialty Chair [Vascular]</em>); Jacobo Kirsch, MD (<em>Panel Chair [Cardiac]</em>); Karin E. Dill, MD (Panel <em>Chair [Vascular]</em>)</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Panel Members</em>: Martha B. Mainiero, MD (<em>Principal Author</em>); Linda Moy, MD (<em>Panel Vice-chair</em>); Paul Baron, MD; Lisa Bailey, MD; Aarati D. Didwania, MD; Roberta M. diFlorio-Alexander, MD; Edward D. Green, MD; Samantha L. Heller, MD; Anna I. Holbrook, MD; Su-Ju Lee, MD; Alana A. Lewin, MD; Ana P. Lourenco, MD; Kara J. Nance, MD; Bethany L. Niell, MD; Priscilla J. Slanetz, MD, MPH; Ashley R. Stuckey, MD; Nina S. Vincoff, MD; Susan P. Weinstein, MD; Monica M. Yepes, MD; Mary S. Newell, MD (<em>Panel Chair</em>)</p></div>"/>
     </field>
     <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Disclosing Potential Conflicts of Interest and Management of Conflicts of Interest</span></strong></p>
 <p>An important aspect of committee operations is the disclosure and management of potential conflicts of interest. In 2016, the American College of Radiology (ACR) began an organization-wide review of its conflict of interest (COI) policies. The current ACR COI policy is available on its <a href=&quot;https://www.acr.org/-/media/ACR/Files/Member-Resources/Volunteer/Conflict-of-Interest-Policy.pdf/la/en&quot; title=&quot;ACR Web site&quot;>Web site</a>. The Appropriateness Criteria (AC) program's COI process varies from the organization's current policy to accommodate the requirements for qualified provider-led entities as designated by the Centers for Medicare and Medicaid Services' Appropriate Use Criteria (AUC) program. </p>
 <p>When physicians become participants in the AC program, welcome letters are sent to inform them of their panel roles and responsibilities, including a link to complete the <a href=&quot;https://www.acr.org/-/media/ACR/Files/Appropriateness-Criteria/ACCOI-form.pdf/la/en&quot; title=&quot;ACR Web site&quot;>COI form</a>. The COI form requires disclosure of all potential conflicts of interest. ACR staff oversees the COI evaluation process, coordinating with review panels consisting of ACR staff and members, who determine when there is a conflict of interest and what action, if any, is appropriate. In addition to making the information publicly available, management may include exclusion from some topic processes, exclusion from a topic, or exclusion from the panel. </p>
 <p>Besides potential COI disclosure, AC staff begins every committee call with the conflict of interest disclosure statement listed below reminding members to update their COI forms. If any updates to their COI information have not been submitted, they are instructed not to participate in discussion where an undisclosed conflict may exist. </p>
-<p>Finally, all ACR AC are published as part of the Journal of the American College of Radiology (JACR) electronic supplement. Those who participated on the document and are listed as authors must complete the JACR process that includes completing the International Committee of Medical Journal Editors (ICMJE) COI form which is reviewed by the journal's staff/publisher.</p>
-<p>Dr. Blanke reports personal fees from Edwards Lifesciences, personal fees from Tendyne, personal fees from Circle Cardiovascular Imaging, and personal fees from Neovasc, outside the submitted work. Dr. Gornik reports that she has a patent non invasive diagnostics/ABI measurement pending, is a Member of the Board of Directors of Intersocietal Accreditation Commission&amp;ndash;Vascular Testing Division, and has received research funding for site research from Astra Zeneca. The other authors have no conflicts of interest related to the material discussed in this article.</p></div>"/>
+<p>Finally, all ACR AC are published as part of the Journal of the American College of Radiology (JACR) electronic supplement. Those who participated on the document and are listed as authors must complete the JACR process that includes completing the International Committee of Medical Journal Editors (ICMJE) COI form which is reviewed by the journal's staff/publisher. </p>
+<p>Dr. Slanetz reports author or co-author on three active topics (breast MRI and emerging technologies; breast cancer screening; and imaging of dense breasts. Royalties based on usage by membership, approximately $1500 per year. The other authors have no conflicts of interest related to the material discussed in this article.</p></div>"/>
     </field>
     <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
-<p>This guideline updates a previous version: Dill KE, George E, Rybicki FJ, Abbara S, Cummings K, Francois CJ, Gerhard-Herman MD, Gornik HL, Hanley M, Kalva SP, Kirsch J, Kramer CM, Majdalany BS, Moriarty JM, Oliva IB, Schenker MP, Strax R, Expert Panel on Vascular Imaging and Cardiac Imaging. ACR Appropriateness Criteria&amp;reg; imaging for transcatheter aortic valve replacement. [online publication]. Reston (VA): American College of Radiology (ACR); 2013. 12 p. [76 references]</p>
+<p>This guideline updates a previous version: Mainiero MB, Bailey L, D'Orsi C, Green ED, Holbrook AI, Lee SJ, Lourenco AP, Moy L, Sepulveda KA, Slanetz PJ, Trikha S, Yepes MM, Newell MS, Expert Panel on Breast Imaging. ACR Appropriateness Criteria&amp;reg; breast cancer screening. Reston (VA): American College of Radiology (ACR); 2016. 7 p. [52 references]</p>
 <p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
     </field>
     <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;https://acsearch.acr.org/docs/3082594/Narrative/&quot; title=&quot;American College of Radiology (ACR) Web site&quot;>American College of Radiology (ACR) Web site</a>.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;https://acsearch.acr.org/docs/70910/Narrative/&quot; title=&quot;American College of Radiology (ACR) Web site&quot;>American College of Radiology (ACR) Web site</a>.</p></div>"/>
     </field>
     <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
@@ -703,16 +728,16 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     <li>ACR Appropriateness Criteria&amp;reg;. Radiation dose assessment introduction. Reston (VA): American College of Radiology; 2018. 4 p. Available from the <a href=&quot;https://www.acr.org/-/media/ACR/Files/Appropriateness-Criteria/RadiationDoseAssessmentIntro.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
     <li>ACR Appropriateness Criteria&amp;reg;. Manual on contrast media. Reston (VA): American College of Radiology; 2017. 125 p. Available from the <a href=&quot;https://www.acr.org/Clinical-Resources/Contrast-Manual&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
     <li>ACR Appropriateness Criteria&amp;reg;. Procedure information. Reston (VA): American College of Radiology; 2017 Mar. 4 p. Available from the <a href=&quot;https://www.acr.org/-/media/ACR/Files/Appropriateness-Criteria/ProcedureInfo.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
-    <li>ACR Appropriateness Criteria&amp;reg; imaging for transcatheter aortic valve replacement. Evidence table. Reston (VA): American College of Radiology; 2017. 27 p. Available from the <a href=&quot;https://acsearch.acr.org/docs/3082594/EvidenceTable/&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
-    <li>ACR Appropriateness Criteria&amp;reg; imaging for transcatheter aortic valve replacement. Literature search. Reston (VA): American College of Radiology; 2017. 2 p. Available from the <a href=&quot;https://acsearch.acr.org/docs/3082594/LitSearch/&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg; breast cancer screening. Evidence table. Reston (VA): American College of Radiology; 2017. 41 p. Available from the <a href=&quot;https://acsearch.acr.org/docs/70910/EvidenceTable/&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg; breast cancer screening. Literature search summary. Reston (VA): American College of Radiology; 2017. 2 p. Available from the <a href=&quot;https://acsearch.acr.org/docs/70910/LitSearch/&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
 </ul></div>"/>
     </field>
     <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
     </field>
     <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on March 7, 2014. The guideline developer agreed to not review the content. This summary was updated on May 10, 2018. The guideline developer agreed to not review the content. </p>
-<p>This NEATS assessment was completed by ECRI Institute on May 10, 2018. The information was verified by the guideline developer on June 1, 2018. </p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on August 21, 2012. The guideline developer agreed to not review the content. This summary was updated by ECRI Institute on September 14, 2016. The guideline developer agreed to not review the content. This summary was updated by ECRI Institute on May 14, 2018. The guideline developer agreed to not review the content.</p>
+<p>This NEATS assessment was completed by ECRI Institute on May 14, 2018. The information was verified by the guideline developer on June 1, 2018. </p></div>"/>
     </field>
     <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>Instructions for downloading, use, and reproduction of the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; may be found on the <a href=&quot;https://www.acr.org/Clinical-Resources/ACR-Appropriateness-Criteria/Terms-and-Conditions&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>.</p></div>"/>
@@ -728,8 +753,8 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     </field>
   </section>
 </version><!--
-     FILE ARCHIVED ON 02:15:54 Jul 13, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 17:21:14 Jul 15, 2018.
+     FILE ARCHIVED ON 05:18:17 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:21:43 Jul 15, 2018.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -737,14 +762,14 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
 -->
 <!--
 playback timings (ms):
-  LoadShardBlock: 289.27 (3)
+  LoadShardBlock: 61.851 (3)
   esindex: 0.007
-  captures_list: 328.853
-  CDXLines.iter: 31.688 (3)
-  PetaboxLoader3.datanode: 55.513 (4)
-  exclusion.robots: 0.434
-  exclusion.robots.policy: 0.42
-  RedisCDXSource: 2.392
-  PetaboxLoader3.resolve: 254.125 (2)
-  load_resource: 40.84
+  captures_list: 83.75
+  CDXLines.iter: 14.09 (3)
+  PetaboxLoader3.datanode: 55.105 (4)
+  exclusion.robots: 0.328
+  exclusion.robots.policy: 0.314
+  RedisCDXSource: 4.604
+  PetaboxLoader3.resolve: 159.79
+  load_resource: 235.641
 -->
