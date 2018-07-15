@@ -1,5 +1,5 @@
 <script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app18.us.archive.org';v.server_ms=813;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=2852;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
 
 <script type="text/javascript">
 __wbhack.init('https://web.archive.org/web');
@@ -39,7 +39,7 @@ body {
                   <div id="wm-save-snapshot-success">success</div>
           <div id="wm-save-snapshot-fail">fail</div>
           <a href="#"
-             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11097?contentType=xml', '20180712234154')"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11098?contentType=xml', '20180713021101')"
              title="Share via My Web Archive"
              id="wm-save-snapshot-open"
           >
@@ -56,35 +56,35 @@ body {
 	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
       </div>
       <div id="wm-share" style="text-align:right;">
-	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180712234154/https://www.guideline.gov/summaries/downloadcontent/ngc-11097?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
-	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180712234154/https://www.guideline.gov/summaries/downloadcontent/ngc-11097?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713021101/https://www.guideline.gov/summaries/downloadcontent/ngc-11098?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713021101/https://www.guideline.gov/summaries/downloadcontent/ngc-11098?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
       </div>
     </div>
     <table class="c" style="">
       <tbody>
 	<tr>
 	  <td class="u" colspan="2">
-	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11097?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180712234154" /><input type="submit" value="Go" /></form>
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11098?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713021101" /><input type="submit" value="Go" /></form>
 	  </td>
 	  <td class="n" rowspan="2" style="width:110px;">
 	    <table>
 	      <tbody>
 		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
 		<tr class="m">
-		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610075514/https://www.guideline.gov/summaries/downloadcontent/ngc-11097?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
-		  <td class="c" id="displayMonthEl" title="You are here: 23:41:54 Jul 12, 2018">JUL</td>
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610053320/https://www.guideline.gov/summaries/downloadcontent/ngc-11098?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 02:11:01 Jul 13, 2018">JUL</td>
 		  <td class="f" nowrap="nowrap">Aug</td>
 		</tr>
 		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
 		<tr class="d">
-		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610075514/https://www.guideline.gov/summaries/downloadcontent/ngc-11097?contentType=xml" title="07:55:14 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
-		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 23:41:54 Jul 12, 2018">12</td>
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610053320/https://www.guideline.gov/summaries/downloadcontent/ngc-11098?contentType=xml" title="05:33:20 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 02:11:01 Jul 13, 2018">13</td>
 		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
 		</tr>
 		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
 		<tr class="y">
 		  <td class="b" nowrap="nowrap">2017</td>
-		  <td class="c" id="displayYearEl" title="You are here: 23:41:54 Jul 12, 2018">2018</td>
+		  <td class="c" id="displayYearEl" title="You are here: 02:11:01 Jul 13, 2018">2018</td>
 		  <td class="f" nowrap="nowrap">2019</td>
 		</tr>
 	      </tbody>
@@ -94,8 +94,8 @@ body {
 	<tr>
 	  <td class="s">
 	    	    <div id="wm-nav-captures">
-	      	      <a class="t" href="/web/20180712234154*/https://www.guideline.gov/summaries/downloadcontent/ngc-11097?contentType=xml" title="See a list of every capture for this URL">5 captures</a>
-	      <div class="r" title="Timespan for captures of this URL">02 Oct 2017 - 12 Jul 2018</div>
+	      	      <a class="t" href="/web/20180713021101*/https://www.guideline.gov/summaries/downloadcontent/ngc-11098?contentType=xml" title="See a list of every capture for this URL">5 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">02 Oct 2017 - 13 Jul 2018</div>
 	      </div>
 	  </td>
 	  <td class="k">
@@ -155,16 +155,16 @@ ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam
       <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
     </div>
   </div></div></div></div><script type="text/javascript">
-__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11097?contentType=xml","2018-07-12",1996);
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11098?contentType=xml","2018-07-13",1996);
 </script>
 <!-- END WAYBACK TOOLBAR INSERT --><version>
   <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
   <section secid="390" ordby="100" name="General">
     <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
-      <fieldvalue value="<div class=&quot;content_title&quot;>Congress of Neurological Surgeons systematic review and evidence-based guideline for the management of patients with positional plagiocephaly: the role of physical therapy.</div>"/>
+      <fieldvalue value="<div class=&quot;content_title&quot;>Congress of Neurological Surgeons systematic review and evidence-based guideline on the role of cranial molding orthosis (helmet) therapy for patients with positional plagiocephaly.</div>"/>
     </field>
     <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
-      <fieldvalue value="<table><tr><td>Baird LC, Klimo P Jr, Flannery AM, Bauer DF, Beier A, Durham S, Lin AY, McClung-Smith C, Mitchell L, Nikas D, Tamber MS, Tyagi R, Mazzola C. Congress of Neurological Surgeons systematic review and evidence-based guideline for the management of patients with positional plagiocephaly: the role of physical therapy. Neurosurgery. 2016 Nov;79(5):E630-1. [1 reference] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27776088&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tamber MS, Nikas D, Beier A, Baird LC, Bauer DF, Durham S, Klimo P Jr, Lin AY, Mazzola C, McClung-Smith C, Mitchell L, Tyagi R, Flannery AM. Congress of Neurological Surgeons systematic review and evidence-based guideline on the role of cranial molding orthosis (helmet) therapy for patients with positional plagiocephaly. Neurosurgery. 2016 Nov;79(5):E632-3. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27776089&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
     </field>
     <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
@@ -176,11 +176,11 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
       <fieldvalue value="<div class=&quot;content_para&quot;><p>Definitions for the levels of recommendations (<strong>I-III</strong>) are provided at the end of the &quot;Major Recommendations&quot; field.</p>
 <p><strong><span style=&quot;text-decoration: underline;&quot;>Recommendations</span></strong></p>
 <ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
-    <li>Physical therapy is recommended over repositioning education alone for reducing prevalence of infantile positional plagiocephaly in infants 7 weeks of age.
-    <p><strong>Strength of recommendation: Level I (high clinical certainty)</strong></p>
+    <li>Helmet therapy is recommended for infants with persistent moderate to severe plagiocephaly after a course of conservative treatment (repositioning and/or physical therapy).
+    <p><strong>Strength of Recommendation: Level II&amp;mdash;uncertain clinical certainty</strong></p>
     </li>
-    <li>Physical therapy is as effective for the treatment of positional plagiocephaly and recommended over the use of a positioning pillow in order to ensure a safe sleeping environment and comply with American Academy of Pediatrics recommendations.
-    <p><strong>Strength of recommendation: Level II (moderate clinical certainty)</strong></p>
+    <li>Helmet therapy is recommended for infants with moderate to severe plagiocephaly presenting at an advanced age.
+    <p><strong>Strength of Recommendation: Level II&amp;mdash;uncertain clinical certainty</strong></p>
     </li>
 </ol>
 <p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
@@ -228,20 +228,19 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
       <fieldvalue value="Physicians"/>
     </field>
     <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>To answer the question &quot;Does physical therapy provide effective treatment for positional plagiocephaly?&quot;</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To address the clinical question &quot;Does helmet therapy provide effective treatment for positional plagiocephaly?&quot; and to make treatment recommendations based on the available evidence</p></div>"/>
     </field>
     <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>Infants with positional plagiocephaly</p></div>"/>
     </field>
     <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
       <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
-    <li>Physical therapy </li>
-    <li>Repositioning education </li>
-    <li>Positioning pillow (not recommended) </li>
+    <li>Helmet therapy </li>
+    <li>Conservative treatment (repositioning or physical therapy) </li>
 </ol>"/>
     </field>
     <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Improvement in cranial asymmetry based on anthropometric measurements</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Improvement in cranial asymmetry as assessed by change in 2- or 3-dimensional anthropometric measurements or subjective physician or parent evaluation</p></div>"/>
     </field>
   </section>
   <section secid="405" ordby="500" name="Methodology">
@@ -269,16 +268,16 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     <li>The study was published in English. </li>
 </ul>
 <p>Systematic reviews, meta-analyses, or guidelines developed by others were not considered as evidence to support this guideline. The task force screened the bibliographies of these publications to ensure the accuracy and comprehensiveness of the literature search results used for this guideline.</p>
-<p><strong><span style=&quot;text-decoration: underline;&quot;>Specific Search Strategy for This Guideline</span></strong></p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Specific Search Strategy for This Guideline</strong></span></p>
 <p><strong>Literature Search</strong></p>
-<p>The task force collaborated with medical librarians to search PubMed and the Cochrane Library for the period from 1966 to October 2014 using the MeSH subject headings and PubMed search strategies provided in Appendix A of the full guideline (see &quot;Availability of Companion Documents&quot; field). Manual searches of bibliographies were also conducted.</p>
+<p>The task force collaborated with medical librarians to search for articles published in the US National Library of Medicine (PubMed/MEDLINE) database and the Cochrane Library for the period January 1966 through October 2014, using the MeSH subject headings and PubMed search strategies provided in Appendix A of the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field). Manual searches of bibliographies were also conducted.</p>
 <p><strong>Article Inclusion/Exclusion Criteria</strong></p>
-<p>The task force reviewed the titles and abstracts to identify studies addressing the effectiveness of physical therapy compared to other treatment modalities or no treatment for positional plagiocephaly. Studies in which there was no comparison group (uncontrolled) were excluded. The authors reviewed articles that met these criteria, and appropriate studies were selected for inclusion into an evidentiary table.</p>
+<p>The task force reviewed the titles and abstracts to identify studies that would address the effectiveness of cranial remolding orthosis (helmet) therapy compared to other treatments for positional plagiocephaly (including no treatment). Studies in which there was no comparison group (uncontrolled) were excluded, as without a control or reference group, it is impossible to judge whether or not an intervention is effective. Studies that employed survey methodology were also excluded. Articles that met these criteria were independently reviewed by 3 of the authors, and appropriate studies were selected for inclusion into the evidence tables for this recommendation.</p>
 <p><strong>Search Results</strong></p>
-<p>The search returned 47 unique articles. Thirty-four were excluded based on a review of the abstract. Thirteen full-text papers were reviewed. Ten articles were rejected for the following reasons: lack of a comparison group, potential significant degree of confounding introduced by co-intervention(s), lack of assessment of physical therapy as an independent outcome measure, and comparison to a commercially unavailable orthotic device (see Figure 1 in the full version of the guideline [see the &quot;Availability of Companion Documents&quot; field]).</p></div>"/>
+<p>The Medline plagiocephaly search (search #1) returned 88 abstracts, while the Medline brachycephaly (search #2) and Cochrane plagiocephaly/brachycephaly (search #3) searches returned 22 and 19 abstracts, respectively (see Figure 1 in the full version of the guideline [see the &quot;Availability of Companion Documents&quot; field]). After removal of duplicate results, 102 abstracts were screened in total. After review of the abstracts, 41 full-text articles were reviewed (38 articles were selected after reviewing the abstracts, and an additional 3 articles were obtained after examination of the bibliographies of the 38 initially selected articles). Of the 41 full-text articles reviewed, 26 were rejected for the following reasons: no comparison group, use of a non-helmet orthosis, comparison group did not have plagiocephaly, and study used survey methodology.</p></div>"/>
     </field>
     <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Three articles satisfied the inclusion criteria for inclusion into the evidentiary table. See Figure 1 in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>15 articles satisfied the criteria for inclusion into the evidence tables. See Figure 1 in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
     </field>
     <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
       <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
@@ -310,7 +309,7 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     </field>
     <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>Evidentiary tables were constructed that summarized pertinent study results.</p>
-<p><strong><span style=&quot;text-decoration: underline;&quot;>Rating Quality of Evidence</span></strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Rating Quality of Evidence</span></strong> </p>
 <p>The quality of evidence was rated using an evidence hierarchy developed by the Joint Guidelines Committee for each of the 4 different study types (i.e., therapeutic, diagnostic, prognostic, and clinical assessment).</p></div>"/>
     </field>
     <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
@@ -341,15 +340,18 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   </section>
   <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
     <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field). There were 2 randomized controlled trials (Class I and Class II) and 1 small, prospective, randomized study assessing, but not statistically analyzing, plagiocephaly as a secondary outcome measure in both groups (Class III).</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for the recommendation (see the &quot;Major Recommendations&quot; field). There was 1 prospective randomized controlled trial (Class II), 5 prospective comparative studies (Class II), and 9 retrospective comparative studies (Class II).</p></div>"/>
     </field>
   </section>
   <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
     <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>The systemic review demonstrates physical therapy to be an effective treatment option for positional plagiocephaly. Class II evidence suggests physical therapy to be a superior treatment modality to repositioning in cases of severe plagiocephaly, and an equivalent treatment modality to a positioning pillow. Class III evidence suggests that physical therapy performed by a professional physical therapist can lead to more results over a shorter treatment time, and thus be more appropriate in the setting of severe plagiocephaly.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>There is a fairly substantive body of nonrandomized evidence that demonstrates more significant and faster improvement of cranial shape in infants with positional plagiocephaly treated with a helmet in comparison with conservative therapy, especially if the asymmetry is severe, provided that helmet therapy is applied during the appropriate period of infancy.</p></div>"/>
     </field>
     <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American Academy of Pediatrics recommends against the use of soft positioning pillows in the crib of an infant to ensure a safe sleeping environment; therefore, the plagiocephaly guidelines committee recommends using physical therapy over positioning devices.</p></div>"/>
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Frequent regular assessments are required to assess for cranial growth and the presence of any adverse effects, as well as to make any necessary adjustments to the device to allow for continual growth and change in shape of the calvarium. </li>
+    <li>Evidence in favor of helmet use must be tempered by the lack of data regarding the extent of natural improvement of positional plagiocephaly, the long-term effects of helmet therapy (and of &quot;untreated&quot; plagiocephaly), and the costs associated with helmet therapy. </li>
+</ul>"/>
     </field>
   </section>
   <section secid="432" ordby="900" name="Qualifying Statements">
@@ -378,7 +380,7 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   </section>
   <section secid="442" ordby="1200" name="Identifying Information and Availability">
     <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
-      <fieldvalue value="<table><tr><td>Baird LC, Klimo P Jr, Flannery AM, Bauer DF, Beier A, Durham S, Lin AY, McClung-Smith C, Mitchell L, Nikas D, Tamber MS, Tyagi R, Mazzola C. Congress of Neurological Surgeons systematic review and evidence-based guideline for the management of patients with positional plagiocephaly: the role of physical therapy. Neurosurgery. 2016 Nov;79(5):E630-1. [1 reference] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27776088&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tamber MS, Nikas D, Beier A, Baird LC, Bauer DF, Durham S, Klimo P Jr, Lin AY, Mazzola C, McClung-Smith C, Mitchell L, Tyagi R, Flannery AM. Congress of Neurological Surgeons systematic review and evidence-based guideline on the role of cranial molding orthosis (helmet) therapy for patients with positional plagiocephaly. Neurosurgery. 2016 Nov;79(5):E632-3. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27776089&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
     </field>
     <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
@@ -391,13 +393,13 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     </field>
     <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>These evidence-based clinical practice guidelines were funded exclusively by the Congress of Neurological Surgeons and the Section on Pediatric Neurosurgery of the Congress of Neurological Surgeons and the American Association of Neurological Surgeons, which received no funding from outside commercial sources to support the development of this document.</p>
-<p>Development of this systematic review and set of guidelines was editorially independent of the funding agencies.</p></div>"/>
+<p>The authors have no personal, financial, or institutional interest in any of the drugs, materials, or devices described in this article.</p></div>"/>
     </field>
     <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>Plagiocephaly Guideline Task Force</p></div>"/>
     </field>
     <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Task Force Members</em>: Lissa C. Baird, MD, Department of Neurological Surgery, Oregon Health and Science University, Portland, Oregon; Paul Klimo Jr, MD, Semmes-Murphey Neurologic &amp;amp; Spine Institute, Department of Neurosurgery, University of Tennessee Health Science Center, Le Bonheur Children's Hospital, Memphis, Tennessee; Ann Marie Flannery, MD, Kids Specialty Center, Women's &amp;amp; Children's Hospital, Lafayette, Louisiana; David F. Bauer, MD, Dartmouth&amp;ndash;Hitchcock Medical Center, Lebanon, New Hampshire; Alexandra Beier, DO, Division of Pediatric Neurosurgery, University of Florida Health Jacksonville, Jacksonville, Florida; Susan Durham, MD, Division of Neurosurgery, University of Vermont Medical Center, Burlington, Vermont; Alexander Y. Lin, MD, St. Louis Cleft-Craniofacial Center, SSM Health Cardinal Glennon Children's Hospital at Saint Louis University, Division of Plastic Surgery, Saint Louis University School of Medicine, St. Louis, Missouri; Catherine McClung-Smith, MD, Department of Neurosurgery, Palmetto Health University of South Carolina Medical Group, Columbia, South Carolina; Laura Mitchell, MA, Guidelines Department, Congress of Neurological Surgeons, Schaumburg, Illinois; Dimitrios Nikas, MD, Department of Neurosurgery, University of Illinois at Chicago, Chicago, Illinois, Advocate Children's Hospital, Oak Lawn, Illinois; Mandeep S. Tamber, MD, PhD, Department of Pediatric Neurological Surgery, Children's Hospital of Pittsburgh of UPMC, Pittsburgh, Pennsylvania; Rachana Tyagi, MD, Department of Surgery, Division of Neurosurgery, Rutgers Robert Wood Johnson Medical School, New Brunswick, New Jersey; Catherine Mazzola, MD, Goryeb Children's Hospital of Atlantic Health Systems, Morristown, New Jersey</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Task Force Members</em>: Mandeep S. Tamber, MD, PhD, Department of Pediatric Neurological Surgery, Children's Hospital of Pittsburgh of UPMC, Pittsburgh, Pennsylvania; Dimitrios Nikas, MD, Department of Neurosurgery, University of Illinois at Chicago, Chicago, Illinois, Advocate Children's Hospital, Oak Lawn, Illinois; Alexandra Beier, DO, Division of Pediatric Neurosurgery, University of Florida Health Jacksonville, Jacksonville, Florida; Lissa C. Baird, MD, Department of Neurological Surgery, Oregon Health and Science University, Portland, Oregon; David F. Bauer, MD, Dartmouth&amp;ndash;Hitchcock Medical Center, Lebanon, New Hampshire; Susan Durham, MD, Division of Neurosurgery, University of Vermont Medical Center, Burlington, Vermont; Paul Klimo Jr, MD, Semmes-Murphey Neurologic &amp;amp; Spine Institute, Department of Neurosurgery, University of Tennessee Health Science Center, Le Bonheur Children's Hospital, Memphis, Tennessee; Alexander Y. Lin, MD, St. Louis Cleft-Craniofacial Center, SSM Health Cardinal Glennon Children's Hospital at Saint Louis University, Division of Plastic Surgery, Saint Louis University School of Medicine, St. Louis, Missouri; Catherine Mazzola, MD, Goryeb Children's Hospital of Atlantic Health Systems, Morristown, New Jersey; Catherine McClung-Smith, MD, Department of Neurosurgery, Palmetto Health University of South Carolina Medical Group, Columbia, South Carolina; Laura Mitchell, MA, Guidelines Department, Congress of Neurological Surgeons, Schaumburg, Illinois; Rachana Tyagi, MD, Department of Surgery, Division of Neurosurgery, Rutgers Robert Wood Johnson Medical School, New Brunswick, New Jersey; Ann Marie Flannery, MD, Kids Specialty Center, Women's &amp;amp; Children's Hospital, Lafayette, Louisiana</p></div>"/>
     </field>
     <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Potential Conflicts of Interest</span></strong></p>
@@ -413,12 +415,12 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
 <p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
     </field>
     <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://journals.lww.com/neurosurgery/Fulltext/2016/11000/Congress_of_Neurological_Surgeons_Systematic.4.aspx&quot; title=&quot;Neurosurgery Web site&quot;>Neurosurgery Web site</a>. Also available as ePub from the <a href=&quot;http://journals.lww.com/neurosurgery/Fulltext/2016/11000/Congress_of_Neurological_Surgeons_Systematic.4.aspx&quot; title=&quot;Neurosurgery Web site&quot;>Neurosurgery Web site</a>.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://journals.lww.com/neurosurgery/Fulltext/2016/11000/Congress_of_Neurological_Surgeons_Systematic.5.aspx&quot; title=&quot;Neurosurgery Web site&quot;>Neurosurgery Web site</a>. Also available in ePub from the <a href=&quot;http://journals.lww.com/neurosurgery/Fulltext/2016/11000/Congress_of_Neurological_Surgeons_Systematic.5.aspx&quot; title=&quot;Neurosurgery Web site&quot;>Neurosurgery Web site</a>.</p></div>"/>
     </field>
     <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
 <ul style=&quot;list-style-type: disc;&quot;>
-    <li>Congress of Neurological Surgeons systematic review and evidence-based guideline for the management of patients with positional plagiocephaly: the role of physical therapy. Full guideline. 2016 Nov. 17 p. Available from the <a href=&quot;https://www.cns.org/sites/default/files/guideline-chapter-pdf/plagiocephalygl_ch._4_pt.pdf&quot; title=&quot;CNS Web site&quot;>Congress of Neurological Surgeons (CNS) Web site</a>. </li>
+    <li>Congress of Neurological Surgeons systematic review and evidence-based guideline on the role of cranial molding orthosis (helmet) therapy for patients with positional plagiocephaly. Full guideline. 2016 Nov. 34 p. Available from the <a href=&quot;https://www.cns.org/sites/default/files/guideline-chapter-pdf/plagiocephalygl_ch._5_orthotic_tx.pdf&quot; title=&quot;CNS Web site&quot;>Congress of Neurological Surgeons (CNS) Web site</a>. </li>
     <li>Flannery AM, Mitchell L, Mazzola C, Klimo P Jr., Baird LC, Tamber MS, Bauer DF, Beier A, Durham S, Lin AY, McClung-Smith C, Nikas D, Tyagi R. Congress of Neurological Surgeons systematic review and evidence-based guideline for the management of patients with positional plagiocephaly: introduction and methods. 2016 Nov. 12 p. Available from the <a href=&quot;https://www.cns.org/sites/default/files/guideline-chapter-pdf/plagiocephalygl_ch._1_intro.pdf&quot; title=&quot;CNS Web site&quot;>CNS Web site</a>. </li>
     <li>Flannery AM, Tamber MS, Mazzola C, Klimo P Jr, Baird LC, Tyagi R, Bauer DF, Beier A, Durham S, Lin AY, McClung-Smith C, Mitchell L, Nikas, D. Congress of Neurological Surgeons systematic review and evidence-based guidelines for the management of patients with positional plagiocephaly: executive summary. Neurosurgery. 2016 Nov;79(5):623-4. Available from the <a href=&quot;http://journals.lww.com/neurosurgery/Fulltext/2016/11000/Congress_of_Neurological_Surgeons_Systematic.1.aspx&quot; title=&quot;Neurosurgery Web site&quot;>Neurosurgery Web site</a>. </li>
     <li>Congress of Neurological Surgeons (CNS). Guideline development methodology: endorsed by the American Association of Neurological Surgeons (AANS), the Congress of Neurological Surgeons (CNS), and the AANS/CNS Joint Guideline Committee. Schaumburg (IL): Congress of Neurological Surgeons (CNS); 2012 Feb. 12 p. Available from the <a href=&quot;https://www.cns.org/sites/default/files/jgcguidelinedevelopmentmethodology.pdf&quot; title=&quot;CNS Web site&quot;>CNS Web site</a>. </li>
@@ -428,7 +430,7 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
       <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
     </field>
     <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on February 3, 2017. the information was verified by the guideline developer on February 23, 2017.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on February 3, 2017. The information was verified by the guideline developer on February 23, 2017.</p></div>"/>
     </field>
     <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
@@ -444,8 +446,8 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     </field>
   </section>
 </version><!--
-     FILE ARCHIVED ON 23:41:54 Jul 12, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 18:06:35 Jul 15, 2018.
+     FILE ARCHIVED ON 02:11:01 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:06:24 Jul 15, 2018.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -453,14 +455,14 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
 -->
 <!--
 playback timings (ms):
-  LoadShardBlock: 73.841 (3)
-  esindex: 0.014
-  captures_list: 105.401
-  CDXLines.iter: 17.354 (3)
-  PetaboxLoader3.datanode: 109.079 (4)
-  exclusion.robots: 0.406
-  exclusion.robots.policy: 0.389
-  RedisCDXSource: 6.725
-  PetaboxLoader3.resolve: 601.392
-  load_resource: 675.884
+  LoadShardBlock: 2092.193 (3)
+  esindex: 0.005
+  captures_list: 2110.536
+  CDXLines.iter: 14.654 (3)
+  PetaboxLoader3.datanode: 176.585 (4)
+  exclusion.robots: 0.304
+  exclusion.robots.policy: 0.294
+  RedisCDXSource: 0.499
+  PetaboxLoader3.resolve: 2385.77 (4)
+  load_resource: 722.176
 -->

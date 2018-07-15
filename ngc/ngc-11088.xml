@@ -1,0 +1,929 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app42.us.archive.org';v.server_ms=310;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11088?contentType=xml', '20180713014759')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713014759/https://www.guideline.gov/summaries/downloadcontent/ngc-11088?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713014759/https://www.guideline.gov/summaries/downloadcontent/ngc-11088?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11088?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713014759" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610074859/https://www.guideline.gov/summaries/downloadcontent/ngc-11088?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 01:47:59 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610074859/https://www.guideline.gov/summaries/downloadcontent/ngc-11088?contentType=xml" title="07:48:59 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 01:47:59 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2017</td>
+		  <td class="c" id="displayYearEl" title="You are here: 01:47:59 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713014759*/https://www.guideline.gov/summaries/downloadcontent/ngc-11088?contentType=xml" title="See a list of every capture for this URL">5 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">02 Oct 2017 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11088?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>British HIV Association guidelines for the treatment of HIV-1-positive adults with antiretroviral therapy 2015 (2016 interim update).</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Waters L, Ahmed N, Angus B, Boffito M, Bower M, Churchill D, Dunn D, Edwards S, Emerson C, Fidler S, Fisher M, Horne R, Khoo S, Leen C, Mackie N, Marshall N, Monteiro F, Nelson M, Orkin C, Palfreeman A, Pett S, Phillips A, Post F, Pozniak A, Reeves I, Sabin C, Trevelion R, Walsh J, Wilkins E, Williams I, Winston A. British HIV Association guidelines for the treatment of HIV-1-positive adults with antiretroviral therapy 2015 (2016 interim update). London (UK): British HIV Association (BHIVA); 2016 Aug. 151 p.  [796 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Churchill D, Waters L, Ahmed N, Angus B, Boffito M, Bower M, Dunn D, Edwards S, Emerson C, Fidler S, Fisher M, Horne R, Khoo S, Leen C, Mackie N, Marshall N, Monteiro F, Nelson M, Orkin C, Palfreeman A, Pett S, Phillips A, Post F, Pozniak A, Reeves I, Sabin C, Trevelion R, Walsh J, Wilkins E, Williams I, Winston A. British HIV Association guidelines for the treatment of HIV-1 positive adults with antiretroviral therapy 2015. London (UK): British HIV Association (BHIVA); 2015 Sep. 150 p. [770 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The quality of evidence (<strong>A&amp;ndash;D</strong>) and grades of recommendation (<strong>1, 2, good practice point [GPP]</strong>) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Involvement of People Living with Human Immunodeficiency Virus (HIV) in Decision-Making</span></strong></p>
+<p>The Writing Group recommends people living with HIV (PLWH) are given the opportunity to be involved in making decisions about their treatment (<strong>GPP</strong>).</p>
+<p>Provision of treatment-support resources should include in-house, independent and community information providers and peer-support resources (<strong>GPP</strong>).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>When to Start</span></strong></p>
+<p><strong>Chronic Infection</strong></p>
+<p>The Writing Group recommends people with HIV start antiretroviral therapy (ART) (<strong>1A</strong>).</p>
+<p><strong>Individuals Presenting with Acquired Immune Deficiency Syndrome (AIDS) or a Major Infection</strong></p>
+<p>The Writing Group recommends that individuals presenting with an AIDS-defining infection, or with a serious bacterial infection and a CD4 cell count &amp;lt;200 cells/&amp;mu;L, start ART within 2 weeks of initiation of specific antimicrobial chemotherapy (<strong>1B</strong>).</p>
+<p><strong>Treatment of Primary HIV Infection </strong></p>
+<p>The Writing Group recommends all individuals with suspected or diagnosed primary HIV infection (PHI) are reviewed promptly by an HIV specialist and offered immediate ART (<strong>1B</strong>).</p>
+<p><strong>Impact of Treatment on Prevention of Onward Transmission</strong></p>
+<p>The Writing Group recommends that ART is offered to all PLWH for the prevention of onward transmission (<strong>1A</strong>).</p>
+<p>The Writing Group recommends the evidence that treatment with ART substantially lowers the risk of transmission is discussed with all PLWH (<strong>GPP</strong>).</p>
+<p>An assessment of the risk of transmission to others should be made at diagnosis and subsequent visits (<strong>GPP</strong>).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>What to Start</span></strong></p>
+<p>The Writing Group recommends that therapy-­na&amp;iuml;ve PLWH start ART containing two nucleoside reverse transcriptase inhibitors (NRTIs) plus one of the following: ritonavir-boosted protease inhibitor (PI/r), non-nucleoside reverse transcriptase inhibitor (NNRTI) or integrase inhibitor (INI) (<strong>1A</strong>).</p>
+<p><strong>Which Nucleoside Reverse Transcriptase Inhibitor Backbone</strong></p>
+<p>The Writing Group recommends therapy-na&amp;iuml;ve individuals start combination ART containing tenofovir disoproxil fumarate (DF) and emtricitabine or tenofovir alafenamide (AF) and emtricitabine as the preferred NRTI backbone (<strong>1A</strong>).</p>
+<p>The Writing Group suggests abacavir and lamivudine is an acceptable alternative NRTI backbone in therapy-na&amp;iuml;ve individuals. In those with a baseline viral load &amp;gt;100,000, it should be used with caution if there are clinical reasons to prefer it over alternative NRTI backbones (<strong>2A</strong>).</p>
+<p>The caution regarding baseline viral load does not apply if abacavir/lamivudine is used with dolutegravir (<strong>2A</strong>).</p>
+<p>Abacavir must not be used in individuals who are HLA-B*57:01-positive (<strong>1A</strong>).</p>
+<p><strong>Which Third Agent</strong></p>
+<p>The Writing Group recommends therapy-na&amp;iuml;ve individuals start combination ART containing atazanavir/r, darunavir/r, dolutegravir, elvitegravir/c, raltegravir or rilpivirine as the third agent (<strong>1A</strong>).</p>
+<p>The Writing Group suggests that for therapy-na&amp;iuml;ve individuals, efavirenz is an acceptable alternative third agent (<strong>1A</strong>).</p>
+<p><strong>Novel Antiretroviral Therapy Strategies</strong></p>
+<p>The Writing Group recommends against the use of PI monotherapy as initial therapy for treatment-na&amp;iuml;ve patients (<strong>1C</strong>).</p>
+<p>The Writing Group suggests the use of darunavir/r-­based dual ART regimen with raltegravir in treatment-na&amp;iuml;ve patients with CD4 count &amp;gt;200 cells/&amp;micro;L and viral load &amp;lt;100,000 copies/mL where there is need to avoid abacavir, tenofovir-DF or tenofovir-AF (<strong>2A</strong>).</p>
+<p>The Writing Group recommends against the use of PI-based dual ART with a single NNRTI, NRTI or CCR5 receptor antagonist for treatment-­na&amp;iuml;ve patients (<strong>1B</strong>).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Supporting Individuals on Therapy</span></strong></p>
+<p><strong>Adherence</strong></p>
+<p><em>Interventions to Increase Adherence to Treatment</em></p>
+<p>The Writing Group recommends adherence and potential barriers to it are assessed and discussed with PLWH whenever ART is discussed, prescribed or dispensed (<strong>GPP</strong>).</p>
+<p>The Writing Group recommends adherence support should address both perceptual barriers (e.g., beliefs and preferences) and/or practical barriers (e.g., limitations in capacity and resources) to adherence (<strong>GPP</strong>).</p>
+<p>Individuals experiencing difficulties with adherence should be offered additional support from staff within the multidisciplinary team (MDT) who have experience in adherence support and/or from organisations offering peer support (<strong>GPP</strong>).</p>
+<p><em>Should the Choice of First-Line Antiretroviral Therapy Combination Be Affected by Risk of Nonadherence?</em></p>
+<p>In individuals where there is clinical concern that doses may be missed intermittently, there is insufficient evidence to recommend a PI/r over NNRTI- or INI-based regimens. However, where there is a risk of frequent prolonged treatment interruptions, PI/r-based regimens may be associated with less frequent selection for drug resistance (<strong>2C</strong>).</p>
+<p><strong>Pharmacology</strong></p>
+<p><em>Drug Interactions</em></p>
+<p>Drug histories should be taken at each clinic visit, and a full medication history (including herbals, recreational drugs and other non-prescribed medications) should be undertaken at least annually (<strong>GPP</strong>).</p>
+<p>All potential adverse pharmacokinetic interactions between antiretroviral drugs and other concomitant medications should be checked before administration (<strong>GPP</strong>).</p>
+<p>Wherever feasible, PLWH should be counselled about the risks of drug interactions, and advised to use resources such as the Liverpool HIV Drug Interactions App (iOS or Android) (<strong>GPP</strong>).</p>
+<p><em>Therapeutic Drug Monitoring</em></p>
+<p>The Writing Group recommends against the unselected use of therapeutic drug monitoring (<strong>GPP</strong>).</p>
+<p>Therapeutic drug monitoring may be of clinical value in specific populations (e.g., children, pregnant women) or selected clinical scenarios (e.g., malabsorption, drug interactions, suspected non-­adherence to therapy) (<strong>2C</strong>).</p>
+<p><em>Stopping Therapy: Pharmacological Considerations</em></p>
+<p>The Writing Group recommends individuals stopping ART containing an NNRTI in combination with an NRTI backbone replace all drugs with a PI (darunavir/r once daily) for 4 weeks (<strong>1C</strong>).</p>
+<p>The Writing Group recommends individuals stopping a PI-containing regimen stop all drugs simultaneously and no replacement is required (<strong>1C</strong>).</p>
+<p><em>Switching Therapy: Pharmacological Considerations</em></p>
+<p>There are no high quality data on how to switch away from efavirenz to an alternative 'third' agent. Based on pharmacological principles, there is little rationale for any strategy other than straightforward substitution when switching to a PI/r or raltegravir. Pharmacokinetic studies show that straightforward substitution with etravirine, rilpivirine, dolutegravir and elvitegravir/c may result in slightly lower concentrations of either drug for a short period following switching, but limited virological data suggest that risk of virological failure with this strategy is low. Different strategies for switching to nevirapine have been proposed, but no comparative data are available to guide the choice of strategy. Limited data suggest that the dose of maraviroc should be doubled in the week following switching (unless given together with a PI/r).</p>
+<p>If switching away from efavirenz is undertaken when viral load is likely to still be detectable (e.g., because of central nervous system [CNS] intolerance within the first few weeks of starting efavirenz), substitution with a PI/r in preference to a within-class switch is advised.</p>
+<p><strong>Switching Antiretroviral Therapy in Virological Suppression</strong></p>
+<p><em>Switching Antiretrovirals in Combination Antiretroviral Therapy</em></p>
+<p>The Writing Group recommends, in individuals on suppressive ART regimens, consideration is given to differences in side-effect profile, drug&amp;ndash;drug interactions and drug-resistance patterns before switching any ARV component (<strong>GPP</strong>).</p>
+<p>In individuals with previous NRTI resistance mutations, the Writing Group recommends against switching a PI/r to either an NNRTI or an INI as the third agent (<strong>1B</strong>).</p>
+<p><em>Protease Inhibitor Monotherapy</em></p>
+<p>The Writing Group recommends against the use of PI monotherapy for routine ART (<strong>1A</strong>).</p>
+<p>The Writing Group recommends against the use of PI monotherapy for individuals whose initial regimen has failed or who have established resistance to one more antiretroviral drugs (<strong>1A</strong>).</p>
+<p><em>Treatment with One Boosted Protease Inhibitor and One NRTI</em></p>
+<p>The Writing Group suggest that a boosted PI plus lamivudine as an alternative to three-drug ART in individuals with viral suppression (<strong>2A</strong>).</p>
+<p><strong>Stopping Therapy</strong></p>
+<p>The Writing Group recommends against treatment interruption or intermittent therapy in individuals stable on a virally suppressive ART regimen (<strong>1A</strong>).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Managing Virological Failure</span></strong></p>
+<p><strong>Blips, Low-Level Viraemia and Virological Failure</strong></p>
+<p>In individuals on ART:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A single viral load (VL) 50&amp;ndash;200 copies/mL preceded and followed by an undetectable VL is usually not a cause for clinical concern (<strong>GPP</strong>). It should necessitate clinical vigilance, adherence reinforcement, check for possible interactions, and repeat testing within 2 to 6 weeks depending on ARV regimen. </li>
+    <li>The Writing Group recommends that a single VL &amp;gt;200 copies/mL is investigated further, including a rapid retest +/- genotypic resistance test, as it may be indicative of virological failure (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends that in the context of low-level viraemia or repeated viral blips, resistance testing be attempted (<strong>1D</strong>). </li>
+</ul>
+<p><strong>Individuals with No or Limited Drug Resistance</strong></p>
+<p>The Writing Group recommends for individuals experiencing virological failure on ﬁrst-­line ART with wild-type virus at baseline and without emergent resistance mutations at failure to switch to a PI/r- or cobicistat-boosted PI (PI/c)-based combination ART regimen is the preferred option (<strong>1C</strong>).</p>
+<p>The Writing Group recommends individuals experiencing virological failure on ﬁrst-line ART with wild-type virus at baseline and limited emergent resistance mutations (including two-class NRTI/NNRTI) at failure, switch to a new PI/r- or PI/c-based regimen with the addition of at least one, preferably two, active drugs (<strong>1C</strong>).</p>
+<p>The Writing Group recommends individuals experiencing virological failure on ﬁrst-­line PI/r or PI/c plus two-NRTI-based regimens, with limited major protease mutations, switch to a new active PI/r or PI/c with the addition of at least one, preferably two, active agents of which one has a novel mechanism of action (<strong>1C</strong>).</p>
+<p>The Writing Group recommends against switching a PI/r or PI/c to an INI or NNRTI as the third agent in individuals with historical or existing reverse transcriptase mutations associated with NRTI resistance or past virological failure on NRTIs (<strong>1B</strong>).</p>
+<p><strong>Individuals with Multiple Class Virological Failure with or without Extensive Drug Resistance</strong></p>
+<p>The Writing Group recommends individuals with persistent viraemia and with limited options to construct a fully suppressive regimen are discussed at an MDT inclusive of a virologist/referred for expert advice (or through virtual clinic referral) (<strong>GPP</strong>).</p>
+<p>The Writing Group recommends individuals with extensive drug resistance are switched to a new ART regimen containing at least two and preferably three fully active agents with at least one active PI/r such as twice-daily darunavir/r and one agent with a novel mechanism (an INI, maraviroc or enfuvirtide) with etravirine an option based on viral susceptibility (<strong>1C</strong>).</p>
+<p>The Writing Group Recommends in individuals without darunivir (DRV) resistance associated mutations, boosted-DRV can be given once daily (<strong>1C</strong>). </p>
+<p>The Writing Group recommends individuals with extensive drug resistance including reduced darunavir susceptibility receive dolutegravir as the INI (<strong>1C</strong>).</p>
+<p>The Writing Group suggests that consideration on an individual basis should be given to whether inclusion of NRTIs with reduced activity on genotypic testing will provide additional antiviral activity if the regimen includes three fully active drugs including a boosted PI (<strong>2C</strong>).</p>
+<p>The Writing Group recommends all individuals receive intensive adherence support at the start and at regular intervals to support them on their new ART combination (<strong>GPP</strong>).</p>
+<p><strong>Individuals with Limited or No Therapeutic Options When a Fully Viral Suppressive Regimen Cannot Be Constructed</strong></p>
+<p>The Writing Group recommends accessing newer agents through research trials, expanded access and named individual programmes (<strong>GPP</strong>).</p>
+<p>The Writing Group suggests that consideration, on an individual basis, should be given to whether inclusion of NRTIs with reduced activity on genotypic testing will provide additional antiviral activity &amp;ndash; this may well be the case where it is difficult to construct a regimen with three fully active drugs including a boosted PI (see section above) (<strong>2C</strong>).</p>
+<p>The Writing Group recommends against discontinuing or interrupting ART (<strong>1B</strong>).</p>
+<p>The Writing Group recommends against adding a single, fully active ARV because of the risk of further resistance (<strong>1D</strong>).</p>
+<p>The Writing Group recommends against the use of maraviroc to increase the CD4 cell count when there is evidence for X4 or dual tropic virus (<strong>1C</strong>).</p>
+<p>The Writing Group recommends in the context of triple class failure, where darunavir is being used as the boosted PI, it should be given with ritonavir twice-daily.</p>
+<p>The Writing Group recommends that in the context of triple-class failure and raltegravir/elvitegravir selected integrase resistance, twice-daily dolutegravir should be included as part of a new regimen where there is at least one fully active agent in the background regimen (<strong>1C</strong>).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Special Populations</span></strong></p>
+<p><strong>HIV and Tuberculosis (TB) Co-Infection</strong></p>
+<p class=&quot;Note&quot;><strong>Note</strong>: This guidance provides a brief summary of the key statements and recommendations regarding prescribing ART in HIV-positive individuals co-­infected with TB. It is based on the British HIV Association (BHIVA) guidelines for the treatment of TB/HIV coinfection 2011, which should be consulted for further information. The full version of the guidelines is available on the <a href=&quot;http://www.bhiva.org/TB-HIV-coinfection-guidelines.aspx&quot; title=&quot;BHIVA Web site&quot;>BHIVA Web site</a>.</p>
+<p><em>When to Start ART in TB/HIV Co-Infection</em></p>
+<p>The Writing Group recommends all patients with HIV TB co-­infection start ART (<strong>1B</strong>).</p>
+<p>The Writing Group recommends individuals with CD4 cell count &amp;lt;50 cells/&amp;micro;L start ART as soon as TB treatment is tolerated and wherever possible within 2 weeks (<strong>1B</strong>).</p>
+<p>The Writing Group recommends that for individuals with CD4 cell counts &amp;ge;50 cells/&amp;micro;L, ART can be deferred until between 8 and 12 weeks of TB treatment, especially when there are difficulties with drug&amp;ndash;drug interactions, adherence and toxicities (<strong>1B</strong>). (Although the data suggest a cut-off of 50 cells/&amp;micro;L, because of the daily variability in CD4, a cut-off of 100 cells/&amp;micro;L may be more appropriate.)</p>
+<p><em>What to Start in TB/HIV Co-Infection</em></p>
+<p>The Writing Group recommends efavirenz in combination with tenofovir-DF and emtricitabine as first-line ART (<strong>1B</strong>) in TB/HIV co-infection. Tenofovir-AF is not recommended with rifamycins (P-glycoprotein [PGP] induction).</p>
+<p>The Writing Group recommends that when rifampicin is used with efavirenz, standard doses of efavirenz are given whatever the body weight (<strong>1B</strong>).</p>
+<p>The Writing Group suggests that raltegravir can be used as an alternative to efavirenz but should be used with caution (<strong>2C</strong>).</p>
+<p>The Writing Group suggests dolutegravir is a possible alternative agent to raltegravir (for which there is currently little evidence) but the dose should be increased to 50 mg twice daily (<strong>2D</strong>).</p>
+<p>The Writing Group recommends frequent viral load monitoring if INIs are used (<strong>1C</strong>).</p>
+<p>The Writing Group recommends that rifampicin is not used with either nevirapine or a regimen containing ritonavir or cobicistat (<strong>1C</strong>).</p>
+<p>The Writing Group recommends that where effective ART necessitates the use of ritonavir or cobicistat, that rifabutin is used instead of rifampicin (<strong>1C</strong>).</p>
+<p><strong>Hepatitis B and C Virus Co-Infection</strong></p>
+<p><em>When to Start ART?</em></p>
+<p><strong>Summary Recommendations for the Treatment of Hepatitis B and C (HBV and HCV) Co-Infection</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Summary Recommendations for the Treatment of Hepatitis B and C (HBV and HCV) Co-Infection&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>HBV Requiring Treatment*</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>HBV Not Requiring Treatment</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>HCV with Immediate Plan to Start HCV Treatment*</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>HCV with No Immediate Plan to Start HCV Treatment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Start ART promptly (<strong>1A</strong>) (include tenofovir-DF and emtricitabine or tenofovir-AF and emtricitabine)</td>
+            <td valign=&quot;top&quot;>Start ART (<strong>1A</strong>) (include tenofovir-DF and emtricitabine or tenofovir-AF and emtricitabine)</td>
+            <td valign=&quot;top&quot;>Start ART before HCV treatment commenced (<strong>1C</strong>); acceptable to defer if CD4 cell count &amp;gt;500 cells/&amp;micro;L. Discuss with HIV and viral hepatitis specialist.</td>
+            <td valign=&quot;top&quot;>Start ART (<strong>1A</strong>)</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>ART: antiretroviral therapy</p>
+<p class=&quot;Note&quot;>*See the National Guideline Clearinghouse (NGC) summary of the <a href=&quot;/summaries/summary/47758&quot; title=&quot;Guideline #10199&quot; target=&quot;_blank&quot;>British HIV Association guidelines for the management of hepatitis viruses in adults infected with HIV 2013</a> for indications to treat hepatitis B and C.</p>
+<p><em>Hepatitis B</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>When to Start ART in HBV Co-Infection</span></p>
+<p>The Writing Group recommends individuals with HIV and HBV co-infection are treated with fully suppressive ART inclusive of anti-HBV active antivirals, regardless of CD4 cell count (<strong>1A</strong>).</p>
+<p>The Writing Group recommends individuals with HIV and HBV co-­infection who have an HBV-DNA &amp;ge;2000 IU/mL and/or evidence of more than minimal fibrosis (Metavir &amp;ge;F2) are treated with fully suppressive ART inclusive of anti-HBV active antivirals promptly (<strong>1C</strong>).</p>
+<p><span style=&quot;text-decoration: underline;&quot;>What to Start in HBV Co-Infection</span></p>
+<p>The Writing Group recommends tenofovir-DF/emtricitabine or tenofovir-AF/emtricitabine as part of a fully suppressive ART combination should be given to all individuals starting HIV treatment (<strong>1C</strong>).</p>
+<p>In the absence of renal or bone disease or significant predisposing risk factors for their development, tenofovir-DF can be used unless otherwise contraindicated (<strong>1C</strong>).</p>
+<p>The Writing Group recommends patients with established renal disease with creatinine clearance &amp;ge;30ml/min or osteoporosis or significant predisposing factors for their development should be given tenofovir-AF (<strong>1D</strong>).</p>
+<p>The Writing Group recommends lamivudine/emtricitabine may be omitted from the ART regimen and tenofovir-DF or tenofovir-AF be given as the sole anti-HBV active agent if there is clinical or genotypic evidence of lamivudine/emtricitabine-resistant HBV or HIV (<strong>1D</strong>).</p>
+<p>The Writing Group recommends neither lamivudine nor emtricitabine be used as the sole active drug against HBV in ART due to the rapid emergence of HBV resistant to these agents (<strong>1B</strong>).</p>
+<p>The Writing Group recommends lamivudine/emtricitabine may be omitted from the ART regimen and tenofovir-DF or tenofovir-AF be given as the sole anti-HBV active agent if there is clinical or genotypic evidence of lamivudine/emtricitabine-resistant HBV or HIV (<strong>1D</strong>).</p>
+<p><em>Hepatitis C</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>When to Start ART in HCV Co-Infection</span></p>
+<p>The Writing Group recommends all individuals with HIV and HCV co-infection be assessed for HCV treatment (<strong>GPP</strong>).</p>
+<p>The Writing Group recommends commencing ART regardless of CD4 cell count (<strong>1A</strong>).</p>
+<p>The Writing Group recommends HCV be considered an additional factor supporting ART in individuals with CD4 &amp;gt;500 cells/&amp;mu;L who are uncertain about commencing ART (<strong>2C</strong>).</p>
+<p>The Writing Group suggests treating HCV before commencing ART is an option if there are concerns about drug&amp;ndash;drug interactions or adherence (<strong>GPP</strong>).</p>
+<p><span style=&quot;text-decoration: underline;&quot;>What to Start in HCV Co-Infection</span></p>
+<p>The Writing Group recommends if individuals are commencing ART, and direct-acting antivirals are not being considered, standard first-line ART should be commenced (<strong>GPP</strong>).</p>
+<p>The Writing Group recommends that direct-acting antivirals are to be used, there is careful consideration of possible drug-drug interactions (<strong>1C</strong>) and current or archived HIV resistance. All drug interactions should be checked with an expert source (e.g., <a href=&quot;http://www.hiv-druginteractions.org&quot; title=&quot;HIV Drug Interactions Web site&quot;>www.hiv-druginteractions.org</a>).</p>
+<p>The Writing Group suggest that if abacavir is to be used with ribavirin, the ribavirin should be weight-based dose-adjusted (<strong>2C</strong>).</p>
+<p><strong>HIV-Related Cancers</strong></p>
+<p>Please see the NGC summary of the <a href=&quot;/summaries/summary/47858&quot; title=&quot;Guideline #10275&quot; target=&quot;_blank&quot;>British HIV Association guidelines for HIV-associated malignancies 2014</a> for further details.</p>
+<p><em>When to Start ART</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>AIDS-Defining Malignancies</span></p>
+<p>The Writing Group recommends that all patients with AIDS-defining malignancies should start ART promptly (<strong>1B</strong>).</p>
+<p>Kaposi Sarcoma (KS)</p>
+<p>The Writing Group recommends that ART should be started promptly in all individuals diagnosed with KS (<strong>1B</strong>).</p>
+<p>Non-Hodgkin Lymphoma (NHL)</p>
+<p>The Writing Group recommends that chemotherapy regimens should be combined with ART in Burkitt lymphoma and diffuse large B-cell lymphoma (<strong>1B</strong>).</p>
+<p>The Writing Group recommends that all individuals with primary effusion lymphoma (PEL), plasmablastic lymphoma and primary central nervous system lymphoma should be started on ART if not already on it (<strong>1C</strong>).</p>
+<p>Cervical Cancer</p>
+<p>The Writing Group suggests that women with cervical intra-epithelial neoplasia (CIN)2/3 should commence ART promptly (<strong>2B</strong>).</p>
+<p>The Writing Group recommends that all women living with HIV who are to be treated with chemoradiotherapy (CRT) for cervical cancer should start ART promptly (<strong>1C</strong>).</p>
+<p><span style=&quot;text-decoration: underline;&quot;>Non-AIDS-Defining Malignancies</span></p>
+<p>Anal Cancer</p>
+<p>The Writing Group recommends that all PLWH who are to be treated with chemoradiotherapy should start ART (<strong>1C</strong>).</p>
+<p>Hodgkin Lymphoma</p>
+<p>The Writing Group recommends all PLWH and Hodgkin lymphoma should receive ART during chemotherapy (<strong>1A</strong>).</p>
+<p>Other Non-AIDS-Defining Cancers</p>
+<p>The Writing Group suggests all PLWH who require chemotherapy or radical radiotherapy should receive concomitant ART unless contraindicated (<strong>2C</strong>).</p>
+<p><em>What to Start</em></p>
+<p>The Writing Group recommends that all potential interactions between ART, opportunistic infection prophylaxis and cancer therapy should be considered (<strong>1C</strong>).</p>
+<p>The Writing Group suggests that all individuals with non-AIDS-defining malignancies who are due to start chemotherapy or radiotherapy should be started on ART unless contraindicated (<strong>2C</strong>).</p>
+<p><em>Opportunistic Infection Prophylaxis in HIV-Associated Malignancy</em></p>
+<p>The Writing Group recommends that all individuals with AIDS-defining malignancies should start ART immediately (<strong>1B</strong>).</p>
+<p>The Writing Group suggests that all individuals with non-AIDS-defining malignancies who are due to start chemotherapy or radiotherapy should be started on ART immediately unless contraindicated (<strong>2C</strong>).</p>
+<p>The Writing Group recommends that individuals with antibodies against hepatitis B core antigen (HBcAb) should be treated with prophylactic antivirals in line with BHIVA hepatitis guidelines (<strong>1B</strong>).</p>
+<p><em>Other Considerations from the BHIVA Guidelines for HIV-Associated Malignancies</em></p>
+<p>The Writing Group recommends that potential pharmacokinetic interactions between antiretrovirals and systemic anticancer therapy are checked prior to administration (with tools such as <a href=&quot;http://www.hiv-druginteractions.org&quot; title=&quot;HIV Drug Interactions Web site&quot;>www.hiv-druginteractions.org</a>) (<strong>1C</strong>).</p>
+<p>The Writing Group suggests avoiding ritonavir (or cobicistat)-boosted ART in HIV-positive individuals who are to receive cytotoxic chemotherapy agents that are metabolised by the CYP450 enzyme system (<strong>2C</strong>).</p>
+<p>The Writing Group suggests avoiding atazanavir in HIV-positive individuals who are to receive irinotecan (<strong>2C</strong>).</p>
+<p>The Writing Group suggests switching antiretroviral agents in HIV-positive patients who are to receive cytotoxic chemotherapy agents to avoid severe and/or overlapping toxicities (<strong>2C</strong>).</p>
+<p>Medicines reconciliation prior to chemotherapy to minimise potential pharmacokinetic interactions and overlapping toxicity should be undertaken by an experienced pharmacist (<strong>GPP</strong>).</p>
+<p><strong>HIV-Associated Neurocognitive (NC) Impairment</strong></p>
+<p><em>When to Start ART</em></p>
+<p>The Writing Group recommends individuals with symptomatic HIV-associated NC disorders start ART <span style=&quot;text-decoration: underline;&quot;>immediately</span>, irrespective of CD4 cell count (<strong>1C</strong>).</p>
+<p><em>What to Start</em></p>
+<p>The Writing Group recommends individuals with HIV-associated NC disorders start standard combination ART regimens (<strong>1C</strong>).</p>
+<p>The Writing Group recommends avoiding efavirenz-containing regimens in individuals with HIV-associated NC disorders (<strong>1C</strong>).</p>
+<p><em>Continuing or Worsening NC Impairment Despite ART</em></p>
+<p>Best practice management should include (<strong>GPP</strong>):</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Reassessment for confounding conditions</li>
+    <li>Assessment of cerebrospinal fluid (CSF) HIV ribonucleic acid (RNA) and genotyping of CSF HIV RNA</li>
+    <li>In subjects with detectable CSF HIV RNA, modifications to ART should be based on paired plasma and CSF genotypic results</li>
+</ul>
+<p><strong>Chronic Kidney Disease</strong></p>
+<p><em>When to Start Antiretroviral Therapy</em></p>
+<p>The Writing Group recommends individuals with HIV-associated nephropathy (HIVAN) start ART immediately irrespective of CD4 cell count (<strong>1C</strong>).</p>
+<p>The Writing Group recommends individuals with end-stage kidney disease who are suitable candidates for renal transplantation start ART immediately (<strong>1C</strong>).</p>
+<p><em>What to Start</em></p>
+<p>The Writing Group recommends against the use of ARV drugs that are potentially nephrotoxic in individuals with stages 3&amp;ndash;5 chronic kidney disease (CKD) if acceptable alternative ARV agents are available (<strong>GPP</strong>).</p>
+<p>The Writing Group recommends dose adjustment of renally cleared ARV drugs in individuals with reduced renal function (<strong>GPP</strong>).</p>
+<p><em>Need to Switch</em></p>
+<p>The Writing Group recommends against continued use of tenofovir-DF and atazanavir in individuals with worsening renal function who have developed or are approaching CKD stages 3&amp;ndash;5 if acceptable alternative ARV agents are available (<strong>GPP</strong>).</p>
+<p><strong>Cardiovascular Disease</strong></p>
+<p><em>Definition and Assessment of Cardiovascular Disease Risk</em></p>
+<p>The Writing Group suggests that the coronary heart disease (CHD) risk of HIV-positive adults of white ethnicity is estimated as per the BHIVA guidelines for the routine investigation and monitoring of adult HIV-1-infected individuals (<a href=&quot;http://www.bhiva.org/monitoring-guidelines.aspx&quot; title=&quot;BHIVA Web site&quot;>www.bhiva.org/monitoring-guidelines.aspx</a>) (<strong>2C</strong>).</p>
+<p><em>What to Start</em></p>
+<p>In individuals with a high cardiovascular disease (CVD) risk:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends use of alternatives to fosamprenavir/r (<strong>1C</strong>) and lopinavir/r (<strong>1C</strong>). </li>
+    <li>The Writing Group suggests that atazanavir/r is the preferred PI (<strong>2C</strong>). </li>
+    <li>The Writing Group suggests avoiding abacavir (<strong>2C</strong>) and maraviroc if an acceptable alternative is available. </li>
+    <li>First-line ARV therapy with tenofovir-DF plus (emtricitabine or lamivudine) with dolutegravir or raltegravir or rilpivirine (if viral load &amp;lt;100,000 copies/mL) are preferred first-line regimens (<strong>GPP</strong>). </li>
+    <li>Adverse effects on lipid parameters should be considered when selecting ARVs (<strong>GPP</strong>). </li>
+</ul>
+<p><em>Modification of CVD Risk Factors</em></p>
+<p>In patients with a high CVD risk:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends that traditional modifiable risk factors should be minimised; smoking cessation is of critical importance (<strong>1A</strong>). </li>
+    <li>The Writing Group suggests that that this should include switching ARVs to those with a more favourable metabolic profile but only where there is minimal risk of treatment failure (<strong>2C</strong>). </li>
+</ul>
+<p><strong>Women</strong></p>
+<p class=&quot;Note&quot;><strong>Note</strong>: The following guidance considers issues concerning the initiation and choice of ART for HIV-positive women who are not currently pregnant. For guidance on the management of pregnancy in HIV-positive women please refer to the <a href=&quot;http://www.bhiva.org/pregnancy-guidelines.aspx&quot; title=&quot;BHIVA Web site&quot;>BHIVA guidelines for the management of HIV infection in pregnant women</a>.</p>
+<p><em>When to Start</em></p>
+<p>The Writing Group recommends therapy-na&amp;iuml;ve HIV-positive women who are not pregnant start ART (<strong>1A</strong>).</p>
+<p><em>What to Start</em></p>
+<p>There are insufficient data to support specific recommendations for HIV-positive non-pregnant women. The Writing Group therefore recommends therapy-na&amp;iuml;ve HIV-positive women start ART as per general guidelines (<strong>1A</strong>).</p>
+<p>The Writing Group recommends both HIV-positive women of childbearing potential and healthcare professionals who prescribe ART are conversant with the benefits and risks of ARV agents for both the health of the HIV-positive woman and for that of an unborn child (<strong>GPP</strong>).</p>
+<p>The Writing Group recommends that potential pharmacokinetic interactions between ARVs, hormonal contraceptive agents and hormone replacement therapy are checked before administration (<strong>GPP</strong>).</p>
+<p><strong>Mental Health</strong></p>
+<p><em>What to Start</em></p>
+<p>The Writing Group recommends that efavirenz-containing regimens be avoided in individuals with a current or past history of depression, psychosis, suicidal ideation or attempted suicide, or at risk of self-harm (<strong>1C</strong>).</p>
+<p><em>Switching Therapy</em></p>
+<p>The Writing Group recommends that efavirenz-containing regimens should be switched promptly to a viable alternative when PLWH present with depression, psychosis, suicidal ideation or attempted suicide, or self-harm (<strong>1C</strong>).</p>
+<p><strong>Adolescents</strong></p>
+<p><em>Recommendations for Management of HIV, ART and Sexual and Reproductive Health Specifically for Perinatally Acquired HIV</em></p>
+<p>Avoid standard-dose (600 mg) efavirenz-based regimens in any young person &amp;lt;50 kg, with any history of mental health or psychological or NC problems.</p>
+<p><strong>Bone Disease and Antiretroviral Therapy</strong></p>
+<p><em>When to Start Antiretroviral Therapy</em></p>
+<p>The Writing Group recommends that general recommendations for the timing of ART are followed in patients with, or at risk of osteoporosis (<strong>1D</strong>).</p>
+<p><em>What to Start</em></p>
+<p>The Writing Group recommends against the use of tenofovir-DF in individuals aged &amp;gt;40 years with osteoporosis, a history of fragility fracture, or a FRAX score consistent with high risk of major osteoporotic fracture, if acceptable alternative ARV agents are available (<strong>1B</strong>).</p>
+<p><em>Switching Treatment</em></p>
+<p>The Writing Group recommends against continued use of tenofovir-DF in individuals &amp;gt;40 years who are diagnosed with osteoporosis, have sustained a fragility fracture, or have a FRAX score of &amp;gt;20% (major osteoporotic fracture) if acceptable alternative ARV agents are available (<strong>1C</strong>).</p>
+<p><strong>Considerations for Later Life</strong></p>
+<p><em>When to Start ART</em></p>
+<p>The Writing Group recommends standard criteria are used to determine when to commence antiretroviral therapy in older PLWH (<strong>1C</strong>).</p>
+<p><em>What to Start</em></p>
+<p>The Writing Group recommends standard antiretroviral regimens are commenced in older PLWH (<strong>1C</strong>).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Quality of Evidence</strong></p>
+<p><strong>Grade A</strong> evidence means high-quality evidence that comes from consistent results from well-performed randomised controlled trials (RCTs), or overwhelming evidence of some other sort (such as well-executed observational studies with consistent strong effects and a low likelihood of uncorrected bias). Grade A implies confidence that the true effect lies close to the estimate of the effect.</p>
+<p><strong>Grade B</strong> evidence means moderate-quality evidence from randomised trials that suffer from serious flaws in conduct, inconsistency, indirectness, imprecise estimates, reporting bias, or some combination of these limitations, or from other study designs with special strengths such as observational studies with consistent effects and exclusion of most potential sources of bias.</p>
+<p><strong>Grade C</strong> evidence means low-quality evidence from controlled trials with several very serious limitations or observational studies with limited evidence on effects and exclusion of most potential sources of bias.</p>
+<p><strong>Grade D</strong> evidence, on the other hand, is based only on case studies, expert judgement or observational studies with inconsistent effects and a potential for substantial bias, such that there is likely to be little confidence in the effect estimate.</p>
+<p><strong>Summary of the Modified Grading of Recommendations Assessment, Development and Evaluation (GRADE) System</strong></p>
+<p><em>1A</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Strong recommendation </li>
+    <li>High-quality evidence </li>
+    <li>Benefits clearly outweigh risk and burdens, or vice versa </li>
+    <li>Consistent evidence from well performed randomised controlled trials (RCTs) or overwhelming evidence of some other form. Further research is unlikely to change confidence in the estimate of benefit and risk. </li>
+    <li>Strong recommendations, can apply to most patients in most circumstances without reservation. </li>
+    <li>Clinicians should follow a strong recommendation unless there is a clear rationale for an alternative approach. </li>
+</ul>
+<p><em>1B</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Strong recommendation </li>
+    <li>Moderate-quality evidence </li>
+    <li>Benefits clearly outweigh risk and burdens, or vice versa </li>
+    <li>Evidence from RCTs with important limitations (inconsistent results, methods flaws, indirect or imprecise), or very strong evidence of some other research design. Further research may impact on confidence in the estimate of benefit and risk. </li>
+    <li>Strong recommendation and applies to most patients </li>
+    <li>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present. </li>
+</ul>
+<p><em>1C</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Strong recommendation </li>
+    <li>Low-quality evidence </li>
+    <li>Benefits appear to outweigh risk and burdens, or vice versa </li>
+    <li>Evidence from observational studies, unsystematic clinical experience, or from RCTs with serious flaws. Any estimate of effect is uncertain. </li>
+    <li>Strong recommendation, and applies to most patients. Some of the evidence base supporting the recommendation is, however, of low quality. </li>
+</ul>
+<p><em>1D</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Strong recommendation </li>
+    <li>Very low-quality evidence </li>
+    <li>Benefits appear to outweigh risk and burdens, or vice versa </li>
+    <li>Evidence limited to case studies </li>
+    <li>Strong recommendation based mainly on case studies and expert judgment </li>
+</ul>
+<p><em>2A</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Weak recommendation </li>
+    <li>High-quality evidence </li>
+    <li>Benefits closely balanced with risks and burdens </li>
+    <li>Consistent evidence from well performed RCTs or overwhelming evidence of some other form. Further research is unlikely to change confidence in the estimate of benefit and risk. </li>
+    <li>Weak recommendation, best action may differ depending on circumstances or patients or societal values </li>
+</ul>
+<p><em>2B</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Weak recommendation </li>
+    <li>Moderate-quality evidence </li>
+    <li>Benefits closely balanced with risks and burdens, some uncertainty in the estimates of benefits, risks and burdens </li>
+    <li>Evidence from RCTs with important limitations (inconsistent results, methods flaws, indirect or imprecise). Further research may change the estimate of benefit and risk. </li>
+    <li>Weak recommendation; alternative approaches likely to be better for some patients under some circumstances </li>
+</ul>
+<p><em>2C</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Weak recommendation </li>
+    <li>Low-quality evidence </li>
+    <li>Uncertainty in the estimates of benefits, risks, and burdens; benefits may be closely balanced with risks and burdens. </li>
+    <li>Evidence from observational studies, unsystematic clinical experience, or from RCTs with serious flaws. Any estimate of effect is uncertain. </li>
+    <li>Weak recommendation; other alternatives may be reasonable. </li>
+</ul>
+<p><em>2D</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Weak recommendation </li>
+    <li>Very low-quality evidence </li>
+    <li>Uncertainty in the estimates of benefits, risks, and burdens; benefits may be closely balanced with risks and burdens. </li>
+    <li>Evidence limited to case studies and expert judgment </li>
+    <li>Very weak recommendation; other alternatives may be equally reasonable. </li>
+</ul>
+<p><em>Good Practice Points</em></p>
+<p>In addition to graded recommendations, BHIVA writing group has also included GPP, which are recommendations based on the clinical judgement and experience of the working group.</p>
+<p>GPPs emphasise an area of important clinical practice for which there is not, nor is there likely to be, any significant research evidence. They address an aspect of treatment and care that is regarded as such sound clinical practice that healthcare professionals are unlikely to question it and where the alternative recommendation is deemed unacceptable. It must be emphasised that GPPs are not an alternative to evidence-based recommendations.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Human immunodeficiency virus (HIV) infection </li>
+    <li>Acquired immune deficiency syndrome (AIDS) </li>
+</ul>"/>
+    </field>
+    <field fieldid="4622" ordby="408" id="703" name="Other Disease/Condition(s) Addressed" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Cancer </li>
+    <li>Cardiovascular disease </li>
+    <li>Depression </li>
+    <li>Hepatitis B and C </li>
+    <li>Osteoporosis </li>
+    <li>Psychosis </li>
+    <li>Tuberculosis </li>
+</ul>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Geriatrics"/>
+      <fieldvalue value="Hematology"/>
+      <fieldvalue value="Infectious Diseases"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Nursing"/>
+      <fieldvalue value="Pediatrics"/>
+      <fieldvalue value="Preventive Medicine"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Pharmacists"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Psychologists/Non-physician Behavioral Health Clinicians"/>
+      <fieldvalue value="Public Health Departments"/>
+      <fieldvalue value="Social Workers"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To provide guidance on best clinical practice in the treatment and management of adults with human immunodeficiency virus (HIV) infection on antiretroviral therapy (ART), including:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Guidance on the initiation of ART in those previously na&amp;iuml;ve to therapy </li>
+    <li>Support of people living with HIV (PLWH) on treatment </li>
+    <li>Management of individuals experiencing virological failure </li>
+    <li>Recommendations in specific populations where other factors need to be taken into consideration </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adults and adolescents with human immunodeficiency virus (HIV) infection or acquired immune deficiency syndrome (AIDS)</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Patient involvement in decision-making </li>
+    <li>Provision of treatment support resources </li>
+    <li>Decisions on when to start antiretroviral therapy (ART) in patients with chronic infection, patients presenting with acquired immune deficiency syndrome (AIDS) or a major infection, treatment of primary human immunodeficiency virus (HIV) infection, and treatment to reduce transmission </li>
+    <li>ART
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Nucleoside reverse transcriptase inhibitor (NRTI) backbone (tenofovir disoproxil fumarate [DF] and emtricitabine [FTC] or tenofovir alafenamide [AF] and emtricitabine preferred; abacavir and lamivudine alternative) </li>
+        <li>Choice of a third agent (ritonavir-boosted protease inhibitor, cobicistat-boosted protease inhibitor, non-nucleoside reverse transcriptase inhibitor [NNRTI], or an integrase inhibitor) </li>
+        <li>Novel ART strategies (in general, recommended against) </li>
+    </ul>
+    </li>
+    <li>Supporting patients on therapy
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Interventions to increase adherence to treatment </li>
+        <li>Monitoring drug interactions </li>
+        <li>Therapeutic drug monitoring </li>
+        <li>Pharmacological considerations in switching/stopping therapy </li>
+        <li>Switching antiretrovirals in combination ART </li>
+        <li>Stopping therapy (not recommended in stable patients) </li>
+    </ul>
+    </li>
+    <li>Managing virological failure </li>
+    <li>ART in specific populations (timing of treatment and choice of specific drugs)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Patients receiving tuberculosis (TB) therapy </li>
+        <li>Patients with viral hepatitis coinfection </li>
+        <li>Patients with HIV-related cancers </li>
+        <li>Patients with HIV-associated neurocognitive impairment </li>
+        <li>Patients with chronic kidney disease </li>
+        <li>Patients with high cardiovascular disease risk </li>
+        <li>HIV-infected women </li>
+        <li>Patients with mental health disorders </li>
+        <li>Adolescents </li>
+        <li>Bone disease and antiretroviral therapy </li>
+        <li>Considerations for later life </li>
+    </ul>
+    </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Death </li>
+    <li>Acquired immune deficiency syndrome (AIDS) </li>
+    <li>Non-AIDS co­-morbidities </li>
+    <li>Drug adverse events </li>
+    <li>Drug resistance </li>
+    <li>Human immunodeficiency virus (HIV) transmission/incidence (including HIV transmission to negative partner) </li>
+    <li>Time to CD4 count &amp;lt;350 cells/&amp;mu;L </li>
+    <li>Post-treatment control of viral load </li>
+    <li>New AIDS diagnosis </li>
+    <li>Immune reconstitution disorders </li>
+    <li>Virological suppression (viral load [VL] &amp;lt;50 copies/ml) </li>
+    <li>Virological failure </li>
+    <li>Discontinuing regimen secondary to adverse events (AEs) (or for any reason) </li>
+    <li>Grade 3/4 AEs </li>
+    <li>Emergent HIV drug resistance </li>
+    <li>CD4 count </li>
+    <li>Progressive HIV neurocognitive disorders </li>
+    <li>Bone disease or fractures </li>
+    <li>Psychiatric illness </li>
+    <li>Hyperlipidaemia </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Questions concerning each guideline topic were drafted and a systematic literature search was undertaken by an information scientist. Details of the search questions and strategy (including the definition of populations, interventions and outcomes) are outlined in Appendix 2 (see the &quot;Availability of Companion Documents&quot; field). British HIV Association (BHIVA) guidelines for the treatment of HIV-1-infected adults with antiretroviral therapy were last published in 2013. For the 2015 guidelines Medline, EMBASE and the Cochrane library were searched between October 2011 and August 2014. Abstracts from selected conferences were searched between 1 January 2011 and July 2015. For each topic and healthcare question, evidence was identified and evaluated by Writing Group members with expertise in the field.</p>
+<p>For the 2016 interim update the panel reviewed newly licensed products and the writing panel developed a consensus opinion based on critical endpoints; appropriate sections were updated. </p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>In total, the literature search provided 4834 references. After application of inclusion/exclusion criteria and removal of duplicates, 750 documents were used in support of the guideline</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Quality of Evidence</span></strong></p>
+<p><strong>Grade A</strong> evidence means high-quality evidence that comes from consistent results from well-performed randomised controlled trials (RCTs), or overwhelming evidence of some other sort (such as well-executed observational studies with consistent strong effects and a low likelihood of uncorrected bias). Grade A implies confidence that the true effect lies close to the estimate of the effect.</p>
+<p><strong>Grade B</strong> evidence means moderate-quality evidence from randomised trials that suffer from serious flaws in conduct, inconsistency, indirectness, imprecise estimates, reporting bias, or some combination of these limitations, or from other study designs with special strengths such as observational studies with consistent effects and exclusion of most potential sources of bias.</p>
+<p><strong>Grade C</strong> evidence means low-quality evidence from controlled trials with several very serious limitations or observational studies with limited evidence on effects and exclusion of most potential sources of bias.</p>
+<p><strong>Grade D</strong> evidence, on the other hand, is based only on case studies, expert judgement or observational studies with inconsistent effects and a potential for substantial bias, such that there is likely to be little confidence in the effect estimate.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>For each topic and healthcare question, evidence was identified and evaluated by Writing Group members with expertise in the field. Using the modified Grading of Recommendations Assessment, Development, and Evaluation (GRADE) system, Writing Group members were responsible for assessing and grading the quality of evidence for predefined outcomes across studies and developing and grading the strength of recommendations (see the &quot;Rating Scheme for the Strength of the Evidence&quot; and the &quot;Rating Scheme for the Strength of the Recommendations&quot; fields). An important aspect of evaluating evidence is an understanding of the design and analysis of clinical trials, including the use of surrogate marker data. Decisions regarding the clinical importance of difference in outcomes are made by the writing panel.</p>
+<p>For a number of questions, GRADE evidence profile and summary of findings tables were constructed, using predefined and rated treatment outcomes (see Appendix 3 [see the &quot;Availability of Companion Documents&quot; field]), to help achieve consensus for key recommendations and aid transparency of the process.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Guideline Development Process</span></strong></p>
+<p>The British HIV Association (BHIVA) fully revised and updated the association's guideline development manual in 2011 (see the &quot;Availability of Companion Documents&quot; field). Further updates have been carried out subsequently. Full details of the guideline development process, including conflict of interest policy, are outlined in the manual. BHIVA has adopted the modified Grading of Recommendations Assessment, Development and Evaluation (GRADE) system for the assessment, evaluation and grading of evidence and development of recommendations (see the &quot;Rating Scheme for the Strength of the Evidence&quot; and &quot;Rating Scheme for the Strength of the Recommendations&quot; fields).</p>
+<p>The scope, purpose and guideline topics were agreed by the Writing Group. Questions concerning each guideline topic were drafted and a systematic literature search was undertaken by an information scientist.</p>
+<p>For a number of questions, GRADE evidence profile and summary of findings tables were constructed, using predefined and rated treatment outcomes (see Appendix 3 [see the &quot;Availability of Companion Documents&quot; field]), to help achieve consensus for key recommendations and aid transparency of the process.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Involvement of People Living with HIV (PLWH)</span></strong></p>
+<p>BHIVA views the involvement of PLWH and community representatives in the guideline development process as essential. The Writing Group included two representatives appointed through the UK HIV Community Advisory Board (UK-CAB) who were involved in all aspects of the guideline development process. Community groups were invited to participate in the draft guideline consultation process and a community consultation was held on 6th August 2015.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>GRADE</span></strong></p>
+<p>The GRADE Working Group has developed an approach to grading evidence that moves away from initial reliance on study design to consider the overall quality of evidence across outcomes. BHIVA has adopted the modified GRADE system for its guideline development.</p>
+<p>The advantages of the modified GRADE system are (i) the grading system provides an informative, transparent summary for clinicians, PLWH and policy makers by combining an explicit evaluation of the strength of the recommendation with a judgement of the quality of the evidence for each recommendation, and (ii) the two-level grading system of recommendations has the merit of simplicity and provides clear direction to PLWH, clinicians and policy makers.</p>
+<p>The strength of recommendation is graded as 1 or 2 as follows:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A Grade 1 recommendation is a strong recommendation to do (or not do) something, where the benefits clearly outweigh the risks (or vice versa) for most, if not all PLWH. Most clinicians and HIV-positive individuals should and would want to follow a strong recommendation unless there is a clear rationale for an alternative approach. A strong recommendation usually starts with the standard wording 'The Writing Group recommends'. </li>
+    <li>A Grade 2 recommendation is a weaker or conditional recommendation, where the risks and benefits are more closely balanced or are more uncertain. Most clinicians and PLWH would want to follow a weak or conditional recommendation but many would not. Alternative approaches or strategies may be reasonable depending on the individual HIV-positive individual's circumstances, preferences and values. A weak or conditional recommendation usually starts with the standard wording 'The Writing Group suggests'. </li>
+</ul>
+<p>The strength of a recommendation is determined not only by the quality of evidence for defined outcomes but also the balance between desirable and undesirable effects of a treatment or intervention, differences in values and preferences and, where appropriate, resource use. Each recommendation concerns a defined target population and is actionable.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Summary of the Modified Grading of Recommendations Assessment, Development and Evaluation (GRADE) System</span></strong></p>
+<p><strong>1A</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Strong recommendation</li>
+    <li>High-quality evidence</li>
+    <li>Benefits clearly outweigh risk and burdens, or vice versa</li>
+    <li>Consistent evidence from well performed randomised controlled trials (RCTs) or overwhelming evidence of some other form. Further research is unlikely to change confidence in the estimate of benefit and risk. </li>
+    <li>Strong recommendations, can apply to most patients in most circumstances without reservation. </li>
+    <li>Clinicians should follow a strong recommendation unless there is a clear rationale for an alternative approach. </li>
+</ul>
+<p><strong>1B</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Strong recommendation </li>
+    <li>Moderate-quality evidence</li>
+    <li>Benefits clearly outweigh risk and burdens, or vice versa</li>
+    <li>Evidence from RCTs with important limitations (inconsistent results, methods flaws, indirect or imprecise), or very strong evidence of some other research design. Further research may impact on confidence in the estimate of benefit and risk. </li>
+    <li>Strong recommendation and applies to most patients</li>
+    <li>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present. </li>
+</ul>
+<p><strong>1C</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Strong recommendation</li>
+    <li>Low-quality evidence</li>
+    <li>Benefits appear to outweigh risk and burdens, or vice versa</li>
+    <li>Evidence from observational studies, unsystematic clinical experience, or from RCTs with serious flaws. Any estimate of effect is uncertain. </li>
+    <li>Strong recommendation, and applies to most patients. Some of the evidence base supporting the recommendation is, however, of low quality. </li>
+</ul>
+<p><strong>1D</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Strong recommendation</li>
+    <li>Very low-quality evidence</li>
+    <li>Benefits appear to outweigh risk and burdens, or vice versa</li>
+    <li>Evidence limited to case studies</li>
+    <li>Strong recommendation based mainly on case studies and expert judgment</li>
+</ul>
+<p><strong>2A</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Weak recommendation</li>
+    <li>High-quality evidence</li>
+    <li>Benefits closely balanced with risks and burdens </li>
+    <li>Consistent evidence from well performed RCTs or overwhelming evidence of some other form. Further research is unlikely to change confidence in the estimate of benefit and risk. </li>
+    <li>Weak recommendation, best action may differ depending on circumstances or patients or societal values</li>
+</ul>
+<p><strong>2B</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Weak recommendation</li>
+    <li>Moderate-quality evidence</li>
+    <li>Benefits closely balanced with risks and burdens, some uncertainty in the estimates of benefits, risks and burdens</li>
+    <li>Evidence from RCTs with important limitations (inconsistent results, methods flaws, indirect or imprecise). Further research may change the estimate of benefit and risk. </li>
+    <li>Weak recommendation; alternative approaches likely to be better for some patients under some circumstances</li>
+</ul>
+<p><strong>2C</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Weak recommendation</li>
+    <li>Low-quality evidence</li>
+    <li>Uncertainty in the estimates of benefits, risks, and burdens; benefits may be closely balanced with risks and burdens. </li>
+    <li>Evidence from observational studies, unsystematic clinical experience, or from RCTs with serious flaws. Any estimate of effect is uncertain. </li>
+    <li>Weak recommendation; other alternatives may be reasonable. </li>
+</ul>
+<p><strong>2D</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Weak recommendation</li>
+    <li>Very low-quality evidence</li>
+    <li>Uncertainty in the estimates of benefits, risks, and burdens; benefits may be closely balanced with risks and burdens. </li>
+    <li>Evidence limited to case studies and expert judgment</li>
+    <li>Very weak recommendation; other alternatives may be equally reasonable. </li>
+</ul>
+<p><strong>Good Practice Points</strong></p>
+<p>In addition to graded recommendations, the British HIV Association (BHIVA) Writing Group has also included good practice points (GPP), which are recommendations based on the clinical judgement and experience of the working group.</p>
+<p>GPPs emphasise an area of important clinical practice for which there is not, nor is there likely to be, any significant research evidence. They address an aspect of treatment and care that is regarded as such sound clinical practice that healthcare professionals are unlikely to question it and where the alternative recommendation is deemed unacceptable. It must be emphasised that GPPs are not an alternative to evidence-based recommendations.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Resource Use</span></strong></p>
+<p>Antiretroviral therapy (ART) is extremely cost-effective and compares favourably with the cost of management of many other chronic diseases. Estimates of the cost-­effectiveness of ART have been assessed in studies in North America and Europe. Their findings have been consistent with an estimated incremental cost-effectiveness ratio of about US$20,000 per quality adjusted life year (QALY) for combination ART compared with no therapy based on drug costs and treatment patterns in the USA and Europe. The primary aim of these guidelines is to summarise and base recommendations on the clinical benefits of ART and different ART options.</p>
+<p>The number of people living with human immunodeficiency virus (HIV) infection in the UK continues to increase and by the end of 2013 was estimated to be 107,800 (95% credible interval 101,600&amp;ndash;115,800), of whom 24% were undiagnosed. In 2013, 90% (73,290/81,510) of people seen for HIV care were prescribed ART. With ongoing HIV transmission, increased HIV testing and a reduction in the undiagnosed fraction, the number of people diagnosed with HIV and accessing HIV services will continue to increase. It has been estimated that the annual population treatment and care costs rose from &amp;pound;104 million in 1997 to &amp;pound;483 million in 2006, rising to a projected annual cost of &amp;pound;721 million in 2013. It is likely this estimated projected cost is an overestimate due to various factors, including earlier diagnosis and a lower proportion of individuals with symptoms. However, in the current economic climate containing and reducing costs without affecting the current high standards of care and treatment outcomes will be an immense challenge to commissioners, healthcare professionals and people living with HIV (PLWH) alike. A collaborative approach is required.</p>
+<p>In the UK, higher annual treatment and care costs have been associated with late diagnosis and initiation of ART at lower CD4 cell counts than the British HIV Association (BHIVA) guidelines recommend. In addition to earlier diagnosis and initiation of ART, reducing inpatient episodes, decreasing drug toxicity, preventing HIV-associated co-morbidities and innovations in models of care are likely to have a beneficial effect on costs. However, the cost of antiretroviral (ARV) drugs remains the major factor contributing to treatment and care costs. With the increasing availability of generic drugs and the introduction of a standard tariff for HIV services (in England), commissioners and the National Health Service (NHS) will be faced with difficult choices about the value and benefit of different ARV drugs.</p>
+<p>The BHIVA Writing Group recognises that cost of drugs is an important issue in the choice of ART regimens. In addition to drug acquisition costs there are costs associated with, for example, multidisciplinary team meetings, switching ART, co-morbidities and management of drug&amp;ndash;drug interactions. There are limited cost-effectiveness data in the UK comparing different ARV drugs and for this reason, the Writing Group did not include cost-effectiveness as an outcome in ART comparisons. However, the Writing Group believes that decreasing the risks of virological failure, drug resistance and drug-associated toxicity are likely to have a beneficial impact on long-term cost-effectiveness and resource use. In the setting of similar virological efficacy, determining the acceptable threshold at which differences in the risk of toxicity, tolerability and convenience outweigh differences in resource use and cost will be important. These thresholds may differ among clinicians and PLWH alike.</p>
+<p>In developing the recommendations in these guidelines, the Writing Group has taken into account differences in critical treatment outcomes between different drug regimens in determining preferred and alternative treatment regimens. The Writing Group recognises and supports that commissioning arrangements and local drug costs will and should influence ART choice where outcomes, across a range of clinical measures, are similar between individual drugs in the treatment of defined populations. However, the Writing Group believes that reducing treatment costs should not be at the cost of an increased risk of poorer treatment outcomes and quality of care, not least as these are likely to have a detrimental impact on long-term cost.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Before final approval by the writing group, the guidelines were published online for public consultation and an external peer review was commissioned.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The primary aim of antiretroviral therapy (ART) is the prevention of the mortality and morbidity associated with chronic human immunodeficiency virus (HIV) infection at low cost of drug toxicity. Treatment should improve the physical and psychological well-being of people living with HIV (PLWH). The effectiveness and tolerability of ART has improved significantly over the last 15 years. The overwhelming majority of PLWH attending HIV services in the UK and receiving ART experience long-term virological suppression and good treatment outcomes. </li>
+    <li>A further aim of treatment is the reduction in sexual transmission of HIV. The use of ART to prevent mother-to-child transmission is universally accepted and best practice is addressed in the British HIV Association (BHIVA) guidelines for the management of HIV infection in pregnant women. Recently, the size of the effect of ART on reducing the risk of sexual transmission of HIV has been estimated at &amp;gt;95%. </li>
+</ul>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Risk of adverse effects of antiretroviral therapy (ART), drug
+    interactions between antiretroviral drugs and concomitant medication,
+    and the development of antiretroviral drug resistance
+    </li>
+    <li>Possible adverse social consequences of ART, such as disclosure or interference with lifestyle</li>
+    <li>See  the &quot;Rationale&quot; sections of the original guideline document for specific information on adverse events reported in studies reviewed for this guideline. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Abacavir is contraindicated if an individual is HLA-B*57:01 positive. </li>
+    <li>Avoid standard-­dose (600 mg) efavirenz-based regimens in any young person &amp;lt;50 kg, with any history of mental health or psychological or neurocognitive problems. </li>
+    <li>Use of protease inhibitor (PI) has been associated with avascular necrosis of bone and these agents may thus be best avoided in those who have developed this complication. </li>
+    <li>The Writing Group suggests avoiding ritonavir (or cobicistat)-boosted antiretroviral therapy (ART) in human immunodeficiency virus (HIV)-positive individuals who are to receive cytotoxic chemotherapy agents that are metabolised by the CYP450 enzyme system. </li>
+    <li>The Writing Group suggests avoiding atazanavir in HIV-positive individuals who are to receive irinotecan. </li>
+    <li>Most drug interactions can be managed safely (i.e., with/without dosage modification, together with enhanced clinical vigilance)&amp;nbsp;but in some cases (e.g., rifampicin and protease inhibitors, proton pump inhibitors and atazanavir, inhaled fluticasone and ritonavir/cobicistat) the nature of the interaction is such that co-administration must be avoided and alternatives sought. </li>
+    <li>Zidovudine commonly causes myelosuppression and anaemia, which are also frequent side effects of cytotoxic chemotherapy and so these should not be co-prescribed where possible. Similarly, stavudine, didanosine and zalcitabine cause peripheral neuropathy, a common toxicity of taxanes and vinca alkaloids, so co-prescribing should be avoided. </li>
+    <li>ART with nephrotoxic potential (tenofovir and atazanavir) is probably best avoided in patients with kidney disease. </li>
+    <li>Tenofovir disoproxil fumarate (DF)/emtricitabine/elvitegravir/c fixed-­dose combination should not be initiated in individuals with creatinine clearance (CrCl) &amp;lt;70 mL/min; tenofovir alafenamide (AF)/emtricitabine/elvitegravir/c fixed-dose combination should not be initiated in patients with estimated CrCl &amp;lt;30mL/min. </li>
+    <li>The Writing Group suggests avoiding abacavir and maraviroc in patients with high cardiovascular disease (CVD) risk if an acceptable alternative is available. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Dissemination and Implementation</span></strong></p>
+<p>The following measures have or will be undertaken to disseminate and aid implementation of the guidelines:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>E-publication on the British HIV Association (BHIVA) Web site and the journal <em>HIV Medicine</em></li>
+    <li>Publication in <em>HIV Medicine</em></li>
+    <li>Shortened version detailing concise summary of recommendations</li>
+    <li>Shortened version for BHIVA guidelines app</li>
+    <li>E-learning module accredited for continuing medical education (CME)</li>
+    <li>Educational slide set to support local and regional educational meetings</li>
+    <li>National BHIVA audit programme</li>
+</ul>
+<p>See the &quot;Auditable outcomes(s)&quot; in each recommendation section of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Audit Criteria/Indicators"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Slide Presentation"/>
+      <fieldvalue value="Staff Training/Competency Material"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Waters L, Ahmed N, Angus B, Boffito M, Bower M, Churchill D, Dunn D, Edwards S, Emerson C, Fidler S, Fisher M, Horne R, Khoo S, Leen C, Mackie N, Marshall N, Monteiro F, Nelson M, Orkin C, Palfreeman A, Pett S, Phillips A, Post F, Pozniak A, Reeves I, Sabin C, Trevelion R, Walsh J, Wilkins E, Williams I, Winston A. British HIV Association guidelines for the treatment of HIV-1-positive adults with antiretroviral therapy 2015 (2016 interim update). London (UK): British HIV Association (BHIVA); 2016 Aug. 151 p.  [796 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2016 Aug"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="British HIV Association - Disease Specific Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>British HIV Association</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Writing Group</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Writing Group Members</em>: Laura Waters (<em>Chair</em>), N Ahmed, B Angus, M Boffito, M Bower, D Churchill, D Dunn, S Edwards, C Emerson, S Fidler, &amp;dagger;M Fisher, R Horne, S Khoo, C Leen, N Mackie, N Marshall, F Monteiro, M Nelson, C Orkin, A Palfreeman, S Pett, A Phillips, F Post, A Pozniak, I Reeves, C Sabin, R Trevelion, J Walsh, E Wilkins, I Williams, A Winston </p>
+<p class=&quot;Note&quot;>&amp;dagger;Deceased</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Requirements for declaration:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>BHIVA requires that all members of BHIVA guidelines writing groups as well as any expert external peer reviewers and literature searchers must declare all interests and membership of other committees. </li>
+    <li>Declaration is required to be made prior to the commencement of service on the relevant guidelines writing group retrospectively for the 12 months preceding the beginning of membership of the guidelines writing group. </li>
+    <li>All members of guidelines writing groups must undertake a declaration of interests prior to serving on a writing group and this declaration is confirmed and repeated at the publication of each set of completed guidelines published. </li>
+    <li>The details given in declaration forms are retained on a register at the Secretariat and can be made available for publication, if required. </li>
+</ul>
+<p>Full details of the conflict of interest policy are outlined in the BHIVA guideline manual (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Churchill D, Waters L, Ahmed N, Angus B, Boffito M, Bower M, Dunn D, Edwards S, Emerson C, Fidler S, Fisher M, Horne R, Khoo S, Leen C, Mackie N, Marshall N, Monteiro F, Nelson M, Orkin C, Palfreeman A, Pett S, Phillips A, Post F, Pozniak A, Reeves I, Sabin C, Trevelion R, Walsh J, Wilkins E, Williams I, Winston A. British HIV Association guidelines for the treatment of HIV-1 positive adults with antiretroviral therapy 2015. London (UK): British HIV Association (BHIVA); 2015 Sep. 150 p. [770 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://www.bhiva.org/documents/Guidelines/Treatment/2016/treatment-guidelines-2016-interim-update.pdf&quot; title=&quot;BHIVA Web site&quot;>British HIV Association (BHIVA) Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>British HIV Association guidelines for the treatment of HIV-1 positive adults with antiretroviral therapy 2015. Appendices. London (UK): British HIV Association (BHIVA); 2015. Available from the <a href=&quot;http://www.bhiva.org/HIV-1-treatment-guidelines.aspx&quot; title=&quot;BHIVA Web site&quot;>British HIV Association (BHIVA) Web site.</a> </li>
+    <li>BHIVA guidelines on the treatment of HIV-1-positive adults with antiretroviral therapy. Slide presentation. London (UK): British HIV Association (BHIVA); 2015. 62 p. Available from the <a href=&quot;http://www.bhiva.org/documents/Guidelines/Treatment/2015/treatment-guidelines-presentation.pdf&quot; title=&quot;BHIVA Web site&quot;>BHIVA Web site</a>. </li>
+    <li>Treatment of HIV-1 positive adults with antiretroviral therapy (E-Learning Module 4). Available to members from the <a href=&quot;http://www.bhiva.org/E-LearningModule4.aspx&quot; title=&quot;BHIVA Web site&quot;>BHIVA Web site</a>. </li>
+    <li>British HIV Association (BHIVA) guideline development manual. London (UK): British HIV Association (BHIVA); 2014 Jan 28. 44 p. Available from the <a href=&quot;http://www.bhiva.org/documents/Guidelines/DevtManual/GuidelineDevelopmentManual.pdf&quot; title=&quot;BHIVA Web site&quot;>BHIVA Web site</a>. </li>
+</ul>
+<p>Auditable outcomes are available in the <a href=&quot;http://www.bhiva.org/documents/Guidelines/Treatment/2016/treatment-guidelines-2016-interim-update.pdf&quot; title=&quot;BHIVA Web site&quot;>original guideline document</a>.</p>
+<p>Smartphone apps are available from the <a href=&quot;http://www.bhiva.org/Apps.aspx&quot; title=&quot;BHIVA Web site&quot;>BHIVA Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>There are four non-technical summaries of this British HIV Association (BHIVA) guideline available from the <a href=&quot;http://www.bhiva.org/HIV-1-treatment-guidelines.aspx&quot; title=&quot;BHIVA Web site&quot;>BHIVA Web site</a>.</p>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on May 9, 2014. This summary was updated by ECRI Institute on February 22, 2016. The updated information was verified by the guideline developer on March 17, 2016. This summary was updated by ECRI Institute on October 31, 2016. The updated information was not verified by the guideline developer.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 01:47:59 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:07:45 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 93.926 (3)
+  esindex: 0.009
+  captures_list: 118.412
+  CDXLines.iter: 13.462 (3)
+  PetaboxLoader3.datanode: 231.1 (4)
+  exclusion.robots: 0.432
+  exclusion.robots.policy: 0.412
+  RedisCDXSource: 6.805
+  load_resource: 167.779
+-->

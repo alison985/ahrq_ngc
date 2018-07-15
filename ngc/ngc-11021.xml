@@ -1,0 +1,822 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app23.us.archive.org';v.server_ms=242;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11021?contentType=xml', '20180713011956')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713011956/https://www.guideline.gov/summaries/downloadcontent/ngc-11021?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713011956/https://www.guideline.gov/summaries/downloadcontent/ngc-11021?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11021?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713011956" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610044347/https://www.guideline.gov/summaries/downloadcontent/ngc-11021?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 01:19:56 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610044347/https://www.guideline.gov/summaries/downloadcontent/ngc-11021?contentType=xml" title="04:43:47 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 01:19:56 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2017</td>
+		  <td class="c" id="displayYearEl" title="You are here: 01:19:56 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713011956*/https://www.guideline.gov/summaries/downloadcontent/ngc-11021?contentType=xml" title="See a list of every capture for this URL">5 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">03 Oct 2017 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11021?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Non-alcoholic fatty liver disease (NAFLD): assessment and management.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Guideline Centre. Non-alcoholic fatty liver disease (NAFLD): assessment and management. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Jul 6. 16 p.&amp;nbsp;(NICE guideline; no. 49).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Guideline Centre, hosted by the Royal College of Physicians, on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance and related appendices.</p>
+<p>The wording used in the recommendations in this guideline (for example, words such as 'offer' and 'consider') denotes the certainty with which the recommendation is made (the strength of the recommendation) and is defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Assessment for NAFLD</span></strong></p>
+<p><strong>Identifying NAFLD in Higher-risk Groups</strong></p>
+<p>Be aware that non-alcoholic fatty liver disease is more common in people who have:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Type 2 diabetes or </li>
+    <li>Metabolic syndrome </li>
+</ul>
+<p>Take an alcohol history to rule out alcohol-related liver disease. See also the NGC summary of the NICE guideline <a href=&quot;/summaries/summary/50413/&quot; title=&quot;Guideline #11020&quot; target=&quot;_blank&quot;>Cirrhosis in over 16s: assessment and management</a>.</p>
+<p>Do not use routine liver blood tests to rule out NAFLD.</p>
+<p><strong>Diagnosing NAFLD in Children and Young People</strong></p>
+<p>Offer a liver ultrasound to test children and young people for NAFLD if they:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Have type 2 diabetes or metabolic syndrome <strong>and</strong> </li>
+    <li>Do not misuse alcohol </li>
+</ul>
+<p>Refer children with suspected NAFLD to a relevant paediatric specialist in hepatology in tertiary care.</p>
+<p>Diagnose children and young people with NAFLD if:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Ultrasound shows they have fatty liver <strong>and</strong> </li>
+    <li>Other suspected causes of fatty liver have been ruled out </li>
+</ul>
+<p>Offer liver ultrasound to retest children and young people for NAFLD every 3 years if they:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Have a normal ultrasound <strong>and</strong> </li>
+    <li>Have type 2 diabetes or metabolic syndrome <strong>and</strong> </li>
+    <li>Do not misuse alcohol </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Assessment for Advanced Liver Fibrosis in People with NAFLD</span> </strong></p>
+<p><strong>Identifying People with Advanced Liver Fibrosis</strong></p>
+<p>Offer testing for advanced liver fibrosis to people with NAFLD.</p>
+<p>Consider using the enhanced liver fibrosis (ELF) test in people who have been diagnosed with NAFLD to test for advanced liver fibrosis.</p>
+<p>Do not use routine liver blood tests to assess for advanced liver fibrosis in people with NAFLD.</p>
+<p>Diagnose people with advanced liver fibrosis if they have:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>An ELF score of 10.51 or above <strong>and</strong> </li>
+    <li>NAFLD </li>
+</ul>
+<p>Refer adults and young people diagnosed with advanced liver fibrosis to a relevant specialist in hepatology.</p>
+<p>Explain to people with an ELF score below 10.51 that:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>They are unlikely to have advanced liver fibrosis <strong>and</strong> </li>
+    <li>Reassessment for advanced liver fibrosis every 3 years for adults and every 2 years for children and young people is sufficient for regular monitoring <strong>and</strong> </li>
+    <li>No interim tests are needed </li>
+</ul>
+<p>Give the person advice about lifestyle modifications they may be able to make (see &quot;Lifestyle Modifications for NAFLD,&quot; below).</p>
+<p>Offer retesting for advanced liver fibrosis for people with an ELF score below 10.51:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Every 3 years to adults </li>
+    <li>Every 2 years to children and young people </li>
+</ul>
+<p>Consider using ELF for retesting people with advanced liver fibrosis.</p>
+<p><strong>Monitoring Adults and Young People over 16 for Cirrhosis</strong></p>
+<p>Monitor adults and young people over 16 with NAFLD and advanced liver fibrosis for cirrhosis in line with the NGC summary of the NICE guideline <a href=&quot;/summaries/summary/50413/&quot; title=&quot;Guideline #11020&quot; target=&quot;_blank&quot;>Cirrhosis in over 16s: assessment and management</a>.</p>
+<p><strong>Extra-hepatic Conditions</strong></p>
+<p>Be aware that NAFLD is a risk factor for type 2 diabetes, hypertension and chronic kidney disease.</p>
+<p>Be aware that in people with type 2 diabetes, NAFLD is a risk factor for atrial fibrillation, myocardial infarction, ischaemic stroke and death from cardiovascular causes.</p>
+<p><strong>Lifestyle Modifications for NAFLD</strong></p>
+<p>Offer advice on physical activity and diet to people with NAFLD who are overweight or obese in line with the NGC summaries of the NICE guidelines <a href=&quot;/summaries/summary/48872/&quot; title=&quot;Guideline #10611&quot; target=&quot;_blank&quot;>Obesity: identification, assessment and management of overweight and obesity in children, young people and adults</a> and <a href=&quot;/summaries/summary/49117/&quot; title=&quot;Guideline #10688&quot; target=&quot;_blank&quot;>Maintaining a healthy weight and preventing excess weight gain among adults and children</a>.</p>
+<p>Explain to people with NAFLD that there is some evidence that exercise reduces liver fat content.</p>
+<p>Consider the lifestyle interventions in the NGC summary of the NICE guideline <a href=&quot;/summaries/summary/48872/&quot; title=&quot;Guideline #10611&quot; target=&quot;_blank&quot;>Obesity: identification, assessment and management of overweight and obesity in children, young people and adults</a> for people with NAFLD regardless of their body mass index (BMI).</p>
+<p>Do not offer omega-3 fatty acids to adults with NAFLD because there is not enough evidence to recommend their use.</p>
+<p>Explain to people with NAFLD who drink alcohol the importance of staying within the national recommended limits for alcohol consumption.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>People with NAFLD Who Are Taking Statins</span></strong></p>
+<p>Be aware that people with NAFLD who are taking statins should keep taking them.</p>
+<p>Only consider stopping statins if liver enzyme levels double within 3 months of starting statins, including in people with abnormal baseline liver blood results.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Pharmacological Treatment</span></strong></p>
+<p>In secondary or tertiary care settings only, consider pioglitazone or vitamin E for adults with advanced liver fibrosis, whether they have diabetes or not. (<strong>Note</strong>: When prescribing pioglitazone, exercise particular caution if the person is at high risk of the adverse effects of the drug. Pioglitazone is contraindicated in people with a history of heart failure, previous or active bladder cancer and uninvestigated macroscopic haematuria [visible red blood cells in the urine]. Known risk factors for these conditions, including increased age, should be carefully evaluated before treatment: see the manufacturers' summaries of product characteristics for details. At the time of publication [July 2016], neither pioglitazone nor vitamin E had a UK marketing authorisation for this indication. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the <a href=&quot;http://www.gmc-uk.org/guidance/ethical_guidance/14327.asp&quot; title=&quot;General Medical Council Web site&quot;>General Medical Council's Good practice in prescribing medicines &amp;ndash; guidance for doctors</a> for further information.)</p>
+<p>Before prescribing pioglitazone or vitamin E to adults, take into account any comorbidities that they have and the risk of adverse events associated with these conditions.</p>
+<p>In tertiary care settings only, consider vitamin E for children with advanced liver fibrosis, whether they have diabetes or not.</p>
+<p>In secondary or tertiary care settings only, consider vitamin E for young people with advanced liver fibrosis, whether they have diabetes or not.</p>
+<p>Offer to retest people with advanced liver fibrosis 2 years after they start a new pharmacological therapy to assess whether treatment is effective.</p>
+<p>Consider using the ELF test to assess whether pharmacological therapy is effective.</p>
+<p>If an adult's ELF test score has risen, stop either vitamin E or pioglitazone and consider switching to the other pharmacological therapy.</p>
+<p>If a child or young person's ELF test score has risen, stop vitamin E.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Strength of Recommendations</strong></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most people would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><em>Interventions That Must (or Must Not) Be Used</em></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally 'must' (or 'must not') is used if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><em>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation</em></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of people, an intervention will do more good than harm, and be cost effective. The GDG uses similar forms of words (for example, 'Do not offer&amp;hellip;') when they are confident that an intervention will not be of benefit for most people.</p>
+<p><em>Interventions That Could Be Used</em></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most people, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the person's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the person.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An algorithm titled &quot;Assessment and Monitoring of NAFLD in Adults, Children and Young People&quot; is provided in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p>In addition, a National Institute for Health and Care Excellence (NICE) pathway titled &quot;Non-alcoholic fatty liver disease overview&quot; is available from the <a href=&quot;https://pathways.nice.org.uk/pathways/non-alcoholic-fatty-liver-disease&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Non-alcoholic fatty liver disease (NAFLD) </li>
+    <li>Advanced liver fibrosis </li>
+</ul>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Endocrinology"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Gastroenterology"/>
+      <fieldvalue value="Internal Medicine"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Patients"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To help identify the adults, young people and children with non-alcoholic fatty liver disease (NAFLD) who have advanced liver fibrosis and are most at risk of further complications </li>
+    <li>To outline the lifestyle changes and pharmacological treatments that can manage NAFLD and advanced liver fibrosis </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adults, young people, and children with suspected or confirmed non-alcoholic fatty liver disease (NAFLD), their families and carers</p>
+<p class=&quot;Note&quot;><strong>Notes</strong>:</p>
+<ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;>
+    <li>The guideline does not cover the investigation of people with incidentally found abnormal liver blood tests, of which NAFLD is but one of the common causes, and does not cover the complications of NAFLD cirrhosis. </li>
+    <li>This guideline does not cover people with secondary causes of fatty liver (for example, chronic hepatitis C infection, total parenteral nutrition treatment and drug-induced fatty liver), management of end-stage liver disease, hepatocellular carcinoma, a liver transplant associated with NAFLD, and the assessment and management of cirrhosis. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Diagnosis/Evaluation/Risk Assessment</span></strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Identifying non-alcoholic fatty liver disease (NAFLD) in higher-risk groups </li>
+    <li>Taking an alcohol history </li>
+    <li>Routine liver blood tests (not recommended to rule out NAFLD) </li>
+    <li>Liver ultrasound to test children and young people </li>
+    <li>Assessment for advanced liver fibrosis in people with NAFLD
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Enhanced liver fibrosis (ELF) test </li>
+        <li>ELF retesting </li>
+        <li>Monitoring adults and young people for cirrhosis </li>
+        <li>Assessment for extra-hepatic conditions (e.g., type 2 diabetes, hypertension, chronic kidney disease) </li>
+    </ul>
+    </li>
+    <li>Specialist referral </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Management/Treatment</span></strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Lifestyle modifications (physical activity and diet, alcohol restriction) (note: omega-3 fatty acids considered but not recommended as treatment for NAFLD) </li>
+    <li>Statins </li>
+    <li>Pharmacological treatment for advanced liver fibrosis
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Pioglitazone </li>
+        <li>Vitamin E </li>
+    </ul>
+    </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Accuracy of diagnostic tests </li>
+    <li>Rate of progression of non-alcoholic fatty liver disease (NAFLD) </li>
+    <li>Progression of NAFLD to non-alcoholic steatohepatitis (NASH), NASH with fibrosis, or cirrhosis </li>
+    <li>Risk of extra-hepatic conditions (e.g., cardiovascular disease, type 2 diabetes, colorectal cancer, dyslipidaemia, and other conditions) associated with NAFLD </li>
+    <li>Effectiveness of dietary and exercise interventions/weight loss </li>
+    <li>Hospitalisation and length of stay </li>
+    <li>Health-related quality of life </li>
+    <li>Adverse events </li>
+    <li>Mortality </li>
+    <li>Cost-effectiveness </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Guideline Centre on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance and related appendices.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Developing the Review Questions and Outcomes</span></strong></p>
+<p>Review questions were developed using a PICO framework (patient, intervention, comparison and outcome) for intervention reviews; using a framework of population, index tests, reference standard and target condition for reviews of diagnostic test accuracy; and using population, presence or absence of factors under investigation (for example, prognostic factors) and outcomes for prognostic reviews.</p>
+<p>This use of a framework guided the literature searching process, critical appraisal and synthesis of evidence, and facilitated the development of recommendations by the Guideline Development Group (GDG). The review questions were drafted by the National Guideline Centre technical team and refined and validated by the GDG. The questions were based on the key clinical areas identified in the scope (see Appendix A).</p>
+<p>A total of 13 review questions were identified.</p>
+<p>Full literature searches, critical appraisals and evidence reviews were completed for all the specified review questions. See Table 1 in the full version of the guideline for the list of guideline review questions.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Searching for Evidence</span></strong></p>
+<p><strong>Clinical Literature Search</strong></p>
+<p>Systematic literature searches were undertaken to identify all published clinical evidence relevant to the review questions. Searches were undertaken according to the parameters stipulated within the NICE guidelines manual (see the &quot;Availability of Companion Documents&quot; field). Databases were searched using relevant medical subject headings, free-text terms and study-type filters where appropriate. Where possible, searches were restricted to articles published in English. Studies published in languages other than English were not reviewed. All searches were conducted in Medline, EMBASE, and The Cochrane Library. Additional subject specific databases were used for some questions: AMED, and CINAHL for the exercise, lifestyle and diet reviews, as well as PsycINFO for the lifestyle review. All searches were updated on 27 August 2015. No papers published after this date were considered.</p>
+<p>Search strategies were quality assured by cross-checking reference lists of highly relevant papers, analysing search strategies in other systematic reviews, and asking GDG members to highlight any additional studies. Searches were quality assured by a second information scientist before being run. The questions, the study types applied, the databases searched and the years covered can be found in Appendix G.</p>
+<p>The titles and abstracts of records retrieved by the searches were sifted for relevance, with potentially significant publications obtained in full text. These were assessed against the inclusion criteria.</p>
+<p>During the scoping stage, a search was conducted for guidelines and reports on the Web sites listed below from organisations relevant to the topic.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Guidelines International Network database <a href=&quot;http://www.g-i-n.net/&quot; title=&quot;G-I-N Web site&quot;>(www.g-i-n.net</a>) </li>
+    <li>National Guideline Clearinghouse (NGC) (<a href=&quot;https://www.guideline.gov/&quot; title=&quot;NGC Web site&quot; target=&quot;_blank&quot;>www.guideline.gov</a>) </li>
+    <li>National Institute for Health and Care Excellence (NICE) <a href=&quot;https://www.nice.org.uk/&quot; title=&quot;NICE Web site&quot;>(www.nice.org.uk</a>) </li>
+    <li>National Institutes of Health Consensus Development Program (<a href=&quot;https://consensus.nih.gov/&quot; title=&quot;National Institutes of Health Consensus Development Program Web site&quot; target=&quot;_blank&quot;>consensus.nih.gov</a>) </li>
+    <li>National Health Service (NHS) Evidence Search (<a href=&quot;http://www.evidence.nhs.uk/&quot; title=&quot;National Health Service (NHS) Evidence Search Web site&quot;>www.evidence.nhs.uk</a>). </li>
+</ul>
+<p>All references sent by stakeholders were considered. Searching for unpublished literature was not undertaken. The National Guideline Centre and NICE do not have access to drug manufacturers' unpublished clinical trial results, so the clinical evidence considered by the GDG for pharmaceutical interventions may be different from that considered by the Medicines and Healthcare Products Regulatory Agency (MHRA) and European Medicines Agency for the purposes of licensing and safety regulation.</p>
+<p><strong>Health Economic Literature Search</strong></p>
+<p>Systematic literature searches were also undertaken to identify health economic evidence within published literature relevant to the review questions. The evidence was identified by conducting a broad search relating to non-alcoholic fatty liver disease in the NHS Economic Evaluation Database (NHS EED), the Health Technology Assessment database (HTA) and the Health Economic Evaluations Database (HEED) with no date restrictions (NHS EED ceased to be updated after March 2015; HEED was used for searches up to 13 June 2014 but subsequently ceased to be available). Additionally, the search was run on Medline and EMBASE using a health economic filter, from 1 January 2013, to ensure recent publications that had not yet been indexed by the economic databases were identified. This was supplemented by an additional search that looked for economic papers specifically relating to the modelling of liver disease in NHS EED, HTA and HEED with no date restrictions (NHS EED ceased to be updated after March 2015; HEED was used for searches up to 13 June 2014, but subsequently ceased to be available) and additionally in Medline and EMBASE using a health economic filter, from 1 January 2013, to ensure no modelling studies were missed. Where possible, searches were restricted to articles published in English. Studies published in languages other than English were not reviewed.</p>
+<p>The health economic search strategies are included in Appendix G. All searches were updated on 27 August 2015. No papers published after this date were considered.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Identifying and Analysing Evidence of Effectiveness</span></strong></p>
+<p>Research fellows conducted the following tasks:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Identified potentially relevant studies for each review question from the relevant search results by reviewing titles and abstracts. Full papers were then obtained. </li>
+    <li>Reviewed full papers against pre-specified inclusion and exclusion criteria to identify studies that addressed the review question in the appropriate population, and reported on outcomes of interest (review protocols are included in Appendix C)</li>
+</ul>
+<p><strong>Inclusion and Exclusion Criteria</strong></p>
+<p>The inclusion and exclusion of studies was based on the criteria defined in the review protocols, which can be found in Appendix C. Excluded studies by review question (with the reasons for their exclusion) are listed in Appendix M. The GDG was consulted about any uncertainty regarding inclusion or exclusion.</p>
+<p>The key population inclusion criteria were:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Adults, children and young people with suspected or confirmed primary non-alcoholic fatty liver disease (NAFLD) </li>
+    <li>No subgroups of people have been identified as needing specific consideration</li>
+</ul>
+<p>The key population exclusion criterion was:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>People with secondary causes of fatty liver (for example, chronic hepatitis C infection, total parenteral nutrition treatment and drug-induced fatty liver)</li>
+</ul>
+<p>Literature reviews, conference abstracts, posters, letters, editorials, comment articles, unpublished studies and studies not in English were excluded.</p>
+<p><strong>Type of Studies</strong></p>
+<p>Randomised trials, non-randomised trials, and observational studies (including diagnostic or prognostic studies) were included in the evidence reviews as appropriate.</p>
+<p>For most intervention reviews in this guideline, parallel randomised controlled trials (RCTs) were included because they are considered the most robust type of study design that could produce an unbiased estimate of the intervention effects. If non-randomised studies were appropriate for inclusion, for example, non-drug trials with no randomised evidence, the GDG identified a priori in the protocol the variables which must either be equivalent at baseline or that the analysis had to adjust for any baseline differences. If the study did not fulfil either criterion it was excluded. Please refer to Appendix C for full details on the study design of studies selected for each review question.</p>
+<p>For diagnostic review questions, diagnostic RCTs, cross-sectional studies and retrospective studies were included. For prognostic review questions, prospective and retrospective cohort studies were included. Case&amp;ndash;control studies were not included.</p>
+<p>Qualitative research was not considered in this guideline as no review questions exploring outcomes that would require investigation of qualitative research were prioritised in the scope.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Identifying and Analysing Evidence of Cost-effectiveness</span></strong></p>
+<p>The GDG is required to make decisions based on the best available evidence of both clinical effectiveness and cost-effectiveness. Guideline recommendations should be based on the expected costs of the different options in relation to their expected health benefits (that is, their 'cost-effectiveness') rather than the total implementation cost. Thus, if the evidence suggests that a strategy provides significant health benefits at an acceptable cost per patient treated, it should be recommended even if it would be expensive to implement across the whole population.</p>
+<p>Health economic evidence was sought relating to the key clinical issues being addressed in the guideline. Health economists:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Undertook a systematic review of the published economic literature</li>
+    <li>Undertook new cost-effectiveness analysis in priority areas</li>
+</ul>
+<p><strong>Literature Review</strong></p>
+<p>The health economists:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Identified potentially relevant studies for each review question from the health economic search results by reviewing titles and abstracts. Full papers were then obtained. </li>
+    <li>Reviewed full papers against pre-specified inclusion and exclusion criteria to identify relevant studies (see below for details)</li>
+</ul>
+<p><strong>Inclusion and Exclusion Criteria</strong></p>
+<p>Full economic evaluations (studies comparing costs and health consequences of alternative courses of action: cost-utility, cost-effectiveness, cost-benefit and cost-consequences analyses) and comparative costing studies that addressed the review question in the relevant population were considered potentially includable as economic evidence.</p>
+<p>Studies that only reported cost per hospital (not per patient), or only reported average cost-effectiveness without disaggregated costs and effects were excluded. Literature reviews, abstracts, posters, letters, editorials, comment articles, unpublished studies and studies not in English were excluded. Studies published before 1999 and studies from non-Organization for Economic Cooperation and Development (OECD) countries or the USA were also excluded, on the basis that the applicability of such studies to the present UK NHS context is likely to be too low for them to be helpful for decision-making.</p>
+<p>Remaining health economic studies were prioritised for inclusion based on their relative applicability to the development of this guideline and the study limitations. For example, if a high quality, directly applicable UK analysis was available, then other less relevant studies may not have been included. However, in this guideline, no economic studies were excluded on the basis that more applicable evidence was available.</p>
+<p>For more details about the assessment of applicability and methodological quality see Table 7 in the full version of the guideline and the economic evaluation checklist (Appendix G of the 2012 NICE guidelines manual) and the health economics review protocol in Appendix D.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>See Appendix E: Clinical Article Selection and Appendix F: Economic Article Selection (see the &quot;Availability of Companion Documents&quot; field) for detailed flow charts on the article selection process, including total number of records identified through database searching, records screened, records excluded, full-text articles assessed for eligibility, studies included in review, and studies excluded from review.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Level</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>High</th>
+            <td valign=&quot;top&quot;>Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Moderate</th>
+            <td valign=&quot;top&quot;>Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Low</th>
+            <td valign=&quot;top&quot;>Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Very Low</th>
+            <td valign=&quot;top&quot;>Any estimate of effect is very uncertain.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Meta-Analysis"/>
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Guideline Centre on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance and related appendices.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Identifying and Analysing Evidence of Effectiveness</span></strong></p>
+<p>Research fellows conducted the following tasks:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Critically appraised relevant studies using the appropriate study design checklist as specified in the NICE guidelines manual (see the &quot;Availability of Companion Documents&quot; field). Prognostic studies were critically appraised using National Guideline Centre checklists. </li>
+    <li>Extracted key information about interventional study methods and results using 'Evibase', National Guideline Centre's purpose-built software. Evibase produces summary evidence tables, including critical appraisal ratings. Key information about non-interventional study methods and results was manually extracted onto standard evidence tables and critically appraised separately (evidence tables are included in Appendix H). </li>
+    <li>Generated summaries of the evidence by outcome. Outcome data were combined, analysed and reported according to study design:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Randomised data were meta-analysed where appropriate and reported in Grading of Recommendations Assessment, Development and Evaluation (GRADE) profile tables. </li>
+        <li>Observational data were presented as a range of values in GRADE profile tables or meta-analysed if appropriate. </li>
+        <li>Prognostic data were meta-analysed where appropriate and reported in GRADE profile tables. </li>
+        <li>Diagnostic data studies were meta-analysed where appropriate or presented as a range of values in adapted GRADE profile tables. </li>
+    </ul>
+    </li>
+    <li>A sample of a minimum of 10% of the abstract lists of the first sifts by new reviewers and those for complex review questions (for example, prognostic reviews) were double-sifted by a senior research fellow and any discrepancies were rectified. All of the evidence reviews were quality assured by a senior research fellow. This included checking:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Papers were included or excluded appropriately </li>
+        <li>A sample of the data extractions </li>
+        <li>Correct methods were used to synthesise data </li>
+        <li>A sample of the risk of bias assessments </li>
+    </ul>
+    </li>
+</ul>
+<p><strong>Methods of Combining Evidence</strong></p>
+<p><em>Data Synthesis for Intervention Reviews</em></p>
+<p>Where possible, meta-analyses were conducted using Cochrane Review Manager (RevMan5) software to combine the data given in all studies for each of the outcomes of interest for the review question.</p>
+<p>Most analyses were stratified for age (under 18 years and 18 years or over), which meant that different studies with predominant age-groups in different age strata were not combined and analysed together. For some questions population was not stratified by age (diagnosis, assessment, extra-hepatic conditions, caffeine and the omega-3 section of the diet modification reviews) as the Guideline Development Group (GDG) felt that studies could be considered together in these instances and there was no clinical rationale for stratification.</p>
+<p>The primary outcome for most of the reviews was progression of non-alcoholic fatty liver disease (NAFLD). This could be as measured by a range of different techniques. For example:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Liver biopsy </li>
+    <li>Magnetic resonance imaging (MRI) or magnetic resonance spectroscopy (MRS) </li>
+    <li>Ultrasound (presence or absence of steatosis only) </li>
+    <li>The enhanced liver fibrosis (ELF) score </li>
+    <li>Transient elastography </li>
+    <li>NAFLD fibrosis score </li>
+</ul>
+<p>The GDG felt that for liver biopsy progression measured using only the NAFLD activity score (NAS) by Brunt/Kleiner/Non-alcoholic Steatohepatitis Clinical Research Network (NASH-CRN) was acceptable and that progression of liver fat as measured by other methods such as ISHAK score would be excluded. It was acknowledged that papers could report progression of NAFLD by the means listed above as either dichotomous (for example, an improvement of 2 or more on the NAS) or continuous (mean and standard deviation [SD] of NAFLD fibrosis score). With respect to ultrasound, the experience of the GDG was that whilst ultrasound is a useful tool for identifying whether there is steatosis of the liver or not, it is not an appropriate technique for quantifying the degree of fat within the liver because of wide inter-observer variability. Furthermore, the degree of hepatic steatosis cannot be interpreted as a marker of severity of NAFLD. As such, the GDG considered that measurement of the degree of steatosis on ultrasound should not be considered as a relevant outcome, and that the use of ultrasound should only be reported if it was used to indicate presence or absence of steatosis.</p>
+<p>See Section 4.3.3.1 of the full version of the guideline for details regarding analysis of different types of data including dichotomous outcomes, continuous outcomes, generic inverse variance, and heterogeneity.</p>
+<p><em>Data Synthesis for Prognostic Factor Reviews</em></p>
+<p>Odds ratios (ORs), risk ratios (RRs), or hazard ratios (HRs), with their 95% confidence intervals (CIs), for the effect of the pre-specified prognostic factors were extracted from the studies. Studies were only included if the confounders pre-specified by the GDG were either matched at baseline or were adjusted for in multivariate analysis.</p>
+<p>Studies of lower risk of bias were preferred, taking into account the analysis and the study design. In particular, prospective cohort studies were preferred if they reported multivariable analyses that adjusted for key confounders identified by the GDG at the protocol stage for that outcome.</p>
+<p>If more than 1 study covered the same combination of population, risk factor and outcome, and adjusted for the same key confounders, then meta-analysis was used to pool results. Meta-analysis was carried out using the generic inverse variance function on RevMan5 using fixed effects. Heterogeneity was assessed using the same criteria as for intervention studies, with an I&amp;sup2; of 50% to 74% representing serious inconsistency and an I&amp;sup2; of 75% or more representing very serious inconsistency. If serious or very serious heterogeneity existed, then subgrouping strategies were based on pre-specified subgrouping criteria as for interventional reviews. If subgrouping failed to explain heterogeneity, then the random-effects model was used. If subgrouping successfully explained heterogeneity then each of the subgroups was presented as a separate outcome (for example, mortality in people under 30 years and mortality in people 30 years and over) and a fixed-effects model was used.</p>
+<p>Where evidence was not meta-analysed, because studies differed in population, outcome or risk factors, then no alternative pooling strategies were carried out, on the basis that such pooling would have little meaning. Results from single studies were presented.</p>
+<p><em>Data Synthesis for Prognostic Monitoring Review</em></p>
+<p>The monitoring review question was undertaken using a stepwise approach in agreement with the GDG. The information extracted from the papers included the number of patients with NAFLD, NAFL and NASH at initial biopsy, the average time between biopsies, and the numbers who had progressed, regressed or remained stable in fibrosis staging on the Brunt/CRN criteria. For papers with mixed NAFLD populations, the data are presented as a total and also separately for those with initial NASH and NAFL where possible. If the fibrosis progression rate was reported this was also included in the modified clinical evidence summary table (a calculation based on the difference between fibrosis stage at baseline and follow-up using the Brunt/CRN criteria, divided by the time in years between the 2 measurements). The GDG recognised that the fibrosis progression rate was useful in comparing the included studies as they each had very different average times between the biopsies. This additional information was available within 1 identified meta-analysis as the authors had contacted the authors of primary studies for further information and had calculated fibrosis progression scores specifically for people within the studies who started with no fibrosis at baseline. After discussion with the GDG these summary statistics were included in the evidence table. The mean fibrosis progression rate for the studies where it was possible to extract was calculated for NAFLD, NAFL and NASH populations and meta-analysed using the generic inverse variance method.</p>
+<p>The GDG was also interested in which population required more intensive monitoring. Clinical evidence was extracted from studies that listed multivariate analysis on factors associated with fibrosis progression. Following discussion it was felt most useful to present these grouped into factors from initial biopsy and at follow-up. These were presented in modified GRADE tables with quality assessments and forest plots. The GDG felt that the forest plots axis should be labelled so that the point estimate reflected those with the identified risk factor, rather than favouring those without, in order to ease understanding.</p>
+<p><em>Data Synthesis for Diagnostic Test Accuracy Reviews</em></p>
+<p>For diagnostic test accuracy studies, a positive result on the index test was found if the patient had values of the measured quantity above or below a threshold value, and different thresholds could be used. Few of the diagnostic tests listed in the review protocols had widely acknowledged or commonly pre-specified thresholds, therefore results for all thresholds used were reported and the GDG agreed groups of threshold ranges to aid with presentation of results. Diagnostic test accuracy measures used in the analysis were: area under the receiver operating characteristics (ROC) curve (AUC), and, for different thresholds (if appropriate), sensitivity and specificity. The threshold of a diagnostic test is defined as the value at which the test can best differentiate between those with and without the target condition. In practice this varies amongst studies. If a test has a high sensitivity then very few people with the condition will be missed (few false negatives). For example, a test with a sensitivity of 97% will only miss 3% of people with the condition. Conversely, if a test has a high specificity then few people without the condition would be incorrectly diagnosed (few false positives). For example, a test with a specificity of 97% will only incorrectly diagnose 3% of people who do not have the condition as positive. For this guideline, sensitivity was considered more important than specificity. A high sensitivity (true positives) of a test can pick up the majority of the correct cases with NAFLD, NASH or fibrosis who may benefit from treatment (non-pharmacological or pharmacological) and ongoing monitoring; conversely, a high specificity (true negatives) can correctly exclude people without NAFLD, NASH or fibrosis who would not require management or monitoring. Coupled forest plots of sensitivity and specificity with their 95% CIs across studies (at various thresholds) were produced for each test, using RevMan5.1 In order to do this, 2&amp;times;2 tables (the number of true positives, false positives, true negatives and false negatives) were directly taken from the study if given, or else were derived from raw data or calculated from the set of test accuracy statistics.</p>
+<p>Diagnostic meta-analysis was conducted where appropriate, that is, when 3 or more studies were available per threshold. Test accuracy for the studies was pooled using the bivariate method for the direct estimation of summary sensitivity and specificity using a random-effects approach in WinBUGS software. See Appendix L for further details. The advantage of this approach is that it produces summary estimates of sensitivity and specificity that account for the correlation between the 2 statistics. Other advantages of this method have been described elsewhere. The bivariate method uses logistic regression on the true positives, true negatives, false positives and false negatives reported in the studies. Overall sensitivity and specificity and confidence regions were plotted (using methods outlined by Novielli 2010). Pooled sensitivity and specificity and their 95% CIs were reported in the clinical evidence summary tables. For scores with fewer than 3 studies, individual studies' sensitivity and the paired specificity were reported where possible. If an even number of studies were reported the results of the study with the lower sensitivity value of the 2 middle studies was reported.</p>
+<p>Heterogeneity or inconsistency amongst studies was visually inspected in the coupled forest plots and pooled diagnostic meta-analysis plots.</p>
+<p>AUC data for each study were also plotted on a graph, for each diagnostic test. The AUC describes the overall diagnostic accuracy across the full range of thresholds. The following criteria were used for evaluating AUCs:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>&amp;le;0.50: worse than chance </li>
+    <li>0.50&amp;ndash;0.60: very poor </li>
+    <li>0.61&amp;ndash;0.70: poor </li>
+    <li>0.71&amp;ndash;0.80: moderate </li>
+    <li>0.81&amp;ndash;0.92: good </li>
+    <li>0.91&amp;ndash;1.00: excellent or perfect test </li>
+</ul>
+<p>Heterogeneity or inconsistency amongst studies was visually inspected.</p>
+<p><strong>Appraising the Quality of Evidence by Outcomes</strong></p>
+<p><em>Interventional Studies</em></p>
+<p>The evidence for outcomes from the included randomised controlled trials (RCTs) and, where appropriate, observational studies were evaluated and presented using an adaptation of the 'GRADE toolbox' developed by the international GRADE working group (<a href=&quot;http://www.gradeworkinggroup.org/&quot; title=&quot;GRADE Web site&quot;>http://www.gradeworkinggroup.org/</a>). The software (GRADEpro) developed by the GRADE working group was used to assess the quality of each outcome, taking into account individual study quality and the meta-analysis results.</p>
+<p>Each outcome was first examined for each of the quality elements listed and defined in Table 2 of the full version of the guideline.</p>
+<p>Details of how the 4 main quality elements (risk of bias, indirectness, inconsistency and imprecision) were appraised for each outcome are given in Section 4.3.4 of the full version of the guideline. Publication or other bias was only taken into consideration in the quality assessment if it was apparent.</p>
+<p><span style=&quot;text-decoration: underline;&quot;>Overall Grading of the Quality of Clinical Evidence</span></p>
+<p>Once an outcome had been appraised for the main quality elements, an overall quality grade was calculated for that outcome. The scores (0, &amp;minus;1 or &amp;minus;2) from each of the main quality elements were summed to give a score that could be anything from 0 (the best possible) to &amp;minus;8 (the worst possible). However scores were capped at &amp;minus;3. This final score was then applied to the starting grade that had originally been applied to the outcome by default, based on study design. All RCTs started as High and the overall quality became Moderate, Low or Very Low if the overall score was &amp;minus;1, &amp;minus;2 or &amp;minus;3 points respectively. The reasons for downgrading in each case were specified in the footnotes of the GRADE tables (see Appendix J).</p>
+<p>Observational interventional studies started at Low, and so a score of &amp;minus;1 would be enough to take the grade to the lowest level of Very Low. Observational studies could, however, be upgraded if there were all of: a large magnitude of effect, a dose-response gradient, and if all plausible confounding would reduce the demonstrated effect.</p>
+<p>See Section 4.3.4 for information on quality assessment of prognostic and diagnostic studies.</p>
+<p><strong>Assessing Clinical Importance</strong></p>
+<p>The GDG assessed the evidence by outcome in order to determine if there was, or potentially was, a clinically important benefit, a clinically important harm or no clinically important difference between interventions. To facilitate this, binary outcomes were converted into absolute risk differences (ARDs) using GRADEpro software: the median control group risk across studies was used to calculate the ARD and its 95% CI from the pooled risk ratio.</p>
+<p>The assessment of clinical benefit, harm, or no benefit or harm was based on the point estimate of absolute effect for intervention studies, which was standardised across the reviews. The GDG considered for most of the outcomes in the intervention reviews that if at least 100 participants per 1000 (10%) achieved the outcome of interest in the intervention group compared to the comparison group for a positive outcome then this intervention would be considered beneficial. The same point estimate but in the opposite direction applied for a negative outcome. For the critical outcome of mortality any reduction represented a clinical benefit. For adverse events 50 events or more per 1000 represented clinical harm. For continuous outcomes if the mean difference was greater than the minimally important difference (MID) then this resented a clinical benefit or harm. For outcomes such as mortality any reduction or increase was considered to be clinically important.</p>
+<p>This assessment was carried out by the GDG for each critical outcome, and an evidence summary table was produced to compile the GDG's assessments of clinical importance per outcome, alongside the evidence quality and the uncertainty in the effect estimate (imprecision).</p>
+<p><strong>Clinical Evidence Statements</strong></p>
+<p>Clinical evidence statements are summary statements that are included in each review chapter, and which summarise the key features of the clinical effectiveness evidence presented. The wording of the evidence statements reflects the certainty or uncertainty in the estimate of effect. The evidence statements are presented by outcome and encompass the following key features of the evidence:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The number of studies and the number of participants for a particular outcome </li>
+    <li>An indication of the direction of clinical importance (if one treatment is beneficial or harmful compared to the other, or whether there is no difference between the two tested treatments) </li>
+    <li>A description of the overall quality of evidence (GRADE overall quality) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Identifying and Analysing Evidence of Cost-effectiveness</span></strong></p>
+<p>The GDG is required to make decisions based on the best available evidence of both clinical effectiveness and cost-effectiveness. Guideline recommendations should be based on the expected costs of the different options in relation to their expected health benefits (that is, their 'cost-effectiveness') rather than the total implementation cost. Thus, if the evidence suggests that a strategy provides significant health benefits at an acceptable cost per patient treated, it should be recommended even if it would be expensive to implement across the whole population.</p>
+<p>Health economic evidence was sought relating to the key clinical issues being addressed in the guideline. Health economists:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Undertook a systematic review of the economic literature </li>
+    <li>Undertook new cost-effectiveness analysis in priority areas </li>
+</ul>
+<p><strong>Literature Review</strong></p>
+<p>The health economists:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Critically appraised relevant studies using the economic evaluations checklist as specified in the NICE guidelines manual. </li>
+    <li>Extracted key information about the studies' methods and results into evidence tables (included in Appendix I). </li>
+    <li>Generated summaries of the evidence in NICE economic evidence profiles (included in the relevant chapter for each review question) &amp;ndash; see below for details. </li>
+</ul>
+<p><strong>NICE Economic Evidence Profiles</strong></p>
+<p>NICE economic evidence profile tables were used to summarise cost and cost-effectiveness estimates for the included health economic studies in each review chapter. The economic evidence profile shows an assessment of applicability and methodological quality for each economic study, with footnotes indicating the reasons for the assessment. These assessments were made by the health economist using the economic evaluation checklist from the NICE guidelines manual. It also shows the incremental costs, incremental effects (for example, quality-adjusted life years [QALYs]) and incremental cost-effectiveness ratio (ICER) for the base case analysis in the study, as well as information about the assessment of uncertainty in the analysis. See Table 7 in the full version of the guideline for more details.</p>
+<p>When a non-UK study was included in the profile, the results were converted into pounds sterling using the appropriate purchasing power parity.</p>
+<p><strong>Undertaking New Health Economic Analysis</strong></p>
+<p>As well as reviewing the published health economic literature for each review question, new health economic analysis was undertaken by the health economists in selected areas. Priority areas for new analysis were agreed by the GDG after formation of the review questions and consideration of the existing health economic evidence.</p>
+<p>The GDG identified the highest priority areas for original health economic modelling as:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Risk factors for non-alcoholic fatty liver disease (NAFLD) or severe NAFLD </li>
+    <li>The appropriate investigations for diagnosing NAFLD </li>
+    <li>The appropriate investigations for identifying the stage of NAFLD </li>
+    <li>How often people with NAFLD or non-alcoholic steatohepatitis (NASH) should be monitored </li>
+</ul>
+<p>This was due to the number of people affected by these questions and the current uncertainty as to what the most cost-effective solutions would be, due to the lack of published economic models encompassing the whole pathway of liver disease from early NAFLD to end-stage liver disease. New work was therefore conducted, which entailed the development of the National Guideline Centre liver disease pathway model (LDPM) to address all of the questions prioritised for this guideline (as well as to address additional questions raised in the NICE cirrhosis guideline).</p>
+<p>The following general principles were adhered to in developing the cost-effectiveness analysis:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Methods were consistent with the NICE reference case for interventions with health outcomes in National Health Service (NHS) settings. </li>
+    <li>The GDG was involved in the design of the model, selection of inputs and interpretation of the results. </li>
+    <li>Model inputs were based on the systematic review of the clinical literature supplemented with other published data sources where possible. </li>
+    <li>When published data were not available GDG expert opinion was used to populate the model. </li>
+    <li>Model inputs and assumptions were reported fully and transparently. </li>
+    <li>The results were subject to sensitivity analysis and limitations were discussed. </li>
+    <li>The model was peer-reviewed by another health economist at the National Guideline Centre. </li>
+</ul>
+<p>Full methods for the cost-effectiveness analysis are described in Appendix N.</p>
+<p><strong>Cost-effectiveness Criteria</strong></p>
+<p>NICE's report 'Social value judgements: principles for the development of NICE guidance' sets out the principles that GDGs should consider when judging whether an intervention offers good value for money. In general, an intervention was considered to be cost-effective (given that the estimate was considered plausible) if either of the following criteria applied:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The intervention dominated other relevant strategies (that is, it was both less costly in terms of resource use and more clinically effective compared with all the other relevant alternative strategies), or </li>
+    <li>The intervention cost less than &amp;pound;20,000 per QALY gained compared with the next best strategy </li>
+</ul>
+<p>If the GDG recommended an intervention that was estimated to cost more than &amp;pound;20,000 per QALY gained, or did not recommend one that was estimated to cost less than &amp;pound;20,000 per QALY gained, the reasons for this decision are discussed explicitly in the 'Recommendations and link to evidence' section of the relevant chapter, with reference to issues regarding the plausibility of the estimate or to the factors set out in 'Social value judgements: principles for the development of NICE guidance'.</p>
+<p>When QALYs or life years gained are not used in the analysis, results are difficult to interpret unless one strategy dominates the others with respect to every relevant health outcome and cost.</p>
+<p><strong>In the Absence of Economic Evidence</strong></p>
+<p>When no relevant published health economic studies were found, and a new analysis was not prioritised, the GDG made a qualitative judgement about cost-effectiveness by considering expected differences in resource use between options and relevant UK NHS unit costs, alongside the results of the review of clinical effectiveness evidence.</p>
+<p>The UK NHS costs reported in the guideline are those that were presented to the GDG and were correct at the time recommendations were drafted. They may have changed subsequently before the time of publication. However, the GDG has no reason to believe they have changed substantially.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Guideline Centre on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance and related appendices.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Who Developed This Guideline?</span></strong></p>
+<p>A multidisciplinary Guideline Development Group (GDG) comprising health professionals and researchers as well as lay members developed this guideline.</p>
+<p>The GDG met every 5 to 6 weeks during the development of the guideline. Staff from the National Guideline Centre provided methodological support and guidance for the development process. The team working on the guideline included a project manager, systematic reviewers (research fellows), health economists and information scientists. They undertook systematic searches of the literature, appraised the evidence, conducted meta-analysis and cost-effectiveness analysis where appropriate and drafted the guideline in collaboration with the GDG.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Developing Recommendations</span></strong></p>
+<p>Over the course of the guideline development process, the GDG was presented with:</p>
+<ul>
+    <li>Evidence tables of the clinical and economic evidence reviewed from the literature. All evidence tables are in Appendices H and I. </li>
+    <li>Summaries of clinical and economic evidence and quality (as presented in Chapters 5&amp;ndash;17 in the full version of the guideline). </li>
+    <li>Forest plots and diagnostic meta-analysis plots (see Appendix K). </li>
+    <li>A description of the methods and results of the cost-effectiveness analysis undertaken for the guideline (see Appendix N). </li>
+</ul>
+<p>Recommendations were drafted on the basis of the GDG's interpretation of the available evidence, taking into account the balance of benefits, harms and costs between different courses of action. This was either done formally in an economic model, or informally. Firstly, the net clinical benefit over harm (clinical effectiveness) was considered, focusing on the critical outcomes. When this was done informally, the GDG took into account the clinical benefits and harms when one intervention was compared with another. The assessment of net clinical benefit was moderated by the importance placed on the outcomes (the GDG's values and preferences), and the confidence the GDG had in the evidence (evidence quality). Secondly, the GDG assessed whether the net clinical benefit justified any differences in costs between the alternative interventions.</p>
+<p>When clinical and economic evidence was of poor quality, conflicting or absent, the GDG drafted recommendations based on its expert opinion. The considerations for making consensus-based recommendations include the balance between potential harms and benefits, the economic costs compared to the economic benefits, current practices, recommendations made in other relevant guidelines, patient preferences and equality issues. The consensus recommendations were agreed through discussions in the GDG. The GDG also considered whether the uncertainty was sufficient to justify delaying making a recommendation to await further research, taking into account the potential harm of failing to make a clear recommendation.</p>
+<p>The GDG considered the appropriate 'strength' of each recommendation. This takes into account the quality of the evidence but is conceptually different. Some recommendations are 'strong' in that the GDG believes that the vast majority of healthcare and other professionals and patients would choose a particular intervention if they considered the evidence in the same way that the GDG has. This is generally the case if the benefits clearly outweigh the harms for most people and the intervention is likely to be cost-effective. However, there is often a closer balance between benefits and harms, and some patients would not choose an intervention whereas others would. This may happen, for example, if some patients are particularly averse to some side effect and others are not. In these circumstances the recommendation is generally weaker, although it may be possible to make stronger recommendations about specific groups of patients.</p>
+<p>The GDG focused on the following factors in agreeing the wording of the recommendations:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The actions health professionals need to take </li>
+    <li>The information readers need to know </li>
+    <li>The strength of the recommendation (for example the word 'offer' was used for strong recommendations and 'consider' for weak recommendations) </li>
+    <li>The involvement of patients (and their carers if needed) in decisions on treatment and care </li>
+    <li>Consistency with NICE's standard advice on recommendations about drugs, waiting times and ineffective interventions (see Section 9.2 in the 2014 NICE guidelines manual [see the &quot;Availability of Companion Documents&quot; field]) </li>
+</ul>
+<p>The main considerations specific to each recommendation are outlined in the &quot;Recommendations and link to evidence&quot; sections within each chapter.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Strength of Recommendations</span></strong></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><strong>Interventions That Must (or Must Not) Be Used</strong></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally the GDG uses 'must' (or 'must not') if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><strong>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation</strong></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost effective. Similar forms of words (for example, 'Do not offer&amp;hellip;') are used when the GDG is confident that an intervention will not be of benefit for most patients.</p>
+<p><strong>Interventions That Could Be Used</strong></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most patients, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>See the &quot;Economic Evidence&quot; sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for specific cost-effectiveness considerations for each guideline review question.</p>
+<p>See also the &quot;Availability of Companion Documents&quot; field for Appendix N: Cost-effectiveness analysis: diagnostic tests for NAFLD and advanced fibrosis (see model overview below).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Model Overview</span></strong></p>
+<p><strong>Comparators</strong></p>
+<p>The National Guideline Centre liver disease pathway model (LDPM) was developed for this guideline and for the National Institute for Health and Care Excellence (NICE) cirrhosis guideline. The model is composed of 3 modules, covering steatosis, advanced fibrosis and cirrhosis, and follows the progression of people with liver disease through the course of their lifetime. For this economic analysis 2 versions of the model were used: 1 containing all 3 modules to investigate diagnostic tests for steatosis, and 1 containing the fibrosis and cirrhosis modules only, to investigate diagnostic tests for advanced fibrosis.</p>
+<p>The model was used to compare the use of 7 non-invasive non-alcoholic fatty liver disease (NAFLD) tests and 12 non-invasive advanced fibrosis tests identified in the relevant clinical reviews. Liver biopsy was also included in both analyses as the reference standard test, hence being attributed perfect sensitivity and specificity (100%).</p>
+<p>For each of the analyses 2 additional strategies were also considered which did not include any tests:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>No test, treat all patients in the relevant population assuming they have steatosis (or advanced fibrosis) </li>
+    <li>No test, treat no-one, assuming none have steatosis (or advanced fibrosis) until later clinical presentation </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Validation Process</span></strong></p>
+<p>This guidance is subject to a 6-week public consultation and feedback as part of the quality assurance and peer review of the document. All comments received from registered stakeholders are responded to in turn and posted on the National Institute for Health and Care Excellence (NICE) Web site.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Refer to the &quot;Evidence statements&quot; sections in the full version of the guideline for discussion of the evidence supporting each recommendation.</p>
+<p>Also see &quot;Type of Studies&quot; in the &quot;Description of Methods Used to Collect/Select the Evidence&quot; field.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Guideline Development Group (GDG) felt that lifestyle modification had some clinical benefit with improvements in non-alcoholic fatty liver disease (NAFLD) activity score, parenchymal inflammation, ballooning injury, fibrosis and body weight. </li>
+    <li>All of the identified evidence for pioglitazone was from adults with NAFLD. The GDG noted that in the largest double-blind randomised controlled trial (RCT) identified (comparing pioglitazone [30 mg/day] to placebo as treatment to slow the histological progression of non-alcoholic steatohepatitis [NASH] in adults when used over 96 weeks), participants randomised to taking pioglitazone achieved greater reduction in hepatocellular ballooning, steatosis, lobular inflammation, and total NAFLD activity score (NAS) (as well as significantly higher rates of resolution of NASH) compared to participants taking placebo; all of which the GDG considered to be of relevant clinical benefit. </li>
+    <li>The GDG noted that evidence comparing the use of vitamin E to placebo as treatment to slow the histological progression of NASH in adults over 96 weeks demonstrated clinical benefit of vitamin E on the improvement of hepatocellular ballooning, fibrosis score, and NAS. </li>
+</ul>
+<p>See also the &quot;Trade-off between clinical benefits and harms&quot; sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for benefits of specific interventions.</p>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>When prescribing pioglitazone, particular caution should be exercised if the person is at high risk of the adverse effects of the drug. </li>
+    <li>Vitamin E or pioglitazone should be stopped if enhanced liver fibrosis (ELF) test score has risen. </li>
+</ul>
+<p>See also the &quot;Trade-off between clinical benefits and harms&quot; sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for additional detail on harms of specific interventions.</p>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Pioglitazone is contraindicated in people with a history of heart failure, previous or active bladder cancer and uninvestigated macroscopic haematuria (visible red blood cells in the urine). Known risk factors for these conditions, including increased age, should be carefully evaluated before treatment: see the manufacturers' summaries of product characteristics for details.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The recommendations in this guideline represent the view of the National Institute for Health and Care Excellence (NICE), arrived at after careful consideration of the evidence available. When exercising their judgement, professionals are expected to take this guideline fully into account, alongside the individual needs, preferences and values of their patients or service users. The application of the recommendations in this guideline are not mandatory and the guideline does not override the responsibility of healthcare professionals to make decisions appropriate to the circumstances of the individual patient, in consultation with the patient and/or their carer or guardian. </li>
+    <li>Local commissioners and/or providers have a responsibility to enable the guideline to be applied when individual health professionals and their patients or service users wish to use it. They should do so in the context of local and national priorities for funding and developing services, and in light of their duties to have due regard to the need to eliminate unlawful discrimination, to advance equality of opportunity and to reduce health inequalities. Nothing in this guideline should be interpreted in a way that would be inconsistent with compliance with those duties. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Putting This Guideline into Practice</span></strong></p>
+<p>The National Institute for Health and Care Excellence (NICE) has produced <a href=&quot;https://www.nice.org.uk/guidance/ng49/resources&quot; title=&quot;NICE Web site&quot;>tools and resources</a> to help put this guideline into practice.</p>
+<p>Putting recommendations into practice can take time. How long may vary from guideline to guideline, and depends on how much change in practice or services is needed. Implementing change is most effective when aligned with local priorities.</p>
+<p>Changes recommended for clinical practice that can be done quickly &amp;ndash; like changes in prescribing practice &amp;ndash; should be shared quickly. This is because healthcare professionals should use guidelines to guide their work &amp;ndash; as is required by professional regulating bodies such as the General Medical and Nursing and Midwifery Councils.</p>
+<p>Changes should be implemented as soon as possible, unless there is a good reason for not doing so (for example, if it would be better value for money if a package of recommendations were all implemented at once).</p>
+<p>Different organisations may need different approaches to implementation, depending on their size and function. Sometimes individual practitioners may be able to respond to recommendations to improve their practice more quickly than large organisations.</p>
+<p>Here are some pointers to help organisations put NICE guidelines into practice:</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Raise awareness through routine communication channels, such as email or newsletters, regular meetings, internal staff briefings and other communications with all relevant partner organisations. Identify things staff can include in their own practice straight away. </li>
+    <li>Identify a lead with an interest in the topic to champion the guideline and motivate others to support its use and make service changes, and to find out any significant issues locally. </li>
+    <li>Carry out a baseline assessment against the recommendations to find out whether there are gaps in current service provision. </li>
+    <li>Think about what data you need to measure improvement and plan how you will collect it. You may want to work with other health and social care organisations and specialist groups to compare current practice with the recommendations. This may also help identify local issues that will slow or prevent implementation. </li>
+    <li>Develop an action plan, with the steps needed to put the guideline into practice, and make sure it is ready as soon as possible. Big, complex changes may take longer to implement, but some may be quick and easy to do. An action plan will help in both cases. </li>
+    <li>For very big changes include milestones and a business case, which will set out additional costs, savings and possible areas for disinvestment. A small project group could develop the action plan. The group might include the guideline champion, a senior organisational sponsor, staff involved in the associated services, finance and information professionals. </li>
+    <li>Implement the action plan with oversight from the lead and the project group. Big projects may also need project management support. </li>
+    <li>Review and monitor how well the guideline is being implemented through the project group. Share progress with those involved in making improvements, as well as relevant boards and local partners. </li>
+</ol>
+<p>NICE provides a comprehensive programme of support and resources to maximise uptake and use of evidence and guidance. See the <a href=&quot;https://www.nice.org.uk/about/what-we-do/into-practice&quot; title=&quot;NICE Web site&quot;>into practice</a> pages for more information.</p>
+<p>Also see Leng G, Moore V, Abraham S, editors (2014) Achieving high quality care &amp;ndash; practical experience from NICE. Chichester: Wiley.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Foreign Language Translations"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Guideline Centre. Non-alcoholic fatty liver disease (NAFLD): assessment and management. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Jul 6. 16 p.&amp;nbsp;(NICE guideline; no. 49).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2016 Jul 6"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="National Guideline Centre - National Government Agency [Non-U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The National Guideline Centre was commissioned by the National Institute for Health and Care Excellence to undertake the work on this guideline.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Guideline Development Group</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Guideline Development Group Members</em>: Christopher Byrne, Professor of Endocrinology and Metabolism, University of Southampton; Chris Day (<em>Chair</em>), Professor of Liver Medicine and Honorary Consultant Hepatologist, Newcastle University; David Fitzmaurice, Professor of Primary Care, University of Birmingham; Irene McGill, Patient/carer member; Kevin Moore, Professor of Hepatology, University College London (until June 2015 due to health reasons); Benjamin Mullish, Specialist Trainee/Academic Clinical Fellow in Hepatology and Gastroenterology, Imperial College London; Philip Newsome, Professor of Experimental Hepatology and Honorary Consultant Hepatologist, Birmingham University; Tanja Pardela, Paediatric Liver Modern Matron, King's College Hospital; Rachel Pryke, General Practitioner Partner, Winyates Health Centre, Redditch; Jane Putsey, Patient/carer member; Indra van Mourik, Consultant Paediatric Hepatologist, Birmingham Children's Hospital NHS Foundation Trust; Bronwen Williams, Gastroenterology and Hepatology Research Nurse, Hull Royal Infirmary</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>At the start of the guideline development process all Guideline Development Group (GDG) members declared interests including consultancies, fee-paid work, shareholdings, fellowships and support from the healthcare industry. At all subsequent GDG meetings, members declared arising conflicts of interest.</p>
+<p>Members were either required to withdraw completely or for part of the discussion if their declared interest made it appropriate. The details of declared interests and the actions taken are shown in Appendix B in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng49&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. Also available for download in ePub or eBook formats from the <a href=&quot;https://www.nice.org.uk/guidance/ng49&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Non-alcoholic fatty liver disease (NAFLD): assessment and management. Full guideline. London (UK): National Institute for Health and Care Excellence; 2016 Jul. 322 p. (NICE guideline; no. 49). Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng49/evidence/full-guideline-2548213310&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. </li>
+    <li>Non-alcoholic fatty liver disease (NAFLD): assessment and management. Appendices. London (UK): National Institute for Health and Care Excellence; 2016 Jul. 750 p. (NICE guideline; no. 49). Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng49/evidence/appendices-ar-2548213309&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Non-alcoholic fatty liver disease (NAFLD): assessment and management. Resource impact report. London (UK): National Institute for Health and Care Excellence; 2016 Jul. 5 p. (NICE guideline; no. 49). Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng49/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Non-alcoholic fatty liver disease (NAFLD): assessment and management. Resource impact template. London (UK): National Institute for Health and Care Excellence; 2016 Jul. 5 p. (NICE guideline; no. 49). Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng49/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Non-alcoholic fatty liver disease (NAFLD): assessment and management. Baseline assessment tool. London (UK): National Institute for Health and Care Excellence; 2016 Jul. (NICE guideline; no. 49). Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng49/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>The guidelines manual 2012. London (UK): National Institute for Health and Care Excellence (NICE); 2012 Nov. Available from the <a href=&quot;https://www.nice.org.uk/process/pmg6/chapter/introduction&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Developing NICE guidelines: the manual. London (UK): National Institute for Health and Care Excellence (NICE); 2014 Oct. Available from the <a href=&quot;https://www.nice.org.uk/process/pmg20/chapter/introduction-and-overview&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Non-alcoholic fatty liver disease (NAFLD): assessment and management. Information for the public. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Jul. 6 p. (NICE guideline; no. 49). Available in <a href=&quot;https://www.nice.org.uk/guidance/ng49/ifp/chapter/Non-alcoholic-fatty-liver-disease-the-care-you-should-expect&quot; title=&quot;NICE Web site&quot;>English</a> and <a href=&quot;https://www.nice.org.uk/guidance/ng49/resources/gwybodaeth-ir-cyhoedd-2669334877&quot; title=&quot;NICE Web site&quot;>Welsh</a> from the National Institute for Health and Care Excellence (NICE) Web site. Also available for download in ePub and eBook formats from the <a href=&quot;https://www.nice.org.uk/guidance/ng49/ifp/chapter/Non-alcoholic-fatty-liver-disease-the-care-you-should-expect&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on November 30, 2016.</p>
+<p>The National Institute for Health and Care Excellence (NICE) has granted the National Guideline Clearinghouse (NGC) permission to include summaries of their clinical guidelines with the intention of disseminating and facilitating the implementation of that guidance. NICE has not yet verified this content to confirm that it accurately reflects that original NICE guidance and therefore no guarantees are given by NICE in this regard. All NICE clinical guidelines are prepared in relation to the National Health Service in England and Wales. NICE has not been involved in the development or adaptation of NICE guidance for use in any other country. The full versions of all NICE guidance can be found at <a href=&quot;http://www.nice.org.uk&quot; title=&quot;NICE Web site&quot;>www.nice.org.uk</a>.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 01:19:56 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:17:49 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 51.789 (3)
+  esindex: 0.006
+  captures_list: 75.135
+  CDXLines.iter: 14.062 (3)
+  PetaboxLoader3.datanode: 34.409 (4)
+  exclusion.robots: 0.338
+  exclusion.robots.policy: 0.325
+  RedisCDXSource: 5.945
+  PetaboxLoader3.resolve: 93.792
+  load_resource: 122.31
+-->

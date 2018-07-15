@@ -1,0 +1,905 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app16.us.archive.org';v.server_ms=356;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11077?contentType=xml', '20180713001705')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713001705/https://www.guideline.gov/summaries/downloadcontent/ngc-11077?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713001705/https://www.guideline.gov/summaries/downloadcontent/ngc-11077?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11077?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713001705" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610074214/https://www.guideline.gov/summaries/downloadcontent/ngc-11077?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 00:17:05 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610074214/https://www.guideline.gov/summaries/downloadcontent/ngc-11077?contentType=xml" title="07:42:14 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 00:17:05 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2017</td>
+		  <td class="c" id="displayYearEl" title="You are here: 00:17:05 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713001705*/https://www.guideline.gov/summaries/downloadcontent/ngc-11077?contentType=xml" title="See a list of every capture for this URL">5 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">03 Oct 2017 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11077?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Multimorbidity: clinical assessment and management.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Guideline Centre. Multimorbidity: clinical assessment and management. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Sep 21. 23 p.&amp;nbsp;(NICE guideline; no. 56).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Guideline Centre on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance and related appendices.</p>
+<p>The wording used in the recommendations in this guideline (for example, words such as 'offer' and 'consider') denotes the certainty with which the recommendation is made (the strength of the recommendation) and is defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>General Principles</span></strong></p>
+<p>Be aware that multimorbidity refers to the presence of 2 or more long-term health conditions, which can include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Defined physical and mental health conditions such as diabetes or schizophrenia </li>
+    <li>Ongoing conditions such as learning disability </li>
+    <li>Symptom complexes such as frailty or chronic pain </li>
+    <li>Sensory impairment such as sight or hearing loss </li>
+    <li>Alcohol and substance misuse </li>
+</ul>
+<p>Be aware that the management of risk factors for future disease can be a major treatment burden for people with multimorbidity and should be carefully considered when optimising care.</p>
+<p>Be aware that the evidence for recommendations in NICE guidance on single health conditions is regularly drawn from people without multimorbidity and taking fewer prescribed regular medicines.</p>
+<p>Think carefully about the risks and benefits, for people with multimorbidity, of individual treatments recommended in guidance for single health conditions. Discuss this with the patient alongside their preferences for care and treatment.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Taking Account of Multimorbidity in Tailoring the Approach to Care</span></strong></p>
+<p>Consider an approach to care that takes account of multimorbidity if the person requests it or if any of the following apply:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>They find it difficult to manage their treatments or day-to-day activities </li>
+    <li>They receive care and support from multiple services and need additional services </li>
+    <li>They have both long-term physical and mental health conditions </li>
+    <li>They have frailty (see &quot;How to Assess Frailty&quot; below) or falls </li>
+    <li>They frequently seek unplanned or emergency care </li>
+    <li>They are prescribed multiple regular medicines (see the section below) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>How to Identify People Who May Benefit From an Approach to Care That Takes Account of Multimorbidity</span></strong></p>
+<p>Identify adults who may benefit from an approach to care that takes account of multimorbidity (as outlined in &quot;Principles of an Approach to Care That Takes Account of Multimorbidity&quot; below)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Opportunistically during routine care </li>
+    <li>Proactively using electronic health records </li>
+</ul>
+<p>Use the criteria in &quot;Taking Account of Multimorbidity in Tailoring the Approach to Care&quot; above to guide this.</p>
+<p>Consider using a validated tool such as the Electronic Frailty Index (eFI), Predicting Emergency Admissions Over the Next Year (PEONY) or QAdmissions, if available in primary care electronic health records, to identify adults with multimorbidity who are at risk of adverse events such as unplanned hospital admission or admission to care homes.</p>
+<p>Consider using primary care electronic health records to identify markers of increased treatment burden such as number of regular medicines a person is prescribed.</p>
+<p>Use an approach to care that takes account of multimorbidity for adults of any age who are prescribed 15 or more regular medicines, because they are likely to be at higher risk of adverse events and drug interactions.</p>
+<p>Consider an approach to care that takes account of multimorbidity for adults of any age who:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Are prescribed 10 to 14 regular medicines </li>
+    <li>Are prescribed fewer than 10 regular medicines but are at particular risk of adverse events </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>How to Assess Frailty</span></strong></p>
+<p>Consider assessing frailty in people with multimorbidity.</p>
+<p>Be cautious about assessing frailty in a person who is acutely unwell.</p>
+<p>Do not use a physical performance tool to assess frailty in a person who is acutely unwell.</p>
+<p><strong>Primary Care and Community Care Settings</strong></p>
+<p>When assessing frailty in primary and community care settings, consider using 1 of the following:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>An informal assessment of gait speed (for example, time taken to answer the door, time taken to walk from the waiting room) </li>
+    <li>Self-reported health status (that is, 'how would you rate your health status on a scale from 0 to 10?', with scores of 6 or less indicating frailty) </li>
+    <li>A formal assessment of gait speed, with more than 5 seconds to walk 4 metres indicating frailty </li>
+    <li>The PRISMA-7 questionnaire, with scores of 3 and above indicating frailty </li>
+</ul>
+<p><strong>Hospital Outpatient Settings</strong></p>
+<p>When assessing frailty in hospital outpatient settings, consider using 1 of the following:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Self-reported health status (that is, 'how would you rate your health status on a scale from 0 to 10?', with scores of 6 or less indicating frailty) </li>
+    <li>The 'Timed Up and Go' test, with times of more than 12 seconds indicating frailty </li>
+    <li>A formal assessment of gait speed, with more than 5 seconds to walk 4 metres indicating frailty </li>
+    <li>The PRISMA-7 questionnaire, with scores of 3 and above indicating frailty </li>
+    <li>Self-reported physical activity, with frailty indicated by scores of 56 or less for men and 59 or less for women using the Physical Activity Scale for the Elderly </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Principles of an Approach to Care That Takes Account of Multimorbidity</span></strong></p>
+<p>When offering an approach to care that takes account of multimorbidity, focus on:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>How the person's health conditions and their treatments interact and how this affects quality of life </li>
+    <li>The person's individual needs, preferences for treatments, health priorities, lifestyle and goals </li>
+    <li>The benefits and risks of following recommendations from guidance on single health conditions </li>
+    <li>Improving quality of life by reducing treatment burden, adverse events, and unplanned care </li>
+    <li>Improving coordination of care across services </li>
+</ul>
+<p>Follow these steps when delivering an approach to care that takes account of multimorbidity:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Discuss the purpose of an approach to care that takes account of multimorbidity. </li>
+    <li>Establish disease and treatment burden. </li>
+    <li>Establish patient goals, values and priorities. </li>
+    <li>Review medicines and other treatments taking into account evidence of likely benefits and harms for the individual patient and outcomes important to the person. </li>
+</ul>
+<p>See &quot;Delivering an Approach to Care That Takes Account of Multimorbidity&quot; below.</p>
+<p>Agree an individualised management plan with the person, including:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Goals and plans for future care (including advance care planning) </li>
+    <li>Who is responsible for coordination of care </li>
+    <li>How the individualised management plan and the responsibility for coordination of care is communicated to all professionals and services involved </li>
+    <li>Timing of follow-up and how to access urgent care </li>
+</ul>
+<p>See &quot;Agreeing the Individualised Management Plan&quot; below.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Delivering an Approach to Care That Takes Account of Multimorbidity</span></strong></p>
+<p>Follow the recommendations in the NICE guideline on<a href=&quot;https://www.nice.org.uk/guidance/cg138&quot; title=&quot;NICE Web site&quot;> patient experience in adult National Health Service (NHS)</a>, which provides guidance on knowing the patient as an individual, tailoring healthcare services for each patient, continuity of care and relationships, and enabling patients to actively participate in their care.</p>
+<p><strong>Discussing the Purpose of an Approach to Care that Takes Account of Multimorbidity</strong></p>
+<p>Discuss with the person the purpose of the approach to care, that is, to improve quality of life. This might include reducing treatment burden and optimising care and support by identifying:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Ways of maximising benefit from existing treatments </li>
+    <li>Treatments that could be stopped because of limited benefit </li>
+    <li>Treatments and follow-up arrangements with a high burden </li>
+    <li>Medicines with a higher risk of adverse events (for example, falls, gastrointestinal bleeding, acute kidney injury) </li>
+    <li>Non-pharmacological treatments as possible alternatives to some medicines </li>
+    <li>Alternative arrangements for follow-up to coordinate or optimise the number of appointments </li>
+</ul>
+<p><strong>Establishing Disease and Treatment Burden</strong></p>
+<p>Establish disease burden by talking to people about how their health problems affect their day-to-day life. Include a discussion of:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Mental health </li>
+    <li>How disease burden affects their wellbeing </li>
+    <li>How their health problems interact and how this affects quality of life </li>
+</ul>
+<p>Establish treatment burden by talking to people about how treatments for their health problems affect their day-to-day life. Include in the discussion:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The number and type of healthcare appointments a person has and where these take place </li>
+    <li>The number and type of medicines a person is taking and how often </li>
+    <li>Any harms from medicines </li>
+    <li>Non-pharmacological treatments such as diets, exercise programmes and psychological treatments </li>
+    <li>Any effects of treatment on their mental health or wellbeing </li>
+</ul>
+<p>Be alert to the possibility of:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Depression and anxiety (consider identifying, assessing and managing these conditions in line with the NICE guideline on <a href=&quot;https://www.nice.org.uk/guidance/cg123&quot; title=&quot;NICE Web site&quot;>common mental health problems</a>) </li>
+    <li>Chronic pain and the need to assess this and the adequacy of pain management </li>
+</ul>
+<p><strong>Establishing Patient Goals, Values and Priorities</strong></p>
+<p>Clarify with the patient whether and how they would like their partner, family members and/or carers to be involved in key decisions about the management of their conditions. Review this regularly. If the patient agrees, share information with their partner, family members and/or carers. [This recommendation is adapted from the NICE guideline on <a href=&quot;https://www.nice.org.uk/guidance/cg138&quot; title=&quot;NICE Web site&quot;>patient experience in adult NHS services</a>.]</p>
+<p>Encourage people with multimorbidity to clarify what is important to them, including their personal goals, values and priorities. These may include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Maintaining their independence </li>
+    <li>Undertaking paid or voluntary work, taking part in social activities and playing an active part in family life </li>
+    <li>Preventing specific adverse outcomes (for example, stroke) </li>
+    <li>Reducing harms from medicines </li>
+    <li>Reducing treatment burden </li>
+    <li>Lengthening life </li>
+</ul>
+<p>Explore the person's attitudes to their treatments and the potential benefits and harms of those treatments. Follow the recommendations on patient involvement in decisions about medicines and understanding the patient's knowledge, beliefs and concerns about medicines in the NICE guideline on <a href=&quot;https://www.nice.org.uk/guidance/cg76&quot; title=&quot;NICE Web site&quot;>medicines adherence</a>.</p>
+<p><strong>Reviewing Medicines and Other Treatments</strong></p>
+<p>When reviewing medicines and other treatments, use the <a href=&quot;https://www.nice.org.uk/Guidance/ng56/resources&quot; title=&quot;NICE Web site&quot;>database of treatment effects</a> to find information on:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The effectiveness of treatments </li>
+    <li>The duration of treatment trials </li>
+    <li>The populations included in treatment trials </li>
+</ul>
+<p>Consider using a screening tool (for example, the STOPP/START tool in older people) to identify medicine-related safety concerns and medicines the person might benefit from but is not currently taking. (This recommendation is adapted from NICE guideline on medicines optimisation [see the NGC summary of the NICE guideline <a href=&quot;/summaries/summary/49116/&quot; title=&quot;Guideline #10687&quot; target=&quot;_blank&quot;>Medicines optimisation: the safe and effective use of medicines to enable the best possible outcomes</a>].)</p>
+<p>When optimising treatment, think about any medicines or non-pharmacological treatments that might be started as well as those that might be stopped.</p>
+<p>Ask the person if treatments intended to relieve symptoms are providing benefits or causing harms. If the person is unsure of benefit or is experiencing harms from a treatment:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Discuss reducing or stopping the treatment </li>
+    <li>Plan a review to monitor effects of any changes made and decide whether any further changes to treatments are needed (including restarting a treatment) </li>
+</ul>
+<p>Take into account the possibility of lower overall benefit of continuing treatments that aim to offer prognostic benefit, particularly in people with limited life expectancy or frailty.</p>
+<p>Discuss with people who have multimorbidity and limited life expectancy or frailty whether they wish to continue treatments recommended in guidance on single health conditions which may offer them limited overall benefit.</p>
+<p>Discuss any changes to treatments that aim to offer prognostic benefit with the person, taking into account:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Their views on the likely benefits and harms from individual treatments </li>
+    <li>What is important to them in terms of personal goals, values and priorities (see recommendation above in this section) </li>
+</ul>
+<p>Tell a person who has been taking bisphosphonate for osteoporosis for at least 3 years that there is no consistent evidence of:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Further benefit from continuing bisphosphonate for another 3 years </li>
+    <li>Harms from stopping bisphosphonate after 3 years of treatment </li>
+</ul>
+<p>Discuss stopping bisphosphonate after 3 years and include patient choice, fracture risk and life expectancy in the discussion.</p>
+<p><strong>Agreeing the Individualised Management Plan</strong></p>
+<p>After a discussion of disease and treatment burden and the person's personal goals, values and priorities, develop and agree an individualised management plan with the person. Agree what will be recorded and what actions will be taken. These could include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Starting, stopping or changing medicines and non-pharmacological treatments </li>
+    <li>Prioritising healthcare appointments </li>
+    <li>Anticipating possible changes to health and wellbeing </li>
+    <li>Assigning responsibility for coordination of care and ensuring this is communicated to other healthcare professionals and services </li>
+    <li>Other areas the person considers important to them </li>
+    <li>Arranging a follow-up and review of decisions made </li>
+</ul>
+<p>Share copies of the management plan in an accessible format with the person and (with the person's permission) other people involved in care (including healthcare professionals, a partner, family members and/or carers).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Comprehensive Assessment in Hospital</span></strong></p>
+<p>Start a comprehensive assessment of older people with complex needs at the point of admission and preferably in a specialist unit for older people. (This recommendation is from the NGC summary of the NICE guideline <a href=&quot;/summaries/summary/49954/&quot; title=&quot;Guideline #10871&quot; target=&quot;_blank&quot;>Transition between inpatient hospital settings and community or care home settings for adults with social care needs</a>.)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Strength of Recommendations</strong></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most people would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><em>Interventions That Must (or Must Not) Be Used</em></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally 'must' (or 'must not') is used if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><em>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation</em></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of people, an intervention will do more good than harm, and be cost effective. The GDG uses similar forms of words (for example, 'Do not offer&amp;hellip;') when they are confident that an intervention will not be of benefit for most people.</p>
+<p><em>Interventions That Could Be Used</em></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most people, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the person's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the person.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A National Institute for Health and Care Excellence (NICE) pathway titled &quot;Multimorbidity Overview&quot; is available on the <a href=&quot;https://pathways.nice.org.uk/pathways/multimorbidity&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Multimorbidity (presence of 2 or more long-term health conditions)</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Geriatrics"/>
+      <fieldvalue value="Internal Medicine"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Other"/>
+      <fieldvalue value="Patients"/>
+      <fieldvalue value="Pharmacists"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Public Health Departments"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To inform patient and clinical decision-making and models of care for people with multimorbidity who would benefit from a tailored approach because of the high impact of their conditions or treatment on their quality of life or functioning</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adults (18 years and older) with multimorbidity</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: The groups that will not be covered by this guideline include:</p>
+<ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;>
+    <li>Children and young people under 18 years </li>
+    <li>People who only have multiple mental health problems and no physical health problems </li>
+    <li>People with a single long-term condition </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>General principles
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Awareness of multimorbidity (definition) </li>
+        <li>Consideration of risk factors for future disease </li>
+        <li>Discussing risks and benefits of individual treatments with patients </li>
+    </ul>
+    </li>
+    <li>Taking account of multimorbidity in tailoring the approach to care </li>
+    <li>Identifying people who may benefit from an approach to care that takes account of multimorbidity
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Use of validated tools </li>
+        <li>Taking into account the number of regular medicines prescribed </li>
+    </ul>
+    </li>
+    <li>Assessment of frailty
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Assessment in primary and community settings (informal and formal assessments of gait speed, self-reported health status, PRISMA-7 questionnaire) </li>
+        <li>Assessment in hospital outpatient setting (&quot;Timed Up and Go&quot; test, formal assessment of gait speed, PRISMA-7 questionnaire, self-reported physical activity) </li>
+    </ul>
+    </li>
+    <li>Principles of an approach to care that takes account of multimorbidity </li>
+    <li>Delivering an approach to care that takes account of multimorbidity
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Discussing the purpose of an approach to care that takes account of multimorbidity </li>
+        <li>Establishing disease and treatment burden </li>
+        <li>Establishing patient goals, values and priorities </li>
+        <li>Reviewing medicines and other treatments (including bisphosphonate for osteoporosis) </li>
+        <li>Agreeing the individualised management plan </li>
+    </ul>
+    </li>
+    <li>Comprehensive assessment in hospital </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Health-related quality of life </li>
+    <li>Morbidity and mortality </li>
+    <li>Patient and carer burden/satisfaction </li>
+    <li>Continuity of care </li>
+    <li>Healthcare utilisation (e.g., unplanned hospital admission, length of hospital stay) </li>
+    <li>Adverse events </li>
+    <li>Symptom scales (such as visual analogue scale) </li>
+    <li>Functional outcomes (e.g., mobility, activities of daily living) </li>
+    <li>Assessment test accuracy (sensitivity, specificity, number of true/false positives, true/false negatives) </li>
+    <li>Reliability, validity, and metrics related to the utility and interpretation of questionnaires </li>
+    <li>Cost-effectiveness </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Guideline Centre on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance and related appendices.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Developing the Review Questions and Outcomes</span></strong></p>
+<p>Review questions were developed using a PICO framework (patient, intervention, comparison and outcome) for intervention reviews; using a framework of population, index tests, reference standard and target condition for reviews of diagnostic test accuracy; and using population, presence or absence of factors under investigation (for example prognostic factors) and outcomes for prognostic reviews.</p>
+<p>This use of a framework guided the literature searching process, critical appraisal and synthesis of evidence, and facilitated the development of recommendations by the Guideline Development Group (GDG). The review questions were drafted by the National Guideline Centre technical team and refined and validated by the GDG. The questions were based on the key clinical areas identified in the scope (see Appendix A).</p>
+<p>A total of 18 review questions were identified. Full literature searches, critical appraisals and evidence reviews were completed for all the specified review questions (see Table 1 in the full version of the guideline).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Searching for Evidence</span></strong></p>
+<p><strong>Clinical Literature Search</strong></p>
+<p>Systematic literature searches were undertaken to identify the published clinical evidence relevant to the review questions. Searches were undertaken according to the parameters stipulated within the NICE guidelines manual (see the &quot;Availability of Companion Documents&quot; field). Databases were searched using relevant medical subject headings, free-text terms and study-type filters where appropriate. Where possible, searches were restricted to articles published in English. Studies published in languages other than English were not reviewed. All searches were conducted in Medline, EMBASE, and The Cochrane Library. Additional subject specific databases were used for some questions: AMED for models of care; CINAHL for barriers, models or care and burden of treatment; PsycINFO for barriers and burden of treatment. All searches were updated on 4 January 2016. One additional paper published after this date was included following stakeholder consultation.</p>
+<p>Search strategies were quality assured by cross-checking reference lists of highly relevant papers, analysing search strategies in other systematic reviews, and asking GDG members to highlight any additional studies. Searches were quality assured by a second information scientist before being run. The questions, the study types applied, the databases searched and the years covered can be found in Appendix G.</p>
+<p>The titles and abstracts of records retrieved by the searches were sifted for relevance, with potentially significant publications obtained in full text. These were assessed against the inclusion criteria. Reference lists for papers that met the inclusion criteria were checked for further potentially relevant papers. These papers were obtained in full text and assessed against the inclusion criteria.</p>
+<p>During the scoping stage, a search was conducted for guidelines and reports on the Web sites listed below from organisations relevant to the topic.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Guidelines International Network database (<a href=&quot;http://www.g-i-n.net/&quot; title=&quot;G-I-N Web site&quot;>www.g-i-n.net</a>) </li>
+    <li>National Guideline Clearinghouse (<a href=&quot;https://www.guideline.gov/&quot; title=&quot;NGC Web site&quot; target=&quot;_blank&quot;>www.guideline.gov</a>) </li>
+    <li>National Institute for Health and Care Excellence (NICE) (<a href=&quot;https://www.nice.org.uk/&quot; title=&quot;NICE Web site&quot;>www.nice.org.uk</a>) </li>
+    <li>National Institutes of Health Consensus Development Program (<a href=&quot;https://consensus.nih.gov/&quot; title=&quot;National Institutes of Health Consensus Development Program Web site&quot; target=&quot;_blank&quot;>consensus.nih.gov</a>) </li>
+    <li>National Health Service (NHS) Evidence Search (<a href=&quot;http://www.evidence.nhs.uk/&quot; title=&quot;NHS Evidence Search Web site&quot;>www.evidence.nhs.uk</a>) </li>
+</ul>
+<p>All references sent by stakeholders were considered. Searching for unpublished literature was not undertaken. The National Guideline Centre and NICE do not have access to drug manufacturers' unpublished clinical trial results, so the clinical evidence considered by the GDG for pharmaceutical interventions may be different from that considered by the Medicines and Healthcare Products Regulatory Agency (MHRA) and European Medicines Agency for the purposes of licensing and safety regulation.</p>
+<p><strong>Health Economic Literature Search</strong></p>
+<p>Systematic literature searches were also undertaken to identify health economic evidence within published literature relevant to the review questions. The evidence was identified by conducting a broad search relating to multimorbidity in the: NHS Economic Evaluation Database (NHS EED), the Health Technology Assessment database (HTA) and the Health Economic Evaluations Database (HEED) with no date restrictions (NHS EED ceased to be updated after March 2015; HEED was used for searches up to December 2014 but subsequently ceased to be available). Additionally, the search was run on Medline and EMBASE using a health economic filter, from 2013, to ensure recent publications that had not yet been indexed by the economic databases were identified. This was supplemented by additional searches that looked for economic papers specifically relating to models of care, holistic assessment, burden of treatment and stopping treatments on Medline, EMBASE, NHS EED, HTA and HEED as it became apparent that some papers in this area had not been identified by the first search. Where possible, searches were restricted to articles published in English. Studies published in languages other than English were not reviewed.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Identifying Evidence of Effectiveness</span></strong></p>
+<p>The GDG is required to make decisions based on the best available evidence of both clinical effectiveness and cost-effectiveness. Guideline recommendations should be based on the expected costs of the different options in relation to their expected health benefits (that is, their 'cost-effectiveness') in addition to the total implementation cost.</p>
+<p>Health economic evidence was sought relating to the key clinical issues being addressed in the guideline. Health economists:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Undertook a systematic review of the published economic literature </li>
+    <li>Undertook new cost-effectiveness analysis in priority areas </li>
+</ul>
+<p>Research fellows conducted the tasks listed below:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Identified potentially relevant studies for each review question from the relevant search results by reviewing titles and abstracts. Full papers were then obtained. </li>
+    <li>Reviewed full papers against pre-specified inclusion and exclusion criteria to identify studies that addressed the review question in the appropriate population, and reported on outcomes of interest (review protocols are included in Appendix C). </li>
+</ul>
+<p><strong>Inclusion and Exclusion Criteria</strong></p>
+<p>The inclusion and exclusion of studies was based on the criteria defined in the review protocols, which can be found in Appendix C. Excluded studies by review question (with the reasons for their exclusion) are listed in Appendix L. The GDG was consulted about any uncertainty regarding inclusion or exclusion.</p>
+<p>The key population inclusion criterion, relevant across the majority of the reviews in the guideline, was adults with multimorbidity. Multimorbidity was defined as the presence of two or more chronic conditions where these included at least one physical health condition. The key population exclusion criterion was people without multimorbidity, or people with multimorbidity with two or more mental health conditions without a coexisting physical health condition.</p>
+<p>During development, it was noted that the majority of papers identified in literature searches did not specify whether the study population was multimorbid, or reported baseline characteristics that were unclear or unreliable measures of multimorbidity. The GDG agreed a standard for including papers without clear reporting of the multimorbidity of the population in a review, and under what circumstances these would be downgraded for indirectness as part of the quality process. This standard was intended to maximise the likelihood that papers included in the reviews were including people with multimorbidity, while also not excluding the vast majority of evidence that was identified. The standard used across the majority of the reviews is as follows:</p>
+<p>Where papers clearly reported the proportion of people in the study sample who were multimorbid:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A paper was included if &amp;gt;95% of the population were multimorbid. </li>
+    <li>A paper was included if 80% to 95% of the population were multimorbid and was downgraded once for indirectness. </li>
+    <li>A paper was excluded if &amp;lt;80% of the population were multimorbid </li>
+</ul>
+<p>Where papers did not clearly report the proportion of people in the study sample who were multimorbid:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A paper was included if the study sample was an older adult population (&amp;gt;65 years) and downgraded for indirectness. This standard is based on evidence that approximately 70% of older adults have two or more comorbidities. Papers were excluded if other baseline characteristics indicated that the population was not multimorbid. </li>
+    <li>A paper may be included if the reviewer believed that the population is likely to be multimorbid based on the study characteristics reported in the paper. This included consideration of the population characteristics (for example, proportion of study population identified as frail; place of residence) and the study characteristics (for example, study aims and settings). These decisions were agreed with the GDG. </li>
+</ul>
+<p>The GDG discussed reliable metrics of multimorbidity. The GDG agreed that the following metrics were not reliable indices of multimorbidity and papers could not be included based on these measures: (i) disease counts (for example, the Charlson comorbidity index), (ii) the mean number of conditions in the study sample, (iii) the N and % of participants with each single condition. These metrics were identified as being unreliable as they do not account for the propensity for conditions to 'cluster' such that individuals with one long-term condition are more likely than the general population to develop further long-term conditions.</p>
+<p>In some cases, the standard was adjusted according to the need of the review. For example, studies with older adults where the proportion of the study sample with multimorbidity was unclear were not downgraded for indirectness if the GDG felt that this would not contribute to a difference in the effect size. Any alterations to the standard, and the rationale for this, is explained in the introduction for each of the reviews (see the full version of the guideline).</p>
+<p>Literature reviews, abstracts, posters, letters, editorials, comment articles, unpublished studies and studies not in English were excluded.</p>
+<p><strong>Type of Studies</strong></p>
+<p>Randomised trials, observational studies (including diagnostic, prognostic, and questionnaire performance studies), qualitative studies, and previously published guidelines were included in the evidence reviews as appropriate.</p>
+<p>For all intervention reviews in this guideline, parallel randomised controlled trials (RCTs) were prioritised for inclusion because they are considered the most robust type of study design that can produce an unbiased estimate of the intervention effects. For each intervention review, the GDG considered whether non-randomised trials were appropriate for inclusion. In all instances the GDG felt that RCTs would provide a better standard of evidence and therefore decided to only include non-randomised trials if no RCTs were included. No non-randomised trials were included in the guideline.</p>
+<p>For diagnostic review questions, prospective and retrospective cohort studies in which the index test(s) and the reference standard test are applied to the same patients in a cross-sectional design were included. For prognostic review questions, prospective and retrospective cohort studies were included. Case&amp;ndash;control studies were not included.</p>
+<p>Two types of qualitative review were used in this guideline.</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>One of these reviews sought the perspectives of individuals with multimorbidity, their carers, and healthcare professionals who provide care for people with multimorbidity. This review included interview and focus group studies. </li>
+    <li>A separate review sought to identify principles for the care of people with multimorbidity that are recommended by experts in the care of multimorbidity, including people with multimorbidity, their carers, and healthcare professionals who care for people with multimorbidity. This review examined included reported advice and recommendations from already published guidelines relevant to the care of people with multimorbidity, including NICE guidelines, guidelines published by other recognised professional health groups, and other publications where the primary aim was to report recommendations for clinical practice. </li>
+</ol>
+<p>In this guideline one questionnaire performance review was conducted to evaluate the performance of questionnaires where there was no established reference standard (gold standard) with which to derive diagnostic accuracy data. Cross-sectional, retrospective and prospective cohort studies were included.</p>
+<p>Please refer to the review protocols in Appendix C for full details on the study design of studies selected for each review question.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Identifying Evidence of Cost-effectiveness</span></strong></p>
+<p>Health economic evidence was sought relating to the key clinical issues being addressed in the guideline. Health economists:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Undertook a systematic review of the published economic literature </li>
+    <li>Undertook new cost-effectiveness analysis in priority areas </li>
+</ul>
+<p><strong>Literature Review</strong></p>
+<p>The health economists:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Identified potentially relevant studies for each review question from the health economic search results by reviewing titles and abstracts. Full papers were then obtained. </li>
+    <li>Reviewed full papers against pre-specified inclusion and exclusion criteria to identify relevant studies (see below for details). </li>
+</ul>
+<p><strong>Inclusion and Exclusion Criteria</strong></p>
+<p>Full economic evaluations (studies comparing costs and health consequences of alternative courses of action: cost-utility, cost-effectiveness, cost-benefit and cost-consequences analyses) and comparative costing studies that addressed the review question in the relevant population were considered potentially includable as economic evidence.</p>
+<p>Studies that only reported cost per hospital (not per patient), or only reported average cost-effectiveness without disaggregated costs and effects were excluded. Literature reviews, abstracts, posters, letters, editorials, comment articles, unpublished studies and studies not in English were excluded. Studies published before 1999 and studies from non-Organisation for Economic Co-operation and Development (OECD) countries or the USA were also excluded, on the basis that the applicability of such studies to the present UK NHS context is likely to be too low for them to be helpful for decision-making.</p>
+<p>Remaining health economic studies were prioritised for inclusion based on their relative applicability to the development of this guideline and the study limitations. For example, if a high quality, directly applicable UK analysis was available, then other less relevant studies may not have been included. Where exclusions occurred on this basis, this is noted in the relevant section.</p>
+<p>For more details about the assessment of applicability and methodological quality see Table 13 in the full version of the guideline and the economic evaluation checklist (Appendix G of the 2012 NICE guidelines manual) and the health economics review protocol in Appendix D.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>See Appendix E: Clinical Study Selection and F: Health Economic Study Selection (see the &quot;Availability of Companion Documents&quot; field) for detailed flow charts on the article selection process, including total number of records identified through database searching, records screened, records excluded, full-text articles assessed for eligibility, studies included in review, and studies excluded from review.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Level</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>High</th>
+            <td valign=&quot;top&quot;>Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Moderate</th>
+            <td valign=&quot;top&quot;>Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Low</th>
+            <td valign=&quot;top&quot;>Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>Very Low</th>
+            <td valign=&quot;top&quot;>Any estimate of effect is very uncertain.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Meta-Analysis"/>
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Guideline Centre on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance and related appendices.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Analysing Evidence of Effectiveness</span></strong></p>
+<p>Research fellows conducted the tasks listed below:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Critically appraised relevant studies using appropriate study design checklist as specified in the NICE guidelines manual (see the &quot;Availability of Companion Documents&quot; field). Prognostic risk factor reviews were appraised using Quality in Prognostic Studies (QUIPS), prognostic risk tool reviews were appraised using a risk of bias tool for prediction modelling studies (PROBAST), qualitative studies were critically appraised using National Guideline Centre checklists, and previously published guidelines were appraised using Appraisal of Guidelines for Research and Evaluation II (AGREE II). </li>
+    <li>Extracted key information about interventional study methods and results using 'Evibase', National Guideline Centre's purpose-built software. Evibase produces summary evidence tables, including critical appraisal ratings. Key information about non-interventional study methods and results was manually extracted onto standard evidence tables and critically appraised separately (evidence tables are included in Appendix H). </li>
+    <li>Generated summaries of the evidence by outcome. Outcome data were combined, analysed and reported according to study design:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Randomised data for intervention reviews were meta-analysed where appropriate and reported in Grading of Recommendations Assessment, Development and Evaluation (GRADE) profiles. Where meta-analysis was not appropriate due to heterogeneity across studies, data from individual studies was presented separately. </li>
+        <li>Diagnostic accuracy and prognostic data were meta-analysed where appropriate and reported in adapted GRADE profile tables. Where meta-analysis was not appropriate due to heterogeneity across studies, data from individual studies was presented separately. </li>
+        <li>Qualitative data was summarised across studies where appropriate and reported in themes. </li>
+        <li>Questionnaire performance data was presented as a range of values in adapted GRADE profiles. </li>
+    </ul>
+    </li>
+    <li>A sample of a minimum of 10% of the abstract lists of the first 3 sifts by new reviewers and those for complex review questions (for example, prognostic reviews) were double-sifted by a senior research fellow and any discrepancies were rectified. All of the evidence reviews were quality assured by a senior research fellow. This included checking:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Papers were included or excluded appropriately </li>
+        <li>A sample of the data extractions </li>
+        <li>Correct methods were used to synthesise data </li>
+        <li>A sample of the risk of bias assessments </li>
+    </ul>
+    </li>
+</ul>
+<p><strong>Methods of Combining Clinical Studies</strong></p>
+<p><em>Data Synthesis for Intervention Reviews</em></p>
+<p>Where possible, meta-analyses were conducted using Cochrane Review Manager (RevMan5) software to combine the data given in all studies for each of the outcomes of interest for the review question.</p>
+<p>For some questions, the Guideline Development Group (GDG) specified that data should be stratified, meaning that studies that varied on a particular factor were not combined and analysed together. Where stratification was used, this is documented in the individual question protocols (see Appendix C). If additional strata were used this led to sub-strata (for example, 2 stratification criteria would lead to 4 sub-strata categories, or 3 stratification criteria would lead to 9 sub-strata categories) which would be analysed separately.</p>
+<p><span style=&quot;text-decoration: underline;&quot;>Analysis of Different Types of Data</span></p>
+<p>See Section 4.6.3.1.1 of the full version of the guideline for details regarding analysis of different types of data including dichotomous outcomes, continuous outcomes, generic inverse variance, and heterogeneity.</p>
+<p><em>Data Synthesis for Diagnostic Test Accuracy Reviews</em></p>
+<p>For diagnostic test accuracy studies, a positive result on the index test was found if the patient had values of the measured quantity above or below a threshold value, and different thresholds could be used. The thresholds were pre-specified by the GDG including whether or not data could be pooled across a range of thresholds. Diagnostic test accuracy measures used in the analysis were: area under the receiver operating characteristics (ROC) curve (AUC or C-statistic), and, for different thresholds (if appropriate), sensitivity and specificity. The threshold of a diagnostic test is defined as the value at which the test can best differentiate between those with and without the target condition. In practice this varies amongst studies. If a test has a high sensitivity then very few people with the condition will be missed (few false negatives). For example, a test with a sensitivity of 97% will only miss 3% of people with the condition. Conversely, if a test has a high specificity then few people without the condition would be incorrectly diagnosed (few false positives). For example, a test with a specificity of 97% will only incorrectly diagnose 3% of people who do not have the condition as positive. For each review, the GDG discussed the relative importance of sensitivity versus specificity, taking into consideration the clinical context of the review. Coupled forest plots of sensitivity and specificity with their 95% CIs across studies (at various thresholds) were produced for each test, using RevMan5. In order to do this, 2&amp;times;2 tables (the number of true positives, false positives, true negatives and false negatives) were directly taken from the study if given, or else were derived from raw data or calculated from the set of test accuracy statistics.</p>
+<p>Diagnostic meta-analysis was considered but was not conducted due to insufficient data. Evidence was presented individually, or as the median sensitivity and specificity where more than one study reported evidence for the same tool. If an even number of studies were reported the results of the study with the lower specificity value of the 2 middle studies was reported, alongside the full range of CIs from all studies.</p>
+<p>Heterogeneity or inconsistency amongst studies was visually inspected in the forest plots.</p>
+<p>Area under the ROC curve (AUC) data for each study were also plotted on a graph, for each diagnostic test. The AUC describes the overall diagnostic accuracy across the full range of thresholds.</p>
+<p>Refer to the full version of the guideline for methods used for data synthesis for prognostic factor reviews, risk prediction tools, qualitative study reviews, and questionnaire performance reviews.</p>
+<p><strong>Appraising the Quality of Evidence by Outcomes</strong></p>
+<p><em>Intervention Reviews</em></p>
+<p>The evidence for outcomes from the included randomised controlled trials (RCTs) was evaluated and presented using an adaptation of the 'GRADE toolbox' developed by the international GRADE working group (<a href=&quot;http://www.gradeworkinggroup.org/&quot; title=&quot;GRADE Web site&quot;>http://www.gradeworkinggroup.org</a>/). The software (GRADEpro) developed by the GRADE working group was used to assess the quality of each outcome, taking into account individual study quality and the meta-analysis results.</p>
+<p>See Table 3 in the full version of the guideline for description of quality elements in GRADE for intervention studies. Details of how the 4 main quality elements (risk of bias, indirectness, inconsistency and imprecision) were appraised for each outcome are given in sections 4.3.4.1.1-4.3.4.1.4 of the full version of the guideline. Publication or other bias was only taken into consideration in the quality assessment if it was apparent.</p>
+<p><span style=&quot;text-decoration: underline;&quot;>Overall Grading of the Quality of Clinical Evidence</span></p>
+<p>Once an outcome had been appraised for the main quality elements, an overall quality grade was calculated for that outcome. The scores (0, &amp;minus;1 or &amp;minus;2) from each of the main quality elements were summed to give a score that could be anything from 0 (the best possible) to &amp;minus;8 (the worst possible). However scores were capped at &amp;minus;3. This final score was then applied to the starting grade that had originally been applied to the outcome by default, based on study design. All RCTs started as High and the overall quality became Moderate, Low or Very Low if the overall score was &amp;minus;1, &amp;minus;2 or &amp;minus;3 points respectively. The reasons for downgrading in each case were specified in the footnotes of the GRADE tables.</p>
+<p>Observational interventional studies started at Low, and so a score of &amp;minus;1 would be enough to take the grade to the lowest level of Very Low. Observational studies could, however, be upgraded if there were all of: a large magnitude of effect, a dose-response gradient, and if all plausible confounding would reduce the demonstrated effect.</p>
+<p>See the &quot;Rating Scheme for the Strength of the Evidence&quot; field.</p>
+<p>Refer to the full version of the guideline for descriptions of the methods for appraising evidence quality for diagnostic studies, prognostic risk tool studies, qualitative reviews, and questionnaire performance reviews.</p>
+<p><strong>Assessing Clinical Importance</strong></p>
+<p>The GDG assessed the evidence by outcome in order to determine if there was, or potentially was, a clinically important benefit, a clinically important harm or no clinically important difference between interventions. To facilitate this, binary outcomes were converted into absolute risk differences (ARDs) using GRADEpro software: the median control group risk across studies was used to calculate the ARD and its 95% CI from the pooled risk ratio.</p>
+<p>To interpret the clinical evidence for EQ-5D and 36-Item Short Form Survey (SF-36) health related quality of life outcomes, the default minimal important differences (MIDs) (as described in Section 4.3.4.1.4 of the full version of the guideline) were used to identify if the difference between the intervention and comparison indicated a clinical benefit or harm. For other outcomes where MIDs from the literature were not available, the GDG discussed and agreed on whether the point estimate of absolute effect indicated a clinical benefit, harm, or no benefit or harm for each critical outcome. For the critical outcomes of mortality and admission to care home, the GDG agreed that any change would be clinically important; that is, any reduction represented a clinical benefit and any increase represented a clinical harm.</p>
+<p>An evidence summary table was produced to compile the GDG's assessments of clinical importance per outcome, alongside the evidence quality and the uncertainty in the effect estimate (imprecision).</p>
+<p><strong>Clinical Evidence Statements</strong></p>
+<p>Clinical evidence statements are summary statements that are included in each review chapter, and which summarise the key features of the clinical effectiveness evidence presented. For reviews in this guideline with a limited amount of clinical effectiveness evidence, the evidence statements are presented by outcome and encompass the following key features of the evidence:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The number of studies and the number of participants for a particular outcome </li>
+    <li>An indication of the direction of clinical importance (if one treatment is beneficial or harmful compared to the other or whether there is no difference between the 2 tested treatments) </li>
+    <li>A description of the overall quality of the evidence (GRADE overall quality) </li>
+</ul>
+<p>Some of the reviews in this guideline contained a large amount of clinical effectiveness evidence (for example, where a large number of different risk tools were evaluated). For these reviews, a summary of the clinical effectiveness evidence was provided, which encompassed the following key features of the evidence:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The overall direction of the evidence (for example, the GDG's impression of the clinical effectiveness of the interventions identified and whether any interventions emerged as being strongly clinically beneficial or harmful across critical outcomes) </li>
+    <li>Any variation in the direction or quality of the evidence (for example, if the evidence for an intervention was weaker or stronger in a particular strata or subgroup) </li>
+    <li>More detailed description of key evidence, such as that which was integral to the GDG's discussion and formulation of a recommendation (for example, interventions that emerged as strongly beneficial for people with multimorbidity), including the number of studies and participants for a particular outcome, and a description of the overall quality of the evidence (GRADE overall quality) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Analysing Evidence of Cost-effectiveness</span></strong></p>
+<p>The GDG is required to make decisions based on the best available evidence of both clinical effectiveness and cost-effectiveness. Guideline recommendations should be based on the expected costs of the different options in relation to their expected health benefits (that is, their 'cost-effectiveness') in addition to the total implementation cost.</p>
+<p>Health economic evidence was sought relating to the key clinical issues being addressed in the guideline. Health economists:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Undertook a systematic review of the published economic literature </li>
+    <li>Undertook new cost-effectiveness analysis in priority areas </li>
+</ul>
+<p><strong>Literature Review</strong></p>
+<p>The health economists:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Critically appraised relevant studies using economic evaluations checklists as specified in the NICE guidelines manual (see the &quot;Availability of Companion Documents&quot; field) </li>
+    <li>Extracted key information about the studies' methods and results into economic evidence tables (included in Appendix I) </li>
+    <li>Generated summaries of the evidence in NICE economic evidence profile tables (included in the relevant chapter for each review question) </li>
+</ul>
+<p><strong>NICE Economic Evidence Profiles</strong></p>
+<p>NICE economic evidence profile tables were used to summarise cost and cost-effectiveness estimates for the included health economic studies in each review chapter. The economic evidence profile shows an assessment of applicability and methodological quality for each economic study, with footnotes indicating the reasons for the assessment. These assessments were made by the health economist using the economic evaluation checklist from the NICE guidelines manual. It also shows the incremental costs, incremental effects (for example, quality-adjusted life years [QALYs]) and incremental cost-effectiveness ratio (ICER) for the base case analysis in the study, as well as information about the assessment of uncertainty in the analysis. See Table 13 in the full version of the guideline for more details.</p>
+<p>When a non-UK study was included in the profile, the results were converted into pounds sterling using the appropriate purchasing power parity.</p>
+<p><strong>Undertaking New Health Economic Analysis</strong></p>
+<p>As well as reviewing the published health economic literature for each review question, as described above, new health economic analysis was undertaken by the health economist in selected areas. Priority areas for new analysis were agreed by the GDG after formation of the review questions and consideration of the existing health economic evidence.</p>
+<p>The GDG identified outpatient holistic assessment as the highest priority area for original health economic modelling. This area was prioritised as there was uncertainty around the cost-effectiveness of holistic assessment as it increases costs but the evidence showed some benefits. More details on the original analysis are reported in Chapter 11 in the full version of the guideline and Appendix N.</p>
+<p>The following general principles were adhered to in developing the cost-effectiveness analysis:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Methods were consistent with the NICE reference case for interventions with health outcomes in National Health Service (NHS) settings. </li>
+    <li>The GDG was involved in the design of the model, selection of inputs and interpretation of the results. </li>
+    <li>Model inputs were based on the systematic review of the clinical literature supplemented with other published data sources where possible. </li>
+    <li>When published data were not available GDG expert opinion was used to populate the model. </li>
+    <li>Model inputs and assumptions were reported fully and transparently. </li>
+    <li>The results were subject to sensitivity analysis and limitations were discussed. </li>
+    <li>The model was peer-reviewed by another health economist at the National Guideline Centre. </li>
+</ul>
+<p>Full methods for the cost-effectiveness analysis for holistic assessment are described in Appendix N.</p>
+<p><strong>Cost-effectiveness Criteria </strong></p>
+<p>NICE's report 'Social value judgements: principles for the development of NICE guidance' sets out the principles that GDGs should consider when judging whether an intervention offers good value for money. In general, an intervention was considered to be cost-effective if either of the following criteria applied (given that the estimate was considered plausible): </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The intervention dominated other relevant strategies (that is, it was both less costly in terms of resource use and more clinically effective compared with all the other relevant alternative strategies), or </li>
+    <li>The intervention cost less than &amp;pound;20,000 per QALY gained compared with the next best strategy </li>
+</ul>
+<p>If the GDG recommended an intervention that was estimated to cost more than &amp;pound;20,000 per QALY gained, or did not recommend one that was estimated to cost less than &amp;pound;20,000 per QALY gained, the reasons for this decision are discussed explicitly in the 'Recommendations and link to evidence' section of the relevant chapter, with reference to issues regarding the plausibility of the estimate or to the factors set out in 'Social value judgements: principles for the development of NICE guidance'.</p>
+<p>When QALYs or life years gained are not used in the analysis, results are difficult to interpret unless one strategy dominates the others with respect to every relevant health outcome and cost.</p>
+<p><strong>In the Absence of Economic Evidence</strong></p>
+<p>When no relevant published health economic studies were found, and a new analysis was not prioritised, the GDG made a qualitative judgement about cost-effectiveness by considering expected differences in resource use between options and relevant UK NHS unit costs, alongside the results of the review of clinical effectiveness evidence.</p>
+<p>The UK NHS costs reported in the guideline are those that were presented to the GDG and were correct at the time recommendations were drafted. They may have changed subsequently before the time of publication. However, the GDG has no reason to believe they have changed substantially.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+      <fieldvalue value="Informal Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Guideline Centre on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance and related appendices.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Who Developed This Guideline?</span></strong></p>
+<p>A multidisciplinary Guideline Development Group (GDG) comprising health professionals and researchers as well as lay members developed this guideline.</p>
+<p>NICE funds the National Guideline Centre and thus supported the development of this guideline. The GDG was convened by the National Guideline Centre in accordance with guidance from NICE.</p>
+<p>The group met approximately every 5 to 6 weeks during the development of the guideline. Staff from the National Guideline Centre provided methodological support and guidance for the development process. The team working on the guideline included a project manager, systematic reviewers (research fellows), health economists and information scientists. They undertook systematic searches of the literature, appraised the evidence, conducted meta-analysis and cost-effectiveness analysis where appropriate and drafted the guideline in collaboration with the GDG.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Developing Recommendations</span></strong></p>
+<p>Over the course of the guideline development process, the GDG was presented with:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Evidence tables of the clinical and economic evidence reviewed from the literature. All evidence tables are in Appendices H and I. </li>
+    <li>Summaries of clinical and economic evidence and quality </li>
+    <li>Forest plots (see Appendix K) </li>
+    <li>A description of the methods and results of the cost-effectiveness analysis undertaken for the guideline (see Appendix N) </li>
+</ul>
+<p>Recommendations were drafted on the basis of the GDG's interpretation of the available evidence, taking into account the balance of benefits, harms and costs between different courses of action. This was either done formally in an economic model, or informally. Firstly, the net clinical benefit over harm (clinical effectiveness) was considered, focusing on the critical outcomes. When this was done informally, the GDG took into account the clinical benefits and harms when one intervention was compared with another. The assessment of net clinical benefit was moderated by the importance placed on the outcomes (the GDG's values and preferences), and the confidence the GDG had in the evidence (evidence quality). Secondly, the GDG assessed whether the net clinical benefit justified any differences in costs between the alternative interventions.</p>
+<p>When clinical and economic evidence was of poor quality, conflicting or absent, the GDG drafted recommendations based on its expert opinion. The considerations for making consensus-based recommendations include the balance between potential harms and benefits, the economic costs compared to the economic benefits, current practices, recommendations made in other relevant guidelines, patient preferences and equality issues. The consensus recommendations were agreed through discussions in the GDG. The GDG also considered whether the uncertainty was sufficient to justify delaying making a recommendation to await further research, taking into account the potential harm of failing to make a clear recommendation.</p>
+<p>The GDG considered the appropriate 'strength' of each recommendation. This takes into account the quality of the evidence but is conceptually different. Some recommendations are 'strong' in that the GDG believes that the vast majority of healthcare and other professionals and patients would choose a particular intervention if they considered the evidence in the same way that the GDG has. This is generally the case if the benefits clearly outweigh the harms for most people and the intervention is likely to be cost effective. However, there is often a closer balance between benefits and harms, and some patients would not choose an intervention whereas others would. This may happen, for example, if some patients are particularly averse to some side effect and others are not. In these circumstances the recommendation is generally weaker, although it may be possible to make stronger recommendations about specific groups of patients.</p>
+<p>The GDG focused on the following factors in agreeing the wording of the recommendations:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The actions health professionals need to take </li>
+    <li>The information readers need to know </li>
+    <li>The strength of the recommendation (for example the word 'offer' was used for strong recommendations and 'consider' for weaker recommendations) </li>
+    <li>The involvement of patients (and their carers if needed) in decisions on treatment and care </li>
+    <li>Consistency with NICE's standard advice on recommendations about drugs, waiting times and ineffective interventions (see Section 9.2 in the 2014 NICE guidelines manual [see the &quot;Availability of Companion Documents&quot; field]) </li>
+</ul>
+<p>The main considerations specific to each recommendation are outlined in the 'Recommendations and link to evidence' sections within each chapter in the full version of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Strength of Recommendations</span></strong></p>
+<p>Some recommendations can be made with more certainty than others, depending on the quality of the underpinning evidence. The Committee makes a recommendation based on the trade-off between the benefits and harms of a system, process or an intervention, taking into account the quality of the underpinning evidence. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><strong>Interventions That Must (or Must Not) Be Used</strong></p>
+<p>The Committee usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally the Committee uses 'must' (or 'must not') if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><strong>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation</strong></p>
+<p>The Committee uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of people, a system, process or an intervention will do more good than harm, and be cost effective. Similar forms of words (for example, 'Do not offer&amp;hellip;') are used when the Committee is confident that an intervention will not be of benefit for most people.</p>
+<p><strong>Interventions That Could Be Used</strong></p>
+<p>The Committee uses 'consider' when confident that a system, process or an intervention will do more good than harm for most people, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the person's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the person.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>See the Economic Evidence sections for each review question in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Economic Modelling</span></strong></p>
+<p>The full economic write-up which details all assumptions and model inputs can be found in Appendix N. A summary of the model is provided below. See Section 10.2.4. of the full version of the guideline for results (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p><strong>Model Overview</strong></p>
+<p>The model compared community low intensity holistic assessment (HA) to usual care. The details of the intervention (HA) were obtained from the clinical study which contributed the most to the clinical outcomes, that is, the study which had the highest weight in the meta-analysis on mortality. In this study people in the HA arm received an assessment from a nurse, followed by the formulation and agreement of a care plan which is jointly done by a general practitioner (GP) and a nurse. The usual care arm received no assessment or care plan. Few patients in the clinical study had a repeated HA, therefore in a sensitivity analysis the Guideline Development Group (GDG) assumed the HA was repeated every year for the first three years.</p>
+<p>The analysis follows the standard assumptions of the National Institute for Health and Care Excellence (NICE) reference case including discounting at 3.5% for costs and health effects, and the National Health Service (NHS) and personal and social services perspective; a lifetime horizon was chosen to take into account the mortality outcome.</p>
+<p>The model is a Markov model where people start either at home, in a residential care home, or in a nursing care home. They will then move to the 'Death' state according to the intervention-specific probability. There is no other possible transition between 'at home', 'residential care home', and 'nursing care home' states because no evidence was found to inform these transition probabilities. Mortality specific to the residential status of individuals could not be incorporated into the model and this was considered independent from the setting. Costs and quality-adjusted life years (QALYs) are accrued in each cycle based on the proportion of individuals in each health state, and according to the cost of the intervention in cycle 0.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Validation Process</span></strong></p>
+<p>This guidance is subject to a 6-week public consultation and feedback as part of the quality assurance and peer review of the document. All comments received from registered stakeholders are responded to in turn and posted on the National Institute for Health and Care Excellence (NICE) Web site. See Chapter 10 of <em>Developing NICE guidelines: the manual (2014)</em> (see the &quot;Availability of Companion Documents&quot; field) for more information on the validation process for draft guidelines and dealing with stakeholder comments.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of evidence supporting the recommendations is not specifically stated.</p>
+<p>See the &quot;Types of Studies&quot; section in the &quot;Description of Methods Used to Collect/Select the Evidence&quot; field for information on the type of studies used to formulate the recommendations.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Optimised care for adults with multimorbidity </li>
+    <li>Reduced treatment burden (polypharmacy and multiple appointments) and unplanned care </li>
+    <li>Improved quality of life </li>
+</ul>
+<p>Refer to the &quot;Trade-off between benefits and harms&quot; sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for details about benefits of specific processes, interventions and tools.</p>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Guideline Development Group (GDG) noted that the evidence demonstrated that people who are taking 10 or more drugs are at higher risk of adverse events than people who are taking 5 or more drugs. The GDG noted that the evidence demonstrated that people prescribed 15 or more drugs may be at significantly higher risk of unplanned hospital admissions and agreed via consensus that they may also be at increased risk of mortality.</p>
+<p>Refer to the &quot;Trade-off between benefits and harms&quot; sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for details about harms of specific processes, interventions, and tools.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The recommendations in this guideline represent the view of the National Institute for Health and Care Excellence (NICE), arrived at after careful consideration of the evidence available. When exercising their judgement, professionals are expected to take this guideline fully into account, alongside the individual needs, preferences and values of their patients or service users. The application of the recommendations in this guideline are not mandatory and the guideline does not override the responsibility of healthcare professionals to make decisions appropriate to the circumstances of the individual patient, in consultation with the patient and/or their carer or guardian. </li>
+    <li>Local commissioners and/or providers have a responsibility to enable the guideline to be applied when individual health professionals and their patients or service users wish to use it. They should do so in the context of local and national priorities for funding and developing services, and in light of their duties to have due regard to the need to eliminate unlawful discrimination, to advance equality of opportunity and to reduce health inequalities. Nothing in this guideline should be interpreted in a way that would be inconsistent with compliance with those duties. </li>
+    <li>The National Guideline Centre disclaims any responsibility for damages arising out of the use or non-use of this guideline and the literature used in support of this guideline. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Putting This Guideline into Practice</span></strong></p>
+<p>The National Institute for Health and Care Excellence (NICE) has produced <a href=&quot;https://www.nice.org.uk/guidance/ng56/resources&quot; title=&quot;NICE Web site&quot;>tools and resources</a> to help put this guideline into practice (see also the &quot;Availability of Companion Documents&quot; field).</p>
+<p>Some issues were highlighted that might need specific thought when implementing the recommendations. These were raised during the development of this guideline. They are:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Using primary care electronic health records to identify people who may benefit from an approach to care that takes account of multimorbidity may require some area-wide provision or coordination of search tools if these are not already built into clinical information technology (IT) systems. </li>
+    <li>Sharing copies of individualised management plans in an accessible format can be done electronically such as through the National Health Service (NHS) Summary Care Record, with enhanced functionality now available in 99% of general practitioner (GP) practices in England, or by ensuring that the person always has an up-to-date paper copy of their plan at home. </li>
+    <li>The most appropriate healthcare professional to develop and implement the individualised management plan may vary by area and depend on the individual needs and preferences of the person with multimorbidity. However, it is important that it is clear in different areas who should generally be responsible. </li>
+</ul>
+<p>Putting a guideline fully into practice can take time. How long may vary from guideline to guideline, and depends on how much change in practice or services is needed. Implementing change is most effective when aligned with local priorities.</p>
+<p>Changes recommended for clinical practice that can be done quickly &amp;ndash; like changes in prescribing practice &amp;ndash; should be shared quickly. This is because healthcare professionals should use guidelines to guide their work &amp;ndash; as is required by professional regulating bodies such as the General Medical and Nursing and Midwifery Councils.</p>
+<p>Changes should be implemented as soon as possible, unless there is a good reason for not doing so (for example, if it would be better value for money if a package of recommendations were all implemented at once).</p>
+<p>Different organisations may need different approaches to implementation, depending on their size and function. Sometimes individual practitioners may be able to respond to recommendations to improve their practice more quickly than large organisations.</p>
+<p>Here are some pointers to help organisations put NICE guidelines into practice:</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li><strong>Raise awareness</strong> through routine communication channels, such as email or newsletters, regular meetings, internal staff briefings and other communications with all relevant partner organisations. Identify things staff can include in their own practice straight away. </li>
+    <li><strong>Identify a lead</strong> with an interest in the topic to champion the guideline and motivate others to support its use and make service changes, and to find out any significant issues locally. </li>
+    <li><strong>Carry out a baseline assessment</strong> against the recommendations to find out whether there are gaps in current service provision. </li>
+    <li><strong>Think about what data you need to measure improvement</strong> and plan how you will collect it. You may want to work with other health and social care organisations and specialist groups to compare current practice with the recommendations. This may also help identify local issues that will slow or prevent implementation. </li>
+    <li><strong>Develop an action plan</strong>, with the steps needed to put the guideline into practice, and make sure it is ready as soon as possible. Big, complex changes may take longer to implement, but some may be quick and easy to do. An action plan will help in both cases. </li>
+    <li><strong>For very big changes</strong> include milestones and a business case, which will set out additional costs, savings and possible areas for disinvestment. A small project group could develop the action plan. The group might include the guideline champion, a senior organisational sponsor, staff involved in the associated services, finance and information professionals. </li>
+    <li><strong>Implement the action plan</strong> with oversight from the lead and the project group. Big projects may also need project management support. </li>
+    <li><strong>Review and monitor</strong> how well the guideline is being implemented through the project group. Share progress with those involved in making improvements, as well as relevant boards and local partners. </li>
+</ol>
+<p>NICE provides a comprehensive programme of support and resources to maximise uptake and use of evidence and guidance. See the <a href=&quot;https://www.nice.org.uk/about/what-we-do/into-practice&quot; title=&quot;NICE Web site&quot;>into practice</a> pages for more information.</p>
+<p>Also see Leng G, Moore V, Abraham S, editors (2014) <a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/9781118543412.ch2/summary&quot; title=&quot;Wiley Online Library Web site&quot;>Achieving high-quality care &amp;ndash; practical experience from NICE</a>. Chichester: Wiley. </p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Guideline Centre. Multimorbidity: clinical assessment and management. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Sep 21. 23 p.&amp;nbsp;(NICE guideline; no. 56).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2016 Sep 21"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="National Guideline Centre - National Government Agency [Non-U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The National Guideline Centre was commissioned by the National Institute for Health and Care Excellence to undertake the work on this guideline.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Guideline Development Group (GDG)</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Guideline Development Group (GDG) Members</em>: Nina Barnett, Consultant Pharmacist, Care of Older People; Sam Barnett-Cormack, Lay Member; Julia Botsford, Senior Admiral Nurse - Research and Practice Development (resigned from group on 26 03 2015); Carolyn Chew-Graham, Professor of General Practice Research, Research Institute &amp;ndash; Primary Care and Health Sciences, Keele University; Andrew Clegg, Senior Lecturer &amp;amp; Honorary Consultant Geriatrician, University of Leeds &amp;amp; Bradford Teaching Hospitals, NHS Foundation Trust; Bruce Guthrie (<em>Guideline Chair</em>), Professor of Primary Care Medicine, University of Dundee; John Hindle, Consultant Geriatrician, Special Interest in Movement Disorders, Betsi Cadwaladr University Health Board; Jonathan Inglesfield, General Practitioner &amp;amp; Medical Director, NHS Guildford and Waverley CCG; David Kernick, General Practitioner; Emily Lam, Lay Member; Rupert Payne, Consultant Senior Lecturer in Primary Health Care, Centre for Academic Primary Care, University of Bristol; Alaster Rutherford, Primary Care Pharmacist Consultant, NHS Bath &amp;amp; North East Somerset CCG; Cate Seton-Jones, Medical Director and Consultant in palliative medicine, Phyllis Tuckwell Hospice</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>At the start of the guideline development process all Guideline Development Group (GDG) members declared interests including consultancies, fee-paid work, shareholdings, fellowships and support from the healthcare industry. At all subsequent GDG meetings, members declared arising conflicts of interest.</p>
+<p>Members were either required to withdraw completely or for part of the discussion if their declared interest made it appropriate. The details of declared interests and the actions taken are shown in Appendix B (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng56&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. Also available for download in ePub or eBook formats from the <a href=&quot;https://www.nice.org.uk/guidance/ng56&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Multimorbidity: clinical assessment and management. Full guideline. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Sep. 443 p. (NICE guideline; no. 56). Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng56/evidence/full-guideline-2615543103&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. </li>
+    <li>Multimorbidity: clinical assessment and management. Appendices A-Q. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Sep. 792 p. (NICE guideline; no. 56). Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng56/evidence/appendices-aq-2615543104&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Multimorbidity: clinical assessment and management. Baseline assessment tool. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Sep. (NICE guideline; no. 56). Available from the <a href=&quot;https://www.nice.org.uk/Guidance/ng56/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Multimorbidity: clinical assessment and management. Resource impact statement. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Sep. (NICE guideline; no. 56). Available from the <a href=&quot;https://www.nice.org.uk/Guidance/ng56/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Multimorbidity: clinical assessment and management. Educational resource: database of treatment effects. Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng56/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Multimorbidity: clinical assessment and management. Educational resource: database of treatment effects user guide. Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng56/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a> </li>
+    <li>The guidelines manual 2012. London (UK): National Institute for Health and Care Excellence (NICE); 2012 Nov. Available from the <a href=&quot;https://www.nice.org.uk/process/pmg6/chapter/introduction&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Developing NICE guidelines: the manual 2014. London (UK): National Institute for Health and Care Excellence; 2014 Oct. Available from the <a href=&quot;https://www.nice.org.uk/process/pmg20/chapter/introduction-and-overview&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Multimorbidity: clinical assessment and management. Information for the public. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Sep. 5 p. Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng56/ifp/chapter/Improving-care-for-people-with-more-than-1-long-term-health-problem&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. Also available for download in ePub or eBook formats from the <a href=&quot;https://www.nice.org.uk/guidance/ng56/ifp/chapter/Improving-care-for-people-with-more-than-1-long-term-health-problem&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of National Guideline Clearinghouse (NGC) to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on January 20, 2017.</p>
+<p>The National Institute for Health and Care Excellence (NICE) has granted the National Guideline Clearinghouse (NGC) permission to include summaries of their clinical guidelines with the intention of disseminating and facilitating the implementation of that guidance. NICE has not yet verified this content to confirm that it accurately reflects that original NICE guidance and therefore no guarantees are given by NICE in this regard. All NICE clinical guidelines are prepared in relation to the National Health Service in England and Wales. NICE has not been involved in the development or adaptation of NICE guidance for use in any other country. The full versions of all NICE guidance can be found at <a href=&quot;https://www.nice.org.uk&quot; title=&quot;NICE Web site&quot;>www.nice.org.uk</a>.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 00:17:05 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:09:05 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 275.817 (3)
+  esindex: 0.007
+  captures_list: 296.297
+  CDXLines.iter: 15.489 (3)
+  PetaboxLoader3.datanode: 55.132 (4)
+  exclusion.robots: 0.375
+  exclusion.robots.policy: 0.363
+  RedisCDXSource: 0.717
+  PetaboxLoader3.resolve: 221.088
+  load_resource: 40.211
+-->

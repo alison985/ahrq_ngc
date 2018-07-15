@@ -1,0 +1,937 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app23.us.archive.org';v.server_ms=251;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11046?contentType=xml', '20180712224812')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180712224812/https://www.guideline.gov/summaries/downloadcontent/ngc-11046?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180712224812/https://www.guideline.gov/summaries/downloadcontent/ngc-11046?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11046?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180712224812" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610042157/https://www.guideline.gov/summaries/downloadcontent/ngc-11046?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 22:48:12 Jul 12, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610042157/https://www.guideline.gov/summaries/downloadcontent/ngc-11046?contentType=xml" title="04:21:57 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 22:48:12 Jul 12, 2018">12</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2017</td>
+		  <td class="c" id="displayYearEl" title="You are here: 22:48:12 Jul 12, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180712224812*/https://www.guideline.gov/summaries/downloadcontent/ngc-11046?contentType=xml" title="See a list of every capture for this URL">5 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">02 Oct 2017 - 12 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11046?contentType=xml","2018-07-12",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Guidelines of care for the management of acne vulgaris.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Zaenglein AL, Pathy AL, Schlosser BJ, Alikhan A, Baldwin HE, Berson DS, Bowe WP, Graber EM, Harper JC, Kang S, Keri JE, Leyden JJ, Reynolds RV, Silverberg NB, Stein Gold LF, Tollefson MM, Weiss JS, Dolan NC, Sagan AA, Stern M, Boyer KM, Bhushan R. Guidelines of care for the management of acne vulgaris. J Am Acad Dermatol. 2016 May;74(5):945-73.e33. [315 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26897386&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Strauss JS, Krowchuk DP, Leyden JJ, Lucky AW, Shalita AR, Siegfried EC, Thiboutot DM, Van Voorhees AS, Beutner KA, Sieck CK, Bhushan R, American Academy of Dermatology/American Academy of Dermatology. Guidelines of care for acne vulgaris management. J Am Acad Dermatol. 2007 Apr;56(4):651-63. [180 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Level of evidence grades (<strong>I-III</strong>) and strength of recommendations (<strong>A-C</strong>) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Strength of Recommendations for the Management and Treatment of Acne Vulgaris</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Strength of Recommendations for the Management and Treatment of Acne Vulgaris&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Recommendation</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Strength of Recommendation</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Level of Evidence</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>References</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Grading/classification system</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>B</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>II, III</td>
+            <td valign=&quot;top&quot;>Tan et al., 2007; Mallon et al., 1999; Gupta, Johnson, &amp;amp; Gupta, 1998; Lasek &amp;amp; Chren, 1998; Martin et al., 2001; Rapp et al., 2006; Dr&amp;eacute;no et al., 2007; Pochiet al., 1991; Doshi, Zaheer, &amp;amp; Stiller, 1997; Lucky et al., 1996; Cook, Centner, &amp;amp; Michaels, 1979; Burke &amp;amp; Cunliffe, 1984; Allen &amp;amp; Smith, 1982; Dr&amp;eacute;no et al., 2011; Hayashi, Akamatsu, &amp;amp; Kawashima, 2008; Hayashi et al., 2008; Tan et al., 2012; Tan et al., 2013; Beylot et al., 2010; Tan, Fung, &amp;amp; Bulger, 2006; Bergman et al., 2009; Min et al., 2013; Qureshi et al., 2006; Choi et al., 2012; Choi et al., 2011; Dobrev, 2010; Choi, Choi, &amp;amp; Youn, 2013; Kim et al., 2006; Xhauflaire-Uhoda &amp;amp; Pi&amp;eacute;rard, 2007; Youn et al., 2013; Youn et al., 2009; Zane et al., 2008</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Microbiologic testing</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>B</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>II, III</td>
+            <td valign=&quot;top&quot;>Cove, Cunliffe, &amp;amp; Holland, 1980; Mourelatos et al., 2007; Shaheen &amp;amp; Gonzalez, 2011; Fitz-Gibbon et al., 2013; Holland et al., 2010; Lomholt &amp;amp; Kilian, 2010; Miura et al., 2010; Tochio et al., 2009; Tomida et al., 2013</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Endocrinologic testing</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>B</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>I, II</td>
+            <td valign=&quot;top&quot;>Lucky et al., 1997; Bunker et al., 1989; Lawrence et al., 1981; Timpatanapong &amp;amp; Rojanasakul, 1997; Lucky, 1983; Lucky et al., 1983; Abulnaja, 2009; Arora, Seth, &amp;amp; Dayal, 2010</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;4&quot;>Topical Therapies</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Benzoyl peroxide</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>I, II</td>
+            <td valign=&quot;top&quot;>Fyrand &amp;amp; Jakobsen, 1986; Mills et al., 1986; Schutte, Cunliffe, &amp;amp; Forster, 1982</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Topical antibiotics (e.g., clindamycin and erythromycin)</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>I, II</td>
+            <td valign=&quot;top&quot;>Mills et al., 2002; Bernstein &amp;amp; Shalita, 1980; Jones &amp;amp; Crumley, 1981; Shalita, Smith, &amp;amp; Bauer, 1984; Leyden et al., 1987; Kuhlman &amp;amp; Callen, 1986; Becker et al., 1981</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Combination of topical antibiotics and benzoyl peroxide</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>I</td>
+            <td valign=&quot;top&quot;>Leyden et al., 2001; Lookingbill et al., 1997; Tschen et al., 2001</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Topical retinoids (e.g., tretinoin, adapalene, and tazarotene)</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>I, II</td>
+            <td valign=&quot;top&quot;>Krishnan, 1976; Bradford &amp;amp; Montes, 1974; Shalita et al., 1999; Shalita et al., 1996; Cunliffe et al., 1997; Richter et al., 1998; Zouboulis et al., 2000; Christiansen et al., 1974; Dunlap et al., 1998; Kakita, 2000; Webster et al., 2001; Galvin et al., 1998</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Combination of topical retinoids and benzoyl peroxide/topical antibiotic</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>I, II</td>
+            <td valign=&quot;top&quot;>Richter et al., 1998; Zouboulis et al., 2000</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Azelaic acid</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>I</td>
+            <td valign=&quot;top&quot;>Cunliffe &amp;amp; Holland, 1989; Katsambas, Graupe, &amp;amp; Stratigos, 1989</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Dapsone </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>I, II</td>
+            <td valign=&quot;top&quot;>Draelos et al., 2007; Lucky et al., 2007; Tanghetti, Harper, &amp;amp; Oefelein, 2012</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Salicylic acid</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>B</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>II</td>
+            <td valign=&quot;top&quot;>Shalita, 1981</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;4&quot;>Systemic Antibiotics</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Tetracyclines (e.g., tetracycline, doxycycline, and minocycline)</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>I, II</td>
+            <td valign=&quot;top&quot;>Garner et al., 2012; Leyden et al., 2013; Lebrun-Vignes et al., 2012; Kermani et al., 2012</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Macrolides (e.g., azithromycin and erythromycin)</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>I</td>
+            <td valign=&quot;top&quot;>Rafiei &amp;amp; Yaghoobi, 2006</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Trimethoprim (with or without sulfamethoxazole)</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>B</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>II</td>
+            <td valign=&quot;top&quot;>Jen, 1980; Fenner, Wiss &amp;amp; Levin, 2008</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Limiting treatment duration and concomitant/maintenance topical therapy</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>I, II</td>
+            <td valign=&quot;top&quot;>Gold et al., 2010; Leyden et al., 2006; Margolis et al., 2010</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;4&quot;>Hormonal Agents</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Combined oral contraceptives</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>I</td>
+            <td valign=&quot;top&quot;>Lucky et al., 2008; Maloney et al., 2008; Maloney et al., 2009; Plewig et al., 2009</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Spironolactone</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>B</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>II, III</td>
+            <td valign=&quot;top&quot;>Shaw, 2000; Sato et al., 2006</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Flutamide</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>C</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>III</td>
+            <td valign=&quot;top&quot;>Wang, Wang, &amp;amp; Soong, 1999; Castelo-Branco et al., 2009</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Oral corticosteroids</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>B</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>II</td>
+            <td valign=&quot;top&quot;>Nader et al., 1984</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;4&quot;>Isotretinoin</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Conventional dosing</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>I, II</td>
+            <td valign=&quot;top&quot;>Amichai, Shemer, &amp;amp; Grunwald, 2006; Goldstein et al., 1982; Jones et al., 1983; Layton et al., 1993; Lehucher-Ceyrac &amp;amp; Weber-Buisset, 1993; Peck et al., 1982; Rubinow et al., 1987; Stainforth et al., 1993; Strauss et al., &quot;A randomized trial,&quot; 2001; Strauss et al., 1984; Strauss &amp;amp; Stranieri, 1982; Goldsmith et al., 2004; Lehucher-Ceyrac et al., 1999; Strauss et al., &quot;Safety,&quot; 2001; Webster, Leyden, &amp;amp; Gross, 2013; Alhusayen et al., 2013; Crockett et al., 2009; Crockett et al., 2010; Etminan et al., 2013; Reddy et al., 2006; Sundstrom et al., 2010; Bozdag et al., 2009; Chia et al., 2005; Cohen, Adams, &amp;amp; Patten, 2007; Jick, Kremers, &amp;amp; Vasilakis-Scaramozza, 2000; Nevoralov&amp;aacute; &amp;amp; Dvor&amp;aacute;kov&amp;aacute;, 2013; Rehn et al., 2009</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Low-dose treatment for moderate acne</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>I, II</td>
+            <td valign=&quot;top&quot;>Agarwal, Besarwal, &amp;amp; Bhola, 2011; Akman et al, 2007; Borghi et al., 2011; Kaymak &amp;amp; Ilter, 2006; Lee et al., 2011</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Monitoring</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>B</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>II</td>
+            <td valign=&quot;top&quot;>Leachman et al., 1999; Bershad et al., 1985; De Marchi et al., 2006; Zech et al., 1983</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>iPLEDGE and contraception</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>A</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>II</td>
+            <td valign=&quot;top&quot;>Shin et al., 2011; Collins et al., 2014</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;4&quot;>Miscellaneous Therapies and Physical Modalities</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Chemical peels</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>B</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>II, III</td>
+            <td valign=&quot;top&quot;>Grover &amp;amp; Reddu, 2003; Dr&amp;eacute;no et al., 2011; Ilknur et al., 2010</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Intralesional steroids</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>C</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>III</td>
+            <td valign=&quot;top&quot;>Levine &amp;amp; Rasmussen, 1983; Potter, 1971</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Complementary and alternative therapies (e.g., tea tree oil, herbal, and biofeedback)</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>B</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>II</td>
+            <td valign=&quot;top&quot;>Bassett, Pannowitz, &amp;amp; Barnetson, 1990; Enshaieh et al., 2007; Fouladi, 2012; Hunt &amp;amp; Barnetson, 1992; Lalla et al., 2001; Paranjpe &amp;amp; Kulkarni, 1995; Hughes et al., 1983</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;4&quot;>Role of Diet in Acne</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Effect of glycemic index</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>B</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>II</td>
+            <td valign=&quot;top&quot;>Smith et al., 2007; Kwon et al., 2012; Smith et al., 2008; Preneau et al., 2013; Ismail, Manaf, &amp;amp; Azizan, 2012</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Dairy consumption</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>B</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>II</td>
+            <td valign=&quot;top&quot;>Adebamowo et al., 2006; Adebamowo et al., 2008; Di Landro et al., 2012</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Recommendations for Grading and Classification of Acne</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Clinicians may find it helpful to use a consistent classification/grading scale (encompassing the numbers and types of acne lesions as well as disease severity, anatomic sites, and scarring) to facilitate therapeutic decisions and assess response to treatment. </li>
+    <li>Currently, no universal acne grading/classifying system can be recommended. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Recommendations for Microbiologic and Endocrinologic Testing</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Routine microbiologic testing is unnecessary in the evaluation and management of patients with acne. Those who exhibit acne-like lesions suggestive of gram-negative folliculitis may benefit from microbiologic testing. </li>
+    <li>Routine endocrinologic evaluation (e.g., for androgen excess) is not indicated for the majority of patients with acne. Laboratory evaluation is recommended for patients who have acne and additional signs of androgen excess. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Recommendations for Topical Therapies</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Benzoyl peroxide or combinations with erythromycin or clindamycin are effective acne treatments and are recommended as monotherapy for mild acne, or in conjunction with a topical retinoid, or systemic antibiotic therapy for moderate to severe acne. </li>
+    <li>Benzoyl peroxide is effective in the prevention of bacterial resistance and is recommended for patients on topical or systemic antibiotic therapy. </li>
+    <li>Topical antibiotics (e.g., erythromycin and clindamycin) are effective acne treatments, but are not recommended as monotherapy because of the risk of bacterial resistance. </li>
+    <li>Topical retinoids are important in addressing the development and maintenance of acne and are recommended as monotherapy in primarily comedonal acne, or in combination with topical or oral antimicrobials in patients with mixed or primarily inflammatory acne lesions. </li>
+    <li>Using multiple topical agents that affect different aspects of acne pathogenesis can be useful. Combination therapy should be used in the majority of patients with acne. </li>
+    <li>Topical adapalene, tretinoin, and benzoyl peroxide can be safely used in the management of preadolescent acne in children. </li>
+    <li>Azelaic acid is a useful adjunctive acne treatment and is recommended in the treatment of postinflammatory dyspigmentation. </li>
+    <li>Topical dapsone 5% gel is recommended for inflammatory acne, particularly in adult females with acne. </li>
+    <li>There is limited evidence to support recommendations for sulfur, nicotinamide, resorcinol, sodium sulfacetamide, aluminum chloride, and zinc in the treatment of acne. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Recommendations for Systemic Antibiotics</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Systemic antibiotics are recommended in the management of moderate and severe acne and forms of inflammatory acne that are resistant to topical treatments. </li>
+    <li>Doxycycline and minocycline are more effective than tetracycline, but neither is superior to each other. </li>
+    <li>Although erythromycin and azithromycin can be effective in treating acne, its use should be limited to those who cannot use the tetracyclines (i.e., pregnant women or children &amp;lt;8 years of age). Erythromycin use should be restricted because of its increased risk of bacterial resistance. </li>
+    <li>Use of systemic antibiotics, other than the tetracyclines and macrolides, is discouraged because there are limited data for their use in acne. Trimethoprim-sulfamethoxazole and trimethoprim use should be restricted to patients who are unable to tolerate tetracyclines or in treatment-resistant patients. </li>
+    <li>Systemic antibiotic use should be limited to the shortest possible duration. Re-evaluate at 3 to 4 months to minimize the development of bacterial resistance. Monotherapy with systemic antibiotics is not recommended. </li>
+    <li>Concomitant topical therapy with benzoyl peroxide or a retinoid should be used with systemic antibiotics and for maintenance after completion of systemic antibiotic therapy. </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Recommendations for Hormonal Agents</strong></span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Estrogen-containing combined oral contraceptives are effective and recommended in the treatment of acne in females. </li>
+    <li>Spironolactone is useful in the treatment of acne in select females. </li>
+    <li>Oral corticosteroid therapy can be of temporary benefit in patients who have severe inflammatory acne while starting standard acne treatment. </li>
+    <li>In patients who have well-documented adrenal hyperandrogenism, low-dose oral corticosteroids are recommended in treatment of acne. </li>
+</ul>
+<p>See Table VIII in the original guideline document for the World Health Organization recommendations for combined oral contraceptive usage eligibility.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Recommendations for Isotretinoin</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Oral isotretinoin is recommended for the treatment of severe nodular acne. </li>
+    <li>Oral isotretinoin is appropriate for the treatment of moderate acne that is treatment-resistant or for the management of acne that is producing physical scarring or psychosocial distress. </li>
+    <li>Low-dose isotretinoin can be used to effectively treat acne and reduce the frequency and severity of medication-related side effects. Intermittent dosing of isotretinoin is not recommended. </li>
+    <li>Routine monitoring of liver function tests, serum cholesterol, and triglycerides at baseline and again until response to treatment is established is recommended. Routine monitoring of complete blood count is not recommended. </li>
+    <li>All patients treated with isotretinoin must adhere to the iPLEDGE risk management program. </li>
+    <li>Females of child-bearing potential taking isotretinoin should be counseled regarding various contraceptive methods including user-independent forms. </li>
+    <li>Prescribing physicians also should monitor their patients for any indication of inflammatory bowel disease and depressive symptoms and educate their patients about the potential risks with isotretinoin. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Recommendations for Miscellaneous Therapies and Physical Modalities</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>There is limited evidence to recommend the use and benefit of physical modalities for the routine treatment of acne, including pulsed dye laser, glycolic acid peels, and salicylic acid peels. </li>
+    <li>Intralesional corticosteroid injections are effective in the treatment of individual acne nodules. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Recommendation for Complementary/Alternative Therapies</span></strong></p>
+<p>Herbal and alternative therapies have been used to treat acne. Although most of these products appear to be well tolerated, limited data exist regarding the safety and efficacy of these agents to recommend their use in acne.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Recommendations for the Role of Diet in Acne</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Given the current data, no specific dietary changes are recommended in the management of acne. </li>
+    <li>Emerging data suggest that high glycemic index diets may be associated with acne. </li>
+    <li>Limited evidence suggests that some dairy, particularly skim milk, may influence acne. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Levels of Evidence</strong></p>
+<ol style=&quot;list-style-type: upper-roman;&quot; start=&quot;1&quot;>
+    <li>Good-quality patient-oriented evidence (i.e., evidence measuring outcomes that matter to patients: morbidity, mortality, symptom improvement, cost reduction, and quality of life) </li>
+    <li>Limited-quality patient-oriented evidence </li>
+    <li>Other evidence, including consensus guidelines, opinion, case studies, or disease-oriented evidence (i.e., evidence measuring intermediate, physiologic, or surrogate end points that may or may not reflect improvements in patient outcomes) </li>
+</ol>
+<p><strong>Strength of Recommendations</strong></p>
+<ol style=&quot;list-style-type: upper-alpha;&quot; start=&quot;1&quot;>
+    <li>Recommendation based on consistent and good quality patient-oriented evidence </li>
+    <li>Recommendation based on inconsistent or limited quality patient-oriented evidence </li>
+    <li>Recommendation based on consensus, opinion, case studies, or disease-oriented evidence </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Acne vulgaris</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: This guideline does not examine the treatment of acne sequelae (e.g., scarring or postinflammatory dyschromia).</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Dermatology"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Pediatrics"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To address the management of adolescent and adult patients who present with acne vulgaris (AV) </li>
+    <li>To discuss various acne treatments, including topical therapies, systemic agents, physical modalities, including lasers and photodynamic therapy </li>
+    <li>To review grading and classification systems for AV, microbiology and endocrinology testing, complementary/alternative therapies, and the role of diet </li>
+</ul>
+<p class=&quot;Note&quot;><strong>Note</strong>: This guideline does not examine the treatment of acne sequelae (e.g., scarring or postinflammatory dyschromia).</p>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adolescents and adults who present with acne vulgaris</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Classification/Evaluation</span></strong></p>
+<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>Use of consistent classification/grading scale </li>
+    <li>Microbiologic testing </li>
+    <li>Endocrinologic testing </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Management/Treatment</span></strong></p>
+<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>Topical therapy
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Benzoyl peroxide </li>
+        <li>Topical antibiotics (erythromycin and clindamycin) </li>
+        <li>Topical retinoids (tretinoin, adapalene, tazarotene) </li>
+        <li>Azelaic acid </li>
+        <li>Dapsone </li>
+        <li>Salicylic acid </li>
+        <li>Combination topical agents </li>
+    </ul>
+    </li>
+    <li>Systemic antibiotics
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Tetracyclines (tetracycline, minocycline, doxycycline) </li>
+        <li>Macrolide antibiotics (azithromycin, erythromycin) </li>
+        <li>Trimethoprim (with or without sulfamethoxazole) </li>
+    </ul>
+    </li>
+    <li>Hormonal agents
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Combined oral contraceptives </li>
+        <li>Spironolactone </li>
+        <li>Flutamide </li>
+        <li>Oral corticosteroids </li>
+    </ul>
+    </li>
+    <li>Isotretinoin </li>
+    <li>Miscellaneous therapy
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Chemical peels </li>
+        <li>Intralesional steroids </li>
+    </ul>
+    </li>
+    <li>Complementary/alternative therapy
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Tea tree oil </li>
+        <li>Herbal agents </li>
+        <li>Biofeedback </li>
+    </ul>
+    </li>
+    <li>Dietary restrictions (not recommended) </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Accuracy, reliability, and sensitivity of acne grading and classification systems </li>
+    <li>Usefulness of endocrinologic and microbiologic testing </li>
+    <li>Number of lesions </li>
+    <li>Severity of lesions </li>
+    <li>Sebum levels </li>
+    <li>Recurrence rate </li>
+    <li>Quality of life </li>
+    <li>Psychological and emotional improvement </li>
+    <li>Adverse effects of treatment </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An evidence-based model was used and evidence was obtained using a systematic search of PubMed and the Cochrane Library database from May 2006 through September 2014 for clinical questions addressed in the previous version of this guideline published in 2007, and 1964 to 2014 for all newly identified clinical questions. Searches were prospectively limited to publications in the English language. Medical Subject Headings (MeSH) terms and strings used in various combinations in the literature search included: acne or acne vulgaris combined with treatment, therapy, prevention, prophylaxis, grading, classification, scoring, microbiology, endocrinology, hormone, topical, retinoid, benzoyl peroxide (BP), antibiotic, doxycycline, minocycline, tetracycline, macrolide, erythromycin, azithromycin, trimethoprim (with or without sulfamethoxazole), oral contraceptives, antiandrogen, corticosteroid, isotretinoin, peel, complementary, alternative, herbal, diet, glycemic index, milk, antioxidants, probiotics, and fish oil. Additional studies were identified by hand-searching bibliographies of publications, including reviews and meta-analyses.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Inclusion Criteria</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Type of study:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Control of exposure: interventional, observational </li>
+        <li>Timing: prospective, retrospective </li>
+        <li>Design: evidence-based clinical guidelines, systematic reviews and meta-analyses, randomized controlled trials, non-randomized clinical trials, cross-sectional studies and cohort studies, case control studies, case reports </li>
+    </ul>
+    </li>
+    <li>Outcomes:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Preference for outcomes that matter to patients and help them live longer or better lives (reduced mortality, symptom improvement, improved quality of life, increased safety, etc.) </li>
+        <li>Depending on the clinical question, disease-oriented evidence outcomes were also considered (measurement of intermediate, physiologic, or surrogate end points that may or may not reflect improvements in patient outcomes (e.g., blood loss, chemistry, anesthetic plasma levels, physiologic function, etc.). </li>
+    </ul>
+    </li>
+    <li>Language: Studies only in English </li>
+    <li>Publication: Full-text available </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Exclusion Criteria</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Type of study: animal studies, in-vitro research, letters </li>
+    <li>Outcomes: No patient-oriented outcomes measured </li>
+    <li>Language: Non-English studies </li>
+    <li>Publication: Only abstract or no abstract </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A total of 1145 abstracts were initially assessed for possible inclusion; 242 were retained for final review based on relevancy and the highest level of available evidence for the outlined clinical questions. (See the &quot;Description of Methods to Formulate the Recommendation&quot; field for the list of clinical questions.)</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Evidence was graded using a three-point scale based on the quality of methodology and the overall focus of the study as follows:</p>
+<ol style=&quot;list-style-type: upper-roman;&quot; start=&quot;1&quot;>
+    <li>Good-quality patient-oriented evidence (i.e., evidence measuring outcomes that matter to patients: morbidity, mortality, symptom improvement, cost reduction, and quality of life) </li>
+    <li>Limited-quality patient-oriented evidence </li>
+    <li>Other evidence, including consensus guidelines, opinion, case studies, or disease-oriented evidence (i.e., evidence measuring intermediate, physiologic, or surrogate end points that may or may not reflect improvements in patient outcomes) </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Evidence tables were generated for the identified studies and used by the work group in developing recommendations. In addition, the evidence tables generated for the Academy's previous acne guideline were also used by the work group. The Academy's previous published guidelines on acne were also evaluated, as were other current published guidelines on acne. Relevant references published after September 2014 are provided solely as supplemental supporting text information for recommendations as derived from the systematic search, and to address comments received during the guideline review and approval process.</p>
+<p>The available evidence was evaluated using a unified system called the Strength of Recommendation Taxonomy (SORT) developed by editors of the United States (U.S.) family medicine and primary care journals (i.e., <em>American Family Physician</em>, <em>Family Medicine</em>, <em>Journal of Family Practice</em>, and <em>BMJ USA</em>). </p>
+<p>Evidence was graded using a 3-point scale based on the quality of methodology (e.g., randomized control trial, case control, prospective/retrospective cohort, case series, etc) and the overall focus of the study (i.e., diagnosis, treatment/prevention/screening, or prognosis) (see the &quot;Rating Scheme for the Strength of the Evidence&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A work group of 17 recognized acne experts, 1 general practitioner, 1 pediatrician, and 1 patient was convened to determine the scope of the guideline and identify clinical questions in the diagnosis and management of acne vulgaris.</p>
+<p>Clinical questions used to structure the evidence review:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>What systems are most commonly used for the grading and classification of adult acne and acne vulgaris in adolescents (11-21 years of age) to adults? </li>
+    <li>What is the role of microbiologic and endocrine testing in evaluating patients with adult acne and acne vulgaris in adolescents to adults? </li>
+    <li>What is the effectiveness and what are the potential side effects of topical agents in the treatment of adult acne and acne vulgaris in adolescents to adults? </li>
+    <li>What is the effectiveness and what are the potential side effects of systemic antibacterial agents in the treatment of adult acne and acne vulgaris in adolescents to adults? </li>
+    <li>What is the effectiveness and what are the potential side effects of hormonal agents in the treatment of adult acne and acne vulgaris in adolescents to adults? </li>
+    <li>What is the effectiveness and what are the potential side effects of isotretinoin in the treatment of adult acne and acne vulgaris in adolescents to adults? </li>
+    <li>What is the effectiveness and what are the potential side effects of physical modalities for the treatment of acne vulgaris in adolescents to adults? </li>
+    <li>What is the effectiveness and what are the potential side effects of complementary/alternative therapies in the treatment of adult acne and acne vulgaris in adolescents to adults? </li>
+    <li>What is the role of diet in adult acne in adolescents to adults? </li>
+</ul>
+<p>See Table 1 in the original guideline document for further details on clinical questions.</p>
+<p>Clinical recommendations were developed on the best available evidence tabled in the guideline. In those situations where documented evidence-based data were not available or were showing inconsistent or limited conclusions, expert opinion and medical consensus was used to generate clinical recommendations.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Strength of the Recommendations</span></strong></p>
+<ol style=&quot;list-style-type: upper-alpha;&quot; start=&quot;1&quot;>
+    <li>Recommendation based on consistent and good-quality patient-oriented evidence </li>
+    <li>Recommendation based on inconsistent or limited-quality patient-oriented evidence </li>
+    <li>Recommendation based on consensus, opinion, case studies, or disease-oriented evidence </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>These guidelines have been developed in accordance with the American Academy of Dermatology (AAD)/American Academy of Dermatology Association &quot;Administrative Regulations for Evidence-Based Clinical Practice Guidelines&quot; (version approved August 2012), which include the opportunity for review and comment by the entire AAD membership and final review and approval by the AAD Board of Directors.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="98" ordby="605" id="425" name="References Supporting the Recommendations" type="citation">
+      <fieldvalue value="<table><tr><td>Abulnaja KO. Changes in the hormone and lipid profile of obese adolescent Saudi females with acne vulgaris. Braz J Med Biol Res. 2009 Jun;42(6):501-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19448897&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Adebamowo CA, Spiegelman D, Berkey CS, Danby FW, Rockett HH, Colditz GA, Willett WC, Holmes MD. Milk consumption and acne in adolescent girls. Dermatol Online J. 2006 May 30;12(4):1. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17083856&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Adebamowo CA, Spiegelman D, Berkey CS, Danby FW, Rockett HH, Colditz GA, Willett WC, Holmes MD. Milk consumption and acne in teenaged boys. J Am Acad Dermatol. 2008 May;58(5):787-93. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18194824&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Agarwal US, Besarwal RK, Bhola K. Oral isotretinoin in different dose regimens for acne vulgaris: a randomized comparative trial. Indian J Dermatol Venereol Leprol. 2011 Nov-Dec;77(6):688-94. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22016276&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Akman A, Durusoy C, Senturk M, Koc CK, Soyturk D, Alpsoy E. Treatment of acne with intermittent and conventional isotretinoin: a randomized, controlled multicenter study. Arch Dermatol Res. 2007 Dec;299(10):467-73. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17710426&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Alhusayen RO, Juurlink DN, Mamdani MM, Morrow RL, Shear NH, Dormuth CR, Canadian Drug Safety and Effectiveness Research Network. Isotretinoin use and the risk of inflammatory bowel disease: a population-based cohort study. J Invest Dermatol. 2013 Apr;133(4):907-12. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23096714&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Allen BS, Smith JG Jr. Various parameters for grading acne vulgaris. Arch Dermatol. 1982 Jan;118(1):23-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6460474&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Amichai B, Shemer A, Grunwald MH. Low-dose isotretinoin in the treatment of acne vulgaris. J Am Acad Dermatol. 2006 Apr;54(4):644-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16546586&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Arora MK, Seth S, Dayal S. The relationship of lipid profile and menstrual cycle with acne vulgaris. Clin Biochem. 2010 Dec;43(18):1415-20. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20880492&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bassett IB, Pannowitz DL, Barnetson RS. A comparative study of tea-tree oil versus benzoylperoxide in the treatment of acne. Med J Aust. 1990 Oct 15;153(8):455-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2145499&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Becker LE, Bergstresser PR, Whiting DA, Clendenning WE, Dobson RL, Jordan WP, Abell E, LeZotte LA, Pochi PE, Shupack JL, Sigafoes RB, Stoughton RB, Voorhees JJ. Topical clindamycin therapy for acne vulgaris. A cooperative clinical study. Arch Dermatol. 1981 Aug;117(8):482-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6455095&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bergman H, Tsai KY, Seo SJ, Kvedar JC, Watson AJ. Remote assessment of acne: the use of acne grading tools to evaluate digital skin images. Telemed J E Health. 2009 Jun;15(5):426-30. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19548822&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bernstein JE, Shalita AR. Topically applied erythromycin in inflammatory acne vulgaris. J Am Acad Dermatol. 1980 Apr;2(4):318-21. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6444958&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bershad S, Rubinstein A, Paterniti JR, Le NA, Poliak SC, Heller B, Ginsberg HN, Fleischmajer R, Brown WV. Changes in plasma lipids and lipoproteins during isotretinoin therapy for acne. N Engl J Med. 1985 Oct 17;313(16):981-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2931603&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Beylot C, Chivot M, Faure M, Pawin H, Poli F, Revuz J, Auffret N, Moyse D, Dréno B, Groupe Expert Acné. Inter-observer agreement on acne severity based on facial photographs. J Eur Acad Dermatol Venereol. 2010 Feb;24(2):196-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19486229&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Borghi A, Mantovani L, Minghetti S, Giari S, Virgili A, Bettoli V. Low-cumulative dose isotretinoin treatment in mild-to-moderate acne: efficacy in achieving stable remission. J Eur Acad Dermatol Venereol. 2011 Sep;25(9):1094-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21198947&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bozdag KE, Gülseren S, Güven F, Cam B. Evaluation of depressive symptoms in acne patients treated with isotretinoin. J Dermatolog Treat. 2009;20(5):293-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19701845&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bradford LG, Montes LF. Topical application of vitamin A acid in acne vulgaris. South Med J. 1974 Jun;67(6):683-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=4275274&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bunker CB, Newton JA, Kilborn J, Patel A, Conway GS, Jacobs HS, Greaves MW, Dowd PM. Most women with acne have polycystic ovaries. Br J Dermatol. 1989 Dec;121(6):675-80. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2532926&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Burke BM, Cunliffe WJ. The assessment of acne vulgaris--the Leeds technique. Br J Dermatol. 1984 Jul;111(1):83-92. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6234917&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Castelo-Branco C, Moyano D, Gómez O, Balasch J. Long-term safety and tolerability of flutamide for the treatment of hirsutism. Fertil Steril. 2009 Apr;91(4):1183-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18339379&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Chia CY, Lane W, Chibnall J, Allen A, Siegfried E. Isotretinoin therapy and mood changes in adolescents with moderate to severe acne: a cohort study. Arch Dermatol. 2005 May;141(5):557-60. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15897376&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Choi CW, Choi JW, Park KC, Youn SW. Ultraviolet-induced red fluorescence of patients with acne reflects regional casual sebum level and acne lesion distribution: qualitative and quantitative analyses of facial fluorescence. Br J Dermatol. 2012 Jan;166(1):59-66. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21895623&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Choi CW, Choi JW, Youn SW. Subjective facial skin type, based on the sebum related symptoms, can reflect the objective casual sebum level in acne patients. Skin Res Technol. 2013 May;19(2):176-82. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23279191&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Choi CW, Lee DH, Kim HS, Kim BY, Park KC, Youn SW. The clinical features of late onset acne compared with early onset acne in women. J Eur Acad Dermatol Venereol. 2011 Apr;25(4):454-61. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20659307&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Christiansen JV, Gadborg E, Ludvigsen K, Meier CH, Norholm A, Pedersen D, Rasmussen KA, Reiter H, Reymann F, Sylvest B, Unna P, Wehnert R, Holm P. Topical tretinoin, vitamin A acid (Airol) in acne vulgaris. A controlled clinical trial. Dermatologica. 1974;148(2):82-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=4276190&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Cohen J, Adams S, Patten S. No association found between patients receiving isotretinoin for acne and the development of depression in a Canadian prospective cohort. Can J Clin Pharmacol. 2007;14(2):e227-33. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17556790&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Collins MK, Moreau JF, Opel D, Swan J, Prevost N, Hastings M, Bimla Schwarz E, Korb Ferris L. Compliance with pregnancy prevention measures during isotretinoin therapy. J Am Acad Dermatol. 2014 Jan;70(1):55-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24157382&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Cook CH, Centner RL, Michaels SE. An acne grading method using photographic standards. Arch Dermatol. 1979 May;115(5):571-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=156006&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Cove JH, Cunliffe WJ, Holland KT. Acne vulgaris: is the bacterial population size significant. Br J Dermatol. 1980 Mar;102(3):277-80. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6445202&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Crockett SD, Gulati A, Sandler RS, Kappelman MD. A causal association between isotretinoin and inflammatory bowel disease has yet to be established. Am J Gastroenterol. 2009 Oct;104(10):2387-93. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19806085&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Crockett SD, Porter CQ, Martin CF, Sandler RS, Kappelman MD. Isotretinoin use and the risk of inflammatory bowel disease: a case-control study. Am J Gastroenterol. 2010 Sep;105(9):1986-93. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20354506&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Cunliffe WJ, Caputo R, Dréno B, Förström L, Heenen M, Orfanos CE, Privat Y, Robledo Aguilar A, Meynadier J, Alirezai M, Jablonska S, Shalita A, Weiss JS, Chalker DK, Ellis CN, Greenspan A, Katz HI, Kantor I, Millikan LE, Swinehart JM, Swinyer L, Whitmore C, Czernielewski J, Verschoore M. Clinical efficacy and safety comparison of adapalene gel and tretinoin gel in the treatment of acne vulgaris: Europe and U.S. multicenter trials. J Am Acad Dermatol. 1997;36(6 Pt 2):S126-S134. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9204091 &quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Cunliffe WJ, Holland KT. Clinical and laboratory studies on treatment with 20% azelaic acid cream for acne. Acta Derm Venereol Suppl (Stockh). 1989;143:31-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2528256&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>De Marchi MA, Maranhão RC, Brandizzi LI, Souza DR. Effects of isotretinoin on the metabolism of triglyceride-rich lipoproteins and on the lipid profile in patients with acne. Arch Dermatol Res. 2006 Mar;297(9):403-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16429299&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Di Landro A, Cazzaniga S, Parazzini F, Ingordo V, Cusano F, Atzori L, Cutrì FT, Musumeci ML, Zinetti C, Pezzarossa E, Bettoli V, Caproni M, Lo Scocco G, Bonci A, Bencini P, Naldi L, GISED Acne Study Group. Family history, body mass index, selected dietary factors, menstrual history, and risk of moderate to severe acne in adolescents and young adults. J Am Acad Dermatol. 2012 Dec;67(6):1129-35. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22386050&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Dobrev H. Fluorescence diagnostic imaging in patients with acne. Photodermatol Photoimmunol Photomed. 2010 Dec;26(6):285-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21091785&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Doshi A, Zaheer A, Stiller MJ. A comparison of current acne grading systems and proposal of a novel system. Int J Dermatol. 1997 Jun;36(6):416-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9248884&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Draelos ZD, Carter E, Maloney JM, Elewski B, Poulin Y, Lynde C, Garrett S, United States/Canada Dapsone Gel Study Group. Two randomized studies demonstrate the efficacy and safety of dapsone gel, 5% for the treatment of acne vulgaris. J Am Acad Dermatol. 2007 Mar;56(3):439.e1-10. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17208334&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Dréno B, Fischer TC, Perosino E, Poli F, Viera MS, Rendon MI, Berson DS, Cohen JL, Roberts WE, Starker I, Wang B. Expert opinion: efficacy of superficial chemical peels in active acne management--what can we learn from the literature today? Evidence-based recommendations. J Eur Acad Dermatol Venereol. 2011 Jun;25(6):695-704. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21029205&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Dréno B, Khammari A, Orain N, Noray C, Mérial-Kieny C, Méry S, Nocera T. ECCA grading scale: an original validated acne scar grading scale for clinical practice in dermatology. Dermatology. 2007;214(1):46-51. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17191047&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Dréno B, Poli F, Pawin H, Beylot C, Faure M, Chivot M, Auffret N, Moyse D, Ballanger F, Revuz J. Development and evaluation of a Global Acne Severity Scale (GEA Scale) suitable for France and Europe. J Eur Acad Dermatol Venereol. 2011 Jan;25(1):43-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20456560&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Dunlap FE, Mills OH, Tuley MR, Baker MD, Plott RT. Adapalene 0.1% gel for the treatment of acne vulgaris: its superiority compared to tretinoin 0.025% cream in skin tolerance and patient preference. Br J Dermatol. 1998 Oct;139 Suppl 52:17-22. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9990416&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Enshaieh S, Jooya A, Siadat AH, Iraji F. The efficacy of 5% topical tea tree oil gel in mild to moderate acne vulgaris: a randomized, double-blind placebo-controlled study. Indian J Dermatol Venereol Leprol. 2007 Jan-Feb;73(1):22-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17314442&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Etminan M, Bird ST, Delaney JA, Bressler B, Brophy JM. Isotretinoin and risk for inflammatory bowel disease: A nested case-control study and meta-analysis of published and unpublished data. Unknown. February 2013;149(2):216-220. [16 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Fenner JA, Wiss K, Levin NA. Oral cephalexin for acne vulgaris: clinical experience with 93 patients. Pediatr Dermatol. 2008 Mar-Apr;25(2):179-83. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18429774&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Fitz-Gibbon S, Tomida S, Chiu BH, Nguyen L, Du C, Liu M, Elashoff D, Erfe MC, Loncaric A, Kim J, Modlin RL, Miller JF, Sodergren E, Craft N, Weinstock GM, Li H. Propionibacterium acnes strain populations in the human skin microbiome associated with acne. J Invest Dermatol. 2013 Sep;133(9):2152-60. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23337890&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Fouladi RF. Aqueous extract of dried fruit of Berberis vulgaris L. in acne vulgaris, a clinical trial. J Diet Suppl. 2012 Dec;9(4):253-61. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23038982 &quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Fyrand O, Jakobsen HB. Water-based versus alcohol-based benzoyl peroxide preparations in the treatment of acne vulgaris. Dermatologica. 1986;172(5):263-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2943613&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Galvin SA, Gilbert R, Baker M, Guibal F, Tuley MR. Comparative tolerance of adapalene 0.1% gel and six different tretinoin formulations. Br J Dermatol. 1998 Oct;139 Suppl 52:34-40. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9990419&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Garner SE, Eady A, Bennett C, Newton JN, Thomas K, Popescu CM. Minocycline for acne vulgaris: efficacy and safety. Cochrane Database Syst Rev. 2012 Aug 15;(8):CD002086. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22895927&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Gold LS, Cruz A, Eichenfield L, Tan J, Jorizzo J, Kerrouche N, Dhuin JC. Effective and safe combination therapy for severe acne vulgaris: a randomized, vehicle-controlled, double-blind study of adapalene 0.1%-benzoyl peroxide 2.5% fixed-dose combination gel with doxycycline hyclate 100 mg. Cutis. 2010 Feb;85(2):94-104. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20349684&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Goldsmith LA, Bolognia JL, Callen JP, Chen SC, Feldman SR, Lim HW, Lucky AW, Reed BR, Siegfried EC, Thiboutot DM, Wheeland RG, American Academy of Dermatology. American Academy of Dermatology Consensus Conference on the safe and optimal use of isotretinoin: summary and recommendations  [published erratum appears in J Am Acad Derm 2004;51:348]. J Am Acad Dermatol. 2004 Jun;50(6):900-6. [4 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15153892&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Goldstein JA, Socha-Szott A, Thomsen RJ, Pochi PE, Shalita AR, Strauss JS. Comparative effect of isotretinoin and etretinate on acne and sebaceous gland secretion. J Am Acad Dermatol. 1982 Apr;6(4 Pt 2 Suppl):760-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6461679&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Grover C, Reddu BS. The therapeutic value of glycolic acid peels in dermatology. Indian J Dermatol Venereol Leprol. 2003 Mar-Apr;69(2):148-50. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17642863&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Gupta MA, Johnson AM, Gupta AK. The development of an Acne Quality of Life scale: reliability, validity, and relation to subjective acne severity in mild to moderate acne vulgaris. Acta Derm Venereol. 1998 Nov;78(6):451-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9833047&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hayashi N, Akamatsu H, Kawashima M, Acne Study Group. Establishment of grading criteria for acne severity. J Dermatol. 2008 May;35(5):255-60. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18477223&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hayashi N, Suh DH, Akamatsu H, Kawashima M, Acne Study Group. Evaluation of the newly established acne severity classification among Japanese and Korean dermatologists. J Dermatol. 2008 May;35(5):261-3. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18477224&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Holland C, Mak TN, Zimny-Arndt U, Schmid M, Meyer TF, Jungblut PR, Brüggemann H. Proteomic identification of secreted proteins of Propionibacterium acnes. BMC Microbiology. 2010 Aug 27;10:230. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20799957&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hughes H, Brown BW, Lawlis GF, Fulton JE Jr. Treatment of acne vulgaris by biofeedback relaxation and cognitive imagery. J Psychosom Res. 1983;27(3):185-91. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6224928&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hunt MJ, Barnetson RS. A comparative study of gluconolactone versus benzoyl peroxide in the treatment of acne. Australas J Dermatol. 1992;33(3):131-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1303072&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ilknur T, Demirtasoglu M, Biçak MU, Ozkan S. Glycolic acid peels versus amino fruit acid peels for acne. J Cosmet Laser Ther. 2010 Oct;12(5):242-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20825257&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ismail NH, Manaf ZA, Azizan NZ. High glycemic load diet, milk and ice cream consumption are related to acne vulgaris in Malaysian young adults: a case control study. BMC Dermatol. 2012 Aug 16;12:13. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22898209&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Jen I. A comparison of low dosage trimethoprim/sulfamethoxazole with oxytetracycline in acne vulgaris. Cutis. 1980 Jul;26(1):106-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6446446&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Jick SS, Kremers HM, Vasilakis-Scaramozza C. Isotretinoin use and risk of depression, psychotic symptoms, suicide, and attempted suicide. Arch Dermatol. 2000 Oct;136(10):1231-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11030769&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Jones DH, King K, Miller AJ, Cunliffe WJ. A dose-response study of I3-cis-retinoic acid in acne vulgaris. Br J Dermatol. 1983 Mar;108(3):333-43. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6219690&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Jones EL, Crumley AF. Topical erythromycin vs blank vehicle in a multiclinic acne study. Arch Dermatol. 1981 Sep;117(9):551-3. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6457568&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kakita L. Tazarotene versus tretinoin or adapalene in the treatment of acne vulgaris. J Am Acad Dermatol. 2000 Aug;43(2 Pt 3):S51-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10898831&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Katsambas A, Graupe K, Stratigos J. Clinical studies of 20% azelaic acid cream in the treatment of acne vulgaris. Comparison with vehicle and topical tretinoin. Acta Derm Venereol Suppl (Stockh). 1989;143:35-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2528257&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kaymak Y, Ilter N. The effectiveness of intermittent isotretinoin treatment in mild or moderate acne. J Eur Acad Dermatol Venereol. 2006 Nov;20(10):1256-60. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17062042&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kermani TA, Ham EK, Camilleri MJ, Warrington KJ. Polyarteritis nodosa-like vasculitis in association with minocycline use: a single-center case series. Semin Arthritis Rheum. 2012 Oct;42(2):213-21. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22704357&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kim MK, Choi SY, Byun HJ, Huh CH, Park KC, Patel RA, Shinn AH, Youn SW. Comparison of sebum secretion, skin type, pH in humans with and without acne. Arch Dermatol Res. 2006 Aug;298(3):113-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16786345&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Krishnan G. Comparison of two concentrations of tretinoin solution in the topical treatment of acne vulgaris. Practitioner. 1976 Jan;216(1291):106-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=131310&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kuhlman DS, Callen JP. A comparison of clindamycin phosphate 1 percent topical lotion and placebo in the treatment of acne vulgaris. Cutis. 1986 Sep;38(3):203-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2945704&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kwon HH, Yoon JY, Hong JS, Jung JY, Park MS, Suh DH. Clinical and histological effect of a low glycaemic load diet in treatment of acne vulgaris in Korean patients: a randomized, controlled trial. Acta Derm Venereol. 2012 May;92(3):241-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22678562&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lalla JK, Nandedkar SY, Paranjape MH, Talreja NB. Clinical trials of ayurvedic formulations in the treatment of acne vulgaris. J Ethnopharmacol. 2001 Nov;78(1):99-102. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11585696&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lasek RJ, Chren MM. Acne vulgaris and the quality of life of adult dermatology patients. Arch Dermatol. 1998 Apr;134(4):454-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9554297&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lawrence DM, Katz M, Robinson TW, Newman MC, McGarrigle HH, Shaw M, Lachelin GC. Reduced sex hormone binding globulin and derived free testosterone levels in women with severe acne. Clin Endocrinol (Oxf). 1981 Jul;15(1):87-91. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6458423&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Layton AM, Knaggs H, Taylor J, Cunliffe WJ. Isotretinoin for acne vulgaris--10 years later: a safe and successful treatment. Br J Dermatol. 1993 Sep;129(3):292-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8286227&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Leachman SA, Insogna KL, Katz L, Ellison A, Milstone LM. Bone densities in patients receiving isotretinoin for cystic acne. Arch Dermatol. 1999 Aug;135(8):961-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10456346&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lebrun-Vignes B, Kreft-Jais C, Castot A, Chosidow O, French Network of Regional Centers of Pharmacovigilance. Comparative analysis of adverse drug reactions to tetracyclines: results of a French national survey and review of the literature. Br J Dermatol. 2012 Jun;166(6):1333-41. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22283782&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lee JW, Yoo KH, Park KY, Han TY, Li K, Seo SJ, Hong CK. Effectiveness of conventional, low-dose and intermittent oral isotretinoin in the treatment of acne: a randomized, controlled comparative study. Br J Dermatol. 2011 Jun;164(6):1369-75. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21114478&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lehucher-Ceyrac D, de La Salmonière P, Chastang C, Morel P. Predictive factors for failure of isotretinoin treatment in acne patients: results from a cohort of 237 patients. Dermatology. 1999;198(3):278-83. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10393453&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lehucher-Ceyrac D, Weber-Buisset MJ. Isotretinoin and acne in practice: a prospective analysis of 188 cases over 9 years. Dermatology. 1993;186(2):123-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8428040&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Levine RM, Rasmussen JE. Intralesional corticosteroids in the treatment of nodulocystic acne. Arch Dermatol. 1983 Jun;119(6):480-1. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6222700&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Leyden J, Thiboutot DM, Shalita AR, Webster G, Washenik K, Strober BE, Shupack J. Comparison of tazarotene and minocycline maintenance therapies in acne vulgaris: a multicenter, double-blind, randomized, parallel-group study. Arch Dermatol. 2006 May;142(5):605-12. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16702498&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Leyden JJ, Bruce S, Lee CS, Ling M, Sheth PB, Stewart DM, Werschler WP, Gilbert RD, Kircik L. A randomized, phase 2, dose-ranging study in the treatment of moderate to severe inflammatory facial acne vulgaris with doxycycline calcium. J Drugs Dermatol. 2013 Jun 1;12(6):658-63. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23839182&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Leyden JJ, Hickman JG, Jarratt MT, Stewart DM, Levy SF. The efficacy and safety of a combination benzoyl peroxide/clindamycin topical gel compared with benzoyl peroxide alone and a benzoyl peroxide/erythromycin combination product. J Cutan Med Surg. 2001 Jan-Feb;5(1):37-42. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11281433&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Leyden JJ, Shalita AR, Saatjian GD, Sefton J. Erythromycin 2% gel in comparison with clindamycin phosphate 1% solution in acne vulgaris. J Am Acad Dermatol. 1987 Apr;16(4):822-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2952685&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lomholt HB, Kilian M. Population genetic analysis of Propionibacterium acnes identifies a subpopulation and epidemic clones associated with acne. PLoS ONE. 2010 Aug 19;5(8):e12277. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20808860&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lookingbill DP, Chalker DK, Lindholm JS, Katz HI, Kempers SE, Huerter CJ, Swinehart JM, Schelling DJ, Klauda HC. Treatment of acne with a combination clindamycin/benzoyl peroxide gel compared with clindamycin gel, benzoyl peroxide gel and vehicle gel: combined results of two double-blind investigations. J Am Acad Dermatol. 1997 Oct;37(4):590-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9344199&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lucky AW, Barber BL, Girman CJ, Williams J, Ratterman J, Waldstreicher J. A multirater validation study to assess the reliability of acne lesion counting. J Am Acad Dermatol. 1996 Oct;35(4):559-65. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8859284&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lucky AW, Biro FM, Simbartl LA, Morrison JA, Sorg NW. Predictors of severity of acne vulgaris in young adolescent girls: results of a five-year longitudinal study. J Pediatr. 1997 Jan;130(1):30-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9003848&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lucky AW, Koltun W, Thiboutot D, Niknian M, Sampson-Landers C, Korner P, Marr J. A combined oral contraceptive containing 3-mg drospirenone/ 20-microg ethinyl estradiol in the treatment of acne vulgaris: a randomized, double-blind, placebo-controlled study evaluating lesion counts and participant self-assessment. Cutis. 2008 Aug;82(2):143-50. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18792547&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lucky AW, Maloney JM, Roberts J, Taylor S, Jones T, Ling M, Garrett S, Dapsone Gel Long-Term Safety Study Group. Dapsone gel 5% for the treatment of acne vulgaris: safety and efficacy of long-term (1 year) treatment. J Drugs Dermatol. 2007 Oct;6(10):981-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17966175&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lucky AW, McGuire J, Rosenfield RL, Lucky PA, Rich BH. Plasma androgens in women with acne vulgaris. J Invest Dermatol. 1983 Jul;81(1):70-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6223099&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lucky AW. Endocrine aspects of acne. Pediatr Clin North Am. 1983 Jun;30(3):495-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6224126&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mallon E, Newton JN, Klassen A, Stewart-Brown SL, Ryan TJ, Finlay AY. The quality of life in acne: a comparison with general medical conditions using generic questionnaires. Br J Dermatol. 1999 Apr;140(4):672-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10233319&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Maloney JM, Dietze P, Watson D, Niknian M, Lee-Rugh S, Sampson-Landers C, Korner P. A randomized controlled trial of a low-dose combined oral contraceptive containing 3 mg drospirenone plus 20 microg ethinylestradiol in the treatment of acne vulgaris: lesion counts, investigator ratings and subject self-assessment. J Drugs Dermatol. 2009 Sep;8(9):837-44. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19746676&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Maloney JM, Dietze P, Watson D, Niknian M, Lee-Rugh S, Sampson-Landers C, Korner P. Treatment of acne using a 3-milligram drospirenone/20-microgram ethinyl estradiol oral contraceptive administered in a 24/4 regimen: a randomized controlled trial. Obstet Gynecol. 2008 Oct;112(4):773-81. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18827119&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Margolis DJ, Fanelli M, Hoffstad O, Lewis JD. Potential association between the oral tetracycline class of antimicrobials used to treat acne and inflammatory bowel disease. Am J Gastroenterol. 2010 Dec;105(12):2610-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20700115&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Martin AR, Lookingbill DP, Botek A, Light J, Thiboutot D, Girman CJ. Health-related quality of life among patients with facial acne -- assessment of a new acne-specific questionnaire. Clin Exp Dermatol. 2001 Jul;26(5):380-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11488820&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mills O Jr, Thornsberry C, Cardin CW, Smiles KA, Leyden JJ. Bacterial resistance and therapeutic outcome following three months of topical acne therapy with 2% erythromycin gel versus its vehicle. Acta Derm Venereol. 2002;82(4):260-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12361129&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mills OH Jr, Kligman AM, Pochi P, Comite H. Comparing 2.5%, 5%, and 10% benzoyl peroxide on inflammatory acne vulgaris. Int J Dermatol. 1986 Dec;25(10):664-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2948929&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Min S, Kong HJ, Yoon C, Kim HC, Suh DH. Development and evaluation of an automatic acne lesion detection program using digital image processing. Skin Res Technol. 2013 Feb;19(1):e423-32. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22891680&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Miura Y, Ishige I, Soejima N, Suzuki Y, Uchida K, Kawana S, Eishi Y. Quantitative PCR of Propionibacterium acnes DNA in samples aspirated from sebaceous follicles on the normal skin of subjects with or without acne. J Med Dent Sci. 2010 Mar;57(1):65-74. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20437767&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mourelatos K, Eady EA, Cunliffe WJ, Clark SM, Cove JH. Temporal changes in sebum excretion and propionibacterial colonization in preadolescent children with and without acne. Br J Dermatol. 2007 Jan;156(1):22-31. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17199562&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Nader S, Rodriguez-Rigau LJ, Smith KD, Steinberger E. Acne and hyperandrogenism: impact of lowering androgen levels with glucocorticoid treatment. J Am Acad Dermatol. 1984 Aug;11(2 Pt 1):256-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6237127&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Nevoralová Z, Dvoráková D. Mood changes, depression and suicide risk during isotretinoin treatment: a prospective study. Int J Dermatol. 2013 Feb;52(2):163-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23347302&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Paranjpe P, Kulkarni PH. Comparative efficacy of four Ayurvedic formulations in the treatment of acne vulgaris: a double-blind randomised placebo-controlled clinical evaluation. J Ethnopharmacol. 1995 Dec 15;49(3):127-32. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8824737&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Peck GL, Olsen TG, Butkus D, Pandya M, Arnaud-Battandier J, Gross EG, Windhorst DB, Cheripko J. Isotretinoin versus placebo in the treatment of cystic acne. A randomized double-blind study. J Am Acad Dermatol. 1982 Apr;6(4 Pt 2 Suppl):735-45. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6461677&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Plewig G, Cunliffe WJ, Binder N, Höschen K. Efficacy of an oral contraceptive containing EE 0.03 mg and CMA 2 mg (Belara) in moderate acne resolution: a randomized, double-blind, placebo-controlled Phase III trial. Contraception. 2009 Jul;80(1):25-33. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19501212&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Pochi PE, Shalita AR, Strauss JS, Webster SB, Cunliffe WJ, Katz HI, Kligman AM, Leyden JJ, Lookingbill DP, Plewig G, et al. Report of the Consensus Conference on Acne Classification. Washington, D.C., March 24 and 25, 1990. J Am Acad Dermatol. 1991 Mar;24(3):495-500. [12 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1829466&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Potter RA. Intralesional triamcinolone and adrenal suppression in acne vulgaris. J Invest Dermatol. 1971 Dec;57(6):364-70. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=4256835&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Preneau S, Dessinioti C, Nguyen JM, Katsambas A, Dréno B. Predictive markers of response to isotretinoin in female acne. Eur J Dermatol. 2013 Jul-Aug;23(4):478-86. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23797561&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Qureshi AA, Brandling-Bennett HA, Giberti S, McClure D, Halpern EF, Kvedar JC. Evaluation of digital skin images submitted by patients who received practical training or an online tutorial. J Telemed Telecare. 2006;12(2):79-82. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16539754&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Rafiei R, Yaghoobi R. Azithromycin versus tetracycline in the treatment of acne vulgaris. J Dermatolog Treat. 2006;17(4):217-21. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16971315&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Rapp SR, Feldman SR, Graham G, Fleischer AB, Brenes G, Dailey M. The Acne Quality of Life Index (Acne-QOLI): development and validation of a brief instrument. Am J Clin Dermatol. 2006;7(3):185-92. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16734506&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Reddy D, Siegel CA, Sands BE, Kane S. Possible association between isotretinoin and inflammatory bowel disease. Am J Gastroenterol. 2006 Jul;101(7):1569-73. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16863562&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Rehn LM, Meririnne E, Höök-Nikanne J, Isometsä E, Henriksson M. Depressive symptoms and suicidal ideation during isotretinoin treatment: a 12-week follow-up study of male Finnish military conscripts. J Eur Acad Dermatol Venereol. 2009 Nov;23(11):1294-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19522777&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Richter JR, Förström LR, Kiistala UO, Jung EG. Efficacy of the fixed 1.2% clindamycin phosphate, 0.025% tretinoin gel formulation (Velac) and a proprietary 0.025% tretinoin gel formulation (Aberela) in the topical control of facial acne. J Eur Acad Dermatol Venereol. 1998 Nov;11(3):227-33. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9883434&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Rubinow DR, Peck GL, Squillace KM, Gantt GG. Reduced anxiety and depression in cystic acne patients after successful treatment with oral isotretinoin. J Am Acad Dermatol. 1987 Jul;17(1):25-32. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2956296&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Sato K, Matsumoto D, Iizuka F, Aiba-Kojima E, Watanabe-Ono A, Suga H, Inoue K, Gonda K, Yoshimura K. Anti-androgenic therapy using oral spironolactone for acne vulgaris in Asians. Aesthetic Plast Surg. 2006 Nov-Dec;30(6):689-94. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17077951&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Schutte H, Cunliffe WJ, Forster RA. The short-term effects of benzoyl peroxide lotion on the resolution of inflamed acne lesions. Br J Dermatol. 1982 Jan;106(1):91-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6460521&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Shaheen B, Gonzalez M. A microbial aetiology of acne: what is the evidence?. Br J Dermatol. 2011 Sep;165(3):474-85. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21495996&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Shahlita AR, Smith EB, Bauer E. Topical erythromycin v clindamycin therapy for acne. A multicenter, double-blind comparison. Arch Dermatol. 1984 Mar;120(3):351-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6230999&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Shalita A, Weiss JS, Chalker DK, Ellis CN, Greenspan A, Katz HI, Kantor I, Millikan LE, Swinehart T, Swinyer L, Whitmore C, Baker M, Czernielewski J. A comparison of the efficacy and safety of adapalene gel 0.1% and tretinoin gel 0.025% in the treatment of acne vulgaris: a multicenter trial. J Am Acad Dermatol. 1996 Mar;34(3):482-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8609263&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Shalita AR, Chalker DK, Griffith RF, Herbert AA, Hickman JG, Maloney JM, Miller BH, Tschen EH, Chandraratna RA, Gibson JR, Lew-Kaya DA, Lue JC, Sefton J. Tazarotene gel is safe and effective in the treatment of acne vulgaris: a multicenter, double-blind, vehicle-controlled study. Cutis. 1999 Jun;63(6):349-54. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10388959&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Shalita AR. Treatment of mild and moderate acne vulgaris with salicylic acid in an alcohol-detergent vehicle. Cutis. 1981 Nov;28(5):556-8, 561. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6458457&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Shaw JC. Low-dose adjunctive spironolactone in the treatment of acne in women: a retrospective analysis of 85 consecutively treated patients. J Am Acad Dermatol. 2000 Sep;43(3):498-502. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10954662&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Shin J, Cheetham TC, Wong L, Niu F, Kass E, Yoshinaga MA, Sorel M, McCombs JS, Sidney S. The impact of the iPLEDGE program on isotretinoin fetal exposure in an integrated health care system. J Am Acad Dermatol. 2011 Dec;65(6):1117-25. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21565419&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Smith R, Mann N, Mäkeläinen H, Roper J, Braue A, Varigos G. A pilot study to determine the short-term effects of a low glycemic load diet on hormonal markers of acne: a nonrandomized, parallel, controlled feeding trial. Mol Nutr Food Res. 2008 Jun;52(6):718-26. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18496812&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Smith RN, Mann NJ, Braue A, Mäkeläinen H, Varigos GA. The effect of a high-protein, low glycemic-load diet versus a conventional, high glycemic-load diet on biochemical parameters associated with acne vulgaris: a randomized, investigator-masked, controlled trial. J Am Acad Dermatol. 2007 Aug;57(2):247-56. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17448569&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Stainforth JM, Layton AM, Taylor JP, Cunliffe WJ. Isotretinoin for the treatment of acne vulgaris: which factors may predict the need for more than one course?. Br J Dermatol. 1993 Sep;129(3):297-301. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8286228&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Strauss JS, Leyden JJ, Lucky AW, Lookingbill DP, Drake LA, Hanifin JM, Lowe NJ, Jones TM, Stewart DM, Jarratt MT, Katz I, Pariser DM, Pariser RJ, Tschen E, Chalker DK, Rafal ES, Savin RP, Roth HL, Chang LK, Baginski DJ, Kempers S, McLane J, Eberhardt D, Leach EE, Bryce G, Hong J. A randomized trial of the efficacy of a new micronized formulation versus a standard formulation of isotretinoin in patients with severe recalcitrant nodular acne. J Am Acad Dermatol. 2001 Aug;45(2):187-95. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11464179&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Strauss JS, Leyden JJ, Lucky AW, Lookingbill DP, Drake LA, Hanifin JM, Lowe NJ, Jones TM, Stewart DM, Jarratt MT, Katz I, Pariser DM, Pariser RJ, Tschen E, Chalker DK, Rafal ES, Savin RP, Roth HL, Chang LK, Baginski DJ, Kempers S, McLane J, Eberhardt D, Leach EE, Bryce G, Hong J. Safety of a new micronized formulation of isotretinoin in patients with severe recalcitrant nodular acne: A randomized trial comparing micronized isotretinoin with standard isotretinoin. J Am Acad Dermatol. 2001 Aug;45(2):196-207. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11464180&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Strauss JS, Rapini RP, Shalita AR, Konecky E, Pochi PE, Comite H, Exner JH. Isotretinoin therapy for acne: results of a multicenter dose-response study. J Am Acad Dermatol. 1984 Mar;10(3):490-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6233335&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Strauss JS, Stranieri AM. Changes in long-term sebum production from isotretinoin therapy. J Am Acad Dermatol. 1982 Apr;6(4 Pt 2 Suppl):751-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6461678&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Sundström A, Alfredsson L, Sjölin-Forsberg G, Gerdén B, Bergman U, Jokinen J. Association of suicide attempts with acne and treatment with isotretinoin: retrospective Swedish cohort study. BMJ. 2010 Nov 11;341:c5812. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21071484&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tan J, Wolfe B, Weiss J, Stein-Gold L, Bikowski J, Del Rosso J, Webster GF, Lucky A, Thiboutot D, Wilkin J, Leyden J, Chren MM. Acne severity grading: determining essential clinical components and features using a Delphi consensus. J Am Acad Dermatol. 2012 Aug;67(2):187-93. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22036609&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tan JK, Fung K, Bulger L. Reliability of dermatologists in acne lesion counts and global assessments. J Cutan Med Surg. 2006 Jul-Aug;10(4):160-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17234113&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tan JK, Jones E, Allen E, Pripotnev S, Raza A, Wolfe B. Evaluation of essential clinical components and features of current acne global grading scales. J Am Acad Dermatol. 2013 Nov;69(5):754-61. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23972509&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tan JK, Tang J, Fung K, Gupta AK, Thomas DR, Sapra S, Lynde C, Poulin Y, Gulliver W, Sebaldt RJ. Development and validation of a comprehensive acne severity scale. J Cutan Med Surg. 2007 Nov-Dec;11(6):211-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18042334&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tanghetti E, Harper JC, Oefelein MG. The efficacy and tolerability of dapsone 5% gel in female vs male patients with facial acne vulgaris: gender as a clinically relevant outcome variable. J Drugs Dermatol. 2012 Dec;11(12):1417-21. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23377510&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Timpatanapong P, Rojanasakul A. Hormonal profiles and prevalence of polycystic ovary syndrome in women with acne. J Dermatol. 1997 Apr;24(4):223-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9164062&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tochio T, Tanaka H, Nakata S, Ikeno H. Accumulation of lipid peroxide in the content of comedones may be involved in the progression of comedogenesis and inflammatory changes in comedones. J Cosmet Dermatol. 2009 Jun;8(2):152-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19527342&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tomida S, Nguyen L, Chiu BH, Liu J, Sodergren E, Weinstock GM, Li H. Pan-genome and comparative genome analyses of propionibacterium acnes reveal its genomic diversity in the healthy and diseased human skin microbiome. MBio. 2013 Apr 30;4(3):e00003-13. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23631911&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tschen EH, Katz HI, Jones TM, Monroe EW, Kraus SJ, Connolly MA, Levy SF. A combination benzoyl peroxide and clindamycin topical gel compared with benzoyl peroxide, clindamycin phosphate, and vehicle in the treatment of acne vulgaris. Cutis. 2001 Feb;67(2):165-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11236229&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Wang HS, Wang TH, Soong YK. Low dose flutamide in the treatment of acne vulgaris in women with or without oligomenorrhea or amenorrhea. Changgeng Yi Xue Za Zhi. 1999 Sep;22(3):423-32. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10584414&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Webster GF, Berson D, Stein LF, Fivenson DP, Tanghetti EA, Ling M. Efficacy and tolerability of once-daily tazarotene 0.1% gel versus once-daily tretinoin 0.025% gel in the treatment of facial acne vulgaris: a randomized trial. Cutis. 2001 Jun;67(6 Suppl):4-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11499329&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Webster GF, Leyden JJ, Gross JA. Comparative pharmacokinetic profiles of a novel isotretinoin formulation (isotretinoin-Lidose) and the innovator isotretinoin formulation: a randomized, 4-treatment, crossover study. J Am Acad Dermatol. 2013 Nov;69(5):762-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23953888&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Xhauflaire-Uhoda E, Piérard GE. Skin capacitance imaging of acne lesions. Skin Res Technol. 2007 Feb;13(1):9-12. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17250526&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Youn SH, Choi CW, Choi JW, Youn SW. The skin surface pH and its different influence on the development of acne lesion according to gender and age. Skin Res Technol. 2013 May;19(2):131-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23279122&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Youn SW, Kim JH, Lee JE, Kim SO, Park KC. The facial red fluorescence of ultraviolet photography: is this color due to Propionibacterium acnes or the unknown content of secreted sebum?. Skin Res Technol. 2009 May;15(2):230-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19622132&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Zane C, Capezzera R, Pedretti A, Facchinetti E, Calzavara-Pinton P. Non-invasive diagnostic evaluation of phototherapeutic effects of red light phototherapy of acne vulgaris. Photodermatol Photoimmunol Photomed. 2008 Oct;24(5):244-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18811865&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Zech LA, Gross EG, Peck GL, Brewer HB. Changes in plasma cholesterol and triglyceride levels after treatment with oral isotretinoin. A prospective study. Arch Dermatol. 1983 Dec;119(12):987-93. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6228196&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Zouboulis CC, Derumeaux L, Decroix J, Maciejewska-Udziela B, Cambazard F, Stuhlert A. A multicentre, single-blind, randomized comparison of a fixed clindamycin phosphate/tretinoin gel formulation (Velac) applied once daily and a clindamycin lotion formulation (Dalacin T) applied twice daily in the topical treatment of acne vulgaris. Br J Dermatol. 2000 Sep;143(3):498-505. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10971320&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate use of medications and other therapy to treat acne vulgaris</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Side effects of medication</p>
+<p>See also the original guideline document for a thorough discussion of the side effects of each medication. See the prescribing information tables (I-XXXIII) in the original guideline document for a quick overview on adverse effects, toxicities, and drug interactions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>In general, the use of combination oral contraceptive pills (COCs) for acne should be avoided within 2 years of first starting menses or in patients who are &amp;lt;14 years of age unless it is clinically warranted. </li>
+    <li>The tetracycline class of antibiotics should be considered first-line therapy in moderate to severe acne, except when contraindicated because of other circumstances (i.e., pregnancy, &amp;le;8 years of age, or allergy). </li>
+</ul>
+<p>See the prescribing information tables (I-XXXIII) in the original guideline document for specific contraindications for recommended treatments.</p>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adherence to these guidelines will not ensure successful treatment in every situation. Furthermore,
+these guidelines should not be interpreted as setting a standard of care, or be deemed inclusive of all proper methods of care, nor exclusive of other methods of care reasonably directed to obtaining
+the same results. The ultimate judgment regarding the propriety of any specific therapy or technique must be made by the physician and the patient in light of all the circumstances presented by the
+individual patient, and the known variability and biologic behavior of the disease. This guideline reflects the best available data at the time the guideline was prepared. The results of future studies
+may require revisions to the recommendations in this guideline to reflect new data.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Patient Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Zaenglein AL, Pathy AL, Schlosser BJ, Alikhan A, Baldwin HE, Berson DS, Bowe WP, Graber EM, Harper JC, Kang S, Keri JE, Leyden JJ, Reynolds RV, Silverberg NB, Stein Gold LF, Tollefson MM, Weiss JS, Dolan NC, Sagan AA, Stern M, Boyer KM, Bhushan R. Guidelines of care for the management of acne vulgaris. J Am Acad Dermatol. 2016 May;74(5):945-73.e33. [315 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26897386&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2016 May"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American Academy of Dermatology - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Funding of guideline production by medical or pharmaceutical entities is prohibited.</p>
+<p>Funding sources: none.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Management of Acne Vulgaris Work Group</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Work Group Members</em>: Andrea L. Zaenglein, MD (<em>Co-Chair</em>), Penn State Hershey Medical Center, Hershey; Arun L. Pathy, MD (<em>Co-Chair</em>), Kaiser Permanente, Centennial; Bethanee J. Schlosser, MD, PhD, Northwestern University, Chicago; Ali Alikhan, MD, University of Cincinnati, Cincinnati; Hilary E. Baldwin, MD, SUNY Down State Medical Center&amp;mdash;Brooklyn; Diane S. Berson, MD, Weill Cornell Medical College, New York Presbyterian Hospital, New York; Whitney P. Bowe, MD, SUNY Down State Medical Center&amp;mdash;Brooklyn; Emmy M. Graber, MD, Boston University School of Medicine, Boston Medical Center, Boston; Julie C. Harper, MD, University of Alabama-Birmingham, Birmingham; Sewon Kang, MD, Johns Hopkins Medicine, Baltimore; Jonette E. Keri, MD, PhD, University of Miami Health System and Miami VA Hospital, Miami; James J. Leyden, MD, Penn Medicine, Philadelphia; Rachel V. Reynolds, MD, Harvard Medical Faculty Physicians, Beth Israel Deaconess Medical Center, Boston; Nanette B. Silverberg, MD, Mount Sinai Health System&amp;mdash;Beth Israel, St. Lukes-Roosevelt, New York; Linda F. Stein Gold, MD, Henry Ford Health System, Detroit; Megha M. Tollefson, MD, Mayo Clinic/Mayo Medical School, Rochester; Jonathan S. Weiss, MD, Emory University School of Medicine, Atlanta; Nancy C. Dolan, MD, Northwestern University, Chicago; Andrew A. Sagan, MD, Swedish Covenant Hospital, Chicago; Mackenzie Stern, Northwestern University, Chicago; Kevin M. Boyer, MPH, American Academy of Dermatology, Schaumburg; Reva Bhushan, MA, PhD, American Academy of Dermatology, Schaumburg</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American Academy of Dermatology (AAD) strives to produce clinical guidelines that reflect the best available evidence supplemented with the judgment of expert clinicians. Significant efforts are taken to minimize the potential for conflicts of interest to influence guideline content. Funding of guideline production by medical or pharmaceutical entities is prohibited, full disclosure is obtained and evaluated for all guideline contributors throughout the guideline development process, and recusal is used to manage identified relationships. The management of conflict of interest for this guideline complies with the Council of Medical Specialty Societies' Code of Interactions with Companies. The AAD conflict of interest policy summary may be viewed at <a href=&quot;https://www.aad.org/&quot; title=&quot;AAD Web site&quot;>www.aad.org</a>.</p>
+<p>Work group members completed a disclosure of interests, which was periodically updated and reviewed throughout guideline development. If a potential conflict was noted, the work group member recused him or herself from discussion and drafting of recommendations pertinent to the topic area of the disclosed interest.</p>
+<p>See the original guideline document for the list of authors' conflict of interest disclosure.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Strauss JS, Krowchuk DP, Leyden JJ, Lucky AW, Shalita AR, Siegfried EC, Thiboutot DM, Van Voorhees AS, Beutner KA, Sieck CK, Bhushan R, American Academy of Dermatology/American Academy of Dermatology. Guidelines of care for acne vulgaris management. J Am Acad Dermatol. 2007 Apr;56(4):651-63. [180 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from <a href=&quot;http://www.jaad.org/article/S0190-9622(15)02614-6/pdf&quot; title=&quot;JAAD Web site&quot;>Journal of the American Academy of Dermatology Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>American Academy of Dermatology (AAD) guideline development process. Schaumburg (IL): American Academy of Dermatology (AAD). Available from the <a href=&quot;https://www.aad.org/practice-tools/quality-care/clinical-guidelines/guideline-development&quot; title=&quot;AAD Web site&quot;>American Academy of Dermatology (AAD) Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A variety of resources about acne are available from the <a href=&quot;https://www.aad.org/public/diseases/acne-and-rosacea/acne&quot; title=&quot;AAD Web site&quot;>American Academy of Dermatology (AAD) Web site</a>.</p>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on July 25, 2007. The information was verified by the guideline developer on August 2, 2007. This summary was updated by ECRI Institute on November 11, 2016. The updated information was verified by the guideline developer on December 13, 2016.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American Academy of Dermatology Association places no restriction on the downloading, use, or reproduction of its guidelines.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 22:48:12 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:14:34 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 190.352 (3)
+  esindex: 0.011
+  captures_list: 210.891
+  CDXLines.iter: 15.07 (3)
+  PetaboxLoader3.datanode: 56.5 (4)
+  exclusion.robots: 0.288
+  exclusion.robots.policy: 0.276
+  RedisCDXSource: 1.25
+  PetaboxLoader3.resolve: 114.702
+  load_resource: 25.635
+-->
