@@ -1,0 +1,854 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=230;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-9984?contentType=xml', '20180712194720')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180712194720/https://www.guideline.gov/summaries/downloadcontent/ngc-9984?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180712194720/https://www.guideline.gov/summaries/downloadcontent/ngc-9984?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-9984?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180712194720" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610055711/https://www.guideline.gov/summaries/downloadcontent/ngc-9984?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 19:47:20 Jul 12, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180621031842/https://www.guideline.gov/summaries/downloadcontent/ngc-9984?contentType=xml" title="03:18:42 Jun 21, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 19:47:20 Jul 12, 2018">12</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930192015/https://www.guideline.gov/summaries/downloadcontent/ngc-9984?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 19:47:20 Jul 12, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180712194720*/https://www.guideline.gov/summaries/downloadcontent/ngc-9984?contentType=xml" title="See a list of every capture for this URL">7 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 12 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-9984?contentType=xml","2018-07-12",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>British Thoracic Society guideline for diagnostic flexible bronchoscopy in adults.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Du Rand IA, Blaikley J, Booton R, Chaudhuri N, Gupta V, Khalid S, Mandal S, Martin J, Mills J, Navani N, Rahman NM, Wrightson JM, Munavvar M, British Thoracic Society Bronchoscopy Guideline Group. British Thoracic Society guideline for diagnostic flexible bronchoscopy in adults. Thorax. 2013 Aug;68(Suppl 1):i1-44. [303 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23860341&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+  </section>
+  <section secid="394" ordby="200" name="Regulatory Alert">
+    <field fieldid="154" ordby="205" id="395" name="FDA Warning/Regulatory Alert" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse</strong>: This guideline references a drug(s) for which important revised regulatory and/or warning information has been released.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><a href=&quot;http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm518710.htm&quot; title=&quot;FDA Web site&quot; target=&quot;_blank&quot;>August 31, 2016 &amp;ndash; Opioid pain and cough medicines combined with benzodiazepines</a>: A U.S. Food and Drug Administration (FDA) review has found that the growing combined used of opioid medicines with benzodiazepines or other drugs that depress the central nervous system (CNS) has resulted in serious side effects, including slowed or difficult breathing and deaths. FDA is adding Boxed Warnings to the drug labeling of prescription opioid pain and prescription opioid cough medicines and benzodiazepines. </li>
+</ul></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The levels of evidence (1++, 1+, 1-, 2++, 2+, 2-, 3, 4), grades of recommendations (A-D), and good practice points (GPPs) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Summary of Recommendations</span></strong></p>
+<p><strong>Monitoring, Precautions, and Complications</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>All patients undergoing bronchoscopy should have heart rate, respiratory rate, blood pressure, and oxygen saturation recorded repeatedly, including before, during, and after the procedure. [<strong>D</strong>] </li>
+    <li>All bronchoscopy units should undertake periodic audit of bronchoscopic performance, including efficacy, complications, and patient satisfaction surveys. [<strong>GPP</strong>] </li>
+    <li>All Trusts should have a 'safe sedation policy', and ensure all bronchoscopy unit staff, including trainees, receive appropriate training. [<strong>GPP</strong>] </li>
+</ul>
+<p><strong>Hypoxaemia</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients should be monitored by continuous pulse oximetry during bronchoscopy. [<strong>C</strong>] </li>
+    <li>Oxygen supplementation should be used when desaturation is significant (pulse oximeter oxygen saturation [SpO<sub>2</sub>] &amp;gt;4% change, or SpO<sub>2</sub> &amp;lt;90%) and prolonged (&amp;gt;1 min) to reduce the risk of hypoxaemia-related complications. [<strong>D</strong>] </li>
+    <li>The risks of hypoxaemia-related complications are associated with baseline arterial oxygen saturation (SaO<sub>2</sub>) and lung function, comorbidity, sedation, and procedural sampling. Fitness for bronchoscopy should incorporate an assessment of these elements, and appropriate monitoring and preprocedure optimisation. [<strong>D</strong>] </li>
+</ul>
+<p><strong>Cardiac Arrhythmias</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Continuous electrocardiogram (ECG) monitoring should be used when there is a high clinical risk of arrhythmia. [<strong>D</strong>] </li>
+    <li>When there is a high risk of arrhythmia, oxygen saturations, pulse rate, and blood pressure should be optimised. Appropriate aftercare monitoring and instructions should be given. [<strong>D</strong>] </li>
+    <li>Resuscitation equipment should be readily available. [<strong>GPP</strong>] </li>
+    <li>Intravenous access should be established before sedation is given and maintained until discharge. [<strong>GPP</strong>] </li>
+</ul>
+<p><strong>Bleeding Complications</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Perform coagulation studies, platelet count, and haemoglobin concentration when there are clinical risk factors for abnormal coagulation. [<strong>D</strong>] </li>
+    <li>Bronchoscopy with lavage can be performed with platelet counts &amp;gt;20,000 per &amp;mu;L. Liaise with the local haematology team regarding the need for platelet transfusion before bronchoscopy if endobronchial biopsy (EBB) or transbronchial lung biopsy (TBLB) is planned. [<strong>D</strong>] </li>
+    <li>Discontinue clopidogrel 7 days prior to consideration of EBB and TBLB. Low-dose aspirin alone can be continued. [<strong>C</strong>] </li>
+    <li>Anticoagulants should be managed according to published guidelines as set out in Appendix 7 of the original guideline document. [<strong>GPP</strong>] </li>
+    <li>The risk of biopsy needs to be weighed against the potential for benefit and appropriate informed consent obtained. [<strong>GPP</strong>] </li>
+</ul>
+<p><strong>Pneumothorax</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A chest radiograph should be obtained if a patient is symptomatic or there is a clinical suspicion of possible pneumothorax after TBLB. [<strong>D</strong>] </li>
+    <li>Fluoroscopic screening may improve diagnostic yield of TBLB in focal but not diffuse lung disease. [<strong>D</strong>] </li>
+    <li>Patients should be advised of the potential for delayed complications following TBLB and provided with written information regarding likely symptoms and action required. [<strong>D</strong>] </li>
+</ul>
+<p><strong>Fever and Infection</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients should receive written information regarding post-bronchoscopy fever (PBF) and appropriate management advice. [<strong>C</strong>] </li>
+    <li>Antibiotic prophylaxis is not warranted before bronchoscopy for the prevention of endocarditis, fever or pneumonia. [<strong>B</strong>] </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Safety of Flexible Bronchoscopy (FB) in Specific Medical Conditions</span></strong></p>
+<p><strong>Asthma</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients' asthma control should be optimised prior to bronchoscopy, especially when bronchoalveolar lavage (BAL) is likely to be performed. [<strong>C</strong>] </li>
+    <li>Nebulised bronchodilators should be considered before bronchoscopy in patients with asthma. [<strong>GPP</strong>] </li>
+</ul>
+<p><strong>Chronic Obstructive Pulmonary Disease (COPD)</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>COPD treatment should be optimised prior to bronchoscopy when possible. [<strong>D</strong>] </li>
+    <li>Bronchoscopists should be cautious when sedating patients with COPD. [<strong>D</strong>] </li>
+</ul>
+<p><strong>Ischaemic Heart Disease</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Liaison with cardiologists should be considered in high-risk patients with cardiac disease and if FB is indicated within 4 to 6 weeks after myocardial infarction (MI). [<strong>D</strong>] </li>
+    <li>FB should ideally be delayed for 4 weeks after MI. [<strong>D</strong>] </li>
+</ul>
+<p><strong>Haemoptysis</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Consider bronchoscopy after a normal computed tomogram (CT) if the patient is high risk for lung carcinoma or if the haemoptysis continues. [<strong>D</strong>] </li>
+</ul>
+<p><strong>Older Patients</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Age alone should not be a contraindication for bronchoscopy. [<strong>D</strong>] </li>
+    <li>The older patient may require reduced doses of benzodiazepines/opioids sedation. [<strong>D</strong>] </li>
+</ul>
+<p><strong>Patients Who Are Immunosuppressed</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>When a diagnosis is not likely to be obtained through noninvasive measures, bronchoscopy with BAL can be considered to provide diagnostic information. [<strong>C</strong>] </li>
+    <li>TBLB is helpful in lung transplant recipients when rejection is a possibility. [<strong>C</strong>] </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Sedation</span></strong></p>
+<p><strong>Premedication</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Anticholinergics (glycopyrrolate or atropine) should not routinely be used prior to bronchoscopy due to a lack of clinical benefit and a possible increased risk of haemodynamic changes. [<strong>A</strong>] </li>
+    <li>Premedication for bronchoscopy is not routinely indicated. [<strong>C</strong>] </li>
+</ul>
+<p><strong>Sedation</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Intravenous sedation should be offered to patients undergoing bronchoscopy, provided there are no contraindications. [<strong>B</strong>] </li>
+    <li>Some patients will tolerate unsedated bronchoscopy well, and patient preference should be sought. [<strong>B</strong>] </li>
+    <li>Sedative drugs should be titrated to provide the desired depth of sedation, given significant inter-patient variability in required doses. [<strong>B</strong>] </li>
+    <li>The desired depth of sedation is one in which verbal contact is possible at all times. [<strong>D</strong>] </li>
+    <li>Bronchoscopists are encouraged to document an assessment of sedation depth as part of the procedural report. [<strong>GPP</strong>] </li>
+</ul>
+<p><strong>Benzodiazepines</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Intravenous midazolam is the preferred drug for sedation, having a rapid onset of action, being titratable to provide the required depth of sedation, and being reversible. [<strong>B</strong>] </li>
+    <li>No more than 5 mg midazolam should be initially drawn up into any syringe prior to bronchoscopy for patients under the age of 70 (2 mg midazolam for patients over 70) to prevent potential inadvertent oversedation associated with the practice of routinely drawing up 10 mg midazolam. [<strong>D</strong>] </li>
+    <li>Only low-strength midazolam (1 mg/mL) should be available within bronchoscopy suites. High-strength midazolam (2 mg/mL or 5 mg/mL) should be restricted to general anaesthesia, intensive care, and other areas where its use has been formally risk assessed. [<strong>D</strong>] </li>
+</ul>
+<p><strong>Propofol</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>While propofol has similar efficacy to midazolam, it should only be used when administered by practitioners formally trained in its administration (e.g., anaesthetists) since it has a narrow therapeutic window beyond which general anaesthesia is achieved. [<strong>B</strong>] </li>
+</ul>
+<p><strong>Opioids</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Combination opioid and midazolam sedation should be considered in patients to improve bronchoscopic tolerance. [<strong>B</strong>] </li>
+    <li>When opioids are used, short-acting agents (such as fentanyl or alfentanil) should be used to minimise post-procedural sedation. [<strong>D</strong>] </li>
+    <li>When combination sedatives are used, opioids should be administered first and allowed time to become maximally effective before administration of any other agent. [<strong>D</strong>] </li>
+</ul>
+<p><strong>Topical Anaesthesia</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Lidocaine should be used for topical anaesthesia during bronchoscopy, unless contraindicated. [<strong>A</strong>] </li>
+    <li>Nasal topical anaesthesia is most effectively provided using 2% lidocaine gel. [<strong>A</strong>] </li>
+    <li>Both cricothyroid and spray-as-you-go techniques are effective in delivering lidocaine to the vocal cords and trachea. [<strong>B</strong>] </li>
+    <li>Nebulisation is not recommended as a technique for delivering lidocaine to the airways. [<strong>B</strong>] </li>
+    <li>1% lidocaine solution should be used for spray-as-you-go administration. [<strong>A</strong>] </li>
+    <li>To reduce the risk of lidocaine toxicity, bronchoscopists should use the lowest dose of lidocaine sufficient to prevent excessive coughing and provide patient comfort. [<strong>D</strong>] </li>
+    <li>Bronchoscopists should remain vigilant for objective and subjective symptoms of lidocaine toxicity, particularly given significant inter-patient variability in lidocaine absorption and metabolism. [<strong>B</strong>] </li>
+    <li>Bronchoscopists should monitor and document the total lidocaine dose delivered at all sites during bronchoscopy. [<strong>GPP</strong>] </li>
+</ul>
+<p><strong>Sampling and Diagnostic Accuracy</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Bronchoscopists should maintain a record of their personal diagnostic accuracy for FB. [<strong>GPP</strong>] </li>
+</ul>
+<p><strong>Lung Cancer</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A diagnostic level of 85% should be attainable when definite endobronchial tumour is visible. [<strong>B</strong>] </li>
+    <li>At least five biopsy samples should be taken when endobronchial tumour is visible to maximise diagnostic yield and the volume of biopsy tissue and to allow for tumour phenotyping and genotyping. [<strong>D</strong>] </li>
+    <li>When endobronchial tumour is visible, brushings and washings can increase the diagnostic yield of the procedure. [<strong>D</strong>] </li>
+    <li>A chest CT scan should be performed prior to a diagnostic bronchoscopy in patients with suspected lung cancer. [<strong>D</strong>] </li>
+</ul>
+<p><strong>Interstitial Lung Disease</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>In suspected sarcoidosis, EBBs should be considered to increase the diagnostic yield. [<strong>C</strong>] </li>
+    <li>TBLB is recommended for the diagnosis of stage II&amp;ndash;IV sarcoidosis. [<strong>C</strong>] </li>
+    <li>In patients with diffuse interstitial lung disease, 5 to 6 TBLBs should be taken from the same lung. [<strong>D</strong>] </li>
+    <li>Fluoroscopy should be considered for TBLB in patients with localised or focal parenchymal lung disease. [<strong>D</strong>] </li>
+</ul>
+<p><strong>Diagnosis of Infection</strong></p>
+<p><em>Patients Who Are Immunocompromised</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>In patients with pulmonary infiltrates who are immunocompromised and in whom tuberculosis (TB) is considered unlikely, BAL alone is usually sufficient to achieve a diagnosis. In areas or populations with high prevalence of TB, TBLB may be considered in addition. [<strong>C</strong>] </li>
+    <li>BAL or bronchial washings should be sent for microscopy for acid fast bacteria (AFB) and for mycobacterial culture in patients with pneumonia who are immunocompromised. [<strong>C</strong>] </li>
+    <li>Post-bronchoscopy sputum could be collected in patients who are immunocompromised and suspected to have TB. [<strong>D</strong>] </li>
+    <li>TBLB and EBB for invasive aspergillosis may be avoided if BAL galactomannan test is available due to the high sensitivity and specificity of the latter and inherent risks with the biopsies. [<strong>C</strong>] </li>
+    <li>In patients suspected to have invasive aspergillosis, BAL should be sent for microscopy for hyphae and fungal culture; a BAL galactomannan test should be considered to further improve diagnostic yield. [<strong>C</strong>] </li>
+</ul>
+<p><em>Patients Who Are Immunocompetent</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Bronchoscopy may be considered in patients with non-resolving or slowly resolving pneumonia, especially if they are current or ex smokers and older than 50 years. [<strong>C</strong>] </li>
+    <li>If bronchoscopy is performed for community-acquired pneumonia, BAL specimens should be sent for legionella polymerase chain reaction (PCR) and atypical pathogens. [<strong>C</strong>] </li>
+    <li>Bronchoscopy may be considered if the patient is suspected to have TB when sputum smear is negative. [<strong>C</strong>] </li>
+    <li>In cases of suspected TB, BAL, bronchial aspirates and post-bronchoscopy sputum appear to be complementary and should all be analysed. [<strong>C</strong>] </li>
+    <li>In areas with high or intermediate prevalence of TB, patients undergoing bronchoscopy for another indication should have samples sent routinely for cultures for TB. [<strong>C</strong>] </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Intensive Care Units (ICUs)</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The external diameter of a bronchoscope used in the ICU setting should be carefully selected according to the external diameter of the bronchoscope, the size of the airway support device (endotracheal tube [ET] or laryngeal mask) and the type of airway device used. [<strong>D</strong>] </li>
+    <li>Prophylactic bronchoscopy and lavage should not be used to prevent post-lobectomy atelectasis in ventilated patients. [<strong>A</strong>] </li>
+    <li>Bronchoscopy may be considered in specific circumstances for the relief of atelectasis in intubated and ventilated patients. [<strong>D</strong>] </li>
+    <li>Bronchoscopy may be considered in ventilated patients with haemoptysis if CT imaging has been performed and is unhelpful, or is not possible. [<strong>D</strong>] </li>
+    <li>Directed non-invasive diagnostic strategies (e.g., blind catheter aspiration) should be used first line in preference to bronchoscopy in ventilated patients with suspected ventilator-associated pneumonia. [<strong>A</strong>] </li>
+    <li>When such non-invasive diagnostic techniques fail to identify a responsible organism, bronchoscopy should be considered for the diagnosis of ventilator-associated pneumonia. [<strong>D</strong>] </li>
+    <li>Patients in the ICU should be considered at high risk from complications when undergoing bronchoscopy. [<strong>D</strong>] </li>
+    <li>All potential risk factors (ventilator parameters, clotting dysfunction) should be corrected as far as possible before undertaking bronchoscopy. [<strong>D</strong>] </li>
+    <li>The risks and benefits of bronchoscopy should be carefully considered in mechanically ventilated patients. [<strong>GPP</strong>] </li>
+    <li>Continuous multimodal physiological monitoring should occur during and after bronchoscopy in the ICU setting. [<strong>C</strong>] </li>
+    <li>Patients should be monitored after the procedure for complications, including pneumothorax, even when a biopsy has not been taken. [<strong>D</strong>] </li>
+    <li>Continuous positive airway pressure (CPAP) plus oxygen support may be considered in patients with hypoxia undergoing bronchoscopy to prevent desaturation and postprocedure requirement for mechanical ventilation. [<strong>B</strong>] </li>
+    <li>When patients require non-invasive ventilation prior to bronchoscopy, the procedure should be conducted in an environment where intubation and ventilatory support are readily accessible. [<strong>D</strong>] </li>
+    <li>Bronchoscopy should be undertaken cautiously in patients with documented or suspected raised intracranial pressure. [<strong>D</strong>] </li>
+    <li>Care must be exercised to ensure adequate ventilation and oxygenation is maintained during bronchoscopy in intubated patients. [<strong>GPP</strong>] </li>
+    <li>Adequate sedation and analgesia should be provided for patients undergoing bronchoscopy in an intensive care setting. The risks of these procedures should be carefully balanced with their potential benefit in ventilated patients. [<strong>D</strong>] </li>
+    <li>Clinicians administering sedation/anaesthesia/analgesia should be acquainted with the use of these agents, and the anaesthetist/intensivist is usually best placed to fulfil this role. [<strong>D</strong>] </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Disinfection</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>All personnel involved in cleaning and decontaminating bronchoscopes must receive specific training in infection control practices and decontamination processes. [<strong>D</strong>] </li>
+    <li>Decontamination and disinfection should be carried out at the beginning and end of each list and after each patient use. If drying cabinets or storage chambers are unavailable bronchoscopes should be decontaminated no more than 3 h before the procedure to eliminate colonisation of pathogens. [<strong>D</strong>] </li>
+    <li>Bronchoscopes should be cleaned in designated cleaning areas. Used scopes must be separated from clean scopes to prevent cross contamination. [<strong>D</strong>] </li>
+    <li>Thorough cleaning, brushing, and flushing of all accessible channels with enzymatic or low foaming detergent remains the most important initial stage of the cleaning process. [<strong>D</strong>] </li>
+    <li>Single-use suction valves should replace reusable valves wherever possible. Single-use valves must be discarded after each procedure. [<strong>D</strong>] </li>
+    <li>Reusable valves should be used only with one bronchoscope and stored alongside the scope for traceability. [<strong>D</strong>] </li>
+    <li>Single-use accessories should be selected over reusable accessories wherever possible. [<strong>D</strong>] </li>
+    <li>When it is necessary to use reusable accessories they must be cleaned according to the manufacturer's recommendations. [<strong>D</strong>] </li>
+    <li>Tracking of patient use of equipment and cleaning processes must be completed after each use. [<strong>D</strong>] </li>
+    <li>On the grounds of staff safety, manual disinfection is no longer recommended. [<strong>D</strong>] </li>
+    <li>Bronchoscopes should be processed in automated endoscope reprocessors (AERs). [<strong>D</strong>] </li>
+    <li>Aldehyde-based disinfectants are no longer recommended. [<strong>C</strong>] </li>
+    <li>Alternative, recommended disinfectants should be used in accordance with the manufacturer's instructions. [<strong>D</strong>] </li>
+    <li>Disinfectant times should be those recommended by disinfectant manufacturers. [<strong>D</strong>] </li>
+    <li>Universal decontamination procedures should be performed before and after all procedures to avoid transmission of human immunodeficiency virus (HIV). [<strong>D</strong>] </li>
+    <li>The use of 70% alcohol after final rinse is no longer recommended as it is considered to act as a fixative. [<strong>D</strong>] </li>
+    <li>Drying cabinets/storage chambers are recommended for storing clean bronchoscopes. Compatibility of bronchoscopes must be confirmed with individual instrument manufacturers. [<strong>D</strong>] </li>
+    <li>Bronchoscopes stored in drying cabinets or storage chambers should be reprocessed in accordance with the manufacturer's recommendations. [<strong>D</strong>] </li>
+    <li>When drying cabinets or storage chambers are not available, bronchoscopes must be stored in a hanging position, with sufficient space between instruments to avoid cross contamination. [<strong>D</strong>] </li>
+    <li>Valves must not be attached to bronchoscopes during storage. [<strong>D</strong>] </li>
+    <li>Bronchoscopes must be cleaned and disinfected before and after placing in carrying cases as these cases cannot be disinfected. Bronchoscopes should not be stored in carrying cases. [<strong>D</strong>] </li>
+    <li>A record must be kept of each bronchoscope and reusable accessory used on each individual patient. Tracking each step of the decontamination cycle and personnel involved should also be recorded. This will facilitate tracing if an increase in contamination by organisms is identified amongst bronchoscopy patients. [<strong>D</strong>] </li>
+    <li>AERs should be self-disinfected at the beginning of each day. [<strong>D</strong>] </li>
+    <li>AERs must be validated on instillation and following introduction of new disinfectants according to Health Technical Memorandum 01 (HTM-01). [<strong>D</strong>] </li>
+    <li>Sterile water or filtered water should be used for the final rinse. Tap water is not recommended. [<strong>D</strong>] </li>
+    <li>Regular testing of AERs and final rinse water for mycobacteria must be carried out according to HTM-01. [<strong>D</strong>] </li>
+    <li>Compatibility of bronchoscopes with disinfectant and AER manufacturer's instruction should be checked. [<strong>GPP</strong>] </li>
+    <li>A record of which bronchoscope and other reusable equipment are used on an individual patient should be kept and also of the decontamination procedure. [<strong>GPP</strong>] </li>
+    <li>There is currently no known decontamination method that prevents transmission of variant Creutzfeldt&amp;ndash;Jakob disease (vCJD). Record keeping and identification of high-risk cases are advised. [<strong>GPP</strong>] </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Staffing</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Open troughs of disinfectant are not recommended. [<strong>D</strong>] </li>
+    <li>Staff handling disinfectants should always wear full personal protective equipment in line with COSHH (control of substances hazardous to health) risk assessment. [<strong>D</strong>] </li>
+    <li>Medical histories of staff should be recorded including preexisting asthma, skin, and mucosal sensitivities. [<strong>D</strong>] </li>
+    <li>Pre-employment baseline lung function, such as spirometry, should be measured and recorded. [<strong>D</strong>] </li>
+    <li>Annual lung function measurements, such as spirometry, should be performed on all personnel directly exposed to disinfectants. [<strong>D</strong>] </li>
+    <li>Immunisation against hepatitis B and TB should be confirmed in all bronchoscopy personnel before employment. Vaccinations should be offered if necessary. [<strong>D</strong>] </li>
+    <li>Hypodermic needles or other sharp instruments should not be used to remove tissue samples from biopsy forceps. Blunt-ended needles or sterile plastic toothpicks are preferable. [<strong>D</strong>] </li>
+    <li>Reusable spiked forceps are not recommended. [<strong>D</strong>] </li>
+    <li>A minimum of&amp;nbsp;2 qualified nurses are required during bronchoscopy procedures: 1 assistant nurse and another dedicated to monitoring the patient's response to the medication and procedure. [<strong>D</strong>] </li>
+    <li>A qualified nurse is required to recover a patient after bronchoscopy. [<strong>D</strong>] </li>
+    <li>Advanced procedures may require additional staff. [<strong>D</strong>] </li>
+    <li>In patients with suspected TB, bronchoscopy should be performed in an appropriately engineered and ventilated area, and the bronchoscopy team should use adequate protection, including masks. [<strong>GPP</strong>] </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Patient Satisfaction</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Verbal and written patient information explaining indications and what to expect during the procedure, and potential complications should be provided to improve patient tolerance. [<strong>C</strong>] </li>
+    <li>Patients should be offered sedation during FB to improve patient tolerance. [<strong>B</strong>] </li>
+    <li>It is sufficient for patients to have no food by mouth for 4 h and to allow clear fluids by mouth up to 2 h before bronchoscopy. [<strong>D</strong>] </li>
+    <li>Patients who had sedation should be advised not to drive, sign legally binding documents, or operate machinery for 24 h after the procedure. [<strong>GPP</strong>] </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Consent</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Practitioners undertaking FB should be familiar with, and adhere to the national and local guidance for obtaining informed consent. [<strong>GPP</strong>] </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><strong>Revised Grading System for Recommendations in Evidence-based Guidelines</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Revised Grading System for Recommendations in Evidence-based Guidelines&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;col&quot;>Grade</th>
+            <th valign=&quot;top&quot; scope=&quot;col&quot;>Evidence</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1++</td>
+            <td valign=&quot;top&quot;>High-quality meta-analyses, systematic reviews of randomised controlled trials (RCTs) or RCTs with a very low risk of bias</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1+</td>
+            <td valign=&quot;top&quot;>Well conducted meta-analyses, systematic reviews of RCTs or RCTs with a low risk of bias</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1-</td>
+            <td valign=&quot;top&quot;>Meta-analyses, systematic reviews or RCTs or RCTs with a high risk of bias</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2++</td>
+            <td valign=&quot;top&quot;>High-quality systematic reviews of case-control or cohort studies or high-quality case-control or cohort studies with a very low risk of confounding, bias or chance, and a high probability that the relationship is causal</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2+</td>
+            <td valign=&quot;top&quot;>Well conducted case-control or cohort studies with a low risk of confounding, bias or chance, and a moderate probability that the relationship is causal</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2-</td>
+            <td valign=&quot;top&quot;>Case-control or cohort studies with a high risk of confounding, bias or chance and a significant risk that the relationship is not causal</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>Non-analytic studies, for example, case reports, case series</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4</td>
+            <td valign=&quot;top&quot;>Expert opinion</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Grades of Recommendations</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Grades of Recommendation&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Type of Evidence</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>A</th>
+            <td valign=&quot;top&quot;>At least one meta-analysis, systematic review, or randomised controlled trial (RCT) rated as 1++ and directly applicable to the target population<em> or</em><br />
+            <br />
+            A systematic review of RCTs or a body of evidence consisting principally of studies rated as 1+ directly applicable to the target </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>B</th>
+            <td valign=&quot;top&quot;>A body of evidence including studies rated as 2++ directly applicable to the target population and demonstrating overall consistency of results<em> or</em><br />
+            <br />
+            Extrapolated evidence from studies rated as 1++ or 1+ </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>C</th>
+            <td valign=&quot;top&quot;>A body of evidence including studies rated as 2+ directly applicable to the target population and demonstrating overall consistency of results <em>or</em><br />
+            <br />
+            Extrapolated evidence from studies rated as 2++ </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>D</th>
+            <td valign=&quot;top&quot;>Evidence level 3 or 4 <em>or</em><br />
+            <br />
+            Extrapolated evidence from studies rated as 2+ </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>GPP<br />
+            (Good Practice Point)</th>
+            <td valign=&quot;top&quot;>An important practical point for which there is no research evidence, nor is there likely to be any research evidence. The Guideline Group wishes to emphasise these as good practice points</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following algorithms are provided in the original guideline document:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Diagnostic Algorithm: Bronchoscopy in the Immunocompromised Host </li>
+    <li>Management of Patients on Warfarin or Clopidogrel Undergoing Bronchoscopy (see Appendix 7 in the original guideline document) </li>
+</ul></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Respiratory disease requiring diagnostic flexible bronchoscopy (FB) </p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Risk Assessment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Anesthesiology"/>
+      <fieldvalue value="Critical Care"/>
+      <fieldvalue value="Emergency Medicine"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Oncology"/>
+      <fieldvalue value="Pulmonary Medicine"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Respiratory Care Practitioners"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To provide a detailed, evidence-based and practical overview of best practice in diagnostic flexible bronchoscopy (FB) in adults </li>
+    <li>To inform those who undertake or intend to undertake FB and procedures described within the guideline and to inform other healthcare professionals as to what may be the indications, procedures, likely response, and complications of FB in adults </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adult patients undergoing flexible bronchoscopy (FB)</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Monitoring of patient during the procedure including, but not limited to heart rate, respiratory rate, blood pressure, and oxygen saturation </li>
+    <li>Periodic audit of bronchoscopic performance </li>
+    <li>'Safe sedation policy' and training of staff </li>
+    <li>Flexible bronchoscopy (FB) in specific populations including, but not limited to patients with asthma, chronic obstructive pulmonary disease (COPD), ischaemic heart disease </li>
+    <li>Premedication (not recommended) and sedation (e.g., benzodiazepines, propofol, opioids, topical anaesthesia) </li>
+    <li>Use of FB in diagnosis of lung cancer, interstitial lung disease, and infection, including biopsy and sampling technique (bronchoalveolar lavage [BAL], endobronchial biopsy [EBB] or transbronchial lung biopsy [TBLB]) </li>
+    <li>Use of FB in the intensive care unit (ICU), including considerations of bronchoscope diameter and risk of patient complications </li>
+    <li>Decontamination of bronchoscopes </li>
+    <li>Staff safety </li>
+    <li>Provision of patient information, including advice on driving, signing legal documents, and operating machinery after sedation </li>
+    <li>Obtaining informed consent </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Sensitivity, specificity, and diagnostic yield of flexible bronchoscopy (FB) </li>
+    <li>Complications and adverse effects of FB and of drugs used in bronchoscopy </li>
+    <li>Patient satisfaction </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Clinical Questions and Literature Search</strong></p>
+<p>Clinical questions were gathered in the PICOT (Patient, Intervention, Control, Outcome, and Time) format to define the scope of the guideline and inform the literature search.</p>
+<p>Systematic electronic database searches were conducted to identify potentially relevant studies for inclusion in the guideline. For each topic area the following databases were searched: Ovid MEDLINE (from 1988) (including MEDLINE In Process), Ovid EMBASE (from 1988), Ovid Cumulative Index to Nursing and Allied Health Literature (CINAHL) (from 1982), and the Cochrane Library (from 1992) (including the Cochrane Database of Systematic Reviews, the Database of Abstracts of Reviews of Effects, the Cochrane Central Register of Controlled Trials, the Health Technology Assessment database, and the National Health Service Economic Evaluation Database). The search strategies are available in Appendix 2 of the original guideline document (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p>The searches were first run in January 2011 and were updated in January 2012 and June 2012. Searches were saved and alerts sent via email on a monthly basis to identify newly published literature to date. Searches included a combination of indexed terms and free text terms, and were limited to English language publications only. The initial search identified 22,865 potential papers.</p>
+<p><strong>Appraisal of the Literature</strong></p>
+<p>Appraisal was performed using the criteria stipulated by the Appraisal of Guidelines for Research and Evaluation (AGREE) collaboration. One individual read the title and abstract of each article retrieved by the literature searches and decided whether the paper was (1) definitely relevant, (2) possibly relevant, or (3) not relevant to the project. A total of 9121 papers were identified to review for inclusion of the guideline. Criteria formulated for initial screening of the abstracts into these three groups were:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Whether the study addressed the clinical question </li>
+    <li>Whether the appropriate study type was used to produce the best evidence to answer the clinical question </li>
+    <li>Abstract was in English </li>
+    <li>Studies in which exclusively rigid bronchoscopy was used were not evaluated. </li>
+    <li>Abstracts were not rejected on the basis of the journal of publication, country in which the research was performed, or published or the date of publication. </li>
+</ul>
+<p>The full paper was obtained for all relevant or possibly relevant abstracts and allocated to the relevant section(s):</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Sedation, premedication, and topical anaesthesia </li>
+    <li>Monitoring, precautions, contraindications, and complications </li>
+    <li>Specific conditions </li>
+    <li>Bronchoscopy in the intensive care unit (ICU) </li>
+    <li>Infections </li>
+    <li>Cleaning, disinfecting, and staff safety </li>
+    <li>Diagnostic accuracy </li>
+    <li>Patient satisfaction and consent </li>
+</ul>
+<p>The first screening process identified 9121 abstracts to be reviewed, 1824 abstracts did not meet the criteria as set out above, 1504 studies used flexible bronchoscopy to collect samples for research purposes and 1731 case reports in flexible bronchoscopy were identified. Two guideline reviewers independently reviewed the abstracts of the remaining 4062 studies to identify 2197 papers to be appraised for the guideline.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>2197 papers were appraised for the guideline.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Revised Grading System for Recommendations in Evidence-based Guidelines</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Revised Grading System for Recommendations in Evidence-based Guidelines&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;col&quot;>Grade</th>
+            <th valign=&quot;top&quot; scope=&quot;col&quot;>Evidence</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1++</td>
+            <td valign=&quot;top&quot;>High-quality meta-analyses, systematic reviews of randomised controlled trials (RCTs) or RCTs with a very low risk of bias</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1+</td>
+            <td valign=&quot;top&quot;>Well conducted meta-analyses, systematic reviews of RCTs or RCTs with a low risk of bias</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1-</td>
+            <td valign=&quot;top&quot;>Meta-analyses, systematic reviews or RCTs or RCTs with a high risk of bias</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2++</td>
+            <td valign=&quot;top&quot;>High-quality systematic reviews of case-control or cohort studies or high-quality case-control or cohort studies with a very low risk of confounding, bias or chance, and a high probability that the relationship is causal</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2+</td>
+            <td valign=&quot;top&quot;>Well conducted case-control or cohort studies with a low risk of confounding, bias or chance, and a moderate probability that the relationship is causal</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2-</td>
+            <td valign=&quot;top&quot;>Case-control or cohort studies with a high risk of confounding, bias or chance and a significant risk that the relationship is not causal</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>Non-analytic studies, for example, case reports, case series</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4</td>
+            <td valign=&quot;top&quot;>Expert opinion</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Appraisal of the Literature</strong></p>
+<p>The two leads for each section independently appraised each paper assigned to them using the Scottish Intercollegiate Guidelines Network (SIGN) critical appraisal checklists. A Web-based guideline development tool (<a href=&quot;http://www.bronchoscopy-guideline.org&quot; title=&quot;Bronchoscopy Guideline Web site&quot;>http://www.bronchoscopy-guideline.org</a>) was used for 1505 critical appraisals of 522 studies. The Web site enabled each pair of reviewers to collaborate online and produce evidence tables electronically. The reliability of the evidence in each individual study was graded using the SIGN critical appraisal checklists and is shown in the evidence tables (++, +, or &amp;minus;). The body of evidence for each recommendation was summarised into evidence statements and graded using the SIGN grading system (see the &quot;Rating Scheme for the Strength of the Evidence&quot; field). Disagreements were resolved by discussion with the section partner and the Guideline Group.</p>
+<p><strong>Considered Judgement and Grading of the Evidence</strong></p>
+<p>The Guideline Group used the online derived evidence tables to judge the body of evidence and grade recommendations for this guideline. The evidence tables are available in Appendix 3 of the original guideline document (see the &quot;Availability of Companion Documents&quot; field) for review and are published electronically on the British Thoracic Society (BTS) Web site.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus (Delphi)"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This guideline is based on the best available evidence. The methodology used to write the guideline adheres strictly to the criteria as set by the British Thoracic Society (BTS) guideline production manual and the Appraisal of Guidelines for Research and Evaluation (AGREE) collaboration in the document 'The AGREE Instrument', which is available online: <a href=&quot;http://www.agreetrust.org/&quot; title=&quot;AGREE Trust Web site&quot;>http://www.agreetrust.org/</a>.</p>
+<p><strong>Drafting of the Guideline</strong></p>
+<p>The Guideline Group corresponded regularly by email and meetings of the full group were held in February 2011, September 2011, December 2011, March 2012, May 2012, and June 2012.</p>
+<p><strong>Considered Judgment and Grading of the Evidence</strong></p>
+<p>The Guideline Group used the online derived evidence tables to judge the body of evidence and grade recommendations for this guideline. The evidence tables are available in Appendix 3 of the original guideline document (see the &quot;Availability of Companion Documents&quot; field) for review and are published electronically on the British Thoracic Society (BTS) Web site.</p>
+<p>When evidence was lacking to answer the formulated clinical questions, expert opinions were obtained for formal consensus statements using the Delphi method.</p>
+<p>The following were considered in grading the recommendations:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The available volume of the body of evidence </li>
+    <li>How applicable the obtained evidence was in making recommendations for the defined target audience of this guideline </li>
+    <li>Whether the evidence was generalisable to the target population for the guideline </li>
+    <li>Whether there was a clear consistency in the evidence obtained to support recommendations </li>
+    <li>What the implications of recommendations will be on clinical practice in terms of recourses and skilled expertise </li>
+    <li>Cost effectiveness was not reviewed in detail as in-depth economic analysis of recommendations falls beyond the scope of this guideline </li>
+</ul>
+<p>Recommendations were graded from A to D according to the strength of the evidence, as listed in the &quot;Rating Scheme for the Strength of the Recommendations&quot; field. Important practical points lacking any research evidence were highlighted as 'good practice points' (GPP).</p>
+<p>The grading system used to grade recommendations for this revised guideline differs from the system used to grade the recommendations for the 2001 British Thoracic Society guideline on diagnostic flexible bronchoscopy, shown in Table 3 in the original guideline document. Readers of the guideline are therefore advised to review both grading systems and to note that apparent changes in recommendations between guidelines may be due to the use of different grading systems rather than a change in the recommendation itself.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Grades of Recommendations</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Grades of Recommendation&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Type of Evidence</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>A</th>
+            <td valign=&quot;top&quot;>At least one meta-analysis, systematic review, or randomised controlled trial (RCT) rated as 1++ and directly applicable to the target population<em> or</em><br />
+            <br />
+            A systematic review of RCTs or a body of evidence consisting principally of studies rated as 1+ directly applicable to the target </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>B</th>
+            <td valign=&quot;top&quot;>A body of evidence including studies rated as 2++ directly applicable to the target population and demonstrating overall consistency of results<em> or</em><br />
+            <br />
+            Extrapolated evidence from studies rated as 1++ or 1+ </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>C</th>
+            <td valign=&quot;top&quot;>A body of evidence including studies rated as 2+ directly applicable to the target population and demonstrating overall consistency of results <em>or</em><br />
+            <br />
+            Extrapolated evidence from studies rated as 2++ </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>D</th>
+            <td valign=&quot;top&quot;>Evidence level 3 or 4 <em>or</em><br />
+            <br />
+            Extrapolated evidence from studies rated as 2+ </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>GPP<br />
+            (Good Practice Point)</th>
+            <td valign=&quot;top&quot;>An important practical point for which there is no research evidence, nor is there likely to be any research evidence. The Guideline Group wishes to emphasise these as good practice points</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline was discussed at an open session at the British Thoracic Society (BTS) Summer Meeting in July 2012. A revised draft guideline document was circulated to all the relevant stakeholders for consultation in July 2012 followed by a period of online consultation. The BTS Standards of Care Committee reviewed the draft guideline in June 2012.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate use of diagnostic flexible bronchoscopy in adults</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Refer to the &quot;Monitoring, Precautions, and Complications,&quot; &quot;Safety of Flexible Bronchoscopy (FB) in Specific Medical Conditions,&quot; &quot;Sedation in Specific Patient Groups,&quot; and &quot;Bronchoscopy on the Intensive Care Unit&quot; sections for potential harms of bronchoscopy and to Tables 1 and 2 in Appendix 8 of the original guideline document for side effects of drugs used in bronchoscopy.</p></div>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Acute myocardial infarction is considered a contraindication to bronchoscopy within 4 to 6 weeks.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Healthcare providers need to use clinical judgment, knowledge and expertise when deciding whether it is appropriate to apply recommendations for the management of patients. The recommendations cited here are a guide and may not be appropriate for use in all situations. The guidance provided does not override the responsibility of healthcare professionals to make decisions appropriate to the circumstances of each patient, in consultation with the patient and/or their guardian or carer.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Audit Criteria/Indicators"/>
+      <fieldvalue value="Chart Documentation/Checklists/Forms"/>
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Resources"/>
+      <fieldvalue value="Wall Poster"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Du Rand IA, Blaikley J, Booton R, Chaudhuri N, Gupta V, Khalid S, Mandal S, Martin J, Mills J, Navani N, Rahman NM, Wrightson JM, Munavvar M, British Thoracic Society Bronchoscopy Guideline Group. British Thoracic Society guideline for diagnostic flexible bronchoscopy in adults. Thorax. 2013 Aug;68(Suppl 1):i1-44. [303 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23860341&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2013 Aug"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="British Thoracic Society - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>British Thoracic Society</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>British Thoracic Society Flexible Bronchoscopy Guideline Group</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Guideline Group Members</em>: I A Du Rand, Worcestershire Royal Hospital, Worcestershire Acute Hospitals NHS Trust, Worcester, UK; J Blaikley, The University of Manchester, Manchester, UK; R Booton, The University of Manchester, Manchester Academic Health Science Centre, University Hospital South Manchester NHS Foundation Trust, Manchester, UK; N Chaudhuri, University Hospital of South Manchester, Manchester, UK; V Gupta, The University of Manchester, Manchester, UK; S Khalid, Royal Blackburn Hospital, Lancashire, UK; S Mandal, Lane Fox Unit, St Thomas' Hospital, London, UK; J Martin, University Hospital of South Manchester, Manchester, UK; J Mills, Lancashire Teaching Hospitals NHS Trust, Preston, UK; N Navani, University College London Hospital and MRC Clinical Trials Unit, National Institute for Health Research University College London Hospitals Biomedical Research Centre, London, UK; N M Rahman, Oxford Centre for Respiratory Medicine, NIHR Oxford Biomedical Research Centre, Oxford Respiratory Trials Unit, University of Oxford, Oxford, UK; J M Wrightson, Oxford Centre for Respiratory Medicine, NIHR Oxford Biomedical Research Centre, Oxford Respiratory Trials Unit, University of Oxford, Oxford, UK; M Munavvar, Lancashire Teaching Hospitals NHS Trust, Preston, UK</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Guideline Group members adhered to the British Thoracic Society policy for the Declaration of Interests, and if appropriate, specific interests are declared in Appendix 1 of the original guideline document.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;https://www.brit-thoracic.org.uk/document-library/clinical-information/bronchoscopy/flexible-bronchoscopy/diagnostic-flexible-bronchoscopy-in-adults-guideline-2013&quot; title=&quot;British Thoracic Society (BTS) Web site&quot;>British Thoracic Society (BTS) Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>British Thoracic Society Standards of Care Committee guideline production manual. London (UK): British Thoracic Society; 2013 Jul 1. 32 p. </li>
+</ul>
+<p>The appendices to the <a href=&quot;https://www.brit-thoracic.org.uk/document-library/clinical-information/bronchoscopy/flexible-bronchoscopy/diagnostic-flexible-bronchoscopy-in-adults-guideline-2013&quot; title=&quot;British Thoracic Society (BTS) Web site&quot;>original guideline document</a> contain a variety of resources, including a flexible bronchoscopy safety checklist, management approach to bleeding at bronchoscopy, drugs used in bronchoscopy, sedation scoring scales, guides on how to perform standard procedures, lung biopsy guide poster, recommendations for size of bronchoscope with different airway devices, and cleaning and disinfecting procedure.</p>
+<p>Audit recommendations are also available in the <a href=&quot;https://www.brit-thoracic.org.uk/document-library/clinical-information/bronchoscopy/flexible-bronchoscopy/diagnostic-flexible-bronchoscopy-in-adults-guideline-2013&quot; title=&quot;British Thoracic Society (BTS) Web site&quot;>original guideline document</a>.</p>
+<p>Evidence tables and the literature search strategy (Appendices 2 and 3) are available from the <a href=&quot;https://www.brit-thoracic.org.uk/standards-of-care/guidelines/bts-guideline-for-diagnostic-flexible-bronchoscopy-in-adults&quot; title=&quot;British Thoracic Society (BTS) Web site&quot;>BTS Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patient information - bronchoscopy patient information leaflet. Electronic copies: Available in Portable Document Format (PDF) from the <a href=&quot;https://www.brit-thoracic.org.uk/document-library/clinical-information/bronchoscopy/bts-patient-information-leaflet-bronchoscopy/&quot; title=&quot;British Thoracic Society Web site&quot;>British Thoracic Society Web site</a>. </li>
+</ul>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on October 4, 2013. The information was verified by the guideline developer on November 18, 2013. This summary was updated by ECRI Institute on June 2, 2016 following the U.S. Food and Drug Administration advisory on Opioid pain medicines. This summary was updated by ECRI Institute on October 21, 2016 following the U.S. Food and Drug Administration advisory on opioid pain and cough medicines combined with benzodiazepines. This summary was updated by ECRI Institute on February 15, 2017 following the U.S. Food and Drug Administration advisory on general anesthetic and sedation drugs.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 19:47:20 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:41:20 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 111.13 (3)
+  esindex: 0.005
+  captures_list: 127.079
+  CDXLines.iter: 12.071 (3)
+  PetaboxLoader3.datanode: 62.302 (4)
+  exclusion.robots: 0.312
+  exclusion.robots.policy: 0.299
+  RedisCDXSource: 0.838
+  load_resource: 90.073
+-->

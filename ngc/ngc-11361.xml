@@ -1,0 +1,694 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app22.us.archive.org';v.server_ms=219;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-11361?contentType=xml', '20180713012013')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713012013/https://www.guideline.gov/summaries/downloadcontent/ngc-11361?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713012013/https://www.guideline.gov/summaries/downloadcontent/ngc-11361?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-11361?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713012013" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Jun</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 01:20:13 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 01:20:13 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2017</td>
+		  <td class="c" id="displayYearEl" title="You are here: 01:20:13 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713012013*/https://www.guideline.gov/summaries/downloadcontent/ngc-11361?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-11361?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Practice guidelines for moderate procedural sedation and analgesia 2018: a report by the American Society of Anesthesiologists Task Force on Moderate Procedural Sedation and Analgesia, the American Association of Oral and Maxillofacial Surgeons, American College of Radiology, American Dental Association, American Society of Dentist Anesthesiologists, and Society of Interventional Radiology.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Practice guidelines for moderate procedural sedation and analgesia 2018: a report by the American Society of Anesthesiologists Task Force on Moderate Procedural Sedation and Analgesia, the American Association of Oral and Maxillofacial Surgeons, American College of Radiology, American Dental Association, American Society of Dentist Anesthesiologists, and Society of Interventional Radiology. Anesthesiology. 2018 Mar;128(3):437-79. [187 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=29334501 &quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: American Society of Anesthesiologists Task Force on Sedation and Analgesia by Non-Anesthesiologists. Practice guidelines for sedation and analgesia by non-anesthesiologists. Anesthesiology. 2002 Apr;96(4):1004-17. [2 references] </p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="705" ordby="150" name="NEATS Assessment">
+    <field fieldid="183" ordby="10" id="706" name="Disclosure of Guideline Funding Source" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="184" ordby="20" id="707" name="Disclosure and Management of Financial Conflict of Interests" type="picklist-one">
+      <fieldvalue value="4"/>
+    </field>
+    <field fieldid="185" ordby="30" id="708" name="Guideline Development Group Composition: Multidisciplinary Group" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="186" ordby="40" id="709" name="Guideline Development Group Composition: Methodologist Involvement" type="picklist-one">
+      <fieldvalue value="Yes"/>
+    </field>
+    <field fieldid="187" ordby="50" id="710" name="Guideline Development Group Composition: Patient and Public Perspectives" type="picklist-one">
+      <fieldvalue value="1"/>
+    </field>
+    <field fieldid="188" ordby="60" id="711" name="Use of a Systematic Review of Evidence: Search Strategy" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="189" ordby="70" id="712" name="Use of a Systematic Review of Evidence: Study Selection" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="190" ordby="80" id="713" name="Use of a Systematic Review of Evidence: Synthesis of Evidence" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="191" ordby="90" id="714" name="Evidence Foundations for and Rating Strength of Recommendations: Grading the Quality or Strength of Evidence" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="192" ordby="100" id="715" name="Evidence Foundations for and Rating Strength of Recommendations: Benefits and Harms of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="193" ordby="110" id="716" name="Evidence Foundations for and Rating Strength of Recommendations: Evidence Summary Supporting Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="194" ordby="120" id="717" name="Evidence Foundations for and Rating Strength of Recommendations: Rating the Strength of Recommendations" type="picklist-one">
+      <fieldvalue value="2"/>
+    </field>
+    <field fieldid="195" ordby="130" id="718" name="Specific and Unambiguous Articulation of Recommendations" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+    <field fieldid="196" ordby="140" id="719" name="External Review" type="picklist-one">
+      <fieldvalue value="3"/>
+    </field>
+    <field fieldid="197" ordby="150" id="720" name="Updating" type="picklist-one">
+      <fieldvalue value="5"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Patient Evaluation</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Review previous medical records and interview the patient or family to identify:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Abnormalities of the major organ systems (e.g., cardiac, renal, pulmonary, neurologic, sleep apnea, metabolic, endocrine) </li>
+        <li>Adverse experience with sedation/analgesia, as well as regional and general anesthesia </li>
+        <li>History of a difficult airway </li>
+        <li>Current medications, potential drug interactions, drug allergies, and nutraceuticals </li>
+        <li>History of tobacco, alcohol or substance use or abuse </li>
+        <li>Frequent or repeated exposure to sedation/analgesic agents </li>
+    </ul>
+    </li>
+    <li>Conduct a focused physical examination of the patient (e.g., vital signs, auscultation of the heart and lungs, evaluation of the airway,* and when appropriate to sedation, other organ systems where major abnormalities have been identified) </li>
+    <li>Review available laboratory test results
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Order additional laboratory tests guided by a patient's medical condition, physical examination, and the likelihood that the results will affect the management of moderate sedation/analgesia </li>
+        <li>Evaluate results of these tests before sedation is initiated </li>
+    </ul>
+    </li>
+    <li>If possible, perform the preprocedure evaluation well enough in advance (e.g., several days to weeks) to allow for optimal patient preparation&amp;dagger; </li>
+    <li>Reevaluate the patient immediately before the procedure. </li>
+</ul>
+<p class=&quot;Note&quot;>*See Table 2 in the original guideline document for additional information related to airway assessment. </p>
+<p class=&quot;Note&quot;>&amp;dagger;This may not be feasible for urgent or emergency procedures, interventional radiology or other radiology settings.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Preprocedure Patient Preparation</span></strong> </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Consult with a medical specialist (e.g., physician anesthesiologist, cardiologist, endocrinologist, pulmonologist, nephrologist, pediatrician, obstetrician, or otolaryngologist), when appropriate before administration of moderate procedural sedation to patients with significant underlying conditions
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>If a specialist is needed, select a specialist based on the nature of the underlying condition and the urgency of the situation </li>
+        <li>For severely compromised or medically unstable patients (e.g., American Society of Anesthesiologists [ASA] status IV, anticipated difficult airway, severe obstructive pulmonary disease, coronary artery disease, or congestive heart failure) or if it is likely that sedation to the point of unresponsiveness will be necessary to obtain adequate conditions, consult with a physician anesthesiologist </li>
+    </ul>
+    </li>
+    <li>Before the procedure, inform patients or legal guardians of the benefits, risks, and limitations of moderate sedation/analgesia and possible alternatives, and elicit their preferences&amp;Dagger; </li>
+    <li>Inform patients or legal guardians before the day of the procedure that they should not drink fluids or eat solid foods for a sufficient period of time to allow for gastric emptying before the procedure&amp;sect; </li>
+    <li>On the day of the procedure, assess the time and nature of last oral intake
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Evaluate the risk of pulmonary aspiration of gastric contents when determining (1) the target level of sedation and (2) whether the procedure should be delayed </li>
+    </ul>
+    </li>
+    <li>In urgent or emergent situations where complete gastric emptying is not possible, do not delay moderate procedural sedation based on fasting time alone </li>
+</ul>
+<p class=&quot;Note&quot;>&amp;Dagger;This may not be feasible for urgent or emergency procedures. </p>
+<p class=&quot;Note&quot;>&amp;sect;See Table 3 in the original guideline document and/or refer to the National Guideline Clearinghouse (NGC) summary of the ASA guideline <a href=&quot;/summaries/summary/51133&quot; title=&quot;Guideline #11287&quot; target=&quot;_blank&quot;>Practice guidelines for preoperative fasting and the use of pharmacologic agents to reduce the risk of pulmonary aspiration</a>.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Patient Monitoring</span></strong></p>
+<p><strong>Monitoring Patient Level of Consciousness</strong> </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Periodically (e.g., at 5-min intervals) monitor a patient's response to verbal commands during moderate sedation, except in patients who are unable to respond appropriately (e.g., patients where age or development may impair bidirectional communication) or during procedures where movement could be detrimental </li>
+    <li>During procedures where a verbal response is not possible (e.g., oral surgery, restorative dentistry, upper endoscopy), check the patient's ability to give a &quot;thumbs up&quot; or other indication of consciousness in response to verbal or tactile (light tap) stimulation; this suggests that the patient will be able to control his airway and take deep breaths if necessary║ </li>
+</ul>
+<p class=&quot;Note&quot;>║A response limited to reflex withdrawal from a painful stimulus is not considered a purposeful response and thus represents a state of general anesthesia. </p>
+<p><strong>Monitoring Patient Ventilation and Oxygenation </strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Continually# monitor ventilatory function by observation of qualitative clinical signs </li>
+    <li>Continually monitor ventilatory function with capnography unless precluded or invalidated by the nature of the patient, procedure, or equipment
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>For uncooperative patients, institute capnography after moderate sedation has been achieved </li>
+    </ul>
+    </li>
+    <li>Continuously monitor all patients by pulse oximetry with appropriate alarms </li>
+</ul>
+<p><strong>Monitoring Hemodynamics</strong> </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Determine blood pressure before sedation/analgesia is initiated unless precluded by lack of patient cooperation </li>
+    <li>Once moderate sedation/analgesia is established, continually monitor blood pressure (e.g., at 5-min intervals) and heart rate during the procedure unless such monitoring interferes with the procedure (e.g., magnetic resonance imaging where stimulation from the blood pressure cuff could arouse an appropriately sedated patient) </li>
+    <li>Use electrocardiographic monitoring during moderate sedation in patients with clinically significant cardiovascular disease or those who are undergoing procedures where dysrhythmias are anticipated </li>
+</ul>
+<p class=&quot;Note&quot;>#The term &quot;continual&quot; is defined as &quot;repeated regularly and frequently in steady rapid succession&quot; whereas &quot;continuous&quot; means &quot;prolonged without any interruption at any time&quot; (see Standards for Basic Anesthetic Monitoring, American Society of Anesthesiologists. Approved by the ASA House of Delegates October 21, 1986, and last amended October 28, 2015. Retrieved May 9, 2017, from the <a href=&quot;http://www.asahq.org/quality-and-practice-management/standards-guidelines-and-related-resources/standards-for-basic-anesthetic-monitoring&quot; title=&quot;ASA Web site&quot;>ASA Web site</a>).</p>
+<p><strong>Contemporaneous Recording of Monitored Parameters </strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Record patients' level of consciousness, ventilatory and oxygenation status, and hemodynamic variables at a frequency that depends on the type and amount of medication administered, the length of the procedure, and the general condition of the patient
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>At a minimum, this should occur: (1) before the administration of sedative/analgesic agents,** (2) after administration of sedative/analgesic agents, (3) at regular intervals during the procedure, (4) during initial recovery, and (5) just before discharge </li>
+    </ul>
+    </li>
+    <li>Set device alarms to alert the care team to critical changes in patient status </li>
+</ul>
+<p class=&quot;Note&quot;>**For rare uncooperative patients (e.g., children with autism spectrum disorder or attention deficit disorder) recording oxygenation status or blood pressure may not be possible until after sedation.</p>
+<p><strong>Availability of an Individual Responsible for Patient Monitoring</strong> </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Assure that a designated individual other than the practitioner performing the procedure is present to monitor the patient throughout the procedure
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>The individual responsible for monitoring the patient should be trained in the recognition of apnea and airway obstruction and be authorized to seek additional help </li>
+        <li>The designated individual may assist with minor, interruptible tasks once the patient's level of sedation/analgesia and vital signs have stabilized, provided that adequate monitoring for the patient's level of sedation is maintained </li>
+    </ul>
+    </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Supplemental Oxygen</span></strong> </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Use supplemental oxygen during moderate procedural sedation/analgesia unless specifically contraindicated for a particular patient or procedure </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Emergency Support</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Assure that pharmacologic antagonists for benzodiazepines and opioids are immediately available in the procedure suite or procedure room&amp;dagger;&amp;dagger; </li>
+    <li>Assure that an individual is present in the room who understands the pharmacology of the sedative/analgesics administered (e.g., opioids and benzodiazepines) and potential interactions with other medications and nutraceuticals the patient may be taking </li>
+    <li>Assure that appropriately sized equipment for establishing a patent airway is available </li>
+    <li>Assure that at least one individual capable of establishing a patent airway and providing positive pressure ventilation is present in the procedure room </li>
+    <li>Assure that suction, advanced airway equipment, a positive pressure ventilation device, and supplemental oxygen are immediately available in the procedure room and in good working order
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Assure that a member of the procedural team is trained in the recognition and treatment of airway complications (e.g., apnea, laryngospasm, airway obstruction), opening the airway, suctioning secretions, and performing bag-valve-mask ventilation </li>
+    </ul>
+    </li>
+    <li>Assure that a member of the procedural team has the skills to establish intravascular access </li>
+    <li>Assure that a member of the procedural team has the skills to provide chest compressions </li>
+    <li>Assure that a functional defibrillator or automatic external defibrillator is immediately available in the procedure area </li>
+    <li>Assure that an individual or service (e.g., code blue team, paramedic-staffed ambulance service) with advanced life support skills (e.g., tracheal intubation, defibrillation, resuscitation medications) is immediately available </li>
+    <li>Assure that members of the procedural team are able to recognize the need for additional support and know how to access emergency services from the procedure room (e.g., telephone, call button) </li>
+</ul>
+<p class=&quot;Note&quot;>&amp;dagger;&amp;dagger;&quot;Immediately available in the procedure room&quot; refers to accessible shelving, unlocked cabinetry, and other measures to assure that there is no delay in accessing medications and equipment during the procedure.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Sedative or Analgesic Medications Not Intended for General Anesthesia</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Combinations of sedative and analgesic agents may be administered as appropriate for the procedure and the condition of the patient&amp;Dagger;&amp;Dagger;
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Administer each component individually to achieve the desired effect (e.g., additional analgesic medication to relieve pain; additional sedative medication to decrease awareness or anxiety) </li>
+    </ul>
+    </li>
+    <li>Dexmedetomidine may be administered as an alternative to benzodiazepine sedatives on a case-by-case basis </li>
+    <li>In patients receiving intravenous medications for sedation/analgesia, maintain vascular access throughout the procedure and until the patient is no longer at risk for cardiorespiratory depression </li>
+    <li>In patients who have received sedation/analgesia by nonintravenous routes or whose intravenous line has become dislodged or blocked, determine the advisability of reestablishing intravenous access on a case-by-case basis </li>
+    <li>Administer intravenous sedative/analgesic drugs in small, incremental doses, or by infusion, titrating to the desired endpoints
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Allow sufficient time to elapse between doses so the peak effect of each dose can be assessed before subsequent drug administration </li>
+    </ul>
+    </li>
+    <li>When drugs are administered by nonintravenous routes (e.g., oral, rectal, intramuscular, transmucosal), allow sufficient time for absorption and peak effect of the previous dose to occur before supplementation is considered </li>
+</ul>
+<p class=&quot;Note&quot;>&amp;Dagger;&amp;Dagger;The propensity for combinations of sedative and analgesic agents to cause respiratory depression and airway obstruction emphasizes the need to appropriately reduce the dose of each component as well as the need to continually monitor respiratory function. Knowledge of each drug's time of onset, peak response, and duration of action is important. Titration of drug to effect is an important concept; one must know whether the previous dose has taken full effect before administering additional drug.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Sedative/Analgesic Medications Intended for General Anesthesia</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>When moderate procedural sedation with sedative/analgesic medications intended for general anesthesia by any route is intended, provide care consistent with that required for general anesthesia </li>
+    <li>Assure that practitioners administering sedative/analgesic medications intended for general anesthesia are able to reliably identify and rescue patients from unintended deep sedation or general anesthesia </li>
+    <li>For patients receiving intravenous sedative/analgesics intended for general anesthesia, maintain vascular access throughout the procedure and until the patient is no longer at risk for cardiorespiratory depression </li>
+    <li>In patients who have received sedative/analgesic medications intended for general anesthesia by nonintravenous routes or whose intravenous line has become dislodged or blocked, determine the advisability of reestablishing intravenous access on a case-by-case basis </li>
+    <li>Administer intravenous sedative/analgesic medications intended for general anesthesia in small, incremental doses, or by infusion, titrating to the desired endpoints
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Allow sufficient time to elapse between doses so the peak effect of each dose can be assessed before subsequent drug administration </li>
+    </ul>
+    </li>
+    <li>When drugs intended for general anesthesia are administered by nonintravenous routes (e.g., oral, rectal, intramuscular, transmucosal), allow sufficient time for absorption and peak effect of the previous dose to occur before supplementation is considered </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Reversal Agents</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Assure that specific antagonists are immediately available in the procedure room whenever opioid analgesics or benzodiazepines are administered for moderate procedural sedation/analgesia, regardless of route of administration </li>
+    <li>If patients develop hypoxemia, significant hypoventilation or apnea during sedation/analgesia: (1) encourage or physically stimulate patients to breathe deeply, (2) administer supplemental oxygen, and (3) provide positive pressure ventilation if spontaneous ventilation is inadequate </li>
+    <li>Use reversal agents in cases where airway control, spontaneous ventilation, or positive pressure ventilation is inadequate
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Administer naloxone to reverse opioid-induced sedation and respiratory depression&amp;sect;&amp;sect; </li>
+        <li>Administer flumazenil to reverse benzodiazepine-induced sedation and respiratory depression </li>
+    </ul>
+    </li>
+    <li>After pharmacologic reversal, observe and monitor patients for a sufficient time to ensure that sedation and cardiorespiratory depression does not recur once the effect of the antagonist dissipates </li>
+    <li>Do not use sedation regimens that are intended to include routine reversal of sedative or analgesic agents </li>
+</ul>
+<p class=&quot;Note&quot;>&amp;sect;&amp;sect;Practitioners are cautioned that acute reversal of opioid-induced analgesia may result in pain, hypertension, tachycardia, or pulmonary edema.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Recovery Care</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>After sedation/analgesia, observe and monitor patients in an appropriately staffed and equipped area until they are near their baseline level of consciousness and are no longer at increased risk for cardiorespiratory depression </li>
+    <li>Monitor oxygenation continuously until patients are no longer at risk for hypoxemia </li>
+    <li>Monitor ventilation and circulation at regular intervals (e.g., every 5 to 15 min) until patients are suitable for discharge </li>
+    <li>Design discharge criteria to minimize the risk of central nervous system or cardiorespiratory depression after discharge from observation by trained personnel║║ </li>
+</ul>
+<p class=&quot;Note&quot;>║║Discharge criteria examples are noted in table 5 (see the original guideline document).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Creation and Implementation of Patient Safety Processes</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Create and implement a quality improvement process based upon established national, regional, or institutional reporting protocols (e.g., adverse events, unsatisfactory sedation)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Periodically update the quality improvement process to keep up with new technology, equipment or other advances in moderate procedural sedation/analgesia </li>
+    </ul>
+    </li>
+    <li>Strengthen patient safety culture through collaborative practices (e.g., team training, simulation drills, development and implementation of checklists) </li>
+    <li>Create an emergency response plan (e.g., activating &quot;code blue&quot; team or activating the emergency medical response system: 911 or equivalent) </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Diseases or conditions that require diagnostic or therapeutic procedures involving administration of moderate sedation or analgesia</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Anesthesiology"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Pediatrics"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To allow clinicians to optimize the benefits of moderate procedural sedation regardless of site of service </li>
+    <li>To guide practitioners in appropriate patient selection </li>
+    <li>To decrease the risk of adverse patient outcomes (e.g., apnea, airway obstruction, respiratory arrest, cardiac arrest, death) </li>
+    <li>To encourage sedation education, training, and research </li>
+    <li>To offer evidence-based data to promote cross-specialty consistency for moderate sedation practice </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Any patient having a diagnostic or therapeutic procedure for which moderate sedation is planned</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: The guidelines exclude patients who are not undergoing a diagnostic or therapeutic procedure (e.g., postoperative analgesia). The guidelines do not apply to patients receiving deep sedation, general anesthesia, or major conduction (i.e., neuraxial) anesthesia.</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Preprocedure patient evaluation and preparation
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Patient history/condition </li>
+        <li>Focused physical examination </li>
+        <li>Review of laboratory tests </li>
+        <li>Consultation with a medical specialist </li>
+        <li>Preparation of the patient </li>
+    </ul>
+    </li>
+    <li>Patient monitoring
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Level of consciousness </li>
+        <li>Ventilation and oxygenation </li>
+        <li>Hemodynamic monitoring (blood pressure, heart rate, electrocardiography) </li>
+        <li>Contemporaneous recording of monitored parameters </li>
+        <li>Presence of an individual dedicated to patient monitoring </li>
+    </ul>
+    </li>
+    <li>Supplemental oxygen versus room air or no supplemental oxygen </li>
+    <li>Emergency support (presence of appropriate staff and equipment) </li>
+    <li>Use of sedative or analgesic medications not intended for general anesthesia </li>
+    <li>Use of sedative/analgesic medications intended for general anesthesia </li>
+    <li>Reversal agents </li>
+    <li>Recovery care </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Sedation efficacy </li>
+    <li>Pain management (i.e., pain during a procedure) </li>
+    <li>Speed of recovery </li>
+    <li>Frequency/severity of sedation-related complications </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Availability of Evidence</span></strong></p>
+<p>Preparation of these updated guidelines followed a rigorous methodological process. Evidence was obtained from two principal sources: scientific evidence and opinion-based evidence (see appendix 2 in the original guideline document for detailed methods and analyses).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>State of the Literature</span></strong></p>
+<p>For the systematic review, potentially relevant clinical studies were identified via electronic and manual searches. Healthcare database searches included PubMed, EMBASE, Web of Science, Google Books, and the Cochrane Central Register of Controlled Trials. The searches covered a 15.6-year period from January 1, 2002, through July 31, 2017. Accepted studies from the previous guidelines were also rereviewed, covering the period of August 1, 1976, through December 31, 2002. Only studies containing original findings from peer-reviewed journals were acceptable. Editorials, letters, and other articles without data were excluded. A literature search strategy and preferred reporting items of systematic reviews and meta-analyses (PRISMA) flow diagram are available as Supplemental Digital Content 2 (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p>In total, 4,349 new citations were identified, with 1,428 articles assessed for eligibility. After review, 1,140 were excluded, with 288 new studies meeting the above stated criteria. These studies were combined with 209 pre-2002 articles used in the previous guidelines. In the guideline, 187 are referenced, with a complete bibliography of articles used to develop these guidelines, organized by section, available as Supplemental Digital Content 3 (see the &quot;Availability of Companion Documents&quot; field). </p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A total of 497 articles were accepted as evidence for these guidelines</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><span style=&quot;text-decoration: underline;&quot;><strong>Scientific Evidence</strong></span></p>
+<p>Findings from the aggregated literature are reported in the text of the original guideline document by evidence category, level, and direction. Evidence categories refer specifically to the strength and quality of the <em>research design</em> of the studies. Category A evidence represents results obtained from randomized controlled trials (RCTs), and category B evidence represents observational results obtained from nonrandomized study designs or RCTs without pertinent comparison groups. When available, category A evidence is given precedence over category B evidence for any particular outcome. These evidence categories are further divided into evidence levels. Evidence levels refer specifically to the strength and quality of the summarized study <em>findings</em> (i.e., statistical findings, type of data, and the number of studies reporting/replicating the findings). In this document, only the highest level of evidence is included in the summary report for each intervention&amp;ndash;outcome pair, including a directional designation of benefit, harm, or equivocality.</p>
+<p><strong>Category A</strong></p>
+<p>RCTs report comparative findings between clinical interventions for specified outcomes. Statistically significant (<em>P</em>&amp;lt;0.01) outcomes are designated as either beneficial (B) or harmful (H) for the patient; statistically nonsignificant findings are designated as equivocal (E). </p>
+<p><em>Level 1</em>: The literature contains a sufficient number of RCTs to conduct meta-analysis,║ and meta-analytic findings from these aggregated studies are reported as evidence. </p>
+<p><em>Level 2</em>: The literature contains multiple RCTs, but the number of RCTs is not sufficient to conduct a viable meta-analysis for the purpose of these guidelines. Findings from these RCTs are reported separately as evidence.</p>
+<p><em>Level 3</em>: The literature contains a single RCT and findings from this study are reported as evidence.</p>
+<p class=&quot;Note&quot;>║All meta-analyses are conducted by the ASA methodology group. Meta-analyses from other sources are reviewed but not included as evidence in this document. A minimum of five independent RCTs are required for meta-analysis.</p>
+<p><strong>Category B</strong></p>
+<p>Observational studies or RCTs without pertinent comparison groups may permit inference of beneficial or harmful relationships among clinical interventions and clinical outcomes. Inferred findings are given a directional designation of beneficial (B), harmful (H), or equivocal (E). For studies that report statistical findings, the threshold for significance is <em>P</em>&amp;lt;0.01. </p>
+<p><em>Level 1</em>: The literature contains nonrandomized comparisons (e.g., quasiexperimental, cohort [prospective or retrospective], or case-control research designs) with comparative statistics between clinical interventions for a specified clinical outcome.</p>
+<p><em>Level 2</em>: The literature contains noncomparative observational studies with associative statistics (e.g., relative risk, correlation, sensitivity, and specificity). </p>
+<p><em>Level 3</em>: The literature contains noncomparative observational studies with descriptive statistics (e.g., frequencies, percentages). </p>
+<p><em>Level 4</em>: The literature contains case reports. </p>
+<p><strong>Insufficient Literature</strong></p>
+<p>The <em>lack</em> of sufficient scientific evidence in the literature may occur when the evidence is either unavailable (i.e., no pertinent studies found) or inadequate. Inadequate literature cannot be used to assess relationships among clinical interventions and outcomes because a clear interpretation of findings is not obtained due to methodological concerns (e.g., confounding of study design or implementation) or the study does not meet the criteria for content as defined in the &quot;Focus&quot; of the guidelines. </p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Opinion-based Evidence</strong></span></p>
+<p>All opinion-based evidence (e.g., survey data, open forum testimony, internet-based comments, letters, and editorials) relevant to each topic was considered in the development of these guidelines. However, only the findings obtained from formal surveys are reported in the document. </p>
+<p>Opinion surveys were developed by the task force to address each clinical intervention identified in the document. Identical surveys were distributed to expert consultants and a random sample of members of the participating organizations. </p>
+<p><strong>Expert and Participating Membership Opinion Surveys</strong> </p>
+<p>Survey findings from task force&amp;ndash;appointed expert consultants, a random sample of the American Society of Anesthesiology (ASA) membership, and membership samples from the American Association of Oral and Maxillofacial Surgeons (AAOMS) and the American Society of Dentist Anesthesiologists (ASDA) are fully reported in this document. Survey responses were recorded using a 5-point scale and summarized based on median values. </p>
+<p><em>Strongly Agree</em>: Median score of 5 (at least 50% of the responses are 5) </p>
+<p><em>Agree</em>: Median score of 4 (at least 50% of the responses are 4 or 4 and 5) </p>
+<p><em>Equivocal</em>: Median score of 3 (at least 50% of the responses are 3, or no other response category or combination of similar categories contain at least 50% of the responses) </p>
+<p><em>Disagree</em>: Median score of 2 (at least 50% of responses are 2 or 1 and 2) </p>
+<p><em>Strongly Disagree</em>: Median score of 1 (at least 50% of responses are 1) </p>
+<p><strong>Informal Opinion </strong></p>
+<p>Open forum testimony obtained during development of these guidelines, internet-based comments, letters, and editorials are all informally evaluated and discussed during the formulation of guideline recommendations. When warranted, the task force may add educational information or cautionary notes based on this information.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Meta-Analysis"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Results for each pertinent outcome were summarized, and when sufficient numbers of randomized controlled trials (RCTs) were found, study grading and meta-analyses were conducted. The literature relating to six evidence linkages contained enough studies with well defined experimental designs and statistical information to conduct formal meta-analyses. These six evidence linkages are: (1) capnography versus blinded capnography, (2) supplemental oxygen versus no supplemental oxygen, (3) midazolam combined with opioids versus midazolam alone, (4) propofol versus midazolam, (5) flumazenil versus placebo for benzodiazepine reversal, and (6) flumazenil versus placebo for reversal of benzodiazepines combined with opioids (see Table 6 in the original guideline document). Fixed and random-effects odds ratios are reported for dichotomous outcomes, and raw and standardized mean differences are reported for findings with continuous data. An acceptable significance level was set at <em>P</em>&amp;lt;0.01. No search for unpublished studies was conducted, and no reliability tests for locating research results were done.</p>
+<p>Interobserver agreement among task force members and two methodologists was obtained by interrater reliability testing of 36 randomly selected studies. Agreement levels using a &amp;kappa; statistic for two-rater agreement pairs were as follows: (1) research design, &amp;kappa; = 0.57 to 0.92; (2) type of analysis, &amp;kappa; = 0.60 to 0.75; (3) evidence linkage assignment, &amp;kappa; = 0.76 to 0.85; and (4) literature inclusion for database, &amp;kappa; = 0.28 to 1.00. Three-rater &amp;kappa; values were: (1) research design, &amp;kappa; = 0.70; (2) type of analysis, &amp;kappa; = 0.68; (3) linkage assignment, &amp;kappa; = 0.79; and (4) literature database inclusion, &amp;kappa; = 0.43. These values represent moderate to high levels of agreement.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Consensus-based Evidence</span></strong> </p>
+<p>Consensus was obtained from multiple sources, including: (1) survey opinion from consultants&amp;dagger; who were selected based on their knowledge or expertise in moderate procedural sedation and analgesia; (2) survey opinions from a randomly selected sample of active members of the American Society of Anesthesiology (ASA), American Association of Oral and Maxillofacial Surgeons (AAOMS), and American Society of Dentist Anesthesiologists (ASDA)&amp;Dagger;; (3) testimony from attendees of publicly held open forums at national anesthesia meetings&amp;sect;; (4) internet commentary; and (5) task force opinion and interpretation. The survey rate of return was 81% (n=129 of 159) for consultants. For membership respondents, survey data were collected from 69 ASA members, 104 AAOMS members, and 104 ASDA members. The results of the surveys are reported in Tables 7&amp;ndash;10 in the original guideline document and are summarized in the text of the guidelines. </p>
+<p>Consultants were asked to indicate which, if any, of the evidence linkages would change their clinical practices if the guidelines were instituted. The rate of return was 34.6% (n=55 of 159). The percent of responding consultants expecting no change associated with each linkage were as follows (preprocedure patient evaluation &amp;ndash; %): preprocedure patient preparation &amp;ndash; 93.75%; patient preparation &amp;ndash; 87.5%; patient monitoring &amp;ndash; 68.75%; supplemental oxygen &amp;ndash; 93.75%; emergency support &amp;ndash; 87.5%; sedative or analgesic medications not intended for general anesthesia &amp;ndash; 87.5%; sedative or analgesic medications intended for general anesthesia &amp;ndash; 75.0%%; availability/use of reversal agents &amp;ndash; 87.5%; recovery care &amp;ndash; 75%; and creation and implementation of patient safety processes &amp;ndash; 56.25%. Forty-four respondents (84.62%) indicated that the guidelines would have <em>no effect</em> on the amount of time spent on a typical case with the implementation of these guidelines. Seven respondents (13.46%) indicated that there would be an increase in the amount of time, with four of these respondents estimating an increase ranging from 5 to 15 min. One respondent (1.92%) estimated a decrease in the amount of time they would spend on a typical case. </p>
+<p class=&quot;Note&quot;>&amp;dagger;Consultants were drawn from the following specialties where moderate procedural sedation/analgesia are commonly administered: anesthesiology, cardiology, dentistry, emergency medicine, gastroenterology, oral and maxillofacial surgery, pediatrics, radiology, and surgery.</p>
+<p class=&quot;Note&quot;>&amp;Dagger;All participating organizations were invited to participate in this survey. </p>
+<p class=&quot;Note&quot;>&amp;sect;American Dental Association Council on Dental Education and Licensure: Anesthesia Committee Meeting, April 20, 2017; 2017 Combined Annual Meeting of the Southwest Society of Oral and Maxillofacial Surgeons, the Texas Society of Oral and Maxillofacial Surgeons, the Midwestern Chapter of Oral and Maxillofacial Surgeons, and the Oklahoma Society of Oral and Maxillofacial Surgeons, April 21, 2017, Scottsdale, Arizona; the Society for Ambulatory Anesthesia 32nd Annual Meeting, May 5, 2017, Scottsdale, Arizona; International Anesthesia Research Society 2017 Annual Meeting; and the International Science Symposium, Washington, D.C., May 8, 2017.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Task Force Members and Consultants</span></strong></p>
+<p>These guidelines were developed by an American Society of Anesthesiology (ASA)&amp;ndash;appointed task force of 13 members, consisting of physician anesthesiologists in both private and academic practices from various geographic areas of the United States, a cardiologist, a dentist anesthesiologist, an oral/maxillofacial surgeon, a radiologist, an ASA staff methodologist, and two consulting methodologists for the ASA Committee on Standards and Practice Parameters. </p>
+<p>The task force developed these guidelines by means of a seven-step process. First, criteria for evidence associated with moderate sedation and analgesia techniques were established. Second, original published research studies relevant to the guidelines were reviewed and analyzed; only articles relevant to the administration of moderate sedation were evaluated. Third, a panel of expert consultants was asked to (1) participate in opinion surveys on the effectiveness and safety of various methods and interventions that might be used during sedation/analgesia and (2) review and comment on a draft of the guidelines developed by the task force. Fourth, survey opinions about the guideline recommendations were solicited from a random sample of active members of the ASA and participating medical specialty societies. Fifth, the task force held open forums at major national meetings to solicit input on its draft recommendations.&amp;sect; National organizations representing specialties whose members typically provide moderate sedation were invited to participate in the open forums. Sixth, the consultants were surveyed to assess their opinions on the feasibility of implementing the guidelines. Seventh, all available information was used to build consensus within the task force to finalize the guidelines.</p>
+<p class=&quot;Note&quot;>&amp;sect;American Dental Association Council on Dental Education and Licensure: Anesthesia Committee Meeting, April 20, 2017; 2017 Combined Annual Meeting of the Southwest Society of Oral and Maxillofacial Surgeons, the Texas Society of Oral and Maxillofacial Surgeons, the Midwestern Chapter of Oral and Maxillofacial Surgeons, and the Oklahoma Society of Oral and Maxillofacial Surgeons, April 21, 2017, Scottsdale, Arizona; the Society for Ambulatory Anesthesia 32nd Annual Meeting, May 5, 2017, Scottsdale, Arizona; International Anesthesia Research Society 2017 Annual Meeting; and the International Science Symposium, Washington, D.C., May 8, 2017</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>After review of all evidentiary information, the task force placed each recommendation into one of three categories: (1) provide this intervention or treatment, (2) this intervention or treatment may be provided to the patient based on circumstances of the case and the practitioner's clinical judgment, or (3) do not provide this intervention or treatment.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The task force held open forums at major national meetings to solicit input on its draft recommendations. National organizations representing specialties whose members typically provide moderate sedation were invited to participate in the open forums.</p>
+<p>These guidelines were submitted for publication September 1, 2017; accepted for publication November 22, 2017; approved by the American Society of Anesthesiology (ASA) House of Delegates on October 25, 2017; approved by the American Association of Oral and Maxillofacial Surgeons on September 23, 2017; the American College of Radiology on October 5, 2017; the American Dental Association on September 21, 2017; the American Society of Dentist Anesthesiologists on September 15, 2017; and the Society of Interventional Radiology on September 15, 2017.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Evidence was obtained from two principal sources: scientific evidence and opinion-based evidence.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Many of the complications associated with moderate sedation and analgesia may be avoided if adverse drug responses are detected and treated in a timely manner (i.e., before the development of cardiovascular decompensation or cerebral hypoxia). </li>
+    <li>Moderate sedation/analgesia provides patient tolerance of unpleasant or prolonged procedures through relief of anxiety, discomfort, and/or pain. </li>
+    <li>Expected benefits include sedation efficacy, improved pain management (i.e., pain during a procedure), speed of recovery, and reduced frequency/severity of sedation-related complications. </li>
+</ul>
+<p>Refer to the &quot;Literature Findings&quot; sections in the original guideline document for potential benefits of specific interventions.</p>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Observational studies indicate that some adverse outcomes (e.g., unintended deep sedation, hypoxemia, or hypotension) may occur in patients with preexisting medical conditions when moderate sedation/analgesia is administered. </li>
+    <li>Practitioners are cautioned that acute reversal of opioid-induced analgesia may result in pain, hypertension, tachycardia, or pulmonary edema. </li>
+    <li>If the patient response results in deeper sedation than intended, these sedation practices can be associated with cardiac or respiratory depression that must be rapidly recognized and appropriately managed to avoid the risk of hypoxic brain damage, cardiac arrest, or death. Conversely, inadequate sedation or analgesia can result in undue patient discomfort or patient injury, lack of cooperation, or adverse physiological or psychological responses to stress. </li>
+</ul>
+Refer to the &quot;Literature Findings&quot; sections in the original guideline document for potential harms of specific interventions."/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>These guidelines specifically apply to the level of sedation corresponding to moderate sedation/analgesia (previously called conscious sedation), which is defined as a drug-induced depression of consciousness during which patients respond purposefully&amp;dagger; to verbal commands, either alone or accompanied by light tactile stimulation. (Reflex withdrawal from a painful stimulus is NOT considered a purposeful response.) No interventions are required to maintain a patent airway when spontaneous ventilation is adequate.&amp;Dagger; Cardiovascular function is usually maintained. For these guidelines, analgesia refers to the management of patient pain or discomfort during and after procedures requiring moderate sedation. </li>
+    <li>The appropriate choice of agents and techniques for moderate sedation/analgesia is dependent upon the experience, training, and preference of the individual practitioner, requirements or constraints imposed by associated medical issues of the patient or type of procedure, and the risk of producing a deeper level of sedation than anticipated. In some cases, the choice of agents or techniques are limited by federal, state, or municipal regulations or statutes. Because it is not always possible to predict how a specific patient will respond to sedative and analgesic medications, practitioners intending to produce a given level of sedation should be able to rescue patients whose level of sedation becomes deeper than initially intended. For moderate sedation, this implies the ability to manage a compromised airway or hypoventilation, and support cardiovascular function in patients who become hypotensive, hypertensive, bradycardic, or tachycardic. </li>
+    <li>Because minimal sedation (anxiolysis) may entail minimal risk, the guidelines specifically exclude it. Additional interventions excluded from these guidelines include but are not limited to patient-controlled sedation/analgesia, sedatives administered before or during regional and central neuraxis anesthesia, premedication for general anesthesia, interventions without sedatives (e.g., hypnosis, acupuncture), new or rarely administered sedative/analgesics, new or rarely used monitoring or delivery devices, and automated sedative delivery systems. These guidelines do not address education, training, or certification requirements for practitioners who provide moderate procedural sedation. </li>
+    <li>Practice guidelines are systematically developed recommendations that assist the practitioner and patient in making decisions about health care. These recommendations may be adopted, modified, or rejected according to clinical needs and constraints and are not intended to replace local institutional policies. In addition, these practice guidelines are not intended as standards or absolute requirements, and their use cannot guarantee any specific outcome. Practice guidelines are subject to revision as warranted by the evolution of medical knowledge, technology, and practice. They provide basic recommendations that are supported by a synthesis and analysis of the current literature, expert and practitioner opinion, open forum commentary, and clinical feasibility data. </li>
+</ul>
+<p class=&quot;Note&quot;>&amp;dagger;Reflex withdrawal from a painful stimulus is NOT considered a purposeful response. </p>
+<p class=&quot;Note&quot;>&amp;Dagger;However, as stated in the American Academy of Pediatrics&amp;ndash;American Academy of Pediatric Dentistry guidelines on the monitoring and management of pediatric patients during sedation (2016), &quot;in the case of procedures that may themselves cause airway obstruction (e.g., dental or endoscopic), the practitioner must recognize an obstruction and assist the patient in opening the airway.&quot;</p>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+      <fieldvalue value="Safety"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Practice guidelines for moderate procedural sedation and analgesia 2018: a report by the American Society of Anesthesiologists Task Force on Moderate Procedural Sedation and Analgesia, the American Association of Oral and Maxillofacial Surgeons, American College of Radiology, American Dental Association, American Society of Dentist Anesthesiologists, and Society of Interventional Radiology. Anesthesiology. 2018 Mar;128(3):437-79. [187 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=29334501 &quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2018 Mar"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American Association of Oral and Maxillofacial Surgeons - Medical Specialty Society"/>
+      <fieldvalue value="American College of Radiology - Medical Specialty Society"/>
+      <fieldvalue value="American Society of Anesthesiologists - Medical Specialty Society"/>
+      <fieldvalue value="American Society of Dentist Anesthesiologists - Medical Specialty Society"/>
+      <fieldvalue value="Society of Interventional Radiology - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American Society of Anesthesiologists</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American Society of Anesthesiologists Committee on Standards and Practice Parameters</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Committee Members</em>: Jeffrey L. Apfelbaum, M.D. (<em>Committee Chair and Task Force Co-Chair</em>), Chicago, Illinois; Jeffrey B. Gross, M.D. (<em>Task Force Co-Chair</em>), Farmington, Connecticut; Richard T. Connis, Ph.D. (<em>Chief Methodologist</em>), Woodinville, Washington; Madhulika Agarkar, M.P.H., Schaumburg, Illinois; Donald E. Arnold, M.D., St. Louis, Missouri; Charles J. Cot&amp;eacute;, M.D., Boston, Massachusetts; Richard Dutton, M.D., Dallas, Texas; Christopher Madias, M.D., Boston, Massachusetts; David G. Nickinovich, Ph.D., Bellevue, Washington; Paul J. Schwartz, D.M.D., Dunkirk, Maryland; James W. Tom, D.D.S., M.S., Los Angeles, California; Richard Towbin, M.D., Phoenix, Arizona; Avery Tung, M.D., Chicago, Illinois</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Conflict of interest documentation regarding current or potential financial and other interests pertinent to the practice guideline were disclosed by all task force members and managed. </p>
+<p>The authors declare no competing interests.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: American Society of Anesthesiologists Task Force on Sedation and Analgesia by Non-Anesthesiologists. Practice guidelines for sedation and analgesia by non-anesthesiologists. Anesthesiology. 2002 Apr;96(4):1004-17. [2 references] </p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://anesthesiology.pubs.asahq.org/article.aspx?articleid=2670190&amp;amp;_ga=2.269215473.128129596.1527864860-1976694507.1527864860&quot; title=&quot;Anesthesiology Journal Web site&quot;>Anesthesiology Journal Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Practice guidelines for moderate procedural sedation and analgesia 2018: a report by the American Society of Anesthesiologists Task Force on Moderate Procedural Sedation and Analgesia, the American Association of Oral and Maxillofacial Surgeons, American College of Radiology, American Dental Association, American Society of Dentist Anesthesiologists, and Society of Interventional Radiology. Literature search strategy and PRISMA flow diagram. Schaumburg (IL): American Society of Anesthesiologists; 2018. 19 p. Available from the <a href=&quot;http://links.lww.com/ALN/B597&quot; title=&quot;Anesthesiology Journal Web site&quot;>Anesthesiology Journal Web site</a>. </li>
+    <li>Practice guidelines for moderate procedural sedation and analgesia 2018: a report by the American Society of Anesthesiologists Task Force on Moderate Procedural Sedation and Analgesia, the American Association of Oral and Maxillofacial Surgeons, American College of Radiology, American Dental Association, American Society of Dentist Anesthesiologists, and Society of Interventional Radiology. Bibliography. Schaumburg (IL): American Society of Anesthesiologists; 2018. 31 p. Available from the <a href=&quot;http://links.lww.com/ALN/B594&quot; title=&quot;Anesthesiology Journal Web site&quot;>Anesthesiology Journal Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI on July 13, 2005. The information was verified by the guideline developer on July 20, 2005. This NGC summary was updated by ECRI Institute on June 7, 2018. The guideline developer agreed to not review the content. </p>
+<p>This NEATS assessment was completed by ECRI Institute on May 23, 2018. The information was verified by the guideline developer on June 12, 2018. </p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 01:20:13 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:48:57 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 137.105 (3)
+  esindex: 0.011
+  captures_list: 162.796
+  CDXLines.iter: 20.432 (3)
+  PetaboxLoader3.datanode: 60.336 (4)
+  exclusion.robots: 0.573
+  exclusion.robots.policy: 0.553
+  RedisCDXSource: 0.725
+  PetaboxLoader3.resolve: 71.333
+  load_resource: 17.7
+-->
