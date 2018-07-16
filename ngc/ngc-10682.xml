@@ -1,0 +1,830 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app18.us.archive.org';v.server_ms=278;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10682?contentType=xml', '20160930175132')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930175132/https://www.guideline.gov/summaries/downloadcontent/ngc-10682?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930175132/https://www.guideline.gov/summaries/downloadcontent/ngc-10682?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10682?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930175132" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 17:51:32 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 17:51:32 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 17:51:32 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930175132*/https://www.guideline.gov/summaries/downloadcontent/ngc-10682?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10682?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>ACR Appropriateness Criteria&amp;reg; breast pain.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Jokich PM, Newell MS, Bailey L, Barke LD, Carkaci S, D'Orsi C, Green ED, Lee SJ, Mainiero MB, Moy L, Yepes MM, Mahoney MC, Expert Panel on Breast Imaging. ACR Appropriateness Criteria® breast pain [online publication]. Reston (VA): American College of Radiology (ACR); 2014. 10 p.  [44 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note</strong>: This guideline has been updated. The National Guideline Clearinghouse (NGC) is working to update this summary. </p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note</strong>: This guideline has been updated. The National Guideline Clearinghouse (NGC) is working to update this summary. The recommendations that follow are based on the previous version of the guideline.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>ACR Appropriateness Criteria&amp;reg;</span></strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Clinical Condition</span>: Breast Pain</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 1</span>: Cyclical. Unilateral or bilateral. Age &amp;lt;40. Initial examination.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 1: Cyclical. Unilateral or bilateral. Age &amp;lt;40. Initial examination.&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Comments</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>RRL*</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>US breast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Mammography diagnostic</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI breast without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI breast without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>FDG-PEM</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Tc-99m sestamibi BSGI</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot; scope=&quot;row&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+        <th class=&quot;Center&quot; valign=&quot;top&quot;>*Relative Radiation Level</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 2</span>: Cyclical. Unilateral or bilateral. Age &amp;ge;40. Initial examination.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 2: Cyclical. Unilateral or bilateral. Age ≥40. Initial examination.&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Comments</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>RRL*</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Mammography diagnostic</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>US breast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI breast without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI breast without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>FDG-PEM</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Tc-99m sestamibi BSGI</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot; scope=&quot;row&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+        <th class=&quot;Center&quot; valign=&quot;top&quot;>*Relative Radiation Level</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 3</span>: Noncyclical. Focal. Unilateral or bilateral. Age &amp;lt;30. Initial examination.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 3: Noncyclical. Focal. Unilateral or bilateral. Age &amp;lt;30. Initial examination.&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Comments</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>RRL*</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;middle&quot;>US breast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>5</td>
+            <td valign=&quot;top&quot;>This procedure may be appropriate, but there was disagreement among panel members on the appropriateness rating as defined by the panel's median rating. Although current evidence suggests that imaging is not routinely indicated due to the rarity of underlying cancer in this age group/clinical scenario, it may be used in some settings to provide reassurance and to exclude a treatable benign cause for pain.</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Mammography diagnostic</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI breast without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI breast without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>FDG-PEM</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Tc-99m sestamibi BSGI</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot; scope=&quot;row&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+        <th class=&quot;Center&quot; valign=&quot;top&quot;>*Relative Radiation Level</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 4</span>: Noncyclical. Focal. Unilateral or bilateral. Age &amp;ge;30. Initial examination.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 4: Noncyclical. Focal. Unilateral or bilateral. Age ≥30. Initial examination.&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Comments</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>RRL*</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;middle&quot;>Mammography diagnostic</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>5</td>
+            <td valign=&quot;top&quot;>This procedure may be appropriate, but there was disagreement among panel members on the appropriateness rating as defined by the panel's median rating. Although current evidence suggests that imaging is not routinely indicated due to the rarity of underlying cancer in this age group/clinical scenario, it may be used in some settings to provide reassurance and to exclude a treatable benign cause for pain.</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;middle&quot;>US breast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>5</td>
+            <td valign=&quot;top&quot;>This procedure may be appropriate, but there was disagreement among panel members on the appropriateness rating as defined by the panel's median rating. Although current evidence suggests that imaging is not routinely indicated due to the rarity of underlying cancer in this age group/clinical scenario, it may be used in some settings to provide reassurance and to exclude a treatable benign cause for pain.</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI breast without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI breast without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>FDG-PEM</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Tc-99m sestamibi BSGI</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot; scope=&quot;row&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+        <th class=&quot;Center&quot; valign=&quot;top&quot;>*Relative Radiation Level</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 5</span>: Noncyclical. Diffuse. Unilateral or bilateral. Age &amp;lt;40. Initial examination.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 5: Noncyclical. Diffuse. Unilateral or bilateral. Age &amp;lt;40. Initial examination.&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Comments</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>RRL*</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>US breast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Mammography diagnostic</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI breast without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI breast without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>FDG-PEM</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Tc-99m sestamibi BSGI</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot; scope=&quot;row&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+        <th class=&quot;Center&quot; valign=&quot;top&quot;>*Relative Radiation Level</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 6</span>: Noncyclical. Diffuse. Unilateral or bilateral. Age &amp;ge;40. Initial examination.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 6: Noncyclical. Diffuse. Unilateral or bilateral. Age ≥40. Initial examination.&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Comments</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>RRL*</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Mammography diagnostic</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>4</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>US breast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI breast without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI breast without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>FDG-PEM</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Tc-99m sestamibi BSGI</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot; scope=&quot;row&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+        <th class=&quot;Center&quot; valign=&quot;top&quot;>*Relative Radiation Level</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Summary of Literature Review</span></strong></p>
+<p><strong>Introduction/Background</strong></p>
+<p>Breast pain (mastalgia or mastodynia) and breast tenderness are very commonly reported by patients presenting for any type of breast imaging, occurring in up to 70% to 80% of women at some time in their life. Breast pain is the second most common breast symptom (after breast lump) for which women seek medical attention, even in older age groups. Although a common problem, the worldwide literature related to this topic is relatively mixed in its conclusions regarding etiology and management of this condition.</p>
+<p><strong>Etiology of Breast Pain</strong></p>
+<p>The etiology of breast pain is not well understood and is probably multifactorial. Several possible causes have been studied, particularly for cyclical mastalgia, including a disturbance of hypothalamic control, abnormal hormonal response to stimuli, abnormal end-organ sensitivity, altered local hormone receptors, and disorders of lipid metabolism/fatty acid levels (which may result in exaggerated effects of normal levels of hormones). Hormonal medications, including hormone replacement therapy, oral contraceptives and infertility treatments, can be a cause of breast pain and tenderness. Other medications are also frequently implicated, specifically the selective serotonin reuptake inhibitor form of antidepressants. Psychological factors may also be involved. Studies indicate no direct relationship between mastalgia and fibrocystic changes or total-body water retention. There is no convincing scientific evidence that eliminating or reducing caffeine intake has any significant effect on breast pain, despite widespread belief to the contrary. Breast pain can be associated with diffuse palpable nodularity, but there is no relationship between the extent of nodularity and the severity of pain.</p>
+<p>Twenty-five percent of patients with noncyclical pain are reported to have duct ectasia with periductal inflammation, characterized by an exquisite continuous burning pain, usually behind the nipple, and a hypersensitive breast. This entity is often associated with heavy smoking. Women with large breasts often have noncyclical pain simply related to the size of their breasts, which may also be associated with neck, shoulder, and back pain.</p>
+<p><strong>Types of Breast Pain</strong></p>
+<p>Breast pain is usually divided into 2 main types, cyclical and noncyclical, and should be distinguished from extramammary pain. Distribution of pain should be considered as well. The guideline authors will define &quot;diffuse&quot; pain as involving greater than 25% of the breast and axillary tissue; &quot;focal&quot; as involving less than 25% of the breast and axillary tissue; and &quot;pinpoint&quot; as an area that is the size of a fingertip.</p>
+<p><em>Cyclical Breast Pain</em></p>
+<p>The cyclical form of mastalgia, which is by far the most common, is diffuse unilateral or bilateral pain and/or tenderness, often accompanied by swelling, that waxes and wanes with the menstrual cycle. This accounts for up to 70% of women with breast pain, most of whom do not meet the commonly accepted criteria for premenstrual syndrome, suggesting that it is a distinct entity. Patients are typically in their third decade of life. In one study, pain was unilateral in 38% (usually in the breast with more parenchyma), and 61% of those with bilateral pain had pain in one breast more than the other. Many patients had a history of low physical activity and a low rate of breastfeeding, and 87% were multiparous. The pain is most pronounced in the luteal phase, and is most likely hormonal in origin. However, no consistent abnormalities in basal hormone levels have been found in most studies, suggesting an increased sensitivity to normal hormone levels as the etiology.</p>
+<p>Cyclical pain is usually treated symptomatically, since the likelihood of breast cancer is extremely low in the absence of other signs or symptoms. Approximately 14% to 20% of these patients have spontaneous resolution within 3 months, and most have decreasing severity of pain over time. However, at least 60% of cases recur within 2 years. Some women have increasing severity of symptoms until menopause, at which time about 40% experience resolution. Women who start having cyclical pain before age 20 usually have a prolonged course. Women with cyclical mastalgia tend to undergo more frequent breast investigations (consultations, mammograms, needle, and surgical biopsies) than do women without cyclical breast pain and more commonly engage in self-treatment.</p>
+<p><em>Noncyclical Breast Pain</em></p>
+<p>Noncyclical breast pain accounts for up to 25% of the cases of breast pain. It is predominantly inflammatory in nature, rather than hormonal in origin. It is usually unilateral, and tends to be more focal than cyclical breast pain. The site of the pain is often precisely localizable and reproducible by the patient and physician. This type of pain has no predictable chronological pattern in time but may be worse in cold weather. It is more commonly persistent and is often located in the subareolar area or nipple and in the lower inner breast. Noncyclical mastalgia is more common in women in their fourth decade of life, although 10% to 15% present after the age of 50. Noncyclical mastalgia tends to be of shorter duration than cyclical mastalgia, with spontaneous resolution occurring in up to 50% of patients. Most cases of noncyclic mastalgia do not respond to hormonal manipulation. This type of pain, even without additional signs or symptoms of breast disease, may need additional evaluation to exclude an underlying benign or malignant breast lesion. Mammography may show duct ectasia or secretory calcifications at the site of pain. Noncyclical breast pain due to various medications is poorly understood and has various presentations.</p>
+<p>Mastitis or breast abscess can be a cause of focal pain, which may precede induration, redness, warmth, and fever. Breast pain may also be the initial presentation of Mondor disease (thrombophlebitis, usually of the thoracoepigastric vein).</p>
+<p>Noncyclical breast pain can be related to trauma in approximately 10% of cases. Pain related to a previous surgery is more common in patients who had postoperative infection or hematoma, or in patients in whom the surgeon cut across Langer lines of tension. Breast implants, especially those placed in a subpectoral location can be associated with pain. Postsurgical pain may be due to scar pain, nerve regeneration, or focal nerve injury due to ischemia, radiation, lymphedema, or implant capsule formation.</p>
+<p>Some degree of noncyclic breast pain and tenderness associated with pregnancy and breastfeeding is common and is usually of short duration, resolving spontaneously. Rarely, breast pain is one of the first symptoms of pregnancy. Breast pain can also occur physiologically at thelarche. Breast pain during exercise may occur in many women due to movement of breast tissues.</p>
+<p>Various other causes of pain that are perceived to be within the breast, or referred to the breast, have been described, accounting for 10% to 15% of the cases of &quot;breast pain.&quot; The nerve supply to the breast is from the anterolateral and anteromedial branches of the intercostal nerves from T3-T5, and irritation anywhere along their course can lead to breast or nipple pain. The extramammary (nonbreast) causes of pain include Tietze syndrome (costochondritis); other musculoskeletal or chest-wall conditions, such as pectoral muscle strains or spasms, entrapment of the lateral cutaneous branch of the third intercostal nerve, fibromyositis, fibromyalgia, myalgia, and rib fracture; spinal (cervical or thoracic) nerve root syndrome; coronary ischemia; esophageal disease (i.e., achalasia, hiatal hernia); pulmonary disease (i.e., pleurisy, pulmonary embolus, tuberculosis [TB]); gallbladder pathology; peptic ulcer disease; gastroesophageal reflux; shingles; and sickle cell anemia. Even infected teeth have been reported as a cause of breast pain.</p>
+<p><strong>Association of Breast Pain with Breast Cancer and Benign Breast Disease</strong></p>
+<p>Although pain is not a common symptom of breast cancer, some studies have suggested that cyclical mastalgia may represent an independent and useful clinical marker of increased breast cancer risk, especially in premenopausal women. One study reports a 2.1 to 3.6 increase in relative risk for breast cancer, and a 5-fold increase in breast cancer in women with symptoms persisting for more than 97 months. Another study reports a 5-fold increase in breast cancer after 37 months of pain. These authors suggest increased tissue sensitivity to estrogen as the cause. However, other authors imply a protective effect of breast pain by causing patients to seek medical attention early and report no overall increase in breast cancer risk. Several studies have reported that premenopausal women with severe pain of long duration during their menstrual cycles more commonly had very dense breasts mammographically, which has recently been cited as a risk factor for breast cancer.</p>
+<p>Advanced cancers may present with breast pain as the only symptom, especially if they are present deep in a large breast or have chest-wall invasion. Invasive lobular carcinoma and anaplastic carcinoma are disproportionately associated with mastalgia as compared to other cancer types. Pain has also been described with adenoid cystic carcinoma.</p>
+<p><strong>Imaging</strong></p>
+<p>For all types of breast pain, breast imaging may be helpful in determining whether there is an underlying, and potentially treatable, cause. It is not used simply to exclude breast cancer. Even if negative, imaging is useful to alleviate patient anxiety and guide referring physicians in considering possible treatment options. Reassurance is often cited as the main reason for imaging of these patients. Many women with mastalgia do not seek further medical attention after reassurance that their pain is not due to breast cancer. However, there is some evidence to suggest that imaging does not always provide such reassurance. One study showed that embarking on imaging evaluation of breast pain in the situation of a negative clinical examination does not lead to an increase in cancer detection over those without breast pain, but more importantly increases the odds of additional clinical and imaging utilization above the initial imaging.</p>
+<p>There is very little literature related specifically to breast pain and breast imaging, even though a &quot;persistent or focal area of pain or tenderness&quot; is one of the indications for diagnostic mammography listed in the American College of Radiology (ACR) Practice Guideline for the Performance of Screening and Diagnostic Mammography.</p>
+<p>Mammography is often used to evaluate breast pain. However, the yield is low when the clinical examination is normal. The risk of malignancy after normal clinical and mammographic workup for breast pain is approximately 0.5%. In a case-controlled study, there was no significant difference in the incidence of breast cancer in women referred for mammography with a painful breast (0.5%) as compared to the contralateral nonpainful breast (0.5%) and as compared to women without breast pain referred for mammographic screening (0.7%).</p>
+<p>A prospective observational follow-up study of 987 patients (1992 to 1996, with 2 years of follow-up) evaluated breast imaging in women (age range 10 to 86) with breast pain alone (either diffuse or localized). The control group consisted of 987 asymptomatic women presenting for a screening mammogram. Patients with breast cancer history or implants were excluded. Pain was unilateral in 76% and bilateral in 24%. Mammography was the main imaging technique. Ultrasound (US) was only performed to evaluate an inconclusive mammographic finding, or in dense breasts. US only was performed in women younger than 25 years with pain limited to one quadrant. The cancer rate was reported as 0.4% in the painful breast. A total of 0.8% of patients in the breast pain group had breast cancer, as compared to 0.7% of the asymptomatic control group. In the study group, 86.5% of imaging was negative; 8.6% had benign abnormalities; 3.6% had probably benign abnormalities; 0.8% had suspicious findings; and 0.4% had cancer in the symptomatic breast.</p>
+<p>Only 2 studies in the United States have evaluated the role of imaging in focal breast pain. In a retrospective study, 110 targeted US examinations were performed on 99 patients who presented with focal breast pain without an associated palpable mass (65% of patients also had mammography). The mean age was 41 (range of 23 to 77 years old), with half of the patients younger than 40. Focal breast pain was defined as &quot;pain that the patient could localize to one specific area.&quot; No cancers were detected at the site of pain in any of the 110 examinations. The authors concluded that imaging, particularly targeted US, in patients with focal breast pain was useful primarily for patient reassurance. However, their patient population was low risk, mostly young patients, with no family history of breast cancer. Approximately 20% of patients had cysts or benign masses as the root cause of the focal pain.</p>
+<p>In another retrospective study, 86 consecutive patients with a complaint of focal breast pain without a palpable mass underwent diagnostic mammography and US evaluation. Four cancers were detected (4.6%): 2 at the site of pain (2.3%) and 2 incidental cancers presenting as microcalcifications in an area unrelated to the area of pain. Both of the cancers at the site of pain were seen on both mammography and US. The negative predictive value of mammography and US for cancer at the site of focal breast pain was 100%.</p>
+<p>US is preferable to mammography in younger women. A group of authors showed that in women under age 30 with focal breast signs and symptoms, breast US had 100% sensitivity with a negative predictive value of 100%.</p>
+<p><strong>Summary of Recommendations</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The imaging recommendations for women presenting with various types of breast pain as their only symptom are focused on 'non-high-risk' women and assume that all women, with or without breast symptoms, will have routine mammography according to ACR guidelines based on their risk status and personal history. </li>
+    <li>Women with cyclical and/or bilateral nonfocal breast pain or tenderness usually do not require nonroutine imaging due to the low yield of finding a specific cause. </li>
+    <li>In patients with noncyclical, unilateral, or focal breast pain that is not extramammary in origin (such as chest-wall pain), imaging can be pursued to exclude the unlikely presence of breast cancer as the cause of pain, to determine a benign but treatable etiology, or to offer reassurance that there is no anatomic abnormality present.
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>In symptomatic women less than 30 years of age, US is more accurate in making a diagnosis than mammography. </li>
+        <li>In the 30 to 39 year old age group, adding unilateral or bilateral mammography may be appropriate, since some of the small cancers found at the site of pain as reported in several studies were only visible mammographically. Mammography may also be indicated in patients under the age of 30 if a suspicious lesion is found on the initial US examination, or if the patient's history or risk status justifies the radiation exposure. </li>
+        <li>Mammography should be performed with US in patients age 40 and older, or in a patient of any age who would normally qualify for a mammogram based on risk factors and the date of the last mammogram. </li>
+    </ul>
+    </li>
+    <li>There are no data to suggest that breast magnetic resonance imaging (MRI) or nuclear imaging (breast-specific gamma imaging [BSGI], or positron emission mammography [PEM]) meet the risk/benefit or cost-effectiveness criteria to be considered useful in the workup of breast pain. </li>
+</ul>
+<p><strong>Abbreviations</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>BSGI, breast-specific gamma imaging </li>
+    <li>FDG-PEM, fluorine-18-2-fluoro-2-deoxy-D-glucose positron-emission mammography </li>
+    <li>MRI, magnetic resonance imaging </li>
+    <li>Tc-99m, technetium-99 metastable </li>
+    <li>US, ultrasound </li>
+</ul>
+<p><strong>Relative Radiation Level Designations</strong></p>
+<table width=&quot;50%&quot; border=&quot;1&quot; cellspacing=&quot;3&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Relative Radiation Level Designations&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Relative Radiation Level*</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Adult Effective Dose Estimate Range</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Pediatric Effective Dose Estimate Range</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;>O</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>&amp;lt;0.1 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>&amp;lt;0.03 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0.1-1 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0.03-0.3 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1-10 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0.3-3 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>10-30 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3-10 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;row&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>30-100 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>10-30 mSv</td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <td valign=&quot;top&quot; colspan=&quot;3&quot;>*RRL assignments for some of the examinations cannot be made, because the actual patient doses in these procedures vary as a function of a number of factors (e.g., region of the body exposed to ionizing radiation, the imaging guidance that is used). The RRLs for these examinations are designated as &quot;Varies.&quot;</td>
+    </tr>
+    </tfoot>
+</table></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Algorithms were not developed from criteria guidelines.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Breast pain</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Nuclear Medicine"/>
+      <fieldvalue value="Obstetrics and Gynecology"/>
+      <fieldvalue value="Radiology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Health Plans"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Managed Care Organizations"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Utilization Management"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To evaluate the appropriateness of various radiologic modalities in the diagnosis and evaluation of breast pain</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients with breast pain</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Ultrasound (US), breast </li>
+    <li>Mammography, diagnostic </li>
+    <li>Magnetic resonance imaging (MRI), breast
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Without and with contrast </li>
+        <li>Without contrast </li>
+    </ul>
+    </li>
+    <li>Fluorine-18-2-fluoro-2-deoxy-D-glucose positron-emission mammography (FDG-PEM) </li>
+    <li>Technetium-99 metastable (Tc-99m) sestamibi breast-specific gamma imaging (BSGI) </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Utility of radiologic examinations in evaluation of patients with breast pain </li>
+    <li>Incidence of breast pain </li>
+    <li>Relative risk of breast cancer </li>
+    <li>Cancer rate in patience with breast pain </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Literature Search Summary</span></strong></p>
+<p>A literature search was conducted in September 2011 and updated in December 2014 to identify evidence for the <em>ACR Appropriateness Criteria&amp;reg; Breast Pain</em> topic. Using the search strategies described in the literature search companion (see the &quot;Availability of Companion Documents&quot; field), a total of 209 articles were found. Sixteen articles were used in the topic. One hundred and ninety-three articles were not used due to either poor study design, the articles were not relevant or generalizable to the topic, or the results were unclear, misinterpreted, or biased.</p>
+<p>The author added 28 citations from bibliographies, Web sites, or books that were not found in the literature search.</p>
+<p>See also the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; literature search process document (see the &quot;Availability of Companion Documents&quot; field) for further information.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Sixteen articles were used in the topic. The author added 28 citations from bibliographies, Web sites, or books that were not found in the literature search.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Study Quality Category Definitions</span></strong></p>
+<p>Category 1 - The study is well-designed and accounts for common biases.</p>
+<p>Category 2 - The study is moderately well-designed and accounts for most common biases.</p>
+<p>Category 3 - There are important study design limitations.</p>
+<p>Category 4 - The study is not useful as primary evidence. The article may not be a clinical study or the study design is invalid, or conclusions are based on expert consensus. For example:</p>
+<ol style=&quot;list-style-type: lower-alpha;&quot;>
+    <li>The study does not meet the criteria for or is not a hypothesis-based clinical study (e.g., a book chapter or case report or case series description). </li>
+    <li>The study may synthesize and draw conclusions about several studies such as a literature review article or book chapter but is not primary evidence. </li>
+    <li>The study is an expert opinion or consensus document. </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The topic author assesses the literature then drafts or revises the narrative summarizing the evidence found in the literature. American College of Radiology (ACR) staff drafts an evidence table based on the analysis of the selected literature. These tables rate the study quality for each article included in the narrative.</p>
+<p>The expert panel reviews the narrative, evidence table and the supporting literature for each of the topic-variant combinations and assigns an appropriateness rating for each procedure listed in the variant table(s). Each individual panel member assigns a rating based on his/her interpretation of the available evidence.</p>
+<p>More information about the evidence table development process can be found in the ACR Appropriateness Criteria&amp;reg; Evidence Table Development documents (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus (Delphi)"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Rating Appropriateness</span></strong></p>
+<p>The American College of Radiology (ACR) Appropriateness Criteria (AC) methodology is based on the RAND Appropriateness Method. The appropriateness ratings for each of the procedures or treatments included in the AC topics are determined using a modified Delphi method. A series of surveys are conducted to elicit each panelist's expert interpretation of the evidence, based on the available data, regarding the appropriateness of an imaging or therapeutic procedure for a specific clinical scenario. The expert panel members review the evidence presented and assess the risks or harms of doing the procedure balanced with the benefits of performing the procedure. The direct or indirect costs of a procedure are not considered as a risk or harm when determining appropriateness. When the evidence for a specific topic and variant is uncertain or incomplete, expert opinion may supplement the available evidence or may be the sole source for assessing the appropriateness.</p>
+<p>The appropriateness is represented on an ordinal scale that uses integers from 1 to 9 grouped into three categories: 1, 2, or 3 are in the category &quot;usually not appropriate&quot; where the harms of doing the procedure outweigh the benefits; and 7, 8, or 9 are in the category &quot;usually appropriate&quot; where the benefits of doing a procedure outweigh the harms or risks. The middle category, designated &quot;may be appropriate&quot;, is represented by 4, 5, or 6 on the scale. The middle category is when the risks and benefits are equivocal or unclear, the dispersion of the individual ratings from the group median rating is too large (i.e., disagreement), the evidence is contradictory or unclear, or there are special circumstances or subpopulations which could influence the risks or benefits that are embedded in the variant.</p>
+<p>The ratings assigned by each panel member are presented in a table displaying the frequency distribution of the ratings without identifying which members provided any particular rating. To determine the panel's recommendation, the rating category that contains the median group rating without disagreement is selected. This may be determined after either the first or second rating round. If there is disagreement after the second rating round, the recommendation is &quot;May be appropriate.&quot;</p>
+<p>This modified Delphi method enables each panelist to articulate his or her individual interpretations of the evidence or expert opinion without excessive influence from fellow panelists in a simple, standardized and economical process. For additional information on the ratings process see the <a href=&quot;http://www.acr.org/%7E/media/ACR/Documents/AppCriteria/RatingRoundInfo.pdf&quot; title=&quot;ACR Web site&quot;>Rating Round Information</a> document on the ACR Web site.</p>
+<p>Additional methodology documents, including a more detailed explanation of the complete topic development process and all ACR AC topics can be found on the <a href=&quot;http://www.acr.org/Quality-Safety/Appropriateness-Criteria&quot; title=&quot;ACR Web site&quot;>ACR Web site</a> (see also the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Criteria developed by the Expert Panels are reviewed by the American College of Radiology (ACR) Committee on Appropriateness Criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The recommendations are based on analysis of the current literature and expert panel consensus.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Summary of Evidence</span></strong></p>
+<p>Of the 44 references cited in the <em>ACR Appropriateness Criteria&amp;reg; Breast Pain</em> document, one is categorized as a therapeutic reference. Additionally, 43 references are categorized as diagnostic references including 12 quality studies that may have design limitations. There are 32 references that may not be useful as primary evidence.</p>
+<p>Most of the references have design limitations.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Selection of appropriate radiologic imaging procedures for patients with  breast pain</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Relative Radiation Level Information</span></strong></p>
+<p>Potential adverse health effects associated with radiation exposure are an important factor to consider when selecting the appropriate imaging procedure. Because there is a wide range of radiation exposures associated with different diagnostic procedures, a relative radiation level (RRL) indication has been included for each imaging examination. The RRLs are based on effective dose, which is a radiation dose quantity that is used to estimate population total radiation risk associated with an imaging procedure. Patients in the pediatric age group are at inherently higher risk from exposure, both because of organ sensitivity and longer life expectancy (relevant to the long latency that appears to accompany radiation exposure). For these reasons, the RRL dose estimate ranges for pediatric examinations are lower as compared to those specified for adults. Additional information regarding radiation dose assessment for imaging examinations can be found in the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; Radiation Dose Assessment Introduction document (see &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American College of Radiology (ACR) Committee on Appropriateness Criteria and its expert panels have developed criteria for determining appropriate imaging examinations for diagnosis and treatment of specified medical condition(s). These criteria are intended to guide radiologists, radiation oncologists, and referring physicians in making decisions regarding radiologic imaging and treatment. Generally, the complexity and severity of a patient's clinical condition should dictate the selection of appropriate imaging procedures or treatments. Only those examinations generally used for evaluation of the patient's condition are ranked. Other imaging studies necessary to evaluate other co-existent diseases or other medical consequences of this condition are not considered in this document. The availability of equipment or personnel may influence the selection of appropriate imaging procedures or treatments. Imaging techniques classified as investigational by the U.S. Food and Drug Administration (FDA) have not been considered in developing these criteria; however, study of new equipment and applications should be encouraged. The ultimate decision regarding the appropriateness of any specific radiologic examination or treatment must be made by the referring physician and radiologist in light of all the circumstances presented in an individual examination.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Jokich PM, Newell MS, Bailey L, Barke LD, Carkaci S, D'Orsi C, Green ED, Lee SJ, Mainiero MB, Moy L, Yepes MM, Mahoney MC, Expert Panel on Breast Imaging. ACR Appropriateness Criteria® breast pain [online publication]. Reston (VA): American College of Radiology (ACR); 2014. 10 p.  [44 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2014"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American College of Radiology - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American College of Radiology (ACR) provided the funding and the resources for these ACR Appropriateness Criteria&amp;reg;.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Committee on Appropriateness Criteria, Expert Panel on Breast Imaging</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Panel Members</em>: Peter M. Jokich, MD (<em>Principal Author</em>); Mary S. Newell, MD (<em>Panel Vice-chair</em>); Lisa Bailey, MD; Lora D. Barke, DO; Selin Carkaci, MD; Carl D'Orsi, MD; Edward D. Green, MD; Su-Ju Lee, MD; Martha B. Mainiero, MD; Linda Moy, MD; Monica M. Yepes, MD; Mary C. Mahoney, MD (<em>Panel Chair</em>)</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note</strong>: This guideline has been updated. The National Guideline Clearinghouse (NGC) is working to update this summary. </p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies of the updated guideline: Available from the <a href=&quot;https://acsearch.acr.org/docs/3091546/Narrative/&quot; title=&quot;ACR Web site&quot;>American College of Radiology (ACR) Web site</a>.</p>
+<p>Print copies: Available from the American College of Radiology, 1891 Preston White Drive, Reston, VA 20191. Telephone: (703) 648-8900.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>ACR Appropriateness Criteria&amp;reg;. Overview. Reston (VA): American College of Radiology; 2015 Feb. 3 p. Electronic copies: Available from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/Overview.pdf&quot; title=&quot;ACR Web site&quot;>American College of Radiology (ACR) Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Literature search process. Reston (VA): American College of Radiology; 2015 Feb. 1 p. Electronic copies: Available from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/LiteratureSearchProcess.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Evidence table development &amp;ndash; diagnostic studies. Reston (VA): American College of Radiology; 2013 Nov. 3 p. Electronic copies: Available from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/ETDevDiagnostic.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Radiation dose assessment introduction. Reston (VA): American College of Radiology; 2015 Feb. 3 p. Electronic copies: Available from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/RadiationDoseAssessmentIntro.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Procedure information. Reston (VA): American College of Radiology; 2 p. Electronic copies: Available from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/ProcedureInfo.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg; breast pain. Evidence table. Reston (VA): American College of Radiology; 2014. 18 p. Electronic copies: Available from the <a href=&quot;https://acsearch.acr.org/docs/3091546/EvidenceTable/&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg; breast pain. Literature search. Reston (VA): American College of Radiology; 2014. 2 p. Electronic copies: Available from the <a href=&quot;https://acsearch.acr.org/docs/3091546/LitSearch/&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on July 27, 2015.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Instructions for downloading, use, and reproduction of the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; may be found on the <a href=&quot;http://www.acr.org/Quality-Safety/Appropriateness-Criteria/TermsConditions&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 17:51:32 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:16:56 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 193.917 (3)
+  esindex: 0.012
+  captures_list: 220.796
+  CDXLines.iter: 17.653 (3)
+  PetaboxLoader3.datanode: 193.235 (4)
+  exclusion.robots: 0.448
+  exclusion.robots.policy: 0.428
+  RedisCDXSource: 5.319
+  load_resource: 30.575
+-->

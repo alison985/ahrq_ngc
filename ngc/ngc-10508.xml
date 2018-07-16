@@ -1,0 +1,968 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app42.us.archive.org';v.server_ms=1478;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10508?contentType=xml', '20180712221416')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180712221416/https://www.guideline.gov/summaries/downloadcontent/ngc-10508?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180712221416/https://www.guideline.gov/summaries/downloadcontent/ngc-10508?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10508?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180712221416" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610065254/https://www.guideline.gov/summaries/downloadcontent/ngc-10508?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 22:14:16 Jul 12, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610065254/https://www.guideline.gov/summaries/downloadcontent/ngc-10508?contentType=xml" title="06:52:54 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 22:14:16 Jul 12, 2018">12</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930204820/https://www.guideline.gov/summaries/downloadcontent/ngc-10508?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 22:14:16 Jul 12, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180712221416*/https://www.guideline.gov/summaries/downloadcontent/ngc-10508?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 12 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10508?contentType=xml","2018-07-12",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Preventive male sexual and reproductive health care: recommendations for clinical practice.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Marcell AV, Male Training Center for Family Planning and Reproductive Health. Preventive male sexual and reproductive health care: recommendations for clinical practice. Philadelphia (PA): Male Training Center for Family Planning and Reproductive Health; 2014. 35 p.  [106 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Recommended Core Preventive Sexual and Reproductive Health (SRH) Care Services for Males: Checklist of Services</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Recommended Core Preventive Sexual and Reproductive Health (SRH) Care Services for Males: Checklist of Services&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Services</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Components</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Core SRH*</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot; rowspan=&quot;10&quot;>History</td>
+            <td valign=&quot;top&quot;>Reproductive life plan<sup>1</sup></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Standard medical history<sup>2</sup></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Additional visit specific history<sup>3</sup></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Sexual health assessment<sup>4</sup></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Problems with sexual functions</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Intimate partner &amp;amp; sexual violence</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Alcohol and &amp;amp; other drug uses</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Tobacco use</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Immunizations</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Depression</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot; rowspan=&quot;3&quot;>Physical Exam</td>
+            <td valign=&quot;top&quot;>Height, weight, &amp;amp; body mass index (BMI)</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Blood pressure</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>External genital/perianal exam</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X<sup>5</sup></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot; rowspan=&quot;6&quot;>Laboratory Tests</td>
+            <td valign=&quot;top&quot;>Chlamydia</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X<sup>6</sup></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Gonorrhea</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X<sup>7</sup></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Syphilis</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X<sup>8</sup></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Human immunodeficiency virus/acquired immune deficiency syndrome (HIV/AIDS)</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X<sup>9</sup></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Hepatitis C</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X<sup>10</sup></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Diabetes</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X<sup>11</sup></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot; rowspan=&quot;7&quot;>Key SRH Counseling</td>
+            <td valign=&quot;top&quot;>Condoms with demonstration/practice</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Sexually transmitted disease (STD)/HIV</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Pregnancy prevention including male &amp;amp; female methods &amp;amp; emergency contraception</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Preconception health</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Sexuality/relationships</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X<sup>12</sup>/X<sup>13</sup></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Sexual dysfunctions</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Infertility</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>X</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>*Refer to Table 2A in the original guideline document for guidance regarding &quot;how to&quot; elements.</p>
+<p class=&quot;Note&quot;><sup>1</sup> Assess for number of children fathered/want (more) children &amp;amp;, if so, when?</p>
+<p class=&quot;Note&quot;><sup>2</sup> Assess for medical &amp;amp; surgical history, medications &amp;amp; allergies.</p>
+<p class=&quot;Note&quot;><sup>3 </sup>Assess for visit specific additional history items (e.g., as part of STD visit, infertility visit, preconception care visit, etc.).</p>
+<p class=&quot;Note&quot;><sup>4</sup> Assess for sexual health practices, partners (sexuality &amp;amp; relationships), pregnancy prevention methods, protection from STDs and STD history.</p>
+<p class=&quot;Note&quot;><sup>5</sup> Among male adolescents also document sexual maturity rating.</p>
+<p class=&quot;Note&quot;><sup>6</sup> Screen at risk males: men who have sex with men (MSM); males in teen, correctional facilities, high school &amp;amp; STD clinics; attending National Job Training Program; in military &amp;lt;30 years; entering jails &amp;lt;30 years; entering juvenile facilities; &amp;amp; high prevalence communities.</p>
+<p class=&quot;Note&quot;><sup>7</sup> Screen at risk males: MSM; persons reporting multiple or anonymous sex partners; engaging in sex &amp;amp; illicit drug use (e.g., methamphetamine).</p>
+<p class=&quot;Note&quot;><sup>8</sup> Screen at risk males: MSM; persons engaging in high-risk sexual behavior; commercial sex workers; persons who exchange sex for drugs; adult correctional facilities; &amp;amp; high prevalence communities.</p>
+<p class=&quot;Note&quot;><sup>9</sup> Screen all clients aged 13-64 years &amp;amp; subsequently test high risk individuals at least annually. High risk includes: MSM; injection drug users &amp;amp; their sex partners; persons who exchange sex for money or drugs; sex partners of HIV-infected persons; &amp;amp; persons who themselves or whose sex partners have had &amp;gt;1 sex partner since most recent HIV test.</p>
+<p class=&quot;Note&quot;><sup>10</sup> Conduct one-time testing without prior ascertainment of hepatitis C virus (HCV) risk for persons born during 1945&amp;ndash;1965, a population with a disproportionately high prevalence of HCV infection and related disease.</p>
+<p class=&quot;Note&quot;><sup>11</sup> Screen asymptomatic adults with sustained blood pressure (either treated or untreated) greater than 135/80 mm Hg.</p>
+<p class=&quot;Note&quot;><sup>12</sup> Among males dealing with issues of sexuality inclusive of individual support, support for families, &amp;amp;/or referral to local resources as appropriate.</p>
+<p class=&quot;Note&quot;><sup>13</sup> Among male adolescents, support having healthy relationships</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Recommended Core Preventive Sexual and Reproductive Health Care Services for Males: Detailed Summary of Service Content</span></strong></p>
+<p><strong>History</strong></p>
+<p><em>Reproductive Life Plan</em></p>
+<p>Assess among all individuals capable of having a child whether they have a reproductive life plan (Frey et al., 2008) by asking:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Have you ever made someone pregnant/are you currently a father? </li>
+    <li>Do you want to have (more) children? </li>
+    <li>How many (more) children would you like to have and when? </li>
+</ul>
+<p><em>Standard Medical History</em></p>
+<p>Assess for medical and surgical history, current medications and supplements, allergies, family medical history and pregnancy and father history (Frey et al., 2008; American Urological Association [AUA] Education and Research, Inc., 2010).</p>
+<p><em>Additional Visit&amp;ndash;Specific History</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Preconception Health</span> (Frey et al., 2008)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Past medical and surgical history that may impair his reproductive health (e.g., genetic defects, history of reproductive failures, and/or conditions that can reduce sperm quality, such as obesity, diabetes mellitus, varicocele and sexually transmitted diseases [STDs]). </li>
+    <li>Occupational or environmental exposures. </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Basic Infertility</span> (AUA Education and Research, Inc., 2010)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Additional medical history including:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Childhood illnesses and developmental history </li>
+        <li>Systemic medical illnesses (e.g., diabetes mellitus) and prior surgeries </li>
+        <li>Medications (prescription and non-prescription) and allergies </li>
+        <li>Lifestyle exposures and a review of systems </li>
+        <li>Family reproductive history </li>
+        <li>Review of past infections such as STDs </li>
+    </ul>
+    </li>
+    <li>Reproductive history including:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Coital frequency and timing </li>
+        <li>Duration of infertility and prior fertility </li>
+        <li>Sexual history including STDs </li>
+        <li>Gonadal toxin exposure including heat </li>
+    </ul>
+    </li>
+</ul>
+<p><em>Sexual Health Assessment</em></p>
+<p>Use the &quot;5 Ps&quot; approach to conduct a sexual health assessment (Workowski, Berman, &amp;amp; Centers for Disease Control and Prevention [CDC], 2010; &quot;Promoting healthy sexual development and sexuality,&quot; 2008; U.S. Preventive Services Task Force [USPSTF], &quot;Behavioral counseling,&quot; 2008):</p>
+<ol style=&quot;list-style-type: decimal;&quot;>
+    <li><strong>Practices</strong>: Assess for the types of sexual behavior that your patient engages in, such as vaginal, anal, and/or oral sex. </li>
+    <li><strong>Partners</strong>: Ask questions to determine the number, sex, and concurrency of your patient's sex partners. You may need to define the term &quot;partner&quot; to the patient or use other, relevant terminology. </li>
+    <li><strong>Pregnancy prevention</strong>: Discuss current and future contraceptive options with partner. </li>
+    <li><strong>Protection from STDs</strong>: Ask about condom use, with whom they do or do not use condoms, and situations that make it harder or easier to use condoms. </li>
+    <li><strong>Past STD history</strong>: Ask about history of STDs, including whether their partners have ever had an STD (the likelihood of an STD is higher with a past history of an STD). </li>
+</ol>
+<p><em>Problems with Sexual Function</em></p>
+<p>Ask do you have any difficulty with intercourse/problems when having sex?</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Asking males about problems with sexual function is particularly important to identify underlying cardiovascular disease among men who present with symptoms of sexual dysfunction routinely starting at age 25. Specific questions include if the male is experiencing sexual dysfunction such as inability to obtain and maintain an adequate erection for satisfactory sexual activity (impotence, erectile dysfunction [ED]), premature or delayed ejaculation, loss of libido, painful intercourse, and also priapism, a prolonged painful erection not associated with sexual desire (Billups et al., 2005; Kostis et al., 2005; AUA Board of Directors, 2012). </li>
+</ul>
+<p><em>Intimate Partner and Sexual Violence</em></p>
+<p>Assess for history of abuse including intimate partner and sexual violence (Hagan et al., 2008; Jenny et al., 2013). Given that abuse may be bidirectional within the context of relationships (Hamel, 2009), assessing for both experience and perpetration may be warranted along with a history of childhood/family violence exposure. <strong>Note</strong>: Providers must comply with state mandatory reporting guidelines regarding abuse, rape and incest (Child Welfare Information Gateway, 2010).</p>
+<p>For an example evidence-based approach for assessment, please refer to the original guideline document.</p>
+<p>Provide counseling and referral as appropriate.</p>
+<p><em>Alcohol and Other Drug Use</em></p>
+<p>Assess for alcohol misuse in adults and adolescents and for other drug use (Hagan et al., 2008; USPSTF, &quot;Screening and behavioral counseling,&quot; 2013; USPSTF, &quot;Screening for illicit drug use&quot; 2008; Committee on Substance Abuse &amp;amp; Kokotailo, 2010; Heyman et al., 1999; Kulig, 2005; Williams &amp;amp; Storck, 2007).</p>
+<p>For an example of evidence-based approaches for assessment, please refer to the original guideline document.</p>
+<p>Offer behavioral counseling interventions to reduce alcohol misuse in adults and adolescents and for other drug use.</p>
+<p><em>Tobacco Use</em></p>
+<p>Assess all adults and adolescents about smoking and use of other tobacco products (Hagan et al., 2008; Kulig, 2005; USPSTF, &quot;Primary care,&quot; 2013; USPSTF, &quot;Counseling,&quot; 2009; Committee on Environmental Health, 2009; American Academy of Nurse Practitioners [AANP] Committee, 2000; Fiore et al., 2008; Novak et al., 2009).</p>
+<p>For example assessment approaches, please refer to the original guideline document.</p>
+<p>Provide or refer those who use tobacco products to evidence-based tobacco cessation interventions including referral to quitlines:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>You Can Quit Smoking Now &amp;mdash; <a href=&quot;http://www.smokefree.gov&quot; title=&quot;Smokefree.gov Web site&quot; target=&quot;_blank&quot;>www.smokefree.gov</a> </li>
+    <li><a href=&quot;http://www.teenquit.com/QuitLines/index.asp&quot; title=&quot;Teen Quit Web site&quot;>www.teenquit.com/QuitLines/index.asp</a> </li>
+    <li>HHS National Quitline Number (1-800-QUITNOW) </li>
+</ul>
+<p><em>Immunizations</em></p>
+<p>Assess and offer all clients (as needed) (Hagan et al., 2008; Workowski, Berman, &amp;amp; CDC, 2010; Koslap-Petraco, Tempfer, &amp;amp; Linguiti Pron, 2006; Advisory Committee for Immunization Practices [ACIP], 2013):</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Human papillomavirus (HPV) vaccination for males aged 11&amp;ndash;26 (minimum age 9) (recommendations include starting at age 11&amp;ndash;12 year olds and catch up vaccine among males ages 13&amp;ndash;21 who have not been vaccinated previously or have not completed the 3-dose series through age 21; males aged 22&amp;ndash;26 years may be vaccinated [permissive recommendation for this age group]). Routine vaccination is recommended among at risk males, including men who have sex with men (MSM) and immune-compromised males, through age 26 years (Friedman et al., 2011; CDC, 2011). </li>
+    <li>Hepatitis B vaccination (HBV) among persons aged &amp;lt;19 years and for all adults who are at risk (as defined by at risk for infection by sexual exposure including MSM; injection-drug users; household contacts of persons with chronic HBV infection; developmentally disabled persons in long-term care facilities; persons at risk for occupational exposure to HBV; hemodialysis patients; persons with chronic liver disease; travelers to HBV-endemic regions; and human immunodeficiency virus [HIV]-positive persons) or who request vaccination.
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Anti-HBV testing may be considered among adult men at high risk (e.g., intravenous drug user &amp;amp; MSM) in context of vaccination, but not among adolescents who are asymptomatic for HBV (USPSTF, &quot;Screening for hepatitis B,&quot; 2004). However, young MSM might require more thorough evaluation. </li>
+    </ul>
+    </li>
+    <li>Hepatitis A (HAV) among persons at risk as defined by MSM; users of injection and non-injection drugs; persons who have occupational risk for infection; persons with clotting-factor disorders; vaccination of persons with chronic liver disease; Hepatitis A vaccination during outbreaks; and persons traveling to or working in countries that have high or intermediate endemicity of infection. </li>
+</ul>
+<p><em>Depression</em></p>
+<p>Assess adolescents and adults for depression when staff-assisted depression care supports are in place to assure accurate diagnosis, effective treatment and follow up (Hagan et al., 2008; USPSTF, &quot;Screening and treatment,&quot; 2009; USPSTF, &quot;Screening for depression,&quot; 2009; Melnyk et al., 2007; Birmaher et al., 2007).</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Staff assisted care supports are defined as clinical staff that assist the primary care clinician by providing some direct depression care, such as care support or coordination, case management or mental health treatment. For example, the minimal effective staff supports consisted of a screening nurse who advised primary care clinicians of a positive screen and provided a protocol facilitating referral to behavioral therapy. </li>
+</ul>
+<p>Assess for risk of suicide among persons reporting symptoms of depression and other risk factors (mania or hypomania, or mixed states especially when complicated by comorbid substance abuse, irritability, agitation, or psychosis; previous suicide attempts; family history of suicide; friends who have committed suicide; access to a gun; history of mood/conduct or psychotic disorders; impulsive behaviors or attention deficit/hyperactivity disorder; concerns about sexual identity; history of physical/sexual abuse) (Hagan et al., 2008; Birmaher et al., 2007; American Academy of Child and Adolescent Psychiatry, 2001; USPSTF, &quot;Screening for suicide risk,&quot; 2004; Shain, 2007).</p>
+<p>For example screening approaches, please refer to the original guideline document.</p>
+<p><em>Height, Weight and BMI</em></p>
+<p>Assess all adolescent and adult clients for obesity including measurement of weight, height, and calculation of body mass index (BMI) (Hagan et al., 2008; USPSTF, 2012; USPTF, 2010; Krebs, Jacobson, &amp;amp; American Academy of Pediatrics Committee on Nutrition, 2003; Kohn et al., 2006; Duderstadt et al., 2009; National Heart, Lung and Blood Institute [NHLBI] Obesity Education Initiative, &amp;amp; Expert Panel on the Identification, Evaluation, and Treatment of Overweight and Obesity in Adults, 1998).</p>
+<p>Obese persons should be offered or referred to intensive counseling and multicomponent behavioral interventions (Hagan et al., 2008; USPSTF, 2012; USPSTF, 2010; NHLBI, Obesity Education Initiative, &amp;amp; Expert Panel on the Identification, Evaluation, and Treatment of Overweight and Obesity in Adults, 1998).</p>
+<p><em>Blood Pressure</em></p>
+<p>Measure blood pressure among adults every 2 years if normal (blood pressure &amp;lt;120/80) and every year if the client has pre-hypertension (blood pressure 120&amp;ndash;139/80&amp;ndash;89) and in adolescents measure blood pressure annually (Hagan et al., 2008; Frey et al., 2008; National High Blood Pressure Education Program Working Group on High Blood Pressure in Children and Adolescents, 2004; USPSTF, &quot;Screening for high blood pressure,&quot; 2007; NHLBI, 2004).</p>
+<p><em>External Genital/Perianal Exam</em></p>
+<p>Perform external genital/perianal exam to document normal growth and development perianal exam and other common genital findings, including hydrocele, varicocele, and signs of STDs (Hagan et al., 2008; Society for Adolescent Health and Medicine et al., 2012; Marcell et al., 2011). Components of this exam include inspecting skin and hair, palpating inguinal nodes, scrotal contents and penis, and inspecting perianal region (as indicated, e.g., history of receptive anal sex).</p>
+<p>Perform a genital exam as part of the evaluation for male infertility (AUA Education and Research, Inc., 2010) including:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Examination of the penis, including the location of the urethral meatus </li>
+    <li>Palpation of the testes and measurement of their size </li>
+    <li>Presence and consistency of both the vas deferens and epididymis </li>
+    <li>Presence of a varicocele </li>
+    <li>Secondary sex characteristics including body habitus, hair distribution and breast development </li>
+    <li>Digital rectal exam in all men 18 and older if there are signs and symptoms of prostatitis (dysuria, pelvic pain, hematospermia) or ejaculate volume is lower than 1.5 mL </li>
+</ul>
+<p>The diagnosis of congenital bilateral absence of the vasa deferentia (CBAVD) is established by physical examination (scrotal exploration is not needed to make this diagnosis).</p>
+<p><strong>Laboratory Tests</strong></p>
+<p><em>Chlamydia</em></p>
+<p>Screen at risk male adolescents and adults under age 25 years for Chlamydia (urine-based nucleic-acid amplification tests [NAATs] is the preferred approach). At risk includes MSM, and specific settings in which to screen males, e.g., adolescent clinics, correctional facilities, STD clinics and high prevalence communities (Hagan et al., 2008; Workowski, Berman, &amp;amp; CDC 2010; USPSTF, &quot;Screening for chlamydial infection,&quot; 2007; Division of STD Prevention, 2006; Burstein et al., 2009).</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Additional guidance recommends screening men who are attending National Job Training Program, in military &amp;lt;30 years of age with any lifetime sexual experience, entering jails &amp;lt;30 years of age, entering juvenile facilities, in communities with high Chlamydia prevalence (programs here should consider screening men &amp;lt;25 years of age in emergency departments, attending high school clinics, and attending adolescent clinics) (Division of STD Prevention, 2006). </li>
+    <li>Males with Chlamydia infection should be re-screened for reinfection at 3 months. </li>
+    <li>Screening includes for urethral infection with <em>C. trachomatis</em> in men who have had insertive anal intercourse during the preceding year and rectal infection with <em>C. trachomatis</em> in men who have had receptive anal intercourse during the preceding year (NAAT of a rectal swab is the preferred approach). </li>
+    <li>Screening for <em>C. trachomatis</em> pharyngeal infection is not recommended. </li>
+</ul>
+<p><em>Gonorrhea</em></p>
+<p>Screen at risk male adolescents and adults for gonorrhea (NAATs is the preferred approach) (Hagan et al., 2008; Workowski, Berman, &amp;amp; CDC, 2010; Burstein et al., 2009; USPSTF, 2005). At risk populations include MSM.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Males with gonorrhea infection should be re-screened for reinfection at 3 months. </li>
+    <li>More frequent STD screening (i.e., at 3&amp;ndash;6-month intervals) is indicated for MSM who have multiple or anonymous partners. </li>
+    <li>MSM who have sex in conjunction with illicit drug use (particularly methamphetamine use) or whose sex partners participate in these activities should be screened more frequently. </li>
+    <li>The following screening tests need to be performed at least annually for sexually active MSM: screen for urethral infection with <em>Neisseria gonorrhoeae</em> in men who have had insertive intercourse and screen for rectal infection with <em>N. gonorrhoeae</em> in men who have had receptive anal intercourse (NAAT of a rectal swab is the preferred approach); and screen for pharyngeal infection with <em>N. gonorrhoeae</em> in men who have had receptive oral intercourse (NAAT is the preferred approach) during the preceding year, respectively. </li>
+</ul>
+<p><em>Syphilis</em></p>
+<p>Screen persons at increased risk for syphilis infection. Populations at increased risk include MSM and men who engage in high-risk sexual behavior such as commercial sex workers, persons who exchange sex for drugs, those in adult correctional facilities, and those in high prevalence communities (Hagan et al., 2008; Workowski, Berman, &amp;amp; CDC, 2010; Calonge, 2004).</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Young MSM might require more frequent STD screening based on risky behaviors (i.e., at 3&amp;ndash;6-month intervals) as is indicated for MSM who have multiple or anonymous partners. </li>
+    <li>MSM who have sex in conjunction with illicit drug use (particularly methamphetamine use) or whose sex partners participate in these activities may need to be screened more frequently. </li>
+</ul>
+<p><em>HIV/Acquired Immunodeficiency Syndrome (AIDS)</em></p>
+<p>Screen for HIV infection all clients aged 13&amp;ndash;64 years and all persons at high risk for HIV should be re-screened at least annually (Hagan et al., 2008; Workowski, Berman, &amp;amp; CDC, 2010; Moyer &amp;amp; USPSTF, 2013; Branson et al., 2006; American Academy of Pediatrics, 2001; D'Angelo et al., 2006; Qaseem et al., 2009). Persons likely to be at high risk include MSM; injection drug users and their sex partners; persons who exchange sex for money or drugs; sex partners of HIV-infected persons; and MSM or heterosexual persons who themselves or whose sex partners have had more than one sex partner since their most recent HIV test.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The CDC recommends that screening be provided after the patient is notified that testing will be performed as part of general medical consent unless the patient declines (opt-out screening). </li>
+</ul>
+<p><em>Hepatitis C</em></p>
+<p>Screen for hepatitis C virus (HCV) infection and HCV-related chronic disease by conducting one-time testing without prior ascertainment of HCV risk for persons born during 1945&amp;ndash;1965, a population with a disproportionately high prevalence of HCV infection and related disease (Smith et al., 2012; USPSTF, &quot;Screening for hepatitis C,&quot; 2013).</p>
+<p>Anti-HCV testing is recommended for routine screening of persons at risk for infection or based on a recognized exposure (e.g., MSM, injecting drug user, high risk sexual behavior). Among MSM and intravenous drug users, screening among past or current drug users should include HCV testing (Workowski, Berman, &amp;amp; CDC, 2010).</p>
+<p>Persons identified as having HCV infection should receive a brief screening for alcohol use and intervention as clinically indicated, followed by referral to appropriate care for HCV infection and related conditions.</p>
+<p><em>Diabetes</em></p>
+<p>Screen for diabetes among asymptomatic adults with sustained blood pressure (either treated or untreated) greater than 135/80 mm Hg (Frey et al., 2008; USPSTF, &quot;Screening,&quot; 2008).</p>
+<p><strong>Key Sexual and Reproductive Health Counseling</strong></p>
+<p><em>Condoms with Demonstration/Practice</em></p>
+<p>Offer male patients to view and practice condom demonstration (Hagan et al., 2008; Workowski, Berman, &amp;amp; CDC, 2010; Marcell et al., n.d. [under review]).</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>For example, condom demonstration and practice should include steps for putting on (and removing) a condom including 1) pinching the tip of the condom, 2) rolling the condom down to base while leaving the tip pinched, 3) after ejaculation occurs, holding the condom at its base before withdrawing, 4) holding the condom at its tip and base and removing it from the penis, and 5) throwing it away (Oberne &amp;amp; McDermott, 2010). </li>
+    <li>Other teachable points include 1) checking the expiration date, 2) checking the package for air bubbles, 3) not opening the package with teeth or a sharp object, 4) using only water-based lubricants with latex condoms, and 5) not using spermicides (e.g., nonoxynol-9) since they can break down latex and increase susceptibility to STDs including HIV. </li>
+    <li>Other points for discussion for optimal use include partners 1) discussing contraception methods in advance including who will purchase condoms; 2) latex allergies; 3) the type of condom used (i.e., latex, polyurethane, lambskin) and condom characteristics (e.g., size, ribbed, lubricated, contain spermicides, etc.) and 4) try different condoms to find the one that fits and feels the best; condoms are available in different sizes and varying thickness. </li>
+</ul>
+<p><em>STD/HIV</em></p>
+<p>Provide high intensity behavioral counseling about STD prevention for all sexually active male adolescents and adult men at increased risk on an annual basis (USPSTF, &quot;Behavioral counseling,&quot; 2008).</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>For example, this consists of 2 separate 20-minute clinical sessions 1 week apart. During the first session, a patient is assessed for personal risk, barriers to risk reduction, and a small risk-reduction step within 1 week is identified. During the second session, the prior week's behavioral change successes and barriers are reviewed, support for changes made is provided, barriers and facilitators to change is identified, and a long-term plan for risk-reduction is developed. </li>
+</ul>
+<p>Provide access to HIV pre-exposure prophylaxis (PREP) and post-exposure prophylaxis (PEP) as appropriate (CDC, 2012; Smith et al., 2005).</p>
+<p><em>Pregnancy Prevention Including Male and Female Methods and Emergency Contraception (EC)</em></p>
+<p>Counsel male patients about male methods (e.g., vasectomy, condoms, withdrawal) and female hormonal contraception methods (e.g., long-acting reversible methods, combination methods and EC) and provide EC in advance as allowed by state law (Hagan et al., 2008; Workowski, Berman, &amp;amp; CDC, 2010; AUA, 2012; Marcell et al., 2012).</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Work with the client to establish a patient-centered plan for using the contraceptive method(s) of choice including addressing the &quot;4 Cs&quot; (choice, correct use, consistent use, continued use and switching) and effectiveness; understanding side effects; involvement of partner in plan and plan for follow-up. </li>
+    <li>Promote dual protection for a client who is at risk for contracting an STD (i.e., effective method to prevent pregnancy plus a condom to prevent infection). </li>
+</ul>
+<p><em>Preconception Health</em></p>
+<p>Provide support to address males' sexual and reproductive health in their own right that may also otherwise impact future reproductive capacity, to improve health outcomes for males' partners including direct benefits (e.g., decreased infection transmission between partners) and indirect benefits (e.g., shared health practices promoted by the male partner), as critical partners in family planning and to ensure all pregnancies are planned and wanted, and to improve males' capacity for parenting and fathering as well as improved outcomes for their children (Frey et al., 2008).</p>
+<p><em>Sexuality and Relationships</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Sexuality</span></p>
+<p>Provide support to males who may be dealing with issues of sexuality that can affect their psychosocial and physical health via individual support, support for families, and/or referral to local resources as appropriate (Hagan et al., 2008; Workowski, Berman, &amp;amp; CDC, 2010).</p>
+<p>For an example sexuality assessment tool, please refer to the original guideline document.</p>
+<p><span style=&quot;text-decoration: underline;&quot;>Relationships</span></p>
+<p>Provide support to adolescents in how to have healthy relationships (Hagan et al., 2008).</p>
+<p>For example assessment approaches, please refer to the original guideline document.</p>
+<p><em>Sexual Dysfunction</em></p>
+<p>Provide support based on etiology of sexual problem. Note that sexual dysfunction in men represents a group of common medical conditions that need to be managed from a multidisciplinary perspective. For specific evaluation, treatment guidelines, and algorithms developed for every sexual dysfunction in men, including ED; disorders of libido, orgasm, and ejaculation; Peyronie's disease; and priapism, refer to the following resources:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Montorsi F, Adaikan G, Becher E, et al. Summary of the recommendations on sexual dysfunctions in men. <em>J Sex Med</em> 2010 Nov;7(11):3572&amp;ndash;3588. </li>
+    <li>Montorsi F, Basson R, Adaikan G, et al., eds. Sexual medicine: Sexual dysfunctions in men and women. Paris, France: Editions 21; Co-Sponsored by International Consultation on Urological Diseases (ICUD) and International Society for Sexual Medicine (ISSM); <a href=&quot;http://www.icud.info&quot; title=&quot;ICUD Web site&quot;>http://www.icud.info</a>, 2010. </li>
+</ul>
+<p>Note also that ED can be seen as an early sign of systemic cardiovascular disease and that this can offer an opportunity for prevention, particularly in high-risk and underserved minority populations (Billups et al., 2005; Kostis et al., 2005).</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>According to the Minority Health Institute (MHI) algorithm, all men 25 years old and older regardless of sexual dysfunction complaints should be asked about ED and the presence of ED should prompt an aggressive assessment for cardiovascular risk and occult systemic vascular disease (Billups et al., 2005). </li>
+    <li>According to the consensus study from the Second Princeton Consensus Conference, its algorithm for evaluation emphasizes the importance of risk factor evaluation and management for all patients with ED based on risk stratification for cardiovascular disease (low, intermediate [including those requiring further evaluation], and high risk) and that increasing evidence supports the role of lifestyle intervention in ED, specifically weight loss &amp;amp; increased physical activity, particularly in patients with ED &amp;amp; concomitant cardiovascular disease (Kostis et al., 2005). </li>
+</ul>
+<p><em>Infertility</em></p>
+<p>Provide basic infertility services, which include the initial infertility history and physical exam (as described above), and appropriate education and referrals as needed, in accordance with professional recommendations, in male partners of an infertile couple if pregnancy has not occurred within one year of regular unprotected intercourse (AUA Education and Research, Inc., 2010).</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>An early evaluation may be warranted if a known male or female infertility risk factor exists or if a man questions his fertility potential as outlined here:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>A couple attempting to conceive should have an evaluation for infertility if pregnancy fails to occur within&amp;nbsp;1 year of regular unprotected intercourse. </li>
+        <li>An evaluation should be done before 1 year if:
+        <ol style=&quot;list-style-type: decimal;&quot;>
+            <li>Male infertility risk factors such as a history of bilateral cryptorchidism are known to be present </li>
+            <li>Female infertility risk factors, including advanced female age (over 35 years), are suspected </li>
+            <li>The couple questions the male partner's fertility potential </li>
+        </ol>
+        </li>
+        <li>Men who question their fertility status despite the absence of a current partner should have an evaluation of their fertility potential. </li>
+    </ul>
+    </li>
+    <li>Counseling and referral provided during the clinical visit should be driven by information elicited from the client during the initial infertility history and physical exam (as described above). </li>
+    <li>Referral may be needed for further evaluation, including semen analysis (2 specimens), endocrine evaluation for testosterone and follicle stimulating hormone (FSH) levels, or post-ejaculate urinalysis (when the ejaculate volume is less than 1 mL). </li>
+    <li>For patients who fall under the definition above, but are concerned about infertility, if there is no apparent cause, providers should provide education about how to maximize fertility. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Recommended Core Preventive Sexual and Reproductive Health Care Services to Males: Periodicity of Delivering Services</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Recommended Core Preventive Sexual and Reproductive Health Care Services to Males: Periodicity of Delivering Services&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot;>Service</th>
+            <th valign=&quot;top&quot;>To Be Done</th>
+            <th valign=&quot;top&quot;>Accomplishes This Recommended Practice</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>History</td>
+            <td valign=&quot;top&quot;>Every encounter*</td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Reproductive life plan </li>
+                <li>Reason for visit </li>
+                <li>Standard medical history </li>
+                <li>Sexual health assessment </li>
+                <li>Sexual dysfunction </li>
+                <li>Partner violence </li>
+                <li>Tobacco, alcohol, drug use </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>History</td>
+            <td valign=&quot;top&quot;>At least annually</td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Immunizations </li>
+                <li>Depression </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Physical exam</td>
+            <td valign=&quot;top&quot;>At least annually</td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Height, weight, BMI calculation </li>
+                <li>Blood pressure </li>
+                <li>Genital exam (among male adolescents) </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Laboratory tests</td>
+            <td valign=&quot;top&quot;>At least annually</td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>If at risk, STD testing should be considered:
+                <ul style=&quot;list-style-type: disc;&quot;>
+                    <li>Chlamydia </li>
+                    <li>Gonorrhea </li>
+                    <li>Syphilis </li>
+                    <li>HIV/AIDS </li>
+                    <li>Hepatitis C </li>
+                </ul>
+                </li>
+                <li>If at risk, diabetes testing should be considered </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Counseling</td>
+            <td valign=&quot;top&quot;>Periodicity based on need</td>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Demonstrate condom/practice </li>
+                <li>STD/HIV counseling </li>
+                <li>Pregnancy prevention including male &amp;amp; female methods &amp;amp; EC </li>
+                <li>Preconception health </li>
+                <li>Sexuality/relationships </li>
+                <li>Sexual dysfunction </li>
+                <li>Infertility </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>*May be an opportunity to offer these services using clinical judgment.</p>
+<p>Please refer to Table 3 in the original guideline document for summaries of (1) services where evidence supports recommendations AGAINST delivery for males, (2) services that are no longer recommended by organizations for males, and (3) services for which evidence is still being accumulated for males.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Conditions associated with male sexual and reproductive health</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Counseling"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Screening"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Infectious Diseases"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Pediatrics"/>
+      <fieldvalue value="Preventive Medicine"/>
+      <fieldvalue value="Urology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Health Plans"/>
+      <fieldvalue value="Managed Care Organizations"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Other"/>
+      <fieldvalue value="Pharmacists"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Psychologists/Non-physician Behavioral Health Clinicians"/>
+      <fieldvalue value="Public Health Departments"/>
+      <fieldvalue value="Social Workers"/>
+      <fieldvalue value="Substance Use Disorders Treatment Providers"/>
+      <fieldvalue value="Utilization Management"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To describe best practice recommendations for the organization and delivery of preventive clinical sexual and reproductive health services for reproductive-aged males </li>
+    <li>To improve the practice of medicine with a particular emphasis on how clinical practice can incorporate preventive sexual and reproductive health care for reproductive-aged males by meeting males' current and emerging sexual and reproductive health needs </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Reproductive-aged males</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>Preventive sexual and reproductive health history assessment
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Reproductive life plan to determine family planning or preconception health needs or difficulty achieving pregnancy </li>
+        <li>Standard medical history </li>
+        <li>Additional visit-specific history components related to preconception health and basic infertility </li>
+        <li>Comprehensive sexual health assessment (e.g., asking about sexual practices, partners, pregnancy prevention, protection from sexually transmitted diseases [STDs], past STD history) </li>
+        <li>Problems with sexual function </li>
+        <li>Intimate partner and sexual violence </li>
+        <li>Alcohol and other drug use </li>
+        <li>Tobacco use </li>
+        <li>Depression </li>
+        <li>Vaccination history (e.g., human papillomavirus [HPV] vaccine) </li>
+    </ul>
+    </li>
+    <li>Physical examination
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Height/weight for calculation of body mass index (BMI) </li>
+        <li>Blood pressure </li>
+        <li>Examination of external genital/perianal region </li>
+    </ul>
+    </li>
+    <li>Laboratory tests and screening for
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Chlamydia </li>
+        <li>Gonorrhea </li>
+        <li>Syphilis </li>
+        <li>Human immunodeficiency virus/acquired immune deficiency syndrome (HIV/AIDS) </li>
+        <li>Hepatitis C </li>
+        <li>Diabetes </li>
+    </ul>
+    </li>
+    <li>Counseling on
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Condoms with demonstration/practice </li>
+        <li>STDs/HIV </li>
+        <li>Pregnancy prevention including male and female methods and emergency contraception </li>
+        <li>Preconception health </li>
+        <li>Sexuality/relationships </li>
+        <li>Sexual dysfunction </li>
+    </ul>
+    </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: Please refer to Table 3 in the original guideline document, &quot;Services not recommended for preventive sexual and reproductive health care for males: checklist and rationale,&quot; for a list of (1) services where evidence supports recommendations AGAINST delivery for males, (2) services that are no longer recommended by organizations for males, and (3) services for which evidence is still being accumulated for males.</p>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Rate of sexually transmitted disease (STD) and human immunodeficiency virus (HIV) infection and transmission </li>
+    <li>Unintended pregnancy rate</li>
+    <li>Planned pregnancy rate</li>
+    <li>Knowledge of male methods, including vasectomy and condoms and rate of vasectomy and condom use&amp;nbsp;</li>
+    <li>Knowledge of female methods and rate of female methods use</li>
+    <li>Knowledge of emergency contraception (EC) and rate of EC use </li>
+    <li>Incidence, morbidity, and mortality of reproductive cancers </li>
+    <li>Morbidity of depression </li>
+    <li>Suicide attempts and mortality </li>
+    <li>Incidence, morbidity, and mortality of intimate partner violence </li>
+    <li>Incidence, morbidity, and mortality of tobacco, alcohol, and illicit drug use </li>
+    <li>Risk for cardiovascular and diet- or obesity-related chronic disease </li>
+    <li>Incidence and morbidity of sexual dysfunction</li>
+    <li>Incidence and morbidity of infertility</li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>For the main review, databases included the National Guideline Clearinghouse and identification of Federal and professional organizations' guidelines via Google and recommendation by panel members. The timeframe of reviewing content was from January 2011 to 2014. All Federal and professional organizations were identified, but for inclusion these guidelines needed to be national organizations. When an organization was identified, all guideline documents were reviewed for guidance related to male sexual and reproductive health or men's health.</p>
+<p>In addition, two systematic reviews were conducted for the following topics:</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Emergency contraception (EC) &amp;ndash; please refer to the <em>Perspectives</em> article provided (see the &quot;Availability of Companion Documents&quot; field). A search of the PubMed, PsycINFO and Cumulative Index of Nursing and Allied Health Literature (CINAHL) databases was conducted to identify studies published from January 1980 to April 2011 concerning males and emergency contraception. Search terms included &quot;Plan B,&quot; &quot;Yuzpe,&quot; &quot;postcoital contraception&quot; and &quot;emergency contraception&quot; (as well as variations on the terms &quot;contraception&quot; and &quot;contraceptive&quot;). The search strategy delimited studies that focused on males, or that included both males and females, but not those restricted to females (unless the study examined females' views on male's involvement in emergency contraception). Forty-three studies met the specified criteria and examined relevant knowledge, attitudes, beliefs, intentions or behaviors, from the perspectives of males, clinicians or pharmacists. </li>
+    <li>Condom demonstration in the clinical setting &amp;ndash; similar literature database review conducted as EC above including PubMed, PsycINFO and CINAHL. Meta-analysis was conducted and manuscript is being finalized. Time frame of search was 1980 to present (2014). Studies included in this review met the following criteria: interventions in clinical settings that included a control sample in which i) the intervention component was brief (e.g., sixty minutes or shorter), ii) included male subjects, and iii) involved hands-on and/or pictorial demonstration of a condom. Excluded articles were not a control/intervention trial, not written in English, among women only and not performed in a clinical setting. Search terms included &quot;condom(s)&quot; and &quot;barrier contraception&quot; including variations on the terms contraceptive and contraceptive agent/device. The search strategy also delimited studies performed among only men or among men and women but not only women. </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Not stated"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline document is based on two efforts: 1) Male Training Center's (MTC's) support of a Federal effort to develop recommendations for providing family planning services to men and women, which culminated in the publication of the <em>Providing Quality Family Planning Services (QFP): Recommendations of CDC and the U.S. Office of Population Affairs</em>; and 2) deliberations by the MTC about other sexual and reproductive health (SRH) services men might need outside of the family planning setting during the Men's Health Technical Panel that was convened by the MTC in July 2011.</p>
+<p>The process of developing the QFP:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Identified Federal and national professional medical organizations to include in the synthesis (refer to Appendix 1 in the original guideline document). The Institute of Medicine criteria for &quot;trustworthy&quot; clinical practice guidelines was used to decide which professional medical organizations to include in the review. </li>
+    <li>Decided how to provide each family planning service (e.g., the periodicity, which risk populations should be included). Given inconsistencies between recommendations, decisions were made using a hierarchical approach: the technical panel adopted recommendations from the Centers for Disease Control and Prevention (CDC) if they existed (e.g., human immunodeficiency [HIV] screening), or an A or B recommendation from the U.S. Preventive Services Task Force (USPSTF) if no CDC recommendation existed or the USPSTF and CDC recommendations were consistent. This hierarchy was chosen because CDC recommendations generally focus on populations at higher risk for disease and family planning clients were considered higher risk populations for the services under consideration. CDC and USPSTF recommendations were ranked higher than those of professional medical associations because of the greater emphasis placed on evidence and the use of systematic reviews of the evidence when developing recommendations. If no CDC or USPSTF recommendation existed, selected recommendations from professional medical associations were referenced. The American Academy of Pediatrics' (AAP) Bright Futures guidelines were referenced for adolescents because it is recognized by most as the national standard of pediatric and adolescent healthcare. For some screening components, no recommendation from Federal or professional organizations was identified, however feedback based on expert opinion was that the component was integral to core family planning services and thus necessary to include in the recommendations (e.g., conducting a sexual health assessment as part of contraception services). </li>
+    <li>Compiled and summarized current recommendations for preventive sexual and reproductive health care services for reproductive-aged males. For the purpose of this review, &quot;services&quot; refers to clinical preventive care components of a client's health history; physical exam; and laboratory test; and counseling for behavior change. </li>
+    <li>Conducted systematic reviews on areas where guidance was lacking. </li>
+</ul>
+<p>The Men's Health Technical Panel Members:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>In advance of the meeting, reviewed and provided feedback on:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>The framework for sexual and reproductive health care goals for reproductive-aged males and services that included preventing sexually transmitted diseases (STDs), HIV, unintended pregnancy, and reproductive health-related cancers; promoting sexual health and development; promoting healthy relationships; planning for the timing and spacing of children; and addressing issues related to sexual function and fertility. This relied on definitions of sexual and reproductive health by the 1994 Cairo United Nations International Conference on Population and Development and the World Health Organization for developing a framework for sexual and reproductive health care for reproductive-aged males, secondary to the lack of any organizing care framework. </li>
+        <li>The Federal and national professional medical organizations to include. </li>
+    </ul>
+    </li>
+    <li>During and after the meeting, reviewed and provided feedback on:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Screening components of clinical care to be or not be provided based on the compiled synthesized evidence as well as systematic reviews on areas where guidance was lacking. This included considering inconsistent recommendations across Federal and professional organizations as well as services not recommended for care delivery because they have been shown to be ineffective or even harmful. </li>
+    </ul>
+    </li>
+</ul>
+<p>Since the field of males' preventive sexual and reproductive health care lacks clinical studies with males that examine service effectiveness on the full array of sexual and reproductive health care, expert review was also taken into consideration to inform best practice for health professionals working with this population until a sufficient evidence-base is developed and appropriately reviewed. Further, since the purpose of the MTC's effort was on the broader content of men's sexual and reproductive health, and not just on family planning, deliberations by the MTC resulted in the inclusion of five additional services to this document (assessment for intimate partner and sexual violence and issues with sexual function and counseling on sexuality/relationships, issues with sexual function, and condoms with opportunities for demonstration and practice).</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="98" ordby="605" id="425" name="References Supporting the Recommendations" type="citation">
+      <fieldvalue value="<table><tr><td>Advisory Committee for Immunization Practices (ACIP). Vaccine recommendations of the ACIP. [internet]. Atlanta (GA): Centers for Disease Control and Prevention (CDC); [accessed 2013 Jun 01]. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>American Academy of Child and Adolescent Psychiatry. Practice parameter for the assessment and treatment of children and adolescents with suicidal behavior. J Am Acad Child Adolesc Psychiatry. 2001 Jul;40(7 Suppl):24S-51S. [189 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11434483&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>American Academy of Nurse Practitioners Practice Committee. Tobacco use position paper. Austin (TX): American Academy of Nurse Practitioners; 2000. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>American Academy of Pediatrics, Committee on Pediatric AIDS and Committee on Adolescence. Adolescents and human immunodeficiency virus infection: the role of the pediatrician in prevention and intervention. Pediatrics. 2001 Jan;107(1):188-90. [7 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11134459&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>American Urological Association Board of Directors. Diagnostic evaluation of erectile dysfunction. [internet]. Linthicum (MD): American Urological Association; 2012&amp;nbsp;[accessed 2013 Jun 01]. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>American Urological Association Education and Research, Inc. The optimal evaluation of the infertile male: AUA best practice statement. Linthicum (MD): American Urological Association Education and Research, Inc.; 2010. 38 p.  [60 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>American Urological Association. Vasectomy: AUA guideline. Linthicum (MD): American Urological Association; 2012. 60 p.  [275 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Billups KL, Bank AJ, Padma-Nathan H, Katz S, Williams R. Erectile dysfunction is a marker for cardiovascular disease: results of the minority health institute expert advisory panel. J Sex Med. 2005 Jan;2(1):40-50; discussion 50-2. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16422903&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Birmaher B, Brent D, AACAP Work Group on Quality Issues, Bernet W, Bukstein O, Walter H, Benson RS, Chrisman A, Farchione T, Greenhill L, Hamilton J, Keable H, Kinlan J, Schoettle U, Stock S, Ptakowski KK, Medicus J. Practice parameter for the assessment and treatment of children and adolescents with depressive disorders. J Am Acad Child Adolesc Psychiatry. 2007 Nov;46(11):1503-26. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18049300&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Branson BM, Handsfield HH, Lampe MA, Janssen RS, Taylor AW, Lyss SB, Clark JE, Centers for Disease Control and Prevention (CDC). Revised recommendations for HIV testing of adults, adolescents, and pregnant women in health-care settings. MMWR Recomm Rep. 2006 Sep 22;55(RR-14):1-17; quiz CE1-4. [119 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16988643&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Burstein GR, Eliscu A, Ford K, Hogben M, Chaffee T, Straub D, Shafii T, Huppert J. Expedited partner therapy for adolescents diagnosed with chlamydia or gonorrhea: a position paper of the Society for Adolescent Medicine. J Adolesc Health. 2009 Sep;45(3):303-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19699429&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Calonge N. Screening for syphilis infection: U.S. Preventive Service Task Force recommendation statement. Ann Fam Med. 2004;2(4):362-5. [18 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Centers for Disease Control and Prevention (CDC). Interim guidance for clinicians considering the use of preexposure prophylaxis for the prevention of HIV infection in heterosexually active adults. MMWR Morb Mortal Wkly Rep. 2012 Aug 10;61(31):586-9. [11 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22874836&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Centers for Disease Control and Prevention (CDC). Recommendations on the use of quadrivalent human papillomavirus vaccine in males - Advisory Committee on Immunization Practices (ACIP), 2011. MMWR Morb Mortal Wkly Rep. 2011 Dec 23;60(50):1705-8. [28 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22189893&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Child Welfare Information Gateway. Mandatory reporters of child abuse and neglect: Summary of state laws. Washington (DC): U.S. Department of Health and Human Services, Children's Bureau; 2010. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Committee on Environmental Health, Committee on Substance Abuse, Committee on Adolescence, Committee on Native American Child. From the American Academy of Pediatrics: Policy statement - Tobacco use: a pediatric disease. Pediatrics. 2009 Nov;124(5):1474-87. [101 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19841108&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Committee on Substance Abuse, Kokotailo PK. Alcohol use by youth and adolescents: a pediatric concern. Pediatrics. 2010 May;125(5):1078-87. [72 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20385640&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>D'Angelo LJ, Samples C, Rogers AS, Peralta L, Friedman L. HIV infection and AIDS in adolescents: an update of the position of the Society for Adolescent Medicine. J Adolesc Health. 2006 Jan;38(1):88-91. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16387258&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Division of STD Prevention. Male chlamydia screening consultation. Atlanta (GA): National Center for HIV/AIDS, Viral Hepatitis, STD and TB Prevention. U.S. Centers for Disease Control and Prevention; 2006. 11 p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Duderstadt KG, Anderson D, Barber C. NAPNAP position statement on the identification and prevention of overweight and obesity in the pediatric population. J Pediatr Health Care. 2009 Nov-Dec;23(6):A15-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19882803&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Fiore M, Jaen CR, Baker TB, Bailey WC, Benowitz N, Curry SJ, et al. Treating tobacco use and dependence: 2008 update. Rockville (MD): U.S. Department of Health and Human Services, Public Health Service; 2008 May. 257 p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Frey KA, Navarro SM, Kotelchuck M, Lu MC. The clinical content of preconception care: preconception care for men. Am J Obstet Gynecol. 2008 Dec;199(6 Suppl 2):S389-95. [44 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19081435&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Friedman L, Bell DL, Kahn JA, Marcell AV, Middleman AB, Rosenthal SL, Zimet GD. Human papillomavirus vaccine: an updated position statement of the Society for Adolescent Health and Medicine. J Adolesc Health. 2011 Feb;48(2):215-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21257124&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hagan JF Jr, Shaw JS, Duncan P, et al. Bright futures: Guidelines for health supervision of infants, children, and adolescents - third edition. Elk Grove Village (IL): American Academy of Pediatrics; 2008.  [17 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hamel J. Toward a gender-inclusive conception of intimate partner violence research and theory: Part 2 – New directions. Int J Men Health. 2009;8(1):41-59.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Heyman RB, Anglin TM, Copperman SM, Joffe A, McDonald CA, Rogers PD, Shah RZ, Armentano M, Boyd GM, Czechowicz D. American Academy of Pediatrics. Committee on Substance Abuse. Marijuana: A continuing concern for pediatricians. Pediatrics. 1999 Oct;104(4 Pt 1):982-5. [58 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10506247&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Jenny C, Crawford-Jakubiak JE, Committee on Child Abuse and Neglect, American Academy of Pediatrics. The evaluation of children in the primary care setting when sexual abuse is suspected. Pediatrics. 2013 Aug;132(2):e558-67. [71 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23897912&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kohn M, Rees JM, Brill S, Fonseca H, Jacobson M, Katzman DK, Loghmani ES, Neumark-Sztainer D, Schneider M. Preventing and treating adolescent obesity: a position paper of the Society for Adolescent Medicine. J Adolesc Health. 2006 Jun;38(6):784-7. [36 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16761338&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Koslap-Petraco MB, Tempfer T, Linguiti Pron A. NAPNAP position statement on immunizations. J Pediatr Health Care. 2006;20:41A-42A.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kostis JB, Jackson G, Rosen R, Barrett-Connor E, Billups K, Burnett AL, Carson C, Cheitlin M, Debusk R, Fonseca V, Ganz P, Goldstein I, Guay A, Hatzichristou D, Hollander JE, Hutter A, Katz S, Kloner RA, Mittleman M, Montorsi F, Montorsi P, Nehra A, Sadovsky R, Shabsigh R. Sexual dysfunction and cardiac risk (the Second Princeton Consensus Conference). Am J Cardiol. 2005 Jul 15;96(2):313-21. [53 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16018863&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Krebs NF, Jacobson MS, American Academy of Pediatrics Committee on Nutrition. Prevention of pediatric overweight and obesity. Pediatrics. 2003 Aug;112(2):424-30. [88 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12897303&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kulig JW, American Academy of Pediatrics Committee on Substance Abuse. Tobacco, alcohol, and other drugs: the role of the pediatrician in prevention, identification, and management of substance abuse. Pediatrics. 2005 Mar;115(3):816-21. [33 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15741395&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Marcell AV, Gibbs S, Lehmann HP, et al. A systematic review of brief condom interventions with males in clinical settings [under review]. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Marcell AV, Waks AB, Rutkow L, McKenna R, Rompalo A, Hogan MT. What do we know about males and emergency contraception? A synthesis of the literature. Perspect Sex Reprod Health. 2012 Sep;44(3):184-93. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22958663&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Marcell AV, Wibbelsman C, Siegel W, et al. Male adolescent sexual and reproductive health care: Clinical report for the Committee on Adolescence. Pediatrics. 2011;128(5):e1-19. [181 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Melnyk B, Baker D, Hawkins Walsh E, et al. NAPNAP position statement on integration of mental health care in pediatric primary care settings. J Pediatr Health Care. 2007;21:29A-30A.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Moyer VA, U.S. Preventive Services Task Force. Screening for HIV: U.S. Preventive Services Task Force Recommendation Statement. Ann Intern Med. 2013 Jul 2;159(1):51-60. [44 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23698354&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>National Heart Lung and Blood Institute (NHLBI), Obesity Education Initiative, Expert Panel on the Identification, Evaluation, and Treatment of Overweight and Obesity in Adults. Clinical guidelines on the identification, evaluation, and treatment of overweight and obesity in adults. Rockville (MD): U.S. Department of Health and Human Services, Public Health Service, National Institutes of Health (NIH), National Heart Lung and Blood Institute (NHLBI); 1998 Sep. 228 p.  [763 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>National Heart, Lung and Blood Institute. The seventh report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure. Washington (DC): National Heart, Lung and Blood Institute; 2004 Aug. 86 p.  [386 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>National High Blood Pressure Education Program Working Group on High Blood Pressure in Children. The fourth report on the diagnosis, evaluation, and treatment of high blood pressure in children and adolescents. Pediatrics. 2004 Aug;114(2 Suppl):555-76. [138 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15286277&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Novak J, Yousey Y, Jones DC, et al. NAPNAP position statement on prevention of tobacco use and effects in the pediatric population. Cherry Hill (NJ): National Association of Pediatric Nurse Practitioners; 2009. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Oberne A, McDermott RJ. How many steps does it take to put on a condom? - A commentary. J Sch Health. 2010 May;80(5):211-3. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20529193&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Promoting healthy sexual development and sexuality (Bright Future Theme 8). In: Hagan JF, Jr, Shaw JS, Duncan P, editor(s). Bright Futures: Guidelines for health supervision of infants, children, and adolescents-Third edition. Elk Grove Village (IL): American Academy of Pediatrics; 2008. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Qaseem A, Snow V, Shekelle P, Hopkins R Jr, Owens DK, Clinical Efficacy Assessment Subcommittee, American College of Physicians. Screening for HIV in health care settings: a guidance statement from the American College of Physicians and HIV Medicine Association. Ann Intern Med. 2009 Jan 20;150(2):125-31. [41 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19047022&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Shain BN, American Academy of Pediatrics Committee on Adolescence. Suicide and suicide attempts in adolescents. Pediatrics. 2007 Sep;120(3):669-76. [31 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17766542&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Smith BD, Morgan RL, Beckett GA, Falck-Ytter Y, Holtzman D, Teo CG, Jewett A, Baack B, Rein DB, Patel N, Alter M, Yartel A, Ward JW, Centers for Disease Control and Prevention. Recommendations for the identification of chronic hepatitis C virus infection among persons born during 1945-1965. MMWR Recomm Rep. 2012 Aug 17;61(RR-4):1-32. [99 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22895429&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Smith DK, Grohskopf LA, Black RJ, Auerbach JD, Veronese F, Struble KA, Cheever L, Johnson M, Paxton LA, Onorato IM, Greenberg AE. Antiretroviral postexposure prophylaxis after sexual, injection-drug use, or other nonoccupational exposure to HIV in the United States: recommendations from the U.S. Department of Health and Human Services. MMWR Recomm Rep. 2005 Jan 21;54(RR-2):1-26. [126 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15660015&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Society for Adolescent Health and Medicine, Marcell AV, Bell DL, Joffe A, SAHM Male Health Special Interest Group. The male genital examination: a position paper of the Society for Adolescent Health and Medicine. J Adolesc Health. 2012 Apr;50(4):424-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22443851&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>U.S. Preventive Services Task Force (USPSTF). Screening and behavioral counseling interventions in primary care to reduce alcohol misuse: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med. 2013 Aug 6;159(3):210-8. [35 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23698791&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>U.S. Preventive Services Task Force (USPSTF). Screening for hepatitis B virus infection: recommendation statement. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2004 Feb. 4 p.  [3 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>U.S. Preventive Services Task Force (USPSTF). Screening for illicit drug use: U.S. Preventive Services Task Force recommendation statement. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2008 Jan. 7 p.  [15 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>U.S. Preventive Services Task Force. Behavioral counseling to prevent sexually transmitted infections: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med. 2008 Oct 7;149(7):491-6, W95. [11 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18838729&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>U.S. Preventive Services Task Force. Counseling and interventions to prevent tobacco use and tobacco-caused disease in adults and pregnant women: U.S. Preventive Services Task Force reaffirmation recommendation statement. Ann Intern Med. 2009 Apr 21;150(8):551-5. [7 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19380855&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>U.S. Preventive Services Task Force. Primary care interventions to prevent tobacco use in children and adolescents: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med. 2013 Oct 15;159(8):552-7. [11 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23974083&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>U.S. Preventive Services Task Force. Screening for and management of obesity in adults: U.S. Preventive Services Task  Force recommendation statement. Ann Intern Med. 2012 Sep 4;157(5):373-8. [15 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22733087&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>U.S. Preventive Services Task Force. Screening for chlamydial infection: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med. 2007 Jul 17;147(2):128-34. [9 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17576996&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>U.S. Preventive Services Task Force. Screening for depression in adults: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med. 2009 Dec 1;151(11):784-92. [23 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19949144&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>U.S. Preventive Services Task Force. Screening for gonorrhea: recommendation statement. Ann Fam Med. 2005 May-Jun;3(3):263-7. [13 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15928231&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>U.S. Preventive Services Task Force. Screening for hepatitis C virus infection in adults: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med. 2013 Sep 3;159(5):349-57. [20 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23798026&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>U.S. Preventive Services Task Force. Screening for high blood pressure: U.S. Preventive Services Task Force reaffirmation recommendation statement. Ann Intern Med. 2007 Dec 4;147(11):783-6. [6 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18056662&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>U.S. Preventive Services Task Force. Screening for suicide risk: recommendation and rationale. Ann Intern Med. 2004 May 18;140(10):820-1. [4 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15148071&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>U.S. Preventive Services Task Force. Screening for type 2 diabetes mellitus in adults: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med. 2008 Jun 3;148(11):846-54. [52 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18519930&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>US Preventive Services Task Force. Screening and treatment for major depressive disorder in children and adolescents: US Preventive Services Task Force recommendation statement. Pediatrics. 2009 Apr;123(4):1223-8. [6 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19336383&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>US Preventive Services Task Force. Screening for obesity in children and adolescents: US Preventive Services Task Force recommendation statement. Pediatrics. 2010 Feb;125(2):361-7. [19 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20083515&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Williams JF, Storck M, American Academy of Pediatrics Committee on Substance Abuse, American Academy of Pediatrics Committee on Native American Child Health. Inhalant abuse. Pediatrics. 2007 May;119(5):1009-17. [66 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17473104&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Workowski KA, Berman S, Centers for Disease Control and Prevention (CDC). Sexually transmitted diseases treatment guidelines, 2010. MMWR Recomm Rep. 2010 Dec 17;59(RR-12):1-110. [489 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21160459&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of evidence supporting the recommendations is not specifically stated.</p>
+<p>This guideline was based on two systematic reviews and adaptations from guidelines developed by 19 organizations. See Appendix 1 in the original guideline document for a list of the developers. Citations to specific source guidelines are provided in the &quot;Major Recommendations&quot; field.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Improved delivery of family planning and preventive sexual and reproductive health care services for reproductive-aged males</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The content of preventive sexual and reproductive health care services described in this document is specific for males. While some recommendations are similar to those for women, others are uniquely for males based on current evidence. Further, sexual and reproductive health behaviors and outcomes may be best approached by directly or indirectly engaging couples. Although recommendations described in this document focus on services for individuals, the Male Training Center (MTC) encourages practitioners to consider their relevance to patients' partners and the importance of partner outreach, regardless of a partners' gender. </li>
+    <li>The guidance described in this document highlights best practices for delivering sexual and reproductive health care to reproductive-aged males. Whereas the publication <em>Providing Quality Family Planning Services</em> (QFP) had a more focused approach to providing guidance on family planning and preconception health, the MTC's approach emphasized addressing broader content on men's sexual and reproductive health. Further, content in this document highlights services important for all males including men who have sex with men (MSM) since this population has substantial sexual and reproductive health needs beyond human immunodeficiency virus (HIV) concerns which may also include planning families. </li>
+    <li>This document describes best practice recommendations for the organization and delivery of preventive clinical sexual and reproductive health services for reproductive-aged males in the U.S. by using an evidence-informed approach that takes into account both evidence and expert review. Although expert review may be on the lower end of the evidence ladder, it has merit and can be useful in the context when high-quality evidence in the published literature is lacking and when its limitations are mitigated through the use explicit and transparent procedures. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Investment in training and capacity-building will be necessary to successfully implement this guidance. Programs and staff, including clinicians, health counselors and educators, managers and administrative staff, and other clinic staff, will need to ensure they have the requisite knowledge, skills, and resources to effectively implement these recommendations. Programs may want to consider alternate staffing approaches to ensure efficient implementation. The Male Training Center (MTC) for Family Planning and Reproductive Health has tools available on its Web site (<a href=&quot;http://www.maletrainingcenter.org/&quot; title=&quot;Male Training Center for Family Planning and Reproductive Health (MTC) Web site&quot;>www.maletrainingcenter.org</a>), including tools for billing and coding for male services, patient educational materials, and training materials for conducting a male patient examination. The MTC has released a report on a national summary of clinicians' scope of practice pertaining to clinical services provided to males within the context of family planning settings. The MTC is available to help provide training and technical assistance with implementation of these recommendations, including support for issues associated with clinicians' scope of practice.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Patient Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Marcell AV, Male Training Center for Family Planning and Reproductive Health. Preventive male sexual and reproductive health care: recommendations for clinical practice. Philadelphia (PA): Male Training Center for Family Planning and Reproductive Health; 2014. 35 p.  [106 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This guideline was adapted from guidelines developed by 19 organizations. See Appendix 1 in the original guideline document for a list of the developers. Citations to specific source guidelines are provided in the &quot;Major Recommendations&quot; field.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2014"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="Male Training Center for Family Planning and Reproductive Health - Professional Association"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Male Training Center (MTC) was originally funded through a cooperative agreement (FPTPA006011) with the Office of Population Affairs, Department of Health and Human Services from September 2009 through December 2012. Although this funding has ended, the MTC is committed to continuing its work to improve the delivery of services to males in all settings.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Men's Health Technical Panel</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Technical Panel Members</em>: David Bell, MD, MPH, Assistant Professor, Columbia University; Willard Cates, MD, MPH, President of Research, Family Health International and Professor University of North Carolina, Chapel Hill; Linda Creegan, MS, FNP, Clinical Training Coordinator, California STD/HIV Prevention Training Center; Dennis Fortenberry, MD, MS, Associate Professor, Indiana University School of Medicine; Robert Garofalo, MD, MPH, Associate Professor, Children's Memorial Hospital, Northwestern University; Wendy Grube, PhD, CRNP, Practice Assistant Professor, University of Pennsylvania School of Nursing; Robert L. Johnson, MD, FAAP, Professor and Dean, New Jersey Medical School; Arik V. Marcell, MD, MPH, FAAP (<em>Chair</em>), Associate Professor, Johns Hopkins School of Medicine; Demetrius Porche, DNS, APRN, PhD, FAANP, Dean, Louisiana State University Health Sciences Center School of Nursing; Anne Rompalo, MD, ScM, Associate Professor, Johns Hopkins School of Medicine; Jacki Witt, JD, MSN, RNC, WHNP, CNM, Project Director, Clinical Training Center for Family Planning, University of Missouri, Kansas City; Thomas Walsh, MD, Assistant Professor of Urology, University of Washington Medical Center; Sandra Wolf, MD, Associate Professor, Drexel University School of Medicine</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Any disclosures from participants are available upon request.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;http://www.maletrainingcenter.org/wp-content/uploads/2014/09/MTC_White_Paper_2014_V2.pdf&quot; title=&quot;Male Training Center (MTC) for Family Planning and Reproductive Health Web site&quot;>Male Training Center (MTC) for Family Planning and Reproductive Health Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Marcell AV, Waks AB, Rutkow L, McKenna R, Rompalo A, Hogan MT. What do we know about males and emergency contraception? A synthesis of the literature. Perspec Sex Reprod Health. 2012 Sep;44(3):184-93. Electronic copies: Available to subscribers from the <a href=&quot;http://onlinelibrary.wiley.com/doi/10.1363/4418412/full&quot; title=&quot;Perspectives on Sexual and Reproductive Health Web site&quot;>Perspectives on Sexual and Reproductive Health Web site</a>. </li>
+    <li>Marcell AV, Gibbs S, Lehmann HP. Brief condom interventions targeting males in clinical settings: a meta-analysis. Contraception. 24 Sep 15. [Epub ahead of print]. Electronic copies: Available to subscribers from the <a href=&quot;http://www.contraceptionjournal.org/article/S0010-7824(15)00584-3/abstract&quot; title=&quot;Contraception Web site&quot;>Contraception Web site</a>. </li>
+    <li>Revision of the Title X program guidelines. A summary of recommendations for clinical practice: male sexual/reproductive healthcare. Resource materials for The Male Clinical Services Technical Panel. Philadelphia (PA): Male Training Center for Family Planning and Reproductive Health; 2011 Jul 25-26. 136 p. </li>
+    <li>Sample male family planning codes: CPT codes and ICD-9 codes. Philadelphia (PA): Male Training Center for Family Planning and Reproductive Health; 2010 Aug. 6 p. Electronic copies: Available from the <a href=&quot;http://www.maletrainingcenter.org/wp-content/uploads/2014/09/Sample-Male-Family-Planning-Codes.pdf&quot; title=&quot;Male Training Center (MTC) for Family Planning and Reproductive Health Web site&quot;>Male Training Center (MTC) for Family Planning and Reproductive Health Web site</a>. </li>
+    <li>Scope of clinical practice: a state by state guide. Philadelphia (PA): Male Training Center for Family Planning and Reproductive Health; 2013 Apr. 103 p. Electronic copies: Available from the <a href=&quot;http://www.maletrainingcenter.org/wp-content/uploads/2014/09/All-States-4-1-13.pdf&quot; title=&quot;Male Training Center (MTC) for Family Planning and Reproductive Health Web site&quot;>Male Training Center (MTC) for Family Planning and Reproductive Health Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Talking to him about birth control. Philadelphia (PA): Family Planning Council; 2010 Oct 18. 4 p. Electronic copies: Available from the <a href=&quot;http://www.maletrainingcenter.org/wp-content/uploads/2014/09/Talking-to-him-about-BC.pdf&quot; title=&quot;Male Training Center (MTC) for Family Planning and Reproductive Health Web site&quot;>Male Training Center (MTC) for Family Planning and Reproductive Health Web site</a>. </li>
+</ul>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on October 13, 2014. The information was verified by the guideline developer on November 10, 2014.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 22:14:16 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:50:46 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 681.086 (3)
+  esindex: 0.012
+  captures_list: 985.148
+  CDXLines.iter: 18.587 (3)
+  PetaboxLoader3.datanode: 730.645 (4)
+  exclusion.robots: 0.315
+  exclusion.robots.policy: 0.301
+  RedisCDXSource: 280.259
+  PetaboxLoader3.resolve: 378.762
+  load_resource: 463.231
+-->

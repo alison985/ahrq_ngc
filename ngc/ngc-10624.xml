@@ -1,0 +1,908 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app58.us.archive.org';v.server_ms=264;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10624?contentType=xml', '20180713005134')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713005134/https://www.guideline.gov/summaries/downloadcontent/ngc-10624?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713005134/https://www.guideline.gov/summaries/downloadcontent/ngc-10624?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10624?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713005134" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610044927/https://www.guideline.gov/summaries/downloadcontent/ngc-10624?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 00:51:34 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610044927/https://www.guideline.gov/summaries/downloadcontent/ngc-10624?contentType=xml" title="04:49:27 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 00:51:34 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930210225/https://www.guideline.gov/summaries/downloadcontent/ngc-10624?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 00:51:34 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713005134*/https://www.guideline.gov/summaries/downloadcontent/ngc-10624?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10624?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Colorectal cancer. The diagnosis and management of colorectal cancer.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td> National Collaborating Centre for Cancer. Colorectal cancer. The diagnosis and management of colorectal cancer. London (UK): National Institute for Health and Care Excellence (NICE); 2014 Dec. 50 p.&amp;nbsp;(Clinical guideline; no. 131).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: National Institute for Health and Clinical Excellence (NICE). Colorectal cancer. The diagnosis and management of colorectal cancer. London (UK): National Institute for Health and Clinical Excellence (NICE); 2011 Nov. 42 p. (Clinical guideline; no. 131).</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Cancer (NCC-C) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p>The following guidance is based on the best available evidence. The full version of the guideline gives details of the methods and the evidence used to develop the guidance. The guideline addendum (see the &quot;Availability of Companion Documents&quot; field) gives details of the methods and the evidence used to develop the 2014 update.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Investigation, Diagnosis and Staging</span></strong></p>
+<p>The recommendations in this section refer to people whose condition is being managed in secondary care. For recommendations for urgent referral from primary care for patients with suspected colorectal cancer see <a href=&quot;http://guidance.nice.org.uk/CG27&quot; title=&quot;NICE Web site&quot;>Referral for suspected cancer</a> (NICE clinical guideline 27).</p>
+<p><strong>Diagnostic Investigations</strong></p>
+<p>Advise the patient that more than one investigation may be necessary to confirm or exclude a diagnosis of colorectal cancer. <strong>[2011]</strong></p>
+<p>Offer colonoscopy to patients without major comorbidity, to confirm a diagnosis of colorectal cancer. If a lesion suspicious of cancer is detected, perform a biopsy to obtain histological proof of diagnosis, unless it is contraindicated (for example, patients with a blood clotting disorder). <strong>[2011]</strong></p>
+<p>Offer flexible sigmoidoscopy then barium enema for patients with major comorbidity. If a lesion suspicious of cancer is detected perform a biopsy unless it is contraindicated. <strong>[2011]</strong></p>
+<p>Consider computed tomographic (CT) colonography as an alternative to colonoscopy or flexible sigmoidoscopy then barium enema, if the local radiology service can demonstrate competency in this technique. If a lesion suspicious of cancer is detected on CT colonography, offer a colonoscopy with biopsy to confirm the diagnosis, unless it is contraindicated. <strong>[2011]</strong></p>
+<p>Offer patients who have had an incomplete colonoscopy:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Repeat colonoscopy <strong>or</strong> </li>
+    <li>CT colonography, if the local radiology service can demonstrate competency in this technique <strong>or</strong> </li>
+    <li>Barium enema <strong>[2011]</strong> </li>
+</ul>
+<p><strong>Staging of Colorectal Cancer</strong></p>
+<p>Offer contrast-enhanced CT of the chest, abdomen and pelvis, to estimate the stage of disease, to all patients diagnosed with colorectal cancer unless it is contraindicated. No further routine imaging is needed for patients with colon cancer. <strong>[2011]</strong></p>
+<p>Offer magnetic resonance imaging (MRI) to assess the risk of local recurrence, as determined by anticipated resection margin, tumour and lymph node staging, to all patients with rectal cancer unless it is contraindicated. <strong>[2011]</strong></p>
+<p>Offer endorectal ultrasound to patients with rectal cancer if MRI shows disease amenable to local excision or if MRI is contraindicated. <strong>[2011]</strong></p>
+<p>Do not use the findings of a digital rectal examination as part of the staging assessment. <strong>[2011]</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Management of Local Disease</span></strong></p>
+<p><strong>Preoperative Management of the Primary Tumour</strong></p>
+<p>For the purposes of this guideline,&amp;nbsp;three different risk groups of patients with rectal cancer have been defined, according to the risk of local recurrence. These groups are defined in the table below. <strong>[2011]</strong></p>
+<p><strong>Table: Risk of Local Recurrence for Rectal Tumours as Predicted by MRI</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Risk of Local Recurrence for Rectal Tumours as Predicted by MRI&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot;>Risk of Local Recurrence</th>
+            <th valign=&quot;top&quot;>Characteristics of Rectal Tumours Predicted by MRI</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot;>High</th>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>A threatened (&amp;lt;1 mm) or breached resection margin <strong>or</strong> </li>
+                <li>Low tumours encroaching onto the inter-sphincteric plane <strong>or</strong> with levator involvement </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>Moderate</th>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Any cT3b or greater, in which the potential surgical margin is not threatened <strong>or</strong> </li>
+                <li>Any suspicious lymph node not threatening the surgical resection margin <strong>or</strong> </li>
+                <li>The presence of extramural vascular invasion* </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>Low</th>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>cT1 or cT2 or cT3a <strong>and</strong> </li>
+                <li>No lymph node involvement </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class=&quot;Note&quot; valign=&quot;top&quot; colspan=&quot;2&quot;>*This feature is also associated with high risk of systemic recurrence.</td>
+        </tr>
+    </tbody>
+</table>
+<p><em>Patients Whose Primary Rectal Tumour Appears Resectable at Presentation</em></p>
+<p>Discuss the risk of local recurrence, short-term and long-term morbidity and late effects with the patient after discussion in the multidisciplinary team (MDT). <strong>[2011]</strong></p>
+<p>Do not offer short-course preoperative radiotherapy (SCPRT) or chemoradiotherapy to patients with low-risk operable rectal cancer (see table above for risk groups), unless as part of a clinical trial. <strong>[2011]</strong></p>
+<p>Consider SCPRT then immediate surgery for patients with moderate-risk operable rectal cancer (see table above for risk groups). Consider preoperative chemoradiotherapy with an interval to allow tumour response and shrinkage before surgery for patients with tumours that are borderline between moderate and high risk. <strong>[2011]</strong></p>
+<p>Offer preoperative chemoradiotherapy with an interval before surgery to allow tumour response and shrinkage (rather than SCPRT), to patients with high-risk operable rectal cancer (see table above for risk groups). <strong>[2011]</strong></p>
+<p><em>Patients Whose Primary Colon or Rectal Tumour Appears Unresectable or Borderline Resectable</em></p>
+<p>Discuss the risk of local recurrence and late toxicity with patients with rectal cancer after discussion in the MDT. <strong>[2011]</strong></p>
+<p>Offer preoperative chemoradiotherapy with an interval before surgery, to allow tumour response and shrinkage, to patients with high-risk locally advanced rectal cancer. <strong>[2011]</strong></p>
+<p>Do not offer preoperative chemoradiotherapy solely to facilitate sphincter-sparing surgery to patients with rectal cancer. <strong>[2011]</strong></p>
+<p>Do not routinely offer preoperative chemotherapy alone for patients with locally advanced colon or rectal cancer unless as part of a clinical trial. <strong>[2011]</strong></p>
+<p><strong>Colonic Stents in Acute Large Bowel Obstruction</strong></p>
+<p>If considering the use of a colonic stent in patients presenting with acute large bowel obstruction, offer CT of the chest, abdomen and pelvis to confirm the diagnosis of mechanical obstruction, and to determine whether the patient has metastatic disease or colonic perforation. <strong>[2011]</strong></p>
+<p>Do not use contrast enema studies as the only imaging modality in patients presenting with acute large bowel obstruction. <strong>[2011]</strong></p>
+<p>For patients with acute left-sided large bowel obstruction caused by colorectal cancer that is potentially curable, and for whom surgery is suitable:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Resuscitate patients and explain to them and their family members or carers (as appropriate) that acute bowel obstruction can initially be managed either with emergency surgery or a colonic stent, and that there is no clear evidence that one treatment is better than the other. <strong>[new 2014]</strong> </li>
+    <li>Offer patients the chance to take part in a randomised controlled trial<sup>1</sup> (if available) that compares emergency surgery with colonic stent insertion to initially manage acute bowel obstruction. <strong>[new 2014]</strong> </li>
+</ul>
+<p>For patients with acute left-sided large bowel obstruction caused by colorectal cancer that is not potentially curable, or for whom surgery is unsuitable: <strong>[new 2014]</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Resuscitate patients with acute large bowel obstruction, then consider placing a self-expanding metallic stent to initially manage a left-sided complete or near-complete colonic obstruction. <strong>[2011]</strong> </li>
+    <li>A consultant colorectal surgeon should consider inserting a colonic stent in patients presenting with acute large bowel obstruction. They should do this together with an endoscopist or a radiologist (or both) who is experienced in using colonic stents. <strong>[2011]</strong> </li>
+</ul>
+<p>Do not place self-expanding metallic stents:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>In low rectal lesions <strong>or</strong> </li>
+    <li>To relieve right-sided colonic obstruction <strong>or</strong> </li>
+    <li>If there is clinical or radiological evidence of colonic perforation or peritonitis <strong>[2011]</strong> </li>
+</ul>
+<p>Do not dilate the tumour before inserting the self-expanding metallic stent. <strong>[2011]</strong></p>
+<p>Only a healthcare professional experienced in placing colonic stents who has access to fluoroscopic equipment and trained support staff should insert colonic stents. <strong>[2011]</strong></p>
+<p class=&quot;Note&quot;><sup>1</sup>At the time of publication (December 2014), the CReST trial was recruiting patients with acute bowel obstruction caused by suspected colorectal cancer for randomisation to either colonic stent insertion or emergency surgery.</p>
+<p><strong>Stage I Colorectal Cancer</strong></p>
+<p>The colorectal MDT should consider further treatment for patients with locally excised, pathologically confirmed stage I cancer, taking into account pathological characteristics of the lesion, imaging results and previous treatments. <strong>[2011]</strong></p>
+<p>Offer further treatment to patients whose tumour had involved resection margins (less than 1 mm). <strong>[2011]</strong></p>
+<p><strong>Stage I Rectal Cancer</strong></p>
+<p>An early rectal cancer MDT<sup>2</sup> should decide which treatment to offer to patients with stage I rectal cancer, taking into account previous treatments, such as radiotherapy. <strong>[2011]</strong></p>
+<p>After discussion in the MDT responsible for the management of stage I rectal cancer, discuss uncertainties about the potential risks and benefits of all treatment options with patients and their family members and carers (as appropriate), taking into account each patient's circumstances. <strong>[new 2014]</strong></p>
+<p>Explain to patients and their family members or carers (as appropriate) that there is very little good-quality evidence comparing treatment options for stage I rectal cancer. <strong>[new 2014]</strong></p>
+<p>Offer patients the chance to take part in a randomised controlled trial (if available) that compares treatment options for stage I rectal cancer. <strong>[new 2014]</strong></p>
+<p class=&quot;Note&quot;><sup>2</sup>See <a href=&quot;http://www.nice.org.uk/guidance/CSGCC&quot; title=&quot;NICE Web site&quot;>Improving outcomes in colorectal cancer (NICE cancer service guidance)</a>.</p>
+<p><strong>Laparoscopic Surgery</strong></p>
+<p>The recommendations in this section are from <a href=&quot;http://guidance.nice.org.uk/TA105&quot; title=&quot;NICE Web site&quot;>Laparoscopic surgery for colorectal cancer</a> (NICE technology appraisal guidance 105).</p>
+<p>Laparoscopic (including laparoscopically assisted) resection is recommended as an alternative to open resection for individuals with colorectal cancer in whom both laparoscopic and open surgery are considered suitable. <strong>[2006]</strong></p>
+<p>Laparoscopic colorectal surgery should be performed only by surgeons who have completed appropriate training in the technique and who perform this procedure often enough to maintain competence. The exact criteria to be used should be determined by the relevant national professional bodies. Cancer networks and constituent trusts should ensure that any local laparoscopic colorectal surgical practice meets these criteria as part of their clinical governance arrangements. <strong>[2006]</strong></p>
+<p>The decision about which of the procedures (open or laparoscopic) is undertaken should be made after informed discussion between the patient and the surgeon. In particular, they should consider:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The suitability of the lesion for laparoscopic resection </li>
+    <li>The risks and benefits of the two procedures </li>
+    <li>The experience of the surgeon in both procedures <strong>[2006]</strong> </li>
+</ul>
+<p><strong>Adjuvant Chemotherapy in Rectal Cancer</strong></p>
+<p>Assess pathological staging after surgery, before deciding whether to offer adjuvant chemotherapy. <strong>[2011]</strong></p>
+<p>Consider adjuvant chemotherapy for patients with high-risk stage II and all stage III rectal cancer to reduce the risk of local and systemic recurrence. <strong>[2011]</strong></p>
+<p><strong>Adjuvant Chemotherapy for High-risk Stage II Colon Cancer</strong></p>
+<p>Consider adjuvant chemotherapy after surgery for patients with high-risk stage II colon cancer. Fully discuss the risks and benefits with the patient. <strong>[2011]</strong> </p>
+<p><strong>Adjuvant Chemotherapy for Stage III Colon Cancer</strong></p>
+<p>The recommendations in this section are from <a href=&quot;http://guidance.nice.org.uk/TA100&quot; title=&quot;NICE Web site&quot;>Capecitabine and oxaliplatin in the adjuvant treatment of stage III (Dukes' C) colon cancer</a> (NICE technology appraisal guidance 100).</p>
+<p>The following are recommended as options for the adjuvant treatment of patients with stage III (Dukes' C) colon cancer following surgery for the condition:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Capecitabine as monotherapy </li>
+    <li>Oxaliplatin in combination with 5-fluorouracil and folinic acid <strong>[2006]</strong> </li>
+</ul>
+<p>The choice of adjuvant treatment should be made jointly by the individual and the clinicians responsible for treatment. The decision should be made after an informed discussion between the clinicians and the patient; this discussion should take into account contraindications and the side-effect profile of the agent(s) and the method of administration as well as the clinical condition and preferences of the individual. <strong>[2006]</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Management of Metastatic Disease</span></strong></p>
+<p><strong>Patients Presenting with Stage IV Colorectal Cancer</strong></p>
+<p>Prioritise treatment to control symptoms if at any point the patient has symptoms from the primary tumour. <strong>[2011]</strong></p>
+<p>If both primary and metastatic tumours are considered resectable, anatomical site-specific MDTs should consider initial systemic treatment followed by surgery, after full discussion with the patient. The decision on whether the operations are done at the same time or separately should be made by the site-specialist MDTs in consultation with the patient. <strong>[2011]</strong></p>
+<p><strong>Imaging Hepatic Metastases</strong></p>
+<p>If the CT scan shows metastatic disease only in the liver and the patient has no contraindications to further treatment, a specialist hepatobiliary MDT should decide if further imaging to confirm surgery is suitable for the patient &amp;ndash; or potentially suitable after further treatment &amp;ndash; is needed. <strong>[2011]</strong></p>
+<p><strong>Imaging Extra-hepatic Metastases</strong></p>
+<p>Offer contrast-enhanced CT of the chest, abdomen and pelvis to patients being assessed for metastatic colorectal cancer. <strong>[2011]</strong></p>
+<p>If intracranial disease is suspected, offer contrast-enhanced MRI of the brain. Do not offer imaging of the head, neck and limbs unless involvement of these sites is suspected clinically. <strong>[2011]</strong></p>
+<p>Discuss all imaging with the patient following review by the appropriate anatomical site-specific MDT. <strong>[2011]</strong></p>
+<p>If the CT scan shows the patient may have extra-hepatic metastases that could be amenable to further radical surgery, an anatomical site-specific MDT should decide whether a positron emission tomography-CT (PET-CT) scan of the whole body is appropriate. <strong>[2011]</strong></p>
+<p>If contrast-enhanced CT suggests disease in the pelvis, offer an MRI of the pelvis and discuss in the colorectal cancer MDT. <strong>[2011]</strong></p>
+<p>If the diagnosis of extra-hepatic recurrence remains uncertain, keep the patient under clinical review and offer repeat imaging at intervals agreed between the healthcare professional and the patient. <strong>[2011]</strong></p>
+<p><strong>Chemotherapy for Advanced and Metastatic Colorectal Cancer</strong></p>
+<p><em>Oxaliplatin and Irinotecan in Combination with Fluoropyrimidines</em></p>
+<p>When offering multiple chemotherapy drugs to patients with advanced and metastatic colorectal cancer, consider one of the following sequences of chemotherapy unless they are contraindicated:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>FOLFOX (folinic acid plus fluorouracil plus oxaliplatin) as first-line treatment then single agent irinotecan as second-line treatment <strong>or</strong> </li>
+    <li>FOLFOX as first-line treatment then FOLFIRI (folinic acid plus fluorouracil plus irinotecan<sup>3</sup>) as second-line treatment <strong>or</strong> </li>
+    <li>XELOX (capecitabine plus oxaliplatin) as first-line treatment then FOLFIRI as second-line treatment <strong>[2011]</strong> </li>
+</ul>
+<p>Decide which combination and sequence of chemotherapy to use after full discussion of the side effects and the patient's preferences. <strong>[2011]</strong></p>
+<p class=&quot;Note&quot;><sup>3</sup>At the time of publication (November 2011), irinotecan did not have a UK marketing authorisation for this indication. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's Good practice in prescribing and managing medicines and devices for further information.</p>
+<p><em>Raltitrexed</em></p>
+<p>Consider raltitrexed only for patients with advanced colorectal cancer who are intolerant to 5-fluorouracil and folinic acid, or for whom these drugs are not suitable (for example, patients who develop cardiotoxicity). Fully discuss the risks and benefits of raltitrexed with the patient. <strong>[2011]</strong></p>
+<p>Prospectively collect data on quality of life, toxicity, response rate, progression-free survival, and overall survival for all patients taking raltitrexed. <strong>[2011]</strong></p>
+<p><em>Capecitabine and Tegafur with Uracil</em></p>
+<p>The recommendations in this section are from <a href=&quot;http://guidance.nice.org.uk/TA61&quot; title=&quot;NICE Web site&quot;>Guidance on the use of capecitabine and tegafur with uracil for metastatic colorectal cancer</a> (NICE technology appraisal guidance 61).</p>
+<p>Oral therapy with either capecitabine or tegafur with uracil (in combination with folinic acid) is recommended as an option for the first-line treatment of metastatic colorectal cancer. <strong>[2003]</strong></p>
+<p>The choice of regimen (intravenous 5-fluorouracil and folinic acid or one of the oral therapies) should be made jointly by the individual and the clinician(s) responsible for treatment. The decision should be made after an informed discussion between the clinician(s) and the patient; this discussion should take into account contraindications and the side-effect profile of the agents as well as the clinical condition and preferences of the individual. <strong>[2003]</strong></p>
+<p>The use of capecitabine or tegafur with uracil to treat metastatic colorectal cancer should be supervised by oncologists who specialise in colorectal cancer. <strong>[2003]</strong></p>
+<p><em>Biological Agents in Metastatic Colorectal Cancer</em></p>
+<p>Refer to the NICE technology appraisal <a href=&quot;http://guidance.nice.org.uk/TA212&quot; title=&quot;NICE Web site&quot;>Bevacizumab in combination with oxaliplatin and either 5FU or capecitabine for the treatment of metastatic colorectal cancer</a> (NICE technology appraisal guidance 212).</p>
+<p>Refer to the NICE technology appraisal <a href=&quot;http://www.nice.org.uk/guidance/ta176&quot; title=&quot;NICE Web site&quot;>Cetuximab for the first-line treatment of metastatic colorectal cancer</a> (NICE technology appraisal guidance 176).</p>
+<p>Refer to the NICE technology appraisal <a href=&quot;http://www.nice.org.uk/guidance/TA242&quot; title=&quot;NICE Web site&quot;>Cetuximab, bevacizumab and panitumumab for the treatment of metastatic colorectal cancer after first-line chemotherapy: cetuximab (monotherapy or combination chemotherapy), bevacizumab (in combination with non-oxaliplatin chemotherapy) and panitumumab (monotherapy) for the treatment of metastatic colorectal cancer after first-line chemotherapy</a> (NICE technology appraisal guidance 242).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Ongoing Care and Support</span></strong></p>
+<p><strong>Follow-up After Apparently Curative Resection</strong></p>
+<p>Offer follow-up to all patients with primary colorectal cancer undergoing treatment with curative intent. Start follow-up at a clinic visit 4 to 6 weeks after potentially curative treatment. <strong>[2011]</strong></p>
+<p>Offer patients regular surveillance with:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A minimum of 2 CTs of the chest, abdomen, and pelvis in the first 3 years <strong>and</strong> </li>
+    <li>Regular serum carcinoembryonic antigen tests (at least every 6 months in the first 3 years) <strong>[2011]</strong> </li>
+</ul>
+<p>Offer a surveillance colonoscopy at 1 year after initial treatment. If this investigation is normal consider further colonoscopic follow-up after 5 years, and thereafter as determined by cancer networks. The timing of surveillance for patients with subsequent adenomas should be determined by the risk status of the adenoma. <strong>[2011]</strong></p>
+<p>Start reinvestigation if there is any clinical, radiological or biochemical suspicion of recurrent disease. <strong>[2011]</strong></p>
+<p>Stop regular follow-up:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>When the patient and the healthcare professional have discussed and agreed that the likely benefits no longer outweigh the risks of further tests <strong>or</strong> </li>
+    <li>When the patient cannot tolerate further treatments <strong>[2011]</strong> </li>
+</ul>
+<p><strong>Information About Bowel Function</strong></p>
+<p>Before starting treatment, offer all patients information on all treatment options available to them (including no treatment) and the potential benefits and risks of these treatments, including the effect on bowel function. <strong>[2011]</strong></p>
+<p>Before surgery, offer all patients information about the likelihood of having a stoma, why it might be necessary, and how long it might be needed for. <strong>[2011]</strong></p>
+<p>Ensure a trained stoma professional gives specific information on the care and management of stomas to all patients considering surgery that might result in a stoma. <strong>[2011]</strong></p>
+<p>After any treatment, offer all patients specific information on managing the effects of the treatment on their bowel function. This could include information on incontinence, diarrhoea, difficulty emptying bowels, bloating, excess flatus and diet, and where to go for help in the event of symptoms. <strong>[2011]</strong></p>
+<p>Offer verbal and written information in a way that is clearly understood by patients and free from jargon. Include information about support organisations or internet resources recommended by the clinical team. <strong>[2011]</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><strong>Strength of Recommendations</strong></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><em>Interventions That Must (or Must Not) Be Used</em></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally 'must' (or 'must not') is used if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><em>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation</em></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost effective. Similar forms of words (for example, 'Do not offer&amp;hellip;') are used when the GDG is confident that an intervention will not be of benefit for most patients.</p>
+<p><em>Interventions That Could Be Used</em></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most patients, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient.</p>
+<p><em>Recommendation Wording in Guideline Updates</em></p>
+<p>NICE began using this approach to denote the strength of recommendations in guidelines that started development after publication of the 2009 version of 'The guidelines manual' (January 2009). This does not apply to any recommendations ending <strong>[2006]</strong> or <strong>[2003]</strong> (see 'Update information' in the original guideline document for details about how recommendations are labelled). In particular, for recommendations labelled <strong>[2006]</strong> or <strong>[2003]</strong> the word 'consider' may not necessarily be used to denote the strength of the recommendation.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A National Institute for Health and Care Excellence (NICE) care pathway titled &quot;Colorectal Cancer Overview&quot; is available from the <a href=&quot;http://pathways.nice.org.uk/pathways/colorectal-cancer&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Colorectal cancer</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Colon and Rectal Surgery"/>
+      <fieldvalue value="Gastroenterology"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Oncology"/>
+      <fieldvalue value="Radiation Oncology"/>
+      <fieldvalue value="Radiology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Patients"/>
+      <fieldvalue value="Pharmacists"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To provide best practice advice on the care of patients with colorectal cancer </li>
+    <li>To prepare a clinical guideline on the diagnosis and management of patients with all stages of primary colorectal cancer </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Adults (18 years and older) with newly diagnosed adenocarcinoma of the colon </li>
+    <li>Adults with newly diagnosed adenocarcinoma of the rectum </li>
+    <li>Adults with relapsed adenocarcinoma of the colon </li>
+    <li>Adults with relapsed adenocarcinoma of the rectum </li>
+</ul>
+<p class=&quot;Note&quot;><strong>Note</strong>: Patients that are not covered in the guideline:</p>
+<ul class=&quot;contentListFont&quot;>
+    <li>Patients with anal cancer </li>
+    <li>Children (younger than 18) with colorectal cancer </li>
+    <li>Patients with primary or secondary lymphoma of the colon and rectum </li>
+    <li>Patients with pure small cell carcinoma of the colon and rectum </li>
+    <li>Patients with carcinoid tumours of the colon and rectum </li>
+    <li>Patients with high grade neuroendocrine tumours of the colon and rectum </li>
+    <li>Patients with adenocarcinoma with some neuroendocrine differentiation </li>
+    <li>Patients with gastrointestinal stromal tumours (GIST) or sarcoma of the colon and rectum </li>
+</ul>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Diagnosis/Evaluation</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Colonoscopy </li>
+    <li>Flexible sigmoidoscopy </li>
+    <li>Barium enema </li>
+    <li>Computed tomographic (CT) colonography </li>
+    <li>Staging of colorectal cancer
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Contrast-enhanced CT of the chest, abdomen and pelvis </li>
+        <li>Magnetic resonance imaging (MRI) </li>
+        <li>Endorectal ultrasound </li>
+    </ul>
+    </li>
+</ol>
+<p><strong>Management/Treatment</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Preoperative management of primary tumour (short-course preoperative radiotherapy [SCPRT] or chemoradiotherapy, surgery) </li>
+    <li>Colonic stents in acute large bowel obstruction </li>
+    <li>Discussion of benefits and risks of treatment options with patients, family members and carers </li>
+    <li>Laparoscopic resection as an alternative to open resection in eligible patients </li>
+    <li>Assessment of pathological staging after surgery, before giving adjuvant chemotherapy </li>
+    <li>Adjuvant chemotherapy for high-risk stage II and III rectal cancer </li>
+    <li>Adjuvant chemotherapy for high-risk stage II colon cancer </li>
+    <li>Adjuvant chemotherapy for stage III colon cancer
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Capecitabine as monotherapy </li>
+        <li>Oxaliplatin in combination with 5-fluorouracil and folinic acid </li>
+    </ul>
+    </li>
+    <li>Management of stage IV (metastatic) disease
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Imaging hepatic and extra-hepatic metastases </li>
+        <li>FOLFOX (folinic acid plus fluorouracil plus oxaliplatin) as first-line treatment then single agent irinotecan as second-line treatment </li>
+        <li>FOLFOX as first-line treatment then FOLFIRI (folinic acid plus fluorouracil plus irinotecan) as second-line treatment </li>
+        <li>XELOX (capecitabine plus oxaliplatin) as first-line treatment then FOLFIRI as second-line treatment </li>
+        <li>Raltitrexed in patients who are intolerant to 5-fluorouracil and folinic acid </li>
+        <li>Capecitabine and tegafur with uracil </li>
+        <li>Biological agents </li>
+    </ul>
+    </li>
+    <li>Clinical trial participation (if available) </li>
+    <li>Ongoing care and support </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Sensitivity and specificity of diagnostic tests </li>
+    <li>Overall, 5-year, 10-year, median, and disease-free survival </li>
+    <li>Treatment-related morbidity and mortality </li>
+    <li>Number and severity of adverse events </li>
+    <li>Quality of life </li>
+    <li>Cost effectiveness</li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Cancer (NCC-C) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>2011 Guideline</span></strong></p>
+<p><strong>Review of Clinical Literature</strong></p>
+<p><em>Scoping Search</em></p>
+<p>An initial scoping search for published guidelines, systematic reviews, economic evaluations and ongoing research was carried out on the following databases or websites: National Library for Health (NLH) Guidelines Finder (now NHS Evidence), National Guideline Clearinghouse, Cochrane Database of Systematic Reviews (CDSR), Heath Technology Assessment Database (HTA), National Health Service Economic Evaluations Database (NHS EED), DH Data, Medline and EMBASE.</p>
+<p>At the beginning of the development phase, initial scoping searches were carried out to identify any relevant guidelines (local, national or international) produced by other groups or institutions.</p>
+<p><em>Developing the Review Protocol</em></p>
+<p>For each clinical question (see Appendix 5 in the full version of the guideline), the information specialist and researcher (with input from other technical team and Guideline Development Group [GDG] members) prepared a review protocol. This protocol explains how the review was to be carried out (see Table A in the full version of the guideline) in order to develop a plan of how to review the evidence, limit the introduction of bias and for the purposes of reproducibility. All review protocols can be found in the full evidence review (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p><em>Searching for the Evidence</em></p>
+<p>In order to answer each question the National Collaborating Centre for Cancer (NCC-C) information specialist developed a search strategy to identify relevant published evidence for both clinical and cost effectiveness. Key words and terms for the search were agreed in collaboration with the GDG. When required, the health economist searched for supplementary papers to inform detailed health economic work (see 'Incorporating Health Economic Evidence' section below).</p>
+<p>Search filters, such as those to identify systematic reviews (SRs) and randomised controlled trials (RCTs) were applied to the search strategies when there was a wealth of these types of studies. No language restrictions were applied to the search; however, foreign language papers were not requested or reviewed (unless of particular importance to that question).</p>
+<p>The following databases were included in the literature search:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Cochrane Library </li>
+    <li>Medline and Premedline 1950 onwards </li>
+    <li>Excerpta Medica (EMBASE) 1980 onwards </li>
+    <li>Cumulative Index to Nursing and Allied Health Literature (CINAHL) 1982 onwards </li>
+    <li>Allied &amp;amp; Complementary Medicine (AMED) 1985 onwards </li>
+    <li>British Nursing Index (BNI) 1985 onwards </li>
+    <li>PsycINFO 1806 onwards </li>
+    <li>Web of Science (specifically Science Citation Index Expanded [SCI-EXPANDED] 1899 onwards and Social Sciences Citation Index [SSCI] 1956 onwards) </li>
+    <li>Biomed Central 1997 onwards </li>
+</ul>
+<p>From this list the information specialist sifted and removed any irrelevant material based on the title or abstract before passing to the researcher. All the remaining articles were then stored in a Reference Manager electronic library.</p>
+<p>Searches were updated and re-run 6 to 8 weeks before the stakeholder consultation, thereby ensuring that the latest relevant published evidence was included in the database. Any evidence published after this date was not included. For the purposes of updating this guideline, 25 February 2011 should be considered the starting point for searching for new evidence.</p>
+<p>Further details of the search strategies, including the methodological filters used, are provided in the evidence review.</p>
+<p><strong>Incorporating Health Economics Evidence</strong></p>
+<p>The aim of providing economic input into the development of the guideline was to inform the GDG of potential economic issues relating to the diagnosis and management of colorectal cancer. Health economics is about improving the health of the population through the efficient use of resources. In addition to assessing clinical effectiveness, it is important to investigate whether health services are being used in a cost effective manner in order to maximise health gain from available resources.</p>
+<p><em>Prioritising Topics for Economic Analysis</em></p>
+<p>After the clinical questions had been defined, and with the help of the health economist, the GDG discussed and agreed which of the clinical questions were potential priorities for economic analysis. These economic priorities were chosen on the basis of the following criteria, in broad accordance with the NICE guidelines manual (NICE 2009):</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The overall importance of the recommendation, which may be a function of the number of patients affected and the potential impact on costs and health outcomes per patient </li>
+    <li>The current extent of uncertainty over cost effectiveness, and the likelihood that economic analysis will reduce this uncertainty </li>
+</ul>
+<p>In addition, for clinical questions in the guideline that related to updates of technology appraisals, an evaluation of cost effectiveness was required if significant new clinical evidence had become available or if costs had changed since the original technology appraisal was published.</p>
+<p>For each topic that was considered a high priority for economic analysis, a review of the economic literature was conducted. Where published economic evaluation studies were identified that addressed the economic issues for a clinical question, these are presented alongside the clinical evidence wherever possible. For those clinical areas reviewed, the information specialists used a similar search strategy as used for the review of clinical evidence but with the inclusion of a health economics filter.</p>
+<p>For systematic searches of published economic evidence, the following databases were included:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Medline </li>
+    <li>EMBASE </li>
+    <li>Cochrane </li>
+    <li>NHS EED </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>2014 Update</span></strong></p>
+<p>See Appendices D and P in the Addendum to Clinical Guideline 131, Colorectal Cancer (see the &quot;Availability of Companion Documents&quot; field) for the search strategies for Review Questions 1 and 2.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>2011 Guideline</strong></p>
+<p>Not stated</p>
+<p><strong>2014 Update</strong></p>
+<p>See Appendices E and Q in the Addendum to Clinical Guideline 131, Colorectal Cancer (see the &quot;Availability of Companion Documents&quot; field) for the number of articles retrieved for Review Questions 1 and 2.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Overall Quality of Outcome Evidence in Grading of Recommendations, Assessment, Development and Evaluation (GRADE)&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot;>Quality Element</th>
+            <th valign=&quot;top&quot;>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot;>High</th>
+            <td valign=&quot;top&quot;>Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>Moderate</th>
+            <td valign=&quot;top&quot;>Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>Low</th>
+            <td valign=&quot;top&quot;>Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>Very low</th>
+            <td valign=&quot;top&quot;>Any estimate of effect is very uncertain.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Meta-Analysis"/>
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Cancer (NCC-C) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>2011 Guideline</span></strong></p>
+<p><strong>Critical Appraisal</strong></p>
+<p>From the literature search results database, one researcher scanned the titles and abstracts of every article for each question and full publications were ordered for any studies considered relevant or if there was insufficient information from the title and abstract to inform a decision. When the papers were obtained the researcher applied inclusion/exclusion criteria to select appropriate studies, which were then critically appraised. For each question, data on the type of population, intervention, comparator and outcomes (PICO) were extracted and recorded in evidence tables and an accompanying evidence summary prepared for the Guideline Development Group (GDG) (see evidence review; see the &quot;Availability of Companion Documents&quot; field). All evidence was considered carefully by the GDG for accuracy and completeness.</p>
+<p><strong>Grading of Recommendations Assessment, Development and Evaluation (GRADE)</strong></p>
+<p>For interventional questions, studies which matched the inclusion criteria were evaluated and presented using a modification of GRADE (NICE 2009; <a href=&quot;http://gradeworkinggroup.org/&quot; title=&quot;GRADE Working Group Web site&quot;>http://gradeworkinggroup.org/</a>). Where possible this included meta-analysis and synthesis of data into a GRADE 'evidence profile'. The evidence profile shows, for each outcome, an overall assessment of both the quality of the evidence as a whole (low, moderate or high) as well as an estimate of the size of effect. A narrative summary (evidence statement) was also prepared.</p>
+<p>Each topic outcome was examined for the quality elements defined in Table B in the full version of the guideline and subsequently graded using the quality levels listed in the Rating Scheme for the Strength of the Evidence field. The reasons for downgrading or upgrading specific outcomes were explained in footnotes.</p>
+<p>All procedures were fully compliant with NICE methodology as detailed in the 'NICE guidelines manual' (NICE, 2009). In general, no formal contact was made with authors; however, there were ad hoc occasions when this was required in order to clarify specific details.</p>
+<p><strong>Incorporating Health Economics Evidence</strong></p>
+<p><em>Methods for Reviewing and Appraising Economic Evidence</em></p>
+<p>The aim of reviewing and appraising the existing economic literature is to identify relevant economic evaluations that compare both costs and health consequences of alternative interventions and that are applicable to National Health Service (NHS) practice. Thus studies that only report costs, non-comparative studies or 'cost of illness' studies are generally excluded from the reviews.</p>
+<p>Economic studies identified through a systematic search of the literature are appraised using a methodology checklist designed for economic evaluations. This checklist is not intended to judge the quality of a study per se, but to determine whether an existing economic evaluation is useful to inform the decision-making of the GDG for a specific topic within the guideline. There are two parts to the appraisal process; the first step is to assess applicability (i.e., the relevance of the study to the specific guideline topic and the NICE reference case) (see Table D in the full version of the guideline).</p>
+<p>In the second step, only those studies deemed directly or partially applicable are further assessed for limitations (i.e., the methodological quality, see Table D in the full version of the guideline).</p>
+<p>Where relevant, a summary of the main findings from the systematic search, review and appraisal of economic evidence is presented in an economic evidence profile alongside the GRADE table for clinical evidence.</p>
+<p>For priority topics, if high-quality published economic evidence relevant to current NHS practice was identified through the search, the existing literature was reviewed and appraised as described above. However, it is often the case that published economic studies may not be directly relevant to the specific clinical question as defined in the guideline or may not be comprehensive or conclusive enough to inform UK practice. In such cases, consideration was given to undertaking a new economic analysis as part of this guideline.</p>
+<p><strong>Economic Modelling</strong></p>
+<p>Once the need for a new economic analysis for high priority topics had been agreed by the GDG, the health economist investigated the feasibility of developing an economic model. Following this assessment, a decision was made to develop an integrated mixed treatment comparison and economic model to address the topic oxaliplatin and irinotecan-based chemotherapy in metastatic colorectal cancer. Full details of this analysis are presented in Appendix 2 in the full version of the guideline. In the development of the analysis, the following general principles were adhered to:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The GDG subgroup was consulted during the construction and interpretation of the analysis </li>
+    <li>The analysis was based on the best available clinical evidence from the systematic review </li>
+    <li>Assumptions were reported fully and transparently </li>
+    <li>Uncertainty was explored through sensitivity analysis </li>
+    <li>Costs were calculated from a health services perspective </li>
+    <li>Outcomes were reported in terms of quality-adjusted life years </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>2014 Update</span></strong></p>
+<p>See Appendices H and T in the Addendum to Clinical Guideline 131, Colorectal Cancer (see the &quot;Availability of Companion Documents&quot; field) for the GRADE profiles for Review Questions 1 and 2.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+      <fieldvalue value="Informal Consensus"/>
+      <fieldvalue value="Other"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Cancer (NCC-C) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>2011 Guideline</span></strong></p>
+<p><strong>The Guideline Development Group (GDG)</strong></p>
+<p>The colorectal cancer GDG was recruited in line with the NICE guidelines manual (NICE, 2009) (see the &quot;Availability of Companion Documents&quot; field). The first step was to appoint a Chair and a Lead Clinician. Advertisements were placed for both posts and candidates were interviewed before being offered the role. The National Collaborating Centre for Cancer (NCC-C) Director, GDG Chair and Lead Clinician identified a list of specialties that needed to be represented on the GDG. Details of the adverts were sent to the main stakeholder organisations, cancer networks and patient organisations/charities (see Appendix 6.2 in the full version of the guideline). Individual GDG members were selected by the NCC-C Director, GDG Chair and Lead Clinician, based on their application forms. The guideline development process was supported by staff from the NCC-C, who undertook the clinical and health economics literature searches, reviewed and presented the evidence to the GDG, managed the process and contributed to drafting the guideline.</p>
+<p><strong>Guideline Development Group Meetings</strong></p>
+<p>Twelve GDG meetings were held between 19 May April 2009 and 2 February 2011. During each GDG meeting (either held over one or two days) clinical questions and clinical and economic evidence were reviewed, assessed and recommendations formulated. At each meeting patient/carer and service-user concerns were routinely discussed as part of a standing agenda item.</p>
+<p>NCC-C project managers divided the GDG workload by allocating specific clinical questions, relevant to their area of clinical practice, to small sub-groups of the GDG in order to simplify and speed up the guideline development process. These groups considered the evidence, as reviewed by the researcher, and synthesised it into draft recommendations before presenting it to the GDG as a whole. Each clinical question was led by a GDG member with expert knowledge of the clinical area (usually one of the healthcare professionals). The GDG subgroups often helped refine the clinical questions and the clinical definitions of treatments. They also assisted the NCC-C team in drafting the section of the guideline relevant to their specific topic.</p>
+<p><strong>Patient/Carer Members</strong></p>
+<p>Individuals with direct experience of colorectal cancer gave an important user focus to the GDG and the guideline development process. The GDG included three patient/carer members. They contributed as full GDG members to writing the clinical questions, helping to ensure that the evidence addressed their views and preferences, highlighting sensitive issues and terminology relevant to the guideline and bringing service-user research to the attention of the GDG.</p>
+<p><strong>Method</strong></p>
+<p>From each of the key clinical issues identified in the scope (see the full version of the guideline) the GDG formulated a clinical question. For clinical questions about interventions, the PICO framework was used. This structured approach divides each question into four components: the population (the population under study &amp;ndash; P), the interventions (what is being done &amp;ndash; I), the comparisons (other main treatment options &amp;ndash; C) and the outcomes (the measures of how effective the interventions have been &amp;ndash; O). Where appropriate, the clinical questions were refined once the evidence had been searched and, where necessary, sub-questions were generated.</p>
+<p>The final list of clinical questions can be found in the scope (see Appendix 5 in the full version of the guideline).</p>
+<p><strong>Needs Assessment</strong></p>
+<p>As part of the guideline development process the NCC-C invited a specialist registrar, with the support of the GDG, to undertake a needs assessment (see Appendix 6.3 in the full version of the guideline). The needs assessment aims to describe the burden of disease and current service provision for patients with colorectal cancer in England and Wales, which informed the development of the guideline.</p>
+<p>Assessment of the effectiveness of interventions is not included in the needs assessment, and was undertaken separately by researchers in the NCC-C as part of the guideline development process.</p>
+<p>The information included in the needs assessment document was presented to the GDG. Most of the information was presented in the early stages of guideline development, and other information was included to meet the evolving information needs of the GDG during the course of guideline development.</p>
+<p><strong>Linking to NICE Technology Appraisals</strong></p>
+<p>There are several published technology appraisals (TA) which are relevant to this guideline (TA61, TA105, TA100, TA118, TA150, TA176 and TA212 - see <a href=&quot;http://www.nice.org.uk/guidance/published?type=ta&quot; title=&quot;NICE Web site&quot;>http://guidance.nice.org.uk/TA/Published</a>). In line with NICE methodology, the recommendations from these TAs have either been reproduced verbatim in the colorectal cancer guideline or cross referenced.</p>
+<p>Published TAs are periodically reviewed to determine if they need to be updated, particularly if any new evidence becomes available since the publication of the appraisal which means the original recommendations needed to be changed. In 2008, NICE consulted with stakeholders to assess whether TA93 should be updated within the guideline. The outcome was that TA93 should be updated within the colorectal cancer guideline.</p>
+<p><strong>Agreeing the Recommendations</strong></p>
+<p>For each clinical question the GDG were presented with a summary of the clinical evidence, and, where appropriate, economic evidence, derived from the studies reviewed and appraised. From this information the GDG were able to derive the guideline recommendations. The link between the evidence and the view of the GDG in making each recommendation is made explicit in the accompanying LETR statement.</p>
+<p><em>LETR (Linking Evidence to Recommendations) Statements</em></p>
+<p>As clinical guidelines were previously formatted, there was limited scope for expressing how and why a GDG made a particular recommendation from the evidence of clinical and cost effectiveness. To make this process more transparent to the reader, NICE have introduced an explicit, easily understood and consistent way of expressing the reasons for making each recommendation. This is known as the 'LETR statement' and will usually cover the following key points:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The relative value placed on the outcomes considered </li>
+    <li>The strength of evidence about benefits and harms for the intervention being considered </li>
+    <li>The costs and cost-effectiveness of an intervention (if formally assessed by the health economics team) </li>
+    <li>The quality of the evidence (see GRADE) </li>
+    <li>The degree of consensus within the GDG </li>
+    <li>Other considerations &amp;ndash; for example equalities issues </li>
+</ul>
+<p>Where evidence was weak or lacking the GDG agreed the final recommendations through informal consensus. Shortly before the consultation period, ten key priorities and five key research recommendations were selected by the GDG for implementation and the patient algorithms were agreed. To avoid giving the impression that higher grade recommendations are of higher priority for implementation, NICE no longer assigns grades to recommendations.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>2014 Update</span></strong></p>
+<p>This update was developed based on the process and methods described in the <a href=&quot;http://www.nice.org.uk/article/PMG6/chapter/1%20Introduction&quot; title=&quot;NICE Web site&quot;>Guidelines manual 2012</a> (see also the &quot;Availability of Companion Documents&quot; field). Where there are deviations from the process and methods, these are stated in the <a href=&quot;http://www.nice.org.uk/article/pmg17/chapter/1%20Purpose&quot; title=&quot;NICE Web site&quot;>interim process and methods guide for updates pilot programme 2013</a>.</p>
+<p>NICE's Clinical Guidelines Update Programme updated this guideline in 2014. This guideline was updated using a Standing Committee of healthcare professionals, methodologists and lay members from a range of disciplines and localities, as well as topic experts.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>2011 Guideline</span></strong></p>
+<p>Not applicable</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>2014 Update</span></strong></p>
+<p><strong>Strength of Recommendations</strong></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><em>Interventions That Must (or Must Not) Be Used</em></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally 'must' (or 'must not') is used if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><em>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation</em></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost effective. Similar forms of words (for example, 'Do not offer&amp;hellip;') are used when the GDG is confident that an intervention will not be of benefit for most patients.</p>
+<p><em>Interventions That Could Be Used</em></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most patients, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient.</p>
+<p><em>Recommendation Wording in Guideline Updates</em></p>
+<p>NICE began using this approach to denote the strength of recommendations in guidelines that started development after publication of the 2009 version of 'The guidelines manual' (January 2009). This does not apply to any recommendations ending <strong>[2006]</strong> or <strong>[2003]</strong> (see 'Update information' in the original guideline document for details about how recommendations are labelled). In particular, for recommendations labelled <strong>[2006]</strong> or <strong>[2003]</strong> the word 'consider' may not necessarily be used to denote the strength of the recommendation.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>2011 Guideline</span></strong></p>
+<p><strong>Mixed Treatment Comparison and Cost-Effectiveness Analysis for Sequences of Oxaliplatin and Irinotecan-Based Chemotherapy in the Treatment of Advanced and Metastatic Colorectal Cancer</strong></p>
+<p>The results of the mixed and indirect treatment comparisons were used as inputs to conduct a cost-effectiveness analysis. The cost-effectiveness analysis showed that when survival was quality-adjusted (taking into account both disease status and toxicities), the difference in total quality-adjusted life years (QALYs) between the various sequential treatment strategies was in most cases modest. Taking FOLFOX (oxaliplatin in combination with 5-flourouracil and folinic acid)-irinotecan as the reference (least costly) strategy, all other treatment sequences were found to be less effective (in terms of QALYs) and more costly except the sequence FOLFOX-FOLFIRI (irinotecan in combination with 5-flourouracil and folinic acid). The incremental cost-effectiveness ratio (ICER) comparing FOLFOX-FOLFIRI to FOLFOX-irinotecan was of &amp;pound;110K/QALY. When drug discounts were taken into account, the ICER for FOLFOX &amp;ndash; FOLIRI vs FOLFOX-irinotecan fell to approximately &amp;pound;48K/QALY. Because of the small differences in total QALYs between strategies, it was important to consider how uncertainty may impact the results of the cost-effectiveness analysis. Taking parameter uncertainty and drug discounts into account, three strategies (FOLFOX-irinotecan, FOLFOX-FOLFIRI and XELOX [oxaliplatin in combination with capecitabine]-FOLFIRI) were associated with the highest probability of being cost effective.</p>
+<p>Full details of the methods and results for the mixed treatment comparison and economic evaluation for this topic can be found in Appendix 2 in the full version of the guideline.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>2014 Update</span></strong></p>
+<p>See Appendices J, K, L, M, N, U, V and W in the Addendum to Clinical Guideline 131, Colorectal Cancer (see the &quot;Availability of Companion Documents&quot; field) for the updated economic evidence review for Review Questions 1 and 2.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>2011 Guideline</span></strong></p>
+<p><strong>Consultation and Validation of the Guideline</strong></p>
+<p>The draft of the guideline was prepared by National Collaborating Centre for Cancer (NCC-C) staff in partnership with the Guideline Development Group (GDG) Chair and Lead Clinician. This was then discussed and agreed with the GDG and subsequently forwarded to National Institute for Health and Care Excellence (NICE) for consultation with stakeholders.</p>
+<p>Registered stakeholders (see Appendix 6.2 in the full version of the guideline) had one opportunity to comment on the draft guideline which was posted on the NICE website between 29 March 2011 and 24 May 2011 in line with NICE methodology. The Guideline Review Panel also reviewed the guideline and checked that stakeholder comments had been addressed.</p>
+<p><strong>The Pre-publication Check Process</strong></p>
+<p>Following stakeholder consultation and subsequent revision, the draft guideline was then subject to a pre-publication check. The pre-publication check provides registered stakeholders with the opportunity to raise any concerns about factual errors and inaccuracies that may exist in the revised guideline after consultation.</p>
+<p>During the pre-publication check the full guideline was posted on the NICE website for 15 working days, together with the guideline consultation table that listed comments received during consultation from stakeholders and responses from the NCC-C and GDG.</p>
+<p>All stakeholders were invited to report factual errors using a standard proforma. NICE, the NCC and the GDG Chair and Lead Clinician considered the reported errors and responded only to those related to factual errors. A list of all corrected errors and the revised guideline were submitted to NICE, and the revised guideline was then signed off by Guidance Executive. The list of reported errors from the pre-publication check and the responses from the NCC-C were subsequently published on the NICE website.</p>
+<p>The final document was then submitted to NICE for publication on their website. The other versions of the guideline were also discussed and approved by the GDG and published at the same time.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>2014 Update</span></strong></p>
+<p>The guideline was validated through two consultations.</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>The first draft of the guideline (the full guideline and the NICE guideline) were consulted with Stakeholders and comments were considered by the GDG </li>
+    <li>The final consultation draft of the full guideline, the NICE guideline and the Information for the Public were submitted to stakeholders for final comments. </li>
+</ol>
+<p>The final draft was submitted to the Guideline Review Panel for review prior to publication.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of evidence supporting the recommendations is not specifically stated.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>2011 Guideline</strong></p>
+<p>Appropriate diagnosis and management of patients with colorectal cancer</p>
+<p><strong>2014 Update</strong></p>
+<p>Refer to the &quot;Consideration of clinical benefits and harms&quot; sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for benefits of specific interventions.</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>2011 Guideline</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Treatment-related adverse effects, including chemotherapy and radiation toxicity and risks of infection and other complications after surgery </li>
+    <li>Treatment for colorectal cancer often causes a change in bowel function. This can be distressing for patients and have other adverse effects, including dietary restrictions and changes in body image and sexual function. </li>
+    <li>Complications of diagnostic procedures, including colonic perforation </li>
+    <li>For patients receiving treatment with raltitrexed, serious adverse events were reported in 16.3% of patients, deaths related to treatment were reported for 2.2% (n=20). Of 20 deaths considered related to raltitrexed, 11 were associated with a major protocol deviation. The 5-year recurrence free survival rate was 47.8% (95% confidence interval [CI]: 42.3%&amp;ndash;53%) for patients receiving raltitrexed. In the intention to treat population, the 5-year survival rate was 61.9% (95% CI: 55.4%&amp;ndash;66.1%). </li>
+</ul>
+<p><strong>2014 Update</strong></p>
+<p>Refer to the &quot;Consideration of clinical benefits and harms&quot; sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for harms of specific interventions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>2011 Guideline</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Colonoscopy with biopsy is contraindicated in patients with a blood clotting disorder. </li>
+    <li>Self-expanding metal stents (SEMS) are contraindicated where there is evidence of perforation or peritonitis because these patients need immediate surgery. </li>
+</ul>
+<p><strong>2014 Update</strong></p>
+<p>Do not place self-expanding metallic stents:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>In low rectal lesions </li>
+    <li>To relieve right-sided colonic obstruction </li>
+    <li>If there is clinical or radiological evidence of colonic perforation or peritonitis </li>
+</ul></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>This guidance represents the view of the National Institute for Health and Care Excellence (NICE), which was arrived at after careful consideration of the evidence available. Healthcare professionals are expected to take it fully into account when exercising their clinical judgement. However, the guidance does not override the individual responsibility of healthcare professionals to make decisions appropriate to the circumstances of the individual patient, in consultation with the patient and/or guardian or carer, and informed by the summaries of product characteristics of any drugs. </li>
+    <li>Implementation of this guidance is the responsibility of local commissioners and/or providers. Commissioners and providers are reminded that it is their responsibility to implement the guidance, in their local context, in light of their duties to have due regard to the need to eliminate unlawful discrimination, advance equality of opportunity and foster good relations. Nothing in this guidance should be interpreted in a way that would be inconsistent with compliance with those duties. </li>
+    <li>The guideline will assume that prescribers will use a medicine's summary of product characteristics to inform decisions made with individual patients. </li>
+    <li>This guideline recommends some medicines for indications for which they do not have a UK marketing authorisation at the date of publication, if there is good evidence to support that use. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. The patient (or those with authority to give consent on their behalf) should provide informed consent, which should be documented. See the General Medical Council's <a href=&quot;http://www.gmc-uk.org/guidance/ethical_guidance/14327.asp&quot; title=&quot;General Medical Council Web site&quot;>Good practice in prescribing and managing medicines and devices</a> for further information. Where recommendations have been made for the use of medicines outside their licensed indications ('off-label use'), these medicines are marked with a footnote in the recommendations. </li>
+    <li>Treatment and care should take into account individual needs and preferences. Patients should have the opportunity to make informed decisions about their care and treatment, in partnership with their healthcare professionals. If the patient is under 16, their family or carers should also be given information and support to help the child or young person to make decisions about their treatment. Healthcare professionals should follow the <a href=&quot;https://www.gov.uk/government/publications/reference-guide-to-consent-for-examination-or-treatment-second-edition&quot; title=&quot;UK Department of Health Web site&quot;>Department of Health's advice on consent</a>. If someone does not have capacity to make decisions, healthcare professionals should follow the <a href=&quot;https://www.gov.uk/government/collections/mental-capacity-act-making-decisions&quot; title=&quot;UK Department of Health Web site&quot;>code of practice that accompanies the Mental Capacity Act</a> and the supplementary <a href=&quot;http://webarchive.nationalarchives.gov.uk/20130107105354/http:/www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_085476&quot; title=&quot;UK National Archive Web site&quot;>code of practice on deprivation of liberty safeguards</a>. </li>
+    <li>NICE has produced guidance on the components of good patient experience in adult NHS services. All healthcare professionals should follow the recommendations in <a href=&quot;http://www.nice.org.uk/guidance/CG138&quot; title=&quot;NICE Web site&quot;>Patient experience in adult NHS services</a>. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The National Institute for Health and Care Excellence (NICE) has developed tools to help organisations implement this guidance (see <a href=&quot;http://guidance.nice.org.uk/CG131&quot; title=&quot;NICE Web site&quot;>http://guidance.nice.org.uk/CG131</a>); see also the &quot;Availability of Companion Documents&quot; field).</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Key Priorities for Implementation</strong></span></p>
+<p>The following recommendations have been identified as priorities for implementation.</p>
+<p><strong>Diagnostic Investigations</strong></p>
+<p>Offer colonoscopy to patients without major comorbidity, to confirm a diagnosis of colorectal cancer. If a lesion suspicious of cancer is detected, perform a biopsy to obtain histological proof of diagnosis, unless it is contraindicated (for example, patients with a blood clotting disorder).</p>
+<p><strong>Staging of Colorectal Cancer</strong></p>
+<p>Offer contrast-enhanced computed tomography (CT) of the chest, abdomen and pelvis, to estimate the stage of disease, to all patients diagnosed with colorectal cancer unless it is contraindicated. No further routine imaging is needed for patients with colon cancer.</p>
+<p>Offer magnetic resonance imaging (MRI) to assess the risk of local recurrence, as determined by anticipated resection margin, tumour and lymph node staging, to all patients with rectal cancer unless it is contraindicated.</p>
+<p><strong>Preoperative Management of the Primary Tumour</strong></p>
+<p>Do not offer short-course preoperative radiotherapy (SCPRT) or chemoradiotherapy to patients with low-risk operable rectal cancer, unless as part of a clinical trial.</p>
+<p><strong>Colonic Stents in Acute Large Bowel Obstruction</strong></p>
+<p>If considering the use of a colonic stent in patients presenting with acute large bowel obstruction, offer CT of the chest, abdomen and pelvis to confirm the diagnosis of mechanical obstruction, and to determine whether the patient has metastatic disease or colonic perforation.</p>
+<p><strong>Stage I Colorectal Cancer</strong></p>
+<p>The colorectal multidisciplinary team (MDT) should consider further treatment for patients with locally excised, pathologically confirmed stage I cancer, taking into account pathological characteristics of the lesion, imaging results and previous treatments.</p>
+<p><strong>Imaging Hepatic Metastases</strong></p>
+<p>If the CT scan shows metastatic disease only in the liver and the patient has no contraindications to further treatment, a specialist hepatobiliary MDT should decide if further imaging to confirm surgery is suitable for the patient &amp;ndash; or potentially suitable after further treatment &amp;ndash; is needed.</p>
+<p><strong>Chemotherapy for Advanced and Metastatic Colorectal Cancer</strong></p>
+<p>When offering multiple chemotherapy drugs to patients with advanced and metastatic colorectal cancer, consider one of the following sequences of chemotherapy unless they are contraindicated:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>FOLFOX (folinic acid plus fluorouracil plus oxaliplatin) as first-line treatment then single agent irinotecan as second-line treatment or </li>
+    <li>FOLFOX as first-line treatment then FOLFIRI (folinic acid plus fluorouracil plus irinotecan*) as second-line treatment or </li>
+    <li>XELOX (capecitabine plus oxaliplatin) as first-line treatment then FOLFIRI as second-line treatment. </li>
+</ul>
+<p class=&quot;Note&quot;>*<strong>Note:</strong> At the time of publication (November 2011), irinotecan did not have UK marketing authorisation for this indication. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented.</p>
+<p><strong>Follow-up After Apparently Curative Resection</strong></p>
+<p>Offer patients regular surveillance with:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A minimum of 2 CTs of the chest, abdomen, and pelvis in the first 3 years and </li>
+    <li>Regular serum carcinoembryonic antigen tests (at least every 6 months in the first 3 years) </li>
+</ul>
+<p><strong>Information About Bowel Function</strong></p>
+<p>Before starting treatment, offer all patients information on all treatment options available to them (including no treatment) and the potential benefits and risks of these treatments, including the effect on bowel function.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Audit Criteria/Indicators"/>
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Foreign Language Translations"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Resources"/>
+      <fieldvalue value="Slide Presentation"/>
+      <fieldvalue value="Staff Training/Competency Material"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="End of Life Care"/>
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td> National Collaborating Centre for Cancer. Colorectal cancer. The diagnosis and management of colorectal cancer. London (UK): National Institute for Health and Care Excellence (NICE); 2014 Dec. 50 p.&amp;nbsp;(Clinical guideline; no. 131).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2005 Aug (revised 2014 Dec)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="National Guideline Alliance - National Government Agency [Non-U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>National Institute for Health and Care Excellence (NICE)</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Guideline Development Group - Standing Committee B</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>2011 Guideline</strong></p>
+<p><em>Guideline Development Group Members</em>: Mr Graeme Poston (<em>Chair</em>), Consultant Surgeon, Aintree University Hospital NHS Foundation Trust; Dr Diana Tait (<em>Lead Clinician</em>), Consultant Clinical Oncologist/Associate Medical Director, Clinical Governance, The Royal Marsden NHS Foundation Trust; Dr Rosaleen Beattie, Medical Director/Consultant in Palliative Medicine, St John's Hospice, Lancaster (until January 2011); Dr Clare Byrne, Advanced Nurse Practitioner, Aintree University Hospital NHS Foundation Trust; John Chapman, Patient member; Linda Devereux, Associate Director, Merseyside and Cheshire Cancer Network; Dr Rob Glynne-Jones, Consultant Clinical Oncologist/Macmillan Lead for Gastrointestinal Oncology, Mount Vernon Cancer Centre; Dr Mark Harrison, Consultant Oncologist, Mount Vernon Cancer Centre; Christine Holman, Patient member; Professor Mohammad Ilyas, Professor of Pathology and Honorary Consultant, Queens Medical Centre, Nottingham; Dr Timothy Iveson, Consultant Medical Oncologist, Southampton General Hospital; Dr John Martin, Consultant Gastroenterologist, Charing Cross Hospital, London; Yvette Perston, Colorectal Clinical Nurse Specialist, Cardiff and Vale NHS Trust; Mr Andrew Radcliffe, Consultant Colorectal Surgeon, Cardiff and Vale NHS Trust (until May 2010); Mr Andrew Renehan, Senior Lecturer, University of Manchester/Honorary Consultant Surgeon, Christie Foundation NHS Trust; Cheryl Richardson, Superintendent Radiographer (MRI), The Royal Marsden NHS Foundation Trust; Nick Ryan, Patient and carer member; Dr Eamon Staunton, GP, Hampshire; Dr Alasdair Taylor, Consultant Radiologist, University Hospitals of Morecambe Bay NHS Trust</p>
+<p><strong>2014 Update</strong></p>
+<p><em>Standing Committee Members</em>: Susan Bewley (<em>Chair</em>), Professor of Complex Obstetrics, Kings College London; Gita Bhutani, Clinical Psychologist, Lancashire Care NHS Foundation Trust; Jennifer Bostock (until September 2014), Lay Member; Simon Corbett, Cardiologist, University Hospital Southampton NHS Foundation Trust; John Graham, Consultant Oncologist &amp;amp; Trust Cancer Lead Clinician, Taunton &amp;amp; Somerset Hospital; Peter Hoskin, Consultant in Clinical Oncology, Mount Vernon Hospital; Roberta James, Programme Lead, Scottish Intercollegiate Guidelines Network (SIGN); Asma Khalil, Obstetrician, St George's Hospital University, London; Manoj Mistry, Lay member; Amaka Offiah, Radiologist and Clinical Senior Lecturer, Sheffield University; Mark Rodgers, Research Fellow, University of York; Nicholas Steel, Clinical Senior Lecturer in Primary Care, Norwich Medical School; Sietse Wieringa, General Practitioner, Barts &amp;amp; the London School of Medicine &amp;amp; Dentistry</p>
+<p><em>Colorectal Cancer Topic-Specific Committee Members</em>: Sunil Dolwani, Consultant Gastroenterologist, Cardiff and Vale University Health Board; James Hill, Consultant Colorectal and General Surgeon, Central Manchester NHS Foundation Trust; Clive Kay, Consultant Radiologist, Bradford Teaching Hospitals NHS Trust; Jonathan Tobutt, Lay member</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>2011 Guideline</strong></p>
+<p>At the start of the guideline development process all Guideline Development Group (GDG) members' interests were recorded on a standard declaration form that covered consultancies, fee-paid work, share-holdings, fellowships and support from the healthcare industry. At all subsequent GDG meetings, members declared new, arising conflicts of interest which were always recorded (see Appendix 6.1 in the full version of the guideline).</p>
+<p><strong>2014 Update</strong></p>
+<p>See Section 4.4 in the original guideline document for declarations of interest. All other members of the Committee stated that they had no interests to declare.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: National Institute for Health and Clinical Excellence (NICE). Colorectal cancer. The diagnosis and management of colorectal cancer. London (UK): National Institute for Health and Clinical Excellence (NICE); 2011 Nov. 42 p. (Clinical guideline; no. 131).</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;http://guidance.nice.org.uk/CG131&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. Also available for download in ePub and eBook formats from the <a href=&quot;http://guidance.nice.org.uk/CG131&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Colorectal cancer. The diagnosis and management of colorectal cancer. Full guideline. London (UK): National Institute of Health and Care Excellence (NICE); 2011 Nov. 186 p. (Clinical guideline; no. 131). Electronic copies: Available from the <a href=&quot;https://www.nice.org.uk/guidance/cg131/evidence/full-guideline-183509677&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. </li>
+    <li>Addendum to clinical guideline 131, colorectal cancer. Clinical guideline addendum 131.1. Methods, evidence and recommendations. London (UK): National Institute of Health and Care Excellence (NICE); 2014 Dec. 128 p. (Clinical guideline; no. 131). Electronic copies: Available from the <a href=&quot;https://www.nice.org.uk/guidance/cg131/evidence/guideline-addendum-183509678&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Colorectal cancer. The diagnosis and management of colorectal cancer. Costing report. London (UK): National Institute of Health and Care Excellence (NICE); 2011 Nov. 27 p. (Clinical guideline; no. 131). Electronic copies: Available from the <a href=&quot;http://www.nice.org.uk/guidance/cg131/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Colorectal cancer. The diagnosis and management of colorectal cancer. Costing template. London (UK): National Institute of Health and Care Excellence (NICE); 2011 Nov. (Clinical guideline; no. 131). Electronic copies: Available from the <a href=&quot;http://www.nice.org.uk/guidance/cg131/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Colorectal cancer. The diagnosis and management of colorectal cancer. Clinical audit tools. London (UK): National Institute of Health and Care Excellence (NICE); 2011 Nov. (Clinical guideline; no. 131). Electronic copies: Available from the <a href=&quot;http://www.nice.org.uk/guidance/cg131/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Colorectal cancer. The diagnosis and management of colorectal cancer. Electronic audit tools. London (UK): National Institute of Health and Care Excellence (NICE); 2011 Nov. (Clinical guideline; no. 131). Electronic copies: Available from the <a href=&quot;http://www.nice.org.uk/guidance/cg131/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Colorectal cancer. The diagnosis and management of colorectal cancer. Baseline assessment tool. London (UK): National Institute of Health and Care Excellence (NICE); 2014 Dec. (Clinical guideline; no. 131). Electronic copies: Available from the <a href=&quot;http://www.nice.org.uk/guidance/cg131/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Colorectal cancer. The diagnosis and management of colorectal cancer. Slide set. London (UK): National Institute of Health and Care Excellence (NICE); 2015 Jan. 28 p. (Clinical guideline; no. 131). Electronic copies: Available from the <a href=&quot;http://www.nice.org.uk/guidance/cg131/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Colorectal cancer. The diagnosis and management of colorectal cancer. Clinical case scenarios. London (UK): National Institute of Health and Care Excellence (NICE); 2012 Feb. 33 p. (Clinical guideline; no. 131). Electronic copies: Available from the <a href=&quot;http://www.nice.org.uk/guidance/cg131/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Colorectal cancer: the diagnosis and management of colorectal cancer. Evidence review. London (UK): National Collaborating Centre for Cancer; 2011 Nov. 680 p. Electronic copies: Available from the <a href=&quot;https://www.nice.org.uk/guidance/cg131/evidence/evidence-review-183509679&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>The guidelines manual 2012. London (UK): National Institute for Health and Care Excellence (NICE); 2012 Nov. Electronic copies: Available from the <a href=&quot;https://www.nice.org.uk/process/pmg6/chapter/introduction&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Colorectal cancer. The diagnosis and management of colorectal cancer. Information for the public. London (UK): National Institute of Health and Care Excellence (NICE); 2014 Dec. 16 p. (Clinical guideline; no. 131). Electronic copies: Available from the <a href=&quot;https://www.nice.org.uk/guidance/cg131/ifp/chapter/About-this-information&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. Also available for download as a Kindle or EPUB ebook from the <a href=&quot;https://www.nice.org.uk/guidance/cg131/ifp/chapter/About-this-information&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. Also available in Welsh from the <a href=&quot;https://www.nice.org.uk/guidance/cg131/resources/gwybodaeth-ir-cyhoedd-welsh-183508381&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI on March 22, 2007. This summary was updated by ECRI Institute on June 22, 2012 and March 12, 2015.</p>
+<p>The National Institute for Health and Care Excellence (NICE) has granted the National Guideline Clearinghouse (NGC) permission to include summaries of their clinical guidelines with the intention of disseminating and facilitating the implementation of that guidance. NICE has not yet verified this content to confirm that it accurately reflects that original NICE guidance and therefore no guarantees are given by NICE in this regard. All NICE clinical guidelines are prepared in relation to the National Health Service in England and Wales. NICE has not been involved in the development or adaptation of NICE guidance for use in any other country. The full versions of all NICE guidance can be found at <a href=&quot;http://www.nice.org.uk&quot; title=&quot;NICE Web site&quot;>www.nice.org.uk</a>.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 00:51:34 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:23:02 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 107.995 (3)
+  esindex: 0.02
+  captures_list: 120.631
+  CDXLines.iter: 10.01 (3)
+  PetaboxLoader3.datanode: 43.377 (4)
+  exclusion.robots: 0.195
+  exclusion.robots.policy: 0.185
+  RedisCDXSource: 0.409
+  PetaboxLoader3.resolve: 168.677 (2)
+  load_resource: 131.85
+-->

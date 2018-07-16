@@ -1,0 +1,526 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app17.us.archive.org';v.server_ms=343;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10585?contentType=xml', '20160930182231')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930182231/https://www.guideline.gov/summaries/downloadcontent/ngc-10585?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930182231/https://www.guideline.gov/summaries/downloadcontent/ngc-10585?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10585?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930182231" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 18:22:31 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 18:22:31 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 18:22:31 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930182231*/https://www.guideline.gov/summaries/downloadcontent/ngc-10585?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10585?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Multidisciplinary practical guidelines for gastrointestinal access for enteral nutrition and decompression from the Society of Interventional Radiology and American Gastroenterological Association (AGA) Institute, with endorsement by Canadian Interventional Radiological Association (CIRA) and Cardiovascular and Interventional Radiological Society of Europe (CIRSE).</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Itkin M, DeLegge MH, Fang JC, McClave SA, Kundu S, Janne d'Othee B, Martinez-Salazar GM, Sacks D, Swan TL, Towbin RB, Walker TG, Wojak JC, Zuckerman DA, Cardella JF, Interventional Radiology and American Gastroenterological Association, American Gastroenterological Association Institute, Canadian Interventional Radiological Association, Cardiovascular and Interventional Radiological Society of Europe. Multidisciplinary practical guidelines for gastrointestinal access for enteral nutrition and decompression from the Society of Interventional Radiology and American Gastroenterological Association (AGA) Institute, with endorsement by Canadian Interventional Radiological Association (CIRA) and Cardiovascular and Interventional Radiological Society of Europe (CIRSE). J Vasc Interv Radiol. 2011 Aug;22(8):1089-106. [244 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21782465&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Indications</span></strong></p>
+<p><strong>Oral or Nasal Enteric Tubes</strong></p>
+<p>Nasogastric (NG), oral gastric (OG), nasojejunal (NJ), or oral jejunal (OJ) tubes are generally recommended for short-term use (i.e., from a few days to 6 weeks). This can be for gastric or small bowel feeding or gastric decompression.</p>
+<p>In general, patients who have facial trauma, nasal injury, or abnormal nasal anatomy that precludes nasal access are candidates for oroenteric tubes. There have been published data that indicate that patients with nasal airway intubation have more episodes of sinusitis than patients with oral airway intubation. From this study and other similar studies, the belief that there is a decreased incidence of sinusitis with an oroenteric feeding tube versus a nasoenteric feeding tube has been extrapolated. A prospective epidemiologic study performed in patients in an intensive care unit noted that feeding through a nasoenteric tube, in addition to other factors, was associated with an increased risk of nosocomial sinusitis (odds ratio, 14.1) In patients with preexisting sinusitis, an oroenteric tube is preferred.</p>
+<p><strong>Gastric Feeding</strong></p>
+<p>The gastric route is the most common artificial nutrition route used for feeding. Candidates for gastrostomy generally must have normal or near-normal gastric and small bowel motility. Their gastric anatomy has to be adequate to receive a gastric access tube. If a bolus feeding regimen is required for a patient, gastric feeding is most commonly prescribed, although there are no published, prospective, randomized trials demonstrating a superiority of bolus versus continuous gastric feeding.</p>
+<p><strong>Small Bowel Feeding</strong></p>
+<p>Patients who are unable to tolerate gastric feedings, cannot receive a gastric enteral access tube as a result of altered anatomy, have gastric outlet or duodenal obstruction, have a gastric or duodenal fistula, or have severe gastroesophageal reflux disease should receive a jejunal feeding tube.</p>
+<p>There has also been a great deal of discussion and clinical investigation regarding the use of small bowel feeding for the prevention of aspiration pneumonia. A metaanalysis reported a reduction in ventilator-associated pneumonia with small bowel feeding compared with gastric feeding. A separate metaanalysis noted an odds ratio of 1.44 (95% confidence interval [CI], 0.84&amp;ndash;2.46; <em>P</em> = .19) for the risk of gastric feeding and the development of aspiration pneumonia compared with small bowel feeding. One prospective randomized trial compared duodenal and gastric feeding and showed that the nasoduodenal feeding group had a higher average daily calorie and protein intake compared with the nasogastric feeding group and achieved nutritional goals earlier. In terms of clinical outcomes, patients in the nasoduodenal feeding group had a lower rate of vomiting and ventilator-associated pneumonia.</p>
+<p>The use of small bowel enteral feeding during episodes of pancreatitis has been a relative recent change in clinical practice. Multiple prospective, randomized trials have demonstrated improved outcomes, including decreased length of hospital stay, decreased infectious complications, and reduced overall health care cost with the use of jejunal feedings compared with parenteral nutrition. More recently, the use of gastric feedings in patients with acute pancreatitis has been evaluated, although a definitive conclusion regarding its appropriateness has not been determined.</p>
+<p><strong>Gastrointestinal (GI) Decompression</strong></p>
+<p>For patients with GI obstruction or a GI fistula, decompression can be used to remove GI secretions and oral intake. A gastric decompression tube can be placed through the nose or mouth or percutaneously. Gastric decompression using a gastrostomy tube has been used with good clinical success. Some gastrojejunostomy tube systems have two ports (openings)&amp;mdash;one into the stomach and one into the small intestine&amp;mdash;and can be used for concurrent jejunal feeding and gastric decompression. There are some reports regarding the placement of small bowel feeding tubes for decompression of a small bowel obstruction. Direct small bowel decompression in these cases has resulted in improved clinical results compared with gastric decompression tubes.</p>
+<p><strong>Intestinal Access for Biliary Procedures</strong></p>
+<p>Retrograde intestinal access can be the preferred access to the biliary system, especially in patients with previous surgically altered anatomy, such as Roux-en-Y anastomosis. The advantage of this approach is the ability to get access to the entire biliary tree from one access site. This route was found especially useful in patients who required repeat interventions in cases of large stone burden and biliary strictures.</p>
+<p><strong>Cecostomy Tubes</strong></p>
+<p>Decompressive or lavage cecostomy tubes can be placed surgically or percutaneously with endoscopic or image guidance. Percutaneous cecostomy is indicated in patients with neurologic disease that results in fecal incontinence (e.g., spina bifida, meningomyelocele, spinal cord injury, cerebral palsy) to facilitate cleansing enemas. Percutaneous cecostomy may also be indicated for chronic refractory constipation, chronic colonic pseudoobstruction, and colonic obstruction.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Preprocedure Assessment</span></strong></p>
+<p><strong>Management of Anticoagulant and Antiplatelet Therapy</strong></p>
+<p>Recently, the American Society for Gastrointestinal Endoscopy (ASGE) and Society of Interventional Radiology (SIR) issued recommendations regarding the management of patients receiving anticoagulant or antiplatelet therapy and patients with coagulopathy. Similar in essence, these recommendations are different in their approach. For that reason, both sets of recommendations are included here.</p>
+<p><strong>ASGE Recommendations</strong></p>
+<p>According to the ASGE recommendations, the risk from bleeding related to the procedure itself must be evaluated with respect to the risk of a thromboembolic event if the anticoagulant or antiplatelet therapy is stopped. Preoperative assessment should focus on differentiating high-risk from low-risk procedures, and then determining whether the patient has a high-risk or low-risk condition. Procedural risk refers to the propensity for a given procedure to produce significant or uncontrolled bleeding should anticoagulant or antiplatelet therapy be continued throughout the intervention. A low-risk procedure would include routine use of endoscopy or fluoroscopy for tube placement, where no percutaneous incision is made. A high-risk procedure would include any enteral access technique that involves an incision or establishment of a fresh stoma (see Table 1 in the original guideline document for a list of low-risk and high-risk procedures for patients receiving anticoagulant or antiplatelet therapy). Risk based on patient condition relates to the probability of a thromboembolic complication occurring should anticoagulation or antiplatelet therapy be stopped before the procedure (see Table 2 in the original guideline document for a list of low-risk and high-risk conditions for patients receiving anticoagulant or antiplatelet therapy).</p>
+<p>Recommendations for low-risk procedures regardless of patient condition are as follows. Anticoagulant therapy should be continued. If the patient is receiving warfarin, the international normalized ratio (INR) should not exceed therapeutic range and antiplatelet therapy should be continued. Recommendations for a high-risk procedure in patients with a low-risk condition are different. Warfarin should be stopped 5 days before the procedure. The INR should be checked on the day of the procedure and should be confirmed to be lower than 1.5. Warfarin may be started later on the night of the procedure, with the INR checked 1 week later. Clopidogrel therapy should be discontinued 7 days before the procedure, with aspirin therapy continued. Alternatively, if the patient is not receiving aspirin, aspirin therapy should be started as the patient discontinues receiving clopidogrel. Clopidogrel therapy may be restarted the day after the procedure.</p>
+<p>Recommendations for a high-risk procedure in a patient with a high-risk condition are as follows. Warfarin should be stopped 5 days before the procedure. A therapeutic dose of low molecular weight heparin should be substituted, with the dose withheld on the morning of the procedure. That night, following the procedure, warfarin should be restarted at the full therapeutic dose. For clopidogrel therapy, the clinician should discuss the necessity of the procedure first with the primary care physician, as risk is significant. If the procedure is deemed to be essential, clopidogrel should be stopped 7 days before surgery and the patient given aspirin therapy in the interim. Clopidogrel therapy may be restarted on the morning after the procedure.</p>
+<p><strong>SIR Recommendations</strong></p>
+<p>According to SIR recommendations, GI interventions involving percutaneous incision (e.g., gastrostomy, jejunostomy, and cecostomy) are designated as category 2 procedures (i.e., those with a moderate risk of bleeding). For this group of procedures, the following recommendations were issued:</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>INR: If greater than 1.5, correct until it is less than 1.5. </li>
+    <li>Platelets: If platelet count is lower than 50,000/&amp;micro;L administer transfusion until the count is greater than 50,000/&amp;micro;L. </li>
+    <li>Clopidogrel: Withhold for 5 days before the procedure. </li>
+    <li>Aspirin: Do not withhold. </li>
+    <li>Low molecular weight heparin (therapeutic dose): Withhold one dose before the procedure. </li>
+</ol>
+<p><strong>Antibiotic Prophylaxis</strong></p>
+<p>Patients undergoing gastrostomy placement are often at increased risk for infection secondary to poor nutritional status, advanced age, comorbidities, and immune compromise. Factors that increase risk for infection are patient-related (e.g., diabetes, obesity, malnutrition, chronic steroid administration), technique-related (e.g., transoral technique vs transabdominal technique or failure to provide antibiotic prophylaxis), and external bolster traction&amp;ndash;related. The incidence of peristomal infection following percutaneous transoral tube placement ranges from 5.4% to 30.0%. The majority of infections (&amp;gt;70%) are minor. Major infections requiring specific medical or surgical therapy are rare, involving fewer than 1.6% of cases. A metaanalysis of 11 prospective randomized trials involving more than 1,100 patients has shown that there is a statistically significant decrease in the incidence of peristomal infection with the use of prophylactic antibiotics. A first-generation cephalosporin or some other similar agent that covers typical cutaneous organisms should be selected. Specific antibiotic prophylaxis is not required for these techniques in a patient who is already receiving antibiotics.</p>
+<p>One of the advantages of the transabdominal route is the ability to avoid passage of a gastrostomy tube through the oropharynx, thus avoiding the exposure of the tube and subsequently the gastrostomy tract to oral flora. This potentially reduces the infection rate. A recent randomized controlled study confirmed this assumption and demonstrated no statistically significant difference in rate of peristomal infection during transabdominal gastrostomy with or without administration of preprocedural antibiotics.</p>
+<p><strong>Dietary Preparation</strong></p>
+<p>By general consensus, patients should be kept nil per os past midnight for a procedure the following day. However, it may be appropriate to provide clear liquids up to 2 hours before the procedure to reduce the risk of volume depletion.</p>
+<p><strong>Laboratory Tests</strong></p>
+<p>Before the procedure, a complete blood count should be considered to confirm the platelet count, to evaluate for presence of anemia, or to identify an increased white blood cell count suggesting infection. If a percutaneous procedure is involved, prothrombin, partial thromboplastin, and INR should be checked. An arterial blood gas analysis is not required, as oxygen saturation is monitored continuously throughout most radiologic and endoscopic procedures. Obtaining an arterial blood gas analysis should be considered if there is concern for respiratory compromise or that the patient might not tolerate conscious sedation. For patients at high risk, the procedures may need to be scheduled with anesthesia to provide better airway control and monitoring of hemodynamic stability.</p>
+<p>SIR recently issued the following recommendations regarding laboratory testing before the procedure.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>INR: Recommended for all patients. </li>
+    <li>Activated partial thromboplastin time (PTT): Recommended for the patients receiving intravenous unfractionated heparin. </li>
+    <li>Platelet count: Not routinely recommended. </li>
+    <li>Hematocrit: Not routinely recommended. </li>
+</ul>
+<p>Refer to the original guideline document for the technical aspects of tube placement for GI access, including nasoenteric and oroenteric tubes, placement of NJ or OJ tubes under endoscopic guidance, placement of NJ or OJ tubes under image guidance, percutaneous gastrostomy, transoral gastrostomy placement, transabdominal gastrostomy, percutaneous gastrojejunostomy, percutaneous jejunostomy, and percutaneous cecostomy.</p>
+<p>See also Table 3 in the original guideline document for the proposed modified enteric access terminology based on the route of access introduction (natural orifices versus percutaneous) and the method of guidance (endoscopic and image-guided).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Special Considerations</span></strong></p>
+<p><strong>Gastric Bypass</strong></p>
+<p>Excessive weight loss postoperatively in patients with gastric bypass and Roux-en-Y anastomosis may necessitate enteral feeding. However, the stomach may not be accessible by routine endoscopy. Several options for tube placement in this situation are possible. First, percutaneous gastrostomy may be performed at the time of the original bypass surgery. Although this is certainly not required in the vast majority of patients, placement of a gastrostomy tube at the time of surgery in patients deemed at high risk for complications (e.g., obstruction or anastomotic leak, estimated to involve &amp;lt;2% of the total bariatric population) obviates later repeat operation. Gastropexy helps to secure the excluded stomach to the anterior abdominal wall and Cope loop catheters may be used for the feeding device. This procedure tends to be a temporizing procedure, and repeat surgical intervention is often required at a later time. A third option is percutaneous gastrostomy with balloon enteroscopy. The double-balloon technique allows endoscopic evaluation deep into the small bowel, reducing loops of small bowel as the enteroscope is passed along the GI tract. The endoscopy does need to be done in conjunction with fluoroscopy, because it can be difficult to identify the pancreatic or biliary limb of the Roux-en-Y. When this limb has been identified, the entrance may be marked with an injection of India ink. The technique does still require adequate transillumination after the scope has been advanced into the excluded stomach, and failure to transilluminate may preclude successful placement. Although the pull technique for endoscopy-guided gastrostomy placement has been used successfully, tension on the guide wire and trauma to the mucosa can be excessive and increase the risk for perforation. For these reasons, the Russell introducer technique should be considered in patients with this postoperative anatomy.</p>
+<p><strong>Enterocutaneous Fistula</strong></p>
+<p>Fistuloclysis in patients with enterocutaneous fistula involves placement of a tube through the fistula and delivery of enteral nutrition downstream into the small bowel. Such feeding in these difficult cases reverses malnutrition, ameliorates parenteral nutrition&amp;ndash;induced hepatopathy, and improves function of the small bowel before repeat operation. In patients with multiple fistulas, fluoroscopy is used to probe each fistula to find the one most distal in the GI tract. Feeding in more proximal fistulas simply increases output from the fistulas below. A small-bore 8&amp;ndash;12-F tube may be placed through the fistula, and secured by a stitch to the fibrous ring at the mouth of the fistula. The tube is further secured by running stitches from the tube to the adjacent skin, and then clipping the tube into a clamping device positioned on the surface of the abdomen next to the open wound. As a fistula may have both an afferent and an efferent limb, it is important to place the tube distal to, or downstream from, the fistula. Inadvertent placement of the tube in the afferent limb will result in poor tolerance, as peristalsis will drive the infused formula back out the mouth of the fistula.</p>
+<p><strong>Billroth II Anastomosis</strong></p>
+<p>Direct percutaneous jejunostomy is actually facilitated or made easier by surgery resulting in an antecolic Billroth II anastomosis, as proximal jejunum is brought out of the retroperitoneal space and the chances for transillumination are increased. For patients with a long afferent limb, it is important to correctly identify and place the percutaneous jejunostomy in the efferent limb. Failure to do so results in a clinical situation similar to afferent limb syndrome, wherein poor peristalsis and retention of formula in the afferent limb causes pain, nausea, vomiting, and poor feeding tolerance.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Continuous Care/Maintenance of GI Access</span></strong></p>
+<p><strong>Tube Dressing and Positioning</strong></p>
+<p>The gastrostomy site should be cleaned with mild soap and water; hydrogen peroxide should not be used after the first week after placement as it can irritate the skin and contribute to stomal leaks. Cut drain sponges should be placed over rather than under the external bumper, so as not to apply excessive tension to the gastrostomy site. Occlusive dressings should not be used, as they can lead to peristomal skin maceration and breakdown. Should excessive granulation tissue develop at the gastrostomy site, topical silver nitrate or a high-potency topical steroid can be applied or the tissue can be trimmed with surgical scissors to reduce irritation and decrease drainage. Daily cleaning of the tube with water and regular or antibacterial soap is adequate to keep the tube clean. Some institutions do not apply a dressing to the site.</p>
+<p>To prevent buried bumper syndrome in transoral tubes, the external bolster of the transoral placed gastrostomy tube should be positioned in a manner such that the tube can be pushed in and out at least 1 cm. One retrospective study demonstrated a significant reduction in tube-related complications in a group of patients with a loose external bolster.</p>
+<p><strong>Initiation of Feeding</strong></p>
+<p>Traditionally, after endoscopic-guided transoral enteric access placement, feeding was initiated after period of time between 12 and 24 hours. It was expected that, during that time, the GI system returns to normal function and better seal of the enteral opening is achieved. Later, several prospective randomized studies clearly demonstrated that earlier initiation of feeding at 3 hours, 4 hours, and even immediately is safe. These data were further analyzed and confirmed in a metaanalysis that summarized six randomized trials.</p>
+<p>Similar randomized studies comparing delayed and early feeding following transabdominal gastrostomy placement have not been performed. Generally, in older literature, the initiation of feeding was reported to be between 12 and 24 hours. In later studies describing experience with transabdominal access with endoscopic guidance, the initiation of feeding was shorter, at 4 to 6 hours, and appeared to be safe. Future randomized studies are needed to confirm this latest experience.</p>
+<p><strong>Choice of Tube Configuration and Material</strong></p>
+<p>Gastrostomy tubes can be classified according to the diameter, material, and retention mechanism. Generally, the choice of diameter of a tube is dictated by the location of the tube (jejunostomy vs gastrostomy). Smaller-diameter tubes are prone to more frequent dysfunction, so it is recommended to place the largest diameter tube practically reasonable.</p>
+<p>Silicone was the material of choice for enteric tubes for a number of years. Well known to be highly biocompatible, it is structurally weak, resulting in smaller internal diameter because of the thicker wall. In one laboratory study, polyurethane tubes clogged less than silicone tubes. A retrospective study demonstrated that silicone tubes deteriorate significantly sooner than polyurethane tubes. That was supported by well designed prospective randomized study that also demonstrated greater patency and structural integrity of polyurethane gastrostomy tubes. However, in another prospective study, the authors showed no difference in long-term patency and complications between polyurethane and silicone tubes. In addition, silicone tubes were found to be prone to fungal colonization, resulting in material degradation and tube occlusion.</p>
+<p><strong>Routine Tube Flushing to Prevent Clogging</strong></p>
+<p>GI tubes have a tendency to clog, especially tubes of smaller diameter. This occurs between 20% and 45% of the time, depending on the definition of tube occlusion. This number could be increased 10-fold if gastric residuals are checked through the feeding tube. Tube occlusion is often caused by the interaction of protein-based formulas with an acidic environment and medications. If not flushed properly, the smaller-diameter tubes&amp;mdash;such as jejunostomy tubes&amp;mdash;often clog. Several flushing agents including water, carbonated beverages, and cranberry juice have been studied. Cranberry juice and carbonated beverages were shown to be inferior to water, most probably because their high sugar content was associated with stickiness.</p>
+<p>Several published cases of infections were traced to tap water flushing. It is generally recommended to flush the tubes with the sterile water; however, it is recognized that the practices vary in different institutions. Several reports demonstrated superiority of prophylactic use of pancreatic enzymes to prevent tube occlusion.</p>
+<p><strong>Unclogging the Enteral Tube</strong></p>
+<p>Even in the best clinical practice, feeding tubes occasionally clog. Simple flushing with water can relieve the obstruction in one third of patients. If simple water flushing fails to unclog a feeding tube, the installation of pancreatic enzymes can reopen an additional 50% of occluded tubes. If these efforts fail, attempt to clean the tube with mechanical devices such as a Fogarty balloon, biopsy brush, or commercially available tube decloggers can be performed. Replacement of the tube is performed as a last resort.</p>
+<p><strong>Gastrostomy Tube Change</strong></p>
+<p>With optimal care, most transoral bumper-type gastrostomy tubes can remain in place for 1 to 2 years. However, eventually, all tubes will require replacement as a result of breakage, occlusion, or dislodgment. In contrast, the Cope loop type of transabdominal gastrostomy is usually replaced 1 to 3 months after initial placement.</p>
+<p>There are two major types of replacement gastrostomy tubes on the market that differ in their retention mechanism: a double-lumen balloon-type tube and a single-lumen distensible bumper-type tube. The only study that compared the performance between these two types of tubes demonstrated that there is no statistically significant difference in terms of skin infection and tube malfunction. The main cause of tube failure in balloon-type tubes was occlusion; that in the distensible bumper-type tubes was tube degradation.</p>
+<p>Low-profile tubes that provide more aesthetic skin-level access to the stomach are especially popular in the pediatric population. The retention mechanism can be a balloon or distensible bumper, and each device is tailored to the length of the stoma tract of each patient.</p>
+<p>Preventive maintenance of gastrostomy tubes that includes elective change at a fixed period of time (usually 3 to 6 months) is the standard practice in some places. This is more common for the balloon-tip gastrostomy tubes because of the potential for balloon failure.</p>
+<p>In circumstances in which a gastrostomy is replaced blindly at the bedside, confirmation of the correct placement by using auscultation and gastric content aspiration is imperative. If correct position is in question, a postreplacement radiograph with contrast medium should be performed. Gastrojejunostomy tubes are usually changed over a guidewire under fluoroscopy or endoscopy guidance.</p>
+<p>As a result of the small diameter and complicated configurations of gastrojejunostomy tubes, they often require more frequent maintenance and replacement. Replacement rates of 2.2 times in 39 days have been reported in a pediatric population.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Complications</strong></span></p>
+<p>Refer to the &quot;Potential Harms&quot; field and the original guideline document for information on major and minor complications of gastrostomy tube placement.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Ethical Issues</strong></span></p>
+<p>Refer to the original guideline document for information on ethical issues.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Conclusions</span></strong></p>
+<p>Gastroenteric access is an integral part of the patient care provided by a variety of health care professionals. Transabdominal and natural-orifice approaches have been proven to be successful and safe under endoscopic or image guidance.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Any condition requiring gastrointestinal (GI) access for enteral nutrition or decompression</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Risk Assessment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Colon and Rectal Surgery"/>
+      <fieldvalue value="Gastroenterology"/>
+      <fieldvalue value="Geriatrics"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Nursing"/>
+      <fieldvalue value="Nutrition"/>
+      <fieldvalue value="Preventive Medicine"/>
+      <fieldvalue value="Radiology"/>
+      <fieldvalue value="Surgery"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Dietitians"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Speech-Language Pathologists"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To serve as a practical guideline for the health care providers involved in creating and maintaining percutaneous gastroenteric access in adult patents</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adult patients undergoing tube placement for gastrointestinal (GI) access for enteral nutrition and decompression</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Patient selection (consideration of indications and contraindications for gastrointestinal [GI] access) </li>
+    <li>Preprocedure evaluation
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Management of anticoagulant and antiplatelet therapy </li>
+        <li>Antibiotic prophylaxis </li>
+        <li>Dietary preparation </li>
+        <li>Laboratory tests (complete blood count, prothrombin, partial thromboplastin, international normalized ratio [INR], arterial blood gas analysis) </li>
+    </ul>
+    </li>
+    <li>Technical aspects of the procedures (blind, endoscopic, or image-guided)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Placement of nasoenteric (NG) or oroenteric tubes </li>
+        <li>Percutaneous gastrostomy (transoral or transabdominal approach) </li>
+        <li>Percutaneous gastrojejunostomy </li>
+        <li>Percutaneous jejunostomy </li>
+        <li>Percutaneous cecostomy </li>
+    </ul>
+    </li>
+    <li>Special considerations for gastric bypass, enterocutaneous fistula, and Billroth II anastomosis </li>
+    <li>Continuous care and maintenance of GI access
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Tube dressing and positioning </li>
+        <li>Initiation of feeding </li>
+        <li>Choice of tube configuration and material </li>
+        <li>Routine tube flushing to prevent clogging </li>
+        <li>Unclogging the enteral tube </li>
+        <li>Gastrostomy tube change </li>
+    </ul>
+    </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Success rates of nasoenteric and oroenteric tube placement </li>
+    <li>Success rates of percutaneous gastrostomy </li>
+    <li>Success rates for percutaneous gastrojejunostomy </li>
+    <li>Success rates of direct percutaneous jejunostomy </li>
+    <li>Success rates of percutaneous cecostomy </li>
+    <li>Complication rates (major and minor) </li>
+    <li>Mortality rates </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An in-depth literature search was performed by using electronic medical literature databases (mainly PubMed searching with no prior date restriction and up to 2011, as the 2011 guideline was the first version of this guideline). Case reports were included when reporting on adverse events of importance. Search terms included <em>gastrointestinal access, interventional radiology, enteral feeding, gastrostomy, endoscopic jejunostomy,</em> and <em>nasogastric tube</em>.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Not stated"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A critical review of peer-reviewed articles is performed with regard to the study methodology, results, and conclusions. The qualitative weight of these articles is assembled into an evidence table, which is used to write the document such that it contains evidence-based data with respect to content, complication rates, outcomes, and thresholds for prompting quality assurance reviews.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus (Delphi)"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>When the evidence of literature is weak, conflicting, or contradictory, consensus for the parameter is reached by a minimum of 12 Standards of Practice Committee members by using a modified Delphi consensus method. For the purposes of these documents, consensus is defined as 80% Delphi participant agreement on a value or parameter.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The draft document is critically reviewed by the Standards of Practice Committee members, either by telephone conference calling or face-to-face meeting. The finalized draft from the Committee is sent to the Society of Interventional Radiology (SIR) membership for further input/criticism during a 30-day comment period. These comments are discussed by the Standards of Practice Committee, and appropriate revisions made to create the finished standards document. Before its publication the document is endorsed by the SIR Executive Council.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of evidence supporting the recommendations is not specifically stated.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Improved creation and maintenance of percutaneous gastroenteric access for enteral nutrition and decompression</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The most common complications of endoscopy include aspiration, hemorrhage, and perforation, and sedation carries the risks of hypoxia, hypotension, and aspiration.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Major and Minor Complications of Gastrostomy Tube Placement</span></strong></p>
+<p><strong>Major Complications</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aspiration - 0.3%&amp;ndash;1.0% </li>
+    <li>Hemorrhage - 0%&amp;ndash;2.5% </li>
+    <li>Peritonitis - 0.5%&amp;ndash;1.3% </li>
+    <li>Necrotizing fasciitis - Rare </li>
+    <li>Death - 0%&amp;ndash;2.1% </li>
+    <li>Tumor implantation - Rare </li>
+</ul>
+<p><strong>Minor Complications</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Ileus - 1%&amp;ndash;2% </li>
+    <li>Peristomal infection - 5.4%&amp;ndash;30% </li>
+    <li>Stomal leakage - 1%&amp;ndash;2% </li>
+    <li>Buried bumper - 0.3%&amp;ndash;2.4% </li>
+    <li>Gastric ulcer - 0.3%&amp;ndash;1.2% </li>
+    <li>Fistulous tracts - 0.3%&amp;ndash;6.7% </li>
+    <li>Inadvertent removal - 1.6%&amp;ndash;4.4% </li>
+</ul>
+<p>Refer to the original guideline document for additional information about complications.</p></div>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Absolute Contraindications</strong></p>
+<p>Absolute contraindications to tube placement include mechanical obstruction of the gastrointestinal (GI) tract (unless the procedure is indicated for decompression), active peritonitis, uncorrectable coagulopathy, or bowel ischemia.</p>
+<p><strong>Relative Contraindications</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A number of other conditions represent relative contraindications to enteral access, such as recent GI bleeding, hemodynamic instability, ascites, respiratory compromise, and certain anatomic alterations. Recent GI bleeding from peptic ulcer disease with a visible vessel or from esophageal varices is associated with a high rate of recurrent bleeding, and therefore the decision to achieve access and initiate enteral nutrition should be delayed for 72 hours. Patients bleeding from angiodysplasia, gastritis, or stress gastropathy are at less risk for recurrent bleeding and therefore do not require a delay in seeking enteral access. </li>
+    <li>In case of interposition of the colon between the abdominal wall and stomach, percutaneous placement of a gastrostomy is contraindicated. In these cases, gastrostomy can be placed surgically. </li>
+    <li>Gastrostomy placement in the presence of ascites is difficult, increases the risk for bacterial peritonitis, and may impair maturation of the stoma tract. Gastrostomy tubes may be placed successfully after paracentesis if reaccumulation can be prevented for a period of 7 to 10 days after placement to allow the tract to mature. Gastropexy devices could be used to secure the stomach to the anterior abdominal wall. </li>
+    <li>Placement of the gastrostomy in the presence of the ventriculoperitoneal shunts may increase the risk of ascending meningitis. </li>
+    <li>Morbidly obese patients with a panniculus are at increased risk, as shifting of the panniculus in the postoperative period may dislodge the gastrostomy tube out of the stomach and into the peritoneal space. </li>
+    <li>Although fever and ongoing infection are a concern, they do not represent an absolute contraindication to tube placement. </li>
+    <li>Anatomic alterations such as an open abdomen, presence of ostomy sites or drain tubes, and surgical scars may alter the location for gastrostomy tube placement. Staying more than 2 cm away from a surgical scar reduces risk, as intervening loops of bowel tend to get trapped in the scar tissue immediately below the skin. </li>
+    <li>Specific problems that may preclude endoscopy guided placement include facial fractures, selective skull fractures with leakage of cerebral spinal fluid, high cervical fractures, and upper GI obstruction. In these cases, image-guided gastrostomy placement can be used successfully. </li>
+    <li>Problems that may impede image-guided placement include those conditions that prohibit transport to the radiology suite, such as hemodynamic instability, head injury with increased intracranial pressure, or cardiac dysrhythmias.&amp;nbsp; </li>
+</ul></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A primary goal of the Society of Interventional Radiology (SIR) is ensuring high-quality outcomes and patient safety in vascular and interventional radiology. The clinical practice guidelines of the SIR attempt to define practice principles that generally should assist in producing high quality medical care. These guidelines are voluntary and are not rules. A physician may deviate from these guidelines, as necessitated by the individual patient and available resources. These practice guidelines should not be deemed inclusive of all proper methods of care or exclusive of other methods of care that are reasonably directed towards the same result. Other sources of information may be used in conjunction with these principles to produce a process leading to high quality medical care. The ultimate judgment regarding the conduct of any specific procedure or course of management must be made by the physician, who should consider all circumstances relevant to the individual clinical situation. Adherence to the SIR Quality Improvement Program will not assure a successful outcome in every situation. It is prudent to document the rationale for any deviation from the suggested practice guidelines in the department policies and procedure manual or in the patient's medical record.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="End of Life Care"/>
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+      <fieldvalue value="Safety"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Itkin M, DeLegge MH, Fang JC, McClave SA, Kundu S, Janne d'Othee B, Martinez-Salazar GM, Sacks D, Swan TL, Towbin RB, Walker TG, Wojak JC, Zuckerman DA, Cardella JF, Interventional Radiology and American Gastroenterological Association, American Gastroenterological Association Institute, Canadian Interventional Radiological Association, Cardiovascular and Interventional Radiological Society of Europe. Multidisciplinary practical guidelines for gastrointestinal access for enteral nutrition and decompression from the Society of Interventional Radiology and American Gastroenterological Association (AGA) Institute, with endorsement by Canadian Interventional Radiological Association (CIRA) and Cardiovascular and Interventional Radiological Society of Europe (CIRSE). J Vasc Interv Radiol. 2011 Aug;22(8):1089-106. [244 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21782465&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2011 Aug"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American Gastroenterological Association Institute - Medical Specialty Society"/>
+      <fieldvalue value="Society of Interventional Radiology - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Society of Interventional Radiology</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Standards of Practice Committee</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Committee Members</em>: Maxim Itkin, MD, Department of Radiology, Division of Interventional Radiology, University of Pennsylvania Medical Center, Pennsylvania Veterans Affairs Medical Center, Philadelphia, Pennsylvania; Mark H. DeLegge, MD, Digestive Disease Center, Medical University of South Carolina, Charleston, South Carolina; John C. Fang, MD, Division of Gastroenterology, Hepatology and Nutrition, University of Utah Health Sciences Center, Salt Lake City, Utah; Stephen A. McClave, MD, Division of Gastroenterology/Hepatology, University of Louisville School of Medicine, Louisville, Kentucky; Sanjoy Kundu, MD, Department of Medical Imaging, Scarborough General Hospital, Toronto, Ontario, Canada; Bertrand Janne d'Othee, MD, MPH, Department of Radiology, Division of Interventional Radiology, University of Maryland School of Medicine, Baltimore, Maryland; Gloria M. Martinez-Salazar, MD, Division of Vascular Imaging and Intervention, Massachusetts General Hospital, Boston, Massachusetts; David Sacks, MD, Department of Interventional Radiology, Reading Hospital and Medical Center, Reading, Pennsylvania; Timothy L. Swan, MD, Department of Radiology, Marshfield Clinic, Marshfield, Wisconsin; Richard B. Towbin, MD, Department of Radiology, Phoenix Children's Hospital, Phoenix, Arizona; T. Gregory Walker, MD, Division of Vascular Imaging and Intervention, Massachusetts General Hospital, Boston, Massachusetts; Joan C. Wojak, MD, Department of Radiology, Our Lady of Lourdes Medical Center, Lafayette, Louisiana; Darryl A. Zuckerman, MD, Mallinckrodt Institute of Radiology, Washington University School of Medicine, St. Louis, Missouri; John F. Cardella, MD, Department of Radiology, Geisinger Health System, Danville, Pennsylvania</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>M.H.D. is a paid consultant for Cook Medical (Bloomington, Indiana). S.A.M. is a consultant for Kimberly Clark, Covidien, Nestle, and Abbott and is a recipient of research funds from Nestle and ACM Technologies. None of the other authors have identified a conflict of interest.</p></div>"/>
+    </field>
+    <field fieldid="159" ordby="1255" id="453" name="Guideline Endorser(s)" type="orglist">
+      <fieldvalue value="Canadian Interventional Radiology Association - Medical Specialty Society"/>
+      <fieldvalue value="Cardiovascular and Interventional Radiological Society of Europe - Nonprofit Organization"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;http://www.sirweb.org/clinical/cpg/PIIS1051044311008505.pdf&quot; title=&quot;Society of Interventional Radiology Web site&quot;>Society of Interventional Radiology Web site</a>.</p>
+<p>Print copies: Available from the Society of Interventional Radiology, 10201 Lee Highway, Suite 500, Fairfax, VA 22030</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on January 23, 2015.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 18:22:31 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:41:07 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 164.851 (3)
+  esindex: 0.014
+  captures_list: 205.505
+  CDXLines.iter: 17.654 (3)
+  PetaboxLoader3.datanode: 70.067 (4)
+  exclusion.robots: 0.398
+  exclusion.robots.policy: 0.378
+  RedisCDXSource: 17.592
+  PetaboxLoader3.resolve: 173.717 (2)
+  load_resource: 122.319
+-->

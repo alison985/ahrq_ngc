@@ -1,0 +1,993 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app42.us.archive.org';v.server_ms=409;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10690?contentType=xml', '20180713140947')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713140947/https://www.guideline.gov/summaries/downloadcontent/ngc-10690?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713140947/https://www.guideline.gov/summaries/downloadcontent/ngc-10690?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10690?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713140947" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610071646/https://www.guideline.gov/summaries/downloadcontent/ngc-10690?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 14:09:47 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610071646/https://www.guideline.gov/summaries/downloadcontent/ngc-10690?contentType=xml" title="07:16:46 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 14:09:47 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930210215/https://www.guideline.gov/summaries/downloadcontent/ngc-10690?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 14:09:47 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713140947*/https://www.guideline.gov/summaries/downloadcontent/ngc-10690?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10690?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Bladder cancer: diagnosis and management.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Collaborating Centre for Cancer. Bladder cancer: diagnosis and management. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Feb 25. 55 p.&amp;nbsp;(NICE guideline; no. 2).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Cancer (NCC-C) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p>The wording used in the recommendations in this guideline (for example words such as 'offer' and 'consider') denotes the certainty with which the recommendation is made (the strength of the recommendation) and is defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Information and Support for People with Bladder Cancer</span></strong></p>
+<p>Follow the recommendations on communication and patient-centred care in NICE's guideline on <a href=&quot;http://www.nice.org.uk/guidance/cg138&quot; title=&quot;NICE Web site&quot;>Patient experience in adult NHS services</a> and the advice in NICE's guidelines on <a href=&quot;http://www.nice.org.uk/guidance/csguc&quot; title=&quot;NICE Web site&quot;>Improving outcomes in urological cancers</a> and <a href=&quot;http://www.nice.org.uk/guidance/csgsp&quot; title=&quot;NICE Web site&quot;>Improving supportive and palliative care for adults with cancer</a> throughout the person's care.</p>
+<p>Offer clinical nurse specialist support to people with bladder cancer and give them the clinical nurse specialist's contact details.</p>
+<p>Ensure that the clinical nurse specialist:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Acts as the key worker to address the person's information and care needs </li>
+    <li>Has experience and training in bladder cancer care </li>
+</ul>
+<p>Use a holistic needs assessment to identify an individualised package of information and support for people with bladder cancer and, if they wish, their partners, families or carers, at key points in their care such as:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>When they are first diagnosed </li>
+    <li>After they have had their first treatment </li>
+    <li>If their bladder cancer recurs or progresses </li>
+    <li>If their treatment is changed </li>
+    <li>If palliative or end of life care is being discussed </li>
+</ul>
+<p>When carrying out a holistic needs assessment, recognise that many of the symptoms, investigations and treatments for bladder cancer affect the urogenital organs and may be distressing and intrusive. Discuss with the person:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The type, stage and grade of their cancer and likely prognosis </li>
+    <li>Treatment and follow-up options </li>
+    <li>The potential complications of intrusive procedures, including urinary retention, urinary infection, pain, bleeding or need for a catheter </li>
+    <li>The impact of treatment on their sexual health and body image, including how to find support and information relevant to their gender </li>
+    <li>Diet and lifestyle, including physical activity </li>
+    <li>Smoking cessation for people who smoke </li>
+    <li>How to find information about bladder cancer, for example through information prescriptions, sources of written information, websites or DVDs </li>
+    <li>How to find support groups and survivorship programmes </li>
+    <li>How to find information about returning to work after treatment for cancer </li>
+    <li>How to find information about financial support (such as free prescriptions and industrial compensation schemes) </li>
+</ul>
+<p>Offer smoking cessation support to all people with bladder cancer who smoke, in line with NICE's guidelines on <a href=&quot;http://www.nice.org.uk/guidance/ph10&quot; title=&quot;NICE Web site&quot;>Smoking cessation services</a> and <a href=&quot;http://www.nice.org.uk/guidance/ph1&quot; title=&quot;NICE Web site&quot;>Brief interventions and referral for smoking cessation</a>.</p>
+<p>Offer people with bladder cancer and, if they wish, their partners, families or carers, opportunities to have discussions at any stage during their treatment and care with:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A range of specialist healthcare professionals, including those who can provide psychological support </li>
+    <li>Other people with bladder cancer who have had similar treatments </li>
+</ul>
+<p>Clinicians caring for people with bladder cancer should ensure that there is close liaison between secondary and primary care with respect to ongoing and community-based support.</p>
+<p>Trusts should consider conducting annual bladder cancer patient satisfaction surveys developed by their urology multidisciplinary team and people with bladder cancer, and use the results to guide a programme of quality improvement.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Diagnosing and Staging Bladder Cancer</span></strong></p>
+<p><strong>Diagnosis</strong></p>
+<p>Do not substitute urinary biomarkers for cystoscopy to investigate suspected bladder cancer or for follow-up after treatment for bladder cancer, except in the context of a clinical research study.</p>
+<p>Consider computed tomography (CT) or magnetic resonance imaging (MRI) staging before transurethral resection of bladder tumour (TURBT) if muscle-invasive bladder cancer is suspected at cystoscopy.</p>
+<p>Offer white-light-guided TURBT with one of photodynamic diagnosis, narrow-band imaging, cytology or a urinary biomarker test (such as UroVysion using fluorescence in situ hybridisation [FISH], ImmunoCyt or a nuclear matrix protein 22 [NMP22] test) to people with suspected bladder cancer. This should be carried out or supervised by a urologist experienced in TURBT.</p>
+<p>Obtain detrusor muscle during TURBT.</p>
+<p>Do not take random biopsies of normal-looking urothelium during TURBT unless there is a specific clinical indication (for example, investigation of positive cytology not otherwise explained).</p>
+<p>Record the size and number of tumours during TURBT.</p>
+<p>Offer people with suspected bladder cancer a single dose of intravesical mitomycin C given at the same time as the first TURBT.</p>
+<p><strong>Staging</strong></p>
+<p>Consider further TURBT within 6 weeks if the first specimen does not include detrusor muscle.</p>
+<p>Offer CT or MRI staging to people diagnosed with muscle-invasive bladder cancer or high-risk non-muscle-invasive bladder cancer that is being assessed for radical treatment.</p>
+<p>Consider CT urography, carried out with other planned CT imaging if possible, to detect upper tract involvement in people with new or recurrent high-risk non-muscle-invasive or muscle-invasive bladder cancer.</p>
+<p>Consider CT of the thorax, carried out with other planned CT imaging if possible, to detect thoracic malignancy in people with muscle-invasive bladder cancer.</p>
+<p>Consider fluorodeoxyglucose positron emission tomography (FDG PET)-CT for people with muscle-invasive bladder cancer or high-risk non-muscle-invasive bladder cancer before radical treatment if there are indeterminate findings on CT or MRI, or a high risk of metastatic disease (for example, T3b disease).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Treating Non-Muscle-Invasive Bladder Cancer</span></strong></p>
+<p><strong>Risk Classification in Non-Muscle-Invasive Bladder Cancer</strong></p>
+<p>There is no widely accepted classification of risk in non-muscle-invasive bladder cancer. To make clear recommendations for management, the Guideline Development Group (GDG) developed the consensus classification in the table below, based on the evidence reviewed and clinical opinion.</p>
+<p><strong>Risk Categories in Non-Muscle-Invasive Bladder Cancer</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Risk Categories in Non-Muscle-Invasive Bladder Cancer&quot;>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Low Risk</th>
+            <td valign=&quot;top&quot;>Urothelial cancer with any of:
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Solitary pTaG1 with a diameter of less than 3 cm </li>
+                <li>Solitary pTaG2 (low grade) with a diameter of less than 3 cm </li>
+                <li>Any papillary urothelial neoplasm of low malignant potential </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Intermediate Risk</th>
+            <td valign=&quot;top&quot;>Urothelial cancer that is not low risk or high risk, including:
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Solitary pTaG1 with a diameter of more than 3 cm </li>
+                <li>Multifocal pTaG1 </li>
+                <li>Solitary pTaG2 (low grade) with a diameter of more than 3 cm </li>
+                <li>Multifocal pTaG2 (low grade) </li>
+                <li>pTaG2 (high grade) </li>
+                <li>Any pTaG2 (grade not further specified) </li>
+                <li>Any low-risk non-muscle-invasive bladder cancer recurring within 12 months of last tumour occurrence </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>High Risk</th>
+            <td valign=&quot;top&quot;>Urothelial cancer with any of:
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>pTaG3 </li>
+                <li>pT1G2 </li>
+                <li>pT1G3 </li>
+                <li>pTis (Cis) </li>
+                <li>Aggressive variants of urothelial carcinoma, for example micropapillary or nested variants </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Prognostic Markers and Risk Classification</strong></p>
+<p>Ensure that for people with non-muscle-invasive bladder cancer all of the following are recorded and used to guide discussions, both within multidisciplinary team meetings and with the person, about prognosis and treatment options:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Recurrence history </li>
+    <li>Size and number of cancers </li>
+    <li>Histological type, grade, stage and presence (or absence) of flat urothelium, detrusor muscle (muscularis propria), and carcinoma in situ </li>
+    <li>The risk category of the person's cancer </li>
+    <li>Predicted risk of recurrence and progression, estimated using a risk prediction tool </li>
+</ul>
+<p><strong>Low-Risk Non-Muscle-Invasive Bladder Cancer</strong></p>
+<p>For the treatment of low-risk non-muscle-invasive bladder cancer, see recommendations above under &quot;Diagnosing and Staging Bladder Cancer.&quot;</p>
+<p><strong>Intermediate-Risk Non-Muscle-Invasive Bladder Cancer</strong></p>
+<p>Offer people with newly diagnosed intermediate-risk non-muscle-invasive bladder cancer a course of at least 6 doses of intravesical mitomycin C.</p>
+<p>If intermediate-risk non-muscle-invasive bladder cancer recurs after a course of intravesical mitomycin C, refer the person's care to a specialist urology multidisciplinary team.</p>
+<p><strong>High-Risk Non-Muscle-Invasive Bladder Cancer</strong></p>
+<p>If the first TURBT shows high-risk non-muscle-invasive bladder cancer, offer another TURBT as soon as possible and no later than 6 weeks after the first resection.</p>
+<p>Offer the choice of intravesical Bacille Calmette-Gu&amp;eacute;rin (BCG) or radical cystectomy to people with high-risk non-muscle-invasive bladder cancer, and base the choice on a full discussion with the person, the clinical nurse specialist and a urologist who performs both intravesical BCG and radical cystectomy. Include in your discussion:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The type, stage and grade of the cancer, the presence of carcinoma in situ, the presence of variant pathology, prostatic urethral or bladder neck status and the number of tumours </li>
+    <li>Risk of progression to muscle invasion, metastases and death </li>
+    <li>Risk of understaging </li>
+    <li>Benefits of both treatments, including survival rates and the likelihood of further treatment </li>
+    <li>Risks of both treatments </li>
+    <li>Factors that affect outcomes (for example, comorbidities and life expectancy) </li>
+    <li>Impact on quality of life, body image, and sexual and urinary function </li>
+</ul>
+<p><em>Intravesical BCG</em></p>
+<p>Offer induction and maintenance intravesical BCG to people having treatment with intravesical BCG.</p>
+<p>If induction BCG fails (because it is not tolerated, or bladder cancer persists or recurs after treatment with BCG), refer the person's care to a specialist urology multidisciplinary team.</p>
+<p>For people in whom induction BCG has failed, the specialist urology multidisciplinary team should assess the suitability of radical cystectomy, or further intravesical therapy if radical cystectomy is unsuitable or declined by the person, or if the bladder cancer that recurs is intermediate- or low-risk.</p>
+<p><em>Radical Cystectomy</em></p>
+<p>See recommendations below for people who have chosen radical cystectomy.</p>
+<p><strong>Recurrent Non-Muscle-Invasive Bladder Cancer</strong></p>
+<p>Consider fulguration without biopsy for people with recurrent non-muscle-invasive bladder cancer if they have all of the following:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>No previous bladder cancer that was intermediate- or high-risk </li>
+    <li>A disease-free interval of at least 6 months </li>
+    <li>Solitary papillary recurrence </li>
+    <li>A tumour diameter of 3 mm or less </li>
+</ul>
+<p><strong>Managing Side Effects of Treatment</strong></p>
+<p>Do not offer primary prophylaxis to prevent BCG-related bladder toxicity except as part of a clinical trial.</p>
+<p>Seek advice from a specialist urology multidisciplinary team if symptoms of bladder toxicity after BCG cannot be controlled with antispasmodics or non-opiate analgesia and other causes have been excluded by cystoscopy.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Follow-up after Treatment for Non-Muscle-Invasive Bladder Cancer</span></strong></p>
+<p>Refer people urgently to urological services if they have haematuria or other urinary symptoms and a history of non-muscle-invasive bladder cancer.</p>
+<p>See recommendation above on the use of urinary biomarkers for follow-up after treatment for bladder cancer.</p>
+<p><strong>Low-Risk Non-Muscle-Invasive Bladder Cancer</strong></p>
+<p>Offer people with low-risk non-muscle-invasive bladder cancer cystoscopic follow-up 3 months and 12 months after diagnosis.</p>
+<p>Do not use urinary biomarkers or cytology in addition to cystoscopy for follow-up after treatment for low-risk bladder cancer.</p>
+<p>Discharge to primary care people who have had low-risk non-muscle-invasive bladder cancer and who have no recurrence of the bladder cancer within 12 months.</p>
+<p>Do not offer routine urinary cytology or prolonged cystoscopic follow-up after 12 months for people with low-risk non-muscle-invasive bladder cancer.</p>
+<p><strong>Intermediate-Risk Non-Muscle-Invasive Bladder Cancer</strong></p>
+<p>Offer people with intermediate-risk non-muscle-invasive bladder cancer cystoscopic follow-up at 3, 9 and 18 months, and once a year thereafter.</p>
+<p>Consider discharging people who have had intermediate-risk non-muscle-invasive bladder cancer to primary care after 5 years of disease-free follow-up.</p>
+<p><strong>High-Risk Non-Muscle-Invasive Bladder Cancer</strong></p>
+<p>Offer people with high-risk non-muscle-invasive bladder cancer cystoscopic follow-up:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Every 3 months for the first 2 years <strong>then</strong> </li>
+    <li>Every 6 months for the next 2 years <strong>then</strong> </li>
+    <li>Once a year thereafter </li>
+</ul>
+<p>For people who have had radical cystectomy for high-risk non-muscle-invasive bladder cancer, see recommendations below under &quot;Follow-up Treatment for Muscle-Invasive Bladder Cancer.&quot;</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Treating Muscle-Invasive Bladder Cancer</span></strong></p>
+<p>Ensure that a specialist urology multidisciplinary team reviews all cases of muscle-invasive bladder cancer, including adenocarcinoma, squamous cell carcinoma and neuroendocrine carcinoma, and that the review includes histopathology, imaging and discussion of treatment options.</p>
+<p><strong>Neoadjuvant Chemotherapy for Newly Diagnosed Muscle-Invasive Urothelial Bladder Cancer</strong></p>
+<p>Offer neoadjuvant chemotherapy using a cisplatin combination regimen before radical cystectomy or radical radiotherapy to people with newly diagnosed muscle-invasive urothelial bladder cancer for whom cisplatin-based chemotherapy is suitable. Ensure that they have an opportunity to discuss the risks and benefits with an oncologist who treats bladder cancer.</p>
+<p><strong>Radical Therapy for Muscle-Invasive Urothelial Bladder Cancer</strong></p>
+<p>Offer a choice of radical cystectomy or radiotherapy with a radiosensitiser to people with muscle-invasive urothelial bladder cancer for whom radical therapy is suitable. Ensure that the choice is based on a full discussion between the person and a urologist who performs radical cystectomy, a clinical oncologist and a clinical nurse specialist. Include in the discussion:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The prognosis with or without treatment </li>
+    <li>The limited evidence about whether surgery or radiotherapy with a radiosensitiser is the most effective cancer treatment </li>
+    <li>The benefits and risks of surgery and radiotherapy with a radiosensitiser, including the impact on sexual and bowel function and the risk of death as a result of the treatment </li>
+</ul>
+<p><em>Radical Cystectomy</em></p>
+<p>Offer people who have chosen radical cystectomy a urinary stoma, or a continent urinary diversion (bladder substitution or a catheterisable reservoir) if there are no strong contraindications to continent urinary diversion such as cognitive impairment, impaired renal function or significant bowel disease.</p>
+<p>Members of the specialist urology multidisciplinary team (including the bladder cancer specialist urological surgeon, stoma care nurse and clinical nurse specialist) should discuss with the person whether to have a urinary stoma or continent urinary diversion, and provide opportunities for the person to talk with people who have had these procedures.</p>
+<p>Offer people with bladder cancer and, if they wish, their partners, families or carers, opportunities to have discussions with a stoma care nurse before and after radical cystectomy as needed.</p>
+<p><em>Adjuvant Chemotherapy after Radical Cystectomy for Muscle-Invasive or Lymph-Node Positive Urothelial Bladder Cancer</em></p>
+<p>Consider adjuvant cisplatin combination chemotherapy after radical cystectomy for people with a diagnosis of muscle-invasive or lymph-node-positive urothelial bladder cancer for whom neoadjuvant chemotherapy was not suitable (because muscle invasion was not shown on biopsies before cystectomy). Ensure that the person has an opportunity to discuss the risks and benefits with an oncologist who treats bladder cancer.</p>
+<p><em>Radical Radiotherapy</em></p>
+<p>Use a radiosensitiser (such as mitomycin in combination with fluorouracil [5-FU]* or carbogen in combination with nicotinamide&amp;dagger;) when giving radical radiotherapy (for example, 64 Gy in 32 fractions over 6.5 weeks or 55 Gy in 20 fractions over 4 weeks) for muscle-invasive urothelial bladder cancer.</p>
+<p class=&quot;Note&quot;>*At the time of publication (February 2015), mitomycin in combination with 5-FU did not have a UK marketing authorisation for this indication. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's <a href=&quot;http://www.gmc-uk.org/guidance/ethical_guidance/14327.asp&quot; title=&quot;General Medical Council Web site&quot;>Prescribing guidance: prescribing unlicensed medicines</a> for further information.</p>
+<p class=&quot;Note&quot;>&amp;dagger;Although this use is common in UK clinical practice, at the time of publication (February 2015), carbogen in combination with nicotinamide did not have a UK marketing authorisation for this indication. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's <a href=&quot;http://www.gmc-uk.org/guidance/ethical_guidance/14327.asp&quot; title=&quot;General Medical Council Web site&quot;>Prescribing guidance: prescribing unlicensed medicines</a> for further information.</p>
+<p><strong>Managing Side Effects of Treatment</strong></p>
+<p>Seek advice from a specialist urology multidisciplinary team if symptoms of bladder toxicity after radiotherapy cannot be controlled with antispasmodics or non-opiate analgesia and other causes have been excluded by cystoscopy.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Follow-up after Treatment for Muscle-Invasive Bladder Cancer</span></strong></p>
+<p>Offer follow-up after radical cystectomy or radical radiotherapy.</p>
+<p>After radical cystectomy consider using a follow-up protocol that consists of:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Monitoring of the upper tracts for hydronephrosis, stones and cancer using imaging and glomerular filtration rate (GFR) estimation at least annually <strong>and</strong> </li>
+    <li>Monitoring for local and distant recurrence using CT of the abdomen, pelvis and chest, carried out together with other planned CT imaging if possible, 6, 12 and 24 months after radical cystectomy <strong>and</strong> </li>
+    <li>Monitoring for metabolic acidosis and B12 and folate deficiency at least annually <strong>and</strong> </li>
+    <li>For men with a defunctioned urethra, urethral washing for cytology and/or urethroscopy annually for 5 years to detect urethral recurrence </li>
+</ul>
+<p>After radical radiotherapy consider using a follow-up protocol that includes all of the following:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Rigid cystoscopy 3 months after radiotherapy has been completed, followed by either rigid or flexible cystoscopy:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Every 3 months for the first 2 years <strong>then</strong> </li>
+        <li>Every 6 months for the next 2 years <strong>then</strong> </li>
+        <li>Every year thereafter, according to clinical judgement and the person's preference </li>
+    </ul>
+    </li>
+    <li>Upper-tract imaging every year for 5 years </li>
+    <li>Monitoring for local and distant recurrence using CT of the abdomen, pelvis and chest, carried out with other planned CT imaging if possible, 6, 12 and 24 months after radical radiotherapy has finished. </li>
+</ul>
+<p>See recommendation above on the use of urinary biomarkers for follow-up after treatment for bladder cancer.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Managing Locally Advanced or Metastatic Muscle-Invasive Bladder Cancer</span></strong></p>
+<p><strong>First-Line Chemotherapy</strong></p>
+<p>Discuss the role of first-line chemotherapy with people who have locally advanced or metastatic bladder cancer. Include in your discussion:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Prognosis of their cancer <strong>and</strong> </li>
+    <li>Advantages and disadvantages of the treatment options, including best supportive care </li>
+</ul>
+<p>Offer a cisplatin-based chemotherapy regimen (such as cisplatin in combination with gemcitabine, or accelerated [high-dose] methotrexate, vinblastine, doxorubicin and cisplatin [MVAC] in combination with granulocyte-colony stimulating factor [G-CSF]) to people with locally advanced or metastatic urothelial bladder cancer who are otherwise physically fit (have an <a href=&quot;http://www.ecog.org/general/perf_stat.html&quot; title=&quot;ECOG-ACRIN Web site&quot;>Eastern Cooperative Oncology Group [ECOG] performance status</a> of 0 or 1) and have adequate renal function (typically defined as a GFR of 60 ml/min/1.73m<sup>2</sup> or more).</p>
+<p>Offer carboplatin in combination with gemcitabine&amp;Dagger; to people with locally advanced or metastatic urothelial bladder cancer with an ECOG performance status of 0&amp;ndash;2 if a cisplatin-based chemotherapy regimen is unsuitable, for example, because of ECOG performance status, inadequate renal function (typically defined as a GFR of less than 60 ml/min/1.73m<sup>2</sup>) or comorbidity. Assess and discuss the risks and benefits with the person.</p>
+<p>For people having first-line chemotherapy for locally advanced or metastatic bladder cancer:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Carry out regular clinical and radiological monitoring <strong>and</strong> </li>
+    <li>Actively manage symptoms of disease and treatment-related toxicity <strong>and</strong> </li>
+    <li>Stop first-line chemotherapy if there is excessive toxicity or disease progression </li>
+</ul>
+<p class=&quot;Note&quot;>&amp;Dagger;At the time of publication (February 2015), carboplatin in combination with gemcitabine did not have a UK marketing authorisation for this indication. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's <a href=&quot;http://www.gmc-uk.org/guidance/ethical_guidance/14327.asp&quot; title=&quot;General Medical Council Web site&quot;>Prescribing guidance: prescribing unlicensed medicines</a> for further information.</p>
+<p><strong>Second-Line Chemotherapy</strong></p>
+<p>Discuss second-line chemotherapy with people who have locally advanced or metastatic bladder cancer. Include in your discussion:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The prognosis of their cancer </li>
+    <li>Advantages and disadvantages of treatment options, including best supportive care </li>
+</ul>
+<p>Consider second-line chemotherapy with gemcitabine in combination with cisplatin, or accelerated (high-dose) MVAC in combination with G-CSF for people with incurable locally advanced or metastatic urothelial bladder cancer whose condition has progressed after first-line chemotherapy if:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Their renal function is adequate (typically defined as a GFR of 60 ml/min/1.73m<sup>2</sup> or more) <strong>and</strong> </li>
+    <li>They are otherwise physically fit (have an ECOG performance status of 0 or 1) </li>
+</ul>
+<p>Consider second-line chemotherapy with carboplatin in combination with paclitaxel or gemcitabine&amp;para; in combination with paclitaxel for people with incurable locally advanced or metastatic urothelial bladder cancer for whom cisplatin-based chemotherapy is not suitable, or who choose not to have it.</p>
+<p>For recommendations on vinflunine as second-line chemotherapy for people with incurable locally advanced or metastatic urothelial bladder cancer, see the NGC summary of the NICE guideline <a href=&quot;/content.aspx?id=43840&quot; title=&quot;Guideline #9632&quot; target=&quot;_blank&quot;>Vinflunine for the treatment of advanced or metastatic transitional cell carcinoma of the urothelial tract</a>. </p>
+<p>For people having second-line chemotherapy for locally advanced or metastatic bladder cancer:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Carry out regular clinical and radiological monitoring <strong>and</strong> </li>
+    <li>Actively manage symptoms of disease and treatment-related toxicity <strong>and</strong> </li>
+    <li>Stop second-line chemotherapy if there is excessive toxicity or disease progression </li>
+</ul>
+<p class=&quot;Note&quot;>&amp;para;Although this use is common in UK clinical practice, at the time of publication (February 2015), gemcitabine in combination with paclitaxel did not have a UK marketing authorisation for this indication. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's <a href=&quot;http://www.gmc-uk.org/guidance/ethical_guidance/14327.asp&quot; title=&quot;General Medical Council Web site&quot;>Prescribing guidance: prescribing unlicensed medicines</a> for further information.</p>
+<p><strong>Managing Symptoms of Locally Advanced or Metastatic Bladder Cancer</strong></p>
+<p><em>Bladder Symptoms</em></p>
+<p>Offer palliative hypofractionated radiotherapy to people with symptoms of haematuria, dysuria, urinary frequency or nocturia caused by advanced bladder cancer that is unsuitable for potentially curative treatment.</p>
+<p><em>Loin Pain and Symptoms of Renal Failure</em></p>
+<p>Discuss treatment options with people who have locally advanced or metastatic bladder cancer with ureteric obstruction. Include in your discussion:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Prognosis of their cancer <strong>and</strong> </li>
+    <li>Advantages and disadvantages of the treatment options, including best supportive care. </li>
+</ul>
+<p>Consider percutaneous nephrostomy or retrograde stenting (if technically feasible) for people with locally advanced or metastatic bladder cancer and ureteric obstruction who need treatment to relieve pain, treat acute kidney injury or improve renal function before further treatment.</p>
+<p>If facilities for percutaneous nephrostomy or retrograde stenting are not available at the local hospital, or if these procedures are unsuccessful, discuss the options with a specialist urology multidisciplinary team for people with bladder cancer and ureteric obstruction.</p>
+<p><em>Intractable Bleeding</em></p>
+<p>Evaluate the cause of intractable bleeding with the local urology team.</p>
+<p>Consider hypofractionated radiotherapy or embolisation for people with intractable bleeding caused by incurable bladder cancer.</p>
+<p>If a person has intractable bleeding caused by bladder cancer and radiotherapy or embolisation are not suitable treatments, discuss further management with a specialist urology multidisciplinary team.</p>
+<p><em>Pelvic Pain</em></p>
+<p>Evaluate the cause of pelvic pain with the local urology team.</p>
+<p>Consider, in addition to best supportive care, 1 or more of the following to treat pelvic pain caused by incurable bladder cancer:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Hypofractionated radiotherapy if the person has not had pelvic radiotherapy </li>
+    <li>Nerve block </li>
+    <li>Palliative chemotherapy </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Specialist Palliative Care for People with Incurable Bladder Cancer</span></strong></p>
+<p>A member of the treating team should offer people with incurable bladder cancer a sensitive explanation that their disease cannot be cured and refer them to the urology multidisciplinary team.</p>
+<p>Tell the primary care team that the person has been given a diagnosis of incurable bladder cancer within 24 hours of telling the person.</p>
+<p>A member of the urology multidisciplinary team should discuss the prognosis and management options with people with incurable bladder cancer.</p>
+<p>Discuss palliative care services with people with incurable bladder cancer and, if needed and they agree, refer them to a specialist palliative care team (for more information, see recommendation above under &quot;Information and Support for People with Bladder Cancer&quot; on holistic needs assessment and NICE's guidelines on <a href=&quot;http://www.nice.org.uk/guidance/csgsp&quot; title=&quot;NICE Web site&quot;>Improving supportive and palliative care for adults with cancer</a> and <a href=&quot;http://www.nice.org.uk/guidance/csguc&quot; title=&quot;NICE Web site&quot;>Improving outcomes in urological cancers</a>).</p>
+<p>Offer people with symptomatic incurable bladder cancer access to a urological team with the full range of options for managing symptoms.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p><strong>Strength of Recommendations</strong></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><em>Interventions That Must (or Must Not) Be Used</em></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally the GDG uses 'must' (or 'must not') if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><em>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation</em></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost effective. Similar forms of words (for example, 'Do not offer&amp;hellip;') are used when the GDG is confident that an intervention will not be of benefit for most patients.</p>
+<p><em>Interventions That Could Be Used</em></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most patients, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following algorithms are provided in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field):</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Diagnosis and staging </li>
+    <li>Management of non-muscle-invasive bladder cancer </li>
+    <li>Management of muscle-invasive bladder cancer </li>
+    <li>Management of locally advanced or metastatic bladder cancer </li>
+    <li>Managing symptoms of locally advanced or metastatic bladder cancer </li>
+</ul>
+<p>In addition, a National Institute for Health and Care Excellence (NICE) pathway titled &quot;Bladder Cancer Overview&quot; is available from the <a href=&quot;http://pathways.nice.org.uk/pathways/bladder-cancer&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Bladder cancer</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Non-muscle-invasive bladder cancer </li>
+    <li>Muscle-invasive bladder cancer </li>
+    <li>Locally advanced or metastatic bladder cancer </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Nursing"/>
+      <fieldvalue value="Oncology"/>
+      <fieldvalue value="Radiation Oncology"/>
+      <fieldvalue value="Radiology"/>
+      <fieldvalue value="Surgery"/>
+      <fieldvalue value="Urology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Health Plans"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Managed Care Organizations"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Patients"/>
+      <fieldvalue value="Pharmacists"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To offer best practice advice on the care of adults with bladder cancer</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adults (18 years and older) referred from primary care with suspected bladder cancer and those with newly diagnosed or recurrent bladder (urothelial carcinoma, adenocarcinoma, squamous-cell carcinoma or small-cell carcinoma) or urethral cancer</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: The guideline does not cover people aged under 18 or adults with bladder sarcoma, urothelial cancer of the upper urinary tract, or secondary bladder or urethral cancer (for example, bowel or cervix cancer spreading into the bladder).</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>Providing information and support
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Nurse specialist support </li>
+        <li>Holistic needs assessment to identify individualised package of information and support </li>
+        <li>Smoking cessation support </li>
+    </ul>
+    </li>
+    <li>Diagnosing and staging
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Urinary biomarker test (UroVysion using fluorescence in situ hybridisation [FISH], ImmunoCyt, nuclear matrix protein 22 [NMP22] test), only as part of a clinical research study </li>
+        <li>Computed tomography (CT) </li>
+        <li>CT urography </li>
+        <li>Magnetic resonance imaging (MRI) </li>
+        <li>White-light-guided transurethral resection of bladder tumour (TURBT) with one of photodynamic diagnosis, narrow-band imaging, cytology or a urinary biomarker test </li>
+        <li>Detrusor muscle biopsy during TURBT </li>
+        <li>Recording number and size of tumours during TURBT </li>
+        <li>Single dose of intravesical mitomycin at time of first TURBT </li>
+        <li>Fluorodeoxyglucose positron emission tomography (FDG PET)-CT </li>
+    </ul>
+    </li>
+    <li>Treating non-muscle-invasive bladder cancer
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Risk classification with treatment based on risk </li>
+        <li>Course of intravesical mitomycin C </li>
+        <li>Additional TURBT </li>
+        <li>Intravesical Bacille Calmette-Gu&amp;eacute;rin (BCG) </li>
+        <li>Radical cystectomy </li>
+        <li>Specialist referral </li>
+        <li>Fulguration without biopsy for recurrent cancer </li>
+        <li>Managing side effects of treatment </li>
+        <li>Cystoscopic follow-up after treatment </li>
+    </ul>
+    </li>
+    <li>Treating muscle-invasive bladder cancer
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Review by specialist urology multidisciplinary team </li>
+        <li>Neoadjuvant chemotherapy using a cisplatin combination regimen </li>
+        <li>Radical cystectomy </li>
+        <li>Radical radiotherapy with a radiosensitiser (such as mitomycin in combination with fluorouracil [5-FU] or carbogen in combination with nicotinamide) </li>
+        <li>Adjuvant chemotherapy after radical cystectomy </li>
+        <li>Managing side effects of treatment </li>
+        <li>Follow-up after treatment </li>
+    </ul>
+    </li>
+    <li>Managing locally advanced or metastatic muscle-invasive bladder cancer
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Cisplatin-based chemotherapy regimen (such as cisplatin in combination with gemcitabine, or accelerated [high-dose] methotrexate, vinblastine, doxorubicin and cisplatin [MVAC] in combination with granulocyte-colony stimulating factor [G-CSF]) </li>
+        <li>Carboplatin in combination with gemcitabine </li>
+        <li>Second-line chemotherapy regimens </li>
+        <li>Managing symptoms of locally advanced or metastatic bladder cancer </li>
+    </ul>
+    </li>
+    <li>Specialist palliative care for incurable bladder cancer
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Discussing the prognosis and management options </li>
+        <li>Discussing palliative care services </li>
+        <li>Access to urological team </li>
+    </ul>
+    </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Overall survival </li>
+    <li>Disease-free survival </li>
+    <li>Disease-related morbidity and mortality </li>
+    <li>Treatment-related morbidity and mortality </li>
+    <li>Psychological well-being </li>
+    <li>Quality of life for those nearing the end of their life </li>
+    <li>Number and length of admissions to hospital after diagnosis </li>
+    <li>Number and severity of adverse events </li>
+    <li>Health-related quality of life </li>
+    <li>Cost-effectiveness </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Cancer (NCC-C) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Developing Clinical Evidence-based Questions</span></strong></p>
+<p><strong>Method</strong></p>
+<p>From each of the key clinical issues identified in the scope, the Guideline Development Group (GDG) formulated a clinical question. For clinical questions about interventions, the PICO framework was used. This structured approach divides each question into four components: P &amp;ndash; the population (the population under study), I &amp;ndash; the interventions (what is being done), C &amp;ndash; the comparison (other main treatment options), O &amp;ndash; the outcomes (the measures of how effective the interventions have been).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Review of Clinical Literature</span></strong></p>
+<p><strong>Scoping Search</strong></p>
+<p>An initial scoping search for published guidelines, systematic reviews, economic evaluations and ongoing research was carried out on the following databases or websites: National Health Service (NHS) Evidence, Cochrane Databases of Systematic Reviews (CDSR), Health Technology Assessment Database (HTA), NHS Economic Evaluations Database (NHS EED), Health Economic Evaluations Database (HEED), Medline and EMBASE. </p>
+<p>At the beginning of the development phase, initial scoping searches were carried out to identify any relevant guidelines (local, national or international) produced by other groups or institutions.</p>
+<p><strong>Developing the Review Protocol</strong></p>
+<p>For each clinical question, the information specialist and researcher (with input from other technical team and GDG members) prepared a review protocol. This protocol explains how the review was to be carried out in order to develop a plan of how to review the evidence, limit the introduction of bias and for the purposes of reproducibility. All review protocols can be found in the evidence review (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p><strong>Searching for the Evidence</strong></p>
+<p>In order to answer each question the National Collaborating Centre for Cancer (NCC-C) information specialist developed a search strategy to identify relevant published evidence for both clinical and cost effectiveness. Key words and terms for the search were agreed in collaboration with the GDG. When required, the health economist searched for supplementary papers to inform detailed health economic work.</p>
+<p>Search filters, such as those to identify systematic reviews (SRs) and randomised controlled trials (RCTs) were applied to the search strategies when necessary. No language restrictions were applied to the search; however, foreign language papers were not requested or reviewed (unless of particular importance to that question).</p>
+<p>The following databases were included in the literature search:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Cochrane Library </li>
+    <li>Medline and Premedline 1946 onwards </li>
+    <li>Excerpta Medica (EMBASE) 1974 onwards </li>
+    <li>Web of Science (specifically Science Citation Index Expanded [SCI-EXPANDED] 1899 onwards and Social Sciences Citation Index [SSCI] 1956 onwards) </li>
+</ul>
+<p>Subject specific databases used for certain topics: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Cumulative Index to Nursing and Allied Health Literature (CINAHL) 1937 onwards </li>
+    <li>Allied &amp;amp; Complementary Medicine (AMED) 1985 onwards </li>
+    <li>PsycINFO 1806 onwards </li>
+</ul>
+<p>From this list the information specialist sifted and removed any irrelevant material based on the title or abstract before passing to the researcher. All the remaining articles were then stored in a Reference Manager electronic library.</p>
+<p>Searches were updated and re-run 6 to 8 weeks before the stakeholder consultation, thereby ensuring that the latest relevant published evidence was included in the database. Any evidence published after this date was not included. For the purposes of updating this guideline, June 2014 should be considered the starting point for searching for new evidence.</p>
+<p>Further details of the search strategies, including the methodological filters used, are provided in the evidence review.</p>
+<p><strong>Critical Appraisal</strong></p>
+<p>Following the literature search one researcher independently scanned the titles and abstracts of every article for each question, and full publications were obtained for any studies considered relevant or where there was insufficient information from the title and abstract to make a decision. When papers were obtained the researcher applied inclusion/exclusion criteria to select appropriate studies, which were then critically appraised.</p>
+<p><strong>Prioritising Topics for Economic Analysis</strong></p>
+<p>After the clinical questions had been defined, and with the help of the health economist, the GDG discussed and agreed which of the clinical questions were potential priorities for economic analysis. These economic priorities were chosen on the basis of the following criteria, in broad accordance with the NICE guidelines manual (NICE 2012) (see the &quot;Availability of Companion Documents&quot; field):</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The overall importance of the recommendation, which may be a function of the number of patients affected and the potential impact on costs and health outcomes per patient </li>
+    <li>The current extent of uncertainty over cost effectiveness, and the likelihood that economic analysis will reduce this uncertainty </li>
+    <li>The feasibility of building an economic model </li>
+</ul>
+<p>A review of the economic literature was conducted at scoping. Where published economic evaluation studies were identified that addressed the economic issues for a clinical question, these are presented alongside the clinical evidence.</p>
+<p>For systematic searches of published economic evidence, the following databases were included:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Medline </li>
+    <li>EMBASE </li>
+    <li>NHS Economic Evaluation Database (NHS EED) </li>
+    <li>Health Technology Assessment (HTA) </li>
+    <li>Health Economic Evaluations Database (HEED) </li>
+</ul>
+<p><strong>Updating the Guideline</strong></p>
+<p>Literature searches were repeated for all of the clinical questions at the end of the guideline development process, allowing any relevant papers published before June 6, 2014 to be considered. Future guideline updates will consider evidence published after this cut-off date.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>See the evidence review (see the &quot;Availability of Companion Documents&quot; field) for detailed information on results of literature searches, number of included and excluded studies, and evidence tables for each review question.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)</span></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Level</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>High</th>
+            <td valign=&quot;top&quot;>Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Moderate</th>
+            <td valign=&quot;top&quot;>Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Low</th>
+            <td valign=&quot;top&quot;>Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Very Low</th>
+            <td valign=&quot;top&quot;>Any estimate of effect is very uncertain.</td>
+        </tr>
+    </tbody>
+</table>
+<p>For non-interventional questions, for example the questions regarding diagnostic test accuracy, a narrative summary of the quality of the evidence was provided. The quality of individual diagnostic accuracy studies was assessed using the Quality Assessment of Diagnostic Accuracy Studies (QUADAS)-2 tool.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Cancer (NCC-C) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Review of Clinical Literature</span></strong></p>
+<p><strong>Critical Appraisal and Evidence Grading</strong></p>
+<p>For each question, data were extracted and recorded in evidence tables and an accompanying evidence summary prepared for the Guideline Development Group (GDG) (see the evidence review [see the &quot;Availability of Companion Documents&quot; field]). All evidence was considered carefully by the GDG for accuracy and completeness.</p>
+<p><strong>Grading of Recommendations Assessment, Development and Evaluation (GRADE)</strong></p>
+<p>For interventional questions, studies which matched the inclusion criteria were evaluated and presented using GRADE. Where possible this included meta-analysis and synthesis of data into a GRADE 'evidence profile'. The evidence profile shows, for each outcome, an overall assessment of both the quality of the evidence as a whole (very low, low, moderate or high) as well as an estimate of the size of effect. A narrative summary (evidence statement) was also prepared.</p>
+<p>Each outcome was examined for the quality elements defined in Table 2 in the full version of the guideline and subsequently graded using the quality levels listed in the &quot;Rating Scheme for the Strength of the Evidence&quot; field. The reasons for downgrading or upgrading specific outcomes were explained in footnotes.</p>
+<p>All procedures were fully compliant with NICE methodology as detailed in the 'NICE guidelines manual' (NICE 2012 [see the &quot;Availability of Companion Documents&quot; field]). In general, no formal contact was made with authors.</p>
+<p>For non-interventional questions, for example the questions regarding diagnostic test accuracy, a narrative summary of the quality of the evidence was provided. The quality of individual diagnostic accuracy studies was assessed using the Quality Assessment of Diagnostic Accuracy Studies (QUADAS)-2 tool.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Incorporating Health Economics Evidence</span></strong></p>
+<p><strong>Methods for Reviewing and Appraising Economic Evidence</strong></p>
+<p>The aim of reviewing and appraising the existing economic literature is to identify relevant economic evaluations that compare both costs and health consequences of alternative interventions and that are applicable to National Health Service (NHS) practice. Thus studies that only report costs, non-comparative studies of 'cost of illness' studies are generally excluded from the reviews.</p>
+<p>Economic studies identified through a systematic search of the literature are appraised using a methodology checklist designed for economic evaluations (see Appendix H in the full guideline document [see the &quot;Availability of Companion Documents&quot; field]). This checklist is not intended to judge the quality of a study per se, but to determine whether an existing economic evaluation is useful to inform the decision-making of the GDG for a specific topic within the guideline. There are two parts of the appraisal process; the first step is to assess applicability (i.e., the relevance of the study to the specific guideline topic and the NICE reference case) (see Table 4 in the full version of the guideline). In the second step, only those studies deemed directly or partially applicable are further assessed for limitations (i.e., the methodological quality, see Table 5 in the full version of the guideline).</p>
+<p>Where relevant, a summary of the main findings from the systematic search, review and appraisal of economic evidence is presented in an economic evidence profile alongside the clinical evidence.</p>
+<p>If high-quality published economic evidence relevant to current NHS practice was identified through the search, the existing literature was reviewed and appraised as described above. However, it is often the case that published economic studies may not be directly relevant to the specific clinical question as defined in the guideline or may not be comprehensive or conclusive enough to inform UK practice. In such cases, for priority topics, consideration was given to undertaking a new economic analysis as part of this guideline.</p>
+<p><strong>Economic Modelling</strong></p>
+<p>Once the need for a new economic analysis for high priority topics had been agreed by the GDG, the health economist investigated the feasibility of developing an economic model. In the development of the analysis, the following general principles were adhered to:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The GDG subgroup was consulted during the construction and interpretation of the analysis </li>
+    <li>The analysis was based on the best available clinical evidence from the systematic review </li>
+    <li>Assumptions were reported fully and transparently </li>
+    <li>Uncertainty was explored through sensitivity analysis </li>
+    <li>Costs were calculated from a health services perspective </li>
+    <li>Outcomes were reported in terms of quality-adjusted life years </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+      <fieldvalue value="Informal Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Cancer (NCC-C) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>The Guideline Development Group (GDG)</span></strong></p>
+<p>The bladder cancer GDG was recruited in line with the 'NICE guidelines manual' (NICE 2012 [see the &quot;Availability of Companion Documents&quot; field]). The first step was to appoint a Chair and a Lead Clinician. Advertisements were placed for both posts and shortlisted candidates were interviewed in person prior to being offered the role. The NCC-C Director, GDG Chair and Lead Clinician identified a list of specialties that needed to be represented on the GDG. Details of the adverts were sent to the main stakeholder organisations, cancer networks and patient organisations/charities. Individual GDG members were selected for telephone interview by the NCC-C Director, GDG Chair and Lead Clinician, based on their application forms. The guideline development process was supported by staff from the NCC-C, who undertook the clinical and health economics literature searches, reviewed and presented the evidence to the GDG, managed the process and contributed to drafting the guideline.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>GDG Meetings</span></strong></p>
+<p>Fourteen GDG meetings were held between October 18-19, 2012 and November 10-11, 2014. During each GDG meeting (held over either 1 or 2 days) clinical questions and clinical and economic evidence were reviewed, assessed and recommendations formulated. At each meeting patient/carer and service-user concerns were routinely discussed as part of a standing agenda item.</p>
+<p>NCC-C project managers divided the GDG workload by allocating specific clinical questions, relevant to their area of clinical practice, to small subgroups of the GDG in order to simplify and speed up the guideline development process. These groups considered the evidence, as reviewed by the researcher, and synthesised it into draft recommendations before presenting it to the GDG. These recommendations were then discussed and agreed by the GDG as a whole. Each clinical question was led by a GDG member with expert knowledge of the clinical area (usually one of the healthcare professionals). The GDG subgroups often helped refine the clinical questions and the clinical definitions of treatments. They also assisted the NCC-C team in drafting the section of the guideline relevant to their specific topic.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Patient/Carer Representatives</span></strong></p>
+<p>Individuals with direct experience of bladder cancer services gave an important user focus to the GDG and the guideline development process. The GDG included two patient/carer members. They contributed as full GDG members to writing the clinical questions, helping to ensure that the evidence addressed their views and preferences, highlighting sensitive issues and terminology relevant to the guideline and bringing service-user research to the attention of the GDG.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Expert Advisers</span></strong></p>
+<p>During the development of the guideline the GDG identified an area where there was a requirement for expert input on a particular specialist clinical question. An expert was identified by the NCC-C (see Appendix F in the full version of the guideline) and was invited to advise the GDG on drafting their recommendations for that clinical question.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Needs Assessment</span></strong></p>
+<p>As part of the guideline development process the NCC-C undertook a needs assessment. This aims to describe the burden of disease and current service provision for people with bladder cancer in England and Wales, and informed the development of the guideline.</p>
+<p>Assessment of the effectiveness of interventions is not included in the needs assessment, and was undertaken separately by researchers in the NCC-C as part of the guideline development process.</p>
+<p>The information included in the needs assessment document was presented to the GDG. Most of the information was presented early in the stages of guideline development, and other information was included to meet the evolving information needs of the GDG during the course of guideline development.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Agreeing the Recommendations</span></strong></p>
+<p>For each clinical question the GDG were presented with a summary of the clinical evidence, and, where appropriate, economic evidence, derived from the studies reviewed and appraised. From this information the GDG were able to derive the guideline recommendations. The link between the evidence and the view of the GDG in making each recommendation is made explicitly in the accompanying linking evidence to recommendations (LETR) statement.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>LETR Statements</span></strong></p>
+<p>As clinical guidelines were previously formatted, there was limited scope for expressing how and why a GDG made a particular recommendation from the evidence of clinical and cost effectiveness. To make this process more transparent to the reader, NICE has introduced an explicit, easily understood and consistent way of expressing the reasons for making each recommendation. This is known as the 'LETR statement' and will usually cover the following key points:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The relative value placed on the outcomes considered </li>
+    <li>The strength of evidence about benefits and harms for the intervention being considered </li>
+    <li>The costs and cost-effectiveness of an intervention </li>
+    <li>The quality of the evidence </li>
+    <li>The degree of consensus within the GDG </li>
+    <li>Other considerations &amp;ndash; for example equalities issues </li>
+</ul>
+<p>Where evidence was weak or lacking the GDG agreed the final recommendations through informal consensus.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Strength of Recommendations</span></strong></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><strong>Interventions That Must (or Must Not) Be Used</strong></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally the GDG uses 'must' (or 'must not') if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><strong>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation</strong></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost effective. Similar forms of words (for example, 'Do not offer&amp;hellip;') are used when the GDG is confident that an intervention will not be of benefit for most patients.</p>
+<p><strong>Interventions That Could Be Used</strong></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most patients, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The economic evidence identified by the health economics systematic review was summarised in the respective chapters in the full version of the guideline, following presentation of the clinical evidence (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p>The following cost-effectiveness evaluations are also available in the full version of the guideline:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Appendix A: The cost-effectiveness of a single instillation of chemotherapy immediately after transurethral resection of bladder tumour </li>
+    <li>Appendix B: The cost-effectiveness of reduced follow-up and/or follow-up using newer tests and techniques in comparison to the test and protocols used in current practice in non-muscle-invasive bladder cancer patients </li>
+</ul>
+<p>The results of the first cost-effectiveness evaluation suggest that the use of a single instillation of chemotherapy after a transurethral resection of bladder tumour (TURBT), in comparison to a TURBT alone, was found to be strongly cost-effective in all risk groups. It was found to be particularly cost effective in low and intermediate risk groups, in which the strategy was cost saving as well as more effective (dominant). Furthermore, this result was found to be robust in alternative scenario analyses, one-way and probabilistic sensitivity analysis.</p>
+<p>The results of the second cost analysis suggest that reducing the frequency of cystoscopic follow-up in low- and intermediate-risk patients is cost-effective. Furthermore, the results show that the addition of cytology or fluorescence in situ hybridisation (FISH) as a safety net was not cost-effective in these risk groups. In high-risk patients, the results of the analysis suggest that reducing cystoscopic follow-up alone is not cost-effective in comparison to current practice. However, the addition of cytology or FISH as a safety net was found to be cost-effective with a reduced frequency follow-up strategy with FISH found to be the most cost-effective strategy.</p>
+<p>However, there are concerns about the lack of comparative data that investigates variations in follow-up and further research is required to fully assess the safety, effectiveness and cost-effectiveness of the proposed follow-up strategies.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Consultation and Validation of the Guideline</span></strong></p>
+<p>The draft of the guideline was prepared by National Collaborating Centre for Cancer (NCC-C) staff in partnership with the Guideline Development Group (GDG) Chair and Lead Clinician. This was then discussed and agreed with the GDG and subsequently forwarded to the National Institute for Health and Care Excellence (NICE) for consultation with stakeholders. </p>
+<p>Registered stakeholders had one opportunity to comment on the draft guideline which was posted on the NICE website between September 3, 2014 and October 15, 2014 in line with NICE methodology.</p>
+<p><strong>The Pre-publication Process</strong></p>
+<p>An embargoed pre-publication version of the guideline was released to registered stakeholders to allow them to see how their comments have contributed to the development of the guideline and to give them time to prepare for publication.</p>
+<p>The final document was then submitted to NICE for publication on their website. The other versions of the guideline were also discussed and approved by the GDG and published at the same time.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of evidence supporting the recommendations is not specifically stated.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Improved diagnosis and staging, leading to fewer recurrences </li>
+    <li>Effective management of bladder cancer </li>
+</ul>
+<p>See also the &quot;Trade-off between clinical benefits and harms&quot; sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for benefits of specific interventions.</p>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Complications of intrusive procedures, including urinary retention, urinary infection, pain, bleeding or need for a catheter </li>
+    <li>Potential harms from biopsies (some due to false-positive findings) leading to increased risk of complications and patient anxiety. There may also be extra catheterisation from an increase in patients undergoing photodynamic diagnosis (PDD). </li>
+    <li>Surgery has associated risks and morbidity. The Guideline Development Group (GDG) expressed concern about ensuring the safety of resection in certain patient populations, such as patients with thin bladder walls. </li>
+    <li>Potential harm from increased radiation exposure in a small number of patients having additional positron emission tomography (PET) imaging. The GDG also considered that there may be a possible increase in imaging in a small number of patients who do not have high-risk disease. </li>
+    <li>Upper tract imaging is associated with relative radiation and contrast-related toxicities. There is the potential harm of missing upper tract tumours in low-risk disease. </li>
+    <li>Radiation from imaging and potential for over-investigation of false-positive imaging results. False-positives may potentially delay radical treatment. </li>
+    <li>Side-effects of intravesical treatment, particularly those associated with maintenance Bacille Calmette-Gu&amp;eacute;rin (BCG). Side effects, such as urinary frequency, urgency, bladder pain or bleeding can significantly worsen quality of life. The standard maintenance course of BCG is often not completed because of these side effects. The degree of the side effects following either treatment is occasionally so profound that cystectomy may be considered to alleviate them. </li>
+    <li>Potential for an increase in cystectomies with the possible risk of over-treatment for some patients. Also, the discussion about treatment options could result in an overload of information for some patients, especially those who would prefer to delegate decision making. </li>
+    <li>Adverse effects and toxicity of chemotherapy and radiotherapy </li>
+    <li>Risks of surgery and radiotherapy with a radiosensitiser, including the impact on sexual and bowel function and the risk of death as a result of the treatment </li>
+</ul>
+<p>See also the &quot;Trade-off between clinical benefits and harms&quot; sections in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for additional discussion of harms specific interventions.</p>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Contraindications to continent urinary diversion include cognitive impairment, impaired renal function or significant bowel disease.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>This guidance represents the view of the National Institute for Health and Care Excellence (NICE), which was arrived at after careful consideration of the evidence available. Healthcare professionals are expected to take it fully into account when exercising their clinical judgement. However, the guidance does not override the individual responsibility of healthcare professionals to make decisions appropriate to the circumstances of the individual patient, in consultation with the patient and/or guardian or carer, and informed by the summaries of product characteristics of any drugs. </li>
+    <li>Implementation of this guidance is the responsibility of local commissioners and/or providers. Commissioners and providers are reminded that it is their responsibility to implement the guidance, in their local context, in light of their duties to have due regard to the need to eliminate unlawful discrimination, advance equality of opportunity and foster good relations. Nothing in this guidance should be interpreted in a way that would be inconsistent with compliance with those duties. </li>
+    <li>The guideline assumes that prescribers will use a medicine's summary of product characteristics to inform decisions made with individual patients. </li>
+    <li>This guideline recommends some medicines for indications for which they do not have a UK marketing authorisation at the date of publication, if there is good evidence to support that use. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. The patient (or those with authority to give consent on their behalf) should provide informed consent, which should be documented. See the General Medical Council's <a href=&quot;http://www.gmc-uk.org/static/documents/content/Prescribing_guidance.pdf&quot; title=&quot;General Medical Council Web site&quot;>Good practice in prescribing and managing medicines and devices</a> for further information. Where recommendations have been made for the use of medicines outside their licensed indications ('off-label use'), these medicines are marked with a footnote in the recommendations. </li>
+    <li>Treatment and care should take into account individual needs and preferences. Patients should have the opportunity to make informed decisions about their care and treatment, in partnership with their healthcare professionals. If the patient is under 16, their family or carers should also be given information and support to help the child or young person to make decisions about their treatment. Healthcare professionals should follow the <a href=&quot;https://www.gov.uk/government/publications/reference-guide-to-consent-for-examination-or-treatment-second-edition&quot; title=&quot;UK Department of Health Web site&quot;>Department of Health's advice on consent</a>. If someone does not have capacity to make decisions, healthcare professionals should follow the <a href=&quot;https://www.gov.uk/government/collections/mental-capacity-act-making-decisions&quot; title=&quot;UK Department of Health Web site&quot;>code of practice that accompanies the Mental Capacity Act</a> and the supplementary <a href=&quot;http://webarchive.nationalarchives.gov.uk/20130107105354/http:/www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_085476&quot; title=&quot;UK National Archives Web site&quot;>code of practice on deprivation of liberty safeguards</a>. </li>
+    <li>NICE has produced guidance on the components of good patient experience in adult National Health Service (NHS) services. All healthcare professionals should follow the recommendations in <a href=&quot;http://www.nice.org.uk/guidance/cg138&quot; title=&quot;NICE Web site&quot;>Patient experience in adult NHS services</a>. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Implementation tools and resources to help you put the guideline into practice <a href=&quot;http://www.nice.org.uk/guidance/ng2/resources&quot; title=&quot;NICE Web site&quot;>are also available</a>.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Key Priorities for Implementation</span></strong></p>
+<p>The following recommendations have been identified as priorities for implementation.</p>
+<p><strong>Information and Support for People with Bladder Cancer</strong></p>
+<p>Use a holistic needs assessment to identify an individualised package of information and support for people with bladder cancer and, if they wish, their partners, families or carers, at key points in their care such as:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>When they are first diagnosed </li>
+    <li>After they have had their first treatment </li>
+    <li>If their bladder cancer recurs or progresses </li>
+    <li>If their treatment is changed </li>
+    <li>If palliative or end of life care is being discussed </li>
+</ul>
+<p><strong>Diagnosing and Staging Bladder Cancer</strong></p>
+<p><em>Diagnosis</em></p>
+<p>Consider computed tomography (CT) or magnetic resonance imaging (MRI) staging before transurethral resection of bladder tumour (TURBT) if muscle-invasive bladder cancer is suspected at cystoscopy.</p>
+<p>Offer white-light-guided TURBT with one of photodynamic diagnosis, narrow-band imaging, cytology or a urinary biomarker test (such as UroVysion using fluorescence in situ hybridisation [FISH], ImmunoCyt or a nuclear matrix protein 22 [NMP22] test) to people with suspected bladder cancer. This should be carried out or supervised by a urologist experienced in TURBT.</p>
+<p>Offer people with suspected bladder cancer a single dose of intravesical mitomycin C given at the same time as the first TURBT.</p>
+<p><strong>Treating Non-Muscle-Invasive Bladder Cancer</strong></p>
+<p><em>Prognostic Markers and Risk Classification</em></p>
+<p>Ensure that for people with non-muscle-invasive bladder cancer all of the following are recorded and used to guide discussions, both within multidisciplinary team meetings and with the person, about prognosis and treatment options:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Recurrence history </li>
+    <li>Size and number of cancers </li>
+    <li>Histological type, grade, stage and presence (or absence) of flat urothelium, detrusor muscle (muscularis propria), and carcinoma in situ </li>
+    <li>The risk category of the person's cancer </li>
+    <li>Predicted risk of recurrence and progression, estimated using a risk prediction tool </li>
+</ul>
+<p><em>High-Risk Non-Muscle-Invasive Bladder Cancer</em></p>
+<p>Offer the choice of intravesical Bacille Calmette-Gu&amp;eacute;rin (BCG) or radical cystectomy to people with high-risk non-muscle-invasive bladder cancer, and base the choice on a full discussion with the person, the clinical nurse specialist and a urologist who performs both intravesical BCG and radical cystectomy. Include in your discussion:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The type, stage and grade of the cancer, the presence of carcinoma in situ, the presence of variant pathology, prostatic urethral or bladder neck status and the number of tumours </li>
+    <li>Risk of progression to muscle invasion, metastases and death </li>
+    <li>Risk of understaging </li>
+    <li>Benefits of both treatments, including survival rates and the likelihood of further treatment </li>
+    <li>Risks of both treatments </li>
+    <li>Factors that affect outcomes (for example, comorbidities and life expectancy) </li>
+    <li>Impact on quality of life, body image, and sexual and urinary function </li>
+</ul>
+<p><strong>Follow-up after Treatment for Non-Muscle-Invasive Bladder Cancer</strong></p>
+<p><em>Low-Risk Non-Muscle-Invasive Bladder Cancer</em></p>
+<p>Discharge to primary care people who have had low-risk non-muscle-invasive bladder cancer and who have no recurrence of the bladder cancer within 12 months.</p>
+<p><em>Intermediate-Risk Non-Muscle-Invasive Bladder Cancer</em></p>
+<p>Offer people with intermediate-risk non-muscle-invasive bladder cancer cystoscopic follow-up at 3, 9 and 18 months, and once a year thereafter.</p>
+<p><strong>Treating Muscle-Invasive Bladder Cancer</strong></p>
+<p><em>Neoadjuvant Chemotherapy for Newly Diagnosed Muscle-Invasive Urothelial Bladder Cancer</em></p>
+<p>Offer neoadjuvant chemotherapy using a cisplatin combination regimen before radical cystectomy or radical radiotherapy to people with newly diagnosed muscle-invasive urothelial bladder cancer for whom cisplatin-based chemotherapy is suitable. Ensure that they have an opportunity to discuss the risks and benefits with an oncologist who treats bladder cancer.</p>
+<p><em>Radical Therapy for Muscle-Invasive Urothelial Bladder Cancer</em></p>
+<p>Offer a choice of radical cystectomy or radiotherapy with a radiosensitiser to people with muscle-invasive urothelial bladder cancer for whom radical therapy is suitable. Ensure that the choice is based on a full discussion between the person and a urologist who performs radical cystectomy, a clinical oncologist and a clinical nurse specialist. Include in the discussion:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The prognosis with or without treatment </li>
+    <li>The limited evidence about whether surgery or radiotherapy with a radiosensitiser is the most effective cancer treatment </li>
+    <li>The benefits and risks of surgery and radiotherapy with a radiosensitiser, including the impact on sexual and bowel function and the risk of death as a result of the treatment </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Audit Criteria/Indicators"/>
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Foreign Language Translations"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="End of Life Care"/>
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Collaborating Centre for Cancer. Bladder cancer: diagnosis and management. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Feb 25. 55 p.&amp;nbsp;(NICE guideline; no. 2).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2015 Feb 25"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="National Guideline Alliance - National Government Agency [Non-U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>National Institute for Health and Care Excellence (NICE)</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Guideline Development Group (GDG)</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Guideline Development Group Members</em>: Pauline Bagnall, Uro-oncology Nurse Specialist, Northumbria Healthcare NHS Foundation Trust, North Shields; James Catto, Professor of Urology, University of Sheffield and Honorary Consultant Urological Surgeon, Sheffield Teaching Hospitals; Ashish Chandra, Consultant Uropathologist and Cytopathologist, Guy's and St Thomas' Hospital NHS Foundation Trust, London; Helen Chilcott, Macmillan Uro-oncology Clinical Nurse Specialist, North Bristol NHS Trust, Bristol; Ananya Choudhury, Consultant Clinical Oncologist, The Christie NHS Foundation Trust, Manchester; Robert Huddart, Reader in Urological Oncology and Honorary Consultant Clinical Oncologist, Institute of Cancer Research, Royal Marsden Hospital, London; Rob Jones, Reader and Honorary Consultant in Medical Oncology, University of Glasgow, Beatson West of Scotland Cancer Centre, Glasgow; Phil Kelly, Patient and carer member; Antony Miller, Patient and carer member; Hugh Mostafid, Consultant Urologist, North Hampshire Hospital, Basingstoke; Jonathan Osborn, GP Partner, College Surgery Partnership, Cullompton, Devon; Marcus Ben Taylor, Consultant Radiologist, The Christie NHS Foundation Trust, Manchester; William Turner, Consultant Urologist, Cambridge University Hospitals NHS Foundation Trust; Julia Verne, Director for Knowledge and Intelligence (South West), Public Health England, Bristol; Louise Warren, Patient and carer member (until June 2013)</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>At the start of the guideline development process all Guideline Development Group (GDG) members' interests were recorded on a standard declaration form that covered consultancies, fee-paid work, share-holdings, fellowships and support from the healthcare industry. At all subsequent GDG meetings, members declared new, arising conflicts of interest which were always recorded.</p>
+<p>See Section 4.4 in the original guideline document and Appendix F in the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field) for declarations of interests made by the members of the GDG.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng2&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. Also available for download in ePub or eBook formats from the <a href=&quot;http://www.nice.org.uk/guidance/ng2&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Bladder cancer: diagnosis and management. Full guideline. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Feb. 500 p. (NICE guideline; no. 2). Electronic copies: Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng2/evidence/full-guideline-3744112&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. </li>
+    <li>Bladder cancer: diagnosis and management. Evidence review. London (UK): National Institute for Health and Care Excellence; 2015 Feb. 929 p. (NICE guideline; no. 2). Electronic copies: Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng2/evidence/evidence-review-487511101&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Bladder cancer: diagnosis and management. Needs assessment. London (UK): National Institute for Health and Care Excellence; 2015 Feb. 75 p. (NICE guideline; no. 2). Electronic copies: Available from the <a href=&quot;https://www.nice.org.uk/guidance/ng2/evidence/needs-assessment-487509805&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Bladder cancer: diagnosis and management. Baseline assessment tool. London (UK): National Institute for Health and Care Excellence; 2015 Feb. (NICE guideline; no. 2). Electronic copies: Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng2/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Bladder cancer: diagnosis and management. Clinical audit tool. London (UK): National Institute for Health and Care Excellence; 2015 Feb. (NICE guideline; no. 2). Electronic copies: Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng2/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Bladder cancer: diagnosis and management. Costing report. London (UK): National Institute for Health and Care Excellence; 2015 Feb. 29 p. (NICE guideline; no. 2). Electronic copies: Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng2/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Bladder cancer: diagnosis and management. Costing template. London (UK): National Institute for Health and Care Excellence; 2015 Feb. (NICE guideline; no. 2). Electronic copies: Available in from the <a href=&quot;http://www.nice.org.uk/guidance/ng2/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Bladder cancer: diagnosis and management. NMIBC risk classification table. London (UK): National Institute for Health and Care Excellence; 2015 Feb 3p. (NICE guideline; no. 2). Electronic copies: Available from the <a href=&quot;http://www.nice.org.uk/guidance/ng2/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>The guidelines manual 2012. London (UK): National Institute for Health and Care Excellence (NICE); 2012 Jan. Electronic copies: Available from the <a href=&quot;https://www.nice.org.uk/process/pmg6/chapter/introduction&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Bladder cancer: diagnosis and management. Information for the public. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Feb. 18 p. (NICE guideline; no. 2). Electronic copies: Available in from the <a href=&quot;https://www.nice.org.uk/guidance/ng2/ifp/chapter/About-this-information&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. Also available for download in ePub or eBook formats from the <a href=&quot;https://www.nice.org.uk/guidance/ng2/ifp/chapter/About-this-information&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. Also available in Welsh from the <a href=&quot;https://www.nice.org.uk/guidance/ng2/resources/gwybodaeth-ir-cyhoedd-499273597&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on August 28, 2015.</p>
+<p>The National Institute for Health and Care Excellence (NICE) has granted the National Guideline Clearinghouse (NGC) permission to include summaries of their clinical guidelines with the intention of disseminating and facilitating the implementation of that guidance. NICE has not yet verified this content to confirm that it accurately reflects that original NICE guidance and therefore no guarantees are given by NICE in this regard. All NICE clinical guidelines are prepared in relation to the National Health Service in England and Wales. NICE has not been involved in the development or adaptation of NICE guidance for use in any other country. The full versions of all NICE guidance can be found at <a href=&quot;http://www.nice.org.uk&quot; title=&quot;NICE Web site&quot;>www.nice.org.uk</a>.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 14:09:47 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:13:37 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 317.058 (3)
+  esindex: 0.01
+  captures_list: 338.465
+  CDXLines.iter: 14.361 (3)
+  PetaboxLoader3.datanode: 121.422 (4)
+  exclusion.robots: 0.425
+  exclusion.robots.policy: 0.407
+  RedisCDXSource: 2.268
+  load_resource: 50.184
+-->

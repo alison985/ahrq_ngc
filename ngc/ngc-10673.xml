@@ -1,0 +1,953 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app19.us.archive.org';v.server_ms=1904;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10673?contentType=xml', '20180713003055')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713003055/https://www.guideline.gov/summaries/downloadcontent/ngc-10673?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713003055/https://www.guideline.gov/summaries/downloadcontent/ngc-10673?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10673?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713003055" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610050523/https://www.guideline.gov/summaries/downloadcontent/ngc-10673?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 00:30:55 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610050523/https://www.guideline.gov/summaries/downloadcontent/ngc-10673?contentType=xml" title="05:05:23 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 00:30:55 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930175043/https://www.guideline.gov/summaries/downloadcontent/ngc-10673?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 00:30:55 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713003055*/https://www.guideline.gov/summaries/downloadcontent/ngc-10673?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10673?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>ACR Appropriateness Criteria&amp;reg; follow-up and retreatment of brain metastases.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Robbins JR, Elson A, Buatti JM, Chang EL, Cornelius RS, Estabrook NC, Germano IM, Ghafoori AP, Henderson MA, Shek-Man Lo S, Murad GJA, Robins HI, Siddiqui MS, Vassil AD, Videtic GMM, Yunes MJ, Gore EM, Expert Panel on Radiation Oncology–Brain Metastases. ACR Appropriateness Criteria® follow-up and retreatment of brain metastases [online publication]. Reston (VA): American College of Radiology (ACR); 2014. 11 p.  [38 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Patel SH, Robbins JR, Videtic GM, Gore EM, Bradley JD, Gaspar LE, Germano I, Ghafoori P, Henderson MA, Lutz ST, McDermott MW, Patchell RA, Robins HI, Vassil AD, Wippold FJ II, Expert Panel on Radiation Oncology-Brain Metastases. ACR Appropriateness Criteria&amp;reg; follow-up and retreatment of brain metastases. [online publication]. Reston (VA): American College of Radiology (ACR); 2011. 8 p. [33 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>ACR Appropriateness Criteria&amp;reg;</span></strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Clinical Condition</span>: Follow-up and Retreatment of Brain Metastasis</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 1</span>: 70-year-old man with non-small-cell lung cancer status post lobectomy 3 years ago with a single brain metastasis 6 months ago treated with radiosurgery. Now with new contralateral metastasis in nondominant temporal lobe measuring 2 cm. No extracranial disease present. Mild neurologic symptoms. KPS 80.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 1: 70-year-old man with non-small-cell lung cancer status post lobectomy 3 years ago with a single brain metastasis 6 months ago treated with radiosurgery. Now with new contralateral metastasis in nondominant temporal lobe measuring 2 cm. No extracranial disease present. Mild neurologic symptoms. KPS 80.&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Treatment</th>
+            <th width=&quot;10%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;50%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Local Therapy Alone</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Surgical resection alone </td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>SRS alone </td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>8</td>
+            <td valign=&quot;top&quot;>Given the time interval, good KPS, small metastasis, and toxicity of WBRT, SRS alone would be appropriate.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Whole Brain Radiation Therapy (WBRT) Alone</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>20 Gy/5 fractions </td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>30 Gy/10 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>7</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>37.5 Gy/15 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>7</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>40 Gy/20 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Combined Therapy</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>WBRT and SRS</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>8</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Surgery and postop WBRT</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>7</td>
+            <td valign=&quot;top&quot;>Surgical intervention felt to be slightly less appropriate due to advanced age and previous response to SRS.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Surgery and postop SRS</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>3</td>
+            <td valign=&quot;top&quot;>SRS may be 1&amp;ndash;5 fractions. There is limited evidence supporting this combination.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Chemotherapy Only</strong></td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Supportive Care</strong></td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 2</span>: 60-year-old man with renal cancer history, status post-surgical resection of two cerebellar metastases and postoperative WBRT (35 Gy in 14 fractions) 18 months ago. Now with new 3 cm left frontal metastasis without edema. KPS is 90. No other signs of recurrence. No neurological symptoms.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 2: 60-year-old man with renal cancer history, status post-surgical resection of two cerebellar metastases and postop WBRT (35 Gy in 14 fractions) 18 months ago. Now with new 3 cm left frontal metastasis without edema. KPS is 90. No other signs of recurrence. No neurological symptoms&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Treatment</th>
+            <th width=&quot;10%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;50%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Local Therapy Alone</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Surgical resection alone </td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>5</td>
+            <td valign=&quot;top&quot;>This treatment may be appropriate, but there was disagreement among panel members on the appropriateness rating as defined by the panel's median rating.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>SRS alone </td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>8</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Whole Brain Radiation Therapy (WBRT) Alone</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>20 Gy/5 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>25 Gy/10 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>30 Gy/10 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>37.5 Gy/15 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>40 Gy/20 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Combined Therapy</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>WBRT and SRS</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Surgery and postop WBRT</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Surgery and postop SRS</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>5</td>
+            <td valign=&quot;top&quot;>SRS may be 1&amp;ndash;5 fractions. Use of this treatment depends on cavity size postoperatively. Given the size (which would limit SRS dose in radioresistant tumor) and the fact that resection alone can have higher rates of local recurrence than SRS alone, surgery and postoperative SRS may be appropriate. Additional consideration should be given for postoperative SRS if residual tumor is present in cavity.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Chemotherapy Only</strong></td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Supportive Care</strong></td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 3</span>: 44-year-old woman with breast cancer (negative ER/PR, HER2/neu receptors) and multiple brain metastases 9 months ago, status post WBRT (30 Gy in 10 fractions). Now with recurrence of two asymptomatic well-separated bilateral anterior frontal masses, 1-2 cm in diameter each. No extracranial disease present. KPS 80.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 3: 44-year-old woman with breast cancer (negative ER/PR Her2neu receptors) and multiple brain metastases 9 months ago, status post WBRT (3000 cGy in 10 fractions). Now with recurrence of two asymptomatic bilateral anterior frontal masses, 1-2 cm in diameter each. No extracranial disease present. KPS is 80&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Treatment</th>
+            <th width=&quot;10%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;50%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Local Therapy Alone</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Surgical resection alone</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>SRS alone</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>9</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Whole Brain Radiation Therapy (WBRT) Alone</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>20 Gy/5 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>25 Gy/10 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>30 Gy/10 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>37.5 Gy/15 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>40 Gy/20 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Combined Therapy</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>WBRT and SRS</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Surgery and postop WBRT</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Surgery and postop SRS</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>2</td>
+            <td valign=&quot;top&quot;>SRS may be 1&amp;ndash;5 fractions.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Chemotherapy Only</strong></td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Supportive Care</strong></td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 4</span>: 49-year-old woman with melanoma, status post WBRT (30 Gy in 10 fractions) for multiple metastases 6 months ago. Now with recurrence of one 3.5 cm right parietal metastasis with edema causing weakness. No extracranial disease present. KPS 70.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 4: 49-year-old woman with melanoma, status post WBRT (3000 cGy in 10 fractions) for multiple metastases 6 months ago. Now with recurrence of one 3.5 cm right parietal metastasis with edema causing weakness. No extracranial disease present. KPS is 70&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Treatment</th>
+            <th width=&quot;10%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;50%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Local Therapy Alone</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Surgical resection alone </td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>9</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>SRS alone</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>5</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Whole Brain Radiation Therapy (WBRT) Alone</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>20 Gy/5 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>25 Gy/10 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>30 Gy/10 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>37.5 Gy/15 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>40 Gy/20 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Combined Therapy</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>WBRT and SRS</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Surgery and postop WBRT</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Surgery and postop SRS</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>3</td>
+            <td valign=&quot;top&quot;>SRS may be 1&amp;ndash;5 fractions.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Chemotherapy Only</strong></td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Supportive Care</strong></td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 5</span>: 73-year-old man with progressing metastatic lung cancer who was previously treated with whole brain radiation for multiple brain metastases 9 months earlier. Now with three new slightly symptomatic brain metastasis. KPS 50.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 5: 73-year-old man with progressing metastatic lung cancer who was previously treated with whole brain radiation for multiple brain metastases 9 months earlier. Now with 3 new slightly symptomatic brain metastasis. KPS 50.&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;10%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;50%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Local Therapy Alone</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Surgical resection alone</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>SRS alone</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>2</td>
+            <td valign=&quot;top&quot;>Use of this treatment is size-dependent and also dependent on the patient's clinical response to steroids. SRS is generally not appropriate given low KPS and progressive systemic metastases.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Whole Brain Radiation Therapy (WBRT) Alone</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>20 Gy/5 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>25 Gy/10 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>30 Gy/10 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>37.5 Gy/15 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>40 Gy/20 fractions</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Combined Therapy</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>WBRT and SRS</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Surgery and postop WBRT</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1 </td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Surgery and postop SRS</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>SRS may be 1&amp;ndash;5 fractions.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Chemotherapy Alone</strong></td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Supportive Care</strong></td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>8</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 6</span>: Follow-up after treatment of brain metastases. No extracranial disease present. KPS 90. Follow-up for 1&amp;ndash;2 years.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 6 Follow-up after treatment of brain metastases. No extracranial disease present. KPS 90. Follow-up for 1–2 years.&quot;>
+    <tbody>
+        <tr>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;10%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;50%&quot; class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Comments</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Initial MRI head &amp;le;3 months</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>8</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Subsequent MRI head every 3&amp;ndash;6 months</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>8</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>FDG-PET head only if MRI or CT abnormality suggests recurrence after radiosurgery or WBRT</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>5</td>
+            <td valign=&quot;top&quot;>Could consider this imaging modality to rule out possible tumor necrosis seen on MRI scans.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Subsequent MRI head when symptomatic on physical examination only</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Subsequent CT head every 4&amp;ndash;6 months </td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Subsequent FDG-PET head every 4&amp;ndash;6 months</td>
+            <td class=&quot;Center&quot; valign=&quot;middle&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Summary of Literature Review</span></strong></p>
+<p><strong>Introduction/Background</strong></p>
+<p>Progress in the management of locally advanced and metastatic cancer has resulted in an increase in the number of patients diagnosed and living with brain metastases. Current estimates suggest that nearly 200,000 new patients develop brain metastases annually in the United States. It has also been estimated that up to 40% of patients with cancer will develop brain metastases. Hence, although progress has been made in decreasing the incidence of lung cancer deaths (largely due to fewer smokers) and prolonging survival in other systemic cancers such as breast and colorectal, the incidence of brain metastases continues to increase as patients with metastatic disease live longer.</p>
+<p>The most common source of brain metastases is lung cancer. A recent report on 177 patients with surgically staged IIIA non-small-cell lung cancer (NSCLC) found that 34% of them had cancer recur in the brain as the first site of failure, and that 40% developed brain metastases at some point in their course. In the past, brain metastases were thought to herald the onset of a rapidly fatal course in patients with cancer due to the limited efficacy of systemic therapies and whole brain radiation therapy (WBRT) (median survival 4 to 7 months; 2-year survival &amp;le;10%). Survival rates for patients with brain metastases become significant only when extracranial disease is controlled.</p>
+<p>Reports are emerging, however, describing long-term survivorship on the order of multiple years after treatment of brain metastasis. Several single and multi-institutional retrospective reviews revealed 2.5% to 6% 5-year overall survival after treatment of brain metastases with some patients living longer than 10 years. As expected, patients with initially higher Karnofsky performance status (KPS), fewer brain metastases, and limited extracranial disease experienced longer survival. In addition, a recent phase III trial of 359 patients randomized to local therapy alone for one to three brain metastases followed by observation or WBRT reported &amp;gt;20% survival at 2 years. Thus, as a growing percentage of treated patients may live long enough to experience relapse again in the brain, there is a greater need for appropriate follow-up and management of recurrent brain metastases.</p>
+<p>Retreatment for brain metastases may be required following a variety of initial treatments such as WBRT, surgery, radiosurgery, chemotherapy, and combinations of these. The choice of treatment modality after recurrence will depend on the size, number, timing, and location of the recurrent metastases, the patient's performance status, extracranial disease control, and prior treatment of the intracranial disease. There appears to be an increasing number of patients who have received only surgery or radiosurgery as their initial management of brain metastases. This trend is likely driven by the increasing availability of stereotactic radiosurgery (SRS) and improvements in neuroimaging and surgical techniques. For the purpose of general review, these guidelines do not elaborate on the unique aspects of small-cell/neuroendocrine lung cancer due to its high propensity of brain metastasis and patients receiving prophylactic cranial irradiation as part of their upfront treatment.</p>
+<p><strong>Whole Brain Radiation Therapy </strong></p>
+<p>Historically, WBRT has been a fundamental part of the initial treatment of brain metastases, but due to the increasing use of local therapy alone initially for selected patients with brain metastases, WBRT is often being used in the salvage setting. Two large randomized trials involving initial local therapy followed by observation reported on the use of WBRT after failure in 16% and 31% of patients in the observation arms (see Variant 1 above). In patients who initially received WBRT, repeat WBRT has not been routinely administered for retreatment, primarily due to concerns about severe neurotoxicity. However, one institution reviewed 72 patients who underwent two courses of WBRT for brain metastases. The most common initial fractionation scheme was 20 Gy in 5 fractions, whereas the most frequent reirradiation schedule was 25 Gy in 10 fractions. The median survival time after reirradiation was 4.1 months. Performance status (Eastern Cooperative Oncology Group criteria), neurological function class (Radiation Therapy Oncology Group classification), and documented response to reirradiation were predictive of survival times.</p>
+<p>Another review of 31 patients undergoing repeat WBRT with the most common first and second course being 30 Gy in 10 fractions revealed a median survival after reirradiation of 4 months with 68% symptomatic improvement after treatment. Grade &amp;ge;2 encephalopathy or cognitive disturbance was noted in 32% of patients after reirradiation with 74% of patients having magnetic resonance imaging (MRI) findings suggestive of brain atrophy after reirradiation, which highlights the concern of neurologic deterioration in this setting. These studies suggest that there may be a role for WBRT for the retreatment of progressive brain metastases after prior WBRT.</p>
+<p><strong>Radiosurgery</strong></p>
+<p>Radiosurgery for recurrent brain metastases is a viable option if size and number permit, and has been described in the setting of prior surgery, radiosurgery, and WBRT. In addition, this modality is becoming increasingly available at many centers. In patients undergoing radiosurgery for recurrence following initial WBRT, two studies reported 1-year and 2-year local control rates of 68% to 74% and 58%, respectively. Another study reported a 91% response rate of treated lesions with acute grade 2 toxicity requiring steroids in 16% of patients and an eventual radionecrosis rate of 6%. Good local control, as high as 90%, has been reported in patients who underwent repeat SRS to previously treated or newly developed sites, but risk for radiation necrosis increased with repeat treatments to the same areas. Favorable prognostic factors for survival after SRS for recurrent brain metastases included age &amp;lt;50, KPS &amp;gt;60, and longer interval between WBRT and SRS. Recently there has been a trend to use radiosurgery in the setting of adjuvant therapy to the tumor bed after surgical resection as part of initial therapy of brain metastases, but only one report evaluated this scheme in the recurrent setting after prior WBRT. In their retrospective cohort of 79 patients, the local control rate was 94.9% with a symptomatic radionecrosis rate of only 3.8%. Similarly, studies in the setting of the initial treatment of brain metastases suggest that the resection cavity can be treated effectively with 1 to 5 fractions of stereotactic radiation therapy. Together these data suggest that SRS is one valid approach in managing those patients having brain relapses alone or in combination with other modalities even after prior therapies including WBRT and especially if limited new foci are present (see Variant 2 and Variant 3 above).</p>
+<p><strong>Surgery</strong></p>
+<p>Surgery may be indicated for palliation of mass effect from progressive or hemorrhagic brain metastases and may also be an important diagnosis and management tool in determining the nature of a progressive lesion after radiation treatment. Factors to consider regarding the use of surgical resection after prior irradiation include clinical or radiographic evidence of a progressive lesion, KPS &amp;gt;60, and stable or absent extracranial disease. One author reported local control rates range from 69% to 79%, and one retrospective study comparing resection to no resection showed a modest survival benefit (see Variant 4 above).</p>
+<p><strong>Chemotherapy</strong></p>
+<p>Chemotherapy has occasionally been a successful strategy for chemosensitive tumors. Some evidence suggests that some chemotherapy and biological treatments may be effective in brain metastases. These studies are mostly based on smaller experiences using various agents. Temozolomide, capecitabine, and gefitinib have also been reported to be used in treating brain metastases from melanoma, breast cancer, and lung cancer, respectively. A phase II study of salvage chemotherapy using dose-dense temozolomide in 157 patients with brain metastases not amenable to surgery or radiosurgery revealed a 26% control rate defined as complete or partial response or stable disease. Response of brain metastases to antiepidermal growth factor inhibitors such as gefitinib or erlotinib provides some new alternatives for the management of brain metastases. These targeted agents may be particularly attractive for patients with less symptomatic, smaller recurrent brain metastases. Dual tyrosine kinase inhibitors (e.g., lapatinib) have recently been shown to benefit some HER2/neu-positive breast cancer patients and also those with recurrent brain metastases.</p>
+<p>Although chemotherapy has been traditionally believed to have poor central nervous system penetrance and therefore poor efficacy in brain metastases, a recent prospective phase II trial evaluating 43 patients with brain metastases from NSCLC treated initially with pemetrexed and cisplatin followed by delayed WBRT, as well as a pilot study of 48 patients with brain metastases from NSCLC randomized to up front WBRT versus WBRT after chemotherapy revealed intracerebral response rates of 41% and 28%, respectively, in the chemotherapy upfront setting.</p>
+<p><strong>Supportive Care</strong></p>
+<p>Best supportive care (BSC) is always an option for select patients with recurrent brain metastases. Factors important in evaluating prognosis in these patients include, but are not limited to, performance status, status of extracranial disease, number of brain metastases, and age. Patients with a poorer prognosis may be better served with an earlier discussion of BSC considering their reduced survival rates. Some data suggest that BSC is an appropriate option in select patients. A group of researchers conducted a matched pair analysis of 113 patients with brain metastases treated with BSC alone matched to a similar group of patients treated with WBRT. They observed no survival difference, but overall survival was limited in both groups (median overall survival 2 months). In addition, the interim data from an ongoing randomized phase III noninferiority trial comparing quality-adjusted life years after optimal supportive care (OSC) or OSC + WBRT in NSCLC patients with inoperable brain metastases suggests that there is no evidence of inferior quality of life or overall survival for patients managed by OSC alone (see Variant 5 above). Given that these studies pertain to patients managed with BSC in the initial setting, this strategy may be even more appropriate in the recurrent setting, when previous treatment modalities have already been employed.</p>
+<p><strong>Follow-up of Brain Metastases</strong></p>
+<p>After the treatment of brain metastasis, determining the proper timing and modality of follow-up imaging and distinguishing treatment response from recurrence are major management considerations. This issue is complicated by the lack of reliable early indicators of response versus progression. One study reported a median time of 8.8 months to new metastasis after initial SRS. The authors recommended close surveillance with a 3-month interval between MRI in order to identify new metastasis early in order to facilitate the most effective treatment. Additionally, another group performed 3-month interval MRI scans in their study of local therapy with or without WBRT and recommended that when WBRT is withheld, close serial imaging follow-up should be performed to identify early asymptomatic brain recurrences. Although the optimal timing and method of radiographic follow-up of treated brain metastases is the subject of some debate, MRI has become the preferred imaging modality, especially given its wide availability and the development of newer applications such as spectroscopy and diffusion and perfusion-weighted imaging. Given the costs associated with serial MR imaging, decisions regarding its use should take into account the individual patient situation and the likelihood of gaining useful information that may influence management decisions.</p>
+<p>A common difficulty encountered during the radiographic follow-up of treated brain metastases is differentiating tumor recurrence or progression from radiation effect. This is particularly vexing in asymptomatic patients with high performance status. Although invasive pathological evaluation remains the only definitive test to make this distinction, it is not always practical or feasible, and some cases of radiation necrosis can be managed nonsurgically. For this reason, several imaging modalities including standard and advanced MRI sequences, MR spectroscopy, perfusion computed tomography (PCT), and fluorine-18-2-fluoro-2-deoxy-D-glucose (FDG) and methionine positron emission tomography (PET) have been investigated to differentiate between these entities. Two studies showed that FDG-PET as well as C-11 methionine PET imaging is effective in detecting tumor recurrence compared to radiation changes in patients with suspected recurrent lesions. PCT has been evaluated in a recent prospective trial of 20 patients previously treated with radiosurgery and normalized cerebral blood volume had a sensitivity of 86% and specificity of 100% for identification of radiation necrosis compared to for suspected recurrence. A study of 68 patients who underwent surgical resection after previous SRS for brain metastases due to suspected lesion progression showed that lack of correspondence between T1 contrast-enhanced volume and the T2 hypointense lesion margin (T1/T2 mismatch) on standard MR sequencing was significantly associated with radiation effect as opposed to tumor progression with a sensitivity and specificity of 83% and 91%. Advanced MRI sequences including dynamic susceptibility-weighted contrast-enhanced MRI-produced metrics such as relative cerebral blood volume have been used to assess the microvascularity and permeability of brain tissue and have shown the ability to distinguish between necrosis and recurrence with high sensitivity and specificity in patients with suspected or pathologically confirmed tumor recurrence. These findings suggest that examination of cerebral blood volume ratios can predict for tumor recurrence. Further research in this arena will likely contribute to better determination of imaging changes after radiation treatments. When recurrence of brain metastases is confirmed, surgery, radiosurgery, or WBRT may be considered to achieve disease control (see Variant 5 above). In addition to serial imaging, clinical assessment and toxicity management for patients treated for brain metastases are paramount, as delayed complications have been reported for patients as many as 10 years after treatment (see Variant 5 above).</p>
+<p><strong>Summary of Recommendations</strong></p>
+<p>The issues regarding postirradiation management and retreatment of brain metastases revolve around several concerns:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The need to assess the effects of and manage sequelae of treatment. </li>
+    <li>The need for appropriate surveillance and the ability to accurately distinguish late treatment effects from recurrence, so that further treatment can be administered as appropriately as possible. </li>
+    <li>The goal of detecting recurrences prior to the onset of symptoms, when patients may best tolerate additional treatment, and when lesion size does not result in symptomatology or preclude the use of radiosurgery. </li>
+    <li>The need to determine the most appropriate among the various management options based on patient characteristics and preferences, previous treatments employed, and potential risks and toxicities of treatment. </li>
+</ul>
+<p><strong>Abbreviations</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>CT, computed tomography </li>
+    <li>ER, estrogen receptor </li>
+    <li>FDG-PET, fluorine-18-2-fluoro-2-deoxy-D-glucose-positron emission tomography </li>
+    <li>HER2, human epidermal growth factor receptor 2 </li>
+    <li>KPS, Karnofsky performance status </li>
+    <li>MRI, magnetic resonance imaging </li>
+    <li>PR, progesterone receptor </li>
+    <li>SRS, stereotactic radiosurgery </li>
+    <li>WBRT, whole brain radiation therapy </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Algorithms were not developed from criteria guidelines.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Brain metastases with cancer (e.g., lung, breast, colorectal)</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Neurological Surgery"/>
+      <fieldvalue value="Neurology"/>
+      <fieldvalue value="Oncology"/>
+      <fieldvalue value="Radiation Oncology"/>
+      <fieldvalue value="Radiology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Health Plans"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Managed Care Organizations"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Utilization Management"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To evaluate the appropriateness of various radiologic procedures for the treatment and retreatment of patients with brain metastases</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients requiring follow-up and retreatment of brain metastases</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Local therapy alone
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Surgical resection </li>
+        <li>Stereotactic radiosurgery (SRS) </li>
+    </ul>
+    </li>
+    <li>Whole brain radiation therapy (WBRT) alone </li>
+    <li>Combined therapy
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>WBRT and SRS </li>
+        <li>Surgery and postoperative WBRT </li>
+        <li>Surgery and postoperative radiosurgery </li>
+    </ul>
+    </li>
+    <li>Chemotherapy alone </li>
+    <li>Supportive care </li>
+    <li>Follow-up
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Magnetic resonance imaging (MRI), head (initial and subsequent) </li>
+        <li>Computed tomography (CT), head </li>
+        <li>Fluorine-18-2-fluoro-2-deoxy-D-glucose positron emission tomography (FDG-PET), head </li>
+    </ul>
+    </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Local control rates</li>
+    <li>Median survival time</li>
+    <li>Survival rates</li>
+    <li>Duration of response</li>
+    <li>Treatment failure</li>
+    <li>Adverse effects of treatment</li>
+    <li>Utility of imaging procedures for follow-up of brain metastases </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Literature Search Summary</span></strong></p>
+<p>Of the 33 citations in the original bibliography, 18 were retained in the final document. Articles were removed from the original bibliography if they were more than 10 years old and did not contribute to the evidence or they were no longer cited in the revised narrative text.</p>
+<p>A new literature search was conducted in August 2013 to identify additional evidence published since the <em>ACR Appropriateness Criteria&amp;reg; Follow-up and Retreatment of Brain Metastases</em> topic was finalized. Using the search strategy described in the literature search companion (see the &quot;Availability of Companion Documents&quot; field), 170 articles were found. Six articles were added to the bibliography. One hundred sixty-four articles were not used due to either poor study design, the articles were not relevant or generalizable to the topic, the results were unclear, misinterpreted, or biased, or the articles were already cited in the original bibliography.</p>
+<p>The author added 14 citations from bibliographies, Web sites, or books that were not found in the new literature search.</p>
+<p>See also the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; literature search process document (see the &quot;Availability of Companion Documents&quot; field) for further information.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Of the 33 citations in the original bibliography, 18 were retained in the final document. The new literature search conducted in August 2013 identified six articles that were added to the bibliography. The author added 14 citations from bibliographies, Web sites, or books that were not found in the new literature search.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Study Quality Category Definitions</span></strong></p>
+<p>Category 1 - The study is well-designed and accounts for common biases.</p>
+<p>Category 2 - The study is moderately well-designed and accounts for most common biases.</p>
+<p>Category 3 - There are important study design limitations.</p>
+<p>Category 4 - The study is not useful as primary evidence. The article may not be a clinical study or the study design is invalid, or conclusions are based on expert consensus. For example:</p>
+<ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+    <li>The study does not meet the criteria for or is not a hypothesis-based clinical study (e.g., a book chapter or case report or case series description). </li>
+    <li>The study may synthesize and draw conclusions about several studies such as a literature review article or book chapter but is not primary evidence. </li>
+    <li>The study is an expert opinion or consensus document. </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The topic author assesses the literature then drafts or revises the narrative summarizing the evidence found in the literature. American College of Radiology (ACR) staff drafts an evidence table based on the analysis of the selected literature. These tables rate the study quality for each article included in the narrative.</p>
+<p>The expert panel reviews the narrative, evidence table and the supporting literature for each of the topic-variant combinations and assigns an appropriateness rating for each procedure listed in the variant table(s). Each individual panel member assigns a rating based on his/her interpretation of the available evidence.</p>
+<p>More information about the evidence table development process can be found in the ACR Appropriateness Criteria&amp;reg; Evidence Table Development documents (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus (Delphi)"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Rating Appropriateness</span></strong></p>
+<p>The American College of Radiology (ACR) Appropriateness Criteria (AC) methodology is based on the RAND Appropriateness Method. The appropriateness ratings for each of the procedures or treatments included in the AC topics are determined using a modified Delphi method. A series of surveys are conducted to elicit each panelist's expert interpretation of the evidence, based on the available data, regarding the appropriateness of an imaging or therapeutic procedure for a specific clinical scenario. The expert panel members review the evidence presented and assess the risks or harms of doing the procedure balanced with the benefits of performing the procedure. The direct or indirect costs of a procedure are not considered as a risk or harm when determining appropriateness. When the evidence for a specific topic and variant is uncertain or incomplete, expert opinion may supplement the available evidence or may be the sole source for assessing the appropriateness.</p>
+<p>The appropriateness is represented on an ordinal scale that uses integers from 1 to 9 grouped into three categories: 1, 2, or 3 are in the category &quot;usually not appropriate&quot; where the harms of doing the procedure outweigh the benefits; and 7, 8, or 9 are in the category &quot;usually appropriate&quot; where the benefits of doing a procedure outweigh the harms or risks. The middle category, designated &quot;may be appropriate,&quot; is represented by 4, 5, or 6 on the scale. The middle category is when the risks and benefits are equivocal or unclear, the dispersion of the individual ratings from the group median rating is too large (i.e., disagreement), the evidence is contradictory or unclear, or there are special circumstances or subpopulations which could influence the risks or benefits that are embedded in the variant.</p>
+<p>The ratings assigned by each panel member are presented in a table displaying the frequency distribution of the ratings without identifying which members provided any particular rating. To determine the panel's recommendation, the rating category that contains the median group rating without disagreement is selected. This may be determined after either the first or second rating round. If there is disagreement after the second rating round, the recommendation is &quot;may be appropriate.&quot;</p>
+<p>This modified Delphi method enables each panelist to articulate his or her individual interpretations of the evidence or expert opinion without excessive influence from fellow panelists in a simple, standardized and economical process. For additional information on the ratings process see the <a href=&quot;http://www.acr.org/%7E/media/ACR/Documents/AppCriteria/RatingRoundInfo.pdf&quot; title=&quot;ACR Web site&quot;>Rating Round Information</a> document on the ACR Web site.</p>
+<p>Additional methodology documents, including a more detailed explanation of the complete topic development process and all ACR AC topics can be found on the <a href=&quot;http://www.acr.org/Quality-Safety/Appropriateness-Criteria&quot; title=&quot;ACR Web site&quot;>ACR Web site</a> (see also the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Criteria developed by the Expert Panels are reviewed by the American College of Radiology (ACR) Committee on Appropriateness Criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The recommendations are based on analysis of the current literature and expert panel consensus.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Summary of Evidence</span></strong></p>
+<p>Of the 38 references cited in the <em>ACR Appropriateness Criteria&amp;reg; Follow-up and Retreatment of Brain Metastases</em> document, 32 are categorized as therapeutic references including 8 well-designed studies and 19 good quality studies. Additionally, 6 references are categorized as diagnostic references including 1 good quality study, and 4 quality studies that may have design limitations. There are 6 references that may not be useful as primary evidence.</p>
+<p>Most of the references are well-designed or good quality studies and provide good evidence.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Selection of appropriate procedures for follow-up and retreatment of patients with brain metastasis</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Repeat whole brain radiation therapy (WBRT) has not been routinely administered for retreatment after previous WBRT, primarily due to concerns about severe neurotoxicity. One study showed grade &amp;ge;2 encephalopathy or cognitive disturbance in 32% of patients after reirradiation with 74% of patients having magnetic resonance imaging (MRI) findings suggestive of brain atrophy after reirradiation, which highlights the concern of neurologic deterioration in this setting. </li>
+    <li>In patients who underwent repeat stereotactic radiosurgery (SRS), risk for radiation necrosis increased with repeat treatments to the same areas. </li>
+    <li>A common difficulty encountered during the radiographic follow-up of treated brain metastases is differentiating tumor recurrence or progression from radiation effect. </li>
+    <li>Clinical assessment and toxicity management for patients treated for brain metastases are paramount, as delayed complications have been reported for patients as many as 10 years after treatment. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American College of Radiology (ACR) Committee on Appropriateness Criteria and its expert panels have developed criteria for determining appropriate imaging examinations for diagnosis and treatment of specified medical condition(s). These criteria are intended to guide radiologists, radiation oncologists, and referring physicians in making decisions regarding radiologic imaging and treatment. Generally, the complexity and severity of a patient's clinical condition should dictate the selection of appropriate imaging procedures or treatments. Only those examinations generally used for evaluation of the patient's condition are ranked. Other imaging studies necessary to evaluate other co-existent diseases or other medical consequences of this condition are not considered in this document. The availability of equipment or personnel may influence the selection of appropriate imaging procedures or treatments. Imaging techniques classified as investigational by the U.S. Food and Drug Administration (FDA) have not been considered in developing these criteria; however, study of new equipment and applications should be encouraged. The ultimate decision regarding the appropriateness of any specific radiologic examination or treatment must be made by the referring physician and radiologist in light of all the circumstances presented in an individual examination.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Robbins JR, Elson A, Buatti JM, Chang EL, Cornelius RS, Estabrook NC, Germano IM, Ghafoori AP, Henderson MA, Shek-Man Lo S, Murad GJA, Robins HI, Siddiqui MS, Vassil AD, Videtic GMM, Yunes MJ, Gore EM, Expert Panel on Radiation Oncology–Brain Metastases. ACR Appropriateness Criteria® follow-up and retreatment of brain metastases [online publication]. Reston (VA): American College of Radiology (ACR); 2014. 11 p.  [38 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="1999 (revised 2014)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American College of Radiology - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American College of Radiology (ACR) provided the funding and the resources for these ACR Appropriateness Criteria&amp;reg;.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Committee on Appropriateness Criteria, Expert Panel on Radiation Oncology-Brain Metastases</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Panel Members</em>: Jared R. Robbins, MD (<em>Principal Author</em>); Andrew Elson, MD (<em>Research Author</em>); John M. Buatti, MD; Eric L. Chang, MD; Rebecca S. Cornelius, MD; Neil C. Estabrook, MD; Isabelle M. Germano, MD; A. Paiman Ghafoori, MD; Mark A. Henderson, MD; Simon Shek-Man Lo, MB, ChB; Gregory J. A. Murad, MD; H. Ian Robins, MD, PhD; M. Salim Siddiqui, MD, PhD; Andrew D. Vassil, MD; Gregory M. M. Videtic, MD; Michael J. Yunes, MD; Elizabeth M. Gore, MD (<em>Panel Chair</em>)</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Patel SH, Robbins JR, Videtic GM, Gore EM, Bradley JD, Gaspar LE, Germano I, Ghafoori P, Henderson MA, Lutz ST, McDermott MW, Patchell RA, Robins HI, Vassil AD, Wippold FJ II, Expert Panel on Radiation Oncology-Brain Metastases. ACR Appropriateness Criteria&amp;reg; follow-up and retreatment of brain metastases. [online publication]. Reston (VA): American College of Radiology (ACR); 2011. 8 p. [33 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;https://acsearch.acr.org/docs/69382/Narrative&quot; title=&quot;ACR Web site&quot;>American College of Radiology (ACR) Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>ACR Appropriateness Criteria&amp;reg;. Overview. Reston (VA): American College of Radiology; 2015 Feb. 3 p. Available from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/Overview.pdf&quot; title=&quot;ACR Web site&quot;>American College of Radiology (ACR) Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Literature search process. Reston (VA): American College of Radiology; 2015 Feb. 1 p. Available from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/LiteratureSearchProcess.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Evidence table development. Reston (VA): American College of Radiology; 2015 Nov. 5 p. Available from the <a href=&quot;https://www.acr.org/~/media/ACR/Documents/AppCriteria/EvidenceTableDevelopment.pdf?db=web&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg; follow-up and retreatment of brain metastases. Evidence table. Reston (VA): American College of Radiology; 2014. 17 p. Available from the <a href=&quot;https://acsearch.acr.org/docs/69382/ET&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg; follow-up and retreatment of brain metastases. Literature search. Reston (VA): American College of Radiology; 2014. 1 p. Available from the <a href=&quot;https://acsearch.acr.org/docs/69382/LitSearch/&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI on January 30, 2001. The information was verified by the guideline developer as of February 20, 2001. This summary was updated by ECRI Institute on May 16, 2007. This summary was updated by ECRI Institute on December 19, 2010. This summary was updated by ECRI Institute on March 20, 2012. This summary was updated by ECRI Institute on August 3, 2015.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Instructions for downloading, use, and reproduction of the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; may be found on the <a href=&quot;http://www.acr.org/Quality-Safety/Appropriateness-Criteria/TermsConditions&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 00:30:55 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:18:27 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 158.431 (3)
+  esindex: 0.007
+  captures_list: 188.258
+  CDXLines.iter: 13.628 (3)
+  PetaboxLoader3.datanode: 1103.164 (4)
+  exclusion.robots: 0.513
+  exclusion.robots.policy: 0.497
+  RedisCDXSource: 12.588
+  PetaboxLoader3.resolve: 694.228 (2)
+  load_resource: 1691.553
+-->

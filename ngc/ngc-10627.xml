@@ -1,0 +1,816 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app17.us.archive.org';v.server_ms=275;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10627?contentType=xml', '20180713021156')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713021156/https://www.guideline.gov/summaries/downloadcontent/ngc-10627?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713021156/https://www.guideline.gov/summaries/downloadcontent/ngc-10627?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10627?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713021156" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610060419/https://www.guideline.gov/summaries/downloadcontent/ngc-10627?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 02:11:56 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610060419/https://www.guideline.gov/summaries/downloadcontent/ngc-10627?contentType=xml" title="06:04:19 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 02:11:56 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930200816/https://www.guideline.gov/summaries/downloadcontent/ngc-10627?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 02:11:56 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713021156*/https://www.guideline.gov/summaries/downloadcontent/ngc-10627?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10627?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>VA/DoD clinical practice guideline for the management of dyslipidemia for cardiovascular risk reduction.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Dyslipidemia Guideline Work Group. VA/DoD clinical practice guideline for the management of dyslipidemia for cardiovascular risk reduction. Washington (DC): Department of Veterans Affairs, Department of Defense; 2014 Dec. 112 p.  [104 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Management of Dyslipidemia Working Group. VA/DoD clinical practice guideline for the management of dyslipidemia. Washington (DC): Department of Veterans Affairs, Department of Defense; 2006. 140 p.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><em>Note from the Department of Veterans Affairs and the Department of Defense (VA/DoD) and the National Guideline Clearinghouse (NGC)</em></strong>: The recommendations for the management of dyslipidemia for cardiovascular risk reduction are organized into 4 modules (including assessment, pharmacologic/non-pharmacologic management, and monitoring/follow-up) with 1 algorithm. The modules with accompanying recommendations are presented below. See the <a href=&quot;http://www.healthquality.va.gov/guidelines/CD/lipids/VADoDDyslipidemiaCPG.pdf&quot; title=&quot;VA/DoD Web site&quot; target=&quot;_blank&quot;>original guideline document</a> for the algorithm and evidence tables associated with selected recommendations, including level and quality of evidence, strength of recommendation, and supporting evidence citations.</p>
+<p>The grades of recommendations (Strong For, Weak For, Strong Against, Weak Against) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong>Assessment of Cardiovascular Risk and Pharmacotherapy for Primary Prevention (patients without a history of atherosclerotic cardiovascular disease [ASCVD] or acute coronary syndrome [ACS])</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>The Work Group recommends cardiovascular disease (CVD) risk screening for men &amp;gt;age 35 and women &amp;gt;age 45, including a lipid profile and a risk calculation. (<strong>Strong For</strong>) </li>
+    <li>The Work Group recommends against routine screening for dyslipidemia outside of the context of a cardiovascular risk assessment. (<strong>Strong Against</strong>) </li>
+    <li>For risk calculation, the Work Group suggests a 10-year risk calculator. (<strong>Weak For</strong>) </li>
+    <li>The Work Group suggests that patients being considered for statin therapy be assessed for other CVD risk factors, including, but not be limited, to the following:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Age (males &amp;gt;35 and females &amp;gt;45) </li>
+        <li>Family history of premature coronary artery disease (CAD); definite myocardial infarction (MI) or sudden death before age 55 in father or other male first-degree relative, or before age 65 in mother or other female first-degree relative </li>
+        <li>Current tobacco use/cigarette smoking (or within the last one month) </li>
+        <li>Hypertension (systolic blood pressure [SBP] &amp;gt;140 mm Hg or diastolic blood pressure [DBP] &amp;gt;90 mm Hg confirmed on more than one occasion, or current therapy with anti-hypertensive medications) </li>
+        <li>Diabetes mellitus (DM) (see the VA/DoD clinical practice guideline for the management of diabetes mellitus). A diagnosis of DM is made if any of the following: a) fasting plasma glucose (FPG) is &amp;ge;126 mg/dL on at least two occasions, or b) a single hemoglobin A1c (HbA1c) reading of &amp;ge;6.5%, confirmed with a FPG &amp;ge;126 mg/dL (these tests can be done on the same or different days); or c) HbA1c is &amp;ge;7% on two occasions using a clinical laboratory methodology standardized to the net splanchnic glucose production (NSGP) (not at the point of care); or d) symptoms of hyperglycemia and a casual (random) glucose &amp;ge;200 mg/dL on two occasions. However, casual (random) plasma glucose is not recommended as a routine screening test. </li>
+        <li>Level of high-density lipoprotein cholesterol (HDL-C) (Less than 40 mg/dL confirmed on more than one occasion) </li>
+    </ol>
+    <p>(<em>Modified from the 2006 CPG without an updated systematic review of the evidence.</em>) (<strong>Weak For</strong>)</p>
+    </li>
+    <li>The Work Group suggests against the <span style=&quot;text-decoration: underline;&quot;>routine</span> use of high-sensitivity C-reactive protein (hsCRP) testing. (<strong>Weak Against</strong>) </li>
+    <li>The Work Group suggests against the <span style=&quot;text-decoration: underline;&quot;>routine</span> use of coronary artery calcium (CAC) testing. (<strong>Weak Against</strong>) </li>
+    <li>The Work Group suggests shared decision making regarding pharmacologic treatment for patients with an estimated 10-year CVD risk of 12% or greater that takes into consideration the known minimal harms and substantial benefits of moderate-dose therapy in this group of patients. (<strong>Weak For</strong>) </li>
+    <li>The Work Group suggests initiation of a moderate-dose statin for patients with an estimated 10-year CVD risk of 12% or greater. (<strong>Weak For</strong>) </li>
+    <li>The Work Group suggests considering a moderate-dose statin for patients with a 10-year CVD risk between 6% and 12% following a discussion of the known minimal harms, benefits derived from limited evidence, and an exploration of the patient's values and preferences. (<strong>Weak For</strong>) </li>
+    <li>For primary prevention, the Work Group recommends a moderate dose statin as the agent of choice to reduce CVD risk if the patient chooses pharmacologic therapy. (<strong>Strong For</strong>) </li>
+    <li>For primary prevention in patients who are unable to tolerate statins, the Work Group suggests reinforcing adherence to positive lifestyle changes. For patients who prefer to try pharmacotherapy, the Work Group suggests considering treatment with gemfibrozil or bile acid sequestrants (BAS), noting that these agents have been associated with only a small CVD risk reduction and studied in limited populations, e.g., males with low-density lipoprotein cholesterol (LDL&amp;ndash;C) &amp;gt;190 mg/dL. (<strong>Weak For</strong>) </li>
+    <li>The Work Group suggests establishing baseline liver function tests (LFTs) and creatinine kinase (CK) before initiation of drug therapy. (<strong>Weak For</strong>) </li>
+    <li>The Work Group recommends against <span style=&quot;text-decoration: underline;&quot;>routinely</span> measuring LFTs or CK after a moderate-dose statin is initiated. (<strong>Strong Against</strong>) </li>
+</ol>
+<p><strong>Management of Pharmacotherapy for Secondary Prevention (patients with a history of ASCVD or ACS)</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;14&quot;>
+    <li>In patients with established ASCVD, the Work Group&amp;nbsp;recommends use of a moderate-dose statin following a discussion of the minimal harms, substantial benefits, and an exploration of the patient's values and preferences. (<strong>Strong For</strong>) </li>
+    <li>In patients with ASCVD who are able to tolerate statins, the Work Group recommends against the <span style=&quot;text-decoration: underline;&quot;>routine</span> use of non-statin lipid lowering drugs (e.g., fibrates, niacin, ezetimibe, omega-3 fatty acids, etc.) either alone as monotherapy or added to statins. (<strong>Strong Against</strong>) </li>
+    <li>In patients with ASCVD who are unable to tolerate statins, the Work Group suggests reinforcing adherence to positive lifestyle changes and suggest offering niacin or gemfibrozil, noting that these agents have been associated with only a small CVD risk reduction and studied in limited populations (e.g., males with low HDL-C). (<strong>Weak For</strong>) </li>
+    <li>The Work Group strongly recommends against the routine monitoring of LDL&amp;ndash;C and non-HDL&amp;ndash;C goals for the secondary prevention of ASCVD. (<strong>Strong Against</strong>) </li>
+    <li>The Work Group suggests offering a high-dose statin only in select patient populations (e.g., ACS, multiple uncontrolled risk factors or recurrent CVD events on moderate-dose statin) following a discussion of the added harms, small additional benefits, and an exploration of the patient's values and preferences. (<strong>Weak For</strong>) </li>
+    <li>The Work Group suggests measuring LFTs 4 to 12 weeks after the initiation of high-dose statin. (<strong>Weak For</strong>) </li>
+</ol>
+<p><strong>Non-Pharmacologic Approaches</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;20&quot;>
+    <li>The Work Group recommends all adults adopt healthy lifestyles to reduce CVD risk, including:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Tobacco cessation for all smokers (see 2008 Tobacco Use CPG at <a href=&quot;http://www.healthquality.va.gov/guidelines/CD/mtu/&quot; title=&quot;VA/DoD Web site&quot; target=&quot;_blank&quot;>http://www.healthquality.va.gov/guidelines/CD/mtu/</a>) </li>
+        <li>Therapeutic Lifestyle Changes (TLC) diet to optimize nutrition (for overweight and/or obese patients, see the NGC summary of the <a href=&quot;/content.aspx?id=48461&quot; title=&quot;Guideline #10511&quot;>VA/DoD clinical practice guideline for screening and management of overweight and obesity</a>) </li>
+        <li>Optimal physical activity (see the 2008 Physical Activity Guidelines for Americans at <a href=&quot;http://www.health.gov/paguidelines/pdf/paguide.pdf&quot; title=&quot;DHHS Web site&quot; target=&quot;_blank&quot;>http://www.health.gov/paguidelines/pdf/paguide.pdf</a>) </li>
+    </ol>
+    <p>(<em>Modified from the 2006 CPG without an updated systematic review of the evidence</em>) (<strong>Strong For</strong>)</p>
+    </li>
+    <li>The Work Group suggests offering high-risk patients a dietitian-monitored Mediterranean diet supplemented with either extra-virgin olive oil (roughly 1 liter per week) or 30 g of mixed nuts per day (15 g of walnuts, 7.5 g of hazelnuts, and 7.5 g of almonds) for the reduction of CVD events. (<strong>Weak For</strong>) </li>
+    <li>The Work Group suggests that each patient's diet be individualized based on a nutrition assessment (preferably by a registered dietitian [RD]), other CVD risk factors, other disease conditions, and patient's lifestyle. (<em>Modified from the 2006 CPG without an updated systematic review of the evidence</em>) (<strong>Weak For</strong>) </li>
+    <li>The Work Group recommends treating the common secondary causes of elevated triglycerides (TGs): dietary indiscretion (e.g., refined sugars), alcohol use, hypothyroidism, and hyperglycemia. (<em>Modified from the 2006 CPG without an updated systematic review of the evidence</em>) (<strong>Strong For</strong>) </li>
+    <li>The Work Group suggests for patients with TGs greater than 500 mg/dL a strict diet therapy including avoidance of alcohol, restriction of dietary fat, and avoidance of refined sugars. The Work Group suggests for patients with TGs greater than 1000 mg/dL a very low fat diet to reduce chylomicronemia and risk of acute pancreatitis. (<strong>Weak For</strong>) </li>
+</ol>
+<p><strong>Monitoring and Follow-up</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;25&quot;>
+    <li>The Work Group suggests CVD risk assessment every five years for patients with low CVD risk and not on statin therapy. (<strong>Weak For</strong>) </li>
+    <li>The Work Group suggests CVD risk assessment every two years for patients with intermediate CVD risk or with appearance of a new CVD risk factor (e.g., new diagnosis of type 2 DM or hypertension) and not on statin therapy. (<strong>Weak For</strong>) </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><strong>Quality of Evidence and Definitions*</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Quality of Evidence and Definitions&quot;>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;><strong>High quality</strong> &amp;mdash; Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Moderate quality</strong> &amp;mdash; Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate. </td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Low quality</strong> &amp;mdash; Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Very low quality</strong> &amp;mdash; Any estimate of effect is very uncertain. </td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>*Guyatt, G. H., Oxman, A. D., Vist, G. E., Kunz, R., Falck-Ytter, Y., Alonso-Coello, P., Sch&amp;uuml;nemann, H. J. &amp;amp; the GRADE Working Group. (2008). GRADE; An emerging consensus on rating quality of evidence and strength of recommendations. <em>BMJ, 336</em>, 924-926.</p>
+<p><strong>Strength of Recommendations</strong></p>
+<p>The relative strength of the recommendation is based on a binary scale, &quot;Strong&quot; or &quot;Weak.&quot; A strong recommendation indicates that the Work Group is highly confident that desirable outcomes outweigh undesirable outcomes. If the Work Group is less confident of the balance between desirable and undesirable outcomes, they present a weak recommendation.</p>
+<p>Similarly, a recommendation for a therapy or preventive measure indicates that the desirable consequences outweigh the undesirable consequences. A recommendation against a therapy or preventive measure indicates that the undesirable consequences outweigh the desirable consequences.</p>
+<p>The grade of each recommendation is presented as part of a continuum:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Strong For</strong> (or &quot;The Work Group recommends offering this option &amp;hellip;&quot;) </li>
+    <li><strong>Weak For</strong> (or &quot;The Work Group suggests offering this option &amp;hellip;&quot;) </li>
+    <li><strong>Weak Against</strong> (or &quot;The Work Group panel suggests not offering this option &amp;hellip;&quot;) </li>
+    <li><strong>Strong Against</strong> (or &quot;The Work Group recommends against offering this option &amp;hellip;&quot;) </li>
+</ul>
+<p>Note that weak (For or Against) recommendations may also be termed &quot;Conditional,&quot; &quot;Discretionary,&quot; or &quot;Qualified.&quot; Recommendations may be conditional based upon patient values and preferences, the resources available, or the setting in which the intervention will be implemented. Recommendations may be at the discretion of the patient and clinician or they may be qualified with an explanation about the issues that would lead decisions to vary.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An algorithm titled &quot;Management of Dyslipidemia&quot; is provided in the original guideline document.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Dyslipidemia</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Screening"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Cardiology"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Nutrition"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Dietitians"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To assist primary care providers in managing lipids among patients at risk for cardiovascular disease (CVD)</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients at risk for cardiovascular disease (CVD)</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: The patient population of interest for this Clinical Practice Guideline (CPG) is adults (men and women), that are eligible for care in the Veterans Health Administration (VHA) and Department of Defense (DoD) health care delivery system. Patients with severe systolic chronic heart failure (CHF), end stage renal disease (ESRD) and on dialysis, or a limited life expectancy are excluded from this CPG. This CPG does not provide recommendations for the management of dyslipidemia in children or adolescents.</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Risk Assessment/Evaluation/Screening</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Cardiovascular disease risk screening including lipid profile and risk calculation (using a 10-yeark risk calculator) </li>
+    <li>Assessment for other cardiovascular disease (CVD) risk factors in patients considered for statin therapy </li>
+</ol>
+<p><strong>Management/Prevention/Treatment</strong></p>
+<p><em>Pharmacotherapy for Primary Prevention</em></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Shared decision-making with patients regarding benefits and harms of pharmacologic treatment </li>
+    <li>Initiation of moderate-dose statin therapy as agent of choice </li>
+    <li>Reinforcing adherence to positive lifestyle changes in patients intolerant of statins </li>
+    <li>Gemfibrozil or bile acid sequestrants in patients intolerant of statins </li>
+    <li>Baseline liver function tests (LFTs) and creatinine kinase (CK) before initiation of drug therapy </li>
+</ol>
+<p><em>Pharmacotherapy for Secondary Prevention</em></p>
+<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>Moderate-dose statin therapy (high-dose in select patient populations) </li>
+    <li>Reinforcing adherence to positive lifestyle changes in patients intolerant of statins </li>
+    <li>Niacin or gemfibrozil in patients intolerant of statins </li>
+    <li>High-dose statin therapy in select patient population </li>
+    <li>Measuring LFTs 4 to 12 weeks after the initiation of high-dose statin therapy </li>
+</ol>
+<p><em>Non-Pharmacologic Approaches</em></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Adoption of healthy lifestyles to reduce CVD risk, including tobacco cessation, Therapeutic Lifestyle Changes (TLC) diet, physical activity </li>
+    <li>Dietitian-monitored Mediterranean diet supplemented with either extra-virgin olive oil or 30 g of mixed nuts per day in high-risk patients </li>
+    <li>Individualized diet based on a nutrition assessment, other CVD risk factors, other disease conditions, and patient's lifestyle </li>
+    <li>Treating common secondary causes of elevated triglycerides (TGs) </li>
+    <li>Strict diet therapy for high TGs (&amp;gt;500 mg/dL) </li>
+</ol>
+<p><em>Monitoring and Follow-up</em></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>CVD risk assessment every five years for patients with low CVD risk and not on statin therapy </li>
+    <li>CVD risk assessment every two years for patients with intermediate CVD risk or with appearance of a new CVD risk factor and not on statin therapy </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: The following interventions were considered but not recommended:</p>
+<ul class=&quot;contentListFont&quot;>
+    <li>Routine screening for dyslipidemia outside of the context of a cardiovascular risk assessment </li>
+    <li>Routine use of high-sensitivity C-reactive protein (hsCRP) testing </li>
+    <li>Routine use of coronary artery calcium (CAC) testing </li>
+    <li>Routine measuring of LFTs or CK after a moderate-dose statin is initiated </li>
+    <li>Use of non-statin lipid lowering drugs (e.g., fibrates, niacin, ezetimibe, omega-3 fatty acids, etc.) either alone as monotherapy or added to statins </li>
+    <li>Routine monitoring of low-density lipoprotein cholesterol (LDL&amp;ndash;C) and non-high-density lipoprotein cholesterol (HDL&amp;ndash;C) </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Major coronary heart disease (CHD) or cardiovascular disease (CVD) events (including cardiovascular mortality, all-cause mortality, fatal and non-fatal myocardial infarction [MI], fatal and non-fatal stroke, and need for revascularization) </li>
+    <li>Treatment-related adverse events (including muscle myopathy and liver dysfunction) </li>
+    <li>Lipid levels and attrition </li>
+    <li>Intermediate measures such as increased area under the curve (AUC) or net reclassification </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+      <fieldvalue value="Searches of Unpublished Data"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Clinical Practice Guideline (CPG) Champions were tasked with identifying key evidence questions to guide the systematic review of the literature on dyslipidemia. These questions, which were developed in consultation with the Lewin team, addressed clinical topics of the highest priority for the Department of Veterans Affairs (VA) and Department of Defense (DoD) populations. The key questions follow the population, intervention, comparison, outcome, timing and setting (PICOTS) framework for evidence questions, as established by the Agency for Healthcare Research and Quality (AHRQ). Table A‐1 in the original guideline document provides a brief overview of the PICOTS typology.</p>
+<p>The Champions and evidence review team carried out several iterations of this process, each time narrowing the scope of the CPG and the literature review by prioritizing the topics of interest. Table A-2 in the original guideline document contains the final set of KQs used to guide the systematic review for this CPG.</p>
+<p>See Appendix A in the original guideline document for information on population, interventions, and outcomes that helped form the key questions.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Conducting the Systematic Review</span></strong></p>
+<p>The methods guiding this systematic review are described below. In part, these methods follow the guidelines for conducting a systematic review set forth by AHRQ in the <em>Methods Guide for Effectiveness and Comparative Effectiveness Reviews</em>. The methods also follow the guidance set forth by the VA/DoD in the <em>Guideline for Guidelines</em> document (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p>Extensive literature searches identified 5,925 citations potentially addressing the key questions of interest to this evidence review. Of those, 1,741 were excluded upon title review for clearly not meeting inclusion criteria (e.g., not pertinent to the topic, not published in English, published prior to study inclusion publication date, or not a full-length article). Overall, 4,183 abstracts were reviewed with 2,843 of those being excluded for the following reasons: not a systematic review or clinical study, did not address a key question of interest to this review, did not enroll a population of interest, or published prior to January 2010. A total of 1,340 full-length articles were reviewed. Of those, 947 were excluded at a first pass review for the following: not addressing a key question of interest, not enrolling the population of interest, not meeting inclusion criteria for clinical study or systematic review, not meeting inclusion criteria for any key question, or being a duplicate. A total of 393 full-length articles were thought to address one or more key questions and were further reviewed. Of these, 295 were ultimately excluded. Reasons for their exclusion are presented in Figure A-1 in the original guideline document.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Criteria for Study Inclusion/Exclusion</span></strong></p>
+<p><strong>General Criteria</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Clinical studies or systematic reviews published on or after January 1, 2010. </li>
+    <li>Studies must be published in English. </li>
+    <li>Publication must be a full clinical study or systematic review; abstracts alone were not included. Similarly, letters, editorials, and other publications that are not full-length, clinical studies were not accepted as evidence. </li>
+    <li>Studies enrolled adults 18 years or older. In studies that mixed adults and children, at least 85 percent of the enrolled patients had to be 18 years or older. </li>
+    <li>Studies must have followed patients for at least one year. </li>
+</ul>
+<p><strong>Treatment Goals (Low-Density Lipoprotein Cholesterol [LDL-C] and non-LDL-C Target Levels) (Key Question [KQ] 1-2)</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Study must have been a randomized controlled trial (RCT) or systematic review of RCTs. </li>
+    <li>Crossover trials were considered only if data from the first treatment period were reported separately. </li>
+    <li>Study must have enrolled &amp;ge;10 patients per treatment arm. </li>
+    <li>Study must have compared clinical outcomes (major coronary heart disease [CHD] or cardiovascular disease [CVD] events) for patients who achieved one lipid target level and patients who achieved a different lipid target level through dose titration of lipid-lowering drugs. </li>
+</ul>
+<p><strong>Effectiveness and Safety of Cholesterol-modifying Drugs (KQ 3)</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Study must have been a RCT or systematic review of RCTs. </li>
+    <li>Crossover trials were considered only if data from the first treatment period were reported separately. </li>
+    <li>For statins, study must have enrolled &amp;ge;1000 patients; for other drugs, study must have enrolled &amp;ge;10 patients per treatment arm. </li>
+</ul>
+<p><strong>Cost-Effectiveness of Cholesterol-modifying Drugs (KQ 4)</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Study must have been a cost-effectiveness study based on clinical outcome data (major CHD or CVD events) from RCTs or a systematic review of cost-effectiveness studies that meet this criterion. </li>
+    <li>Patients must be at low-to-intermediate 10-year risk for a CHD or CVD event (adults without a CHD or CVD diagnosis). </li>
+    <li>Study must have been based on clinical trials undertaken in the US. </li>
+    <li>Study must have enrolled &amp;ge;10 patients per treatment arm. </li>
+    <li>Study must have compared frequent lipid monitoring (e.g., every three or four months) to less frequent lipid monitoring (e.g., every 12 months) on specific clinical outcomes and adverse events (myocardial infarction [MI], stroke, death, myopathy, and liver dysfunction) among new patients being treated with statins. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Additional Risk Stratifying Tests (KQ 6)</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Study must have enrolled &amp;ge;1000 patients. </li>
+    <li>Study must have compared the accuracy of risk prediction using high-sensitivity C-reactive protein (hsCRP) or coronary artery calcium (CAC) plus standard risk factors to the accuracy of risk prediction using only standard risk factors among patients at intermediate-risk (i.e., 5%&amp;ndash;15%) where there is equipoise about treatment with statins. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Supplementary Key Question (KQ 7)</span></strong></p>
+<p>This was a new key question requested by the Work Group at the face-to-face meeting, following review of the completed evidence report. The Work Group decided that this was an important question and wished to develop evidence-based recommendations to address it. A literature review was performed using the same methods and general inclusion/exclusion criteria used for KQs 1-6; the evidence base was small enough to allow a rapid evidence synthesis. The search identified one relevant RCT that directly addressed the question and one systematic review that marginally addressed the question.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Literature Search Strategy</span></strong></p>
+<p><strong>Electronic Database Searches</strong></p>
+<p>The following databases were searched for relevant information:</p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Electronic Database Searches&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Name</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Date Limits</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Platform/Provider</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Bibliographic Databases</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>The Cochrane Central Register of Controlled Trials (CENTRAL)</td>
+            <td valign=&quot;top&quot;>2010 through:<br />
+            <br />
+            December 2013 (KQ1-3); January 2014 (KQ 4 and 5) February 2014 (KQ6) </td>
+            <td valign=&quot;top&quot;>Wiley</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>The Cochrane Database of Methodology Reviews (Methodology Reviews)</td>
+            <td valign=&quot;top&quot;>2010 through:<br />
+            <br />
+            December 2013 (KQ1-3); January 2014 (KQ4 and 5); February 2014 (KQ6)</td>
+            <td valign=&quot;top&quot;>Wiley</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>The Cochrane Database of Systematic Reviews (Cochrane Reviews)</td>
+            <td valign=&quot;top&quot;>2010 through:<br />
+            <br />
+            December 2013 (KQ1-3); January 2014 (KQ4 and 5); February 2014 (KQ6)</td>
+            <td valign=&quot;top&quot;>Wiley</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Database of Abstracts of Reviews of Effects (DARE)</td>
+            <td valign=&quot;top&quot;>2010 through:<br />
+            <br />
+            December 2013 (KQ1-3); January 2014 (KQ4 and 5); February 2014 (KQ6)</td>
+            <td valign=&quot;top&quot;>Wiley</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>EMBASE (Excerpta Medica)</td>
+            <td valign=&quot;top&quot;>2010 through:<br />
+            <br />
+            December 2013 (KQ1 and 2); January 2014 (KQ4 and 5); February 2014 (KQ6) 2011 through December 2013 (KQ3)</td>
+            <td valign=&quot;top&quot;>OVIDSP</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Health Technology Assessment Database (HTA)</td>
+            <td valign=&quot;top&quot;>2010 through:<br />
+            <br />
+            December 2013 (KQ1-3); January 2014 (KQ4 and 5); February 2014 (KQ6)</td>
+            <td valign=&quot;top&quot;>Wiley</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MEDLINE/PreMEDLINE</td>
+            <td valign=&quot;top&quot;>2010 through:<br />
+            <br />
+            December 2013 (KQ1 and 2); January 2014 (KQ4 and 5); February 2014 (KQ6) 2011 through December 2013 (KQ3)</td>
+            <td valign=&quot;top&quot;>OVIDSP</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>PubMed (In-process and Publisher records)</td>
+            <td valign=&quot;top&quot;>2010 through:<br />
+            <br />
+            December 2013 (KQ 1and 2); January 2014 (KQ4 and 5); February 2014 (KQ6) 2011 through December 2013 (KQ3)</td>
+            <td valign=&quot;top&quot;>NLM</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>U.K. National Health Service Economic Evaluation Database (NHS EED)</td>
+            <td valign=&quot;top&quot;>2010 through:<br />
+            <br />
+            December 2013 (KQ1-3); January 2014 (KQ4 and 5); February 2014 (KQ6)</td>
+            <td valign=&quot;top&quot;>Wiley</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Tufts Cost-effectiveness Analysis (CEA) database</td>
+            <td valign=&quot;top&quot;>2010 through January 17, 2014 (KQ4)</td>
+            <td valign=&quot;top&quot;>Tufts University</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Gray Literature Resources</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Agency for Healthcare Research and Quality (AHRQ)</td>
+            <td valign=&quot;top&quot;>2010 through December 17, 2013</td>
+            <td valign=&quot;top&quot;>AHRQ </td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Healthcare Standards database</td>
+            <td valign=&quot;top&quot;>2010 through January 20, 2014</td>
+            <td valign=&quot;top&quot;>ECRI Institute</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>National Guideline Clearinghouse&amp;trade; (NGC)</td>
+            <td valign=&quot;top&quot;>2010 through January 20, 2014</td>
+            <td valign=&quot;top&quot;>AHRQ</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>National Institute of Health and Care Excellence</td>
+            <td valign=&quot;top&quot;>2010 through January 16, 2014</td>
+            <td valign=&quot;top&quot;>NHS</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>TRIP database</td>
+            <td valign=&quot;top&quot;>2010 through January 20, 2014</td>
+            <td valign=&quot;top&quot;>TRIP</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Hand Searches of Journal and Gray Literature</strong></p>
+<p>Journals and supplements maintained in ECRI Institute's collections were routinely reviewed. Non-journal publications and conference proceedings from professional organizations, private agencies, and government agencies were also screened. Other mechanisms used to retrieve additional relevant information included review of bibliographies/reference lists from peer-reviewed and gray literature (Gray literature consists of reports, studies, articles, and monographs produced by federal and local government agencies, private organizations, educational facilities, consulting firms, and corporations. These documents do not appear in the peer-reviewed journal literature.)</p>
+<p><strong>Topic-specific Search Terms</strong></p>
+<p>Journals and supplements maintained in ECRI Institute's collections were routinely reviewed. Non-journal publications and conference proceedings from professional organizations, private agencies, and government agencies were also screened. Other mechanisms used to retrieve additional relevant information included review of bibliographies/reference lists from peer-reviewed and gray literature (Gray literature consists of reports, studies, articles, and monographs produced by federal and local government agencies, private organizations, educational facilities, consulting firms, and corporations. These documents do not appear in the peer-reviewed journal literature.)</p>
+<p>The search strategies employed combinations of free-text keywords as well as controlled vocabulary terms including (but not limited to) the concepts provided in Appendix A in the original guideline document, which also lists specific search terms.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Overall, 90 studies (in 98 publications) addressed one or more of the key questions and were considered as evidence in this review. See Figure A-1 in the original guideline document for a systematic review flow diagram.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Quality of Evidence and Definitions*</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Quality of Evidence and Definitions&quot;>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;><strong>High quality</strong> &amp;mdash; Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Moderate quality</strong> &amp;mdash; Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate. </td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Low quality</strong> &amp;mdash; Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Very low quality</strong> &amp;mdash; Any estimate of effect is very uncertain. </td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>*Guyatt, G. H., Oxman, A. D., Vist, G. E., Kunz, R., Falck-Ytter, Y., Alonso-Coello, P., Sch&amp;uuml;nemann, H. J. &amp;amp; the GRADE Working Group. (2008). GRADE; An emerging consensus on rating quality of evidence and strength of recommendations. <em>BMJ, 336</em>, 924-926.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Abstracting and Managing Data</strong></p>
+<p>For each study included in the evidence review, the following study level details were abstracted: country, purpose, and quality rating. For previous systematic reviews, reviewers reported the search strategy used, study selection criteria, and overall information about the evidence base, including number of included studies and overall patients enrolled. For all studies, reviewers abstracted data about characteristics of the included patients and interventions being assessed.</p>
+<p><strong>Assessing Individual Studies' Methodological Quality (i.e., Internal Validity or Risk of Bias)</strong></p>
+<p>As per the Department of Veterans Affairs/Department of Defense (VA/DoD) <em>Guideline for Guidelines</em> document (see the &quot;Availability of Companion Documents&quot; field), risk-of-bias (or study quality) of individual studies and previous systematic reviews was assessed using the U.S. Preventive Services Task Force (USPSTF) method. Each study was assigned a rating of Good, Fair, or Poor based on sets of criteria that vary depending on study design. Detailed lists of criteria and definitions of Good, Fair, or Poor ratings for different study designs appear in Appendix VII of the <a href=&quot;http://www.uspreventiveservicestaskforce.org/Page/Name/procedure-manual---appendix-vii&quot; title=&quot;USPSTF Web site&quot;>USPSTF procedure manual</a>.</p>
+<p><strong>Data Synthesis</strong></p>
+<p>A narrative approach was used to synthesizing the evidence for all the key questions. As indicated in the VA/DoD <em>Guideline for Guidelines</em> document, the first line of evidence was previous systematic reviews. For questions in which a previous review was available, individual studies that met this review's inclusion criteria were used to supplement or update the previous review. Reviewers considered whether subsequent evidence supports the conclusions reported in the previous review. For questions for which no previous review was available, reviewers summarized the overall findings for the outcomes of interest of the studies that addressed a key question.</p>
+<p><strong>Assessing the Overall Quality of the Body of Evidence for an Outcome</strong></p>
+<p>The overall quality of the body of evidence supporting the findings for the outcomes of interest was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system. The GRADE system primarily involves consideration of the following factors: overall study quality (or overall risk of bias or study limitations), consistency of evidence, directness of evidence, and precision of evidence. Given time and resources, other factors such as publication bias may also be considered.</p>
+<p>The GRADE system rates the overall quality of the evidence as High, Moderate, Low, and Very Low (see the &quot;Rating Scheme for the Strength of the Evidence&quot; field). The overall quality of a body of evidence is rated based on the factors described above. For instance, a body of evidence that consists of randomized controlled trials (RCTs) automatically starts with a rating of high quality. This rating can be downgraded if some of the RCTs have serious flaws such as lack of blinding of outcome assessors, not reporting concealment of allocation, or high dropout rate. Similarly, the quality can be downgraded or further downgraded if inconsistencies of findings are present or if there is a lack of precision surrounding an outcome's effect size. For more information on the GRADE system go to the GRADE working group website at the following link: <a href=&quot;http://www.gradeworkinggroup.org/&quot; title=&quot;GRADE Web site&quot;>http://www.gradeworkinggroup.org/</a>.</p>
+<p><strong>Assessing Applicability</strong></p>
+<p>When describing the evidence base addressing a key question, the evidence review team discussed aspects of the included studies, such as characteristics of included patients and treatments being assessed that may make the overall findings of the studies more or less applicable to the population, treatments, or outcomes of interest to this review.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The methodology used in developing the 2014 Clinical Practice Guideline (CPG) follows the <em>Guideline for Guidelines</em>, an internal document of the Department of Veterans Affairs (VA) and Department of Defense (DoD) Evidence-based Practice Working Group (EBPWG) (see the &quot;Availability of Companion Documents&quot; field). This document provides information regarding the process of developing guidelines, including the identification and assembly of the Guideline Champions (Champions) and other subject matter experts from within the VA and DoD, known as the Work Group, and ultimately, the submission of an updated Management of Dyslipidemia For CVD Risk Reduction CPG.</p>
+<p>The Champions and Work Group for this CPG were charged with developing evidence-based clinical practice recommendations and publishing a guideline document to be used by providers within the VA and DoD health care delivery systems. Specifically, the Champions for this guideline were responsible for identifying the key questions of greatest clinical relevance, importance, and interest for the management of patients with dyslipidemia.</p>
+<p>The Champions also assisted in:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Conducting the evidence review, including providing direction on inclusion and exclusion criteria </li>
+    <li>Assessing the level and quality of the evidence </li>
+    <li>Identifying appropriate disciplines to be included as part of the Work Group </li>
+    <li>Directing the Work Group and the guideline development and review process </li>
+</ul>
+<p>The Work Group was responsible for providing their expertise throughout the guideline development process and participating in developing key questions, reviewing evidence, forming and grading recommendations, and drafting the updated CPG.</p>
+<p>The VA Office of Quality, Safety and Value, in collaboration with the DoD, identified two clinical leaders as the Champions for the 2014 CPG. The Lewin Team, including The Lewin Group, DutyFirst Consulting, ECRI Institute, and Sigma Health Consulting, LLC, was contracted by the VA and the DoD to support the development of this CPG. The Lewin Team held the first conference call on September 30, 2013, with participation from the Contracting Officer's Representatives (CORs), leaders from the VA and DoD evidence-based guideline development program, and the Champions. During this call, the project team discussed the scope of the guideline initiative, the roles and responsibilities of the Champions, the project timeline, and the approach for developing specific research questions on which to base a systematic review on the management of dyslipidemia. The group also identified a list of clinical specialties and areas of expertise that are important and relevant to the management of dyslipidemia, from which the Work Group members were recruited. These specialties and clinical areas included: Internal Medicine, Health Information Technology, Electronic Health Record Documentation, Preventive Cardiology, Pharmacy, Dietetics, Primary Care, Nursing, and Family Practice.</p>
+<p>The guideline development process for the 2014 CPG consisted of the following steps:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Formulating evidence questions (key questions) </li>
+    <li>Conducting the systematic review </li>
+    <li>Convening a three and a half day face-to-face meeting with the CPG Champions and Work Group members </li>
+    <li>Drafting and submitting a final CPG to the VA/DoD EBPWG </li>
+</ul>
+<p>Appendix A in the original guideline document provides a more detailed description of each of these tasks.</p>
+<p><strong>Reconciling 2006 CPG Recommendations</strong></p>
+<p>Evidence-based CPGs should be current, which typically requires revisions based on new evidence or as scheduled subject to time-based expirations. For example, the U.S. Preventive Services Task Force (USPSTF) has a process for refining or otherwise updating its recommendations pertaining to preventive services. Further, the inclusion criteria for the National Guideline Clearinghouse (NGC) specify that a guideline must have been developed, reviewed or revised within the past five years.</p>
+<p>The Dyslipidemia Guideline Work Group focused largely on developing new and updated recommendations based on the evidence review conducted for the priority areas addressed by the key questions. In addition to those new and updated recommendations, the Guideline Work Group considered the current applicability of other recommendations that were included in the previous version of this CPG, Management of Dyslipidemia, published in 2006, subject to evolving practice in today's environment for cardiovascular disease (CVD) risk. Subject to Guideline Work Group consensus, recommendations that were no longer relevant to the current practice environment, or were otherwise out of scope for this CPG, were not carried forward to this CPG. Recommendations that were considered to be relevant to the current practice environment and still in scope for this CPG, and that required no substantive (i.e., entailing clinically meaningful) rewording, were carried forward in this CPG. For these &quot;modified&quot; recommendations, the Guideline Work Group referred to the available evidence as summarized in the body of the 2006 CPG, though not to the evidence review that was conducted for the 2006 CPG. These modified recommendations are denoted in the recommendations.</p>
+<p>The Guideline Work Group recognized the need to accommodate the transition in evidence rating systems from the 2006 CPG to the current CPG. In order to report the strength of all recommendations using a consistent format (i.e., the Grading of Recommendations Assessment, Development and Evaluation [GRADE] system), the Guideline Work Group converted the USPSTF strengths of the recommendation accompanying the carryover recommendations from the 2006 guideline to the GRADE system. As such, the Guideline Work Group considered the strength of the evidence cited for each recommendation in the 2006 CPG, as well as harms and benefits, values and preferences, and other implications, where possible. In some instances, peer-reviewed literature published since the 2006 CPG was considered along with the evidence base used for that CPG. Consideration of such newer literature when converting the strength of the recommendation from the USPSTF to GRADE system is noted in the discussion that follows the corresponding recommendation (see the original guideline document).</p>
+<p>The Guideline Work Group recognizes that, while there are practical reasons for incorporating findings from a previous systematic review or previous recommendations or recent peer-reviewed publications into an updated CPG, doing so does not involve an original, comprehensive systematic review.</p>
+<p><strong>Convening the Face-to-Face Meeting</strong>​</p>
+<p>In consultation with the COR, the Champions, and the Work Group, the Lewin Team convened a three and a half day face-to-face meeting of the CPG Champions and Work Group members on May 6-9, 2014. These experts were gathered to develop and draft clinical recommendations based on the evidence review for an update to the 2006 CPG. Lewin presented detailed information on the process used to grade. ECRI Institute presented findings from the evidence review for each of the key questions. The presentations helped prepare the Champions and Work Group members for their work in reviewing and synthesizing the evidence and forming new recommendations.</p>
+<p>Additionally, under the direction of the Champions, the Work Group members had the opportunity to discuss the existing recommendations from the 2006 CPG. They made a decision on whether to retain, revise, or reject each recommendation using an explicit process.</p>
+<p>As they drafted each recommendation, the Work Group assigned a grade based on modified GRADE and USPSTF methodologies. Each recommendation was graded by assessing the quality of the overall evidence base, the associated benefits and harms, the variation in values and preferences, and other implications of the recommendation. The methodology used for grading the recommendations is further described below.</p>
+<p><strong>Grading Recommendations</strong></p>
+<p>This CPG uses the GRADE methodology to assess the quality of the evidence base and assign a grade for the strength for each recommendation. The GRADE system uses the following four domains to assess the strength of each recommendation:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Balance of desirable and undesirable outcomes </li>
+    <li>Confidence in the quality of the evidence </li>
+    <li>Values and preferences </li>
+    <li>Other implications, as appropriate, e.g.,:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Resource Use </li>
+        <li>Equity </li>
+        <li>Acceptability </li>
+        <li>Feasibility </li>
+        <li>Subgroup considerations </li>
+    </ul>
+    </li>
+</ul>
+<p>Refer to the original guideline document for further descriptions of each domain.</p>
+<p>The framework in Table A-4 in the original guideline document was used by the Work group to guide discussions on each domain.</p>
+<p>The strength of a recommendation is defined as the extent to which one can be confident that the desirable effects of an intervention outweigh its undesirable effects and is based on the framework above, which combines the four domains. GRADE methodology does not allow for recommendations to be made based on expert opinion alone. While strong recommendations are usually based on high or moderate confidence in the estimates of effect (quality of the evidence) there may be instances where strong recommendations are warranted even when the quality of evidence is low. In these types of instances where the balance of desirable and undesirable outcomes and values and preferences played large roles in determining the strength of a recommendation, this is explained in the discussion section for the recommendation.</p>
+<p>The GRADE of a recommendation is based on the following elements:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Four decision domains used to determine the strength and direction (described above) </li>
+    <li>Relative strength (Strong or Weak) </li>
+    <li>Direction (For or Against) </li>
+</ul>
+<p><strong>Drafting and Submitting the Final CPG</strong></p>
+<p>During the face-to-face meeting, the Champions and Work Group members were given writing assignments for the recommendations created during the face-to-face meeting and recommendations carried forward from the 2006 CPG that would form portions of the narrative text for the 2014 CPG. During this time, the Champions and Work Group members also revised the 2006 algorithms. Following the face-to-face meeting, the Champions and Work Group identified the content for the guideline summary and pocket card, as part of the provider toolkits developed by the EBPWG following the publication of the 2014 CPG.</p>
+<p>The algorithm is included as part of this CPG to provide a clear description of the flow of patient care. The final 2014 CPG was submitted in December 2014.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The relative strength of the recommendation is based on a binary scale, &quot;Strong&quot; or &quot;Weak.&quot; A strong recommendation indicates that the Work Group is highly confident that desirable outcomes outweigh undesirable outcomes. If the Work Group is less confident of the balance between desirable and undesirable outcomes, they present a weak recommendation.</p>
+<p>Similarly, a recommendation for a therapy or preventive measure indicates that the desirable consequences outweigh the undesirable consequences. A recommendation against a therapy or preventive measure indicates that the undesirable consequences outweigh the desirable consequences.</p>
+<p>Using these elements, the grade of each recommendation is presented as part of a continuum:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Strong For</strong> (or &quot;The Work Group recommends offering this option &amp;hellip;&quot;) </li>
+    <li><strong>Weak For</strong> (or &quot;The Work Group suggests offering this option &amp;hellip;&quot;) </li>
+    <li><strong>Weak Against</strong> (or &quot;The Work Group suggests not offering this option &amp;hellip;&quot;) </li>
+    <li><strong>Strong Against</strong> (or &quot;The Work Group recommends against offering this option &amp;hellip;&quot;) </li>
+</ul>
+<p>Note that weak (For or Against) recommendations may also be termed &quot;Conditional,&quot; &quot;Discretionary,&quot; or &quot;Qualified.&quot; Recommendations may be conditional based upon patient values and preferences, the resources available, or the setting in which the intervention will be implemented. Recommendations may be at the discretion of the patient and clinician or they may be qualified with an explanation about the issues that would lead decisions to vary.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>One of the ways to formally balance harm and benefit is to conduct cost-effectiveness analyses. For patients with 10-year cardiovascular disease (CVD) risk of 5% or more requiring moderate or high intensity drug therapy, statin therapy is cost-effective if costs are &amp;lt;$50/month. For patients with 10-year CVD risk of 10% or more requiring moderate or high intensity drug therapy, statin therapy is cost-effective if &amp;lt;$70/month. There is no evidence of cost-effectiveness at risk levels &amp;lt;5%. Therefore, one should not extrapolate this conclusion to very low-risk populations due to the uncertain benefits and known adverse effects associated with statins.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A thorough explanation of the guideline validation process and public comment is provided in the Department of Veterans Affairs and the Department of Defense (VA/DoD) <em>Guideline for Guidelines</em> document (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of evidence supporting the recommendations is not specifically stated.</p>
+<p>Table A-2 in the original guideline documents indicates the number and type of studies that addressed each of the key questions. The evidence base consists primarily of systematic reviews and randomized controlled trials.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Efficient and effective assessment of the patient's condition </li>
+    <li>Optimizing the use of therapy to reduce symptoms and enhance functionality </li>
+    <li>Minimizing preventable complications and morbidity of dyslipidemia </li>
+    <li>Use of personalized, proactive, patient-driven care </li>
+</ul>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Potential adverse effects and drug interactions for statin and non-statin pharmacologic agents are provided in Table D-1 in the original guideline document.</p></div>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Fenofibrate, fenofibric acid, and gemfibrozil should be avoided in patients with creatinine clearance (CrCl) &amp;lt;30 ml/min, active liver disease including primary biliary cirrhosis, and preexisting gallbladder disease. </li>
+    <li>Niacin should be avoided in patients with active liver disease, active peptic ulcer disease, and arterial bleeding. </li>
+    <li>There are many statin-drug interactions that need to be considered. Concomitant use of statins should be avoided with certain medications or the dose of the statin should be restricted to a lesser dose. </li>
+    <li>Since statins vary in their metabolic pathway, refer to product labeling for the most up to date information regarding drug-drug interactions with the selected statin and which drugs to avoid and/or statin dose limits. </li>
+    <li>Avoid use of gemfibrozil with statins. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Department of Veterans Affairs (VA) and the Department of Defense (DoD) guidelines are based upon the best information available at the time of publication. They are designed to provide information and assist decision-making. They are not intended to define a standard of care and should not be construed as one. Neither should they be interpreted as prescribing an exclusive course of management. </li>
+    <li>This Clinical Practice Guideline (CPG) is based on a systematic review of both clinical and epidemiologic evidence. Developed by a panel of multidisciplinary experts (all practicing clinicians), it provides a clear explanation of the logical relationships between various care options and health outcomes while rating both the quality of the evidence and the strength of the recommendations. </li>
+    <li>Variations in practice will inevitably and appropriately occur when clinicians take into account the needs of individual patients, available resources, and limitations unique to an institution or type of practice. Every health care professional making use of these guidelines is responsible for evaluating the appropriateness of applying them in the setting of any particular clinical situation. </li>
+    <li>These guidelines are not intended to represent TRICARE policy. Further, inclusion of recommendations for specific testing and/or therapeutic interventions within these guidelines does not guarantee coverage of civilian sector care. Additional information on current TRICARE benefits may be found at <a href=&quot;http://www.tricare.mil/&quot; title=&quot;TRICARE Web site&quot;>www.tricare.mil</a> or by contacting the regional TRICARE Managed Care Support Contractor. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This Clinical Practice Guideline (CPG) and algorithm are designed to be adapted by individual facilities in consideration of local needs and resources. The algorithm serves as a guide that providers can use to determine best interventions and timing of care for their patients in order to optimize quality of care and clinical outcomes.</p>
+<p>Although this CPG represents clinical practice on the date of its publication, medical practice is evolving and this evolution requires continuous updating based on published information. This CPG can assist in identifying priority areas for research and optimal allocation of resources.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Pocket Guide/Reference Cards"/>
+      <fieldvalue value="Quick Reference Guides/Physician Guides"/>
+      <fieldvalue value="Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Dyslipidemia Guideline Work Group. VA/DoD clinical practice guideline for the management of dyslipidemia for cardiovascular risk reduction. Washington (DC): Department of Veterans Affairs, Department of Defense; 2014 Dec. 112 p.  [104 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2001 Dec (revised 2014 Dec)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="Department of Defense - Federal Government Agency [U.S.]"/>
+      <fieldvalue value="Department of Veterans Affairs - Federal Government Agency [U.S.]"/>
+      <fieldvalue value="Veterans Health Administration - Federal Government Agency [U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>United States Government</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Dyslipidemia Guideline Work Group</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Veterans Affairs Working Group Members</em>: John R. Downs, MD (<em>Co-chair</em>); Deborah Grady, MD, MPH; Cathy Kelley, PharmD; Amanda Logan, RD; Mark McConnell, MD</p>
+<p><em>Department of Defense Working Group Members</em>: COL Patrick G. O'Malley MD, MPH (<em>Co-chair</em>); Tonya Giessmann, PA-C, MEd, CPHQ; MAJ Edward A. Hulten, MD, MPH; Azra Khan, PharmD, CDE, BCACP; Michele C. Pino, MS, RD, LD; James L. Sall, PhD, FNP-BC; LCDR Robert Selvester, MD</p>
+<p><em>Office of Quality and Safety Veterans Health Administration</em>: M. Eric Rodgers, PhD, FNP, BC; Rene Sutton, BS, HCA</p>
+<p><em>Quality Management Division US Army Medical Command</em>: Ernest Degenhardt, COL USA (Ret.), MSN, RN, ANP, FNP; James L. Sall, PhD, FNP-BC</p>
+<p><em>The Lewin Group</em>: Cliff Goodman, PhD; Josie Idoko-Pean, MPH; Christine Jones, MS, MPH; Hillary Kleiner, MPH; Nicolas Stettler, MD, MSCE</p>
+<p><em>ECRI Institute</em>: James Reston, PhD; Stacey Uhl, MS</p>
+<p><em>Sigma Health Consulting, LLC</em>: Fran Murphy, MD, MPH</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A hallmark of the Department of Veterans Affairs and the Department of Defense (VA/DoD) guidelines is their relative freedom from conflict of interest. Conflicts of interest (COI) faced by the VA/DoD Evidence-Based Practice Working Group (EBPWG) and the working groups that it charters to develop specific guidelines are handled based on the <a href=&quot;http://www.healthquality.va.gov/documents/CPGVHA_Handbook_1004_07_Financial_Relationships_20091021.pdf&quot; title=&quot;VA/DoD Web site&quot; target=&quot;_blank&quot;>Veterans Health Administration (VHA) Handbook 1004.07</a> - Financial Relationships between VHA Health Care Professionals and Industry, which was signed October 21, 2009. All EBPWG meetings utilize the process of real-time verbal disclosure as required by <a href=&quot;http://www.healthquality.va.gov/documents/CPGVHA_Handbook_1004_07_Financial_Relationships_20091021.pdf&quot; title=&quot;VA/DoD Web site&quot; target=&quot;_blank&quot;>VHA Handbook 1004.07</a> - Information for Members of VHA Decision Making and Advisory Groups.</p>
+<p>At the start of this guideline development process and at other key points throughout, the project team was required to submit disclosure statements to reveal any areas of potential COI in the past two years, including verbal affirmations of no conflict of interest at regular meetings. The project team was also subject to random web-based surveillance (e.g., ProPublica). If there was a positive (yes) conflict of interest response (actual or potential), then action was taken by the co-chairs and evidence-based practice program office, based on level and extent of involvement, to mitigate the COI. Actions ranged from restricting participation and/or voting on sections related to a conflict, to removal from the Work Group. Recusal was determined by the individual, co-chairs, and evidence-based practice office. One DoD Work Group Member was removed for potential COI. No member of the final project team had any COI.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Management of Dyslipidemia Working Group. VA/DoD clinical practice guideline for the management of dyslipidemia. Washington (DC): Department of Veterans Affairs, Department of Defense; 2006. 140 p.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;http://www.healthquality.va.gov/Dyslipidemia_LIPIDS.asp&quot; title=&quot;VA Web site&quot; target=&quot;_blank&quot;>Department of Veterans Affairs (VA) Web site</a>.</p>
+<p>Print copies: Available from the Department of Veterans Affairs, Veterans Health Administration (VHA), Office of Quality and Performance (10Q), 810 Vermont Ave. NW, Washington, DC 20420.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>VA/DoD clinical practice guideline for the management of dyslipidemia for cardiovascular risk reduction. Clinician summary. Washington (DC): Department of Veterans Affairs, Department of Defense; 2014 Dec. 10 p. Electronic copies: Available from the <a href=&quot;http://www.healthquality.va.gov/guidelines/CD/lipids/VADoDLipidsClinicianSummary.pdf&quot; title=&quot;VA/DoD Web site&quot; target=&quot;_blank&quot;>Department of Veterans Affairs (VA) Web site</a>. </li>
+    <li>VA/DoD clinical practice guideline for the management of dyslipidemia for cardiovascular risk reduction. Pocket card. Washington (DC): Department of Veterans Affairs, Department of Defense: 2014 Dec. 2 p. Electronic copies: Available from the <a href=&quot;http://www.healthquality.va.gov/guidelines/CD/lipids/VADoDLipidsPocketCard.pdf&quot; title=&quot;VA/DoD Web site&quot; target=&quot;_blank&quot;>VA Web site</a>. </li>
+    <li>VA/DoD clinical practice guideline for the management of dyslipidemia for cardiovascular risk reduction. Frequently asked questions. Washington (DC): Department of Veterans Affairs, Department of Defense; 2014 Dec. 7 p. Electronic copies: Available from the <a href=&quot;http://www.healthquality.va.gov/guidelines/CD/lipids/VADoDLipidsFAQsTable.pdf&quot; title=&quot;VA/DoD Web site&quot; target=&quot;_blank&quot;>VA Web site</a>. </li>
+    <li>Guideline for guidelines. Washington (DC): Department of Veterans Affairs; 2013 Apr 10. Electronic copies: Available from the <a href=&quot;http://www.healthquality.va.gov/documents/cpgGuidelinesForGuidelinesFinalRevisions051214.docx&quot; title=&quot;VA/DoD Web site&quot; target=&quot;_blank&quot;>VA Web site</a>. </li>
+    <li>Putting clinical practice guidelines to work in VHA. Washington (DC): Department of Veterans Affairs. 64 p. Electronic copies: Available from the <a href=&quot;http://www.healthquality.va.gov/VA_Manual.pdf&quot; title=&quot;VA/DoD Web site&quot; target=&quot;_blank&quot;>VA Web site</a>. </li>
+</ul>
+<p>In addition, CVD risk calculators and a pharmacologic therapy table are available in the appendices of the <a href=&quot;http://www.healthquality.va.gov/guidelines/CD/lipids/VADoDDyslipidemiaCPG.pdf&quot; title=&quot;VA/DoD Web site&quot; target=&quot;_blank&quot;>original guideline document</a>.</p>
+<p>Print copies: Department of Veterans Affairs, Veterans Health Administration, Office of Quality and Performance (10Q) 810 Vermont Ave. NW, Washington, DC 20420.</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>VA/DoD evidence-based clinical practice guideline for the management of dyslipidemia for cardiovascular risk reduction. Patient summary. Washington (DC): Department of Veterans Affairs, Department of Defense; 2014 Dec. 6 p. Electronic copies: Available from the <a href=&quot;http://www.healthquality.va.gov/guidelines/CD/lipids/VADoDLipidsPatientSummary.pdf&quot; title=&quot;VA/DoD Web site&quot; target=&quot;_blank&quot;>Department of Veterans Affairs (VA) Web site</a>. </li>
+</ul>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI on August 9, 2002. The information was verified by the guideline developer on September 25, 2002. This summary was updated by ECRI on November 7, 2006. This summary was updated by ECRI Institute on June 27, 2011 following the U.S. Food and Drug Administration advisory on Zocor (simvastatin). This summary was updated by ECRI Institute on February 10, 2015.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>No copyright restrictions apply.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 02:11:56 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:22:51 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 129.193 (3)
+  esindex: 0.009
+  captures_list: 145.079
+  CDXLines.iter: 11.744 (3)
+  PetaboxLoader3.datanode: 45.502 (4)
+  exclusion.robots: 0.366
+  exclusion.robots.policy: 0.354
+  RedisCDXSource: 0.7
+  PetaboxLoader3.resolve: 160.429 (2)
+  load_resource: 112.201
+-->
