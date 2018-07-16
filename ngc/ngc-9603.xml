@@ -1,5 +1,5 @@
 <script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app41.us.archive.org';v.server_ms=312;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app16.us.archive.org';v.server_ms=1601;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
 
 <script type="text/javascript">
 __wbhack.init('https://web.archive.org/web');
@@ -39,7 +39,7 @@ body {
                   <div id="wm-save-snapshot-success">success</div>
           <div id="wm-save-snapshot-fail">fail</div>
           <a href="#"
-             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-9604?contentType=xml', '20180716013120')"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-9603?contentType=xml', '20180716013125')"
              title="Share via My Web Archive"
              id="wm-save-snapshot-open"
           >
@@ -56,35 +56,35 @@ body {
 	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
       </div>
       <div id="wm-share" style="text-align:right;">
-	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180716013120/https://www.guideline.gov/summaries/downloadcontent/ngc-9604?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
-	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180716013120/https://www.guideline.gov/summaries/downloadcontent/ngc-9604?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180716013125/https://www.guideline.gov/summaries/downloadcontent/ngc-9603?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180716013125/https://www.guideline.gov/summaries/downloadcontent/ngc-9603?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
       </div>
     </div>
     <table class="c" style="">
       <tbody>
 	<tr>
 	  <td class="u" colspan="2">
-	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-9604?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180716013120" /><input type="submit" value="Go" /></form>
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-9603?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180716013125" /><input type="submit" value="Go" /></form>
 	  </td>
 	  <td class="n" rowspan="2" style="width:110px;">
 	    <table>
 	      <tbody>
 		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
 		<tr class="m">
-		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610075102/https://www.guideline.gov/summaries/downloadcontent/ngc-9604?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
-		  <td class="c" id="displayMonthEl" title="You are here: 01:31:20 Jul 16, 2018">JUL</td>
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610070543/https://www.guideline.gov/summaries/downloadcontent/ngc-9603?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 01:31:25 Jul 16, 2018">JUL</td>
 		  <td class="f" nowrap="nowrap">Aug</td>
 		</tr>
 		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
 		<tr class="d">
-		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180712225828/https://www.guideline.gov/summaries/downloadcontent/ngc-9604?contentType=xml" title="22:58:28 Jul 12, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
-		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 01:31:20 Jul 16, 2018">16</td>
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180712235724/https://www.guideline.gov/summaries/downloadcontent/ngc-9603?contentType=xml" title="23:57:24 Jul 12, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 01:31:25 Jul 16, 2018">16</td>
 		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
 		</tr>
 		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
 		<tr class="y">
-		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930201218/https://www.guideline.gov/summaries/downloadcontent/ngc-9604?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
-		  <td class="c" id="displayYearEl" title="You are here: 01:31:20 Jul 16, 2018">2018</td>
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930201235/https://www.guideline.gov/summaries/downloadcontent/ngc-9603?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 01:31:25 Jul 16, 2018">2018</td>
 		  <td class="f" nowrap="nowrap">2019</td>
 		</tr>
 	      </tbody>
@@ -94,7 +94,7 @@ body {
 	<tr>
 	  <td class="s">
 	    	    <div id="wm-nav-captures">
-	      	      <a class="t" href="/web/20180716013120*/https://www.guideline.gov/summaries/downloadcontent/ngc-9604?contentType=xml" title="See a list of every capture for this URL">7 captures</a>
+	      	      <a class="t" href="/web/20180716013125*/https://www.guideline.gov/summaries/downloadcontent/ngc-9603?contentType=xml" title="See a list of every capture for this URL">7 captures</a>
 	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 16 Jul 2018</div>
 	      </div>
 	  </td>
@@ -133,45 +133,50 @@ Liveweb proxy is a component of Internet Archive’s wayback machine project. Th
       <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
     </div>
   </div></div></div></div><script type="text/javascript">
-__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-9604?contentType=xml","2018-07-16",1996);
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-9603?contentType=xml","2018-07-16",1996);
 </script>
 <!-- END WAYBACK TOOLBAR INSERT --><version>
   <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
   <section secid="390" ordby="100" name="General">
     <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
-      <fieldvalue value="<div class=&quot;content_title&quot;>An evidence based review: efficacy of safety helmets in reduction of head injuries in recreational skiers and snowboarders.</div>"/>
+      <fieldvalue value="<div class=&quot;content_title&quot;>Child passenger safety: an evidence-based review.</div>"/>
     </field>
     <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
-      <fieldvalue value="<table><tr><td>Haider AH, Saleem T, Bilaniuk JW, Barraco RD. Efficacy of safety helmets in reduction of head injuries in recreational skiers and snowboarders. Chicago (IL): Eastern Association for the Surgery of Trauma (EAST); 2011. 26 p.  [53 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Barraco RD, Cheng JD, Bromberg WJ, Falcone RA, Hammond JS, Lui FY, Sandhu RS, Scaff DW. Child passenger safety: an evidence based review. Chicago (IL): Eastern Association for the Surgery of Trauma (EAST); 2010. 32 p.  [53 references]</td></tr></table>"/>
     </field>
     <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
-<p>The Eastern Association for the Surgery of Trauma (EAST) reaffirmed the currency of this guideline in October 2016.</p>
+<p>The Eastern Association for the Surgery of Trauma (EAST) reaffirmed the currency of the guideline in October 2015.</p>
 <p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
     </field>
   </section>
   <section secid="420" ordby="300" name="Recommendations">
     <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>The classes of evidence (I-III) and levels of recommendation (1-3) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
-<p><strong>Level 1 Recommendations</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Level 1 Standards</span></strong></p>
 <ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
-    <li>All recreational skiers and snowboarders should wear safety helmets to reduce the incidence and severity of head injury during these sports. </li>
+    <li>Child restraint and restraint systems reduce injury and injury severity in all ages reported and are recommended for use.
+    <ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;1&quot;>
+        <li>The highest reductions come from age appropriate, properly used restraints, as per the American Academy of Pediatrics guidelines on selection and use of car safety seats. </li>
+    </ol>
+    </li>
 </ol>
-<p><strong>Note</strong>: As with evidence regarding helmet efficacy in the reduction of head injury and mortality in motorcycle crashes, Class I evidence on helmet efficacy in recreational skiing and snowboarding is lacking. However, the above statement has been designated as a Level I recommendation because in the review of evidence, a preponderance of Class II data regarding helmet efficacy in head injuries in skiers and snowboarders with significant construct validity was observed. This was further coupled with the acknowledgement of the inability to ethically perform a randomized controlled trial in this arena.</p>
-<p><strong>Level 2 Recommendations/Observations</strong></p>
-<p>The following observations were also made during the review of literature on the subject:</p>
+<p class=&quot;Note&quot;>Please note that these recommendations rose to Level 1 standards based on the preponderance of available literature, including well-done Class II data, that supports the age-appropriate use of child restraints and restraint systems as successful in the reduction of morbidity and mortality.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Level 2 Guidelines</span></strong></p>
 <ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
-    <li>Helmets do not appear to increase the risk compensation behavior among skiers and snowboarders. </li>
-    <li>Helmets do not appear to increase the risk of neck and cervical spine injuries among skiers and snowboarders. </li>
-    <li>Policies and interventions directed towards increasing and promoting helmet use should be promoted to reduce mortality and head injury in recreational skiers and snowboarders. </li>
+    <li>Rear seat position reduces injury at all ages studied and is recommended especially for those less than or equal to 12 years of age. </li>
+    <li>Airbags can cause injury and/or death to children less than or equal to 12 years of age and thus seating position with exposure to airbags should be avoided in that age range. </li>
+    <li>Child restraint laws help reduce injury and mortality and increase compliance with restraint use. </li>
 </ol>
-<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Summary</span></strong></p>
+<p>Child restraints are clearly effective in injury prevention and reduction of injury severity at all ages examined. Rear seat position is also effective, especially when used in conjunction with child restraints. Legislation is also effective in improving compliance and even reducing injury. There are some data showing that primary laws are the most effective form of legislation. Further research is required on the effectiveness of legislation on injury and mortality.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
 <p><strong>Classes of Evidence</strong></p>
-<p><strong>Class I</strong>: Prospective randomized controlled trial.</p>
-<p><strong>Class II</strong>: Prospective clinical trial or retrospective analysis based on reliable data.</p>
-<p><strong>Class III</strong>: Retrospective case series or database review.</p>
-<p><strong>Levels of Recommendations</strong></p>
-<p><strong>Level 1</strong>: The recommendation is convincingly justifiable based on the available scientific information alone. This recommendation is usually based on Class I data; however, strong Class II evidence may form the basis for a Level 1 recommendation, especially if the issue does not lend itself to testing in a randomized format.</p>
+<p><strong>Class I</strong>: Prospective, randomized clinical trials</p>
+<p><strong>Class II</strong>: Clinical studies in which data were collected prospectively or retrospective analyses based on clearly reliable data</p>
+<p><strong>Class III</strong>: Studies based on retrospectively collected data</p>
+<p><strong>Levels of Recommendation</strong></p>
+<p><strong>Level 1</strong>: The recommendation is convincingly justifiable based on the available scientific information alone. This recommendation is usually based on Class I data, however, strong class II evidence may form the basis for a level 1 recommendation, especially if the issue does not lend itself to testing in a randomized format. Conversely, low quality or contradictory Class I data may not be able to support a level 1 recommendation.</p>
 <p><strong>Level 2</strong>: The recommendation is reasonably justifiable by available scientific evidence and strongly supported by expert opinion. This recommendation is usually supported by Class II data or a preponderance of Class III evidence.</p>
 <p><strong>Level 3</strong>: The recommendation is supported by available data but adequate scientific evidence is lacking. This recommendation is generally supported by Class III data. This type of recommendation is useful for educational purposes and in guiding future clinical research.</p></div>"/>
     </field>
@@ -181,42 +186,48 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   </section>
   <section secid="396" ordby="400" name="Scope">
     <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
-      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
-    <li>Head injury </li>
-    <li>Neck and cervical spine injury </li>
-</ul>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Child injuries and fatalities from motor vehicle crashes</p></div>"/>
     </field>
     <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Assessment of Therapeutic Effectiveness"/>
       <fieldvalue value="Prevention"/>
-      <fieldvalue value="Risk Assessment"/>
     </field>
     <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Critical Care"/>
+      <fieldvalue value="Emergency Medicine"/>
       <fieldvalue value="Family Practice"/>
       <fieldvalue value="Pediatrics"/>
       <fieldvalue value="Preventive Medicine"/>
-      <fieldvalue value="Sports Medicine"/>
     </field>
     <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
       <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Nurses"/>
       <fieldvalue value="Physician Assistants"/>
       <fieldvalue value="Physicians"/>
       <fieldvalue value="Public Health Departments"/>
     </field>
     <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>To evaluate current medical literature for evidence regarding the efficacy of safety helmets during skiing and snowboarding with particular reference to head injuries and their severity, neck and cervical spine injuries and risk compensation behaviors</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To examine the literature concerning the following questions regarding child vehicle passenger safety:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>What is the effectiveness of child passenger restraints in reducing morbidity and mortality? </li>
+    <li>What is the effectiveness of legislation in the reduction of injuries and/or mortality? </li>
+</ul></div>"/>
     </field>
     <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Recreational skiers and snowboarders</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Children age 14 and under</p></div>"/>
     </field>
     <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Helmet usage in skiing and snowboarding</p></div>"/>
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Child restraint and restraint systems in motor vehicles </li>
+    <li>Rear seat position </li>
+    <li>Airbags (not recommended for &amp;le;12 years of age) </li>
+    <li>Child restraint laws </li>
+</ol>"/>
     </field>
     <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
       <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
-    <li>Head injury </li>
-    <li>Severity of head injury </li>
-    <li>Neck or cervical spine injury </li>
-    <li>Risk compensation behavior </li>
+    <li>Injuries </li>
+    <li>Morbidity and mortality </li>
 </ul>"/>
     </field>
   </section>
@@ -225,63 +236,45 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
       <fieldvalue value="Searches of Electronic Databases"/>
     </field>
     <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Original Guideline</span></strong></p>
-<p>A comprehensive search of published medical literature was conducted using PubMed, Cochrane Library and EMBASE databases using the following key words in different combinations with Boolean operators: &quot;equipment&quot;, &quot;helmet&quot;, &quot;helmet use&quot;, &quot;head protective devices&quot;, &quot;skiing&quot;, &quot;skiers&quot;, &quot;snowboarders&quot;, &quot;snowboarding&quot;, &quot;snow sports&quot;, &quot;injury&quot;, &quot;head injury&quot;, &quot;head trauma&quot;, &quot;traumatic brain injury&quot;, &quot;craniocerebral trauma&quot;, &quot;neck injury&quot;, &quot;cervical spine injury&quot;, &quot;winter sports&quot; and &quot;risk compensation behavior&quot;. Only published citations involving human participants (all ages, both genders) between January, 1980 and April, 2011 were selected for initial review. As no study analyzed the impact of any legislation for safety helmets, reports from other countries were also included. The keyword combination &quot;helmet OR head protective devices OR equipment AND (skiing OR snowboarding OR skier OR snowboarder)&quot; yielded 554, zero and 2,646 articles in PubMed, Cochrane Library and EMBASE respectively. The search was considerably coned down by eliminating the word &quot;equipment&quot; from the keyword phrase as it was felt to have very broad connotations and the search yield using it included a large proportion of articles evaluating other protective gear such as wrist-guards, mouth-guards, spine-boards, ski-boots, etc. The alternative approach resulted in 83, zero and 96 hits in PubMed, Cochrane Library and EMBASE respectively. Only one article in Cochrane Library was retrieved when the specific keyword combination &quot;skiing OR snowboarding&quot; was used. After the exclusion of duplicates, the titles and abstracts of 91 articles were examined to exclude reports in a language other than English, reports which were not available for review in their entirety, review articles, commentaries, letters to the editor, technical or engineering or biomechanical reports, retrospective studies of poor quality and single case reports. Studies describing analysis of original data on helmet usage in relation to death, head, neck or cervical spine injury and risk compensation behavior were selected.</p>
-<p>A total of 16 published studies eventually met inclusion criteria for this evidence based review and careful consideration was given to the methodology section of each paper to ensure that it strictly fulfilled the criteria for inclusion. These selected manuscripts were then reviewed in detail by the authors.</p>
-<p><strong><span style=&quot;text-decoration: underline;&quot;>2016 Reaffirmation</span></strong></p>
-<p>A comprehensive search of published medical literature was conducted from 2011-2016 using PubMed, Cochrane Library and EMBASE databases using the following key words: &quot;helmet&quot;, &quot;head protective devices&quot;, &quot;equipment&quot;, &quot;skiing&quot;, &quot;snowboarding&quot;, &quot;skier&quot;, &quot;snowboarder&quot;.</p>
-<ul style=&quot;list-style-type: disc;&quot;>
-    <li>Inclusion criteria: Articles comparing helmet and non-helmet wearers with head injuries and/or spinal injuries; all articles with risk compensation behavior as an outcome. </li>
-    <li>Exclusion criteria: Non-English language articles were excluded. Articles were first screened by title, with all titles that were specifically about non-head and non-spinal injuries eliminated. The remaining articles were then screened by abstract. Abstracts with conclusions that did not discuss helmet usage were eliminated. </li>
-</ul></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>2010 Guideline</span></strong></p>
+<p>The Eastern Association for the Surgery of Trauma (EAST) Child Passenger Safety Workgroup conducted a Medline search for human, English language literature from 1980 to 2006 on child passenger restraints. Child passenger restraints as keyword only yielded four results. Using &quot;Protective Devices&quot; or &quot;Seat Belts&quot; and combining that with &quot;infant&quot; over similar dates and restrictions, 491 references resulted, with toddler, six resulted, with &quot;child,&quot; 827 references resulted and with &quot;adolescent,&quot; 842 resulted. Studies from other countries that involved legislation were dropped due to issues of generalizability. Fifty-nine were deemed appropriate to answer the above questions, 55 of these were available for review. Fourteen articles examined legislation and 41 articles examined restraint effectiveness with relation to outcomes. We did not utilize technical reports or engineering literature, but felt these were not relevant to the endpoints of morbidity or mortality and many could not be subject to scientific review.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>2015 Reaffirmation</span></strong></p>
+<p>PubMed, PubMed Central, the Cochrane Library, and Web of Science were searched from October 12, 2010 to October 12, 2015 using the search terms child restraint system, infant seat belts, child seat belts, infant protective devices, and child protective devices. All articles with injury and/or mortality as an outcome were included. Non-English language, non-injury outcomes, technical articles, editorials, and opinion papers were excluded.</p></div>"/>
     </field>
     <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Original Guideline</span></strong></p>
-<p>The following 16 studies were reviewed in the preparation of this evidence-based review:</p>
-<ul style=&quot;list-style-type: disc;&quot;>
-    <li>Case control, case-cross over studies (1) </li>
-    <li>Case-control studies (7) </li>
-    <li>Cross-sectional studies (3) </li>
-    <li>Retrospective cohort studies (2) </li>
-    <li>Case series (3) </li>
-</ul>
-<p><strong><span style=&quot;text-decoration: underline;&quot;>2016 Reaffirmation</span></strong></p>
-<ul style=&quot;list-style-type: disc;&quot;>
-    <li>A total of 42 full articles were reviewed </li>
-</ul></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>2010 Guideline</span></strong></p>
+<p>Fifty-nine articles were deemed appropriate; 55 of these were available for review. Fourteen articles examined legislation and 41 articles examined restraint effectiveness with relation to outcomes.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>2015 Reaffirmation</span></strong></p>
+<p>The final article list (N=3) was reviewed, and no articles were found to contradict the recommendations in the 2010 guideline.</p></div>"/>
     </field>
     <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
       <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
     </field>
     <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Class I</strong>: Prospective randomized controlled trial.</p>
-<p><strong>Class II</strong>: Prospective clinical trial or retrospective analysis based on reliable data.</p>
-<p><strong>Class III</strong>: Retrospective case series or database review.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Classes of Evidence</span></strong></p>
+<p><strong>Class I</strong>: Prospective, randomized clinical trials</p>
+<p><strong>Class II</strong>: Clinical studies in which data were collected prospectively or retrospective analyses based on clearly reliable data</p>
+<p><strong>Class III</strong>: Studies based on retrospectively collected data</p></div>"/>
     </field>
     <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
       <fieldvalue value="Systematic Review with Evidence Tables"/>
     </field>
     <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>A total of 16 published studies eventually met inclusion criteria for this evidence based review and careful consideration was given to the methodology section of each paper to ensure that it strictly fulfilled the criteria for inclusion. These selected manuscripts were then reviewed in detail by the authors. As is the case with motorcycle or bicycle helmets, no randomized controlled trials (RCTs) can be conducted on helmet usage in recreational skiers and snowboarders due to the ethical concerns involved. Earlier descriptive studies have shown that the most of the fatal injuries in skiers and snowboarders were seen in individuals without helmets. In the absence of Class I studies on helmet usage in these sports, the authors have to completely rely on retrospective cohort, cross-sectional, case-control/case-cross over and case-control studies for evidence of helmet efficacy in recreational skiing and snowboarding. It is also interesting to note that most of the better designed and more robustly analyzed studies on the subject in literature have been conducted only in the past decade.</p>
-<p>An evidentiary table (see Table 1 in the original guideline document) was constructed using the 16 references that were identified.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An evidentiary table (see the appendix in the original guideline document) was constructed using the 41 references that were identified: Class I, 0 references; Class II, 7 references; and Class III, 34 references.</p>
+<p>Articles were classified as Class I, II, or III as described in the Eastern Association for the Surgery of Trauma (EAST) &quot;Utilizing evidence based outcome measures to develop practice management guidelines: a primer&quot; (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
     </field>
     <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
       <fieldvalue value="Expert Consensus"/>
     </field>
     <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Original Guideline</span></strong></p>
-<p>The following questions regarding the efficacy of safety helmets in reduction of injuries in recreational skiers and snowboarders were considered:</p>
-<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
-    <li>Does helmet use increase or decrease the rate of fatal and non-fatal head injury among skiers and snowboarders? </li>
-    <li>Does helmet use increase or decrease the rates of neck or cervical spine injury in skiers and snowboarders? </li>
-    <li>Is helmet use associated with higher or lower risk compensation behavior among skiers and snowboarders? </li>
-</ol>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>2010 Guideline</span></strong></p>
 <p>Recommendations were made on the basis of the studies included in the evidentiary table (see the appendix of the original guideline document). Recommendations were classified as level 1, 2, or 3 according to the definitions listed in the &quot;Rating Scheme for the Strength of the Recommendations&quot; field.</p>
-<p><strong><span style=&quot;text-decoration: underline;&quot;>2016 Reaffirmation</span></strong></p>
-<p>A total of 42 full articles were reviewed by a single reviewer. No articles were found to have statistically significant findings that contradict the recommendations.</p></div>"/>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>2015 Reaffirmation</span></strong></p>
+<p>A comprehensive literature search was performed Articles were first screened by title and abstract, then salient articles were reviewed by a single reviewer. The final articles list (N=3) was reviewed, and no articles were found to contradict the recommendations in the 2010 guideline. Recent research has largely focused on family compliance with restraint systems. Barriers to use, surveys, and engineering advances to improve ease of use, international perspectives, and compliance with restraint use are the major contributions to the field in the past 5 years.</p></div>"/>
     </field>
     <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Level 1</strong>: The recommendation is convincingly justifiable based on the available scientific information alone. This recommendation is usually based on Class I data; however, strong Class II evidence may form the basis for a Level 1 recommendation, especially if the issue does not lend itself to testing in a randomized format.</p>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Levels of Recommendation</span></strong></p>
+<p><strong>Level 1</strong>: The recommendation is convincingly justifiable based on the available scientific information alone. This recommendation is usually based on Class I data, however, strong class II evidence may form the basis for a level 1 recommendation, especially if the issue does not lend itself to testing in a randomized format. Conversely, low quality or contradictory Class I data may not be able to support a level 1 recommendation.</p>
 <p><strong>Level 2</strong>: The recommendation is reasonably justifiable by available scientific evidence and strongly supported by expert opinion. This recommendation is usually supported by Class II data or a preponderance of Class III evidence.</p>
 <p><strong>Level 3</strong>: The recommendation is supported by available data but adequate scientific evidence is lacking. This recommendation is generally supported by Class III data. This type of recommendation is useful for educational purposes and in guiding future clinical research.</p></div>"/>
     </field>
@@ -302,17 +295,17 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
   </section>
   <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
     <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>The use of safety helmets clearly decreases the risk and severity of head injuries as compared to non-helmeted participants in skiing and snowboarding.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Age-appropriate use of child passenger safety restraints and restraint systems are successful in the reduction of morbidity and mortality in motor vehicle crashes</p></div>"/>
     </field>
     <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>The beneficial effects of helmets are not negated by unintended risks as their use does not appear to increase the risk of neck or cervical spine injury as compared to non-helmeted participants in skiing and snowboarding. The use of safety helmets also does not appear to increase the risk of compensation behavior as compared to non-helmeted participants in skiing and snowboarding.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
     </field>
   </section>
   <section secid="432" ordby="900" name="Qualifying Statements">
     <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
       <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
     <li>The Eastern Association for the Surgery of Trauma (EAST) is a multi-disciplinary professional society committed to improving the care of injured patients. The Ad hoc Committee for Practice Management Guideline Development of EAST develops and disseminates evidence-based information to increase the scientific knowledge needed to enhance patient and clinical decision-making, improve health care quality, and promote efficiency in the organization of public and private systems of health care delivery. Unless specifically stated otherwise, the opinions expressed and statements made in this publication reflect the authors' personal observations and do not imply endorsement by nor official policy of the Eastern Association for the Surgery of Trauma. </li>
-    <li>&quot;Clinical practice guidelines are systematically developed statements to assist practitioner and patient decisions about appropriate health care for specific clinical circumstances.&quot; * These guidelines are not fixed protocols that must be followed, but are intended for health care professionals and providers to consider. While they identify and describe generally recommended courses of intervention, they are not presented as a substitute for the advice of a physician or other knowledgeable health care professional or provider. Individual patients may require different treatments from those specified in a given guideline. Guidelines are not entirely inclusive or exclusive of all methods of reasonable care that can obtain/produce the same results. While guidelines can be written that take into account variations in clinical settings, resources, or common patient characteristics, they cannot address the unique needs of each patient nor the combination of resources available to a particular community or health care professional or provider. Deviations from clinical practice guidelines may be justified by individual circumstances. Thus, guidelines must be applied based on individual patient needs using professional judgment. </li>
+    <li>&quot;Clinical practice guidelines are systematically developed statements to assist practitioner and patient decisions about appropriate health care for specific clinical circumstances.&quot;* These guidelines are not fixed protocols that must be followed, but are intended for health care professionals and providers to consider. While they identify and describe generally recommended courses of intervention, they are not presented as a substitute for the advice of a physician or other knowledgeable health care professional or provider. Individual patients may require different treatments from those specified in a given guideline. Guidelines are not entirely inclusive or exclusive of all methods of reasonable care that can obtain/produce the same results. While guidelines can be written that take into account variations in clinical settings, resources, or common patient characteristics, they cannot address the unique needs of each patient nor the combination of resources available to a particular community or health care professional or provider. Deviations from clinical practice guidelines may be justified by individual circumstances. Thus, guidelines must be applied based on individual patient needs using professional judgment. </li>
 </ul>
 <p class=&quot;Note&quot;>*Institute of Medicine. Clinical practice guidelines: directions for a new program. MJ Field and KN Lohr (eds) Washington, DC: National Academy Press. 1990: pg 39.</p>"/>
     </field>
@@ -328,42 +321,41 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     </field>
     <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
       <fieldvalue value="Effectiveness"/>
-      <fieldvalue value="Safety"/>
     </field>
   </section>
   <section secid="442" ordby="1200" name="Identifying Information and Availability">
     <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
-      <fieldvalue value="<table><tr><td>Haider AH, Saleem T, Bilaniuk JW, Barraco RD. Efficacy of safety helmets in reduction of head injuries in recreational skiers and snowboarders. Chicago (IL): Eastern Association for the Surgery of Trauma (EAST); 2011. 26 p.  [53 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Barraco RD, Cheng JD, Bromberg WJ, Falcone RA, Hammond JS, Lui FY, Sandhu RS, Scaff DW. Child passenger safety: an evidence based review. Chicago (IL): Eastern Association for the Surgery of Trauma (EAST); 2010. 32 p.  [53 references]</td></tr></table>"/>
     </field>
     <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable. This guideline was not adapted from another source.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
     </field>
     <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
-      <fieldvalue value="2011 (reaffirmed 2016 Oct)"/>
+      <fieldvalue value="2010 (reaffirmed 2015 Oct)"/>
     </field>
     <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
       <fieldvalue value="Eastern Association for the Surgery of Trauma - Professional Association"/>
     </field>
     <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Eastern Association for the Surgery of Trauma (EAST)</p>
-<p>Sources of Support: National Institutes of Health/ NIGMS K23GM093112-01 and American College of Surgeons C. James Carrico Fellowship for the study of Trauma and Critical Care (Dr. Haider)</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Eastern Association for the Surgery of Trauma (EAST)</p></div>"/>
     </field>
     <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Eastern Association for the Surgery of Trauma (EAST) Injury Control and Violence Prevention Committee</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Child Passenger Safety Workgroup of the&amp;nbsp;Eastern Association for the Surgery of Trauma (EAST) Practice Management Guideline Committee</p></div>"/>
     </field>
     <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Authors</em>: Adil H Haider MD, MPH, Center for Surgery Trials and Outcomes Research (CSTOR), Johns Hopkins School of Medicine, Baltimore MD; Taimur Saleem, MD, Center for Surgery Trials and Outcomes Research (CSTOR), Johns Hopkins School of Medicine, Baltimore MD; Jaroslaw W Bilaniuk, MD, Morristown Memorial Hospital, Morristown NJ; Robert D Barraco MD, MPH, Department of Surgery, Lehigh Valley Health Network, Allentown PA</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Committee Members</em>: Robert D. Barraco MD, MPH <em>(Chair)</em>; Julius D. Cheng, MD, MPH <em>(Vice Chair)</em>; William J. Bromberg, MD; Richard A. Falcone, MD; Jeffrey S. Hammond, MD, MPH; Felix Y. Lui, MD; Rovinder S. Sandhu, MD; David W. Scaff, DO</p></div>"/>
     </field>
     <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
     </field>
     <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
-<p>The Eastern Association for the Surgery of Trauma (EAST) reaffirmed the currency of this guideline in October 2016.</p>
+<p>The Eastern Association for the Surgery of Trauma (EAST) reaffirmed the currency of the guideline in October 2015.</p>
 <p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
     </field>
     <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;http://www.east.org/resources/treatment-guidelines/safety-helmets,-efficacy-of-in-reduction-of-head-injuries-in-recreational-skiers-and-snowboarders&quot; title=&quot;Eastern Association for the Surgery of Trauma (EAST) Web site&quot;>Eastern Association for the Surgery of Trauma (EAST) Web site</a>.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;http://www.east.org/resources/treatment-guidelines/child-passenger-safety--an-evidence-based-review&quot; title=&quot;Eastern Association for the Surgery of Trauma (EAST) Web site&quot;>Eastern Association for the Surgery of Trauma (EAST) Web site</a>.</p>
+<p>Print copies: Available from the Eastern Association for the Surgery of Trauma Guidelines, c/o Robert D. Barraco, MD, Lehigh Valley Health Network, Cedar Crest &amp;amp; I-78, P.O. Box 689, Allentown, PA 18105-1556; Phone: (610) 402-1296; fax (610) 402-1667; Email: <a href=&quot;mailto:sally.lutz@lvh.com&quot;>sally.lutz@lvh.com</a>.</p></div>"/>
     </field>
     <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
@@ -375,7 +367,7 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
       <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
     </field>
     <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
-      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on April 4, 2013. The information was verified by the guideline developer on May 1, 2013. The currency of the guideline was reaffirmed by the developer in October 2016 and the summary was updated by ECRI Institute on November 1, 2016.</p></div>"/>
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on April 3, 2013. The information was verified by the guideline developer on May 1, 2013. The currency of the guideline was reaffirmed by the developer in October 2015 and the summary was updated by ECRI Institute on November 13, 2015.</p></div>"/>
     </field>
     <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
       <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is copyrighted by the Eastern Association for the Surgery of Trauma (EAST).</p></div>"/>
@@ -391,8 +383,8 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
     </field>
   </section>
 </version><!--
-     FILE ARCHIVED ON 01:31:20 Jul 16, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 01:31:22 Jul 16, 2018.
+     FILE ARCHIVED ON 01:31:25 Jul 16, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:31:28 Jul 16, 2018.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -400,14 +392,14 @@ __wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/n
 -->
 <!--
 playback timings (ms):
-  LoadShardBlock: 98.214 (3)
-  esindex: 0.008
-  captures_list: 130.927
-  CDXLines.iter: 11.057 (3)
-  PetaboxLoader3.datanode: 51.092 (4)
-  exclusion.robots: 0.516
-  exclusion.robots.policy: 0.499
-  RedisCDXSource: 18.284
-  PetaboxLoader3.resolve: 85.415
-  load_resource: 136.418
+  LoadShardBlock: 227.523 (3)
+  esindex: 0.009
+  captures_list: 253.118
+  CDXLines.iter: 15.311 (3)
+  PetaboxLoader3.datanode: 1306.332 (4)
+  exclusion.robots: 0.471
+  exclusion.robots.policy: 0.454
+  RedisCDXSource: 5.859
+  PetaboxLoader3.resolve: 168.288
+  load_resource: 1293.768
 -->
