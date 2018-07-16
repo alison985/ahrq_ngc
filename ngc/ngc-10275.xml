@@ -1,0 +1,806 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app39.us.archive.org';v.server_ms=104;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10275?contentType=xml', '20180716002234')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180716002234/https://www.guideline.gov/summaries/downloadcontent/ngc-10275?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180716002234/https://www.guideline.gov/summaries/downloadcontent/ngc-10275?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10275?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180716002234" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610051144/https://www.guideline.gov/summaries/downloadcontent/ngc-10275?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 00:22:34 Jul 16, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180713022346/https://www.guideline.gov/summaries/downloadcontent/ngc-10275?contentType=xml" title="02:23:46 Jul 13, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 00:22:34 Jul 16, 2018">16</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930191721/https://www.guideline.gov/summaries/downloadcontent/ngc-10275?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 00:22:34 Jul 16, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180716002234*/https://www.guideline.gov/summaries/downloadcontent/ngc-10275?contentType=xml" title="See a list of every capture for this URL">7 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 16 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/liveweb)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/liveweb" target="_new"><span class="wm-title">Live Web Proxy Crawls</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Content crawled via the <a href="http://archive.org/web/web.php">Wayback Machine</a> Live Proxy mostly by the Save Page Now feature on web.archive.org.
+<br /><br />
+Liveweb proxy is a component of Internet Archive’s wayback machine project. The liveweb proxy captures the content of a web page in real time, archives it into a ARC or WARC file and returns the ARC/WARC record back to the wayback machine to process. The recorded ARC/WARC file becomes part of the wayback machine in due course of time.
+<br /><br />
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10275?contentType=xml","2018-07-16",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>British HIV Association guidelines for HIV-associated malignancies 2014.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Bower M, Palfreeman A, Alfa-Wali M, Bunker C, Burns F, Churchill D, Collins S, Cwynarski K, Edwards S, Fields P, Fife K, Gallop-Evans E, Kassam S, Kulasegaram R, Lacey C, Marcus R, Montoto S, Nelson M, Newsom-Davis T, Orkin C, Shaw K, Tenant-Flowers M, Webb A, Westwell S, Williams M, British HIV Association. British HIV Association guidelines for HIV-associated malignancies 2014. HIV Med. 2014 Mar;15(Suppl 2):1-92. [726 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24528810&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Bower M, Collins S, Cottrill C et al. British HIV Association guidelines for HIV-associated malignancies 2008. HIV Med 2008;9:336&amp;ndash;388.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The quality of evidence (<strong>A&amp;ndash;D</strong>) and grades of recommendation (<strong>1, 2, good practice point [GPP]</strong>) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Key Recommendations</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends that all patients with human immunodeficiency virus (HIV) and malignancy should be referred to centres that have developed expertise in the management of these diseases (<strong>1B</strong>). </li>
+    <li>The Writing Group recommends that clinical networks supporting regional centres of excellence for the treatment of both acquired immunodeficiency syndrome (AIDS)-defining and non-AIDS-defining cancers should be developed as advocated by the <a href=&quot;http://www.bhiva.org/documents/Standards-of-care/BHIVAStandardsA4.pdf&quot; title=&quot;BHIVA Web site&quot;>Standards of Care for People Living with HIV 2013</a> (<strong>1D</strong>). </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Kaposi Sarcoma (KS)</span></strong></p>
+<p><strong>Summary of Recommendations</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends that KS should be confirmed histologically (<strong>1C</strong>). </li>
+    <li>The Writing Group suggests that computerized tomography (CT) scans, bronchoscopy and endoscopy are not warranted in the absence of symptoms (<strong>2D</strong>). </li>
+    <li>The Writing Group recommends that highly active antiretroviral therapy (HAART) should be started in all patients diagnosed with KS (<strong>1B</strong>). </li>
+    <li>The Writing Group suggests local radiotherapy or intralesional vinblastine for symptomatic or cosmetic improvement in early stage T0 KS (<strong>2C</strong>). </li>
+    <li>The Writing Group recommends that patients with T1 advanced stage KS should receive chemotherapy along with HAART (<strong>1B</strong>). </li>
+    <li>The Writing Group recommends that liposomal anthracyclines (either DaunoXome 40 mg/m<sup>2</sup> q14d or Caelyx 20 mg/m<sup>2</sup> q21d) are first-line chemotherapy for advanced KS (<strong>1A</strong>). </li>
+    <li>The Writing Group recommends paclitaxel chemotherapy (100 mg/m<sup>2</sup> q14d) for second-line treatment of anthracycline refractory KS (<strong>1C</strong>). </li>
+    <li>All patients should be considered for clinical trial enrolment if eligible (<strong>GPP</strong>). </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Systemic AIDS-Related Non-Hodgkin Lymphoma (ARL)</span></strong></p>
+<p><strong>Recommendation</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends that all patients have pathology and treatment plans reviewed by a specialist multidisciplinary team (MDT) and that management is co-ordinated closely with an HIV physician and a haemato-oncologist familiar with the treatment of such patients (<strong>1D</strong>). </li>
+</ul>
+<p><strong>Management</strong></p>
+<p><em>Recommendations for Diffuse Large B-cell Lymphoma (DLBCL)</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends that patients should be entered into clinical trials, if available (<strong>GPP</strong>). </li>
+    <li>The Writing Group recommends that first-line treatment of DLBCL in HIV-positive individuals includes chemotherapy regimens used in HIV-negative patients, such as cyclophosphamide, doxorubicin, vincristine and prednisolone (CHOP) or infusional therapies such as etoposide, prednisone, vincristine, cyclophosphamide and hydroxydaunorubicin (EPOCH). No randomized studies have been published in the era of antiretroviral therapy (ART) and hence there is no optimal 'gold-standard therapy' (<strong>1B</strong>). </li>
+    <li>The Writing Group recommends that chemotherapy regimens should be combined with HAART therapy (<strong>1B</strong>). </li>
+    <li>The Writing Group recommends the concomitant administration of rituximab (<strong>1B</strong>). Patients with cluster of differentiation 4 (CD4) cell counts &amp;lt;50 cells/&amp;mu;L may require closer surveillance (<strong>GPP</strong>). </li>
+</ul>
+<p><strong>Burkitt Lymphoma/Leukaemia (BL)</strong></p>
+<p><em>Recommendations for BL</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends that first-line treatment of BL in HIV-infected individuals includes regimens such as cyclophosphamide, vincristine (also called Oncovin), doxorubicin, methotrexate/ifosfamide, mesna, etoposide (also called VP-16), cytarabine (also called Ara-C) (CODOX-M/IVAC) and dose-adjusted etoposide, prednisone, vincristine, cyclophosphamide and hydroxydaunorubicin (DA-EPOCH). No comparative studies have been performed and hence there is no optimal 'gold standard therapy' (<strong>1B</strong>). </li>
+    <li>The Writing Group recommends that chemotherapy regimens should be combined with HAART therapy (<strong>1B</strong>). </li>
+    <li>The Writing Group recommends the addition of rituximab (<strong>1C</strong>). </li>
+</ul>
+<p><strong>Prevention of Secondary Central Nervous System (CNS) Lymphoma</strong></p>
+<p><em>Recommendations for Intrathecal (IT) Prophylaxis</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends that patients with DLBCL, considered to have a high risk of CNS relapse, should be given CNS prophylaxis (IT and/or intravenous [IV] methotrexate) according to the same criteria as HIV-negative patients (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends that prophylactic IT chemotherapy should be offered to all patients with Burkitt lymphoma (<strong>1B</strong>). </li>
+</ul>
+<p><strong>Treatment of Relapsed/Refractory AIDS-Related Lymphoma (ARL)</strong></p>
+<p><em>Recommendations for Patients with Relapsed/Refractory Aggressive ARL</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends that patients deemed fit for intensive chemotherapy should receive a second-line chemotherapy regimen (<strong>1C</strong>), which may contain platinum (<strong>2C</strong>). </li>
+    <li>The Writing Group recommends that those patients responding to second line chemotherapy (complete remission [CR] or partial remission [PR]) should be considered for high-dose therapy (HDT) with autologous stem cell transplantation (ASCT) (<strong>1C</strong>). </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Primary Central Nervous System Lymphoma (PCNSL)</span></strong></p>
+<p><strong>Recommendations</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends that all patients with PCNSL should be started on HAART if not already on it (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends that patients with an adequate performance status should be treated, if possible, with high dose methotrexate-containing chemotherapy regimen (<strong>1D</strong>). </li>
+    <li>The Writing Group recommends that whole brain radiotherapy is a useful palliative treatment modality for control of symptoms or should be considered as an alternative first-line treatment modality in those patients where the risks of toxicity from high-dose intravenous agents are considered unacceptable (<strong>1C</strong>). </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Primary Effusion Lymphoma (PEL)</span></strong></p>
+<p><strong>Recommendations</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group suggests that first-line treatment of PEL in HIV-infected individuals includes CHOP-like regimens. No comparative studies have been performed and there is no optimal gold-standard therapy (<strong>2C</strong>). </li>
+    <li>Patients, where possible, should be entered into clinical trials that are testing novel targeted approaches (<strong>GPP</strong>). </li>
+    <li>The Writing Group recommends that chemotherapy regimens should be combined with HAART (<strong>1C</strong>). </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Plasmablastic Lymphoma</span></strong></p>
+<p><strong>Recommendation</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends that patients should receive HAART with systemic anthracycline-containing chemotherapy as first-line therapy (<strong>1C</strong>). </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Cervical Intraepithelial Neoplasia (CIN) and Cervical Cancer</span></strong></p>
+<p><strong>Key Recommendations</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends that all women newly diagnosed with HIV should have cervical surveillance performed by, or in conjunction with, the medical team managing their HIV infection (<strong>1B</strong>). An initial colposcopy and annual cytology should be performed if resources permit (<strong>2C</strong>). </li>
+    <li>The Writing Group recommends that subsequent colposcopy for cytological abnormality should follow United Kingdom (UK) national guidelines, and the age range screened should be the same as for HIV-negative women (<strong>1B</strong>). </li>
+    <li>The Writing Group suggests that CIN 2/3 (high grade squamous intraepithelial lesion [HSIL]) should be managed according to UK national guidelines. Lesions less severe than CIN 2 should probably not be treated according to CIN 2/3 recommendations, as these low-grade lesions represent persistent human papilloma virus (HPV) infection of the cervix rather than pre-malignancy (<strong>2B</strong>). Women with HIV and CIN 2/3 treated by excisional procedures have a significantly higher treatment failure rate than HIV-negative women. A number of studies show such relapse is less frequent in the presence of HAART or higher CD4 cell counts or undetectable viral load. Multidisciplinary management of such women is thus recommended (<strong>GPP</strong>). </li>
+    <li>The Writing Group recommends that women with HIV who have invasive cervical cancer should be managed in the same way as HIV-negative women according to UK national guidelines, again within a multidisciplinary team framework (<strong>1B</strong>). </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Anal Cancer</span></strong></p>
+<p><strong>Summary of Guidance</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends the examination under anesthetic (EUA) of the anal canal and rectum with biopsy in all suspected cases (<strong>1D</strong>). </li>
+    <li>The Writing Group recommends that staging for anal cancer following EUA and biopsy includes CT of the chest, abdomen and pelvis and magnetic resonance imaging (MRI) of the pelvis in order to assess regional lymph nodes and tumor extension (<strong>1B</strong>). </li>
+    <li>The Writing Group recommends that the management of HIV patients with anal cancer is in specialized centres where there is MDT experience in order to ensure optimal outcomes (<strong>1C</strong>). </li>
+    <li>The Writing Group suggests that centres caring for these patients should be able to provide high-resolution anoscopy (HRA) services (<strong>2D</strong>). </li>
+    <li>The Writing Group recommends chemoradiotherapy (CRT) with 5-fluorouracil and mitomycin C (<strong>1A</strong>). </li>
+    <li>The Writing Group recommends that all people living with HIV who are to be treated with CRT should start HAART (<strong>1C</strong>) and opportunistic infection prophylaxis (<strong>1D</strong>). </li>
+    <li>The Writing Group suggests that salvage surgery may be appropriate for people living with HIV who experience loco-regional disease persistence or relapse following CRT (<strong>2D</strong>). </li>
+    <li>The Writing Group suggests that best supportive care may be more appropriate for patients with metastatic disease or local relapse following salvage surgery (<strong>2D</strong>). The Writing Group suggests a similar approach in people living with HIV (<strong>2D</strong>) and advocate surveillance for anal intraepithelial neoplasia (AIN) by HRA (<strong>2D</strong>). </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Hodgkin Lymphoma (HL)</span></strong></p>
+<p><strong>What Is the Best Treatment for HL?</strong></p>
+<p><em>Recommendations</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends for early-favourable HL: doxorubicin, bleomycin, vinblastine, and dacarbazine (ABVD) x2&amp;ndash;4 + involved-field radiation therapy (IFRT) 20&amp;ndash;30 Gy (<strong>1B</strong>). </li>
+    <li>The Writing Group recommends for early-unfavourable HL: ABVD x4 + IFRT 30 Gy (<strong>1B</strong>). </li>
+    <li>The Writing Group recommends for advanced-stage HL: ABVD x6&amp;ndash;8 +/&amp;minus; RT (<strong>1B</strong>). </li>
+</ul>
+<p><strong>What Is the Benefit of Adding Antiretrovirals (ARVs) to Chemotherapy in HL?</strong></p>
+<p><em>Recommendations</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends patients should receive HAART during chemotherapy (<strong>1A</strong>). </li>
+    <li>The Writing Group recommends to avoid protease inhibitor (PI)/ritonavir-boosted regimens (<strong>1D</strong>). </li>
+</ul>
+<p><strong>What Is the Best Treatment in Second Line for HL?</strong></p>
+<p><em>Recommendation</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends that fit patients with relapsed/refractory HL should receive salvage chemotherapy and, if the disease proves to be chemosensitive, consolidate the response with high-dose chemotherapy with autologous stem cell rescue (HDT/ASCR) (<strong>1B</strong>). </li>
+</ul>
+<p><strong>What Is the Benefit of Adding Opportunistic Infection Prophylaxis in HL?</strong></p>
+<p><em>Recommendation</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends <em>Pneumocystis jirovecii</em> pneumonia (PCP), <em>Mycobacterium avium-intracellulare</em> (MAC) and fungal infection prophylaxis (<strong>1D</strong>). </li>
+</ul>
+<p><strong>What Is the Best Response Evaluation and Follow-Up in HL?</strong></p>
+<p><em>Recommendations</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends assessment of response after treatment should be performed by fluorodeoxyglucose positron emission tomography (FDG-PET) scan and bone marrow (BM) biopsy (<strong>1D</strong>). </li>
+    <li>The Writing Group recommends assessment during follow-up should be performed every 2 to 4 months during the first 2 years and every 3 to 6 months for 3 further years (<strong>1D</strong>). </li>
+    <li>People living with HIV and Hodgkin lymphoma who require blood products should receive irradiated products in line with the national guidelines, as should patients who are candidates for stem-cell transplantation (<strong>GPP</strong>). </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Multicentric Castleman's Disease (MCD)</span></strong></p>
+<p><strong>Recommendations</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group suggests that histological confirmation requires immunocytochemical staining for human herpes virus-8 (HHV8) and immunoglobulin M (IgM) lambda (<strong>2B</strong>). </li>
+    <li>The Writing Group suggests that all patients should have their blood levels of HHV8 measured to support the diagnosis (<strong>2C</strong>). </li>
+    <li>The Writing Group suggests that the risk of lymphoma in patients diagnosed with MCD is high (<strong>2C</strong>). </li>
+    <li>The Writing Group suggests that combination antiretroviral therapy (cART) does not prevent MCD (<strong>2D</strong>). </li>
+    <li>The Writing Group suggests that a rise in plasma HHV8 level can predict relapse (<strong>2D</strong>). </li>
+    <li>The Writing Group recommends that rituximab should be first-line treatment for MCD (<strong>1B</strong>). </li>
+    <li>The Writing Group recommends that chemotherapy should be added to rituximab for patients with aggressive disease (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends re-treatment with rituximab-based therapy for relapsed MCD (<strong>1C</strong>). </li>
+    <li>The Writing Group suggests clinical monitoring for patients in remission should include measurement of blood HHV8 levels (<strong>2C</strong>). </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Non-AIDS-Defining Malignancies (NADM)</span></strong></p>
+<p><strong>Testicular Germ Cell Cancers</strong></p>
+<p><em>Summary</em></p>
+<p>Seminoma of the testis is more common in men living with HIV infection.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group suggests germ cell tumours of the testis should be treated in an identical manner regardless of HIV status (<strong>2C</strong>). </li>
+    <li>The Writing Group suggests men living with HIV who require chemotherapy for germ cell tumours should receive concomitant HAART and opportunistic infection prophylaxis (<strong>2C</strong>). </li>
+    <li>The Writing Group suggests surveillance for stage I disease is safe (<strong>2C</strong>). </li>
+    <li>The Writing Group suggests bleomycin can be avoided if necessary in the management of these patients (<strong>2D</strong>). </li>
+</ul>
+<p><strong>Non-Small Cell Lung Cancer (NSMLC)</strong></p>
+<p><em>Summary</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends HIV-positive patients should be encouraged to stop smoking cigarettes (<strong>1B</strong>). </li>
+    <li>The Writing Group suggests patients should be offered potentially curative surgery where appropriate (<strong>2C</strong>). </li>
+    <li>The Writing Group suggests patients should be screened for activating epidermal growth factor receptor (EGFR) mutations and treated with EGFR tyrosine kinase inhibitors (TKIs) by a team experienced in the use of HAART (<strong>2D</strong>). </li>
+    <li>The Writing Group suggests there is currently no role for screening for lung cancer in people living with HIV (<strong>GPP</strong>). </li>
+</ul>
+<p><strong>Hepatocellular Cancer (HCC)</strong></p>
+<p><em>Summary</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group suggests that people living with HIV with HCC should be treated in a similar manner to their HIV-negative counterparts (<strong>2C</strong>). </li>
+    <li>The Writing Group suggests that liver transplantation should be considered for appropriate cases, as in the HIV-negative population (<strong>2D</strong>). </li>
+    <li>The Writing Group suggests that sorafenib is a treatment option in advanced, nonoperable HCC (<strong>2D</strong>). </li>
+    <li>Noncirrhotic hepatitis B virus (HBV) coinfected patients should be considered for HCC screening (<strong>GPP</strong>). </li>
+    <li>The Writing Group recommends HCC screening with liver ultrasound (<strong>1A</strong>) and suggest 6-monthly alpha-fetoprotein (AFP) (<strong>2C</strong>) be offered to all cirrhotic patients with HBV and HCV confections. </li>
+</ul>
+<p><strong>Other Cancers</strong></p>
+<p><em>Summary</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends that the management of people living with HIV with non-AIDS-defining malignancy should be in a centre with adequate experience and requires a joint MDT including both oncologists with experience of managing HIV-related malignancy and HIV physicians (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends that patients with NADM should be offered the standard care given to HIV-negative patients (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends that all potential interactions between HAART, opportunistic infection prophylaxis and cancer therapy should be considered (<strong>1C</strong>). </li>
+</ul>
+<p><strong>Opportunistic Infection Prophylaxis in HIV-Associated Malignancy</strong></p>
+<p><em>Recommendations</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Writing Group recommends that all patients with AIDS-defining malignancies should start HAART (<strong>1B</strong>). </li>
+    <li>The Writing Group suggests that all patients with NADM who are due to start chemotherapy or radiotherapy should be started on HAART unless contraindicated (<strong>2C</strong>). </li>
+    <li>The Writing Group recommends that prophylaxis against PCP should be started for those who have a CD4 cell count less than 200 cells/&amp;mu;L (<strong>1A</strong>) and should be considered at higher levels in all patients starting chemotherapy or radiotherapy (<strong>GPP</strong>). </li>
+    <li>The Writing Group recommends prophylaxis against MAC for individuals with a CD4 cell count less than 50 cells/&amp;mu;L (<strong>1B</strong>) and in those whose treatment puts their CD4 count at risk of falling below this level. </li>
+    <li>The Writing Group recommends that systemic azole antifungal prophylaxis should be used in all patients receiving chemotherapy or radiotherapy for HIV-associated malignancy (<strong>1D</strong>). </li>
+    <li>The Writing Group does not recommend routine fluoroquinolone prophylaxis in low-risk patients and the use of cotrimoxazole to prevent PCP may provide some protection against bacterial infection for patients living with HIV (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends herpes simplex virus (HSV) prophylaxis in people living with HIV with a history of HSV infection who are starting chemotherapy to reduce the incidence and severity of reactivations (<strong>1D</strong>). </li>
+    <li>The Writing Group recommends annual influenza vaccination (<strong>1B</strong>). </li>
+    <li>The Writing Group recommends vaccination against pneumococcus and HBV (<strong>1D</strong>). </li>
+    <li>The Writing Group recommends that patients with antibodies against hepatitis B core antigen (HBcAb) should be treated with prophylactic antivirals in line with British HIV Association (BHIVA) hepatitis guidelines (<strong>1B</strong>). </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><strong>Quality of Evidence</strong></p>
+<p><strong>Grade A evidence</strong> means high-quality evidence that comes from consistent results from well- performed randomised controlled trials (RCTs), or overwhelming evidence from another source (such as well-executed observational studies with consistent strong effects and exclusion of all potential sources of bias). Grade A implies confidence that the true effect lies close to the estimate of the effect.</p>
+<p><strong>Grade B evidence</strong> means moderate-quality evidence from randomised trials that suffers from serious flaws in conduct, inconsistency, indirectness, imprecise estimates, reporting bias, or some combination of these limitations, or from other study designs with specific strengths such as observational studies with consistent effects and exclusion of the majority of the potential sources of bias.</p>
+<p><strong>Grade C evidence</strong> is low-quality evidence from controlled trials with several serious limitations, or observational studies with limited evidence on effects and exclusion of most potential sources of bias.</p>
+<p><strong>Grade D evidence</strong> is based only on case studies, expert judgement or observational studies with inconsistent effects and a potential for substantial bias, such that there can be little confidence in the effect estimate.</p>
+<p><strong>Summary of the Modified Grading of Recommendations Assessment, Development and Evaluation (GRADE) System</strong></p>
+<p><strong>1A</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Strong recommendation. </li>
+    <li>High-quality evidence. </li>
+    <li>Benefits clearly outweigh risk and burdens, or vice versa. </li>
+    <li>Consistent evidence from well performed randomised, controlled trials or overwhelming evidence of some other form. Further research is unlikely to change confidence in the estimate of benefit and risk. </li>
+    <li>Strong recommendations can apply to most patients in most circumstances without reservation. </li>
+    <li>Clinicians should follow a strong recommendation unless there is a clear rationale for an alternative approach. </li>
+</ul>
+<p><strong>1B</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Strong recommendation. </li>
+    <li>Moderate-quality evidence. </li>
+    <li>Benefits clearly outweigh risk and burdens, or vice versa </li>
+    <li>Evidence from randomised, controlled trials with important limitations (inconsistent results, methods flaws, indirect or imprecise), or very strong evidence of some other research design. Further research may impact on confidence in the estimate of benefit and risk. </li>
+    <li>Strong recommendation and applies to most patients. </li>
+    <li>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present. </li>
+</ul>
+<p><strong>1C</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Strong recommendation. </li>
+    <li>Low-quality evidence. </li>
+    <li>Benefits appear to outweigh risk and burdens, or vice versa </li>
+    <li>Evidence from observational studies, unsystematic clinical experience, or from randomised, controlled trials with serious flaws. Any estimate of effect is uncertain. </li>
+    <li>Strong recommendation, and applies to most patients. Some of the evidence base supporting the recommendation is, however, of low quality. </li>
+</ul>
+<p><strong>1D</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Strong recommendation. </li>
+    <li>Very low-quality evidence. </li>
+    <li>Benefits appear to outweigh risk and burdens, or vice versa. </li>
+    <li>Evidence limited to case studies. Strong recommendation based mainly on case studies and expert judgment. </li>
+</ul>
+<p><strong>2A</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Weak recommendation. </li>
+    <li>High-quality evidence. </li>
+    <li>Benefits closely balanced with risks and burdens </li>
+    <li>Consistent evidence from well performed randomised, controlled trials or overwhelming evidence of some other form. Further research is unlikely to change confidence in the estimate of benefit and risk. </li>
+    <li>Weak recommendation, best action may differ depending on circumstances or patients' or societal values. </li>
+</ul>
+<p><strong>2B</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Weak recommendation. </li>
+    <li>Moderate-quality evidence. </li>
+    <li>Benefits closely balanced with risks and burdens, some uncertainty in the estimates of benefits, risks and burdens. </li>
+    <li>Evidence from randomised, controlled trials with important limitations (inconsistent results, methods flaws, indirect or imprecise). Further research may change the estimate of benefit and risk. </li>
+    <li>Weak recommendation, alternative approaches likely to be better for some patients under some circumstances. </li>
+</ul>
+<p><strong>2C</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Weak recommendation. </li>
+    <li>Low-quality evidence. </li>
+    <li>Uncertainty in the estimates of benefits, risks, and burdens; benefits may be closely balanced with risks and burdens. </li>
+    <li>Evidence from observational studies, unsystematic clinical experience, or from randomised, controlled trials with serious flaws. Any estimate of effect is uncertain. </li>
+    <li>Weak recommendation; other alternatives may be reasonable. </li>
+</ul>
+<p><strong>2D</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Weak recommendation. </li>
+    <li>Very low-quality evidence. </li>
+    <li>Uncertainty in the estimates of benefits, risks, and burdens; benefits may be closely balanced with risks and burdens. </li>
+    <li>Evidence limited to case studies and expert judgment. </li>
+    <li>Very weak recommendation; other alternatives may be equally reasonable. </li>
+</ul>
+<p><strong>Good Practice Points (GPP)</strong> are recommendations based on the clinical judgment and experience of the working group. GPPs emphasise an area of important clinical practice for which there is not, nor is there likely to be, any significant research evidence. They address an aspect of treatment and care that is regarded as such sound clinical practice that health care professionals are unlikely to question it and where the alternative recommendation is deemed unacceptable. It must be emphasised that GPPs are not an alternative to evidence-based recommendations.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Diagnosed malignancies in people living with human immunodeficiency virus (HIV)</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Infectious Diseases"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Oncology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Public Health Departments"/>
+      <fieldvalue value="Social Workers"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To provide guidance on best clinical practice in the treatment and management of adults with human immunodeficiency virus (HIV) infection and malignancy</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adults with human immunodeficiency virus (HIV) infection and malignancy</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Risk Assessment/Prevention</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Histological confirmation of diagnosis
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Measurement of blood human herpes virus-8 (HHV8) levels </li>
+        <li>Immunocytochemical staining for HHV8 and immunoglobulin M (IgM) lambda </li>
+    </ul>
+    </li>
+    <li>Pathology and treatment plans reviewed by specialist multidisciplinary team (MDT) with human immunodeficiency virus (HIV) physician </li>
+    <li>Prophylaxis
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Central nervous system (CNS) </li>
+        <li>Prophylactic intrathecal chemotherapy </li>
+        <li><em>Pneumocystis jiroveci</em> pneumonia (PCP) </li>
+        <li><em>Mycobacterium avium-intracellulare</em> (MAC) </li>
+        <li>Systemic azole antifungal </li>
+        <li>Herpes simplex virus (HSV) </li>
+    </ul>
+    </li>
+    <li>Cervical surveillance, including colposcopy and annual cytology </li>
+    <li>Examination and biopsy of anal canal and rectum </li>
+    <li>Computerized tomography (CT) of chest, abdomen, and pelvis </li>
+    <li>Magnetic resonance imaging (MRI) of pelvis </li>
+    <li>Fluorodeoxyglucose positron emission tomography (FDG-PET) scan and bone marrow (BM) biopsy </li>
+    <li>Smoking cessation </li>
+    <li>Screening
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Activating epidermal growth factor receptor (EGFR) </li>
+        <li>Hepatocellular cancer (HCC) </li>
+    </ul>
+    </li>
+    <li>Vaccination
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Influenza </li>
+        <li>Pneumococcus </li>
+        <li>Hepatitis B virus </li>
+    </ul>
+    </li>
+</ol>
+<p><strong>Treatment/Management</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Enrolment in clinical trials </li>
+    <li>Referral to specialized centres </li>
+    <li>Highly active antiretroviral therapy (HAART) </li>
+    <li>Radiotherapy, including whole brain radiotherapy </li>
+    <li>Intralesional vinblastine </li>
+    <li>Chemotherapy
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Liposomal anthracyclines </li>
+        <li>Paclitaxel chemotherapy as second line treatment </li>
+        <li>Cyclophosphamide, doxorubicin, vincristine and prednisolone (CHOP) </li>
+        <li>Dose-adjusted etoposide, prednisone, vincristine, cyclophosphamide and hydroxydaunorubicin (DA-EPOCH) </li>
+        <li>Cyclophosphamide, vincristine, doxorubicin, methotrexate/ifosfamide, mesna, etoposide and cytarabine (CODOX-M/IVAC) </li>
+        <li>With HAART </li>
+        <li>Platinum regimen </li>
+        <li>High-dose therapy (HDT) with autologous stem cell transplantation (ASCT) </li>
+        <li>High-dose methotrexate-containing regimen </li>
+        <li>Doxorubicin, bleomycin, vinblastine and dacarbazine (ABVD) </li>
+        <li>Rituximab concomitantly and as first line therapy for multicentric Castleman's disease (MCD) </li>
+    </ul>
+    </li>
+    <li>High-resolution anoscopy (HRA) </li>
+    <li>Chemoradiotherapy (CRT) with 5-fluorouracil and mitomycin C </li>
+    <li>Salvage surgery </li>
+    <li>Best supportive care </li>
+    <li>Involved-field radiation therapy (IFRT) </li>
+    <li>Salvage chemotherapy with high-dose therapy (HDT)/autologous stem cell rescue (ASCR) </li>
+    <li>Irradiated blood products for stem-cell transplantation </li>
+    <li>Clinical monitoring for patients in remission </li>
+    <li>Curative surgery when appropriate </li>
+    <li>Treated with EGFR-targeting tyrosine kinase inhibitors (TKIs) </li>
+    <li>Liver transplantation, as indicated </li>
+    <li>Sorafenib </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Sensitivity and specificity of diagnostic tests </li>
+    <li>Side effects of prophylaxis and treatment </li>
+    <li>Response to chemotherapy </li>
+    <li>Treatment failure rate </li>
+    <li>Overall survival </li>
+    <li>Morbidity and mortality </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>For the 2013 guidelines the literature search dates were 1 January 2008 to 16 July 2013 and included MEDLINE, EMBASE and the Cochrane Library. Abstracts from selected conferences were searched between 1 January 2009 and 16 July 2013.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Quality of Evidence</strong></p>
+<p><strong>Grade A evidence </strong>means high-quality evidence that comes from consistent results from well-performed randomized controlled trials (RCTs), or overwhelming evidence of some other sort (such as well-executed observational studies with consistent strong effects and exclusion of all potential sources of bias). Grade A implies confidence that the true effect lies close to the estimate of the effect.</p>
+<p><strong>Grade B evidence</strong> means moderate-quality evidence from randomized trials that suffer from serious flaws in conduct, inconsistency, indirectness, imprecise estimates, reporting bias, or some combination of these limitations, or from other study designs with special strengths such as observational studies with consistent effects and exclusion of most potential sources of bias.</p>
+<p><strong>Grade C evidence</strong> means low-quality evidence from controlled trials with several very serious limitations or observational studies with limited evidence on effects and exclusion of most potential sources of bias.</p>
+<p><strong>Grade D evidence</strong> on the other hand is based only on case studies, expert judgement or observational studies with inconsistent effects and a potential for substantial bias, such that there is likely to be little confidence in the effect estimate.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>For each topic and healthcare question, evidence was identified and evaluated by Writing Group members with expertise in the field. Using the modified Grading of Recommendations Assessment, Development and Evaluation (GRADE) system (see Appendix 1 in the original guideline document), panel members were responsible for assessing and grading the quality of evidence for predefined outcomes across studies and developing and grading the strength of recommendations. An important aspect of evaluating evidence is an understanding of the design and analysis of clinical trials, including the use of surrogate marker data. For a number of questions, GRADE evidence profile and summary of findings tables were constructed.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The British HIV Association (BHIVA) revised and updated the Association's guideline development manual in 2011. BHIVA has adopted the modified Grading of Recommendations Assessment, Development and Evaluation (GRADE) system for the assessment, evaluation and grading of evidence and development of recommendations. Full details of the guideline development process, including conflict of interest policy, are outlined in the manual.</p>
+<p>The scope, purpose and guideline topics were agreed by the Writing Group. Questions concerning each guideline topic were drafted and a systematic literature review undertaken by an information scientist. For a number of questions, GRADE evidence profile and summary of findings tables were constructed, using predefined and rated treatment outcomes, to help achieve consensus for key recommendations and aid transparency of the process.</p>
+<p><strong>Patient Involvement</strong></p>
+<p>British HIV Association (BHIVA) views the involvement of patient and community representatives in the guideline development process as essential. The Writing Group included two patient representatives appointed through the UK HIV Community Advisory Board (UK-CAB) who were involved in all aspects of the guideline development process. In addition, two meetings with patients and community representatives were held to discuss and receive feedback and comments on the proposed guideline recommendations. The first was held before the Writing Group's consensus meeting and the second as part of the public consultation process.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Summary of the Modified Grading of Recommendations Assessment, Development and Evaluation (GRADE) System</strong></p>
+<p><strong>1A</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Strong recommendation. </li>
+    <li>High-quality evidence. </li>
+    <li>Benefits clearly outweigh risk and burdens, or vice versa. </li>
+    <li>Consistent evidence from well performed randomised, controlled trials or overwhelming evidence of some other form. Further research is unlikely to change confidence in the estimate of benefit and risk. </li>
+    <li>Strong recommendations can apply to most patients in most circumstances without reservation. </li>
+    <li>Clinicians should follow a strong recommendation unless there is a clear rationale for an alternative approach. </li>
+</ul>
+<p><strong>1B</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Strong recommendation. </li>
+    <li>Moderate-quality evidence. </li>
+    <li>Benefits clearly outweigh risk and burdens, or vice versa </li>
+    <li>Evidence from randomised, controlled trials with important limitations (inconsistent results, methods flaws, indirect or imprecise), or very strong evidence of some other research design. Further research may impact on our confidence in the estimate of benefit and risk. </li>
+    <li>Strong recommendation and applies to most patients. </li>
+    <li>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present. </li>
+</ul>
+<p><strong>1C</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Strong recommendation. </li>
+    <li>Low-quality evidence. </li>
+    <li>Benefits appear to outweigh risk and burdens, or vice versa </li>
+    <li>Evidence from observational studies, unsystematic clinical experience, or from randomised, controlled trials with serious flaws. Any estimate of effect is uncertain. </li>
+    <li>Strong recommendation, and applies to most patients. Some of the evidence base supporting the recommendation is, however, of low quality. </li>
+</ul>
+<p><strong>1D</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Strong recommendation. </li>
+    <li>Very low-quality evidence. </li>
+    <li>Benefits appear to outweigh risk and burdens, or vice versa. </li>
+    <li>Evidence limited to case studies. Strong recommendation based mainly on case studies and expert judgment. </li>
+</ul>
+<p><strong>2A</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Weak recommendation. </li>
+    <li>High-quality evidence. </li>
+    <li>Benefits closely balanced with risks and burdens </li>
+    <li>Consistent evidence from well performed randomised, controlled trials or overwhelming evidence of some other form. Further research is unlikely to change confidence in the estimate of benefit and risk. </li>
+    <li>Weak recommendation, best action may differ depending on circumstances or patients' or societal values. </li>
+</ul>
+<p><strong>2B</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Weak recommendation. </li>
+    <li>Moderate-quality evidence. </li>
+    <li>Benefits closely balanced with risks and burdens, some uncertainty in the estimates of benefits, risks and burdens. </li>
+    <li>Evidence from randomised, controlled trials with important limitations (inconsistent results, methods flaws, indirect or imprecise). Further research may change the estimate of benefit and risk. </li>
+    <li>Weak recommendation, alternative approaches likely to be better for some patients under some circumstances. </li>
+</ul>
+<p><strong>2C</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Weak recommendation. </li>
+    <li>Low-quality evidence. </li>
+    <li>Uncertainty in the estimates of benefits, risks, and burdens; benefits may be closely balanced with risks and burdens. </li>
+    <li>Evidence from observational studies, unsystematic clinical experience, or from randomised, controlled trials with serious flaws. Any estimate of effect is uncertain. </li>
+    <li>Weak recommendation; other alternatives may be reasonable. </li>
+</ul>
+<p><strong>2D</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Weak recommendation. </li>
+    <li>Very low-quality evidence. </li>
+    <li>Uncertainty in the estimates of benefits, risks, and burdens; benefits may be closely balanced with risks and burdens. </li>
+    <li>Evidence limited to case studies and expert judgment. </li>
+    <li>Very weak recommendation; other alternatives may be equally reasonable. </li>
+</ul>
+<p><strong>Good Practice Points (GPP)</strong> are recommendations based on the clinical judgment and experience of the working group. GPPs emphasise an area of important clinical practice for which there is not, nor is there likely to be, any significant research evidence. They address an aspect of treatment and care that is regarded as such sound clinical practice that health care professionals are unlikely to question it and where the alternative recommendation is deemed unacceptable. It must be emphasised that GPPs are not an alternative to evidence-based recommendations.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline developers reviewed published cost analyses.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Before final approval by the Writing Group, the guidelines were published online for public consultation and an external peer review was commissioned and conducted.</p>
+<p>In addition, two meetings with patients and community representatives were held to discuss and receive feedback and comments on the proposed guideline recommendations. The first was held before the Writing Group's consensus meeting and the second as part of the public consultation process.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate treatment and management of adults with human immunodeficiency virus (HIV)-associated malignancies</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>False-positive and false-negative results of imaging and screening tests </li>
+    <li>Toxicity and adverse effects of chemotherapy. Many antiretrovirals have overlapping toxicities with chemotherapeutic agents. </li>
+    <li>Radiotherapy did not improve either overall survival or quality of life compared to supportive care alone. Higher numbers of fractions of radiotherapy appear to offer only minor benefits and are more costly as well as being less convenient for patients. </li>
+    <li>Radiotherapy side effects in patients with acquired immune deficiency syndrome (AIDS) have been reported as more severe, although a recent review of head and neck cancer patients treated with high-dose radiotherapy or chemoradiotherapy did not show any significant increase in toxicity for human immunodeficiency virus (HIV)-positive compared to HIV-negative patients </li>
+    <li>Initiation of highly active antiretroviral therapy (HAART) may precipitate a paradoxical worsening of symptoms, termed the immune reconstitution inflammatory syndrome (IRIS). Opportunistic infections are the most common manifestation, although sudden progression of existing Kaposi sarcoma (KS) or development of new lesions may also occur. </li>
+    <li>Although 30-day post-operative mortality is comparable to that in the general population, there is an increase in complications and recurrence, whilst overall survival is reduced. </li>
+    <li>Use of epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors (TKIs) requires caution due to potential interaction with HAART through induction of cytochrome P450 isoenzyme CYP3A4. Data from KS suggest that TKIs do indeed potentiate the side effects of HAART. </li>
+    <li>KS exacerbation was the most challenging adverse event after rituximab therapy. </li>
+    <li>In one study, an increased death rate from infectious complications, particularly (9/15) in those with a cluster of differentiation 4 (CD4) cell count below 50 cells/&amp;mu;L, was observed in those on rituximab. </li>
+    <li>The most common grade 3&amp;ndash;4 toxicities of chemoradiotherapy (CRT) are haematological, gastrointestinal and skin and some series have found that these are more common in patients with lower CD4 cell counts although this is not a universal finding. </li>
+    <li>Itraconazole use for prophylaxis against <em>Pneumocystis jirovecii</em> pneumonia (PCP) was associated with significantly more adverse events causing discontinuation of the drug. Itraconazole and posaconazole also interact with vinca alkaloids so should be avoided in regimens containing vincristine, vinblastine, vindesine or vinorelbine. Voriconazole use may be associated with severe photosensitivity and other adverse events and also has adverse interactions with vinca alkaloid chemotherapy. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following measures have/will be undertaken to disseminate and aid implementation of the guidelines:</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>E-publication on the British HIV Association (BHIVA) website and the journal HIV Medicine </li>
+    <li>Publication in the journal HIV Medicine </li>
+    <li>Shortened version detailing concise summary of recommendations </li>
+    <li>E-learning module accredited for CME </li>
+    <li>Educational slide set to support local and regional educational meetings </li>
+    <li>National BHIVA audit programme </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Audit Criteria/Indicators"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Slide Presentation"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Bower M, Palfreeman A, Alfa-Wali M, Bunker C, Burns F, Churchill D, Collins S, Cwynarski K, Edwards S, Fields P, Fife K, Gallop-Evans E, Kassam S, Kulasegaram R, Lacey C, Marcus R, Montoto S, Nelson M, Newsom-Davis T, Orkin C, Shaw K, Tenant-Flowers M, Webb A, Westwell S, Williams M, British HIV Association. British HIV Association guidelines for HIV-associated malignancies 2014. HIV Med. 2014 Mar;15(Suppl 2):1-92. [726 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24528810&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2008 (revised 2014 Mar)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="British HIV Association - Disease Specific Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>British HIV Association</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Writing Group</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Writing Group</em>: Prof Mark Bower (<em>Chair</em>), Professor of Oncology, National Centre for HIV Malignancy, Chelsea &amp;amp; Westminster Hospital NHS Foundation Trust, London; Dr A Palfreeman (<em>Vice Chair</em>), Consultant in Genitourinary Medicine, University Hospitals of Leicester NHS Trust, Leicester, UK; Dr Maryam Alfa-Wali, Clinical Research Fellow, Imperial College School of Medicine at Chelsea &amp;amp; Westminster Hospital, London; Prof Chris Bunker, Consultant Dermatologist, University College and Chelsea &amp;amp; Westminster Hospitals, London; Dr Fiona Burns, Consultant Physician, Royal Free London NHS Foundation Trust, and Clinical Senior Lecturer, University College London; Dr Duncan Churchill, Consultant Physician in HIV and Genitourinary Medicine, Brighton and Sussex University Hospitals NHS Trust; Mr Simon Collins, Senior Editor and Advocate, HIV i-Base, UK-CAB; Dr Kate Cwynarski, Consultant Haem-Oncologist, Department of Haematology, Royal Free Hospital, London; Dr Simon Edwards, Consultant Physician in HIV and Genitourinary Medicine, Central and North West London NHS Foundation Trust; Dr Paul Fields, Consultant Haematologist, Guy's &amp;amp; St Thomas' and King's College Hospitals, London; Dr Kate Fife, Consultant Clinical Oncologist, Cambridge University Hospital and Peterborough City Hospital; Dr Eve Gallop-Evans, Consultant Clinical Oncologist, Velindre Cancer Centre, Cardiff; Dr Shireen Kassam, Consultant Haematologist, King's College Hospital, London; Dr Ranjababu Kulasegaram, Consultant Physician in HIV and Genitourinary Medicine, Guy's &amp;amp; St Thomas' NHS Foundation Trust, London; Prof Charles Lacey, Professor of Medicine, University of York; Dr Robert Marcus, Consultant Haematologist, King's College Hospital, London; Dr Sylvia Montoto, Consultant in Haemato-oncology, St Bartholomew's Hospital, Barts Health NHS Trust, London; Dr Mark Nelson, Consultant Physician, Chelsea and Westminster Hospital NHS Foundation Trust, London, and Adjunct Professor and Reader in Human Immunodeficiency Virology, Imperial College London; Dr Tom Newsom-Davis, Consultant Medical Oncologist, Chelsea and Westminster Hospital NHS Foundation Trust, London; Dr Chloe Orkin, Consultant Physician and Lead for HIV Research, Barts Health NHS Trust, London; Ms Kate Shaw, Macmillan Clinical Nurse Specialist HIV-Oncology, Chelsea and Westminster Hospital, London, NHIVNA Representative; Dr Melinda Tenant-Flowers, Consultant and Honorary Senior Lecturer in HIV and Sexual Health, King's College Hospital NHS Foundation Trust and King's College London; Dr Andrew Webb, Consultant Medical Oncologist, the Royal Sussex County Hospital, Brighton; Dr Sarah Westwell, Consultant Clinical Oncologist, the Royal Sussex County Hospital, Brighton; Mr Matt Williams, Community Representative, UK-CAB</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Conflicts of Interest</strong></p>
+<p>Prof Mark Bower has received lecture fees, honoraria and advisory board attendance fees from Abbott, Bristol-Myers Squibb, Gallen, Gilead, Janssen &amp;amp; ViiV.</p>
+<p>Dr Adrian Palfreeman has no conflicts of interest to declare.</p>
+<p>Dr Maryam Alfa-Wali has no conflicts of interest to declare.</p>
+<p>Prof Chris Bunker has no conflicts of interest to declare.</p>
+<p>Dr Fiona Burns has received speaker fees from Janssen and an educational travel grant from Gilead.</p>
+<p>Dr Duncan Churchill has, in the past year, received sponsorship from Janssen to attend a conference, and has sat on advisory boards for Gilead.</p>
+<p>Mr Simon Collins has no conflicts of interest to declare.</p>
+<p>Dr Kate Cwynarski has received advisory board honoraria/travel/registration reimbursement from Roche.</p>
+<p>Dr Simon Edwards has received speaker, advisory and conference attendance fees from Merck Sharp and Dohme, Gilead, Abbott, ViiV and Janssen.</p>
+<p>Dr Paul Fields has no conflicts of interest to declare.</p>
+<p>Dr Kate Fife has no conflicts of interest to declare.</p>
+<p>Dr Eve Gallop-Evans has received ad board honoraria from Galen.</p>
+<p>Dr Shireen Kassam has no conflicts of interest to declare.</p>
+<p>Dr Ranjababu Kulasegaram has received speaker and advisory fees from Merck Sharp and Dohme, Abbott, ViiV and Janssen. He has received research funding from Boehringer Ingelheim, Pfizer, ViiV and Gilead. He has received educational travel grants from Janssen, ViiV and Bristol-Myers Squibb.</p>
+<p>Prof Charles Lacey has received speaker fees from Sanofi Pasteur MSD.</p>
+<p>Dr Robert Marcus has received lecture fees, honoraria and advisory board attendance fees from Roche and Napp Pharmaceuticals.</p>
+<p>Dr Silvia Montoto has no conflicts of interest to declare.</p>
+<p>Dr Mark Nelson has received lecture fees from Abbott, Boehringer Ingelheim, Bristol-Myers Squibb, Gilead, Merck Sharp &amp;amp; Dohme, Tibotec and ViiV and consultancy fees from Abbott, Boehringer Ingelheim, Bristol-Myers Squibb, Gilead, Idenix, Merck Sharp &amp;amp; Dohme, Pfizer, Tibotec and ViiV. His department has received research grants from Abbott, Aspen Pharmaceuticals, Bristol-Myers Squibb, Gilead, Merck Sharp &amp;amp; Dohme, Tibotec and ViiV.</p>
+<p>Dr Tom Newsom-Davis has received advisory board honoraria, speaker fees and travel/registration reimbursement from Eli Lilly, Hoffman La Roche, Boehringer Ingelheim, Sinclair IS Pharma, Astra Zeneca, Otsuka and ViiV, and has received research funding from ViiV.</p>
+<p>Dr Chloe Orkin has received advisory board honoraria, speaker fees, research funding and travel/registration reimbursement from Bristol-Myers Squibb, Abbott, AbbVie, GlaxoSmithKline, ViiV, Merck Sharp &amp;amp; Dohme, Boehringer Ingelheim, Janssen, and Johnson &amp;amp; Johnson. She is also a trials investigator for all of these companies.</p>
+<p>Ms Kate Shaw has no conflicts of interest to declare.</p>
+<p>Dr Melinda Tenant-Flowers has no conflicts of interest to declare.</p>
+<p>Dr Andrew Webb has received advisory board honoraria and travel reimbursement from Roche.</p>
+<p>Dr Sarah Westwell has received advisory board honoraria/speaker fees/ travel/registration reimbursement from Roche, Bristol-Myers Squibb, Astra Zeneca and Sanofi.</p>
+<p>Mr Matt Williams has no conflicts of interest to declare.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Bower M, Collins S, Cottrill C et al. British HIV Association guidelines for HIV-associated malignancies 2008. HIV Med 2008;9:336&amp;ndash;388.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;http://www.bhiva.org/documents/Guidelines/Malignancy/2014/MalignancyGuidelines2014.pdf&quot; title=&quot;British HIV Association (BHIVA) Web site&quot;>British HIV Association (BHIVA) Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>British HIV Association guidelines for HIV-associated malignancies 2014. Appendices. London (UK): British HIV Association (BHIVA); 2014. 3 p. Available from the <a href=&quot;http://www.bhiva.org/documents/Guidelines/Malignancy/2014/Appendix1.pdf&quot; title=&quot;British HIV Association (BHIVA) Web site&quot;>British HIV Association (BHIVA) Web site</a>. </li>
+    <li>British HIV Association guidelines for HIV-associated malignancies 2014. Slide presentation. London (UK): British HIV Association (BHIVA); 2014. 29 p. Available in <a href=&quot;http://www.bhiva.org/documents/Guidelines/Malignancy/2014/Malignancy-guidelines-slideset.pdf&quot; title=&quot;British HIV Association (BHIVA) Web site&quot;>PDF</a> and <a href=&quot;http://www.bhiva.org/documents/Guidelines/Malignancy/2014/Malignancy-guidelines-slideset.ppt&quot; title=&quot;British HIV Association (BHIVA) Web site&quot;>Power Point</a> from the BHIVA Web site. </li>
+    <li>British HIV Association (BHIVA) guideline development manual. London (UK): British HIV Association (BHIVA); 2014 Jan 28. 44 p. Available from the <a href=&quot;http://www.bhiva.org/documents/Guidelines/DevtManual/GuidelineDevelopmentManual.pdf&quot; title=&quot;British HIV Association (BHIVA) Web site&quot;>BHIVA Web site</a>. </li>
+</ul>
+<p>Auditable outcomes are available in Section 2 of the <a href=&quot;http://www.bhiva.org/documents/Guidelines/Malignancy/2014/MalignancyGuidelines2014.pdf&quot; title=&quot;British HIV Association (BHIVA) Web site&quot;>original guideline document</a>.</p>
+<p>Smartphone apps are available from the <a href=&quot;http://www.bhiva.org/Apps.aspx&quot; title=&quot;British HIV Association (BHIVA) Web site&quot;>BHIVA Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on May 9, 2013. The information was verified by the guideline developer on June 30, 2014. This summary was updated by ECRI Institute on January 6, 2016 following the U.S. Food and Drug Administration advisory on Noxafil (posaconazole). This summary was updated by ECRI Institute on February 15, 2017 following the U.S. Food and Drug Administration advisory on general anesthetic and sedation drugs.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 00:22:34 Jul 16, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:22:37 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 29.609 (3)
+  esindex: 0.011
+  captures_list: 47.237
+  CDXLines.iter: 12.167 (3)
+  PetaboxLoader3.datanode: 29.685 (4)
+  exclusion.robots: 0.447
+  exclusion.robots.policy: 0.43
+  RedisCDXSource: 1.648
+  load_resource: 32.584
+-->

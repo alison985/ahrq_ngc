@@ -1,0 +1,950 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app42.us.archive.org';v.server_ms=206;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10354?contentType=xml', '20171002233853')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20171002233853/https://www.guideline.gov/summaries/downloadcontent/ngc-10354?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20171002233853/https://www.guideline.gov/summaries/downloadcontent/ngc-10354?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10354?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20171002233853" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930202648/https://www.guideline.gov/summaries/downloadcontent/ngc-10354?contentType=xml" title="30 Sep 2016"><strong>Sep</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 23:38:53 Oct 02, 2017">OCT</td>
+		  <td class="f" nowrap="nowrap">Nov</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930202648/https://www.guideline.gov/summaries/downloadcontent/ngc-10354?contentType=xml" title="20:26:48 Sep 30, 2016"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 23:38:53 Oct 02, 2017">02</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930202648/https://www.guideline.gov/summaries/downloadcontent/ngc-10354?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 23:38:53 Oct 02, 2017">2017</td>
+		  <td class="f" nowrap="nowrap">2018</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20171002233853*/https://www.guideline.gov/summaries/downloadcontent/ngc-10354?contentType=xml" title="See a list of every capture for this URL">2 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 02 Oct 2017</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10354?contentType=xml","2017-10-02",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Clinical practice guideline for the prevention and treatment of suicidal behaviour.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Working Group of the Clinical Practice Guideline for the Prevention and Treatment [trunc]. Clinical practice guideline for the prevention and treatment of suicidal behaviour. Madrid (Spain): Ministry of Health and Social Policy, Galician Health Technology Assessment Agency; 2012. 382 p.  [682 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Definitions of the quality of evidence (<strong>1-4</strong>) and the strength of recommendations (<strong>A-D</strong>, and <strong>GCP</strong>) are presented at the end of the &quot;Major Recommendations&quot; field.</p>
+<p>The recommendations adopted from a clinical practice guideline (CPG) are indicated by the &quot;CPG&quot; superscript.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Evaluation and Treatment</span></strong></p>
+<p><strong>Risk Factors Associated with Suicidal Behaviour and Suicide Risk Assessment</strong></p>
+<p><strong>D<sup>CPG</sup></strong>: After suicidal behaviour, adequate psychopathological and social assessment is always recommended, including psychological and contextual features for the patient, as well as an evaluation of risk and protective factors for suicidal behaviour.</p>
+<p><strong>GCP</strong>: Health professionals involved in the care of patients with suicidal behaviour should have adequate training to enable them to evaluate the presence of risk factors for suicidal behaviour and record the patient's risk profile.</p>
+<p><strong>D<sup>CPG</sup></strong>: All the information collected during the evaluation process should be properly recorded in the medical record.</p>
+<p><strong>Q</strong>: Professionals should explain the purpose of the evaluation to patients and their relatives, and try to involve them as an active part of the therapeutic process.</p>
+<p><strong>GCP</strong>: Communication of the patient's symptoms, thoughts and feelings associated with suicidal behaviour should be encouraged from the start of the clinical interview, and the patient and his relatives should be encouraged to be involved in the decision-making process.</p>
+<p><strong>D<sup>CPG</sup></strong>: It is advisable to have patient information from other sources, including family, and friends, as well as other health professionals or caregivers.</p>
+<p><strong>D</strong>: The clinical interview should be directed towards the collection of objective, descriptive and subjective information (patient's narrative, thoughts and ideas) and should be adapted to its objectives: regarding the setting, circumstances, time available, conditions of the interviewee and preparation of the interviewer.</p>
+<p><strong>D<sup>CPG</sup></strong>: The estimation of suicide risk of a patient must be made by a professional clinical judgment, taking into account the presence of risk and protective factors.</p>
+<p>The following should mainly be considered in assessing a suicide risk:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>A</strong>: Presence of previous suicide attempts and substance abuse </li>
+    <li><strong>B</strong>: Presence of mental disorders, and specific symptoms such as hopelessness, anxiety, agitation and severe suicidal ideation (recurrent thoughts of death every day, and most of the time), as well as stressful events and the availability of methods. </li>
+    <li><strong>C</strong>: Risk factors associated with repetition, physical illness, chronicity, pain or disability, family history of suicide, social and environmental factors and a history of suicide in the environment. </li>
+</ul>
+<p><strong>D</strong>: The clinical interview should not be replaced by the use of self- and observer reporting scales, although they can contribute additional information in the evaluation.</p>
+<p><strong>C</strong>: Of the different scales available, the ones recommended are Beck's Hopelessness, Suicidal Ideation and Suicide Intent scales, as well as the items on suicidal behaviour from the Beck Depression Inventory and the Hamilton Rating Scale for Depression.</p>
+<p><strong>D</strong>: Although not validated in Spain, the SAD PERSONS and IS PATH WARM scales are also recommended for their ease of application.</p>
+<p><strong>C</strong>: When assessing a patient with multiple suicide attempts, it is recommended to evaluate the causes or precipitants of each of them independently.</p>
+<p><strong>GCP</strong>: Any negative attitudes towards people with repeated suicidal behaviour should be avoided, encouraging professional care based on respect and understanding for these patients.</p>
+<p><strong>Assessment and Management of Suicidal Ideation and Behaviour in Primary Care</strong></p>
+<p><strong>D</strong>: Training is recommended for primary care physicians in the assessment and treatment of suicidal ideation and behaviour, as well as for implementing specific programmes about their diagnosis and psychotherapeutic approach, where appropriate.</p>
+<p><strong>GCP</strong>: It is recommended to investigate suicidal thoughts in patients who are suspected of having suicidal ideation and who have suicide risk factors. This does not increase the risk of suicide.</p>
+<p><strong>D</strong>: It is recommended that patients are asked about their thoughts of suicide gradually. The interviewer must not be demanding or coercive, but have a warm and empathetic approach.</p>
+<p><strong>GCP</strong>: If the presence of suicidal ideation is confirmed, specific questions aimed at assessing the real possibility of suicide (e.g., frequency and seriousness of ideas, degree of planning) will be needed.</p>
+<p><strong>GCP</strong>: The following is required when dealing with patients with suicidal ideation or suicide risk:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Prescribing drugs which are safe if overdosed </li>
+    <li>Prescribe containers with the fewest tablets possible </li>
+    <li>Explain the need for controlled custody and administration of the medication by the family </li>
+    <li>Constant accompaniment by family members, as well as restricting access to lethal methods </li>
+    <li>Acceptance by the patient and family of the need for follow-up and referral to the mental health services </li>
+</ul>
+<p><strong>D</strong>: After a suicide attempt in the field of primary care, the physical condition of the patient should first be assessed, before any decision is made on the need for referral to a hospital for treatment of the injuries.</p>
+<p><strong>D</strong>: After a suicide attempt in the field of primary care, an assessment including the following is recommended, where possible:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Features of the attempt </li>
+    <li>Previous attempts at self-harm </li>
+    <li>Social and demographic factors </li>
+    <li>Associated mental disorders </li>
+    <li>Family history </li>
+</ul>
+<p><strong>D</strong>: An <strong>urgent referral</strong> to <strong>mental health services</strong> for a patient with suicidal <strong>ideation</strong> is recommended in the following cases:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Presence of severe mental illness </li>
+    <li>Recent serious suicidal behaviour </li>
+    <li>A prepared suicide plan </li>
+    <li>Expression of suicidal intent </li>
+    <li>Social and family situation at risk or lack of support </li>
+    <li>If in doubt about the severity of ideation or the risk of an immediate attempt </li>
+</ul>
+<p><strong>D</strong>: In cases of <strong>suicide attempt</strong>, <strong>urgent referral</strong> to a <strong>hospital emergency department</strong> is recommended if:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>There is a need for medical treatment of the injuries produced, which may not be met in primary care </li>
+    <li>Voluntary intoxication with decreased level of consciousness or agitation (after stabilisation of the patient) has occurred </li>
+</ul>
+<p><strong>D</strong>: In cases of <strong>suicide attempt</strong>, and in the absence of the above, <strong>urgent referral</strong> to <strong>mental health services</strong> is recommended if there is a:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>High lethality of the plan, regardless of the outcome </li>
+    <li>Presence of severe mental illness </li>
+    <li>Recent severe self-harm behaviour </li>
+    <li>Previous suicide attempts </li>
+    <li>Social and family situation at risk or lack of support </li>
+    <li>If in doubt about the severity of the episode or risk of recurrence </li>
+</ul>
+<p><strong>GCP</strong>: A transfer to mental health services (within a week) may be considered for patients with suicidal ideation or behaviour without any of the above criteria for immediate referral if all of the following conditions are met:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Relief after the interview </li>
+    <li>Intention to control suicidal impulses </li>
+    <li>Acceptance of treatment and containment measures agreed </li>
+    <li>Effective social and family support </li>
+</ul>
+<p><strong>GCP</strong>: All patient information will be recorded in the clinical history as well as the reasoning behind any referrals.</p>
+<p><strong>GCP</strong>: After an episode of suicidal behaviour, proper communication between the mental health services and primary care physician is recommended.</p>
+<p><strong>Assessing and Managing Patients with Suicidal Behaviour in the Emergency Department</strong></p>
+<p><strong>GCP</strong>: All patients who attend the emergency department for suicidal behaviour should undergo triage to ensure they are attended within the first hour after arrival.</p>
+<p><strong>GCP</strong>: The brief version of the Horowitz suicide risk questionnaire is proposed for use by emergency department triage staff for patients attending for suicidal behaviour without any severe affectation of their physical condition.</p>
+<p><strong>GCP</strong>: The assessment of patients with suicidal behaviour should be conducted in an atmosphere of privacy, confidentiality and respect.</p>
+<p><strong>GCP</strong>: All available security measures to prevent escape and aggression to themselves or others should be taken while in the emergency department.</p>
+<p><strong>GCP</strong>: Besides assessing any change in the physical condition of the patient with suicidal behaviour, the hospital emergency doctor should always perform a basic social and psychopathological assessment.</p>
+<p><strong>D</strong>: When assessing a patient with suicidal behaviour, a systematic assessment of the risk factors and recording of the most relevant features of the suicide attempt is recommended; preferably using a standard form, with all information properly documented in the medical record.</p>
+<p><strong>GCP</strong>: It is suggested that patients with a suicide attempt are assessed by a psychiatrist, when recommended by the emergency department doctor.</p>
+<p><strong>GCP</strong>: Referral to a psychiatrist by the emergency physician should be performed when the patient is fully conscious and an appropriate psychopathological assessment can be performed.</p>
+<p><strong>GCP</strong>: Sometimes the patient's psychiatric evaluation may be deferred, and the patient preferentially referred for a mental health consultation.</p>
+<p><strong>GCP</strong>: Improvements in the following areas of care for people with suicidal behaviour are recommended:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Communication between patients and staff </li>
+    <li>An empathetic attitude from staff </li>
+    <li>Access to specialist health care </li>
+    <li>Information on suicidal behaviour for patients, caregivers and families </li>
+</ul>
+<p><strong>D</strong>: Staff who are not mental health specialists should receive appropriate training in the assessment of patients who present with suicidal behaviour.</p>
+<p><strong>GCP</strong>: Training for the emergency physician in the care of patients with suicidal behaviour should include those aspects considered for their competence, including:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Assessment of mental status and capacity of the patient and mood </li>
+    <li>Skills in detecting immediate suicide risk </li>
+    <li>Basic legal knowledge for emergency medical situations </li>
+</ul>
+<p><strong>D<sup>CPG</sup></strong>: The decision to hospitalise a patient after suicidal behaviour is often a complex process. The following factors should mainly be considered:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Medical and surgical repercussions of the suicidal behaviour </li>
+    <li>Immediate suicide risk of the patient </li>
+    <li>Need for more intensive treatment of the baseline mental disorder </li>
+    <li>Lack of effective family and social support </li>
+</ul>
+<p><strong>Treatment of Suicidal Behaviour in Specialist Care (Mental Health)</strong></p>
+<p><em>General Recommendations</em></p>
+<p><strong>GCP</strong>: It is recommended to address suicidal behaviour from a broad perspective, in which the pharmacological, psychotherapeutic and psychosocial interventions from which the patient may benefit are comprehensively assessed with the involvement of health professionals from different levels of care.</p>
+<p><strong>GCP</strong>: It is advisable to promote the development of a strong therapeutic alliance between patient and professional, and to have the support of the patient environment as a fundamental part of the therapeutic process.</p>
+<p><em>Psychotherapeutic Interventions</em></p>
+<p><strong>GCP</strong>: Psychotherapeutic techniques play an important role in the treatment of patients with suicidal behaviour. Therefore it is recommended to ensure they are available for those who need them.</p>
+<p><strong>B</strong>: In general, psychotherapeutic treatments of a cognitive-behavioural type are recommended for patients with suicidal behaviour on a weekly basis, at least at the beginning of the treatment.</p>
+<p><strong>B</strong>: Psychotherapy should always be directed at some specific aspect of the suicidal spectrum (suicidal ideation, hopelessness, self-harm or other forms of suicidal behaviour).</p>
+<p><strong>B</strong>: Individual cognitive-behavioural sessions are recommended for adults with suicidal ideation or behaviour, although the inclusion of group sessions as an adjunct to individual treatment can be assessed.</p>
+<p><strong>B</strong>: Although other psychotherapeutic techniques could be evaluated, dialectical behavioural therapy must be considered preferential in adults diagnosed with borderline personality disorder.</p>
+<p><strong>B</strong>: Specific psychotherapeutic treatment is recommended in adolescents: dialectical behavioural therapy in borderline personality disorder and cognitive behavioural therapy in major depression.</p>
+<p><strong>B</strong>: Interpersonal therapy is recommended for adults with suicidal behaviour, patients over 60 years old with depression and suicidal ideation and in adolescents with suicide risk.</p>
+<p><em>Pharmacotherapy</em></p>
+<p><strong>A</strong>: It is recommended to use preferentially treatment with antidepressants from the group of selective serotonin reuptake inhibitors in adults with major depression presenting suicidal ideation.</p>
+<p><strong>A</strong>: Patients over 60 years with major depression and suicidal behaviour are recommended to have monitoring continued over time with the use of combination therapy (selective serotonin reuptake inhibitors + interpersonal therapy).</p>
+<p><strong>A</strong>: In adolescents with major depression and suicidal ideation, the use of combination therapy (fluoxetine + cognitive behavioural therapy) is recommended.</p>
+<p><strong>D<sup>CPG</sup></strong>: The use of anxiolytic agents at the start of treatment with antidepressants in patients with major depression and suicidal ideation who also experience anxiety or agitation is recommended.</p>
+<p><strong>C</strong>: In patients with bipolar disorder and suicidal ideation, the use of antidepressants alone is not recommended unless accompanied by a mood stabilizer.</p>
+<p><strong>A</strong>: Lithium treatment is recommended in adult patients with bipolar disorder who have suicidal behaviour, due to its mood stabilising effect and potential for antisuicidal action.</p>
+<p><strong>B</strong>: In adult patients with major depression and recent suicidal behaviour, a combination of lithium and antidepressant treatment is recommended to be assessed.</p>
+<p><strong>D</strong>: When ending lithium treatment, withdrawal should be done gradually, at least during two weeks.</p>
+<p><strong>C</strong>: For anticonvulsant treatment of borderline personality disorder, carbamazepine is recommended as the first choice drug to control the risk of suicidal behaviour.</p>
+<p><strong>C</strong>: In patients with bipolar disorder and suicide risk requiring anticonvulsant therapy, continuous treatment with valproic acid or carbamazepine is recommended.</p>
+<p><strong>GCP</strong>: Special attention must be paid to the presence of suicidal ideation or behaviour in patients with suicide risk factors after treatment for epilepsy.</p>
+<p><strong>A</strong>: To reduce the risk of suicidal behaviour, the use of clozapine is recommended in the treatment of adult patients diagnosed with schizophrenia or schizoaffective disorder at high risk of suicidal behaviour.</p>
+<p><em>Electroconvulsive Therapy</em></p>
+<p><strong>GCP</strong>: The decision to use electroconvulsive therapy should be taken after consultation with the patient, taking into account factors such as diagnosis, type and severity of the symptoms, medical history, risk/benefit ratio, alternative options and patient preferences. Written informed consent must be obtained in all cases.</p>
+<p><strong>GCP</strong>: It is recommended that electroconvulsive therapy always be given by an experienced professional, following a physical and psychiatric assessment in a hospital setting.</p>
+<p><strong>C</strong>: Electroconvulsive therapy is recommended in patients with severe major depression where there is a need for a rapid response due to the presence of high suicidal intent.</p>
+<p><strong>D<sup>CPG</sup></strong>: Electroconvulsive therapy is also indicated in adolescents with severe, major and persistent depression, with behaviours that endanger their lives, or those who do not respond to other treatments.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Prevention</span></strong></p>
+<p><strong>General Measures to Prevent Suicidal Behaviour</strong></p>
+<p><em>General Programmes for the Prevention of Suicidal Behaviour</em></p>
+<p><strong>C</strong>: The health authorities are recommended to implement the following specific lines of action for the prevention of suicidal behaviour:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Development of preventive programmes in populations at risk </li>
+    <li>Training of health professionals in the detection of suicide risk and identification of risk and protective factors </li>
+    <li>Education of the general population and media </li>
+    <li>Improving procedures for identification, treatment and monitoring of people at risk of suicide </li>
+    <li>Improving access to health services and providing the right treatment to people with suicidal behaviour </li>
+    <li>Removing the taboo and stigma attached to mental illness and suicide in both health workers and the general public </li>
+    <li>Promoting research on suicide prevention </li>
+</ul>
+<p><em>Enhancing Protective Factors and Resilience</em></p>
+<p><strong>GCP</strong>: The preparation and implementation of suicide prevention programmes based on enhancing protective factors and factors associated with resilience is recommended.</p>
+<p><em>Restricting Access to Lethal Means</em></p>
+<p><strong>B</strong>: It is recommended to reduce the availability of or limit access to lethal means of suicide, particularly those used most in a particular country:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Restriction on the sale of psychotropic drugs </li>
+    <li>Reducing the size of drug packs in general </li>
+    <li>Using less toxic antidepressants </li>
+    <li>Reducing the emissions of carbon monoxide from vehicles </li>
+    <li>Lowering the toxicity of domestic gas </li>
+    <li>Installation of barriers in high places </li>
+    <li>Restriction on the possession and control of firearms </li>
+    <li>Control of pesticides </li>
+</ul>
+<p><em>The Media and Suicide</em></p>
+<p><strong>D</strong>: The media are recommended to follow the World Health Organization (WHO) guidelines when reporting news about suicides, among which are:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Not sensationalising news about suicides </li>
+    <li>Avoiding specific details about its features or circumstances </li>
+    <li>Providing information accurately, responsibly and ethically </li>
+    <li>Taking the opportunity to educate the public </li>
+    <li>Providing information on available aid resources </li>
+    <li>Taking into account the impact that the information can have on the families and friends after a suicide at all times </li>
+</ul>
+<p><strong>GCP</strong>: Measures at a national or regional level aimed at promoting the implementation of the WHO and similar guidelines to promote the proper treatment of suicide in the media are recommended.</p>
+<p><strong>D</strong>: The implementation of measures to promote the Internet as an instrument to encourage mental health and suicide prevention is recommended. Examples of possible measures are:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Trying to have pages with useful information for patients - aimed at suicide prevention or offering support - appearing in a priority location when performing a search with key terms </li>
+    <li>Regulating the control of Internet content by legislation, the involvement of organisations or service providers </li>
+    <li>Using filtering software to prevent access to certain forums or blogs </li>
+</ul>
+<p><em>Training Programs for the Prevention of Suicidal Behaviour</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Health Personnel</span></p>
+<p><strong>C</strong>: In general, it is recommended that programmes for training of health personnel on suicidal behaviour include information on risk and protection factors, assessment and crisis intervention strategies. The format may be on-site, online or mixed, and based on lectures, case discussions and role-playing.</p>
+<p><strong>C</strong>: It is recommended that training programmes include booster sessions on a regular basis (at least every 2 years).</p>
+<p><strong>GCP</strong>: It is recommended to evaluate training programmes after their implementation, particularly their influence on clinical practice.</p>
+<p><strong>C</strong>: Training programmes in primary care are recommended to include the detection and treatment of depression, as well as specific content about suicide.</p>
+<p><strong>C</strong>: It is recommended that emergency services training programmes address the general aspects of suicide and enhance the development of skills in the clinical interview for the detection of comorbid psychiatric disorders, as well as suicide risk factors and groups.</p>
+<p><strong>C</strong>: Training programmes for mental health services are recommended to include the acquisition of skills in the management and prevention of suicidal behaviour, as well as general aspects of suicide.</p>
+<p><span style=&quot;text-decoration: underline;&quot;>Non-Health Personnel</span></p>
+<p><strong>C</strong>: Training programmes for non-medical personnel (e.g., teachers, educators, firefighters or police) are recommended to primarily address risk factors for suicidal behaviour, preventive aspects, crisis intervention and information about seeking professional help.</p>
+<p><strong>Screening for Suicide Risk</strong></p>
+<p><strong>D</strong>: In the general population, there is insufficient evidence to either recommend or not recommend suicide risk screening in adults.</p>
+<p><strong>C</strong>: In educational institutions, the evidence on the effectiveness and the possible impact on suicidal behaviour does not support the recommendation of implementation of screening programmes.</p>
+<p><strong>C</strong>: In primary care, it is suggested to implement suicide risk screening programmes in adolescents with the presence of suicide risk factors who may need to be referred to a specialist service. The Risk of Suicide Questionnaire (RSQ) can be used as a screening tool as it is the only one validated in Spanish.</p>
+<p><strong>C</strong>: In the emergency department, it is recommended to conduct suicide risk screening in adolescents with the presence of risk factors (e.g., depressive disorders, alcohol use or impulsivity) or with associated stress factors (e.g., break-up of relationships, unwanted pregnancies or exposure to cases of attempted or completed suicides), even if attending for other reasons.</p>
+<p><strong>C</strong>: Implementation of screening for depression associated with appropriate follow-up and health education programmes is recommended in the elderly, as they lessen the risk of suicide. The 15-item Geriatric Depression Scale (GDS) or the 5-item GDS subscale (GDS-SI) could be used as screening tools.</p>
+<p><strong>D</strong>: Suicide risk screening of prisoners is recommended on admission to prison, with subsequent observation and monitoring. No evidence has been found to recommend a screening scale in this population.</p>
+<p><strong>Suicidal Behaviour in Risk Groups</strong></p>
+<p><em>Suicidal Behaviour in Children and Adolescents</em></p>
+<p><strong>D<sup>CPG</sup></strong>: Children and adolescents with presence of risk factors for suicidal behaviour are recommended to undergo a comprehensive psychopathological and social assessment. The evaluation must follow the same principles as in adults, while considering the particular psychopathological aspects of childhood and adolescence, and paying special attention to the family and the social situation.</p>
+<p><strong>C</strong>: To assess suicide risk in children or adolescents, it is recommended to ask directly about suicidal ideation or planning, past suicidal behaviour and other risk factors, as well as extend the evaluation to people close to the subjects (parents or teachers).</p>
+<p><strong>GCP</strong>: The following scales are recommended for use in childhood and adolescence when being used to supplement the clinical interview:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Beck Hopelessness Scale (BHS) </li>
+    <li>Beck Depression Inventory (BDI) </li>
+    <li>Kiddie Schedule for Affective Disorders and Schizophrenia for School-Age Children (K-SADS) </li>
+    <li>Children Depression Rating Scale, Revised (CDRS-R) </li>
+</ul>
+<p><strong>C</strong>: Universal suicide prevention programmes, such as Signs of Suicide, are recommended to be implemented as part of the school curriculum, after being adapted and contextualised to the sociocultural environment.</p>
+<p><strong>C</strong>: Selective suicide prevention programmes, such as Personal Growth Class or Counsellors Care, are recommended for adolescents at risk of suicide, after being adapted and contextualised to the sociocultural environment.</p>
+<p><strong>C</strong>: There are insufficient data to recommend the use of suicide screening tools or programmes in schools.</p>
+<p><strong>D</strong>: The implementation of key figure training programmes (gatekeeper) for staff at educational institutions is recommended, to identify students at risk of suicide.</p>
+<p><strong>D</strong>: The following is recommended to prevent suicidal behaviour in children and adolescents with mental disorders:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Conducting a thorough assessment of suicide risk for the most beneficial treatment strategy in each case </li>
+    <li>Paying particular attention to the presence of comorbidity </li>
+    <li>Periodically assessing symptoms of depression, suicidal ideation and the possible presence of stressful life events </li>
+    <li>Encouraging coordination among different levels of healthcare professionals to carry out appropriate monitoring </li>
+</ul>
+<p><strong>GCP</strong>: The treatment options recommended for assessment for suicidal behaviour in childhood and adolescence are psychotherapeutic, drug, combination therapy and in rare cases, electroconvulsive therapy.</p>
+<p><strong>GCP</strong>: Guidelines should be provided for parents and/or carers on the control of direct access by children and adolescents to drugs, firearms or other potentially lethal means.</p>
+<p><strong>C</strong>: Clinicians are recommended take into account the pathological use or misuse of the Internet when assessing the risk of suicide, especially in adolescents and young adults.</p>
+<p><strong>D</strong>: Easily accessible information on suicidal behaviour and its prevention should be specifically prepared for adolescents and their families and offered on the Internet.</p>
+<p><em>Suicidal Behaviour in the Elderly</em></p>
+<p><strong>D</strong>: When assessing the risk of suicide in the elderly, it is especially recommended to check for the presence of depression, other illnesses, alcohol abuse or abuse of any other medication.</p>
+<p><strong>D</strong>: It is also recommended to assess the environment, quality of life and expectations of the person:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Who he lives with, the presence of support and social and family relationships </li>
+    <li>Ability to care for himself and to carry out daily living activities </li>
+    <li>Presence of hopelessness, patient attitude toward life and death </li>
+</ul>
+<p><strong>C</strong>: The use of validated scales such as the Geriatric Depression Scale (GDS) is recommended when using scales to supplement the clinical interview in the older person.</p>
+<p><strong>D</strong>: Education about suicide is recommended for the elderly themselves, as well as their carers and the general public, including the media, to raise awareness and reduce stigma.</p>
+<p><strong>D</strong>: The doctor is recommended to prescribe drugs in smaller packs and monitor their use when dealing with patients with suicide risk factors.</p>
+<p><strong>C</strong>: Community support interventions are recommended for the elderly at risk of suicide, e.g. telephone lines, group activities and psychoeducation.</p>
+<p><strong>D<sup>CPG</sup></strong>: In general, the recommendations for adults when managing and treating suicidal behaviour should also be used for the older age groups.</p>
+<p><em>Preventing Suicidal Behaviour in Other Risk Groups</em></p>
+<p><strong>GCP</strong>: Persons with chronic illnesses and severe pain or physical disability are recommended to undergo preventive programmes and specific suicide risk assessments.</p>
+<p><strong>GCP</strong>: It is recommended to perform a special monitoring of those patients with risk factors for suicide at the following times: when being diagnosed with a serious illness; when there is a poor prognosis of an illness; or when it is at an advanced stage.</p>
+<p><strong>GCP</strong>: General strategies for managing patients with chronic illness, physical disability or chronic pain should be carried out at three different levels:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Universal:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Evaluate hopelessness and suicidal ideation. </li>
+        <li>Monitor the warning signs that may increase the level of risk, such as depressive symptoms, substance abuse or a history of suicidal behaviour. </li>
+        <li>Recognize that people may be at risk regardless of the time after the injury. </li>
+        <li>Provide patients with the availability of long-term support. </li>
+    </ul>
+    </li>
+    <li>Selective:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Follow-up persons with comorbid psychiatric disorders. </li>
+    </ul>
+    </li>
+    <li>Indicated (presence of suicidal ideation and/or behaviour):
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Reduce access to potentially lethal methods, including the possibility of more than one method. </li>
+        <li>Provide treatment, support and monitoring for at least 12 months after a suicide attempt. </li>
+        <li>Encourage the participation of friends and family in the treatment planning and development. </li>
+    </ul>
+    </li>
+</ul>
+<p><strong>D</strong>: A suicide risk assessment is recommended in carers with depressive symptoms.</p>
+<p><strong>C</strong>: Carers with anxiety, depression and overload are recommended to undergo cognitive-behavioural type interventions to reduce the risk of suicide.</p>
+<p><strong>C</strong>: Health promotion programmes are recommended in the workplace to offer support and advice to workers and to increase the degree of integration and access to prevention services.</p>
+<p><strong>D</strong>: It is recommended to evaluate the employment situation of people at risk of suicide.</p>
+<p><strong>C</strong>: Suicide prevention programmes involving special care are recommended for victims of domestic violence.</p>
+<p><strong>D</strong>: Suicide prevention programmes are recommended in prisons for both personnel and inmates.</p>
+<p><strong>Interventions for Family, Friends and Professionals after a Suicide</strong></p>
+<p><em>Suicidal Behaviour in Children and Adolescents</em></p>
+<p><strong>D</strong>: The following is recommended when implementing any intervention aimed at the family and friends after a suicide:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Contextualising the intervention strategy </li>
+    <li>Taking into account the effect of stigma on family and friends </li>
+    <li>Considering the needs and expectations of the people involved </li>
+</ul>
+<p><strong>GCP</strong>: As soon as possible after a suicide, care which is flexible and tailored to the needs of each person should be offered.</p>
+<p><strong>D</strong>: After a suicide, it is recommended that health personnel offer support to family and friends and provide them with all the necessary information about available support resources, including specific treatments and the possibility of long-term monitoring.</p>
+<p><strong>B</strong>: Cognitive behavioural therapy is recommended in family and friends with suicidal ideation after a suicide, as it reduces the risk of pathological grief in these people.</p>
+<p><strong>D</strong>: It is recommended to implement training programmes for key figures (gatekeepers) in the school to increase the knowledge of educational personnel about suicidal behaviour and the impact of suicide on family and friends of the victim.</p>
+<p><strong>C</strong>: It is recommended that all professionals receive specific training on the emotional implications of a patient suicide and the necessary coping strategies.</p>
+<p><strong>D</strong>: After the suicide of a patient, it is recommended to ensure that the necessary support is given to personnel directly involved and to conduct a review of the case and the underlying factors.</p>
+<p><strong>Clinical Intervention Programmes for Suicidal Behaviour in Spain</strong></p>
+<p><em>Suicide Behaviour Clinical Intervention Programmes in Spain</em></p>
+<p><strong>C</strong>: Suicidal behaviour clinical prevention programmes based on health education and the implementation of measures to ensure immediate care and adequate monitoring are recommended for implementation in health services.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><strong>Scottish Intercollegiate Guidelines Network (SIGN) Levels of Evidence</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Levels of Evidence: Scottish Intercollegiate Guidelines Network (SIGN)&quot;>
+    <tbody>
+        <tr>
+            <th width=&quot;5%&quot; class=&quot;Center&quot; valign=&quot;top&quot;>1++</th>
+            <td valign=&quot;top&quot;>High quality meta-analyses, systematic reviews of clinical trials or high-quality clinical trials with very little risk of bias</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>1+</th>
+            <td valign=&quot;top&quot;>Well-conducted meta-analyses, systematic reviews of clinical trials, or well-conducted clinical trials with low risk of bias</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>1-</th>
+            <td valign=&quot;top&quot;>Meta-analyses, systematic reviews of clinical trials or clinical trials with high risk of bias</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>2++</th>
+            <td valign=&quot;top&quot;>High-quality systematic reviews of case control or cohort studies; high quality case control or cohort studies with a very low risk of confounding or bias and a high probability that the relationship is causal</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>2+</th>
+            <td valign=&quot;top&quot;>Well-conducted case control or cohort studies with a low risk of confounding or bias and a moderate probability that the relationship is causal</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>2-</th>
+            <td valign=&quot;top&quot;>Cohort or case-control studies with a high risk of bias and a significant risk that the relationship is not causal</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>3</th>
+            <td valign=&quot;top&quot;>Non-analytical studies such as case reports and case series</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>4</th>
+            <td valign=&quot;top&quot;>Expert opinion</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;><strong>Note</strong>: Studies classified as 1-and 2- must not be used in the preparation of recommendations due to their high potential for bias.</p>
+<p><strong>SIGN Grades of Recommendation</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Grades of Recommendation for Intervention Studies: Scottish Intercollegiate Guidelines Network (SIGN)&quot;>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>A</th>
+            <td valign=&quot;top&quot;>At least one meta-analysis, systematic review or clinical trial rated as 1++ directly applicable to the target population of the guideline, or a body of evidence consisting of studies classified as 1+ and showing overall consistency of results.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>B</th>
+            <td valign=&quot;top&quot;>A body of evidence consisting of studies rated as 2++, directly applicable to the target population of the guideline and showing overall consistency of results; or evidence extrapolated from studies rated as 1++ or 1 +.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>C</th>
+            <td valign=&quot;top&quot;>A body of evidence consisting of studies rated as 2+, directly applicable to the target population of the guideline and showing overall consistency of results; or evidence extrapolated from studies rated as 2++.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>D</th>
+            <td valign=&quot;top&quot;>Evidence level 3 or 4; or evidence extrapolated from studies rated as 2+.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Q</th>
+            <td valign=&quot;top&quot;>Evidence taken from relevant qualitative studies of appropriate quality. This category is not considered by SIGN.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Good Clinical Practice (GCP)<sup>1</sup></th>
+            <td valign=&quot;top&quot;>Recommended practice based on clinical experience and consensus of the editorial team.</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;note&quot;><sup>1</sup>Sometimes the development group wishes to highlight an important practical aspect for which there is probably no supporting evidence. In general, these cases are related to an aspect of treatment generally accepted to be good clinical practice, and is evaluated as a point of good clinical practice. These messages are not an alternative to the recommendations based on evidence, but should be considered only when there is no other way of highlighting that aspect.</p>
+<p class=&quot;Note&quot;>The recommendations adapted from a CPG are indicated with the superscript<sup>CPG</sup>.</p>
+<p class=&quot;note&quot;>Source: Scottish Intercollegiate Guidelines Network. Forming guideline recommendations. In: SIGN 50: A guideline developers' handbook: Edinburgh: SIGN; 2001.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following clinical algorithms are provided in the original guideline document:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Management of suicidal behaviour in primary care </li>
+    <li>Management of suicidal behaviour in the hospital emergency department </li>
+</ul></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Suicidal ideation and suicidal behaviour</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Counseling"/>
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Screening"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Emergency Medicine"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Geriatrics"/>
+      <fieldvalue value="Pediatrics"/>
+      <fieldvalue value="Psychiatry"/>
+      <fieldvalue value="Psychology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Emergency Medical Technicians/Paramedics"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Patients"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Psychologists/Non-physician Behavioral Health Clinicians"/>
+      <fieldvalue value="Public Health Departments"/>
+      <fieldvalue value="Social Workers"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To improve the health care provided to patients with suicidal behaviour </li>
+    <li>To provide recommendations to health professionals about assessment, treatment and prevention </li>
+    <li>To help patients, families and close friends by preparing information specifically targeted for them, and improve communication between health professionals and patients with suicidal behaviour and their families </li>
+    <li>To develop indicators that can be used to assess the quality of care </li>
+    <li>To identify priority areas for future research </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adolescents, adults and the elderly who are at risk of suicide or who are exhibiting suicidal ideation or suicidal behaviour</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Evaluation/Treatment</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Assessment of risk factors associated with suicidal behaviour: individual risk factors, family and context risk factors, other risk factors, precipitating factors, protective factors </li>
+    <li>Suicide risk assessment
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Clinical interview </li>
+        <li>Assessment scales (e.g., Beck's Hopelessness, Suicidal Ideation and Suicide Intent scales, Beck Depression Inventory and the Hamilton Rating Scale for Depression) </li>
+    </ul>
+    </li>
+    <li>Assessment and management of suicidal ideation and behaviour in primary care
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Addressing suicidal ideation in primary care </li>
+        <li>Assessment of suicidal behaviour in primary care </li>
+        <li>Criteria for referral from primary care </li>
+    </ul>
+    </li>
+    <li>Assessing and managing patients with suicidal behaviour in the Emergency Department
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Classification of patients (triage) in the emergency department </li>
+        <li>Evaluation of patients with suicidal behaviour in emergency department </li>
+        <li>Training medical staff in the emergency department </li>
+        <li>Hospital admission criteria for patients with suicidal behaviour </li>
+    </ul>
+    </li>
+    <li>Psychotherapeutic interventions in the treatment of suicidal behaviour (specialist care)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Cognitive-behavioural therapies </li>
+        <li>Interpersonal psychotherapy </li>
+        <li>Family therapy </li>
+        <li>Psychodynamic therapy </li>
+    </ul>
+    </li>
+    <li>Pharmacological treatment of suicidal behaviour (specialist care)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Antidepressants (selective serotonin reuptake inhibitors) </li>
+        <li>Anxiolytics </li>
+        <li>Lithium </li>
+        <li>Anticonvulsants </li>
+        <li>Antipsychotic drugs (clozapine) </li>
+    </ul>
+    </li>
+    <li>Combination psychotherapeutic and pharmacological management (specialist care) </li>
+    <li>Electroconvulsive therapy (specialist care) </li>
+</ol>
+<p><strong>Prevention</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>General measures to prevent suicidal behaviour
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>International suicidal behaviour prevention programmes </li>
+        <li>Enhancing protective factors and resilience </li>
+        <li>Restricting access to methods for suicide </li>
+        <li>Considerations for the media and suicide (communication media, the Internet) </li>
+        <li>Training programmes for the prevention of suicidal behaviour for health professionals and non-health professionals </li>
+    </ul>
+    </li>
+    <li>Screening for suicide risk
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Fundamentals of screening </li>
+        <li>Screening for suicide risk in specific populations (adults, childhood and adolescence, older people, prisoners) </li>
+        <li>Considerations for possible adverse effects of screening </li>
+    </ul>
+    </li>
+    <li>Prevention of suicidal behaviour in childhood and adolescence and older people
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Assessment of risk and protective factors </li>
+        <li>Detecting and assessing suicide risk </li>
+        <li>Psychometric tests </li>
+        <li>Preventive interventions </li>
+    </ul>
+    </li>
+    <li>Prevention of suicidal behaviour in other risk groups (patients with high dependency or serious somatic illness, patient carers, persons at risk of suicide due to employment type or status, persons who suffer domestic violence, prison population) </li>
+    <li>Interventions for family, friends and professionals after a suicide
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Needs and expectations of family and friends after a suicide </li>
+        <li>Preventive interventions in families and friends </li>
+        <li>Community interventions </li>
+        <li>Interventions for health professionals after the suicide of a patient </li>
+    </ul>
+    </li>
+    <li>Clinical intervention programmes for suicidal behaviour in Spain </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Rates of:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Suicide (lethal outcome) </li>
+        <li>Suicidal ideation </li>
+        <li>Suicidal behavior </li>
+    </ul>
+    </li>
+    <li>Incidence and severity of emotional symptoms (e.g., depression, anxiety, hopelessness) </li>
+    <li>Sensitivity and specificity of screening and diagnostic measures </li>
+    <li>Efficacy of therapeutic intervention </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Literature database search: 1) Specialising in systematic reviews, such as the <em>Cochrane Library Plus</em> and the National Health Service (NHS) <em>Centre for Reviews and Dissemination</em> database (Health Technology Assessment [HTA], Database of Abstracts Reviews of Effectiveness [DARE], and National Health Service Economic Evaluation Database [NHSEED]); 2) Specialising in clinical practice guidelines (CPGs) and other synthesis resources, such as Turning Research into Practice (TRIP), the <em>National Guideline Clearinghouse</em> and <em>Gu&amp;iacute;aSalud</em>; 3) General, such as Medline (PubMed), Excerpta Medical Database (EMBASE) (Ovid), ISI WEB, Bibliographic Index of Health Sciences (IBECS) and the Spanish Medical Index (IME); as well as specialist, such as PsycINFO. Languages: English, French, Spanish, Italian and Portuguese. An initial literature search was conducted without any time limit of all existing CPGs in the major bibliographic databases, and their methodological quality was assessed. Secondly, a systematic search of original studies (e.g. randomised controlled trials [RCTs], observational studies and diagnostic test studies) was conducted in the selected databases, using a search strategy, inclusion and exclusion criteria and a subsequent manual literature search of the bibliography included in the selected items.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Scottish Intercollegiate Guidelines Network (SIGN) Levels of Evidence</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Levels of Evidence: Scottish Intercollegiate Guidelines Network (SIGN)&quot;>
+    <tbody>
+        <tr>
+            <th width=&quot;5%&quot; class=&quot;Center&quot; valign=&quot;top&quot;>1++</th>
+            <td valign=&quot;top&quot;>High quality meta-analyses, systematic reviews of clinical trials or high-quality clinical trials with very low risk of bias</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>1+</th>
+            <td valign=&quot;top&quot;>Well-conducted meta-analyses, systematic reviews of clinical trials, or well-conducted clinical trials with little risk of bias</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>1-</th>
+            <td valign=&quot;top&quot;>Meta-analyses, systematic reviews of clinical trials or clinical trials with high risk of bias</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>2++</th>
+            <td valign=&quot;top&quot;>High quality systematic reviews of case control or cohort studies. High quality case control or cohort studies with a very low risk of confounding or bias and a high probability that the relationship is causal </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>2+</th>
+            <td valign=&quot;top&quot;>Well-conducted case control or cohort studies with a low risk of confounding or bias and a moderate probability that the relationship is causal</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>2-</th>
+            <td valign=&quot;top&quot;>Cohort or case-control studies with a high risk of bias and a significant risk that the relationship is not causal</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>3</th>
+            <td valign=&quot;top&quot;>Non-analytical studies such as case reports and case series</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>4</th>
+            <td valign=&quot;top&quot;>Expert opinion</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;><strong>Note</strong>: Studies classified as 1-and 2- must not be used in the preparation of recommendations due to their high potential for bias.</p>
+<p class=&quot;Note&quot;>Source: Scottish Intercollegiate Guidelines Network. Forming guideline recommendations. In: SIGN 50: A guideline developers' handbook: Edinburgh: SIGN; 2001.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Assessment of the quality of studies and summary of evidence was done for each question, as recommended by the <em>Scottish Intercollegiate Guidelines Network</em> (SIGN).</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Informal Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The steps followed were:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Constitution of the guideline development group, composed of three methodology experts from the Galician Health Technology Assessment Agency (avalia-t) and a group of health professionals (clinical group). The clinical group in the first part of the guide (evaluation and treatment) consisted of the following: 7 psychiatrists, 4 psychologists, a family doctor, a hospital emergency department physician and a mental health nurse. The group for the second part of the guide (prevention) consisted of the following: 6 psychiatrists and a hospital resident physician in psychiatry, 2 clinical psychologists, a resident psychologist, a family doctor and a mental health nurse. </li>
+    <li>Formulation of clinical questions using the PICO format: Patient problem or population (P), Intervention (I), Comparison (C) and Outcome (O). </li>
+    <li>Recommendations were made based on the Scottish Intercollegiate Guidelines Network (SIGN) &quot;formal evaluation&quot; or &quot;reasoned judgment&quot; approach. The classification of evidence and grading of recommendations was performed using the SIGN system. Controversial recommendations or those with no evidence were resolved by informal consensus of the development group. Expert contributors participated in the framing of the clinical questions and the reviews of various sections of the guide and its recommendations. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Scottish Intercollegiate Guidelines Network (SIGN) Grades of Recommendation</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Grades of Recommendation for Intervention Studies: Scottish Intercollegiate Guidelines Network (SIGN)&quot;>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>A</th>
+            <td valign=&quot;top&quot;>At least one meta-analysis, systematic review or clinical trial rated as 1++ and directly applicable to the target population of the guideline, or a body of evidence consisting of studies rated as 1+ and showing overall consistency of results.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>B</th>
+            <td valign=&quot;top&quot;>A body of evidence consisting of studies rated as 2++, directly applicable to the target population of the guideline and showing overall consistency of results; or c evidence extrapolated from studies rated as 1++ or 1 +.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>C</th>
+            <td valign=&quot;top&quot;>A body of evidence consisting of studies rated as 2+, directly applicable to the target population of the guideline and showing overall consistency of results; or evidence extrapolated from studies rated as 2++.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>D</th>
+            <td valign=&quot;top&quot;>Evidence level 3 or 4; or evidence extrapolated from studies rated as 2+.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Q</th>
+            <td valign=&quot;top&quot;>Evidence taken from relevant qualitative studies of appropriate quality. This category is not considered by SIGN.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Good Clinical Practice (GCP)<sup>1</sup></th>
+            <td valign=&quot;top&quot;>Recommended practice based on clinical experience and consensus of the editorial team.</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;><sup>1</sup>Sometimes the development group wishes to highlight an important practical aspect for which there is probably no supporting evidence. In general, these cases are related to an aspect of treatment generally accepted to be good clinical practice, and is evaluated as a point of good clinical practice. These messages are not an alternative to the recommendations based on evidence, but should be considered only when there is no other way of highlighting that aspect.</p>
+<p class=&quot;Note&quot;>The recommendations adapted from a CPG are indicated with the superscript<sup>CPG</sup>.</p>
+<p class=&quot;Note&quot;>Source: Scottish Intercollegiate Guidelines Network. Forming guideline recommendations. In: SIGN 50: A guideline developers' handbook: Edinburgh: SIGN; 2001.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline developer reviewed published cost analyses.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Expert contributors participated in the framing of the clinical questions and the reviews of various sections of the guide and its recommendations. External reviewers participated in the review of the draft guide, and these were proposed by representatives of various scientific societies and associations related to suicidal behaviour, as well as by renowned professionals proposed by the development group. In addition, a group of patients and families contributed to the preparation of the information for families section and to its external review.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Appropriate management of suicidal behaviour in adolescents, adults, and the elderly </li>
+    <li>Improved communication between health professionals and patients with suicidal behaviour and their families </li>
+</ul>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Electroconvulsive therapy needs to be performed under general anaesthesia and immediate side effects such as mental confusion, amnesia, headache and short-term cognitive disorders have been described. </li>
+    <li>Since the 1990s there has been controversy about the possible relationship between the new generation antidepressants with suicidal ideation and behaviour in childhood and adolescence. Studies published to date yield contradictory results in the attribution of a suicidogenic role to antidepressants. To reach a conclusion of this nature, all biological, psychological and social factors associated with suicidal act must be isolated, because it is a multifactorial act not attributable to a single or specific cause. Refer to the original guideline document for additional discussion. </li>
+    <li>It is important to restrict the daily amount of drugs available to potentially suicidal patients, since some medications can be lethal in overdose. </li>
+    <li>False-positive and false-negative results of screening tests </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>This clinical practice guideline (CPG) is an aid to decision making in health care. It is not mandatory nor does it replace the clinical judgment of healthcare professionals. </li>
+    <li>The guideline covers the care that adolescents, adults and the elderly who are at risk of suicide or who are exhibiting suicidal ideation or suicidal behavior can expect to receive from healthcare professionals in both primary care and specialised care, as well as the preventive aspects. Areas that are not addressed include: 1) the somatic treatment of a suicidal behaviour episode, 2) treatments not included in the service portfolio, 3) the organisation of healthcare services, and 4) ethical and moral aspects. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Dissemination and Implementation Strategy</strong></p>
+<p>Clinical practice guidelines (CPG) are tools for promoting greater quality and equity in the provision of healthcare and to assist in decision making. Their main purpose is to convert scientific knowledge into specific recommendations that will help the clinician in clinical practice, thus appropriate dissemination and implementation are crucial.</p>
+<p>This CPG has two versions, the complete and the summary version, as well as two information documents for patients and families (on suicidal behaviour and the grief process after a suicide) and one about methodological material. The full version, information for patients and the methodology document can be accessed via the website of the Galicia Health Technology Assessment Agency (<a href=&quot;http://avalia-t.sergas.es&quot; title=&quot;Galicia Health Technology Assessment Agency Web site&quot;>http://avalia-t.sergas.es</a>) and Gu&amp;iacute;aSalud (<a href=&quot;http://portal.guiasalud.es&quot; title=&quot;GuiaSalud Web site&quot;>http://portal.guiasalud.es</a>).</p>
+<p>The proposed strategies for the dissemination and implementation of this CPG are as follows:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Official presentation of the guide by health authorities and individual delivery to potential professional users. </li>
+    <li>Dissemination of the guide in electronic format on the websites of the health services, companies and associations involved in the project. </li>
+    <li>Distribution of information to patients and family and friends by working with different patient associations. </li>
+    <li>Delivery of the guide to both national and international CPG database collectors. </li>
+    <li>Presentation of the guideline in primary and specialty care through interactive lectures and workshops with patients, family members and concerned citizens. </li>
+    <li>Presentation of the guide in scientific activities (conferences, congresses and meetings). </li>
+    <li>To be used in online and/or on-site training for the management and assessment of patients with suicidal ideation or behaviour. </li>
+    <li>Publication of the guide in medical and psychological journals. </li>
+    <li>Establishment of best practice criteria for patients with suicidal ideation and/or behaviour in programme contracts and clinical management contracts. </li>
+    <li>Establishing clinical decision support systems that integrate the guide with selected indicators in the software used in primary care, emergency care or specialised care. </li>
+    <li>Translation of the full version into English. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Audit Criteria/Indicators"/>
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Foreign Language Translations"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Quick Reference Guides/Physician Guides"/>
+      <fieldvalue value="Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+      <fieldvalue value="Safety"/>
+      <fieldvalue value="Timeliness "/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Working Group of the Clinical Practice Guideline for the Prevention and Treatment [trunc]. Clinical practice guideline for the prevention and treatment of suicidal behaviour. Madrid (Spain): Ministry of Health and Social Policy, Galician Health Technology Assessment Agency; 2012. 382 p.  [682 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2012"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="Galician Health Technology Assessment Agency - State/Local Government Agency [Non-U.S.]"/>
+      <fieldvalue value="GuiaSalud - National Government Agency [Non-U.S.]"/>
+      <fieldvalue value="Ministry of Health (Spain) - National Government Agency [Non-U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This clinical practice guideline (CPG) was financed by the agreement signed by the Carlos III Health Institute, an autonomous body of the Ministry of Science and Research, and the Galician Agency for Health Technology Assessment (AVALIA-T) within the framework of cooperation provided for in the Ministry of Health National Health System Quality Plan, Social and Equality Policy.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Working Group of the Clinical Practice Guideline for the Prevention and Treatment of Suicidal Behaviour</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Working Group Members</em>: Mar&amp;iacute;a &amp;Aacute;lvarez Ariza, Doctor of Medicine, Specialist in Psychiatry, Complejo Hospitalario Universitario de Vigo (Pontevedra); Gerardo Atienza Merino, Doctor of Medicine, Technician in Galician Agency for Health Technology Assessment, Department of Health; Mar&amp;iacute;a Jos&amp;eacute; &amp;Aacute;vila Gonz&amp;aacute;lez, Degree in Medicine, Specialist in Psychiatry, Complejo Hospitalario Universitario de Santiago (A Coru&amp;ntilde;a); Celia Canedo Magari&amp;ntilde;os, Doctor of Medicine, Specialist in Psychiatry, Hospital Lucus Augusti de Lugo; Manuel Castro Bouzas, Degree in Psychology, Specialist in Clinical Psychology, Ferrol Health District (A Coru&amp;ntilde;a); Jes&amp;uacute;s Combarro Mato, Degree in Medicine, Specialist in Family and Community Medicine, Culleredo Primary Health Centre (A Coru&amp;ntilde;a); Elena de las Heras Li&amp;ntilde;ero, Doctor of Medicine, Specialist in Psychiatry, Complejo Hospitalario Universitario de Vigo (Pontevedra); Rafael Fern&amp;aacute;ndez Mart&amp;iacute;nez, PhD in Psychology, Specialist in Clinical Psychology, Complejo Hospitalario Universitario de Vigo (Pontevedra); Ernesto Ferrer G&amp;oacute;mez del Valle, Doctor of Medicine, Specialist in Psychiatry, Complejo Hospitalario de Ourense; Alejandro Garc&amp;iacute;a Caballero, Doctor of Medicine, Specialist in Psychiatry, Complejo Hospitalario de Ourense; Amparo Gonz&amp;aacute;lez Garc&amp;iacute;a, Specialist in Mental Health Nurse, Complejo Hospitalario de Ourense; Delia Guiti&amp;aacute;n Rodr&amp;iacute;guez, Degree in Psychology, Specialist in Clinical Psychology, Hospital Lucus Augusti de Lugo; Ekaterina Kokoulina Cherevach, Degree in Psychology, Resident Psychologist, Complejo Hospitalario Universitario de Vigo (Pontevedra); Cristina Losada P&amp;eacute;rez, Degree in Medicine, Resident Physician (Psychiatry), Complejo Hospitalario Universitario de Vigo (Pontevedra); Mar&amp;iacute;a del Carmen Maceira Rozas, Degree in Pharmacy, Technician in Galician Agency for Health Technology Assessment, Department of Health; Bel&amp;eacute;n Mart&amp;iacute;nez Alonso, Degree in Medicine, Specialist in Psychiatry, Child and Adolescent Mental Health Unit, Complejo Hospitalario Universitario de Vigo (Pontevedra); Jos&amp;eacute; Mazaira Castro, Degree in Medicine, Specialist in Psychiatry, Child and Adolescent Mental Health Unit, Complejo Hospitalario Universitario de Santiago (A Coru&amp;ntilde;a); M&amp;ordf; Luisa Mosteiro &amp;Aacute;lvarez, Degree in Medicine, Emergency Department Physician, Complejo Hospitalario de Pontevedra; Laura P&amp;eacute;rez M&amp;eacute;ndez, Degree in Psychology, Specialist in Clinical Psychology, Complejo Hospitalario de Pontevedra; Teresa Reijas Ruiz, PhD in Psychology, Specialist in Clinical Psychology, Complejo Hospitalario de Ourense; &amp;Aacute;gueda Rojo Pantoja, Doctor of Medicine, Specialist in Psychiatry, Complejo Hospitalario de Pontevedra; Henar Sancho D&amp;iacute;az, Degree in Medicine, Specialist in Psychiatry, Complejo Hospitalario Universitario de Vigo (Pontevedra); Margarita Tovar Bobo, Degree in Medicine, Specialist in Family and Community Medicine, Culleredo Primary Health Centre (A Coru&amp;ntilde;a); Yolanda Tri&amp;ntilde;anes Pego, Degree in Psychology, Technician in Galician Agency for Health Technology Assessment, Department of Health</p>
+<p><em>Coordination</em>: Ernesto Ferrer G&amp;oacute;mez del Valle, General Coordinator, Doctor of Medicine, Specialist in Psychiatry, Complejo Hospitalario de Ourense; Mar&amp;iacute;a &amp;Aacute;lvarez Ariza, Clinical Coordinator, Doctor of Medicine, Specialist in Psychiatry, Complejo Hospitalario Universitario de Vigo (Pontevedra); Gerardo Atienza Merino, Methodological Coordinator, Doctor of Medicine, Technician in Galician Agency for Health Technology Assessment, Department of Health</p>
+<p><em>Collaboration</em>: Beatriz Casal Acci&amp;oacute;n, Documentalist, Galician Agency for Health Technology Assessment, Department of Health</p>
+<p><em>Expert Collaborators</em>: Jose Teo Andr&amp;eacute;s Gonz&amp;aacute;lez, Degree in Law, Diario Atl&amp;aacute;ntico Subdirector, Vigo (Pontevedra); Enrique Baca-Garc&amp;iacute;a, Psychiatrist, Associate Professor of Psychiatry, Universidad Aut&amp;oacute;noma de Madrid, Psychiatry Service Head, Fundaci&amp;oacute;n Jim&amp;eacute;nez D&amp;iacute;az, Madrid; Jose Antonio Couceiro Gianzo, Specialist in Paediatrics, Paediatrics Service Head, Complejo Hospitalario de Pontevedra; Manuel A. Franco Mart&amp;iacute;n, Psychiatrist, Psychiatry Service Head, Complejo Asistencial de Zamora; Susana Garc&amp;iacute;a-Baquero Borrell, Fiscal, Vigo Prosecutor's office, (Pontevedra); Jos&amp;eacute; Ram&amp;oacute;n Garc&amp;iacute;a Palacios, Fiscal Delegate for Protection of Minors and Mentally Handicapped, Vigo Prosecution Service (Pontevedra); Ana Goicoechea Casta&amp;ntilde;o, Specialist in Paediatrics, Tui Health Centre (Pontevedra); Bel&amp;eacute;n Mart&amp;iacute;nez Alonso, Degree in Medicine, Specialist in Psychiatry, Child and Adolescent Mental Health Unit, Complejo Hospitalario Universitario de Vigo (Pontevedra); Jos&amp;eacute; Mazaira Castro, Degree in Medicine, Specialist in Psychiatry, Child and Adolescent Mental Health Unit, Complejo Hospitalario Universitario de Santiago (A Coru&amp;ntilde;a); Marta Medrano Varela, Medical Examiner, Specialist in Forensic Medicine, Clinical Section Head, Instituto de Medicina Legal de Galicia; Mar&amp;iacute;a Teresa Olcoz Chiva, Degree in Medicine, Geriatrics Service, Complejo Hospitalario Universitario de Vigo (Pontevedra); Daniel Portela Orjales, Doctor, Medical Branch Specialised care, Complejo Hospitalario Universitario de Vigo (Pontevedra); Carmen Senra Rivera, PhD in Psychology, University Lecturer, Department of Clinical Psychology and Psychobiology, University of Santiago de Compostela</p>
+<p><em>External Reviewers</em>: Enric Aragon&amp;eacute;s Benaiges, General Practitioner, Constant&amp;iacute; Primary Care Centre, Tarragona, Catalan Health Institute, representing SEMFYC; Tiburcio Angosto Saura, Psychiatrist, Psychiatry Service Head, Complejo Hospitalario Universitario de Vigo (Pontevedra); Manuel Arrojo Romero, Psychiatrist, Mental Health and Drug Addiction Service Head, Galician Health Service, Health Department, Government of Galicia; Germ&amp;aacute;n E. Berrios, Professor of Epistemology of Psychiatry (Emeritus), Life Fellow Robinson College, Department of Psychiatry, Cambridge University, UK; Julio Bobes Garc&amp;iacute;a, Psychiatrist, Professor of Psychiatry, University of Oviedo; Mercedes Borda M&amp;aacute;s, Clinical Psychologist, Professor in Departmentof Personality, Evaluation and Psychological Treatment, University of Seville, representing AEPCP; Rosendo Bugar&amp;iacute;n Gonz&amp;aacute;lez, General Practitioner, Folgueiras-Calo Health Centre (A Coru&amp;ntilde;a), representing SEMES; Alfredo Calcedo Barba, Psychiatrist, Psychiatry Service, Hospital Gregorio Mara&amp;ntilde;&amp;oacute;n (Madrid), representing SEPL; Mar&amp;iacute;a Consuelo Carballal Balsa, Nursing Coordinator, Mental Health and Drug Addiction Service Head, Galician Health Service, Health Department, Government of Galicia, representing ANESM; Ana D&amp;iacute;az P&amp;eacute;rez, Psychiatrist, Department of Psychiatry, Hospital de la Santa Creu i Sant Pau, Barcelona; Juan L. Fern&amp;aacute;ndez Hierro, Psychiatrist, Nicol&amp;aacute;s Pe&amp;ntilde;a Psychiatric Hospitalisation Unit, Complejo Hospitalario Universitario de Vigo (Pontevedra); M&amp;ordf; Dolores Franco Fern&amp;aacute;ndez, Psychiatrist, Department of Psychiatry, Faculty of Medicine, Seville, representing SEP; Lucas Giner Jim&amp;eacute;nez, Psychiatrist, Department of Psychiatry, Faculty of Medicine, University of Seville, representing SEP; Mariano Hern&amp;aacute;ndez Monsalve, Psychiatrist, Tetu&amp;aacute;n Mental Health Service Head (Madrid), representing AEN; Javier Jim&amp;eacute;nez Pietropaolo, Psychologist, Regional Legal and Psychosocial Care Service for the Community of Madrid, representing AIPIS and FEMASAM; Raquel Le&amp;oacute;n Lamela, Degree in Clinical Psychology, Social and Family Information and Support Service, FEAFES Galicia (A Coru&amp;ntilde;a); Germ&amp;aacute;n L&amp;oacute;pez Cortac&amp;aacute;ns, Mental Health Nurse, Salou Health Centre, Tarragona, representing FAECAP; Raimundo Mateos &amp;Aacute;lvarez, Psychiatrist, Psychogeriatric Unit, Complejo Hospitalario Universitario de Santiago (CHUS), (A Coru&amp;ntilde;a), representing SEPG; Berta Moreno K&amp;uuml;stner, Clinical Psychologist, Department of Personality, Evaluation and Psychological Treatment, University of Malaga, representing SEEP; Teresa Pacheco Tabuenca, Degree in Psychology, SAMUR Emergency Services, Madrid; Mario P&amp;aacute;ramo Fern&amp;aacute;ndez, Psychiatrist, Psychiatry Service, Complejo Hospitalario Universitario de Santiago (CHUS), (A Coru&amp;ntilde;a); Pablo Pascual Pascual, General Practitioner, Azpilaga&amp;ntilde;a Health Centre, Pamplona (Navarre), representing SEMFYC; V&amp;iacute;ctor P&amp;eacute;rez Sol&amp;aacute;, Psychiatrist, Psychiatry Unit Director, Hospital de la Santa Creu i Sant Pau, Barcelona; Manuel Portela Romero, General Practitioner, Padr&amp;oacute;n Health Centre (A Coru&amp;ntilde;a), representing SEMERGEN; Francisco Rodr&amp;iacute;guez Pulido, Psychiatrist, Professor of Psychiatry, University of La Laguna (Tenerife), representing AEN; Pilar Alejandra Saiz Martinez, Psychiatrist, Psychiatry Professor, Oviedo University, representing SEPB; Carmen Senra Rivera, Psychologist, University Lecturer, Department of Clinical Psychology and Psychobiology, University of Santiago de Compostela; Gustavo Turecki, Psychiatrist, Department of Psychiatry, Douglas Mental Health University Institute and Professor at McGill University, Montreal (Canada)</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All members of the working group, expert contributors, and expert reviewers have been asked to provide a disclosure of interests (see Annex 5 in the original guideline document).</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available in <a href=&quot;http://www.guiasalud.es/GPC/GPC_481_Conducta_Suicida_Avaliat_compl_en.pdf&quot; title=&quot;GuiaSalud Web site&quot;>English</a> and <a href=&quot;http://www.guiasalud.es/egpc/conducta_suicida/completa/index.html&quot; title=&quot;GuiaSalud Web site&quot;>Spanish</a> from the Gu&amp;iacute;aSalud Web site.</p>
+<p>Print copies: Available from the Conseller&amp;iacute;a de Sanidade. San L&amp;aacute;zaro S/N, 15 781. Santiago de Compostela. Spain</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A quick reference guide is available in Spanish from the <a href=&quot;http://portal.guiasalud.es/web/guest/catalogo-gpc?p_p_id=EXT_16&amp;amp;p_p_lifecycle=0&amp;amp;p_p_state=pop_up&amp;amp;p_p_mode=view&amp;amp;p_p_col_id=column-3&amp;amp;p_p_col_pos=1&amp;amp;p_p_col_count=4&amp;amp;_EXT_16_struts_action=/ext/catalogo/vista_previa&amp;amp;_EXT_16_contenidoId=67593&amp;amp;_EXT_16_version=2.7&amp;amp;_EXT_16_languageId=en_UK&amp;amp;_EXT_16_OtraVentana=si&quot; title=&quot;GuiaSalud Web site&quot;>Gu&amp;iacute;aSalud Web site</a>. </li>
+    <li>A summary version is available in Spanish from the <a href=&quot;http://portal.guiasalud.es/web/guest/catalogo-gpc?p_p_id=EXT_16&amp;amp;p_p_lifecycle=0&amp;amp;p_p_state=pop_up&amp;amp;p_p_mode=view&amp;amp;p_p_col_id=column-3&amp;amp;p_p_col_pos=1&amp;amp;p_p_col_count=4&amp;amp;_EXT_16_struts_action=/ext/catalogo/vista_previa&amp;amp;_EXT_16_contenidoId=67593&amp;amp;_EXT_16_version=2.7&amp;amp;_EXT_16_languageId=en_UK&amp;amp;_EXT_16_OtraVentana=si&quot; title=&quot;GuiaSalud Web site&quot;>Gu&amp;iacute;aSalud Web site</a>. </li>
+</ul>
+<p>In addition, proposed quality indicators can be found in Section 14 of the <a href=&quot;http://www.guiasalud.es/GPC/GPC_481_Conducta_Suicida_Avaliat_compl_en.pdf&quot; title=&quot;GuiaSalud Web site&quot;>original guideline document</a>.</p>
+<p>The Spanish version of the guideline is also available via a mobile application from the <a href=&quot;http://portal.guiasalud.es/web/guest/app&quot; title=&quot;GuiaSalud Web site&quot;>Gu&amp;iacute;aSalud Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Information for patients and relatives on suicidal ideation and behavior is provided in Annex 1 in the <a href=&quot;http://www.guiasalud.es/GPC/GPC_481_Conducta_Suicida_Avaliat_compl_en.pdf&quot; title=&quot;GuiaSalud Web site&quot;>original guideline document</a>. </li>
+    <li>Information for families and friends on bereavement after a suicide is provided in Annex 2 in the <a href=&quot;http://www.guiasalud.es/GPC/GPC_481_Conducta_Suicida_Avaliat_compl_en.pdf&quot; title=&quot;GuiaSalud Web site&quot;>original guideline document</a>. </li>
+</ul>
+<p>Patient information is also available in Spanish from the <a href=&quot;http://portal.guiasalud.es/web/guest/catalogo-gpc?p_p_id=EXT_16&amp;amp;p_p_lifecycle=0&amp;amp;p_p_state=pop_up&amp;amp;p_p_mode=view&amp;amp;p_p_col_id=column-3&amp;amp;p_p_col_pos=1&amp;amp;p_p_col_count=4&amp;amp;_EXT_16_struts_action=/ext/catalogo/vista_previa&amp;amp;_EXT_16_contenidoId=67593&amp;amp;_EXT_16_version=2.7&amp;amp;_EXT_16_languageId=en_UK&amp;amp;_EXT_16_OtraVentana=si#vers&quot; title=&quot;GuiaSalud Web site&quot;>GuiaSalud Web site</a>.</p>
+<p class=&quot;Note&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on July 3, 2014. The information was verified by the guideline developer on July 25, 2014. This summary was updated by ECRI Institute on October, 5 2015 following the U.S. Food and Drug Administration advisory on Clozapine.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 23:38:53 Oct 02, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:13:00 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 66.514 (3)
+  esindex: 0.011
+  captures_list: 83.099
+  CDXLines.iter: 11.233 (3)
+  PetaboxLoader3.datanode: 79.114 (4)
+  exclusion.robots: 0.396
+  exclusion.robots.policy: 0.377
+  RedisCDXSource: 1.976
+  PetaboxLoader3.resolve: 61.206
+  load_resource: 104.99
+-->

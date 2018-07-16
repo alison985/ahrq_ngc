@@ -1,0 +1,997 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app22.us.archive.org';v.server_ms=267;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10465?contentType=xml', '20180713015323')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713015323/https://www.guideline.gov/summaries/downloadcontent/ngc-10465?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713015323/https://www.guideline.gov/summaries/downloadcontent/ngc-10465?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10465?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713015323" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610075721/https://www.guideline.gov/summaries/downloadcontent/ngc-10465?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 01:53:23 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610075721/https://www.guideline.gov/summaries/downloadcontent/ngc-10465?contentType=xml" title="07:57:21 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 01:53:23 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930174617/https://www.guideline.gov/summaries/downloadcontent/ngc-10465?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 01:53:23 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713015323*/https://www.guideline.gov/summaries/downloadcontent/ngc-10465?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10465?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>ACR Appropriateness Criteria&amp;reg; advanced stage endometrial cancer.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Elshaikh MA, Yashar CM, Wolfson AH, Cardenes HR, Erickson B, Jhingran A, Jolly S, Kidd E, Lee LJ, Mayr NA, Moore D, Rao GG, Small W Jr, Varia MA, Wahl AO, Yuh W, Gaffney DK, Expert Panel on Radiation Oncology-Gynecology. ACR Appropriateness Criteria® advanced stage endometrial cancer [online publication]. Reston (VA): American College of Radiology (ACR); 2014. 10 p.  [51 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>ACR Appropriateness Criteria&amp;reg;</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Clinical Condition</span>: Advanced Stage Endometrial Cancer</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 1</span>: A 66-year-old woman with vaginal bleeding undergoes total abdominal hysterectomy, salpingo-oophorectomy and pelvic/para-aortic lymphadenectomy, peritoneal cytology. Pathology review of the specimens reveals uterine endometrioid carcinoma FIGO grade 3, invading 19 mm out of 20 mm myometrial thickness, with involvement of cervical stroma, right ovary, and negative peritoneal cytology. There was no lymphovascular space involvement. All 32 examined lymph nodes were negative for metastatic involvement. (Stage IIIA).</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 1: A 66-year-old woman with vaginal bleeding undergoes total abdominal hysterectomy, salpingo-oophorectomy and pelvic/para-aortic lymphadenectomy, peritoneal cytology. Pathology review of the specimens reveals uterine endometrioid carcinoma FIGO grade 3, invading 19 mm out of 20 mm myometrial thickness, with involvement of cervical stroma, right ovary, and negative peritoneal cytology. There was no lymphovascular space involvement. All 32 examined lymph nodes were negative for metastatic involvement. (Stage IIIA)&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Treatment</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;50%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Chemotherapy Alone</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Cisplatin and doxorubicin for 7 cycles</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Carboplatin/paclitaxel for 6&amp;ndash;7 cycles</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>6</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Carboplatin/paclitaxel for 3 cycles</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Radiation Treatment Alone</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Pelvic external beam</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>6</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Vaginal cuff brachytherapy alone</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Pelvic external beam with vaginal cuff brachytherapy</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>7</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Whole abdominal radiation treatment</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Combined Chemotherapy and Radiation Treatment</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Chemotherapy followed by radiation treatment</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>6</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Radiation treatment followed by chemotherapy</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>6</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Chemotherapy &amp;times; 3 cycles followed by radiation treatment, then 3 more chemotherapy cycles &quot;sandwich&quot;</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Radiation treatment with concurrent cisplatin followed by more chemotherapy after completion of radiation treatment</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>7</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 2</span>: A 65-year-old woman undergoes modified radical hysterectomy and salpingo-oophorectomy. Pelvic and para-aortic sampling was not performed. Preoperative imaging did not show pathologic adenopathy. Pathology review of the pathologic specimens reveals uterine clear cell carcinoma involving &amp;gt;50% of myometrial thickness and involving cervical stroma and serosa of the uterus. Lymphovascular space involvement was present. Peritoneal cytology was negative.</strong></p>
+<table style=&quot;cellspacing: 1;&quot; border=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 2: A 65-year-old woman undergoes modified radical hysterectomy and salpingo-oophorectomy. Pelvic and para-aortic sampling was not performed. Preoperative imaging did not show pathologic adenopathy. Pathology review of the pathologic specimens reveals uterine clear cell carcinoma involving &amp;gt;50% of myometrial thickness and involving cervical stroma and serosa of the uterus. Lymphovascular space involvement was present. Peritoneal cytology was negative&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Treatment</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;50%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Surgical restaging with lymph node dissection</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Adjuvant Management (If Surgical Restaging Is Not Feasible)</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Chemotherapy alone</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Radiation treatment alone</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4</td>
+            <td valign=&quot;top&quot;>Consider this procedure if the patient cannot tolerate chemotherapy. </td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Combined chemotherapy and radiation treatment</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>7</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Radiation Treatment Volume (If RT Alone)</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Vaginal cuff brachytherapy alone</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Pelvic external beam alone</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Pelvic and para-aortic external beam</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Pelvic external beam with vaginal cuff brachytherapy</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>7</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Pelvic, para-aortic external beam with vaginal cuff brachytherapy</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Radiation Treatment Volume (If Used with Chemotherapy)</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Vaginal cuff brachytherapy alone</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Pelvic external beam alone</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Pelvic and para-aortic external beam</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Pelvic external beam with vaginal cuff brachytherapy</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>7</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Pelvic and para-aortic external beam with vaginal cuff brachytherapy</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>If Vaginal Cuff Brachytherapy Is Used, Active Vaginal Length You Would Treat</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Upper one-third&amp;ndash;one-half</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>8</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Entire vaginal length</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 3</span>: A 69-year-old woman undergoes complete surgical staging including omentectomy. Preoperative staging CT was negative for metastatic disease. Pathology review of the specimens reveals uterine serous carcinoma, invading &amp;gt;50% of myometrial thickness, without involvement of cervical stroma or adnexa. Two out of 29 lymph nodes were involved with metastatic disease (one right obturator and one para-aortic node). Peritoneal cytology and omental specimen were negative of malignant cells. There was no lymphovascular space involvement. Patient agreed to receive multimodality treatment (chemotherapy and radiation therapy).</strong></p>
+<table style=&quot;cellspacing: 1;&quot; border=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 3: A 69-year-old woman undergoes complete surgical staging including omentectomy. Preoperative staging CT was negative for metastatic disease. Pathology review of the specimens reveals uterine serous carcinoma, invading greater than 50% of myometrial thickness, without involvement of cervical stroma or adnexa. Two out of 29 lymph nodes were involved with metastatic disease (one right obturator and one para-aortic node&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Treatment</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;50%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Radiation Treatment Consideration</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Repeat CT scan of the chest, abdomen and pelvis before RT if chemotherapy is delivered first</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>6</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Simulate the patient in supine position</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>7</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Simulate the patient in prone position with a belly board device</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Simulate with oral contrast</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>8</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Simulate with intravenous contrast</p>
+            <p>&amp;nbsp;</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>7</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Simulate with vaginal cuff radio opaque marker</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>7</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Radiation Treatment Volume</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Pelvic</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Pelvic and para-aortic external beam</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>8</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Pelvic, para-aortic external beam and vaginal cuff brachytherapy</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Vaginal cuff brachytherapy</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Pelvic external beam with vaginal cuff brachytherapy</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Radiation Therapy Technique</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>2-D</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>3-D conformal treatment</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>7</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>IMRT</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>8</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Radiation Therapy Dose to the Pelvis and/or Para-aortic Area</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>45 Gy</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>8</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>50.4 Gy</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>7</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>45&amp;ndash;50.4 Gy with vaginal cuff boost using brachytherapy</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>7</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 4</span>: A 67-year-old woman undergoes complete surgical staging. Pathology revealed 2009 FIGO stage IIIC2 endometrioid carcinoma grade 3. Radiologic restaging after 3 cycles of carboplatin and Taxol chemotherapy alone and before starting adjuvant radiation treatment showed interval disease progression with pelvic and para-aortic lymphadenopathy. The patient is healthy otherwise.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 4: A 67-year-old woman undergoes complete surgical staging. Pathology revealed 2009 FIGO stage IIIC2 endometrioid carcinoma grade 3. Radiologic restaging after 3 cycles of carboplatin and Taxol chemotherapy alone and before starting adjuvant radiation treatment showed interval disease progression with pelvic and para-aortic lymphadenopathy. The patient is healthy otherwise&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Treatment</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;50%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Management</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Continue same chemotherapy alone regimen with 3&amp;ndash;6 more cycles</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Start different chemotherapy alone regimen</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Surgical debulking prior to further adjuvant therapy</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Radiation treatment alone to the pelvis and para-aortic area</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>6</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Radiation therapy with chemotherapy</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>7</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Consider palliative care/hospice approach</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 5</span>: A 51-year-old woman undergoes complete surgical staging. Pathology showed uterine endometrioid carcinoma FIGO grade 2, &amp;gt;50% of myometrial thickness, with involvement of cervical stroma and left fallopian tube. Two pelvic lymph nodes out of 30 pelvic/para-aortic lymph nodes were positive for metastatic involvement. Assume adjuvant chemotherapy and radiation treatment (pelvic and vaginal cuff) have been completed. </strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 5: A 51-year-old woman undergoes complete surgical staging. Pathology showed uterine endometrioid carcinoma FIGO grade 2, &amp;gt;50% of myometrial thickness, with involvement of cervical stroma and left fallopian tube. Two pelvic lymph nodes out of 30 pelvic/para-aortic lymph nodes were positive for metastatic involvement. Assume adjuvant chemotherapy and radiation treatment (pelvic and vaginal cuff) have been completed&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Treatment</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;50%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Comments</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Routine Follow-up Recommendations</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Follow-up visits every 3&amp;ndash;6 months with pelvic examination with/without Pap smears for at least 5 years</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>8</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Discuss the use of vaginal dilator at least weekly for the first 12 months after treatment</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>8</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <p>Follow-up with imaging studies at least yearly in the first 5 years or sooner if clinically indicated</p>
+            </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Summary of Literature Review</strong></span></p>
+<p><strong>Introduction</strong></p>
+<p>Endometrial cancer is the most common gynecological malignancy in the United States and ranks second in gynecologic cancer mortality following only ovarian cancer. More than 84% of patients present with International Federation of Gynecology and Obstetrics (FIGO) stage I&amp;ndash;II disease. By definition, patients with advanced stage uterine carcinoma (FIGO stages III&amp;ndash;IV) are those with extrauterine disease and are at significant risk of dying from uterine cancer. They constitute a very heterogeneous group of patients with varying risk factors yielding highly variable clinical outcomes. Within the same FIGO stage, patients with disease involving multiple extrauterine sites fare worse compared with patients with involvement of a single site. In a series of patients with FIGO stage IIIC, researchers reported a 5-year relapse-free survival of 68% for patients with only lymph node metastases compared to 25% for patients with lymph node metastases plus peritoneal cytologic, vaginal, uterine serosal or adnexal involvement, or a combination of these.</p>
+<p>Additionally, data suggest that the survival outcome in patients with para-aortic lymphadenopathy is worse compared to those with pelvic only lymphadenopathy. The revised FIGO staging system acknowledged this difference in outcome and split stage IIIC into stage IIIC1 and IIIC2 to reflect a worse survival rate in women with para-aortic lymphadenopathy. On the other hand, uterine serous and clear cell carcinomas are biologically more aggressive than the endometrioid type with tendency for intra-abdominal spread. Although they comprise less than 15% of all endometrial carcinomas, they account for approximately 40% of the deaths caused by uterine carcinomas.</p>
+<p>Abdominal exploration (either as open or minimally invasive procedure) with hysterectomy, bilateral salpingo-ophorectomy, and surgical staging is the cornerstone of surgical management in patients with uterine carcinoma. Several studies reported a potential survival advantage of cytoreductive surgery in advanced stage endometrial carcinoma. Postoperatively, patients with advanced stage disease may require adjuvant therapy(s) to reduce the chance of tumor recurrence with the potential to improve survival. However, the optimal adjuvant therapy is yet to be established. At present, adjuvant therapeutic options could be chemotherapy alone, radiation therapy (RT) alone or a combined modality therapy (CMT). (See Variant 1 above.)</p>
+<p><strong>Rationale for Adjuvant Chemotherapy Alone</strong></p>
+<p>The role of systemic chemotherapy in the adjuvant setting in patients with advanced stage endometrial carcinoma has been established in the last few years based on data from several important studies. In a prospectively randomized phase III study conducted by Gynecologic Oncology Group (GOG), the authors reported the outcome of stage III&amp;ndash;IVA patients who were treated with adjuvant chemotherapy (cisplatin and doxorubicin [CA]) or whole abdominal radiation treatment (WART). The study showed that 5-year overall stage-adjusted survival was 50% for women who received chemotherapy compared to 38% for those who received adjuvant WART, although the pelvic control rate was better in women who were assigned to WART.</p>
+<p>To explore more effective chemotherapy regimens, the GOG conducted 2 prospective studies in patients with advanced or recurrent endometrial carcinoma. In GOG 0177, patients were randomized to receive cisplatin plus doxorubicin chemotherapy, with or without paclitaxel, for a maximum of 7 cycles. Patients receiving the 3-drug combination also received filgrastim. The authors reported that the addition of paclitaxel improves response rates as well as progression-free survival (PFS) and overall survival (OS). However, when used as adjuvant treatment following surgery and volume-directed RT, the addition of paclitaxel to cisplatin and doxorubicin (CAP) did not improve survival outcome. The percentage of patients alive and recurrence-free at 3 years was 62% for women who received cisplatin and doxorubicin versus 64% for women who received the 3-drug combination with P=.21.</p>
+<p>The preliminary results of another GOG study were recently presented (GOG 209). The study randomized patients to adjuvant chemotherapy consisting of CAP versus a less toxic regimen consisting of paclitaxel and carboplatin for 7 cycles. In this study adjuvant radiation treatment was also allowed before chemotherapy. The authors reported that paclitaxel and carboplatin were not inferior to CAP in terms of PFS and OS based on interim analysis. The toxicity profile favors the paclitaxel and carboplatin regimen.</p>
+<p><strong>Rationale for Radiation Treatment Alone</strong></p>
+<p>Traditionally, RT has been used in patients with advanced stage endometrial carcinoma to improve locoregional control after hysterectomy. Its role has been established in patients with early-stage intermediate and high-risk endometrial cancer. Pelvic irradiation with or without para-aortic RT is commonly used in patients with advanced uterine carcinoma with the expectation of reducing the risk of nodal recurrence; there have been no randomized studies to demonstrate survival advantage. Several retrospective studies have reported the impact of adjuvant RT in this setting, but most of these studies are small and include highly variable groups of patients. In general, these studies suggest some benefits from adjuvant RT after complete surgical staging. However, the mode of relapse in these patients was mainly systemic, reflecting the fact that single-treatment modality is not adequate to prevent disease recurrences.</p>
+<p>When RT is used alone, optimal treatment volume, however, is less defined. Various radiation treatment volumes include external beam radiation therapy (EBRT) to the pelvis with or without para-aortic irradiation, combination of EBRT and vaginal cuff brachytherapy, and WART, incorporating pelvic boost with or without vaginal cuff brachytherapy. (See Variant 2 above.)</p>
+<p><strong>Rationale for Combined Modality Therapy (Chemotherapy and Radiation Treatment)</strong></p>
+<p>The randomized phase III study (GOG 122) showed improved survival outcomes with CA chemotherapy compared to WART in women with advanced stage endometrial carcinoma. However, chemotherapy alone has been reported to have locoregional relapse rates of 18% to 46%. For patients randomized to chemotherapy in the GOG study 0122, only 50% were predicted to be alive and disease free at 5 years, highlighting the necessity for improving the therapeutic gain of adjuvant treatment of patients with advanced stage endometrial carcinoma.</p>
+<p>In another prospectively randomized study, patients with high-risk endometrial carcinoma (65% were FIGO stage III) were randomized to 5 cycles of adjuvant chemotherapy (CAP) versus adjuvant EBRT to the pelvis &amp;plusmn; para-aortic area. The 5-year PFS and OS were 63% and 66%, respectively, for patients who were treated with chemotherapy compared to 63% and 69% for those who were treated with RT. The authors reported no statistical differences between the 2 treatment groups in terms of PFS and OS. In this study, although RT delayed local relapse, chemotherapy delayed systemic relapse. In a pooled analysis of 2 randomized trials, the addition of chemotherapy to adjuvant RT improved PFS but not OS in stage I-III patients.</p>
+<p>In a multicenter retrospective study for patients with FIGO stage III endometrial carcinoma, 3-year relapse-free survival was 86.5% for patients who received CMT compared to only 65.8% and 44.1% for patients treated with chemotherapy alone or RT alone, respectively.</p>
+<p>A strategy combining chemotherapy and RT would potentially yield better results in this patient population by controlling both systemic and local recurrences. Several studies have reported that adjuvant therapy with both chemotherapy and RT for women with advanced stage endometrial cancer is well-tolerated. Several authors have reported that the prognosis of patients who received adjuvant CMT are superior compared to those treated with either RT alone, or chemotherapy alone. The currently open GOG study 0258 is randomizing patients to chemotherapy alone (6 cycles of carboplatin and paclitaxel) versus tumor-directed RT with concurrent cisplatin chemotherapy followed by 4 cycles of carboplatin and paclitaxel. It should shed light on this important question of whether or not the combination of chemotherapy and radiation treatment is superior to chemotherapy alone.</p>
+<p>The phase II trial run by the RTOG (protocol 9708) demonstrated feasibility and high efficacy of a combined chemotherapy and radiation treatment approach in endometrial cancer patients at high risk of recurrence. The regimen studied here involved cisplatin given together with pelvic radiation (45 Gy) followed by 4 cycles of cisplatin and paclitaxel. At 4 years, the cumulative proportions of patients with pelvic, regional, and distant recurrence are 2%, 2%, and 19%, respectively. The percentage of patients alive or alive and disease-free at 4 years was 85% and 81%, respectively. For stage III patients, 4-year OS and disease-free survival was 77% and 72%, respectively.</p>
+<p>The recently reported results of GOG 184 suggest that a combined volume-directed RT followed by systemic chemotherapy yields 3-year recurrence-free survival (RFS) of 62% to 64%. In this study, after surgical staging and volume-directed RT to the pelvis/para-aortic lymph nodes, women with stage III and IVA endometrial carcinoma were randomized to 6 cycles of CA with or without paclitaxel (CAP). There was no statistically significant difference in RFS with the addition of paclitaxel to the CA regimen. The OS data is not yet reported.</p>
+<p>The appropriate sequence of administering chemotherapy and volume-directed radiation treatment, as well as the most appropriate chemotherapy agents to use, remains controversial. Some investigators reported satisfactory experiences for patients with advanced stage endometrial carcinoma using adjuvant chemotherapy upfront followed by RT and followed by more chemotherapy &quot;sandwich&quot;. Other reported sequences of chemotherapy and RT included RT concurrently with cisplatin followed by more chemotherapy, RT upfront followed by chemotherapy, or chemotherapy followed by RT. However, there is no prospective study to date comparing these available sequences for chemotherapy and RT. (See Variant 3 above.)</p>
+<p><strong>Salvage Management of Recurrence</strong></p>
+<p>Although no established standard exists, the majority of the panel supports individualized care, which accounts for factors such as site and size of recurrence, patient's performance status, prior adjuvant therapy, etc. (See Variant 4 above.)</p>
+<p><strong>Radiation Treatment Volume and Planning</strong></p>
+<p>There appears to be little role for WART in patients with stage III&amp;ndash;IV endometrial carcinoma. The toxicity profile from WART suggests a better role for a more conformal or volume-directed RT with 3-dimensional (3-D) RT (3DRT) or intensity-modulated radiation therapy (IMRT). Different radiation techniques are available (e.g., 4-field box technique) to encompass the whole pelvis using bony landmarks to ensure adequate coverage of tumor bed and nodal areas at risk. Although no phase III trial has been designed to compare 3DRT and IMRT, IMRT may further improve treatment of areas at risk for tumor recurrence while sparing adjacent normal tissues.</p>
+<p>Several studies of IMRT for gynecologic malignancies showed that, compared with external beam pelvic RT, IMRT improved target coverage and reduced the volume of normal tissues receiving the prescription dose. Treatment studies of IMRT for gynecologic malignancies showed also that this reduction in dose resulted in a reduction in both acute and chronic gastrointestinal side effects compared with historic controls.</p>
+<p>At the time of simulation, and based on the site of treatment, the use of oral and/or intravenous (IV) contrast would help in accurately delineating the surrounding normal tissues as well as the target volume. Techniques to displace small bowel out of the pelvis to diminish treatment-related morbidity are discussed in other publications and are not the focus of this report (e.g., using prone position, treatment with a belly board, etc.). See the National Guideline Clearinghouse (NGC) summary of the American College of Radiology (ACR) <a href=&quot;/content.aspx?id=48301&quot; title=&quot;Guideline #10466&quot;>Appropriateness Criteria&amp;reg; role of adjuvant therapy in the management of early stage cervical cancer</a>.</p>
+<p>According to a recently published RTOG protocol 0418, it is highly encouraged to insert radio-opaque marker seeds into the vaginal apex before simulation to help identify the vaginal apex on the computed tomography (CT) scan. Markers or devices that distend or otherwise alter the vaginal anatomy are strongly discouraged. A minimum of 3 cm of the proximal vagina need to be contoured. It is very important to account for vaginal wall motion during planning and treatment. In addition, a nodal clinical target volume (CTV) is defined that includes the regional nodes (common iliac, internal and external iliac, and obturator &amp;plusmn; para-aortic lymph nodes) and paravaginal tissues. An online atlas detailing the nodal CTV and the vaginal CTV was posted on the RTOG website to help standardize delineation of these target volumes.</p>
+<p>For the purpose of this current American College of Radiology panel deliberation, the CTV dose is 45 Gy to 50 Gy at 1.8 Gy to 2.0 Gy per fraction. Vaginal cuff brachytherapy may be added to external beam as a boost (e.g., in case of cervical stromal involvement). It is recommended that the vaginal treatment volume include the proximal 3&amp;ndash;5 cm of the vaginal length.</p>
+<p><strong>Follow-up after Treatment</strong></p>
+<p>Although no established standard exists, the majority of the panel supports a general examination, including a complete history and a pelvic-rectal examination, conducted every 3 months for the first 2 years and semiannually thereafter as suggested by the Society of Gynecologic Oncology. Since the majority of patients with recurrence are usually symptomatic and virtually all recurred within 5 years, it seems reasonable that patients return to annual population-based general physical and pelvic examination after 5 years of recurrence-free follow-up. (See Variant 5 above.) It is recommended that all patients undergo a targeted investigation to rule out recurrence if symptomatic, since patients with local recurrence are potentially curable with further therapy.</p>
+<p>There is insufficient evidence to recommend the routine use of Pap smear, abdominal/pelvic CT scan, positron emission tomography (PET) or CA 125 testing to detect asymptomatic recurrences. However, imaging studies are strongly recommended if clinically indicated (e.g., suspicion of disease recurrence or to evaluate response to treatment).</p>
+<p>It is also strongly recommended patients be counseled on the potential adverse effects of treatment and their quality of life aspects, especially sexual quality of life, with each follow-up visit. Patients should be instructed to use a vaginal dilator at least weekly for the first 12 months after vaginal brachytherapy. Additionally, patients should be instructed to follow the screening guidelines for mammography and colonoscopy.</p>
+<p><strong>Summary</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients with advanced stage endometrial carcinoma constitute a very heterogeneous group of patients with varying prognostic factors yielding highly variable clinical outcomes. </li>
+    <li>Surgical staging is the cornerstone of curative management of these patients. Adjuvant multimodality therapy is highly recommended to reduce the chance of tumor recurrence with the potential to improve survival. A combination of systemic chemotherapy and radiation treatment is usually appropriate adjuvant treatment option. </li>
+    <li>Randomized studies are underway to monitor the progress in the treatment of advanced endometrial carcinoma. </li>
+    <li>For adjuvant radiation treatment, IMRT and 3-D radiation treatment are the most appropriate treatment techniques. </li>
+</ul>
+<p><strong>Abbreviations</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>2-D, 2-dimensional </li>
+    <li>3-D, 3-dimensional </li>
+    <li>CT, computed tomography </li>
+    <li>FIGO, International Federation of Gynecology and Obstetrics </li>
+    <li>IMRT, intensity-modulated radiation therapy </li>
+    <li>RT, radiation therapy </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Algorithms were not developed from criteria guidelines.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Advanced stage endometrial cancer</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Obstetrics and Gynecology"/>
+      <fieldvalue value="Oncology"/>
+      <fieldvalue value="Radiation Oncology"/>
+      <fieldvalue value="Radiology"/>
+      <fieldvalue value="Surgery"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Health Plans"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Managed Care Organizations"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Utilization Management"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To evaluate the appropriateness of treatment procedures for patients with advanced stage endometrial cancer</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Women with advanced stage endometrial cancer</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Chemotherapy (alone or adjuvant management)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Cisplatin and doxorubicin for 7 cycles </li>
+        <li>Carboplatin/paclitaxel for 6&amp;ndash;7 cycles </li>
+        <li>Carboplatin/paclitaxel for 3 cycles </li>
+    </ul>
+    </li>
+    <li>Radiation treatment (alone or adjuvant management)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Pelvic external beam </li>
+        <li>Pelvic and para-aortic external beam </li>
+        <li>Vaginal cuff brachytherapy alone (upper one-third/one-half or entire vaginal length) </li>
+        <li>Pelvic external beam with vaginal cuff brachytherapy </li>
+        <li>Whole abdominal radiation treatment </li>
+        <li>Pelvic and para-aortic external beam with vaginal cuff brachytherapy </li>
+    </ul>
+    </li>
+    <li>Combined chemotherapy and radiation treatment
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Chemotherapy followed by radiation treatment </li>
+        <li>Radiation treatment followed by chemotherapy </li>
+        <li>Chemotherapy &amp;times; 3 cycles followed by radiation treatment, then 3 more chemotherapy cycles &quot;sandwich&quot; </li>
+        <li>Radiation treatment with concurrent cisplatin followed by more chemotherapy after completion of radiation treatment </li>
+    </ul>
+    </li>
+    <li>Surgical restaging with lymph node dissection </li>
+    <li>Radiation treatment considerations
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Repeat computed tomography (CT) scan of the chest, abdomen and pelvis before radiation therapy if chemotherapy is delivered first </li>
+        <li>Simulation of the patient in supine position </li>
+        <li>Simulation of the patient in prone position with a belly board device </li>
+        <li>Simulation with oral contrast </li>
+        <li>Simulation with intravenous contrast </li>
+        <li>Simulation with vaginal cuff radio-opaque marker </li>
+    </ul>
+    </li>
+    <li>Radiation therapy technique </li>
+    <li>Radiation therapy dose to the pelvic and/or para-aortic area </li>
+    <li>Palliative care/hospice care </li>
+    <li>Routine follow-up
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Follow-up visits every 3 to 6 months with pelvic examination with/without Pap smears for at least 5 years </li>
+        <li>Discussing the use of vaginal dilator at least weekly for the first 12 months after treatment </li>
+        <li>Follow-up with imaging studies at least yearly in the first 5 years or sooner if clinically indicated </li>
+    </ul>
+    </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Overall survival </li>
+    <li>3-year and 5-year survival rate </li>
+    <li>Progression-free survival </li>
+    <li>Recurrence rate </li>
+    <li>Response rate </li>
+    <li>Toxicity </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Literature Search Procedure</strong></p>
+<p>Staff search in PubMed only for peer reviewed medical literature for routine searches. Any article or guideline may be used by the author in the narrative but those materials may have been identified outside of the routine literature search process.</p>
+<p>The Medline literature search is based on keywords provided by the topic author. The two general classes of keywords are those related to the condition (e.g., ankle pain, fever) and those that describe the diagnostic or therapeutic intervention of interest (e.g., mammography, MRI).</p>
+<p>The search terms and parameters are manipulated to produce the most relevant, current evidence to address the American College of Radiology Appropriateness Criteria (ACR AC) topic being reviewed or developed. Combining the clinical conditions and diagnostic modalities or therapeutic procedures narrows the search to be relevant to the topic. Exploding the term &quot;diagnostic imaging&quot; captures relevant results for diagnostic topics.</p>
+<p>The following criteria/limits are used in the searches.</p>
+<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>Articles that have abstracts available and are concerned with humans. </li>
+    <li>Restrict the search to the year prior to the last topic update or in some cases the author of the topic may specify which year range to use in the search. For new topics, the year range is restricted to the last 10 years unless the topic author provides other instructions. </li>
+    <li>May restrict the search to Adults only or Pediatrics only. </li>
+    <li>Articles consisting of only summaries or case reports are often excluded from final results. </li>
+</ol>
+<p>The search strategy may be revised to improve the output as needed.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The total number of source documents identified as the result of the literature search is not known.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Study Quality Category Definitions</strong></p>
+<p>Category 1 - The study is well-designed and accounts for common biases.</p>
+<p>Category 2 - The study is moderately well-designed and accounts for most common biases.</p>
+<p>Category 3 - There are important study design limitations.</p>
+<p>Category 4 - The study is not useful as primary evidence. The article may not be a clinical study or the study design is invalid, or conclusions are based on expert consensus. For example:</p>
+<ol style=&quot;list-style-type: lower-alpha;&quot;>
+    <li>The study does not meet the criteria for or is not a hypothesis-based clinical study (e.g., a book chapter or case report or case series description). </li>
+    <li>The study may synthesize and draw conclusions about several studies such as a literature review article or book chapter but is not primary evidence. </li>
+    <li>The study is an expert opinion or consensus document. </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The topic author drafts or revises the narrative text summarizing the evidence found in the literature. American College of Radiology (ACR) staff draft an evidence table based on the analysis of the selected literature. These tables rate the strength of the evidence (study quality) for each article included in the narrative text.</p>
+<p>The expert panel reviews the narrative text, evidence table, and the supporting literature for each of the topic-variant combinations and assigns an appropriateness rating for each procedure listed in the table. Each individual panel member assigns a rating based on his/her interpretation of the available evidence.</p>
+<p>More information about the evidence table development process can be found in the ACR Appropriateness Criteria&amp;reg; Evidence Table Development document (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus (Delphi)"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Rating Appropriateness</strong></p>
+<p>The appropriateness ratings for each of the procedures included in the Appropriateness Criteria topics are determined using a modified Delphi methodology. A series of surveys are conducted to elicit each panelist's expert interpretation of the evidence, based on the available data, regarding the appropriateness of an imaging or therapeutic procedure for a specific clinical scenario. American College of Radiology (ACR) staff distribute surveys to the panelists along with the evidence table and narrative. Each panelist interprets the available evidence and rates each procedure. The surveys are completed by panelists without consulting other panelists. The appropriateness rating scale is an ordinal scale that uses integers from 1 to 9 grouped into three categories: 1, 2, or 3 are in the category &quot;usually not appropriate&quot;; 4, 5, or 6 are in the category &quot;may be appropriate&quot;; and 7, 8, or 9 are in the category &quot;usually appropriate.&quot; Each panel member assigns one rating for each procedure for a clinical scenario. The ratings assigned by each panel member are presented in a table displaying the frequency distribution of the ratings without identifying which members provided any particular rating.</p>
+<p>If consensus is reached, the median rating is assigned as the panel's final recommendation/rating. Consensus is defined as eighty percent (80%) agreement within a rating category. A maximum of three rounds may be conducted to reach consensus. Consensus among the panel members must be achieved to determine the final rating for each procedure.</p>
+<p>If consensus is not reached, the panel is convened by conference call. The strengths and weaknesses of each imaging procedure that has not reached consensus are discussed and a final rating is proposed. If the panelists on the call agree, the rating is proposed as the panel's consensus. The document is circulated to all the panelists to make the final determination. If consensus cannot be reached on the call or when the document is circulated, &quot;No consensus&quot; appears in the rating column and the reasons for this decision are added to the comment sections.</p>
+<p>This modified Delphi method enables each panelist to express individual interpretations of the evidence and his or her expert opinion without excessive influence from fellow panelists in a simple, standardized and economical process. A more detailed explanation of the complete process can be found in additional methodology documents found on the <a href=&quot;http://www.acr.org/ac&quot; title=&quot;ACR Web site&quot;>ACR Web site</a> (see also the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Criteria developed by the Expert Panels are reviewed by the American College of Radiology (ACR) Committee on Appropriateness Criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The recommendations are based on analysis of the current literature and expert panel consensus.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Selection of appropriate treatment procedures for advanced stage endometrial cancer</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Side-effects and toxicities of radiation and chemotherapy. It is&amp;nbsp;strongly recommended patients be counseled on the potential adverse effects of treatment and their quality of life aspects, especially sexual quality of life, with each follow-up visit.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American College of Radiology (ACR) Committee on Appropriateness Criteria and its expert panels have developed criteria for determining appropriate imaging examinations for diagnosis and treatment of specified medical condition(s). These criteria are intended to guide radiologists, radiation oncologists, and referring physicians in making decisions regarding radiologic imaging and treatment. Generally, the complexity and severity of a patient's clinical condition should dictate the selection of appropriate imaging procedures or treatments. Only those examinations generally used for evaluation of the patient's condition are ranked. Other imaging studies necessary to evaluate other co-existent diseases or other medical consequences of this condition are not considered in this document. The availability of equipment or personnel may influence the selection of appropriate imaging procedures or treatments. Imaging techniques classified as investigational by the U.S. Food and Drug Administration (FDA) have not been considered in developing these criteria; however, study of new equipment and applications should be encouraged. The ultimate decision regarding the appropriateness of any specific radiologic examination or treatment must be made by the referring physician and radiologist in light of all the circumstances presented in an individual examination.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="End of Life Care"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Elshaikh MA, Yashar CM, Wolfson AH, Cardenes HR, Erickson B, Jhingran A, Jolly S, Kidd E, Lee LJ, Mayr NA, Moore D, Rao GG, Small W Jr, Varia MA, Wahl AO, Yuh W, Gaffney DK, Expert Panel on Radiation Oncology-Gynecology. ACR Appropriateness Criteria® advanced stage endometrial cancer [online publication]. Reston (VA): American College of Radiology (ACR); 2014. 10 p.  [51 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2014"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American College of Radiology - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American College of Radiology (ACR) provided the funding and the resources for these ACR Appropriateness Criteria&amp;reg;.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Committee on Appropriateness Criteria, Expert Panel on Radiation Oncology&amp;ndash;Gynecology</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Panel Members</em>: Mohamed A. Elshaikh, MD (<em>Principal Author</em>); Catheryn M. Yashar, MD (<em>Co-author</em>); Aaron H. Wolfson, MD (<em>Co-author</em>); Higinia Rosa Cardenes, MD, PhD (<em>Panel Vice-chair</em>); Beth Erickson, MD5; Anuja Jhingran, MD; Shruti Jolly, MD; Elizabeth Kidd, MD; Larissa J. Lee, MD; Nina A. Mayr, MD; David Moore, MD; Gautam G. Rao, MD; William Small Jr, MD; Mahesh A. Varia, MD; Andrew O. Wahl, MD; William Yuh, MD; David K. Gaffney, MD, PhD (<em>Panel Chair</em>)</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;https://acsearch.acr.org/docs/3083084/Narrative/&quot; title=&quot;American College of Radiology (ACR) Web site&quot;>American College of Radiology (ACR) Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>ACR Appropriateness Criteria&amp;reg;. Overview. Reston (VA): American College of Radiology; 2013 Nov. 3 p. Available from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/Overview.pdf&quot; title=&quot;American College of Radiology (ACR) Web site&quot;>American College of Radiology (ACR) Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Literature search process. Reston (VA): American College of Radiology; 2013 Apr.1 p. Available from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/LiteratureSearchProcess.pdf&quot; title=&quot;American College of Radiology (ACR) Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Evidence table development. Reston (VA): American College of Radiology; 2015 Nov. 5 p. Available from the <a href=&quot;https://www.acr.org/~/media/ACR/Documents/AppCriteria/EvidenceTableDevelopment.pdf?db=web&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>Appropriateness Criteria&amp;reg; advanced stage endometrial cancer. Evidence table. American College of Radiology; 2014. 30 p. Available from the <a href=&quot;https://acsearch.acr.org/docs/3083084/ET&quot; title=&quot;American College of Radiology (ACR) Web site&quot;>ACR Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on August 27, 2014.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Instructions for downloading, use, and reproduction of the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; may be found on the <a href=&quot;http://www.acr.org/Quality-Safety/Appropriateness-Criteria/TermsConditions&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 01:53:23 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:56:18 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 90.25 (3)
+  esindex: 0.011
+  captures_list: 116.878
+  CDXLines.iter: 12.764 (3)
+  PetaboxLoader3.datanode: 85.829 (4)
+  exclusion.robots: 0.272
+  exclusion.robots.policy: 0.26
+  RedisCDXSource: 10.085
+  PetaboxLoader3.resolve: 97.633
+  load_resource: 134.477
+-->

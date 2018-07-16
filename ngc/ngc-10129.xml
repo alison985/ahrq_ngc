@@ -1,0 +1,916 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app40.us.archive.org';v.server_ms=709;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10129?contentType=xml', '20160930202706')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930202706/https://www.guideline.gov/summaries/downloadcontent/ngc-10129?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930202706/https://www.guideline.gov/summaries/downloadcontent/ngc-10129?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10129?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930202706" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 20:27:06 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 20:27:06 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 20:27:06 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930202706*/https://www.guideline.gov/summaries/downloadcontent/ngc-10129?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10129?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Clinical practice guideline on sleep disorders in childhood and adolescence in primary care.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Guideline Development Group on Sleep Disorders in Childhood and Adolescence in Primary Care. Clinical practice guideline on sleep disorders in childhood and adolescence in primary care. Madrid (Spain): Health Technology Assessment Unit, Laín Entralgo Agency, Ministry of Health, Social Services and Equality (Spain); 2011. 288 p.  [430 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Levels of evidence (<strong>1++</strong> to <strong>4</strong>) and grades of recommendation (<strong>A</strong> to <strong>D</strong>, <strong>Q</strong> and <strong>good clinical practice points</strong>) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Assessment of Sleep Disorders</span></strong></p>
+<p><strong>Good clinical practice point</strong> - In a general assessment of children in Primary Care (PC) Health Centers, a medical history that includes the following is recommended: a description of sleep over a 24-hour period, the age of onset, incorrect sleep habits (schedules), behaviour, school performance, evaluation of the day (not just the night), family medical history of sleep disorders, if this is an acute or <strong><em>chronic</em></strong> temporary disorder, other biological functions that are affected, the use of medicines and drugs and the presence of other pathologies and/or syndromes.</p>
+<p><strong>Good clinical practice point</strong> - The use of <strong><em>key questions</em></strong> is recommended for detecting sleep disorders and to be able to discard other disorders (see Appendix 2 in the original guideline document).</p>
+<p><strong>Good clinical practice point</strong> - Percentiles curves for sleep duration can be used to help see the evolution of a child's sleep and for a comparison thereof with other children (see Appendix 2 in the original guideline document).</p>
+<p><strong>D</strong> - The use of a sleep-wake diary/log for at least 15 days is recommended in order to know the patient's sleep and wake times and to monitor the evolution thereof (see Appendix 5 in the original guideline document).</p>
+<p><strong>Good clinical practice point</strong> - If sleep-related breathing disorders, parasomnias, rhythmic movements and/or periodic limb movements are suspected, a home video-recording is recommended for the assessment thereof.</p>
+<p><strong>D</strong> - As a screening tool for sleep problems, the Brief Infant Sleep Questionnaire (BISQ) is recommended for infants under the age of 2 and a half (see Appendix 6 in the original guideline document).</p>
+<p><strong>D</strong> - As a screening tool of sleep problems in children from 2 to 18 years of age, the use of the BEARS questionnaire is recommended (B = Bedtime Issues, E = Excessive Daytime Sleepiness, A = Night Awakenings, R = Regularity and Duration of Sleep, S = Snoring) (see Appendix 6 in the original guideline document).</p>
+<p><strong>D</strong> - To assess the presence of sleep disorders in school age, the use of Bruni's Sleep Disturbance Scale for Children (SDSC) questionnaire is recommended (see Appendix 6 in the original guideline document).</p>
+<p><strong>Good clinical practice point</strong> - The schematic presented in Appendix 7 in the original guideline document is recommended for handling sleep problems/disorders in PC paediatric consultations using the aforementioned questionnaires.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Preventive Strategies for Sleep Disorders</span></strong></p>
+<p><strong>D</strong> - The characteristic aspects of sleep according to age ranges should be taken into account to be able to establish preventive recommendations (see Table 11 in the original guideline document).</p>
+<p><strong>Good clinical practice point</strong> - Parents, caretakers and/or adolescents should be informed about the preventive strategies of sleep problems during visits to Primary Care Health Centers according to the corresponding age (see Appendix 8.1 in the original guideline document).</p>
+<p><strong>Good clinical practice point</strong> - It is recommendable that educators keep in mind a series of preventive strategies of sleep problems to be able to adequately handle and inform parents/caretakers and/or adolescents, depending on the corresponding education-learning cycle (see Appendix 8.2 in the original guideline document).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>The Child Who Has Trouble Falling Asleep</span></strong></p>
+<p><strong>Insomnia</strong></p>
+<p><em>Diagnosis</em></p>
+<p><strong>D</strong> - The diagnosis should be made basically through a medical record, and sometimes with the help of the information gathered by the family in sleep-wake diaries/logs.</p>
+<p><em>Treatment</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Sleep Hygiene Strategies</span></p>
+<p><strong>C</strong> - Educational interventions that include sleep hygiene practices are recommended, in addition to information about the importance of and need for sleep (see Appendixes 8 and 9 in the original guideline document).</p>
+<p><span style=&quot;text-decoration: underline;&quot;>Psychological Interventions*</span></p>
+<p><strong>B</strong> - Techniques based on the principles of behavioral therapy (BT) for insomnia should at least include graduated extinction, after parent education. Other behavioral therapies that can be recommended are unmodified extinction, delaying bedtime in conjunction with the pre-sleep ritual and scheduled awakenings.</p>
+<p><strong>Good clinical practice point</strong> - Before recommending the graduated extinction technique, it is recommendable to assess the parent's tolerance to this technique, for which a series of questions can help (see Appendix 12 in the original guideline document).</p>
+<p><strong>B</strong> - For adolescents, sleep hygiene practices and behavioral interventions that at least include stimulus control is recommended for treating insomnia. Another intervention that could be recommended is cognitive restructuring.</p>
+<p><strong>B</strong> - For adolescents, sleep education and management programmes are recommended, including guidelines on sleep hygiene practices, instructions on stimulus control and information about consuming substances and the impact that sleep problems can have on mood and academic performance.</p>
+<p><strong>B</strong> - To reduce cognitive activation prior to sleep in adolescents who have insomnia and a tendency to think about their problems when it's time to go to bed, a structured problem-solving procedure is recommended.</p>
+<p class=&quot;Note&quot;>*Appendix 11 in the original guideline document includes information for PC professionals and for parents, caretakers and adolescents about the main interventions.</p>
+<p><span style=&quot;text-decoration: underline;&quot;>Pharmacological Interventions</span></p>
+<p><strong>D</strong> - The pharmacological treatment of paediatric insomnia requires a careful selection of patients, after having made the correct diagnosis according to the professional's judgement.</p>
+<p><strong>B</strong> - Pharmacological treatment is not recommended either as a first option or as an exclusive treatment strategy for paediatric insomnia.</p>
+<p><strong>D</strong> - The use of drugs must be preceded by the application of sleep hygiene practices.</p>
+<p><strong>D</strong> - Pharmacological treatment is always recommended in combination with non-pharmacological strategies such as behavioral interventions and parent education.</p>
+<p><strong>D</strong> - Medication should only be used in the short term, and the drug should be selected according to the problem&amp;mdash;short action for sleep onset problems and with a long half-life for maintenance problems&amp;mdash;thereafter monitoring the benefits and adverse effects.</p>
+<p><strong>D</strong> - Prior to starting the use of drugs, clear treatment objectives should be established together with the parents/caretakers or adolescents, and the use of other medicines, alcohol, drugs and the possibility of pregnancy should be explored.</p>
+<p><strong>Good clinical practice point</strong> - Pharmacological treatment of paediatric insomnia is recommended when:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The safety or welfare of the child is threatened. </li>
+    <li>The parents are unable to implement non-pharmacological interventions. </li>
+    <li>The insomnia is within the context of a medical illness or an acute stressor situation. </li>
+</ul>
+<p><strong>D</strong> - The pharmacological treatment of paediatric insomnia is not recommended when:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>There is an untreated, sleep-disorder breathing. </li>
+    <li>The insomnia is due to a developmentally based normal sleep behavior or due to false expectations of the parents about sleep. </li>
+    <li>The insomnia is due to a short duration, self-limited condition (e.g., teething). </li>
+    <li>There may be potential drug interactions with the usual medication or with substance or alcohol abuse. </li>
+    <li>It is not possible to follow up on and/or monitor the treatment (parents are incapable of going to scheduled appointments). </li>
+</ul>
+<p>Melatonin</p>
+<p><strong>Good clinical practice point</strong> - There is no evidence for recommending the use of melatonin in children under 6 years of age.</p>
+<p><strong>Good clinical practice point</strong> - The Spanish Agency of Medicines and Healthcare Products (AEMPS) has not authorised melatonin for paediatric insomnia. However, the outcomes obtained from trials in children between 6 and 12 years of age who have chronic sleep onset insomnia and who do not respond to educational interventions with sleep hygiene practices and psychological interventions suggest that once approved, the use of melatonin at a dose of 0.05 mg/kg, administered at least 1 to 2 hours before the desired bedtime, could be assessed.</p>
+<p><strong>Good clinical practice point</strong> - Melatonin must be chemically pure and always be administered at the same time and under adequate control by a paediatrician or a doctor specialising in sleep disorders, and the removal thereof should be assessed according to the clinical evolution. If, for any reason (forgotten, holiday, etc.), it cannot be administered at that time, the dose for that day should be eliminated.</p>
+<p><strong>Good clinical practice point</strong> - Professionals are advised to ask parents about any type of melatonin acquired at a store or health food store to avoid the use of melatonin of animal origin and/or uncontrolled doses.</p>
+<p><span style=&quot;text-decoration: underline;&quot;>Other Treatments</span></p>
+<p>Nutritional Supplements</p>
+<p><strong>B</strong> - More long-term comparative studies are needed to give a general recommendation for using nutritional supplements to treat paediatric insomnia.</p>
+<p>Medicinal Herbs</p>
+<p><strong>B</strong> - There is insufficient evidence to recommend the use of valerian or the use of valerian in combination with hops for treating paediatric insomnia.</p>
+<p><strong>D</strong> - Professionals are advised to ask parents/adolescents about any health food store product that is being taken or that may have been taken in order to alert them about the danger of self-medication in combination with drugs and herbal products.</p>
+<p>White Noise</p>
+<p><strong>B</strong> - There is insufficient evidence about efficacy and safety to recommend the use of white noise for treating paediatric insomnia.</p>
+<p><strong>Restless Legs Syndrome (RLS)</strong></p>
+<p><em>Diagnosis</em></p>
+<p><strong>Good clinical practice point</strong> - RLS should fundamentally be diagnosed through a complete medical record that includes personal and family medical history, a comprehensive physical examination and a haematological study (blood count, blood sugar, transaminases, kidney function, iron metabolism). The information gathered by families in sleep logs/diaries can be useful.</p>
+<p><strong>Good clinical practice point</strong> - It is advisable to keep in mind the following pathologies when posing a differential diagnosis: attention deficit hyperactivity disorder (ADHD), positional discomfort, growth pains, motor ticks, muscle pains, muscle cramps, bone pathology, acathisia and other illnesses such as skin diseases, rheumatic illnesses, peripheral polyneuropathy, radiculopathy or muscular dystrophy, hypnic myoclonus, myoclonic crises and parasomnias.</p>
+<p><em>Treatment</em></p>
+<p><strong>Good clinical practice point</strong> - In less serious cases of RLS, a series of general, non-pharmacological strategies are recommended, which include reducing or eliminating those factors that bring on RLS (limiting the consumption of caffeine, chocolate, nicotine, alcohol and drugs) and applying rules based on the principles of sleep hygiene practices, mainly, and recommendations to relatives about adequate sleep schedules for their children, depending on the age.</p>
+<p><strong>Good clinical practice point</strong> - To reduce discomfort in legs in class at school, family and school support is recommended, which can translate into strategies such as allowing the child to leave to take a walk during class, some physical activity during breaks or frequently changing positions.</p>
+<p><strong>D</strong> - More evidence is needed to make a general recommendation about physical exercise programmes for treating paediatric RLS.</p>
+<p><strong>D</strong> - The measurement of iron and ferritin levels in the blood is recommended if RLS symptoms are present, even when there is no anaemia or there is moderate anaemia.</p>
+<p><strong>Good clinical practice point</strong> - In the event that the serum ferritin levels are below 35 &amp;mu;g/l, oral treatment with iron is recommended, at a therapeutic dose of iron-deficiency anaemia, followed by subsequent analytical control.</p>
+<p><strong>Good clinical practice point</strong> - It is advisable that children with RLS who do not respond to the general strategies, to sleep hygiene practices or to the oral intake of iron be referred to secondary care or Hospital Care.</p>
+<p><strong>Delayed Sleep-Phase Syndrome (DSPS)</strong></p>
+<p><em>Diagnosis</em></p>
+<p><strong>D</strong> - DSPS must be diagnosed by clinical evaluation, for which sleep diaries/logs with information collected by families can be used if it is suspected.</p>
+<p><strong>Good clinical practice point</strong> - It is advisable to take into account the following for a differential diagnosis: both primary and secondary insomnia, inadequate sleep hygiene practices and some mood or anxiety disorders.</p>
+<p><strong>Good clinical practice point</strong> - Basic sleep hygiene practices are recommended for reducing factors that precipitate DSPS (see Appendix 8 in the original guideline document), with emphasis on the following: avoiding naps, understanding that the bed is for sleeping (and not for eating, studying, listening to music, talking on the phone, etc.), avoiding physical activity close to bedtime and avoiding excessive exposure to light (from the TV, computer, video games or other devices) at the end of the day and increasing exposure to natural light in the morning.</p>
+<p><strong>D</strong> - More evidence is needed to make a general recommendation for phototherapy or bright light for the treatment of DSPS in children.</p>
+<p><strong>Good clinical practice point</strong> - AEMPS has not authorised melatonin for DSPS in children, although the outcomes of trials on children over 6 years of age who have the delayed sleep-phase syndrome and who do not respond to sleep hygiene interventions suggest that, once approved, the use thereof could be assessed at a dose in the 0.3-6 mg range, up to 6 hours before the usual bedtime.</p>
+<p><strong>Good clinical practice point</strong> - Melatonin must always be administered under adequate control by a paediatrician or a doctor specialising in sleep disorders, and the removal thereof should be assessed according to the clinical evolution.</p>
+<p><strong>B, C</strong> - More evidence is needed to recommend chronotherapy for the treatment of DSPS in children.</p>
+<p><strong>D</strong> - The administration of vitamin B12 for the treatment of DSPS in children is not recommended.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>The Child Who Has Abnormal Events at Night</span></strong></p>
+<p><strong>Obstructive Sleep Apnea-Hypopnea Syndrome (OSAHS)</strong></p>
+<p><em>Diagnosis</em></p>
+<p><strong>Good clinical practice point</strong> - The diagnosis of suspected OSAHS in primary care health centers must be initiated according to adequate medical history and a physical examination (see Table 21 in the original guideline document), initially including three key questions (see Table 23 in the original guideline document) and paying attention to warning signs and symptoms (see Table 22 in the original guideline document).</p>
+<p><strong>D</strong> - Chervin's Pediatric Sleep Questionnaire (reduced PSQ) is recommended for helping to establish the diagnosis of suspected obstructive sleep apnea-hypopnea syndrome (OSAHS) (see Appendix 6 in the original guideline document).</p>
+<p><strong>D</strong> - In addition, a home video-recording could be requested, which can be assessed using Sivan's videotape recording score to help with the diagnostic suspicion (see Appendix 6 in the original guideline document).</p>
+<p><strong>D</strong> - In the event of the confirmed clinical suspicion of OSAHS, it is advisable to refer the patient to secondary care or hospital care (see Chapter 9, algorithm 4 in the original guideline document).</p>
+<p><em>Treatment</em></p>
+<p><strong>Good clinical practice point</strong> - As treatment for OSAHS in primary care health centers, a conservative treatment is recommended (sleep hygiene strategies, see Appendix 8 in the original guideline document) until definitive treatment is established at a secondary care or Hospital Care and after the treatment.</p>
+<p><strong>Good clinical practice point</strong> - Clinical re-assessment and follow-up after treatment of children with OSAHS are recommended upon return to primary care health centers after having been treated in hospital care. Children should be sent back to hospital care under certain circumstances (see Chapter 9, algorithm 4 in the original guideline document).</p>
+<p><strong>Sleepwalking, Night or Sleep Terrors and Confusional Arousals</strong></p>
+<p><em>Diagnosis</em></p>
+<p><strong>D</strong> - A complete medical record should be drawn up, including a detailed description of the episodes, with special emphasis on the age of onset, the time when it occurs, the frequency, the regularity and duration of the episodes, any family medical history of sleep disorders and factors associated with predisposition or precipitation of episodes, as well as the impact that the disorder is causing to the patient's daily life.</p>
+<p><strong>Good clinical practice point</strong> - In addition to a physical examination, it is recommendable to complete the medical history with an assessment of development and an assessment of behaviour in the social, family and school environments.</p>
+<p><strong>D</strong> - It is advisable to keep in mind the following pathologies when posing a differential diagnosis: rapid-eye movement (REM) sleep behaviour disorder, nightmares, nocturnal panic attacks and nocturnal epilepsy (nocturnal frontal lobe epilepsy).</p>
+<p><strong>C</strong> - It is advisable to use the Frontal Lobe Epilepsy and Parasomnias (FLEP) scale in the event that there might be diagnostic doubts between frontal lobe epilepsy and parasomnias (Appendix 6 in the original guideline document).</p>
+<p><strong>D</strong> - It is recommendable to refer patients to a unit specialising in sleep disorders or to centres of reference if they show symptoms suggesting unusual or atypical parasomnias (due to the age of onset, the time when the episodes occur, the frequency, the regularity and duration of the episodes and the motor patterns), if another sleep disorder is suspected as the trigger (obstructive sleep apnea syndrome or periodic leg movements), in cases when legal considerations may require it or when there is no response to conventional treatment.</p>
+<p><strong>D</strong> - Cases in which it is suspected that a sleep disorder may be related to epileptic crises should be referred to a unit specialising in sleep disorders or to a secondary care or hospital care. This is also true for assessing sleep-related behaviours that are violent or potentially dangerous to the patient or others.</p>
+<p><strong>D</strong> - Referring cases of typical parasomnias that are not complicated or that have not caused injuries to a unit specialising in sleep disorders or to a secondary care or Hospital Care is not recommended.</p>
+<p><em>Treatment</em></p>
+<p><strong>Good clinical practice point</strong> - It is recommendable to discuss the generally benign and self-limiting nature of the episodes with the parents of an affected child.</p>
+<p><strong>D</strong> - The first measure that should be taken is to improve sleep hygiene practices: the child must sleep enough hours, naps should not be eliminated if they are usually taken, a regular sleep schedule should be maintained and possible triggers should be avoided.</p>
+<p><strong>D</strong> - Parents should be advised about how to act when an episode occurs: lead the child back to bed, avoid waking them up and interfering and avoid discussing the episode the following day.</p>
+<p><strong>D</strong> - It is recommendable to advise parents about the appropriate safety practices that should be taken at home.</p>
+<p><strong>D</strong> - When episodes are not successfully managed using sleep hygiene practices, the attempt can be made to control them by scheduled awakenings if the episodes usually occur at approximately the same time.</p>
+<p><strong>Good clinical practice point</strong> - In more serious or intense cases, or cases that have consequences for wakefulness or that have not responded to the preceding practices, the patient should be referred to a secondary care or hospital care.</p>
+<p><strong>D</strong> - If there is evidence of a primary sleep disorder (OSAHS, restless leg syndrome with periodic limb movement disorder [RLS-PLM]) or other comorbid disorders (ADHD), these disorders should be treated to correct the parasomnias.</p>
+<p><strong>Nightmares</strong></p>
+<p><em>Diagnosis</em></p>
+<p><strong>D</strong> - The diagnosis should be made fundamentally through the medical record, with the help of sleep logs/diaries.</p>
+<p><strong>D</strong> - A polysomnography is not recommended routinely for diagnosing nightmares.</p>
+<p><em>Treatment</em></p>
+<p><strong>Good clinical practice point</strong> - It is recommendable to put the family at ease, thereby insisting on the benign and limited nature of the symptoms.</p>
+<p><strong>D</strong> - The following actions are recommended to prevent the appearance of nightmares: maintaining good sleep hygiene strategies (see Appendix 8 in the original guideline document); maintaining a calm and relaxed period before going to bed; avoiding watching horror films or television series or listening to horror stories before going to bed; reducing those factors that can be stressful to the child; restricting the intake of liquids after dinner; and having the child urinate before going to bed.</p>
+<p><strong>D</strong> - When a child has a nightmare, it is recommendable that the parents use any or several of the following strategies: soothing and calming the child, emphasising that it has only been a nightmare, or using objects that transmit security to the child to help them go back to sleep.</p>
+<p><strong>D</strong> - It is recommendable to ask the child, depending on their age, to draw or describe the nightmare with the help of the parents, thereby changing the ending of the same so that the child feels secure with this new ending.</p>
+<p><strong>Good clinical practice point</strong> - Whenever nightmares occur almost every night or there are several episodes in the same night, or there is a risk that the subject might become injured or injure others or when the nightmares affect the activities of daily life, the child should be referred to a secondary care or hospital care.</p>
+<p><strong>Sleep-Related Rhythmic Movement Disorder</strong></p>
+<p><em>Diagnosis</em></p>
+<p><strong>Good clinical practice point</strong> - The diagnosis must be made fundamentally through the medical record, a physical examination, sleep logs/ diaries and, sometimes, with the help of home videos-recording by the family.</p>
+<p><strong>D</strong> - A video-polysomnography must be reserved for cases in which the diagnosis is doubtful, when other sleep disorders coexist (such as OSAHS) and when it is necessary to determine how the movements affect sleep quality or daily activities.</p>
+<p><strong>D</strong> - The differential diagnosis of sleep-related rhythmic movement disorders should include developmental disorders, medical disorders (neurological, pain, gastroesophageal reflux, ear infection, blindness or others), self-stimulating behaviours, convulsions and other parasomnias and movement disorders (bruxism, sleep spasms, tics, spasmus nutans, REM sleep behaviour disorder or RLS-PLMD).</p>
+<p><em>Treatment</em></p>
+<p><strong>D</strong> - As the first measure, it is recommendable to put the family at ease, thereby insisting on the benign and limited nature of the symptoms.</p>
+<p><strong>D</strong> - Parents should be instructed about the safety practices for preventing a child from injuring himself: tightening the screws on a crib, placing bumpers in cribs and placing protective bars on beds.</p>
+<p><strong>Good clinical practice point</strong> - In more serious or intense cases, or cases that have consequences on wake times or that persist beyond six years of age, the patient should be referred to a secondary care or hospital care.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>The Child Who Falls Asleep During the Day</span></strong></p>
+<p><strong>Excessive Daytime Sleepiness (EDS)</strong></p>
+<p><em>Diagnosis</em></p>
+<p><strong>Good clinical practice point</strong> - EDS should be fundamentally diagnosed through a complete medical record that includes the medical background, any medicines or drugs that are being taken and the patient's habits, in addition to any daily consequences using the help of information gathered by families in sleep logs/diaries and the Paediatric Daytime Sleepiness Scale (PDSS).</p>
+<p><strong>Narcolepsy</strong></p>
+<p><em>Diagnosis</em></p>
+<p><strong>Good clinical practice point</strong> - To help with the diagnosis of narcolepsy, it is necessary to investigate if there is a family medical history of other causes of EDS or of narcolepsy.</p>
+<p><strong>Good clinical practice point</strong> - Diagnostic tests targeted at confirming or discarding this disorder must be performed at a hospital, preferably at a secondary care or hospital care.</p>
+<p><em>Treatment</em></p>
+<p><strong>Good clinical practice point</strong> - Parents/guardians should be advised to inform schools about the needs of children so that their schedules and school work can be adapted according to their needs, without affecting their academic performance.</p>
+<p><strong>Good clinical practice point</strong> - Children should receive supervision when they perform potentially dangerous activities (such as swimming).</p>
+<p><strong>Good clinical practice point</strong> - Adolescents who are diagnosed with narcolepsy and who have driver's licenses will be advised not to drive and to notify their status to the Department of Motor Vehicles. They will also be informed about legislation in force, which states that persons with narcolepsy may not obtain or extend a driver's license, unless a favourable medical report is issued, in which case the validity period of the license can be reduced according to the physician's opinion.</p>
+<p><strong>Good clinical practice point</strong> - Sleep hygiene strategies must be explained, thereby insisting on education about healthy habits (see Appendix 8 in the original guideline document).</p>
+<p><strong>Good clinical practice point</strong> - It is recommendable to take a short, scheduled nap throughout the day.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Information for the Patient/Relatives of the Patient</strong></span></p>
+<p><strong>Good clinical practice point</strong> - It is recommendable to provide information to the parents/caretakers and children/adolescents who have sleep problems (or who are suspected of having them), thereby including general information about the problem and about effective interventions (see Appendix 15 in the original guideline document&amp;ndash; information for the patient).</p>
+<p><strong>Good clinical practice point</strong> - To improve adherence to treatment and facilitate shared decision-making, the experiences, preferences and expectations of the parents/caretakers and children/adolescents regarding the therapeutic decisions to be made must be taken into account.</p>
+<p><strong>Good clinical practice point</strong> - It is recommendable to help parents/caretakers and children/adolescents acquire a certain degree of motivation to carry out a health professional's recommendations regarding sleep hygiene strategies and psychological interventions that require behaviour modification.</p>
+<p><strong>Good clinical practice point</strong> - Parents/caretakers and children/adolescents must be made aware of the barriers that can arise and the effort involved in complying with certain psychological interventions regarding the adoption of new patterns of behaviour (keeping the same sleep times every day, getting out of bed until becoming sleepy again, eliminating certain habits that can alter sleep behaviour [such as playing video games], foods/drinks with caffeine, eating chocolate, etc.).</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Definitions</strong></span>:</p>
+<p><strong>Levels of Evidence</strong></p>
+<p><strong>1++</strong> High quality meta-analyses, systematic reviews of randomized controlled trials (RCTs), or RCTs with a very low risk of bias</p>
+<p><strong>1+</strong> Well-conducted meta-analyses, systematic reviews, or RCTs with a low risk of bias</p>
+<p><strong>1-</strong> Meta-analyses, systematic reviews, or RCTs with a high risk of bias</p>
+<p><strong>2++</strong> High quality systematic reviews of case control or cohort studies. High quality case control or cohort studies with a very low risk of confounding or bias and a high probability that the relationship is causal</p>
+<p><strong>2+</strong> Well-conducted case control or cohort studies with a low risk of confounding or bias and a moderate probability that the relationship is causal</p>
+<p><strong>2-</strong> Case control or cohort studies with a high risk of confounding or bias and a significant risk that the relationship is not causal</p>
+<p><strong>3</strong> Non-analytic studies (e.g., case reports, case series)</p>
+<p><strong>4</strong> Expert opinion</p>
+<p>Qualitative research*</p>
+<p class=&quot;Note&quot;>*This category includes qualitative methodology studies and is not covered by the Scottish Intercollegiate Guidelines Network (SIGN). Studies incorporated have been evaluated at a methodological level, including more rigorous studies in this category.</p>
+<p><strong>Levels of Evidence for Diagnosis-related Questions</strong></p>
+<p>National Institute for Health and Care Excellence (NICE) adaptation of the levels of evidence of the Oxford Centre for Evidence-Based Medicine and the Centre for Reviews and Dissemination</p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Levels of Evidence for Diagnosis-related Questions&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Levels of Scientific Evidence</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Type of Scientific Evidence</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Ia</th>
+            <td valign=&quot;top&quot;>Systematic review with homogeneous level 1 studies</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Ib</th>
+            <td valign=&quot;top&quot;>Level 1 studies</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>II</th>
+            <td valign=&quot;top&quot;>Level 2 studies<br />
+            Systematic review of level 2 studies</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>III</th>
+            <td valign=&quot;top&quot;>Level 3 studies<br />
+            Systematic review of level 3 studies</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>IV</th>
+            <td valign=&quot;top&quot;>Consensus, expert opinion without explicit critical evaluation</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Level 1 Studies</th>
+            <td valign=&quot;top&quot;>Meet the following criteria:
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Blinded comparison with a valid (&quot;gold standard&quot;) comparator test </li>
+                <li>Suitable range of patients </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Level 2 Studies</th>
+            <td valign=&quot;top&quot;>Show only one of these biases:
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Non-representative population (the sample does not reflect the population where the test will be used) </li>
+                <li>Comparison with unsuitable comparator (&quot;gold standard&quot;) (the test to be assessed is part of the gold standard or the result of the test affects the performance of the gold standard </li>
+                <li>Non-blinded comparison </li>
+                <li>Case and control studies </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Level 3 Studies</th>
+            <td valign=&quot;top&quot;>Meet two or more of the criteria described in level 2 studies</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Grades of Recommendations</strong>*</p>
+<p><strong>A</strong>: At least one meta-analysis, systematic review, or randomized controlled trial (RCT) rated as 1++, and directly applicable to the target population; or a body of evidence consisting principally of studies rated as 1+, directly applicable to the target population, and demonstrating overall consistency of results</p>
+<p><strong>B</strong>: A body of evidence including studies rated as 2++, directly applicable to the target population, and demonstrating overall consistency of results; or extrapolated evidence from studies rated as 1++ or 1+</p>
+<p><strong>C</strong>: A body of evidence including studies rated as 2+, directly applicable to the target population and demonstrating overall consistency of results; or extrapolated evidence from studies rated as 2++</p>
+<p><strong>D</strong>: Evidence level 3 or 4; or extrapolated evidence from studies rated as 2+</p>
+<p><strong>Good clinical practice**</strong>: Recommended best practice based on the clinical experience of the guideline development group</p>
+<p><strong>Q</strong>: Evidence taken from relevant, good quality qualitative studies. This category is not included in the Scottish Intercollegiate Guidelines Network (SIGN).</p>
+<p class=&quot;Note&quot;>*Studies classified as 1- and 2- should not be used in the process of preparing recommendations due to the high possibility of bias.</p>
+<p class=&quot;Note&quot;>**Sometimes the development group wishes to highlight an important practical aspect for which there is no supporting evidence. In general, these cases are related to an aspect of treatment generally accepted to be good clinical practice, and is evaluated as a point of good clinical practice. These messages are not an alternative to the recommendations based on evidence, but should be considered only when there is no other way of highlighting that aspect.</p>
+<p><strong>Grades of Recommendation for Diagnostic Studies</strong></p>
+<p>National Institute for Health and Care Excellence (NICE) adaptation of the levels of evidence of the Oxford Centre for Evidence-Based Medicine and the Centre for Reviews and Dissemination</p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Grades of Recommendation for Diagnosis-related Questions&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Recommendation</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Evidence</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>A</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Ia or Ib</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>B</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>II</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>C</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>III</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>D</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>IV</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following algorithms are provided in the original guideline document:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Management of insomnia is suspected due to poor sleep hygiene and behavioral insomnia </li>
+    <li>Management if restless legs syndrome (RLS) is suspected </li>
+    <li>Management if delayed sleep-phase is suspected </li>
+    <li>Management if OSHAS is suspected </li>
+    <li>Management in the event of the clinical suspicion of arousal disorders: sleepwalking, sleep or night terrors and confusional arousals </li>
+    <li>Management if nightmares are suspected </li>
+    <li>Management if rhythmic movements are suspected </li>
+    <li>Management if narcolepsy is suspected </li>
+</ul></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Sleep problems and disorders</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Pediatrics"/>
+      <fieldvalue value="Psychiatry"/>
+      <fieldvalue value="Psychology"/>
+      <fieldvalue value="Sleep Medicine"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Patients"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Social Workers"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To orient health professionals in primary care (PC) health centers on recognising sleep problems and disorders in childhood and adolescence </li>
+    <li>To make recommendations, based on available scientific evidence, of therapeutic interventions for managing patients who are encompassed within three large blocks:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>The child who has trouble falling asleep </li>
+        <li>The child who has abnormal events at night </li>
+        <li>The child who sleeps during the day </li>
+    </ul>
+    </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Children and adolescents with sleep problems and disorders</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Evaluation/Diagnosis/Prevention</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>General assessment (medical history, description of sleep over a 24-hour period, the age of onset, incorrect sleep habits, behaviour, school performance, evaluation of the day, family medical history of sleep disorders, acute or chronic temporary disorder, biological functions affected) </li>
+    <li>Review of medicines, drugs and the presence of other pathologies and/or syndromes </li>
+    <li>Use of key questions </li>
+    <li>Sleep-wake diary/log for at least 15 days </li>
+    <li>Home video-recording of suspected sleep-related breathing disorders, parasomnias, rhythmic movements and/or periodic limb movements </li>
+    <li>Screening tools (Brief Infant Sleep Questionnaire [BISQ], BEARS questionnaire [Bedtime Issues, Excessive Daytime Sleepiness, Night Awakenings, Regularity and Duration of Sleep, Snoring], Bruni's Sleep Disturbance Scale for Children [SDSC]) </li>
+    <li>Haematological study (for restless legs syndrome [RLS]) </li>
+    <li>Chervin's Pediatric Sleep Questionnaire (reduced PSQ) (for obstructive sleep apnea-hypopnea syndrome [OSAHS]) </li>
+    <li>Frontal Lobe Epilepsy and Parasomnias (FLEP) scale (for sleepwalking, night or sleep terrors and confusional arousals) </li>
+    <li>Video-polysomnography (for sleep-related rhythmic movement disorder) </li>
+    <li>Paediatric Daytime Sleepiness Scale (PDSS) (for excessive daytime sleepiness [EDS]) </li>
+    <li>Informing parents, caretakers and/or adolescents about strategies for prevention of sleep problems </li>
+</ol>
+<p><strong>Management/Treatment</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Providing information to the parents/caretakers and children/adolescents who have sleep problems </li>
+    <li>Management of insomnia
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Sleep hygiene strategies </li>
+        <li>Psychological interventions (behavioural therapy) </li>
+        <li>Pharmacological management </li>
+    </ul>
+    </li>
+    <li>Management of RLS
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Eliminating factors that bring on RLS </li>
+        <li>Family and school support strategies </li>
+        <li>Oral iron supplementation </li>
+        <li>Referral to secondary care or hospital care </li>
+    </ul>
+    </li>
+    <li>Management of delayed sleep-phase syndrome (DSPS)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Sleep hygiene and behavior modification practices </li>
+        <li>Melatonin </li>
+    </ul>
+    </li>
+    <li>Management of OSAHS
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Conservative treatment (sleep hygiene) </li>
+        <li>Referral to secondary care or hospital care </li>
+        <li>Reassessment and follow-up </li>
+    </ul>
+    </li>
+    <li>Management of sleepwalking, night or sleep terrors and confusional arousals
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Referral to a specialist unit </li>
+        <li>Sleep hygiene and behavior modification practices </li>
+        <li>Advice for parents on how to act when it occurs </li>
+        <li>Scheduled awakenings </li>
+    </ul>
+    </li>
+    <li>Management of nightmares
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Sleep hygiene and behavior and environmental modification practices </li>
+        <li>Soothing and calming the child back to sleep, including emphasis that it was only a nightmare or use of objects that transmit security </li>
+    </ul>
+    </li>
+    <li>Management of sleep-related rhythmic movement disorder
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Safety practices </li>
+        <li>Referral to secondary care or hospital care </li>
+    </ul>
+    </li>
+    <li>Management of narcolepsy
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Referral to secondary care or hospital care </li>
+        <li>Adaptation of schedules and school work according to their needs </li>
+        <li>Supervision during potentially dangerous activities (e.g., swimming) </li>
+        <li>Suspension of driving (for adolescents with driving license) </li>
+        <li>Sleep hygiene strategies </li>
+        <li>Scheduled short naps throughout the day </li>
+    </ul>
+    </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: The following were considered but not recommended: white noise, valerian, nutritional supplements, physical exercise, phototherapy, vitamin B12, chronotherapy.</p></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patient's, parents' or caretakers' subjective report about the quality of night time sleep </li>
+    <li>Sleep parameters (see Appendix 10 in the original guideline document) </li>
+    <li>Sleep quality </li>
+    <li>Daily functioning </li>
+    <li>Well-being of the parents </li>
+    <li>Frequency of side effects </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Bibliographical search in: Medline, EMBASE, PsycINFO, CINAHL, Cochrane Plus, DARE, HTA, Clinical Evidence, INAHTA, NHS EED and CINDOC.</p>
+<p>Languages: Spanish, English and French.</p>
+<p>Study population: childhood and adolescence.</p>
+<p>No limit on the year of publication.</p>
+<p>First a search was performed to locate clinical practice guidelines. The objective was to obtain a secondary source of evidence in order to respond to specific sections of the guideline (diagnostic strategies, therapeutic strategies and information for/communication with the patient).</p>
+<p>In the second phase, there was a search for systematic reviews, meta-analyses and assessment reports in the aforementioned databases.</p>
+<p>In the third phase, there was an expanded search of primary studies (clinical trials, observational studies, studies of diagnostic and prognostic tests).</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Levels of Evidence</strong></p>
+<p><strong>1++</strong> High quality meta-analyses, systematic reviews of randomized controlled trials (RCTs), or RCTs with a very low risk of bias</p>
+<p><strong>1+</strong> Well-conducted meta-analyses, systematic reviews, or RCTs with a low risk of bias</p>
+<p><strong>1-</strong> Meta-analyses, systematic reviews, or RCTs with a high risk of bias</p>
+<p><strong>2++</strong> High quality systematic reviews of case control or cohort studies. High quality case control or cohort studies with a very low risk of confounding or bias and a high probability that the relationship is causal</p>
+<p><strong>2+</strong> Well-conducted case control or cohort studies with a low risk of confounding or bias and a moderate probability that the relationship is causal</p>
+<p><strong>2-</strong> Case control or cohort studies with a high risk of confounding or bias and a significant risk that the relationship is not causal</p>
+<p><strong>3</strong> Non-analytic studies (e.g., case reports, case series)</p>
+<p><strong>4</strong> Expert opinion</p>
+<p>Qualitative research*</p>
+<p class=&quot;Note&quot;>*This category includes qualitative methodology studies and is not covered by the Scottish Intercollegiate Guidelines Network (SIGN). Studies incorporated have been evaluated at a methodological level, including more rigorous studies in this category.</p>
+<p><strong>Levels of Evidence for Diagnosis-related Questions</strong></p>
+<p>National Institute for Health and Care Excellence (NICE) adaptation of the levels of evidence of the Oxford Centre for Evidence-Based Medicine and the Centre for Reviews and Dissemination</p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Levels of Evidence for Diagnosis-related Questions&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Levels of Scientific Evidence</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Type of Scientific Evidence</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Ia</th>
+            <td valign=&quot;top&quot;>Systematic review with homogeneity level 1 studies</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Ib</th>
+            <td valign=&quot;top&quot;>Level 1 studies</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>II</th>
+            <td valign=&quot;top&quot;>Level 2 studies<br />
+            Systematic review of level 2 studies</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>III</th>
+            <td valign=&quot;top&quot;>Level 3 studies<br />
+            Systematic review of level 3 studies</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>IV</th>
+            <td valign=&quot;top&quot;>Consensus, expert opinion without explicit critical evaluation</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Level 1 Studies</th>
+            <td valign=&quot;top&quot;>They meet the following:
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Masked comparison with a valid reference test (&quot;gold standard&quot;) </li>
+                <li>Adequate spectrum of patients </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Level 2 Studies</th>
+            <td valign=&quot;top&quot;>They have only one of these biases:
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Population not representative (the sample does not reflect the population where the test will be applied) </li>
+                <li>Comparison with inadequate reference standard (&quot;gold standard&quot;) (the test that will be evaluated as part of the gold standard or the result affects the implementation of the gold standard </li>
+                <li>Comparison is not masked </li>
+                <li>Case-control studies </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Level 3 Studies</th>
+            <td valign=&quot;top&quot;>Meet two or more of the criteria described in level 2 studies</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Assessment of the quality of the studies and a summary of evidence for each question, thereby following the recommendations of Scottish Intercollegiate Guidelines Network (SIGN).</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+      <fieldvalue value="Informal Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The formation of the guideline development group, composed of professionals from: primary care (paediatrics, family physician, nursing), hospital care (paediatrics, clinical neurophysiology, psychology, respiratory medicine), education (psychologist-counsellor) and technicians of the Health Technologies Assessment Unit (UETS). Moreover, for the preparation of this guideline, there has been participation by two patients/representatives of patients within the development group as from the initial phases of the work. </li>
+    <li>The formation of a sub-group, with members of the guideline group, for preparing information directed at the patient. </li>
+    <li>The definition of the scope and objectives of the guideline, including the social viewpoint of disorders through the use of qualitative research techniques. </li>
+    <li>First of all, the guideline development group was consulted in advance. Using a questionnaire designed to define the scope and objectives, and via e-mail, the group assessed those aspects that could help define the key areas of the clinical practice guideline (CPG). </li>
+    <li>Subsequently, patients and relatives of patients were recruited, with whom a discussion group and in-depth interviews were conducted so that they could freely express their experiences, interests and concerns about managing these disorders. </li>
+    <li>The formulation of clinical questions following the Patient-Intervention-Comparison-Outcome (PICO) format. </li>
+    <li>The formulation of recommendations based on the &quot;formal assessment&quot; or &quot;reasoned judgement&quot; of SIGN. The evidence has been classified and the recommendations have been rated according to the SIGN system. Controversial recommendations or recommendations with an absence of evidence were resolved by informal consensus of the guideline development group. </li>
+    <li>The material is available at <a href=&quot;http://www.guiasalud.es&quot; title=&quot;Guiasalud Web site&quot;>www.guiasalud.es</a>, where the information is presented in detail with the methodological process of the CPG (description of the techniques used in qualitative research, the search strategy for each clinical question and evidence tables). </li>
+</ul>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Grades of Recommendations</strong>*</p>
+<p><strong>A</strong>: At least one meta-analysis, systematic review, or randomized controlled trial (RCT) rated as 1++, and directly applicable to the target population; or a body of evidence consisting principally of studies rated as 1+, directly applicable to the target population, and demonstrating overall consistency of results</p>
+<p><strong>B</strong>: A body of evidence including studies rated as 2++, directly applicable to the target population, and demonstrating overall consistency of results; or extrapolated evidence from studies rated as 1++ or 1+</p>
+<p><strong>C</strong>: A body of evidence including studies rated as 2+, directly applicable to the target population and demonstrating overall consistency of results; or extrapolated evidence from studies rated as 2++</p>
+<p><strong>D</strong>: Evidence level 3 or 4; or extrapolated evidence from studies rated as 2+</p>
+<p><strong>Good clinical practice**</strong>: Recommended best practice based on the clinical experience of the guideline development group</p>
+<p><strong>Q</strong>: Evidence taken from relevant, good quality qualitative studies. This category is not included in the Scottish Intercollegiate Guidelines Network (SIGN).</p>
+<p class=&quot;Note&quot;>*Studies classified as 1- and 2- should not be used in the process of preparing recommendations due to the high possibility of bias.</p>
+<p class=&quot;Note&quot;>**Sometimes the development group wishes to highlight an important practical aspect for which there is no supporting evidence. In general, these cases are related to an aspect of treatment generally accepted to be good clinical practice, and is evaluated as a point of good clinical practice. These messages are not an alternative to the recommendations based on evidence, but should be considered only when there is no other way of highlighting that aspect.</p>
+<p><strong>Grades of Recommendation for Diagnostic Studies</strong></p>
+<p>National Institute for Health and Care Excellence (NICE) adaptation of the levels of evidence of the Oxford Centre for Evidence-Based Medicine and the Centre for Reviews and Dissemination</p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Grades of Recommendation for Diagnosis-related Questions&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Recommendation</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Evidence</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>A</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Ia or Ib</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>B</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>II</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>C</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>III</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>D</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>IV</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline developers reviewed published cost analyses.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The external review of the clinical practice guideline (CPG) was conducted with the participation of a group of professionals selected because of their knowledge of guidelines preparation methodology, the pathology addressed and the scope of application (professionals from paediatrics; family physician; nursing; clinical neurophysiology; ear, nose and throat; respiratory medicine; and psychiatry). Relatives of patients have also participated.</p>
+<p>Different scientific societies and patient associations that approach this health problem from various areas have collaborated on drafting the guideline: Asociaci&amp;oacute;n Espa&amp;ntilde;ola de Pediatr&amp;iacute;a [Spanish Association of Paediatrics] (AEP), Asociaci&amp;oacute;n Espa&amp;ntilde;ola de Pediatr&amp;iacute;a de Atenci&amp;oacute;n Primaria [Spanish Association of Primary Care Paediatrics] (AEPap), Asociaci&amp;oacute;n Espa&amp;ntilde;ola de Psicolog&amp;iacute;a Conductual [Spanish Association of Behavioral Psychology] (AEPC), Asociaci&amp;oacute;n Espa&amp;ntilde;ola del Sue&amp;ntilde;o [Spanish Sleep Association] (ASENARCO), Sociedad Espa&amp;ntilde;ola de Medicina de la Adolescencia [Spanish Society of Adolescent Medicine] (SEMA), Sociedad Espa&amp;ntilde;ola de M&amp;eacute;dicos de Atenci&amp;oacute;n Primaria [Spanish Society of Primary Healthcare Physicians] (SEMERGEN), Sociedad Espa&amp;ntilde;ola de Medicina de Familia y Comunitaria [Spanish Society of Family and Community Medicine] (SEMFYC), Sociedad Espa&amp;ntilde;ola de M&amp;eacute;dicos Generales y de Familia [Spanish Society of General and Family Physicians] (SEMG), Sociedad Espa&amp;ntilde;ola de Neurolog&amp;iacute;a Pedi&amp;aacute;trica [Spanish Society of Paediatric Neurology] (SENEP), Sociedad Espa&amp;ntilde;ola de Neurofisiolog&amp;iacute;a Cl&amp;iacute;nica [Spanish Society of Clinical Neurophysiology] (SENFC), Sociedad Espa&amp;ntilde;ola de Neumolog&amp;iacute;a Pedi&amp;aacute;trica [Spanish Society of Paediatric Respiratory Medicine] (SENP), Sociedad Espa&amp;ntilde;ola de Otorrinolaringolog&amp;iacute;a [Spanish Society of Otolaryngology] (SEORL), Sociedad Espa&amp;ntilde;ola de Neumolog&amp;iacute;a y Cirug&amp;iacute;a Tor&amp;aacute;cica [Spanish Society of Respiratory Medicine and Thoracic Surgery] (SEPAR), Sociedad Espa&amp;ntilde;ola de Pediatr&amp;iacute;a Extrahospitalaria y Atenci&amp;oacute;n Primaria [Spanish Society of Out-of-Hospital Paediatrics and Primary Care] (SEPEAP) and the Sociedad Espa&amp;ntilde;ola del Sue&amp;ntilde;o [Spanish Sleep Society] (SES). All the societies are represented by some member of the development group, expert collaborators or external reviewers.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate diagnosis and management of children and adolescents with sleep problems or disorders</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>There is very little information about the adverse effects associated with the use of melatonin in paediatrics, because the data on safety have not been assessed systematically and in the long term. In the short term, some secondary effects have been found, such as headaches, dizziness, sensation of cold and nighttime worsening of asthma. There have also been warnings about the possibility that the use of high doses of melatonin, in the long term, might inhibit ovulation and reproductive functions in puberty due to its action on the melatonin receptors distributed in the ovaries and suprarenal glands. There have also been warnings about the variability of the quality of the preparations, given that some coming from health food stores may contain harmful contaminants of animal origin. </li>
+    <li>In the long term, there is one follow-up study on some of the children previously included in one of the aforementioned randomized controlled trials (RCTs). This cohort included children with melatonin for an average of 3 years at an average dose of 2.7 mg. The adverse effects that were found are associated with headaches, nausea, weight gain and nocturnal bed-wetting, among others, although they were infrequent and well-accepted in most cases. </li>
+    <li>Medication should only be used for insomnia in the short term, and the drug should be selected according to the problem&amp;mdash;short-acting for sleep onset problems and medium-long life for maintenance problems&amp;mdash;thereafter monitoring the benefits and adverse effects. </li>
+    <li>In one study, the adverse effects of controlled restriction of sleep were infrequent and minor; some parents reported sleepiness, nervousness and/or agitation. </li>
+</ul>
+<p>See Tables 20 and 29 in the original guideline document for interactions, warnings, and precautions for drugs used to treat restless legs syndrome (RLS) and drugs used for narcolepsy, respectively.</p>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Contraindications to drug treatment:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Presence of an untreated, sleep-disordered breathing </li>
+        <li>The insomnia is due to a developmentally based normal sleep behavior or false expectations of the parents about sleep. </li>
+        <li>The insomnia is due to a short duration, self-limited condition (e.g., teething). </li>
+        <li>There may be potential drug interactions with concurrent medications or with substance or alcohol abuse. </li>
+        <li>It is not possible to follow up on and/or monitor the treatment (parents frequently miss scheduled appointments). </li>
+    </ul>
+    </li>
+    <li>L-DOPA (levodopa) is contraindicated in patients taking monoamine oxidase inhibitors (MAOI). </li>
+    <li>Pramipexole is contraindicated in patients taking neuroleptics. </li>
+    <li>Methylphenidate is contraindicated in patients taking halogenated anaesthetics, clonidine, MAOI. </li>
+    <li>Clomipramine is contraindicated in patients taking antiarrhythmic drugs (quinidine, propafenone), MAOI. </li>
+    <li>Imipramine is contraindicated in patients taking MAOI. </li>
+    <li>Fluoxetine is contraindicated in patients taking pimozide. </li>
+    <li>Venlafaxine is contraindicated in patients taking MAOI. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>This clinical practice guideline (CPG) is an aid for decision-making in healthcare. It is not mandatory, and it is not a substitute for the clinical judgement of healthcare personnel. </li>
+    <li>Given that this CPG has a national approach, it does not take on organisational matters, although it does attempt to establish a basic circuit of patients between the two healthcare levels (Primary Care and Hospital Care), wherefore it will also be distributed among all other professionals involved in healthcare, thereby seeking comprehensive patient care. It may also be useful to other professionals, both in the socio-health area (social workers) and in the educational sphere (teachers, counsellors) so that they are capable of recognising the early warning signs of a health problem that can affect the normal development of children and adolescents. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Dissemination and Implementation Strategy</strong></p>
+<p>Clinical practice guidelines (CPGs) are useful for improving the quality of care for and outcomes in patients. The great challenge today is to get professionals to adhere to them. An implementation strategy directed at overcoming the barriers that exist in the environment where they are going to be applied is fundamental.</p>
+<p>The plan for implementing the<em> Clinical Practice Guideline for Managing Patients with Sleep Disorders in Childhood and Adolescence in Primary Care Health Centers</em> includes the following interventions:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Presentation of the guideline to the media by health authorities. </li>
+    <li>Presentation of the guideline to the directorates and sub-directorates of primary care (PC) health centers and hospital care of the various regional health services. </li>
+    <li>Institutional presentation of the guideline, in cooperation with the Quality Agency of the Ministry of Health, Social Policy and Equality, to the various scientific societies, patient associations and professionals involved. </li>
+    <li>The informative material prepared for the patient will be highlighted in all presentations, thereby favouring distribution of the material among all health professionals and, in turn, among parents/caretakers and children/adolescents with this health problem. </li>
+    <li>Effective distribution directed at the professional groups involved (paediatricians, family physician, nurses and social workers in PC; child neurologists, psychiatrists, neurophysiologists, psychologists, respiratory specialists and otolaryngologists) to facilitate dissemination. </li>
+    <li>Interactive presentation of the guideline at health centres by local opinion leaders. </li>
+    <li>Distribution of the guideline in electronic format on the web pages of the Ministry of Health, Social Policy and Equality; of GUIASALUD; of the Health Technology Evaluation Unit (UETS); and of the scientific societies and patient associations involved in the project. </li>
+    <li>Publication of the guideline in scientific journals. </li>
+    <li>The establishment of good care criteria for a child/adolescent with sleep problems in programme contracts and clinical management contracts, as it is established in the guideline. </li>
+    <li>Evaluation of the effectiveness of implementation by establishing support systems for clinical decisions, thereby integrating the guideline and the indicators selected in the computer programme used in PC health centers. </li>
+</ul>
+<p><strong>Proposal of Indicators</strong></p>
+<p>A series of indicators have been designed, which it must be possible to measure through the information system in PC health centers, for the purpose of evaluating both the healthcare given to a paediatric patient (and their parents/caretakers) who has suffered from a sleep problem/disorder and the possible impact from having implemented the guideline. The purpose has not been to design a comprehensive and detailed evaluation that involves using all the proposed indicators.</p>
+<p>The intention is to provide a tool for any interested clinics and managers, which can be useful for specifically designing an evaluation of the care given to paediatric patients with sleep disorders in PC health centers.</p>
+<p>Two types of indicators are proposed:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Activity indicators</strong>: This battery of indicators attempts to follow up on the distribution of patients and on use of evaluation tools in PC. </li>
+    <li><strong>Compliance indicators</strong>: They are based on the recommendations proposed in this guideline and therefore on the available scientific evidence and on the consensus of professionals. Even though the proposed standards of compliance should be 100% (or 0% in some other cases), the reality of the PC context has been taken into account when establishing said standards. </li>
+</ul>
+<p>Refer to the tables in Chapter 10 in the original guideline document for additional information on these indicators.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Audit Criteria/Indicators"/>
+      <fieldvalue value="Chart Documentation/Checklists/Forms"/>
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Foreign Language Translations"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Quick Reference Guides/Physician Guides"/>
+      <fieldvalue value="Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Guideline Development Group on Sleep Disorders in Childhood and Adolescence in Primary Care. Clinical practice guideline on sleep disorders in childhood and adolescence in primary care. Madrid (Spain): Health Technology Assessment Unit, Laín Entralgo Agency, Ministry of Health, Social Services and Equality (Spain); 2011. 288 p.  [430 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2011"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="GuiaSalud - National Government Agency [Non-U.S.]"/>
+      <fieldvalue value="Health Technology Assessment Unit, Laín Entralgo Agency - State/Local Government Agency [Non-U.S.]"/>
+      <fieldvalue value="Ministry of Health (Spain) - National Government Agency [Non-U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This clinical practice guideline (CPG) has been financed through the agreement signed by the Instituto de Salud Carlos III, an independent body of the Ministry of Science and Innovation, and the Health Technologies Assessment Unit of the La&amp;iacute;n Entralgo Agency (Community of Madrid), within the framework of cooperation provided for in the Quality Plan for the National Health System of the Ministry of Health, Social Policy and Equality.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Guideline Working Group for Sleep Disorders in Childhood and Adolescence in Primary Care</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Group Members</em>: M&amp;ordf; &amp;Aacute;ngeles Abad Blasco, relative of a patient, Zaragoza; Cristina Abad Sanz, nurse. Jos&amp;eacute; M&amp;ordf; Llanos Healthcare Centre, Madrid; Petra D&amp;iacute;az del Campo Fontecha, sociologist, Health Technologies Assessment Unit (UETS), Agencia La&amp;iacute;n Entralgo, Regional Department of Health, Madrid; Elena D&amp;iacute;az G&amp;aacute;llego, psychologist, Sleep Unit, Ruber Clinic, Madrid; Javier Gracia San Rom&amp;aacute;n, preventive medicine and public health physician, Health Technologies Assessment Unit (UETS), Agencia La&amp;iacute;n Entralgo, Regional Department of Health, Madrid; Mar&amp;iacute;a In&amp;eacute;s Hidalgo Vicario, paediatrician, Barrio del Pilar Healthcare Centre, Madrid; Margarita Mach&amp;iacute;n Pe&amp;ntilde;ate, psychologist/counsellor, Horteleza Early Care Team, Regional Department of Education, Madrid; Pilar Marin Orzanco, paediatric nurse, Barrio del Pilar Healthcare Centre, Madrid; Francisca Menchero Pinos, paediatrician, Jos&amp;eacute; M&amp;ordf; Llanos Healthcare Centre, Madrid; Milagros Merino Andreu, neurophysiologist, La Paz University Hospital, Madrid; Marta Nieto Alonso, psychologist, patient representative, Spanish Sleep Association, Zaragoza; Beatriz Nieto Pereda, preventive medicine and public health physician, Health Technologies Assessment Unit (UETS), Agencia La&amp;iacute;n Entralgo, Regional Department of Health, Madrid; Gonzalo Pin Arboledas, paediatrician, Sleep Unit of the Quir&amp;oacute;n Hospital, Valencia; Francisca Romero And&amp;uacute;jar, paediatric pulmonary physician, Ni&amp;ntilde;o Jes&amp;uacute;s University Hospital, Madrid; Ram&amp;oacute;n Ugarte L&amp;iacute;bano, paediatrician, Olaguibel Healthcare Centre, Vitoria-Gasteiz, Alava</p>
+<p><em>Coordination</em>: Francisco Javier Gracia San Rom&amp;aacute;n and Petra D&amp;iacute;az del Campo Fontecha, specialists of the Health Technologies Assessment Unit (UETS), Madrid</p>
+<p><em>Expert Collaborators</em>: Mar&amp;iacute;a Luz Alonso &amp;Aacute;lvarez, pulmonary physician, Sleep Unit of the Burgos Healthcare Complex, Burgos; Ricard G&amp;egrave;nova Maleras, demographer, Health Reports and Studies Service, Bureau for the Promotion of Health and Prevention, Directorate General of Primary Care, Regional Department of Health, Madrid; Mercedes Guerra Rodr&amp;iacute;guez, documentalist, Health Technologies Assessment Unit (UETS), Agencia La&amp;iacute;n Entralgo, Regional Department of Health, Madrid; Amalia Lluch Rosell&amp;oacute;, paediatrician, Ingeniero Joaqu&amp;iacute;n Benlloch Healthcare Centre, Valencia; Oscar Sans Capdevila, neurophysiologist, Sant Joan de D&amp;eacute;u Hospital, Esplugues, Barcelona</p>
+<p><em>External Review</em>: Jes&amp;uacute;s Alonso Fern&amp;aacute;ndez, family physician, Valdebernardo Health Centre, Madrid; Isabel Aranda and Domingo Estevez, relatives of a patient, Madrid; Jos&amp;eacute; Casas Rivero, paediatrician, La Paz University Hospital, Madrid; Luis Dominguez Ortega, family physician, Ruber Clinic, Madrid; Rosa Hern&amp;aacute;ndez L&amp;oacute;pez, family physician, Sector III (Getafe) Healthcare Centre, Madrid; Jose Antonio Municio, otolaryngologist, University Clinic Hospital of Cruces (Barakaldo), Bizkaia; M&amp;ordf; Teresa Mu&amp;ntilde;oz de la Monta&amp;ntilde;a, nurse, Badajoz Centro Healthcare Centre, Badajoz; Narcisa Palomino Urda, paediatrician, Las Flores Healthcare Centre, Granada; Montserrat P&amp;agrave;mias Massana, child psychiatrist, Hospital Universitari Consorci Parc Taul&amp;iacute;, (Sabadell) Barcelona; Pablo Pascual Pascual, family physician, Azpilaga&amp;ntilde;a Healthcare Centre, Pamplona; M&amp;ordf; Jes&amp;uacute;s Puente Barral, family physician, Santa M&amp;oacute;nica Healthcare Centre, Rivas-vaciamadrid, Madrid; Pedro Javier Rodr&amp;iacute;guez, paediatrician-psychiatrist, Diego Mat&amp;iacute;as Guigou y Costa Child-Adolescent Day Hospital, Ntra. Sra. de Candelaria University Hospital, Tenerife; Pilar Vich P&amp;eacute;rez, family physician, Los Alpes Healthcare Centre, Madrid; Miguel Tom&amp;aacute;s Vila, neuropaediatrician, Hospital Universitari i Polit&amp;egrave;cnic La Fe, Valencia</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All the members of the Guideline Development Group, as well as the people who have participated in the expert collaboration and in the external review, have made the declarations of interests that are presented in Appendix 18 of the original guideline document.</p>
+<p>M&amp;ordf; In&amp;eacute;s Hidalgo Vicario, Francisca Romero And&amp;uacute;jar, Elena D&amp;iacute;az G&amp;aacute;llego, Francisca Menchero Pinos, Cristina Abad Sanz, Pilar Mar&amp;iacute;n Orzanco, M&amp;ordf; &amp;Aacute;ngeles Abad Blasco, Marta Nieto Alonso, Margarita Mach&amp;iacute;n Pe&amp;ntilde;ate, Rosa M&amp;ordf; Hern&amp;aacute;ndez L&amp;oacute;pez, Jose Antonio Municio Mart&amp;iacute;n, Isabel Aranda Garc&amp;iacute;a, Domingo Est&amp;eacute;vez Alcaide, Luis Dom&amp;iacute;nguez Ortega, Miguel Tom&amp;aacute;s Vila, M&amp;ordf; Teresa Mu&amp;ntilde;oz de la Monta&amp;ntilde;a and Pablo Pascual Pascual have declared an absence of interests.</p>
+<p>Milagros Merino Andreu has received support from the pharmaceutical industry to attend the annual conferences of the SEM, Spanish Sleep Society (SES) and ESRS. Gonzalo Pin Arboledas has participated in a research project on gaboxadol financed by Sanofi and has received professional fees as a speaker at various congresses of the Spanish Association of Primary Care Paediatrics (AEPap).</p>
+<p>Ram&amp;oacute;n Ugarte L&amp;iacute;bano has received support from the pharmaceutical industry to attend the Paediatrics Conference of &amp;Aacute;lava. Narcisa Palomino Urda has received support from the AEPap to attend the 15th Paediatrics Conference in Andaluc&amp;iacute;a. Mar&amp;iacute;a Luz Alonso &amp;Aacute;lvarez has received financing from the Spanish Society of Respiratory Medicine and Thoracic Surgery (SEPAR), from Vitalaire and from UCB to attend various congresses and has received professional fees from SEPAR as a speaker in a course. Pedro Javier Rodr&amp;iacute;guez has received financing from the pharmaceutical industry to attend several courses. M&amp;ordf; Amalia Lluch Rosell&amp;oacute; has received financing from the pharmaceutical industry to attend the 25th congress of the SEPEAP. &amp;Oacute;scar Sans Capdevila has received financing from the pharmaceutical industry as a conference speaker. Jes&amp;uacute;s Alonso Fern&amp;aacute;ndez has received financing from the pharmaceutical industry to attend several annual congresses of the Spanish Society of General and Family Physicians (SEMG) and professional fees for several speeches. M&amp;ordf; Jes&amp;uacute;s Puente Barral has received financing from the pharmaceutical industry to attend several annual congresses of the SEMG. Pilar Vich P&amp;eacute;rez has received professional fees from Spanish Society of Primary Healthcare Physicians (SEMERGEN) as a speaker at a congress, professional fees from MSD as a course coordinator and consulting fees from the pharmaceutical industry. Jos&amp;eacute; Casas Rivero has received financing from the pharmaceutical industry to attend medical congresses of various international adolescent health associations. Montserrat P&amp;agrave;mias Massana has received financing from the pharmaceutical industry to attend several congresses and has received professional fees as a speaker.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available in Portable Document Format (PDF) in <a href=&quot;http://www.guiasalud.es/GPC/GPC_489_Trastorno_sue%c3%b1o_infadol_Lain_Entr_compl_en.pdf&quot; title=&quot;GuiaSalud Web site&quot;>English</a> and&amp;nbsp;<a href=&quot;http://www.guiasalud.es/GPC/GPC_489_Trastorno_sue%C3%B1o_infadol_Lain_Entr_compl.pdf&quot; title=&quot;GuiaSalud Web site&quot;>Spanish</a> from the Gu&amp;iacute;aSalud Web site.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quick reference guides are available in several dialects from the <a href=&quot;http://portal.guiasalud.es/web/guest/gpc-sns&quot; title=&quot;GuiaSalud Web site&quot;>Gu&amp;iacute;aSalud Web site</a>. </li>
+    <li>A summary version is available in Spanish from the <a href=&quot;http://portal.guiasalud.es/web/guest/gpc-sns&quot; title=&quot;GuiaSalud Web site&quot;>Gu&amp;iacute;aSalud Web site</a>. </li>
+    <li>A methodology document is available in Spanish from the <a href=&quot;http://www.guiasalud.es/GPC/GPC_489_Trastorno_sue%C3%B1o_infadol_Lain_Entr_mat_met.pdf&quot; title=&quot;GuiaSalud Web site&quot;>Gu&amp;iacute;aSalud Web site</a>. </li>
+    <li>Updating clinical practice guidelines in the Spanish National Healthcare System: methodology handbook. Available from the <a href=&quot;http://www.guiasalud.es/emanuales/traduccion/ingles/manual_actualizacion/apartado01/introduccion.html&quot; title=&quot;GuiaSalud Web site&quot;>Gu&amp;iacute;aSalud Web site</a>. </li>
+</ul>
+<p>The Spanish version of the guideline is also available via a mobile application from the <a href=&quot;http://portal.guiasalud.es/web/guest/app&quot; title=&quot;GuiaSalud Web site&quot;>GuiaSalud Web site</a>.</p>
+<p>The appendices in the <a href=&quot;http://www.guiasalud.es/GPC/GPC_489_Trastorno_sue%C3%B1o_infadol_Lain_Entr_compl_en.pdf&quot; title=&quot;GuiaSalud Web site&quot;>original guideline document</a> contain various resources, including key questions to be used in diagnosis and assessment, a sleep-wake log/diary, and measurement instruments (scales) of paediatric sleep problems. In addition, outcome indicators can be found in Chapter 10 and Appendix 10 in the <a href=&quot;http://www.guiasalud.es/GPC/GPC_489_Trastorno_sue%C3%B1o_infadol_Lain_Entr_compl_en.pdf&quot; title=&quot;GuiaSalud Web site&quot;>original guideline document</a>.</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appendix 9 in the <a href=&quot;http://www.guiasalud.es/GPC/GPC_489_Trastorno_sue%C3%B1o_infadol_Lain_Entr_compl_en.pdf&quot; title=&quot;GuiaSalud Web site&quot;>original guideline document</a> contains education for parents about paediatric sleep. Appendix 15 in the <a href=&quot;http://www.guiasalud.es/GPC/GPC_489_Trastorno_sue%C3%B1o_infadol_Lain_Entr_compl_en.pdf&quot; title=&quot;Guia Salud Web site&quot;>original guideline document</a> includes information on learning about and managing sleep disorders in children and adolescents.</p>
+<p>Patient information in Spanish is available from the <a href=&quot;http://www.guiasalud.es/GPC/GPC_489_Trastorno_sue%C3%B1o_infadol_Lain_Entr_paciente.pdf&quot; title=&quot;GuiaSalud Web site&quot;>Gu&amp;iacute;aSalud Web site</a>.</p>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on March 17, 2014. The information was verified by the guideline developer on March 26, 2014.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 20:27:06 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:42:26 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 293.23 (3)
+  esindex: 0.014
+  captures_list: 317.399
+  CDXLines.iter: 17.225 (3)
+  PetaboxLoader3.datanode: 284.348 (4)
+  exclusion.robots: 0.514
+  exclusion.robots.policy: 0.49
+  RedisCDXSource: 1.816
+  PetaboxLoader3.resolve: 343.137
+  load_resource: 376.157
+-->

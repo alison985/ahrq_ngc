@@ -1,0 +1,633 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app29.us.archive.org';v.server_ms=216;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10341?contentType=xml', '20160930191852')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930191852/https://www.guideline.gov/summaries/downloadcontent/ngc-10341?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930191852/https://www.guideline.gov/summaries/downloadcontent/ngc-10341?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10341?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930191852" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 19:18:52 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 19:18:52 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 19:18:52 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930191852*/https://www.guideline.gov/summaries/downloadcontent/ngc-10341?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10341?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Travel-related opportunistic infections. In: British HIV Association and British Infection Association guidelines for the treatment of opportunistic infection in HIV-seropositive individuals 2011.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Angus BJ, Schmid ML, Dockrell DH, Grant AD. Travel-related opportunistic infections. In: British HIV Association and British Infection Association guidelines for the treatment of opportunistic infection in HIV-seropositive individuals 2011. HIV Med. 2011 Sep;12(Suppl 2):88-101. [113 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+  </section>
+  <section secid="394" ordby="200" name="Regulatory Alert">
+    <field fieldid="154" ordby="205" id="395" name="FDA Warning/Regulatory Alert" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse</strong>: This guideline references a drug(s) for which important revised regulatory and/or warning information has been released.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><a href=&quot;http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm479782.htm&quot; title=&quot;FDA Web site&quot; target=&quot;_blank&quot;>January 4, 2016 &amp;ndash; Noxafil (posaconazole)</a>: The U.S. Food and Drug Administration (FDA) is cautioning that differences in dosing regimens between the two oral formulations of the antifungal Noxafil (posaconazole) have resulted in dosing errors. To help prevent additional medication errors, the drug labels were revised to indicate that the two oral formulations cannot be directly substituted for each other but require a change in dose. Direct mg for mg substitution of the two formulations can result in drug levels that are lower or higher than needed to effectively treat certain fungal infections. </li>
+</ul></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Level of evidence (<strong>I&amp;ndash;IV</strong>) ratings are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Malaria</span></strong></p>
+<p><strong>Diagnosis</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Malaria should be diagnosed in the same way as in human immunodeficiency virus (HIV)-seronegative individuals, using a combination of thick and thin blood films with or without a rapid diagnostic (antigen) test in HIV-seropositive individuals (<strong>IV</strong>). </li>
+    <li>Thick films (to diagnose malaria and estimate the percentage parasitaemia) and thin films (for speciation) should be collected on all patients (Lalloo et al., 2007) (<strong>IV</strong>).&amp;nbsp; </li>
+</ul>
+<p><strong>Treatment</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Follow the World Health Organization (WHO) guidelines (WHO, 2010). Antiretroviral drug interactions are hypothetical except for that between efavirenz and amodiaquine, a combination which should be avoided. </li>
+    <li>Non-severe falciparum malaria should be treated with oral artemether&amp;ndash;lumefantrine or oral quinine followed by doxycycline, or with Malarone (atovaquone&amp;ndash;proguanil) (<strong>IV</strong>). </li>
+    <li>Severe falciparum malaria (&amp;gt;2% parasitaemia &amp;plusmn; organ dysfunction) should be treated initially with intravenous artesunate where available or with quinine by intravenous infusion with cardiac monitoring when artesunate cannot be administered. Individuals with severe malaria should be referred promptly to a specialist unit (<strong>IV</strong>). </li>
+    <li>Intravenous quinine (loading dose: 20 mg/kg intravenously infused over 4 h, maximum dose 1.4 g, then 10 mg/kg intravenously by infusion over 4 h every 8 h for 48 h, then 2 times a day [bd] thereafter, until the individual is able to take oral medication) is an alternative. Rapid referral should be made to a specialist centre (<strong>IV</strong>). </li>
+</ul>
+<p><strong>Prophylaxis</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>All HIV-seropositive individuals who travel to malaria-endemic areas should be offered malaria prophylaxis and given general advice on how to avoid mosquito bites as part of a comprehensive pre-travel assessment (<strong>IV</strong>). </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Leishmaniasis</span></strong></p>
+<p><strong>Diagnosis</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Diagnosis of leishmaniasis requires parasitological or histological confirmation (<strong>III</strong>). </li>
+    <li>Where leishmania is strongly suspected but standard tests are negative, discussion with a tropical medicine specialist is recommended to advise on the utility and interpretation of newer tests in the setting of HIV infection (<strong>IV</strong>). </li>
+    <li>Diagnosis depends on parasitological or histological demonstration of <em>Leishmania</em>. Parasitological diagnosis is most useful because identification of <em>Leishmania</em> species may guide appropriate treatment. In the context of HIV, standard diagnostic tests may be less sensitive and expert advice should be sought (<strong>IV</strong>). </li>
+</ul>
+<p><strong>Treatment</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Therapy for leishmaniasis should be co-ordinated with the local tropical medicine service (<strong>IV</strong>). </li>
+    <li>Liposomal amphotericin B is the treatment of choice for visceral leishmaniasis (<strong>III</strong>). </li>
+    <li>Secondary prophylaxis of visceral leishmaniasis is with liposomal amphotericin B or intravenous pentamidine (<strong>III</strong>). </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Chagas Disease (<em>Trypanosoma cruzi</em>)</span></strong></p>
+<p><strong>Diagnosis</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Diagnosis of Chagas disease requires a combination of imaging, serology, polymerase chain reaction (PCR) and if available histological confirmation (<strong>III</strong>). </li>
+    <li>Asymptomatic individuals with HIV infection from an endemic area should be screened with serology and, if positive, be further evaluated for disease (<strong>IV</strong>). </li>
+</ul>
+<p><strong>Treatment</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Therapy for Chagas disease should be co-ordinated with the local tropical medicine service (<strong>IV</strong>). </li>
+    <li>Benznidazole is the treatment of choice for acute primary infection or reactivation of Chagas disease, with nifurtimox the alternative (<strong>III</strong>). </li>
+    <li>Treatment should be considered for asymptomatic individuals with HIV infection and positive serology (<strong>III</strong>). </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Histoplasmosis, Blastomycosis and Coccidioidomycosis</span></strong></p>
+<p><strong>Diagnosis</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>In disseminated disease cultures of bone marrow are frequently positive (<strong>III</strong>). </li>
+    <li>Bone marrow trephine and culture should be performed if disseminated disease is suspected (<strong>III</strong>). </li>
+    <li>Diagnosis should be sought via culture and histological methods (<strong>III</strong>). </li>
+    <li>Consideration should be given to testing serum histoplasma antigen to follow the response to therapy in disseminated disease (<strong>III</strong>). </li>
+</ul>
+<p><strong>Treatment</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Localized disease should be treated initially as for HIV-seronegative individuals with itraconazole solution for histoplasmosis/blastomycosis and fluconazole for coccidioidomycosis (<strong>IV</strong>). </li>
+    <li>Moderately severe disseminated infection should receive induction treatment with liposomal amphotericin B 3 mg/kg/day intravenously (<strong>Ib</strong> histoplasmosis; <strong>IV</strong> blastomycosis/coccidioidomycosis). </li>
+    <li>After induction therapy maintenance therapy should be with itraconazole or, in the case of coccidioidomycosis, fluconazole (<strong>III</strong>). </li>
+    <li>Itraconazole treatment should be with the oral solution and therapeutic monitoring should be performed to ensure adequate levels (<strong>III</strong>). </li>
+    <li>For localized histoplasmosis or blastomycosis treatment is with itraconazole 200 mg bd, administered as the oral solution due to better bioavailability, and with therapeutic monitoring to check levels due to variability between individuals (Chapman et al., 2000). This recommendation represents an extrapolation of data and guidelines intended for HIV-seronegative individuals but seems appropriate for the less immunocompromised individuals who present with this form of disease (<strong>IV</strong>). For <em>C. immitis</em> fluconazole 400&amp;ndash;800 mg once a day (od) is the preferred azole (Ampel, 2005) (<strong>IV</strong>). </li>
+    <li>Liposomal amphotericin B at 3 mg/kg iv for 2 weeks is the preferred induction agent for moderately severe disseminated histoplasmosis in HIV-seropositive individuals, on the basis of a randomized clinical trial which demonstrated less infusion-related toxicity and nephrotoxicity and greater clinical success, as compared to conventional amphotericin B (Johnson et al., 2002) (<strong>Ib</strong>). Although fewer data exist for other disseminated infections with dimorphic fungi, it is reasonable to consider liposomal amphotericin B at 3 mg/kg/day for 2 weeks followed by itraconazole (or fluconazole for coccidioidomycosis) for other dimorphic fungi (<strong>IV</strong>). </li>
+    <li>Patients unable to tolerate amphotericin may be treated with intravenous itraconazole (fluconazole for coccidioidomycosis) although azoles have been little studied in moderately severe disseminated disease (<strong>IV</strong>). </li>
+    <li>After initial induction therapy for 2 weeks, maintenance therapy for the next 10 weeks should be with itraconazole oral solution 200 mg bd by mouth (po) with therapeutic drug monitoring as above. After this period the maintenance dose should be 200 mg od/bd with the goal of keeping the itraconazole level &amp;gt;4 mg/L (Wheat et al., 1995) (<strong>III</strong>). </li>
+    <li>For coccidioidomycosis there are fewer clinical data but moderately severe disease is treated with liposomal amphotericin B 3 mg/kg/day intravenously followed by maintenance with fluconazole 400&amp;ndash;800 mg od orally (<strong>IV</strong>). </li>
+    <li>Case reports and case series exist of the use of voriconazole and posaconazole against dimorphic fungi such as histoplasmosis and coccidioidomycosis in settings where individuals were not responding to conventional therapy, and these agents have <em>in vitro</em> activity against dimorphic fungi (Metcalf &amp;amp; Dockrell, 2007). These agents may be considered in cases intolerant to, or failing, amphotericin B and itraconazole (Ampel, 2005; Restrepo et al., 2007) (<strong>III</strong>). </li>
+</ul>
+<p><strong>Prophylaxis</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Routine primary prophylaxis for histoplasmosis and related dimorphic fungi is not indicated (<strong>IV</strong>). </li>
+    <li>Secondary prophylaxis can be discontinued if after 1 year of antifungal therapy there has been administration of highly active antiretroviral therapy (HAART) for &amp;gt;6 months and the CD4 count is &amp;gt;150 cells/&amp;micro;L (<strong>III</strong>). </li>
+</ul>
+<p><strong>Impact of HAART</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The best time to initiate HAART is unknown; however, improved responses of histoplasmosis are seen with HAART, and histoplasmosis-associated immune reconstitution inflammatory syndrome (IRIS) tends not to be life-threatening (Shelburne et al., 2005; Nacher et al., 2006) so commencing treatment within 2 weeks of therapy seems appropriate (<strong>IV</strong>). </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Penicilliosis</span></strong></p>
+<p><strong>Treatment</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Penicilliosis should be treated with amphotericin B induction therapy for 2 weeks, followed by itraconazole 200 mg bd orally for 10 weeks and then maintenance therapy 200 mg once a day (<strong>IV</strong>). </li>
+    <li>In Thailand, the greatest treatment experience has been with intravenous amphotericin B 0.6 mg/kg per day for 2 weeks followed by oral itraconazole 200 mg bd po for a further 10 weeks. This regimen has a response rate of up to 95% and is well tolerated (Sirisanthana et al., 1998). As discussed for other dimorphic fungi induction therapy with liposomal amphotericin B, 3 mg/kg/day intravenously, for the first 2 weeks should be considered in the UK (<strong>IV</strong>). </li>
+</ul>
+<p><strong>Prophylaxis</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Prophylaxis with itraconazole may be considered for travellers to endemic areas with CD4 counts &amp;lt;100 cells/&amp;micro;L. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><strong>Level of Evidence</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Level of Evidence&quot;>
+    <tbody>
+        <tr>
+            <th width=&quot;5%&quot; class=&quot;Center&quot; valign=&quot;top&quot;>Ia</th>
+            <td valign=&quot;top&quot;>Evidence obtained from meta-analysis of randomized controlled trials</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Ib</th>
+            <td valign=&quot;top&quot;>Evidence obtained from at least one randomized controlled trial</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>IIa</th>
+            <td valign=&quot;top&quot;>Evidence obtained from at least one well designed controlled study without randomization</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>IIb</th>
+            <td valign=&quot;top&quot;>Evidence obtained from at least one other type of well designed quasi-experimental study</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>III</th>
+            <td valign=&quot;top&quot;>Evidence obtained from well designed non-experimental descriptive studies</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>IV</th>
+            <td valign=&quot;top&quot;>Evidence obtained from expert committee reports or opinions and/or clinical experience of respected authorities</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Travel-related opportunistic infections
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Malaria </li>
+        <li>Leishmaniasis </li>
+        <li>Chagas disease (<em>Trypanosoma cruzi</em> infection) </li>
+        <li>Histoplasmosis </li>
+        <li>Blastomycosis </li>
+        <li>Coccidioidomycosis </li>
+        <li>Penicilliosis </li>
+    </ul>
+    </li>
+    <li>Human immunodeficiency virus (HIV) seropositivity </li>
+</ul>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Dermatology"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Infectious Diseases"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Pathology"/>
+      <fieldvalue value="Preventive Medicine"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To help physicians in the United Kingdom investigate and manage human immunodeficiency virus (HIV)-seropositive patients at risk of or having travel-related opportunistic infections</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Human immunodeficiency virus (HIV)-seropositive patients at risk of or having travel-related opportunistic infections</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Diagnosis</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Malaria: combination of thick and thin blood films with or without a rapid diagnostic (antigen) test </li>
+    <li>Leishmaniasis
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Parasitological confirmation </li>
+        <li>Histological confirmation </li>
+        <li>Consultation with tropical medicine specialist to advise on newer tests </li>
+    </ul>
+    </li>
+    <li>Chagas disease (<em>Trypanosoma cruzi</em>)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Combination of imaging, serology, polymerase chain reaction (PCR) and histological confirmation </li>
+        <li>Screening of asymptomatic individuals from an endemic area with serology and, if positive, further evaluation for disease </li>
+    </ul>
+    </li>
+    <li>Histoplasmosis, blastomycosis and coccidioidomycosis
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Bone marrow trephine and culture in disseminated disease </li>
+        <li>Testing serum histoplasma antigen to follow response to therapy </li>
+    </ul>
+    </li>
+</ol>
+<p><strong>Treatment/Prevention</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Malaria
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Oral artemether&amp;ndash;lumefantrine or oral quinine followed by doxycycline </li>
+        <li>Malarone (atovaquone&amp;ndash;proguanil) </li>
+        <li>Intravenous artesunate where available or with quinine by intravenous infusion with cardiac monitoring (for severe malaria) </li>
+        <li>Referral to a specialist unit (severe malaria) </li>
+        <li>Malaria prophylaxis for travelers to endemic area (e.g., mefloquine, Malarone, chloroquine) and advice on how to avoid mosquito bites </li>
+    </ul>
+    </li>
+    <li>Leishmaniasis
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Coordination of treatment with the local tropical medicine service </li>
+        <li>Liposomal amphotericin B </li>
+        <li>Secondary prophylaxis with liposomal amphotericin B or intravenous pentamidine </li>
+    </ul>
+    </li>
+    <li>Chagas disease (<em>Trypanosoma cruzi)</em>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Co-ordination of treatment with the local tropical medicine service </li>
+        <li>Benznidazole </li>
+        <li>Nifurtimox </li>
+    </ul>
+    </li>
+    <li>Histoplasmosis, blastomycosis and coccidioidomycosis
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Itraconazole solution for histoplasmosis/blastomycosis and fluconazole for coccidioidomycosis (localized disease) </li>
+        <li>Liposomal amphotericin B for induction treatment of moderately severe disseminated infection </li>
+        <li>Maintenance therapy (itraconazole or fluconazole) </li>
+        <li>Therapeutic drug monitoring for itraconazole </li>
+        <li>Primary prophylaxis (not indicated) </li>
+        <li>Secondary prophylaxis </li>
+    </ul>
+    </li>
+    <li>Penicilliosis
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Amphotericin B induction therapy, followed by itraconazole and maintenance </li>
+        <li>Itraconazole as prophylaxis for travelers to endemic areas </li>
+    </ul>
+    </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Sensitivity and specificity of diagnostic tests </li>
+    <li>Risk and incidence of travel-related infections </li>
+    <li>Safety and efficacy of drug treatments </li>
+    <li>Relapse rate </li>
+    <li>Response rate </li>
+    <li>Reactivation rate </li>
+    <li>Morbidity and mortality </li>
+    <li>Adverse events and drug interactions </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The PubMed database was searched under the following headings: HIV or AIDS and malaria, <em>Malaria falciparum</em>, leishmaniasis or <em>Leishmania</em> spp, <em>Trypanosoma cruzi</em>, American trypanosomiasis or Chagas disease, histoplasmosis, <em>Histoplasma capsulatum</em>, blastomycosis, <em>Blastomyces dermatitidis</em>, coccidioidomycosis, <em>Coccidioides immitis</em>, penicilliosis or <em>Penicillium marneffei</em>.</p>
+<p>All information considered had to have been published in a peer review journal or presented at an international human immunodeficiency virus (HIV) meeting in abstract form. Inclusion/exclusion criteria essentially required that the information was relevant to the diagnosis, treatment or prevention of the specified opportunistic infection in HIV-positive individuals. Information of relevance to other related immunocompromised groups was also taken into consideration if the section authors felt relevant. Case reports were included and the review was not restricted only to clinical trials or meta-analyses. Search dates were from 1980 to January 2011.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Level of Evidence</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Level of Evidence&quot;>
+    <tbody>
+        <tr>
+            <th width=&quot;5%&quot; class=&quot;Center&quot; valign=&quot;top&quot;>Ia</th>
+            <td valign=&quot;top&quot;>Evidence obtained from meta-analysis of randomized controlled trials</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Ib</th>
+            <td valign=&quot;top&quot;>Evidence obtained from at least one randomized controlled trial</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>IIa</th>
+            <td valign=&quot;top&quot;>Evidence obtained from at least one well designed controlled study without randomization</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>IIb</th>
+            <td valign=&quot;top&quot;>Evidence obtained from at least one other type of well designed quasi-experimental study</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>III</th>
+            <td valign=&quot;top&quot;>Evidence obtained from well designed non-experimental descriptive studies</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>IV</th>
+            <td valign=&quot;top&quot;>Evidence obtained from expert committee reports or opinions and/or clinical experience of respected authorities</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Systematic Review"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Not stated"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="98" ordby="605" id="425" name="References Supporting the Recommendations" type="citation">
+      <fieldvalue value="<table><tr><td>Ampel NM. Coccidioidomycosis in persons infected with HIV type 1. Clin Infect Dis. 2005 Oct 15;41(8):1174-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16163637&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Chapman SW, Bradsher RW, Campbell GD, Pappas PG, Kauffman CA. Practice guidelines for the management of patients with blastomycosis. Infectious Diseases Society of America. Clin Infect Dis. 2000 Apr;30(4):679-83. [21 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Johnson PC, Wheat LJ, Cloud GA, Goldman M, Lancaster D, Bamberger DM, Powderly WG, Hafner R, Kauffman CA, Dismukes WE, U.S. National Institute of Allergy and Infectious Diseases Mycoses Study Group. Safety and efficacy of liposomal amphotericin B compared with conventional amphotericin B for induction therapy of histoplasmosis in patients with AIDS. Ann Intern Med. 2002 Jul 16;137(2):105-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12118965&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lalloo DG, Shingadia D, Pasvol G, Chiodini PL, Whitty CJ, Beeching NJ, Hill DR, Warrell DA, Bannister BA, HPA Advisory Committee on Malaria Prevention in UK Travellers. UK malaria treatment guidelines. J Infect. 2007 Feb;54(2):111-21. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17215045&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Metcalf SC, Dockrell DH. Improved outcomes associated with advances in therapy for invasive fungal infections in immunocompromised hosts. J Infect. 2007 Oct;55(4):287-99.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Nacher M, Sarazin F, El Guedj M, Vaz T, Alvarez F, Nasser V, Randrianjohany A, Aznar C, Carme B, Couppié P. Increased incidence of disseminated histoplasmosis following highly active antiretroviral therapy initiation. J Acquir Immune Defic Syndr. 2006 Apr 1;41(4):468-70. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16652055&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Restrepo A, Tobón A, Clark B, Graham DR, Corcoran G, Bradsher RW, Goldman M, Pankey G, Moore T, Negroni R, Graybill JR. Salvage treatment of histoplasmosis with posaconazole. J Infect. 2007 Apr;54(4):319-27. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16824608&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Shelburne SA, Visnegarwala F, Adams C, Krause KL, Hamill RJ, White AC. Unusual manifestations of disseminated Histoplasmosis in patients responding to antiretroviral therapy. Am J Med. 2005 Sep;118(9):1038-41. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16164892&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Sirisanthana T, Supparatpinyo K, Perriens J, Nelson KE. Amphotericin B and itraconazole for treatment of disseminated Penicillium marneffei infection in human immunodeficiency virus-infected patients. Clin Infect Dis. 1998 May;26(5):1107-10. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9597237&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Wheat J, Hafner R, Korzun AH, Limjoco MT, Spencer P, Larsen RA, Hecht FM, Powderly W. Itraconazole treatment of disseminated histoplasmosis in patients with the acquired immunodeficiency syndrome. AIDS Clinical Trial Group. Am J Med. 1995 Apr;98(4):336-42. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7709945&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>WHO guidelines for malaria treatment. [internet]. 2010&amp;nbsp;[accessed 2011 Apr 13]. </td></tr></table>"/>
+    </field>
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for most recommendations (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Accurate diagnosis and appropriate treatment and prevention of travel-related opportunistic infections in human immunodeficiency virus (HIV)-seropositive individuals</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Quinine prolongs the QRS and QT intervals and can induce hypoglycaemia, so treatment must be given while connected to a cardiac monitor with regular measurement of blood glucose levels. There is a potential for increased cardiac problems due to an interaction between quinine and ritonavir. Refer to Table 10.1 in the original guideline document for additional potential antimalarial and antiretroviral drug interactions. </li>
+    <li>Patients should be tested for glucose-6-phosphate dehydrogenase (G6PD) deficiency before starting primaquine to quantify and minimize the risk of haemolysis. </li>
+    <li>Cases of leishmaniasis immune reconstitution inflammatory syndrome (IRIS) are described with new or worsening skin lesions including ulcers, mucocutaneous ulcers in the mouth or penis, post-kala-azar dermal leishmaniasis or uveitis. There are also reports of visceral leishmaniasis presenting as an immune reconstitution phenomenon after the start of antiretroviral therapy. There are multiple overlapping toxicities with human immunodeficiency virus (HIV) medication and treatment for leishmaniasis and liaison with an HIV pharmacist is recommended. </li>
+    <li>Histoplasmosis has been associated with IRIS in individuals commencing highly active antiretroviral therapy (HAART). Manifestations include lymphadenitis, hepatitis, arthritis and uveitis. There is less information with blastomycosis and coccidioidomycosis although theoretically IRIS could occur. </li>
+    <li>Benznidazole and nifurtimox have important side-effects and treatment should be supervised by a specialist tropical disease centre. </li>
+    <li>Malarone is safe and well tolerated. Efavirenz and protease inhibitors may reduce both atovaquone and proguanil levels and, although there are currently no recommendations to adjust the dose of Malarone, clinicians and their patients must remain vigilant for prophylaxis failures. </li>
+    <li>Refer to Appendix 1 in the original guideline document for side effects of certain drug formulations. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Mefloquine is contraindicated in patients with a history of epilepsy, neuropsychiatric disorders including depression, liver impairment and cardiac conduction disorders. Neurocognitive side effects with mefloquine are more common in women, those with low body mass index (BMI), those embarking on long-term travel and those with a history of recreational drug use. They are particularly common in younger adults and many authorities would therefore avoid this agent in younger adults, particularly if female, with a low BMI or with a history of recreational drug use. In pregnancy, the use of mefloquine requires careful risk&amp;ndash;benefit analysis and specialist advice should be sought. Mefloquine antagonizes the anticonvulsant effect of valproate and increases the incidence of cardiac conduction problems with moxifloxacin. </li>
+    <li>Doxycycline should be avoided in hepatic impairment, in those who cannot ensure regular administration of a sun block to prevent photosensitisation, and also in pregnant women and children under the age of 12 years. </li>
+    <li>Refer to Appendix 1 in the original guideline document for contraindications of certain drug formulations. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>These guidelines are primarily intended to guide practice in the United Kingdom and related health systems. Although it is hoped they can provide some guidance in developed countries there are some important distinctions in this environment and individual recommendations may not be as applicable in this setting. </li>
+    <li>In the appendices in the original guideline document there is an A&amp;ndash;Z of drugs used in the management of opportunistic infections. This is intended as a guideline but readers are advised to follow the discussion of dosing and the evidence for specific treatments provided in the text. In some cases alternative treatments are provided in the appendix in the original guideline document. These are not discussed in the text and these are mainly of historical interest and readers should be aware that these are not, in general, supported by the evidence base for treatments discussed in the text. It should also be noted that as evidence of drug toxicity, interactions, pregnancy risk and cost is rapidly evolving the table should be considered in association with the updated summary of product characteristics (SPC) for the agent and other relevant sources of drug information. </li>
+    <li>Recommendations based upon expert opinion have the least evidence but perhaps provide an important reason for writing the guidelines: to produce a consensual opinion about current practice. It must, however, be appreciated that such opinion is not always correct and alternative practices may be equally valid. The recommendations contained in these guidelines should therefore be viewed as guidelines in the true spirit of the term. They are not designed to be restrictive nor should they challenge research into current practice. Similarly, although the British HIV Association (BHIVA) Opportunistic Infection Guidelines Group seeks to provide guidelines to optimize treatment, such care needs to be individualized and the authors have not constructed a document that they would wish to see used as a 'standard' for litigation. </li>
+    <li>The clinical care of patients with known or suspected opportunistic infections (OIs) requires a multidisciplinary approach, drawing on the skills and experience of all healthcare professional groups. Moreover, these guidelines emphasize that inpatients with human immunodeficiency virus (HIV)-related disease often need rapid access to a variety of diagnostic tests and radiological interventions that may not be immediately available at local hospitals. Furthermore, expert interpretation of these tests by supporting specialties such as radiology, histopathology, microbiology and virology is often required. Optimal care of opportunistic infection can only be achieved by the close cooperation of these healthcare professionals and unless all are intimately involved in the care of patients, it is likely that the outcome will be less favourable. In keeping with BHIVA standards for HIV clinical care, patients needing inpatient care for HIV-related disease should ordinarily be admitted to an HIV centre or the relevant tertiary service in liaison with the HIV centre. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Mobile Device Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Angus BJ, Schmid ML, Dockrell DH, Grant AD. Travel-related opportunistic infections. In: British HIV Association and British Infection Association guidelines for the treatment of opportunistic infection in HIV-seropositive individuals 2011. HIV Med. 2011 Sep;12(Suppl 2):88-101. [113 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2011 Sep"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="British HIV Association - Disease Specific Society"/>
+      <fieldvalue value="British Infection Association - Professional Association"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>British HIV Association</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>BHIVA Guidelines Writing Group on Opportunistic Infection</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Section Authors</em>: BJ Angus, John Radcliffe Hospital, Oxford, UK; ML Schmid, Newcastle General Hospital, UK; DH Dockrell, University of Sheffield, UK; A Grant, London School of Hygiene and Tropical Medicine, UK</p>
+<p><em>Group Joint Chair</em>: Dr Mark Nelson, Chelsea &amp;amp; Westminster Hospital, London, UK</p>
+<p><em>Group Joint Chair</em>: Professor David Dockrell, University of Sheffield, UK</p>
+<p><em>Group Joint Chair</em>: Dr Simon Edwards, Mortimer Market Centre, London, UK</p>
+<p><em>Writing Group Members</em>: Dr Brian Angus, John Radcliffe Hospital, Oxford, UK; Dr Simon Barton, Chelsea &amp;amp; Westminster Hospital, London, UK; Dr Nick Beeching, Liverpool School of Tropical Medicine, UK; Prof Colm Bergin, St James's Hospital, Dublin, Ireland; Dr Marta Boffito, Chelsea &amp;amp; Westminster Hospital, London, UK; Dr Ronan Breen, Royal Free Hospital, London, UK; Dr Jonathan Cartledge, Mortimer Market Centre, London, UK; Dr Susan Clarke, St James's Hospital, Dublin, Ireland; Dr Martin Fisher, Brighton and Sussex University Hospital, Brighton, UK; Dr Andrew Freedman, Cardiff University School of Medicine, UK; Prof Brian Gazzard, Chelsea &amp;amp; Westminster Hospital, London, UK; Dr Alison Grant, London School of Hygiene and Tropical Medicine, UK; Dr Julia Greig, Royal Hallamshire Hospital, Sheffield, UK; Dr Rachael Jones, Chelsea &amp;amp; Westminster Hospital, London, UK; Prof Saye Khoo, University of Liverpool; Prof Clifford Leen, Edinburgh University, UK; Dr Marc Lipman, Royal Free Hospital, London, UK; Dr Hadi Manji, National Hospital for Neurology &amp;amp; Neurosurgery, London, UK; Prof Robert Miller, Mortimer Market Centre, London, UK; Miss Suzanne Mitchell, Chelsea and Westminster Hospital, London, UK; Dr Ed Ong, Newcastle General Hospital, UK; Dr Anton Pozniak, Chelsea &amp;amp; Westminster Hospital, London, UK; Dr Matthias Schmid, Newcastle General Hospital, UK; Miss Marianne Shiew, Chelsea &amp;amp; Westminster Hospital, London, UK; Prof Mervyn Singer, University College London, UK; Dr Ed Wilkins, North Manchester General Hospital, UK; Dr Ian Williams, Royal Free and University College Medical School, London, UK; Dr Chris Wood, North Middlesex University Hospital, London, UK; Ms Rosy Weston, St Mary's Hospital, Imperial College, London, UK</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The British HIV Association (BHIVA) has a clear policy of declarations of interests within the Association:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>BHIVA requires that all members of guidelines writing groups, as well as any expert external peer reviewers, must declare all interests and membership of other committees retrospectively on an annual basis, to give protection to individuals working as members of writing groups. </li>
+    <li>All members of guidelines writing groups must undertake a declaration of interests prior to serving on a writing group and this declaration is confirmed and repeated at the publication of each set of completed guidelines published. </li>
+    <li>The details given in declaration forms are retained on a register at the Secretariat and can be made available for publication, if required. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;http://www.bhiva.org/documents/Guidelines/OI/hiv_v12_is2_Iss2Press_Text.pdf&quot; title=&quot;British HIV Association (BHIVA) Web site&quot;>British HIV Association (BHIVA) Web site</a>. Also available as a smartphone app from the <a href=&quot;http://www.bhiva.org/Apps.aspx&quot; title=&quot;British HIV Association (BHIVA) Web site&quot;>BHIVA Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on July 30, 2014. This summary was updated by ECRI Institute on January 6, 2016 following the U.S. Food and Drug Administration advisory on Noxafil (posaconazole).</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 19:18:52 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:14:38 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 76.438 (3)
+  esindex: 0.008
+  captures_list: 94.704
+  CDXLines.iter: 13.552 (3)
+  PetaboxLoader3.datanode: 54.963 (4)
+  exclusion.robots: 0.285
+  exclusion.robots.policy: 0.274
+  RedisCDXSource: 1.645
+  PetaboxLoader3.resolve: 75.762
+  load_resource: 97.66
+-->

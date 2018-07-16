@@ -1,0 +1,989 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app40.us.archive.org';v.server_ms=715;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10213?contentType=xml', '20180713020806')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713020806/https://www.guideline.gov/summaries/downloadcontent/ngc-10213?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713020806/https://www.guideline.gov/summaries/downloadcontent/ngc-10213?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10213?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713020806" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610051714/https://www.guideline.gov/summaries/downloadcontent/ngc-10213?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 02:08:06 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610051714/https://www.guideline.gov/summaries/downloadcontent/ngc-10213?contentType=xml" title="05:17:14 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 02:08:06 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930224459/https://www.guideline.gov/summaries/downloadcontent/ngc-10213?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 02:08:06 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713020806*/https://www.guideline.gov/summaries/downloadcontent/ngc-10213?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10213?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Esophageal varices.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>World Gastroenterology Organisation (WGO). Esophageal varices. Milwaukee (WI): World Gastroenterology Organisation (WGO); 2014. 14 p.  [40 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: World Gastroenterology Organisation (WGO). Esophageal varices. Munich (Germany): World Gastroenterology Organisation (WGO); 2008 Jun. 17 p.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Risk Factors</span></strong></p>
+<p>An international normalized ratio (INR) score &amp;gt;1.5, a portal vein diameter of &amp;gt;13 mm, and thrombocytopenia have been found to be predictive of the likelihood of varices being present in cirrhotics. If none, one, two, or all three of these conditions are met, then &amp;lt;10%, 20%&amp;ndash;50%, 40%&amp;ndash;60%, and &amp;gt;90% of the patients are estimated to have varices, respectively. The presence of one or more of these conditions represents an indication for endoscopy to search for varices and carry out primary prophylaxis against bleeding in cirrhotic patients (see table below).</p>
+<p><strong>Table: Risk Factors for Esophageal Varices and Hemorrhage</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Risk Factors for Esophageal Varices and Hemorrhage&quot;>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Development of Varices</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>High portal vein pressure: hepatic venous pressure gradient (HVPG) &amp;gt;10 mmHg in patients who have no varices at initial endoscopic screening </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Progression from Small to Large Varices</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Decompensated cirrhosis (Child-Pugh B/C) </li>
+                <li>Alcoholic cirrhosis </li>
+                <li>Presence of red wale marks at baseline endoscopy (longitudinal dilated venules resembling whip marks on the variceal surface) </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Initial Variceal Bleeding Episode</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Large varices (&amp;gt;5 mm) with red color signs </li>
+                <li>High Child-Turcotte-Pugh (CTP) or Model for End-stage Liver Disease (MELD) score </li>
+                <li>Continuing alcohol consumption </li>
+                <li>High HVPG &amp;gt;16 mmHg </li>
+                <li>Coagulopathy </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Diagnosis and Differential Diagnosis</span></strong></p>
+<p>Esophagogastroduodenoscopy (EGD) is the gold standard for the diagnosis of esophageal varices. If the gold standard is not available, other possible diagnostic steps would be Doppler ultrasonography of the blood circulation (not endoscopic ultrasonography). Although this is a poor second choice, it can certainly demonstrate the presence of varices. Further alternatives include radiography/barium swallow of the esophagus and stomach, and portal vein angiography and manometry.</p>
+<p>It is important to assess the location (esophagus or stomach) and size of the varices, signs of imminent, first acute, or recurrent bleeding, and (if applicable) to consider the cause and severity of liver disease.</p>
+<p><strong>Table: Guideline for Diagnosing Esophageal Varices</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Guideline for Diagnosing Esophageal Varices&quot;>
+    <tbody>
+        <tr>
+            <th width=&quot;5%&quot; class=&quot;Center&quot; valign=&quot;top&quot;>1</th>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>A screening esophagogastroduodenoscopy (EGD) for the diagnosis of esophageal and gastric varices is recommended when a diagnosis of cirrhosis has been made</th>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; rowspan=&quot;5&quot;>2</th>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;><strong>Surveillance endoscopies are recommended on the basis of the level of cirrhosis and the presence and size of the varices:</strong></th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><em>Patients with</em></td>
+            <td valign=&quot;top&quot;><em>and</em></td>
+            <td valign=&quot;top&quot;><em>Repeat EGD</em></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot; rowspan=&quot;2&quot;>Compensated cirrhosis</td>
+            <td valign=&quot;top&quot;>No varices</td>
+            <td valign=&quot;top&quot;>Every 2&amp;ndash;3 years</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Small varices</td>
+            <td valign=&quot;top&quot;>Every 1&amp;ndash;2 years</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Decompensated cirrhosis</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td valign=&quot;top&quot;>Yearly intervals</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; rowspan=&quot;5&quot;>3</th>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Progression of gastrointestinal varices can be determined on the basis of the size classification at the time of EGD. In practice, the recommendations for medium-sized varices in the three-size classification are the same as for large varices in the two-size classification:</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><em>Size of varix</em></td>
+            <td valign=&quot;top&quot;><em>Two-size classification</em></td>
+            <td valign=&quot;top&quot;><em>Three-size classification</em></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Small</td>
+            <td valign=&quot;top&quot;>&amp;lt;5 mm</td>
+            <td valign=&quot;top&quot;>Minimally elevated veins above the esophageal mucosal surface</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Medium</td>
+            <td valign=&quot;top&quot;>&amp;ndash;</td>
+            <td valign=&quot;top&quot;>Tortuous veins occupying less than one-third of the esophageal lumen</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Large</td>
+            <td valign=&quot;top&quot;>&amp;gt;5 mm</td>
+            <td valign=&quot;top&quot;>Occupying more than one-third of the esophageal lumen</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; rowspan=&quot;2&quot;>4</th>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Variceal hemorrhage is diagnosed on the basis of one of the following findings on endoscopy:</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Active bleeding from a varix </li>
+                <li>&quot;White nipple&quot; overlying a varix </li>
+                <li>Clots overlying a varix </li>
+                <li>Varices with no other potential source of bleeding </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Differential Diagnosis of Esophageal Varices/Hemorrhage</strong></p>
+<p>The differential diagnosis for variceal hemorrhage (VH) includes all etiologies of (upper) gastrointestinal bleeding. Peptic ulcers are also more frequent in cirrhotics.</p>
+<p><strong>Table: Differential Diagnosis of Esophageal Varices/Hemorrhage</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Differential Diagnosis of Esophageal Varices/Hemorrhage&quot;>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Schistosomiasis </li>
+                <li>Severe congestive heart failure </li>
+                <li>Hemochromatosis </li>
+                <li>Wilson disease </li>
+                <li>Autoimmune hepatitis </li>
+                <li>Portal/splenic vein thrombosis </li>
+                <li>Sarcoidosis </li>
+                <li>Budd&amp;ndash;Chiari syndrome </li>
+                <li>Chronic pancreatitis </li>
+                <li>Hepatitis B </li>
+                <li>Hepatitis C </li>
+                <li>Alcoholic cirrhosis </li>
+                <li>Primary biliary cirrhosis (PBC) </li>
+                <li>Primary sclerosing cholangitis (PSC) </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;><strong>Note</strong>: All of these lead to the development of esophageal varices as a result of portal hypertension.</p>
+<p><strong>Other Considerations</strong></p>
+<p><strong>Table: Considerations in the Diagnosis, Prevention, and Management of Esophageal Varices and Variceal Hemorrhage</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Considerations in the Diagnosis, Prevention, and Management of Esophageal Varices and Variceal Hemorrhage&quot;>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Screening Esophagogastroduodenoscopy (EGD) in Cirrhotic Patients</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>The presence of high-grade varices or red wale marks may be an indication for prophylactic banding </li>
+                <li>Many who undergo screening EGD do not have varices or do not require prophylactic therapy </li>
+                <li>Expensive; requires sedation </li>
+                <li>Can be avoided in cirrhotic patients with nonselective &amp;beta;-blocker treatment for arterial hypertension or other reasons </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Noninvasive Markers &amp;ndash; e.g., Platelet Count, FibroTest, Spleen Size, Portal Vein Diameter, Transient Elastography</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Predictive accuracy still unsatisfactory </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>&amp;beta;-blocker Therapy</th>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Cost-effective form of prophylactic therapy </li>
+                <li>Does not prevent development or growth from small to large varices </li>
+                <li>Has significant side effects </li>
+                <li>Patients receiving a selective &amp;beta;-blocker (metoprolol, atenolol) for other reasons should switch to a nonselective &amp;beta;-blocker (propranolol, nadolol, or carvedilol) </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Management of Varices and Hemorrhage</span></strong></p>
+<p>The following treatment options are available in the management of esophageal varices and hemorrhage (see tables below for pharmacologic therapy and endoscopy therapy). Although they are effective in stopping bleeding, none of these measures, with the exception of endoscopic therapy, has been shown to affect mortality.</p>
+<p><strong>Table: Pharmacological Therapy</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table 5: Pharmacological Therapy&quot;>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Splanchnic Vasoconstrictors</strong>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Vasopressin (analogues) </li>
+                <li>Somatostatin (analogues) </li>
+                <li>Non-cardioselective &amp;beta;-blockers </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><blockquote>Pharmacotherapy with somatostatin (analogues) is effective in stopping hemorrhage, at least temporarily, in up to 80% of patients. Somatostatin may be superior to its analogue octreotide. </blockquote></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><blockquote>About 30% of patients do not respond to &amp;beta;-blockers with a reduction in the hepatic venous pressure gradient (HVPG), despite adequate dosing. These non-responders can only be detected by invasive HVPG measurements. Moreover, &amp;beta;-blockers may cause side effects such as fatigue and impotence, which may impair compliance (especially in younger males), or &amp;beta;-blockers may be contraindicated for other reasons. </blockquote></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Venodilators</strong>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Nitrates </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><blockquote>Nitrates alone are not recommended. Isosorbide 5-mononitrate (ISMN) reduces portal pressure, but its use in cirrhotic patients is limited by its systemic vasodilatory effects, often leading to a further decrease in blood pressure and potentially to (prerenal) impairment of kidney function.</blockquote></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Vasoconstrictors and Vasodilators</strong>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Combination therapy leads to a synergistic effect in reducing portal pressure. </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><blockquote>Combining ISMN with non-selective &amp;beta;-blockers has been shown to have additive effects in lowering portal pressure and to be particularly effective in patients who do not respond to initial therapy with &amp;beta;-blockers alone. However, these beneficial effects may be outweighed by detrimental effects on kidney function and long-term mortality, especially in those aged over 50. Routine use of combination therapy is therefore not recommended.</blockquote></td>
+        </tr>
+    </tbody>
+</table>
+<p>The use of vasoactive drugs may be safe and effective whenever endoscopic therapy is not promptly available and is associated with less adverse events than emergency sclerotherapy.</p>
+<p><strong>Table: Endoscopic Therapy</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Endoscopic Therapy&quot;>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Local Therapies</strong>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Endoscopic variceal ligation (EVL) or sclerotherapy </li>
+                <li>No effect on portal flow or resistance </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Shunting Therapy</strong>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Surgical or radiological (transjugular intrahepatic portosystemic shunt [TIPS]) </li>
+                <li>Reduces portal pressure </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>Endoscopic sclerotherapy and variceal band ligation are effective in stopping bleeding in up to 90% of patients. EVL is more effective than endoscopic variceal sclerotherapy (EVS) with greater control of hemorrhage, lower rebleeding, and lower adverse events but without differences in mortality. However, endoscopic band ligation may be more difficult to apply than sclerotherapy in patients with severe active bleeding.</p>
+<p>A transjugular intrahepatic portosystemic shunt (TIPS) is a good alternative when endoscopic treatment and pharmacotherapy fail.</p>
+<p>The use of balloon tamponade is decreasing, as there is a high risk of rebleeding after deflation and a risk of major complications. Nevertheless, balloon tamponade is effective in most cases in stopping hemorrhage at least temporarily, and it can be used in regions of the world where EGD and TIPS are not readily available. It can help stabilize the patient in order to gain time and access to EGD and/or TIPS later.</p>
+<p>Combined endoscopic and pharmacologic treatment is shown to achieve better control of acute bleeding than endoscopic treatment alone.</p>
+<p><strong>Clinical Practice</strong></p>
+<p>The approach in patients with cirrhosis and various stages of varices/hemorrhage is shown in the following figures.</p>
+<p><strong>Figure: Patients with Cirrhosis But No Varices.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Figure: Patients with Cirrhosis But No Varices. &quot;>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot;>No varices</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>►</td>
+            <td valign=&quot;top&quot;>&amp;beta;-blockers do not prevent varices</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>►</td>
+            <td valign=&quot;top&quot;>Repeat esophagogastroduodenoscopy (EGD) in 3 years</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>►</td>
+            <td valign=&quot;top&quot;>Immediate EGD if hepatic decompensation occurs</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Figure: Patients with Cirrhosis and Small Varices, But No Hemorrhage</strong></p>
+<table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Figure: Patients with Cirrhosis and Small Varices, But No Hemorrhage&quot;>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot;>Increased risk of hemorrhage: Child B/C or presence of red wale marks</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>►</td>
+            <td valign=&quot;top&quot;>Non-selective &amp;beta;-blockers for prevention first variceal hemorrhage</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;><strong>No increased risk</strong></th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>►</td>
+            <td valign=&quot;top&quot;>&amp;beta;-blockers can be used &amp;ndash; long-term benefits not established</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>Not receiving &amp;beta;-blockers</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>►</td>
+            <td valign=&quot;top&quot;>Repeat esophagogastroduodenoscopy (EGD) in 2 years</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>►</td>
+            <td valign=&quot;top&quot;>In case of hepatic decompensation: EGD at once; repeat annually</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>Patients on &amp;beta;-blockers</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>►</td>
+            <td valign=&quot;top&quot;>Follow-up EGD not necessary*</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>*Because many patients do not respond to &amp;beta;-blocker treatment or bleeding prophylaxis, it is recommended that EGD be repeated after 2 years (as for those not receiving &amp;beta;-blockers).</p>
+<p><strong>Figure: Patients with Cirrhosis and Medium or Large Varices, But No Hemorrhage. </strong></p>
+<table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Figure: Patients with Cirrhosis and Medium or Large Varices, But No Hemorrhage.&quot;>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot;>High risk of hemorrhage: Child B/C or variceal red wale markings</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>►</td>
+            <td style=&quot;vertical-align: middle; text-align: left;&quot;>&amp;beta;-blockers (propranolol, nadolol, or carvedilol) or endoscopic variceal ligation (EVL) recommended for prevention first variceal hemorrhage</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>Not at highest risk: Child A patients and no red signs</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>►</td>
+            <td valign=&quot;top&quot;>Non-selective &amp;beta;-blockers (propranolol, nadolol, or carvedilol) preferred</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>►</td>
+            <td valign=&quot;top&quot;>In case of contraindications, intolerance, non-compliance: consider EVL</td>
+        </tr>
+    </tbody>
+</table>
+<p>Non-cardioselective &amp;beta;-blockers (propranolol, nadolol, or carvedilol), starting at a low dosage, if necessary increasing the dose step by step until a reduction in the resting heart rate of 25%, but not lower than 55 beats/min, is reached.</p>
+<p>In comparison with &amp;beta;-blockers, EVL was found to reduce bleeding episodes and severe adverse events significantly, but it had no effect on the mortality rate.</p>
+<p><strong>Figure: Patients with Cirrhosis and Acute Variceal Hemorrhage</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Figure: Patients with Cirrhosis and Acute Variceal Hemorrhage&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>EMERGENCY SCHEME if Variceal Hemorrhage Is Suspected</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Next 12&amp;ndash;24 hrs</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>▼</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>▼</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Resuscitation Measures</strong>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Intravenous (IV) volume support </li>
+                <li>Blood transfusion </li>
+            </ul>
+            <strong>Antibiotic Prophylaxis (up to 7 days)</strong>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Oral norfloxacin (400 mg BID) </li>
+                <li>Or IV ciprofloxacin </li>
+                <li>Or IV ceftriaxone (1g/day) in advanced cirrhosis </li>
+            </ul>
+            <strong>Pharmacological Therapy&amp;ndash;Continue 2&amp;ndash;5 days after Confirmed Diagnosis</strong>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Terlipressin (2 mg every 4 hrs) </li>
+                <li>Or somatostatin (or octreotide, vapreotide) </li>
+            </ul>
+            </td>
+            <td valign=&quot;top&quot;><strong>Within 12 hours:</strong>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Confirm diagnosis with esophagogastroduodenoscopy (EGD) </li>
+                <li>Treat variceal hemorrhage with endoscopic variceal ligation (EVL) or sclerotherapy </li>
+            </ul>
+            <strong>In uncontrollable bleeding or recurrence:</strong>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Transjugular intrahepatic portosystemic shunt (TIPS) indicated </li>
+            </ul>
+            <strong>In uncontrollable bleeding while waiting for TIPS or endoscopic therapy:</strong>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Balloon tamponade as temporizing measure for 24 hours maximum </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;><strong>Note</strong>: Terlipressin is currently available in much of Europe, India, Australia, and the UAE, but not in the United States or Canada.</p>
+<p>Acute variceal hemorrhage is often associated with bacterial infection due to gut translocation and motility disturbances. Prophylactic antibiotic therapy has been shown to reduce bacterial infections, variceal rebleeding, and increase the survival rate.</p>
+<p>In acute or massive variceal bleeding, tracheal intubation can be extremely helpful to avoid bronchial aspiration of blood.</p>
+<p>In patients with VH in the gastric fundus: endoscopic variceal obliteration using tissue adhesives (such as cyanoacrylate) is preferred; the second choice is EVL.</p>
+<p>TIPS should be considered in uncontrollable fundovariceal bleeding or recurrence despite combined pharmacological and endoscopic therapy.</p>
+<p>Emergency sclerotherapy is not better than pharmacological therapy for acute variceal bleeding in cirrhosis.</p>
+<p>Terlipressin reduces failure to control bleeding and mortality, and should be the first choice for pharmacological therapy when available. Where terlipressin is not available, somatostatin, octreotide, and vapreotide could be used.</p>
+<p>Treating esophageal bleeding with somatostatin analogues does not appear to reduce deaths, but may lessen the need for blood transfusions.</p>
+<p><strong>Figure: Patients with Cirrhosis Who Have Recovered from Acute Variceal Hemorrhage</strong></p>
+<table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Figure: Patients with Cirrhosis and Small Varices, But No Hemorrhage&quot;>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot;>Secondary prophylaxis</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>►</td>
+            <td valign=&quot;top&quot;>Non-selective &amp;beta;-blockers plus endoscopic variceal ligation (EVL)</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>►</td>
+            <td valign=&quot;top&quot;>Adjust &amp;beta;-blocker to maximal tolerated dose</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>►</td>
+            <td valign=&quot;top&quot;>Repeat EVL every 1&amp;ndash;2 weeks until obliteration with esophagogastroduodenoscopy (EGD) at 1&amp;ndash;3 months</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>In Child A/B patients with recurrent hemorrhage despite combination therapy</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>►</td>
+            <td valign=&quot;top&quot;>Consider surgical shunt in Child A patients</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>►</td>
+            <td valign=&quot;top&quot;>Refer to transplant center for evaluation</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+<p>Long-term endoscopic control and banding or sclerotherapy of recurrent varices every 3 to 6 months (in many places in the developing world, only sclerotherapy will be available). If endoscopic band ligation is not available or contraindicated, non-cardioselective &amp;beta;-blockers (propranolol, nadolol, or carvedilol) starting at a low dosage and if necessary increasing the dosage step by step until a reduction in the resting heart rate by 25%, but not lower than 55 beats/min, is achieved.</p>
+<p>In younger patients with less advanced cirrhosis (Child-Pugh A), the addition of isosorbide 5-mononitrate (ISMN) (starting at 2 &amp;times; 20 mg per day and increasing to 2 &amp;times; 40 mg per day) may be considered if sclerotherapy or pharmacotherapy fail. TIPS should be considered, especially in candidates for liver transplantation. In selected cases (patients with well-preserved liver function, stable liver disease), a calibrated H graft or a distal splenorenal shunt (Warren shunt) may be considered.</p>
+<p>Portosystemic shunts are associated with lower rates of variceal rebleeding in comparison with sclerotherapy/banding, but they increase the incidence of hepatic encephalopathy.</p>
+<p>Liver transplantation should always be considered if the patient has Child-Pugh grades B or C.</p>
+<p><strong>Recommendations for First-line Management of Cirrhotic Patients at Each Stage in the Natural History of Varices (see figure below)</strong></p>
+<p><strong>Figure: Recommendations for First-line Management</strong></p>
+<table width=&quot;50%&quot; border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Figure: Recommendations for First-line Management&quot;>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;><strong>No Varices</strong>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Repeat endoscopy in 2&amp;ndash;3 years </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>▼</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Small Varices &amp;ndash; No Hemorrhage</strong>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Repeat endoscopy in 1&amp;ndash;2 years </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>▼</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Medium/Large Varices &amp;ndash; No Hemorrhage</strong>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>&amp;beta;-blockers (propranolol, nadolol, or carvedilol) </li>
+                <li>Endoscopic variceal ligation (EVL) if &amp;beta;-blockers are not tolerated </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>▼</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Variceal hemorrhage</strong>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Specific therapy: safe vasoactive drug + EVL </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot;>▼</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Recurrent hemorrhage</strong>
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>&amp;beta;-blockers +/- isosorbide 5-mononitrate (ISMN) or EVL </li>
+                <li>&amp;beta;-blockers + EVL </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Cascade for Treatment</span></strong></p>
+<p>A cascade is a hierarchical set of diagnostic or therapeutic techniques for the same disease, ranked by the resources available.</p>
+<p>As outlined above, several therapeutic options are effective in most clinical situations involving acute variceal hemorrhage, as well as in secondary and primary prophylaxis against it. The optimal therapy in an individual setting very much depends on the relative ease of local availability of these methods and techniques. This is likely to vary widely in different parts of the world.</p>
+<p>If endoscopy is not readily available, one has to resort to pharmacotherapy in any case of suspected variceal bleeding &amp;mdash; e.g., in patients with hematemesis and signs of cirrhosis. Similarly, pharmacological therapy might be administered in circumstances such as primary prophylaxis in a cirrhotic patient with signs of portal hypertension (splenomegaly, thrombocytopenia) and/or impaired liver function, and as secondary prophylaxis in a cirrhotic patient with a history of upper gastrointestinal bleeding.</p>
+<p>If pharmacotherapy is also not available and variceal bleeding is suspected, one must resort to general resuscitation measures and transport the patient as soon as possible to an institution where the necessary diagnostic/therapeutic means are available; balloon tamponade could be extremely helpful in such a situation.</p>
+<p><strong>Figure: Cascade for the Treatment of Acute Esophageal Variceal Hemorrhage</strong></p>
+<table width=&quot;50%&quot; border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Figure: Cascade for the Treatment of Acute Esophageal Variceal Hemorrhage&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot; colspan=&quot;3&quot;>Resource Level</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Gold Standard</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 5%;&quot;>&amp;mdash;</td>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Band ligation + vasoactive intravenous (IV) drug therapy: octreotide or terlipressin</th>
+        </tr>
+        <tr>
+            <td class=&quot;alignleft&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot; colspan=&quot;3&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;▼</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Normal</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 5%;&quot;>&amp;mdash;</td>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Band ligation</th>
+        </tr>
+        <tr>
+            <td class=&quot;alignleft&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot; colspan=&quot;3&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;▼</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Medium</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 5%;&quot;>&amp;mdash;</td>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Sclerotherapy</th>
+        </tr>
+        <tr>
+            <td class=&quot;alignleft&quot; valign=&quot;top&quot; style=&quot;width: 4%;&quot; colspan=&quot;3&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;▼</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Low</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot; style=&quot;width: 5%;&quot;>&amp;mdash;</td>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Balloon therapy</th>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;><strong>Note</strong>: The combination of band ligation and sclerotherapy is not routinely used except when the bleeding is too extensive for a vessel to be identified for banding. In such cases, sclerotherapy can be carried out in order to control the bleeding and clear the field sufficiently for banding to be done afterward.</p>
+<p class=&quot;Note&quot;><strong>Caution</strong>: There are many conditions that can lead to esophageal varices. There are also many treatment options, depending on the resources available. For a resource-sensitive approach to treatment in Africa, for example, Fedail SS. Esophageal varices in Sudan. Gastrointest Endosc 2002;56:781-2 can be consulted.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Esophageal varices </li>
+    <li>Variceal bleeding</li>
+</ul>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Critical Care"/>
+      <fieldvalue value="Emergency Medicine"/>
+      <fieldvalue value="Gastroenterology"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Radiology"/>
+      <fieldvalue value="Surgery"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To provide globally relevant recommendations on the diagnosis, prevention, management, and treatment of esophageal varices</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients with esophageal varices</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Diagnosis/Evaluation</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Diagnostic procedures
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Esophagogastroduodenoscopy (EGD): screening and surveillance </li>
+        <li>Doppler ultrasonography </li>
+        <li>Radiography/barium swallow of esophagus and stomach </li>
+        <li>Portal vein angiography </li>
+        <li>Manometry </li>
+        <li>Noninvasive markers (e.g., platelet count, FibroTest, spleen size, portal vein diameter, transient elastography) (predictive accuracy unsatisfactory) </li>
+        <li>Endoscopic ultrasound </li>
+    </ul>
+    </li>
+    <li>Differential diagnosis of etiologies of upper gastrointestinal bleeding </li>
+    <li>Assessment of risk factors
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Hepatic venous pressure gradient (HVPG) </li>
+        <li>Child-Pugh classification of the severity of cirrhosis </li>
+        <li>Classification of patients according to stage in the natural history of varices </li>
+    </ul>
+    </li>
+    <li>Frequency of surveillance </li>
+</ol>
+<p><strong>Management/Treatment</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Pharmacologic therapy
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Splanchnic vasoconstrictors (vasopressin [analogues], somatostatin [analogues], and non-cardioselective &amp;beta;-blockers) </li>
+        <li>Venodilators (nitrates alone not recommended) </li>
+        <li>Combination therapy of vasoconstrictors and vasodilators (routine use is not recommended) </li>
+        <li>Prophylactic antibiotic therapy (norfloxacin, ciprofloxacin, ceftriaxone) </li>
+    </ul>
+    </li>
+    <li>Tracheal intubation </li>
+    <li>Endoscopic therapy
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Endoscopic variceal obliteration using tissue adhesives (such as cyanoacrylate) </li>
+        <li>Endoscopic variceal ligation (EVL) </li>
+        <li>Sclerotherapy </li>
+        <li>Surgical or radiological shunts (transjugular intrahepatic portosystemic shunt [TIPS]) </li>
+        <li>Balloon tamponade </li>
+    </ul>
+    </li>
+    <li>Liver transplantation </li>
+    <li>Resuscitation measures (intravenous volume support, blood transfusion) </li>
+    <li>Duration of treatment </li>
+    <li>Follow-up </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Incidence and prevalence of esophageal and gastric bleeding </li>
+    <li>Change in Child-Pugh score and grade </li>
+    <li>Incidence of hepatic decompensation </li>
+    <li>Mortality </li>
+    <li>Drug side effects</li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>World Gastroenterology Organisation's (WGO's) Graded Evidence System</strong></p>
+<p>WGO's 'Graded Evidence' system is built to help Societies of Gastroenterology and all those interested in the practice and research of gastroenterology keep track of the literature in topics covered by WGO Guidelines. Most guidelines are based on evidence which is out of date as they appear. Sometimes the 'lag time' is as much as 2&amp;ndash;3 years. WGO's Graded Evidence system bridges this gap. WGO Guidelines are constantly reviewed and updates are built when new information becomes available.</p>
+<p>Level 1 Evidence is collected from PubMed and includes meta-analyses, systematic reviews, randomized controlled trials, and evidence-based practice guidelines.</p>
+<p>The following gastroenterology and hepatology journals are scanned:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Gastroenterology </li>
+    <li>Hepatology </li>
+    <li>Gut </li>
+    <li>Journal of Hepatology </li>
+    <li>Nature Reviews Gastroenterology and Hepatology </li>
+    <li>American Journal of Gastroenterology </li>
+    <li>Seminars in Liver Disease </li>
+    <li>Clinical Gastroenterology and Hepatology </li>
+    <li>Endoscopy </li>
+    <li>Gastrointestinal Endoscopy </li>
+</ul>
+<p>The following general medical journals are scanned:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>New England Journal of Medicine </li>
+    <li>Lancet </li>
+    <li>JAMA-Journal of the American Medical Association </li>
+    <li>Annals of Internal Medicine </li>
+    <li>PLOS Medicine </li>
+    <li>BMJ - British Medical Journal </li>
+    <li>JAMA Internal Medicine </li>
+    <li>Canadian Medical Association Journal </li>
+    <li>BMC Medicine </li>
+    <li>Cochrane Database of Systematic Reviews </li>
+</ul>
+<p>Graded Evidence is an iterative process - and for that reason need not be so concerned with searching both Medline, EMBASE and Biosis for example. All top gastroenterology (GI) journals are covered by both Medline and EMBASE in single one-off complex searches unique citations in one or the other are often due either to differences in database currency or differences in coverage of less important journals. In addition to cost issues, the generous republishing and copyright policies of the US National Library of Medicine (NLM) make Medline the preferred choice. The WGO Graded Evidence library is grateful to the NLM for making data available to clinicians and practitioners outside the US for free.</p>
+<p><strong>Search Strategies</strong></p>
+<p>Search strategies for each topic are based on a combination of controlled access and free text terms. The strategies aim for 'precision rather than 'sensitivity'. Highly sensitive search strategies as for example used by the Cochrane Collaboration when collecting literature reviews produce many irrelevant records. The advantage is these strategies retrieve all records which are relevant to a topic. But the 'number needed to read' is large and thus time consuming. Busy gastroenterologists probably prefer very precise search strategies in top GI journals and thus make sure every major article is found. The WGO Graded Evidence works along the lines of PobMed-Medline 'Clinical queries' features. Precise searches only find relevant information. Indexing errors may still be responsible for irrelevant or duplicate records. Case studies and animal studies are not usually included.</p>
+<p>Graded Evidence records link directly to PubMed-Medline and from here the searcher can follow the various link options to find similar records or an indication of how to find full text.</p>
+<p><strong>Guideline-specific Methods</strong></p>
+<p>A database search of EMBASE.COM which includes Medline and the Cochrane databases was performed from July 2008 to 1 November 2013.</p>
+<p>The Review Committee is kept up to date with all current and new evidence through the Graded Evidence and Evidence Alert update services based on monthly high level evidence searches in EMBASE/Medline.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Meta-analyses, systematic reviews, practice guidelines: 52 </li>
+    <li>Clinical trials (randomized controlled trials only after 2012): 36 </li>
+</ul>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Expert Consensus (Committee)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review"/>
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Each citation is assessed in terms of the quality of an article and how relevant it is for the guideline topic in question. Articles are then scored by assigning one or several stars:</p>
+<p><strong>Grade Key</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Key Development - 3 stars </li>
+    <li>Very Important - 2 stars </li>
+    <li>Important - 1 star </li>
+    <li>Special Mention - 0 stars </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Graded Evidence</strong></p>
+<p>The World Gastroenterology Organisation (WGO) Guidelines Library contains practice guidelines written from a viewpoint of global applicability. WGO Guidelines are available in English, Spanish, Portuguese, French, Mandarin and Russian. WGO Guidelines go through a rigorous process of authoring, editing and peer review and are as evidence based as possible. Ultimate responsibility and editorial control lies with the WGO Guidelines Committee.</p>
+<p>Each guideline includes references to other relevant guidelines. These are collected, summarized and re-published or linked-to by WGO for the benefit of members. In many instances, there will be more than one guideline. For example guidelines on Colorectal Cancer Screening are published by WGO, but the Scottish Intercollegiate Guidelines Network (SIGN) also publishes guidelines on this topic as does the New Zealand Guidelines Group and the Canadian Medical Association.</p>
+<p>WGO is the only organisation however, who has adopted a global focus. Cascade-based WGO guidelines offer different treatment options for diagnosis and treatment depending on the resources available. A cascade is a hierarchical set of diagnostic or therapeutic techniques for the same disease, ranked according to the resources available.</p>
+<p>WGO Guidelines are globally applicable by the nature of their cascades, which identify other ways of achieving the best possible outcome by taking the available resources into account. In addition, each guideline review team includes non-Western experts with direct knowledge of conditions in their regions.</p>
+<p><strong>Guideline-specific Methods</strong></p>
+<p>An expert committee was convened to review the currency of the guidelines. Search results, level 1 evidence, were reviewed by the committee members, and the guideline was updated by reaching consensus or as decided by the chair/co-chair of the review committee. All communication was by email and incidentally by Skype.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>World Gastroenterology Organisation (WGO) Guidelines go through a rigorous process of authoring, editing and peer review and are as evidence based as possible.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of evidence supporting the recommendations is not specifically stated.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate diagnosis, prevention, management, and treatment of esophageal varices</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>&amp;beta;-blockers may cause side effects such as fatigue and impotence, which may impair compliance (especially in younger males). </li>
+    <li>The use of balloon tamponade is decreasing, as there is a high risk of rebleeding after deflation and a risk of major complications. </li>
+    <li>Portosystemic shunts are associated with lower rates of variceal rebleeding in comparison with sclerotherapy/banding, but they increase the incidence of hepatic encephalopathy. </li>
+    <li>Isosorbide 5-mononitrate (ISMN) reduces portal pressure, but its use in cirrhotic patients is limited by its systemic vasodilatory effects, often leading to a further decrease in blood pressure and potentially to (prerenal) impairment of kidney function. </li>
+    <li>Combining ISMN with nonselective &amp;beta;-blockers has been shown to have additive effects in lowering portal pressure and to be particularly effective in patients who do not respond to initial therapy with &amp;beta;-blockers alone. However, these beneficial effects may be outweighed by detrimental effects on kidney function and long-term mortality, especially in those aged over 50. Routine use of combination therapy is therefore not recommended. </li>
+    <li>Emergency sclerotherapy may be associated with adverse effects. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Timeliness "/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>World Gastroenterology Organisation (WGO). Esophageal varices. Milwaukee (WI): World Gastroenterology Organisation (WGO); 2014. 14 p.  [40 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2008 Jun (revised 2014)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="World Gastroenterology Organisation - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>World Gastroenterology Organisation (WGO-OMGE)</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Guidelines Committee</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Revision Authors</em>: Prof. D. LaBrecque (USA); Prof. A.G. Khan (Pakistan); Prof. S.K. Sarin (India); Drs. A.W. Le Mair (Netherlands)</p>
+<p><em>Original Review Team</em>: Prof. D. LaBrecque (<em>Chair</em>, USA); Prof. P. Dite (<em>Co-chair</em>, Czech Republic); Prof. Michael Fried (Switzerland); Prof. A. Gangl (Austria); Prof. A.G. Khan (Pakistan); Prof. D. Bjorkman (USA); Prof. R. Eliakim (Israel); Prof. R. Bektaeva (Kazakhstan); Prof. S.K. Sarin (India); Prof. S. Fedail (Sudan); Drs. J.H. Krabshuis (France); Drs. A.W. Le Mair (Netherlands)</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: World Gastroenterology Organisation (WGO). Esophageal varices. Munich (Germany): World Gastroenterology Organisation (WGO); 2008 Jun. 17 p.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;http://www.worldgastroenterology.org/assets/export/userfiles/2014_FINAL_ESOPHAGEAL-VARICES.pdf&quot; title=&quot;World Gastroenterology Organisation (WGO) Web site&quot;>World Gastroenterology Organisation (WGO) Web site</a>.</p>
+<p>Print copies: Available from the WGO, 555 East Wells Street, Suite 1100, Milwaukee, WI 53202 USA; Phone: +1 (414) 918-9798; Fax: +1 (414) 276-3349; E-mail: <a href=&quot;mailto:info@worldgastroenterology.org&quot;>info@worldgastroenterology.org</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Graded evidence. Professor Andr&amp;eacute; Elewaut's and Professor Johan Fevery's essential reading. Available from the <a href=&quot;http://www.worldgastroenterology.org/graded-evidence-access.html&quot; title=&quot;WGO-OMGE Web site&quot;>World Gastroenterology Organisation (WGO) Web site</a>. </li>
+</ul>
+<p>Print copies: Available from the WGO, 555 East Wells Street, Suite 1100, Milwaukee, WI 53202 USA; Phone: +1 (414) 918-9798; Fax: +1 (414) 276-3349; E-mail: <a href=&quot;mailto:info@worldgastroenterology.org&quot;>info@worldgastroenterology.org</a>.</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI on December 31, 2008. This summary was updated by ECRI Institute on May 5, 2009, following the U.S. Food and Drug Administration (FDA) advisory on Rocephin (ceftriaxone sodium). This summary was updated by ECRI Institute on October 25, 2013 following the U.S. Food and Drug Administration advisory on Fluoroquinolone Antibacterial Drugs. This summary was updated by ECRI Institute on May 1, 2014. The updated information was verified by the guideline developer on May 19, 2014. This summary was updated by ECRI Institute on May 18, 2016 following the U.S. Food and Drug Administration advisory on Fluoroquinolone Antibacterial Drugs. This summary was updated by ECRI Institute on February 15, 2017 following the U.S. Food and Drug Administration advisory on general anesthetic and sedation drugs.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The copyright of these Guidelines is retained by WGO. Users may download or print copies for their own use and may photocopy guidelines for the purpose of producing local protocols. However, republishing any guideline or part of any guideline, in any form, without specific authorisation from WGO is specifically prohibited. Permission to reproduce or republish WGO Guidelines or excerpts from Guidelines can be obtained from the WGO Executive Secretariat, 555 East Wells Street, Suite 1100, Milwaukee, WI 53202 USA or by email: <a href=&quot;mailto:info@worldgastroenterology.org&quot; class=&quot;ApplyClass&quot;>info@worldgastroenterology.org</a>. WGO does not endorse in any way derivative or excerpted materials based on these Guidelines and it cannot be held liable for the content or use of any such adapted products. Although every effort has been made to ensure the accuracy and completeness of these electronic WGO Guidelines, WGO cannot accept any responsibility for errors or omissions and assumes no responsibility or liability for loss or damage resulting from the use of information contained in these Guidelines.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 02:08:06 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:30:35 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 203.825 (3)
+  esindex: 0.01
+  captures_list: 248.911
+  CDXLines.iter: 17.335 (3)
+  PetaboxLoader3.datanode: 230.284 (4)
+  exclusion.robots: 0.282
+  exclusion.robots.policy: 0.268
+  RedisCDXSource: 22.504
+  PetaboxLoader3.resolve: 343.508
+  load_resource: 407.823
+-->

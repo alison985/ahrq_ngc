@@ -1,0 +1,930 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app40.us.archive.org';v.server_ms=1408;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10215?contentType=xml', '20160930203642')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930203642/https://www.guideline.gov/summaries/downloadcontent/ngc-10215?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930203642/https://www.guideline.gov/summaries/downloadcontent/ngc-10215?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10215?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930203642" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 20:36:42 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 20:36:42 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 20:36:42 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930203642*/https://www.guideline.gov/summaries/downloadcontent/ngc-10215?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10215?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Lipid management in adults.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Woolley T, Canoniero M, Conroy W, Fareed M, Groen S, Helmrick K, Kofron P, Kottke T, Leslie S, Myers C, Needham R, O'Connor P, Peters J, Reddan J, Sorge L, Zerr B. Lipid management in adults. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2013 Nov. 49 p.  [88 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Institute for Clinical Systems Improvement (ICSI). Lipid management in adults. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2011 Oct. 67 p.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC) and the Institute for Clinical Systems Improvement (ICSI)</strong>: For a description of what has changed since the previous version of this guidance, refer to <a href=&quot;https://www.icsi.org/_asset/3k2lj6/LipidMgmtSoC.pdf&quot; title=&quot;ICSI Web site&quot;>Summary of Changes Report &amp;mdash; November 2013</a>. In addition, ICSI has made a decision to transition to the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system as a method of assessing the quality of evidence and writing recommendations.</p>
+<p>The recommendations for lipid management in adults are presented in the form of a table with a list of evidence-based recommendations and an algorithm with 16 components, accompanied by detailed annotations. An algorithm is provided in the <a href=&quot;https://www.icsi.org/_asset/qz5ydq/LipidMgmt.pdf&quot; title=&quot;ICSI Web site&quot;>original guideline document</a> at the ICSI Web site for Lipid Management in Adults. Clinical highlights and selected annotations (numbered to correspond with the algorithm) follow.</p>
+<p>Class of evidence (Low Quality, Moderate Quality, High Quality) and strength of recommendation (Weak or Strong) definitions are provided at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Clinical Highlights</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Initiate a statin in patients who have established atherosclerotic cardiovascular disease (ASCVD). <em>(Annotation #3, 12)</em> </li>
+    <li>Establish lipid goals based on risk level. <em>(Annotation #3)</em> </li>
+    <li>Instruct patients on healthy lifestyle and adjunctive measures. <em>(Annotation #8, 14)</em> </li>
+    <li>Patient adherence with recommended therapy should be reinforced during scheduled follow-up. <em>(Annotations #16)</em> </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Lipid Management in Adults Algorithm Annotations</span></strong></p>
+<ol style=&quot;list-style-type: decimal;&quot;>
+    <li><strong>Patient Has Dyslipidemia, ASCVD or Is at High Risk for Coronary Heart Disease (CHD)</strong>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Secondary causes of abnormal lipid levels should be considered and treated when appropriate. </li>
+        <li>Patients with established ASCVD: CHD, peripheral arterial disease (PAD) or stroke presumed of atherosclerotic origin or diabetes. </li>
+    </ul>
+    <p>See Appendix A, &quot;Identified Secondary Causes and Conditions Associated with Hyperlipidemia,&quot; in the original guideline document.</p>
+    </li>
+</ol>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;3&quot;>
+    <li><strong>Calculate 10-Year Risk for CHD</strong>
+    <p><strong>Recommendation</strong>:</p>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Clinicians should use a quantitative estimate of cardiovascular risk to guide lipid management decision-making for the adult population <em>[Strong Recommendation, Low Quality Evidence]</em> (Yusuf et al., 2004; National Cholesterol Education Program, 2001; Stamler, Wentworth, &amp;amp; Neaton, 1986). </li>
+    </ul>
+    <p>The National Cholesterol Education Program Adult Treatment Panel III (ATP III) defines high risk as a net of two or more CHD risk factors, which leads to more vigorous intervention <em>[Guideline]</em>. Identified risk factors are:</p>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Age 45 years or older for men; age 55 years or older for women. CHD rates are higher in the elderly than in the young, and in men more than in women of the same age. </li>
+        <li>A family history of premature CHD, defined as definite myocardial infarction (MI) or sudden death before age 55 in the father or a male primary relative, or before age 65 in the mother or a female primary relative </li>
+        <li>Currently smoking </li>
+        <li>Hypertension, defined as blood pressure greater than 140/90 mm Hg (confirmed by measurement on several occasions) or current use of any antihypertensive medication </li>
+        <li>Low high density lipoprotein (HDL) cholesterol level (less than 40 mg/dL) </li>
+    </ul>
+    <p><strong>A cardiac risk calculator</strong> based on the Framingham study can be accessed through the following Web site: <a href=&quot;http://cvdrisk.nhlbi.nih.gov/calculator.asp&quot; title=&quot;NHLBI Web site&quot; target=&quot;_blank&quot;>http://cvdrisk.nhlbi.nih.gov/calculator.asp</a>.</p>
+    <p>Obesity and physical inactivity are not listed as risk factors, but should be considered as targets for intervention. Obesity operates through other risk factors (hypertension, hyperlipidemia, decreased HDL-cholesterol, and diabetes mellitus).</p>
+    <p>If HDL-cholesterol is 60 mg/dL or higher, one risk factor may be subtracted, because high HDL-cholesterol levels decrease CHD risk. (For example, if a patient has three risk factors but his or her HDL-cholesterol level is 60 mg/dL or higher, one risk factor is subtracted, leaving a total of two risk factors.)</p>
+    <p>High-sensitivity C-reactive protein (CRP) may have an independent value as a predictor of cardiovascular disease risk and independent value in identifying patients with normal lipids who could benefit from treatment.</p>
+    </li>
+</ol>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;8&quot;>
+    <li><strong>Reinforce Healthy Lifestyle</strong>
+    <p><strong>Recommendations</strong>:</p>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Clinicians should advise patients who are overweight to reduce their caloric intake to achieve weight loss <em>[Strong Recommendation, High Quality Evidence]</em> (National Cholesterol Education Program Expert Panel, 2002; Stefanick et al., 1998; Schuler et al., 1992; Ornish et al., 1990). </li>
+        <li>Clinicians should advise a patient to follow a dietary pattern that emphasizes fruits, vegetables, plantoids, fish, nuts and legumes <em>[Strong Recommendation, High Quality Evidence]</em> (Stefanick et al., 1998; Schuler et al., 1992; Ornish et al., 1990). </li>
+        <li>Clinicians should advise a patient to follow a diet low in saturated and trans fats, and added sugars; and high in soluble fiber, with consideration given to adding 2 grams of plant sterol/stanol <em>[Strong Recommendation, Moderate Quality Evidence]</em> (Grundy, 2005; Gylling, Rahakrishan, &amp;amp; Miettinen, 1997; Miettinen et al., 1995; Gylling &amp;amp; Miettinen, 1994; Vanhanen et al., 1993). </li>
+    </ul>
+    <p>Diet and exercise are the cornerstones of treatment for asymptomatic patients with dyslipidemia. Patients with an elevated low density lipoprotein (LDL)-cholesterol level should begin the Therapeutic Lifestyle Changes program and an individualized program of regular exercise. A diet low in saturated and trans fats, and added sugars; and high in soluble fiber, with consideration given to adding 2 grams of plant sterol/stanol is recommended.</p>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Patients who are overweight should be advised to reduce their calorie intake to achieve weight loss. </li>
+        <li>Patients should follow the diet and exercise program for a reasonable amount of time to determine whether their LDL-cholesterol level is lowered to the target range. For many asymptomatic patients, a diet and exercise program is sufficient. </li>
+    </ul>
+    <p>Lifestyle modifications include diet; aerobic exercise; weight management; smoking cessation; evaluation of alcohol consumption; and a nutritional supplement containing sitostanol ester, a saturated derivative of a plant seed oil (eicosapentaenoic acid and docosahexaenoic acid [EPA-DHA]). The addition of 2 grams of plant sterol/stanol can effectively lower LDL. To avoid unintended toxic effects from vitamins, patients should be cautioned not to exceed recommended doses.</p>
+    <p>Vitamin E supplements should not be used. Studies have shown no benefit in preventing clinical outcomes, and smaller studies suggest a blunting of the benefit from antidyslipidemic medications on HDL-cholesterol and angiographic progression of vascular disease.</p>
+    <p>Refer to the original guideline document for the more detailed discussion on diet, aerobic exercise, weight management, smoking cessation, evaluation of alcohol consumption, sterol and stanol ester nutritional supplement, fish oil (EPA-DHA), and omega-3 fatty acids.</p>
+    <p>Additional information can be found in the NGC summary of the ICSI guideline <a href=&quot;/content.aspx?id=46239&quot; title=&quot;Guideline #9897&quot;>Healthy lifestyles</a>.</p>
+    </li>
+</ol>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;11&quot;>
+    <li><strong>Consider Statin Treatment</strong>
+    <p>The use of statin therapy may be considered based on the patient's risk factors. The severity of the dyslipidemia increases the benefit of prescribing a statin. Shared decision-making and a full discussion of the risks and benefits of medication and patient preferences should be included before starting any medications.</p>
+    <p>Additional information on the ICSI Shared Decision-Making Model can be found on the <a href=&quot;https://www.icsi.org/health_initiatives/shared_decision-making/&quot; title=&quot;ICSI Web site&quot;>ICSI Web site</a>.</p>
+    </li>
+</ol>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;12&quot;>
+    <li><strong>Initiate Statin Treatment</strong>
+    <p><strong>Recommendations</strong>:</p>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Clinicians should initiate statin therapy regardless of LDL, in patients with established ASCVD <em>[Strong Recommendation, High Quality Evidence]</em> (Cannon et al., 2004; Heart Protection Study Collaborative Group, 2002; Shepherd et al., 2002; LaRosa, He, &amp;amp; Vupputuri, 1999; The Long-Term Intervention with Pravastatin in Ischaemic Disease (LIPID) Study Group, 1998; Goldberg et al., 1998; &quot;Randomised trial of cholesterol lowering,&quot; 1994). </li>
+        <li>Clinicians should initiate statin therapy in patients whose LDL is greater than 100 and have a 10-year CHD risk &amp;ge;10% or diabetes <em>[Strong Recommendation, High Quality Evidence]</em> (Taylor et al., 2013; Cholesterol Treatment Trialists Collaborators, 2012; Sever et al., 2003; Shepherd et al., 2002; Heart Protection Study Collaborative Group, 2002; Pignone, Phillips, &amp;amp; Mulrow, 2000; Downs et al., 1998; Frick et al., 1987; Shepherd et al., 1995; Lipid Research Clinics Program, 1984). </li>
+        <li>Combination therapy should be initiated only on an individual basis, as no studies have shown a benefit to use at this time, and some studies have shown an increased risk of harm over statin monotherapy <em>[Strong Recommendation, Moderate Quality Evidence]</em> (HPS2-THRIVE Collaborative 2013; Sharma et al., 2009). </li>
+    </ul>
+    <p>The decision to begin drug therapy must be based on a clinical discussion with the patient in which the evidence-based outcome data, possible side effects, and cost are weighed.</p>
+    <p>Additional information on the ICSI Shared Decision-Making Model can be found on the <a href=&quot;https://www.icsi.org/health_initiatives/shared_decision-making/&quot; title=&quot;ICSI Web site&quot;>ICSI Web site</a>.</p>
+    <p>No primary prevention studies have addressed pharmacologic lipid treatment in persons at low risk for CHD, and there is no evidence to support drug treatment in this population. In particular, the incidence of CHD in men under 40 and premenopausal women is very low, and drug treatment in these groups is discouraged.</p>
+    <p>The LDL threshold for drug therapy is consistent with ATP-III. However, in particular cases, drug therapy may be considered at LDL thresholds 30 mg/dL lower than noted in Annotation boxes #4-5 in the original guideline document.</p>
+    <p>Please refer to Tables 7 and 8 in the original guideline document for &quot;Absolute Risk Reduction and Number Needed to Treat [NNT] with Pharmacologic Lipid Lowering&quot; and &quot;Primary Prevention for CHD,&quot; respectively.</p>
+    <p><strong>Statin Therapy Management</strong></p>
+    <p>Patients with risk factors for coronary heart disease but no history of disease who receive lipid-lowering therapy are likely to experience a decreased risk of coronary heart disease.</p>
+    <p>Patients with a history of coronary disease (including unstable angina and acute myocardial infarction) often benefit from treatment with a statin. Studies have consistently shown a decrease in risk of death from coronary heart disease.</p>
+    <p>Thus, for care of patients with established ASCVD, or whose 10-year CHD risk &amp;ge;10% or who have diabetes, the use of statin therapy is recommended.</p>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>For shorter half-life drugs, bedtime or evening dose of statin is more effective (fluvastatin, lovastatin, pravastatin, simvastatin) for higher cholesterol synthesis. </li>
+        <li>Dosage adjustments should not be made more often than every four weeks after a fasting lipid panel. </li>
+        <li>Please consult manufacturer's product label insert, Physician's Desk Reference (PDR), etc., for full prescribing information. </li>
+    </ul>
+    <p><strong>Monotherapy</strong></p>
+    <p>Reducing LDL-cholesterol (LDL-C) levels is the primary approach to lowering risk of CHD in both primary and secondary prevention. In some patients, triglycerides may be elevated along with LDL-C, so reducing triglycerides and increasing HDL-cholesterol (HDL-C) may also be desirable. Selection of drug therapy is dependent on several factors including lipoprotein levels and percent reduction needed to attain goal; concurrent drug therapies that could increase the risk of side effects occurring with specific lipid-lowering drugs; and presence of other medical disorders that may affect drug metabolism, increase risk of side effects or be adversely affected by a specific lipid-lowering drug.</p>
+    <p>Statins are the drugs of choice for lowering LDL-C and aggressive treatment with statins should be pursued. Seven statins are available: atorvastatin, fluvastatin, lovastatin, pravastatin, rosuvastatin, simvastatin, pitavastatin.</p>
+    <p>Statins also have a modest effect on reducing triglycerides and increasing HDL-C. Several studies with clinical endpoints support use of statins in primary and secondary prevention.</p>
+    <p>If a patient is intolerant to a statin, clinicians are encouraged to have the patient try the other statins before ruling them all out. This is especially important in secondary prevention. In the Heart Protection Study, there was no significant difference between the simvastatin 40 mg and placebo groups in the number of patients with elevations of serum transaminases or unexplained muscle aches or weakness.</p>
+    <p><strong>Safety Considerations in Prescribing Statins in Primary Care Settings</strong></p>
+    <p><strong>DO</strong> </p>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Check baseline renal function prior to initiating statin therapy. </li>
+        <li>Check alanine aminotransferase (ALT) or aspartate aminotransferase (AST) levels prior to prescribing a statin and as clinically indicated after initiation. </li>
+        <li>Consider the potential for drug-drug interactions when prescribing statins. </li>
+        <li>Be alert for patient characteristics that may increase the risk for myopathy during statin therapy, such as advanced age (particularly elderly women), renal or liver impairment, diabetes with evidence of hepatic fatty changes, hypothyroidism, drugs of abuse (amphetamines, phencyclidine, heroin, cocaine), surgery, trauma, ischemia-reperfusion, debilitated status, excessive alcohol intake and heavy exercise. </li>
+        <li>Provide patient education regarding recognition and reporting of symptoms of myopathy during statin therapy. </li>
+        <li>Counsel patients to discontinue statin therapy during a short course of a macrolide or ketolide antibiotic (e.g., azithromycin, clarithromycin, erythromycin or telithromycin). </li>
+        <li>Suspect myopathy when a statin-treated patient complains of unexplained, generalized muscle pain, tenderness or weakness. Joint pain, nocturnal leg cramps or localized pain are not symptoms of myopathy. </li>
+        <li>Check creatine kinase (CK) levels when a patient reports symptoms of myopathy. </li>
+        <li>If CK levels are abnormal and less than five times upper limit of normal, repeat measurement in one week. </li>
+        <li>If CK levels are elevated to five times upper limit of normal or greater, discontinue statin therapy and monitor serum CK levels. </li>
+        <li>Assess for signs of dehydration or renal compromise in patients with myopathy. </li>
+        <li>Consider the differences in pharmacokinetic profiles among statins, particularly in patients requiring long-term therapy with drugs that are CYP3A4 substrates, inhibitors or both. </li>
+    </ul>
+    <p><strong>DON'T</strong></p>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Prescribe statin-fibrate combination therapy in patients with the following conditions: impaired liver or renal function (creatinine level greater than 2.0 mg/dL), cyclosporine or tacrolimus therapy, long-term macrolide antibiotic therapy or azole antifungal therapy, advanced age (greater than 70 years), skeletal muscle conditions. </li>
+    </ul>
+    <p>Refer to the original guideline document for information on statin treatment in chronic kidney disease and patients on hemodialysis.</p>
+    <p><strong>Statin Safety and the Muscle</strong></p>
+    <p><em>Myalgia</em></p>
+    <p>Myalgia is defined as pain or soreness and/or weakness in skeletal muscles in the absence of serum creatinine elevation. Symptoms of myalgia are quite variable and include cramping, pain, aches, tenderness, soreness, stiffness, heaviness, and weakness either at rest or only during physical exertion. Muscle cramping at night only is not likely statin related.</p>
+    <p><em>Myopathy</em></p>
+    <p>Myopathy is defined as complaints of myalgia, plus elevation in serum CK greater than 10 times the upper limit of normal (ULN).</p>
+    <p>The U.S. Food and Drug Administration (FDA) has updated the recommendations for prescribing statins to limit the risk of myopathy.</p>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Simvastatin 80 mg dose is limited to patients who have been taking an 80 mg dose for greater than 12 consecutive months without evidence of myopathy. </li>
+        <li>Some drugs are metabolized through the same pathways that statins follow and when taken concurrently with statins, can increase both the amount of statin in the blood and the risk of myopathy. The manufacturer's product labeling insert should be consulted for specific dosing guidelines. </li>
+    </ul>
+    <p><em>Rhabdomyolysis</em></p>
+    <p>Rhabdomyolysis is defined as CK elevation &amp;gt;10,000 U/L, in accord with the definition currently used by the FDA, regardless of whether the patient has experienced a change in renal function, because such a CK level places the patient at high risk for acute renal failure. A second component is CK &amp;gt;10x the ULN with worsening renal function and/or a requirement for medical intervention with intravenous hydration therapy, along with myalgia.</p>
+    <p>Refer to the original guideline document for information about the incidence of muscle symptoms.</p>
+    <p><em>Recommendations Regarding Statin Safety and Muscle Symptoms</em></p>
+    <ol style=&quot;list-style-type: decimal;&quot;>
+        <li>Muscle symptoms or increased CK due to statin therapy is rare. Rule out other causes including increased physical activity, trauma, falls, accidents, seizure, shaking chills, hypothyroidism, infections, carbon monoxide poisoning, polymyositis, dermatomyositis, polymyalgia rheumatica, alcohol abuse and drug abuse (cocaine, amphetamines, heroin or phencyclidine [PCP]). </li>
+        <li>Baseline pretreatment CK levels are not necessary; however, they can be considered in high-risk patients. Risk factors for muscle toxicity include advanced age and frailty, small body frame, deteriorating renal function, infection, untreated hypothyroidism, interacting drugs, perioperative patients and alcohol abuse. </li>
+        <li>It is not necessary to measure CK levels in asymptomatic patients during treatment. Marked increases are rare and usually related to physical exertion or other causes. </li>
+        <li>Patient education regarding the muscle symptoms to watch for and report is essential for all patients taking statins. </li>
+        <li>Measure CK levels in symptomatic patients to help decide whether to continue therapy or alter dose. </li>
+        <li>Discontinue statin in patients with intolerable muscle symptoms with or without CK elevation when other etiologies are ruled out.
+        <p>Once asymptomatic, resume the same or different statin at the same or lower dose. Recurrence of symptoms with multiple statins and doses requires initiation of other lipid-altering therapy.</p>
+        <p>Patient counseling regarding intensification of therapeutic lifestyle changes (reduced intake of trans fat, saturated fats and cholesterol, increased physical activity, and weight control) should be an integral part of management in all patients with statin-associated intolerable muscle symptoms.</p>
+        </li>
+        <li>If patient is asymptomatic or has tolerable muscle complaints but CK less than 10x the ULN, continue statin at same or lower dose while monitoring symptoms. </li>
+        <li>If patient develops rhabdomyolysis (CK greater than 10,000 IU/L or CK greater than 10x the ULN with elevation in serum creatinine, OR requiring intravenous [IV] hydration therapy), stop statin. Hospitalization may be required. Once recovered, the risk versus benefit of therapy should be carefully reconsidered. </li>
+    </ol>
+    <p><strong>Patients Unable to Use Statin Therapy</strong></p>
+    <p>Myalgias are common in patients with statins; however, the cause and effect relationship is unclear. The work group recommends trying other statins or lowering the dose. Consider a 10- to 14-day vacation from statins and see if the myalgia symptoms abate as a diagnostic maneuver. The evidence is inconclusive at this time for treating myalgia with vitamin D and coenzyme Q.</p>
+    <p>If patients are intolerant to a statin, clinicians are encouraged to have the patient try the other statins in reduced doses before ruling out all statins.</p>
+    <p>If patients are unable to take a statin, then bile-acid sequestrants, niacin, fibric acid derivatives or fibrates, and ezetimibe are available.</p>
+    <p><strong>Other Medications</strong></p>
+    <p><strong>Niacin</strong></p>
+    <p>Niacin should not be used in combination therapy with a statin, as two major trials have shown increased side effects without any reduction in cardiovascular outcomes. Niacin may be considered as monotherapy in patients who can't tolerate a statin or fibrate.</p>
+    <p>Niacin is available in crystalline (immediate-release) and SR (sustained release) preparations and is available over the counter. The ER (extended-release) preparation niacin is a prescription drug.</p>
+    <p><em>Efficacy</em></p>
+    <p>Monotherapy &amp;ndash; in the Coronary Drug Project, a large-scale secondary prevention trial, crystalline niacin 3 grams/day reduced mortality 11% over placebo.</p>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>It exerts favorable effects on all lipids and lipoproteins, good for mixed hyperlipidemia. </li>
+        <li>Crystalline niacin reduces triglycerides 20% to 40%, increases HDL-C 15% to 35%, and decreases LDL-C 6% to 25%. </li>
+        <li>Extended-release niacin reduces triglycerides 11% to 35%, increases HDL-C 15% to 26%, and decreases LDL-C 9% to 17%. </li>
+        <li>Sustained-release niacin reduces triglycerides 10% to 40%, increases HDL-C 5% to 15% and decreases LDL-C 6% to 50% (but this latter effect may be due to hepatic toxicity). </li>
+    </ul>
+    <p><em>Safety</em></p>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Flushing and pruritus of face and upper trunk are common and may be alleviated with pre-treatment of aspirin. Tolerance usually develops and patients are more accepting if they know what to expect. With crystalline niacin, flush and pruritus usually occur within 30 minutes and are gone in about that time. Flushing is reduced with SR niacin, but it still occurs. </li>
+        <li>Liver toxicity may be associated with niacin. Risk appears greater with SR niacin, and appears dose related (most occurring with doses of 2 grams/day or higher). Hepatotoxicity has occurred when patients switched from crystalline niacin to a SR form without a decrease in dose. Patients who are asymptomatic with only elevations in transaminases (to three times the upper limit of normal) may respond to dose reduction. If transaminases exceed three times the upper limit of normal or patients are symptomatic (e.g., nausea, vomiting, diarrhea, anorexia, fatigue and/or jaundice), niacin should be discontinued. With discontinuation, symptoms decline within two weeks and lab abnormalities should resolve within one to four months. In a long-term (59 weeks) study of niacin in an extended-release, median dose of 2 grams/day, less than 1% of participants with normal serum transaminases at baseline had elevations greater than three times the upper limit of normal. </li>
+        <li>Gastrointestinal (GI) complaints (nausea and abdominal pain) are more common with SR niacin; this can be minimized by taking with meals. Activation of peptic ulcer has occurred, so history of peptic ulcer is a relative contraindication. </li>
+        <li>Uric acid may be slightly increased. Rarely, this may lead to acute gouty arthritis. </li>
+        <li>Serum glucose concentrations may be increased with higher doses (greater than 3 grams/day), especially in patients with type II diabetes or glucose intolerance. Glucose monitoring is critical for use of niacin in these patients. Some adjustment in their hypoglycemic therapy may be needed. However, data from the Arterial Disease Multiple Intervention Trial (ADMIT) indicate that niacin can usually be safely used in patients with diabetes. Niacin use in patients with diabetes resulted in a small but significant change in HbA1c levels of 0.3% versus placebo. </li>
+        <li>Combination with a statin may increase risk of myopathy. </li>
+    </ul>
+    <p><strong>Gemfibrozil, Fenofibrate, and Fenofibrate Micronized</strong></p>
+    <p><em>Efficacy</em></p>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Prior to initiating a fibric acid, lifestyle therapies should be intensified for moderately elevated triglycerides. These include reduction of liquid sugar, all refined starches and saturated fat; increase moderate intensity exercise; and weight reduction. </li>
+        <li>With fibric acids, triglycerides are reduced 30% to 50%, HDL-C increases 10% to 20%. Total cholesterol is only modestly reduced 5% to 20% in patients without elevated triglycerides. Effect on LDL-C is variable: fenofibrate may lower LDL-C more than gemfibrozil, but it is less effective than statins (dependent on baseline triglyceride level). </li>
+        <li>Good for severe hypertriglyceridemia (triglycerides &amp;gt;500 mg/dL) in patients at risk for pancreatitis and for prevention of CHD (not proven for fenofibrate) when patient has an abnormal lipid triad of depressed HDL-C, elevated LDL-C and elevated triglycerides. May be particularly useful in diabetics with mixed hyperlipidemia and for patients with dysbetalipoproteinemia. The combination of simvastatin and fenofibrates did not reduce fatal or non-fatal cardiovascular events as compared to simvastatin alone in patients with type 2 diabetes in the ACCORD lipid trial. </li>
+        <li>The VA-HIT trial utilizing gemfibrozil showed a 22% reduction in CHD death and non-fatal MI in patients with documented CHD and low HDL-C as their primary lipid abnormality. </li>
+    </ul>
+    <p><em>Safety</em></p>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Myositis has occurred rarely in patients on monotherapy with fibric acids. Risk of myopathy and possibly rhabdomyolysis appears increased when taken with statins, particularly with gemfibrozil in combination with statins.
+        <p>There may be a potential difference in risk of myopathy between gemfibrozil and fenofibrate when combined with statins. Gemfibrozil is contraindicated in coordination with simvastatin. Combination therapy with lovastatin and rosuvastatin should be avoided. Fenofibrate had no effect on plasma levels of rosuvastatin. Generally, fenofibrate may be used in combination with statins if the benefits outweigh the risk.</p>
+        </li>
+        <li>Cholelithiasis and cholecystitis can occur (0.3% to 1% incidence) due to increased cholesterol excreted in the bile. Fibric acids are contraindicated in patients with pre-existing gallbladder disease. </li>
+        <li>Use with caution in patients with a history of liver disease. Fibric acids are contraindicated in patients with hepatic impairment, including primary biliary cirrhosis, or in severe renal impairment. </li>
+        <li>Hematologic adverse reactions are rare. </li>
+        <li>Warfarin's anticoagulant effect may be potentiated; international normalized ratio (INR) should be monitored closely at the initiation of a fibric acid, with dose changes, and with discontinuing a fibric acid. </li>
+    </ul>
+    <p><strong>Ezetimibe</strong></p>
+    <p><em>Efficacy</em></p>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Long-term effects on cardiovascular morbidity and mortality are unknown. </li>
+        <li>LDL-C lowered about 18%. </li>
+        <li>Additive LDL-C reduction when used in combination with statins. </li>
+        <li>FDA approved ezetimibe with fenofibrate. </li>
+    </ul>
+    <p><em>Safety</em></p>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Short-term tolerability is similar to placebo. Long-term safety is unknown. </li>
+        <li>Not recommended for use in patients with moderate to severe hepatic impairment based on Child-Pugh score. The area under the curve (AUC) of ezetimibe increased fourfold in patients with moderate hepatic impairment (Child-Pugh score 7 to 9). </li>
+        <li>Co-administration with cyclosporine increased ezetimibe blood level 12-fold in one renal transplant patient. Patients on cyclosporine and ezetimibe should be monitored carefully. </li>
+        <li>Cholestyramine co-administration decreased the mean AUC of total ezetimibe by 55%. Ezetimibe should be given two hours before or four hours after bile-acid sequestrants. </li>
+    </ul>
+    <p><strong>Bile-Acid Sequestrants</strong></p>
+    <p><em>Efficacy</em></p>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>In the Lipid Research Clinics Coronary Primary Prevention Trial (LRD-CPPT), a 19% reduction in risk of fatal and non-fatal MI was seen in patients taking cholestyramine 24 g/day. In those patients who didn't take 24 g/day, a linear relationship was seen with reduction in CH risk corresponding to cholestyramine dose and reduction in LDL-C. </li>
+        <li>LDL-C lowered 15% to 30% (dose dependent). </li>
+        <li>Triglycerides may increase 15% &amp;ndash; should not be used as sole therapy if triglycerides are greater than 200 mg/dL and should not be used at all if triglycerides are greater than 400 mg/dL. </li>
+        <li>Effects apparent within one week and maximum at two to three weeks. </li>
+        <li>Useful for patients with moderately elevated LDL-C. </li>
+        <li>Good for combination therapy. </li>
+        <li>LDL-C reductions enhanced with low doses. </li>
+        <li>Most potent with statin. </li>
+    </ul>
+    <p><em>Safety</em></p>
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Not systemically absorbed &amp;ndash; side effects limited to GI tract. </li>
+        <li>Patients who have phenylketonuria (PKU) should know that Questran&amp;reg; Lite, Prevalite&amp;reg;, and flavored colestipol powder contain aspartame. Regular Questran&amp;reg; and unflavored colestipol powder and tablets do not. </li>
+        <li>Drug interactions are minimized by taking other medications one hour before the sequestrant or four hours after. </li>
+        <li>The net effect of combination with warfarin is unpredictable. Cholestyramine decreases the absorption of warfarin and may reduce warfarin's half-life by interfering with enterohepatic circulation. Vitamin K absorption may also be reduced; thus, the net effect on coagulation is hard to predict. Colestipol and colesevelam have been reported not to interact with warfarin, and thus may be safer agents. Separating these agents by at least four hours from warfarin and close monitoring of INR is recommended. </li>
+        <li>While not contraindicated in pregnancy and lactation, consideration must be given to potential adverse effects on the baby because of impaired maternal absorption of nutrients and vitamins. </li>
+    </ul>
+    <p>Please consult manufacturer's product labeling insert or PDR for full prescribing information.</p>
+    <p><strong>Combination Therapy</strong></p>
+    <p>Studies of combination therapy have failed to show any benefit beyond statin monotherapy. Combination therapy should only be considered on an individual basis; attention to the additional cost, complexity and risk for side effects argue against routine use until further studies indicate what groups of patients might benefit.</p>
+    <p>As national lipid guidelines have focused on specific LDL goals, it has become common practice to adjust medication therapy, including using combinations of medications, to achieve these goals. Common combinations include statin-fibrate, statin-niacin and statin-ezetimibe.</p>
+    <p>A systematic review of combination therapy for dyslipidemia concluded that the limited evidence available suggests that combinations of lipid-lowering agents do not improve clinical outcomes more than statin monotherapy.</p>
+    <p>Refer to the original guideline document for additional information on common combinations.</p>
+    </li>
+</ol>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;13&quot;>
+    <li><strong>Initiate Fibrate Treatment</strong>
+    <p><strong>Management of Elevated Triglycerides and/or Low HDL</strong></p>
+    <p>Patients with primarily triglyceride elevation and normal or moderately elevated cholesterol are candidates for treatment if there is evidence of cholesterol-rich very low density lipoprotein (VLDL) and intermediate density lipoprotein (IDL) particles, typically found in patients with triglyceride levels between 200 and 499 mg/dL and occasionally between 500 and 1,000 mg/dL. If triglycerides are greater than 500, fibrates become first-line therapy. The clinician may wish to consider the use of statin therapy. This is especially true if there is a strong family history of CHD and dyslipidemia, such as familial combined hyperlipidemia, or if the patient has evidence of atherosclerotic disease. Treatment can also be supported in diabetics with or without low HDL-cholesterol. Shared decision-making and a full discussion of the risks and benefits of medication and patient preferences should be included before starting any medications.</p>
+    <p>Patients with very high triglycerides (greater than 1,000 mg/dL) are at increased risk of hepatomegaly, splenomegaly, hepatic steatosis and pancreatitis, and are candidates for dietary and drug therapy. Patients with fasting triglycerides less than 1,000 mg/dL are at less immediate risk of pancreatitis. After ruling out or controlling for secondary causes (e.g., diabetes mellitus, hypothyroidism, chronic renal failure, alcohol abuse, hormone replacement therapy and/or oral contraceptives), the National Institutes of Health recommend dietary measures for initial management of borderline and high triglycerides (please see Appendix A, &quot;Identified Secondary Causes and Conditions Associated with Hyperlipidemia,&quot; in the original guideline document for additional secondary causes). If dietary and lifestyle modification (weight reduction if needed, decrease in alcohol, increase physical activity, smoking cessation) does not lower triglycerides to desired level, then drug therapy is indicated.</p>
+    <p>Uncontrolled glucose levels in patients with diabetes mellitus contribute to hypertriglyceridemia. Glucose levels in patients with diabetes should be under control to bring triglyceride levels under control.</p>
+    <p>When triglycerides are over 400 mg/dL, the LDL-cholesterol cannot be calculated and a direct measure of LDL, where available, is preferred. Although the LDL-cholesterol can be calculated when the triglycerides are moderately elevated (200-400 mg/dL), keep in mind that the LDL-cholesterol may be underestimated due to the Friedenwald equation.</p>
+    <p>LDL-cholesterol = Total cholesterol minus HDL-cholesterol minus (triglyceride divided by 5).</p>
+    <p>Non-HDL-cholesterol becomes a secondary target when triglycerides are 200-499. The non-HDL target is 30 mg/dL higher than the LDL target.</p>
+    <p>Non-HDL-cholesterol = total cholesterol minus HDL-cholesterol.</p>
+    </li>
+</ol>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;15&quot;>
+    <li><strong>Laboratory Monitoring in 3 to 12 months</strong>
+    <p>Obtain a fasting lipid panel or lipid panel with direct LDL and transaminase as indicated (or see drug insert or drug companion).</p>
+    </li>
+</ol>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;16&quot;>
+    <li><strong>Ongoing Care with Yearly Follow-Up</strong>
+    <p><strong>Adherence and Lifestyle Modifications</strong></p>
+    <p>Poor adherence can limit the effectiveness of therapies. Some factors associated with poor adherence are number of drugs, complexity and frequency of drug administration, adverse side effects, asymptomatic conditions, cost and psychosocial problems.</p>
+    <p>Suggested ways to improve adherence include asking about compliance in a non-threatening way at each visit; simplification of the drug regimen (frequency and complexity); reminder systems; drug-count devices; pill minders; involvement of family or friends; a health care team approach including nurses, dietitians, pharmacists and educators, in addition to physicians; written instructions; and educating the patient about the medications, including potential adverse effects, importance of therapy, realistic goals, necessity of lifelong treatment, and importance of continued attention to non-pharmacologic therapy (i.e., diet, exercise).</p>
+    <p>Refer to the original guideline document for more information on how to understand the patient's perspective on compliance.</p>
+    <p><strong>Laboratory Monitoring</strong></p>
+    <p>Coronary risk status and a lipid profile should be obtained at least annually.</p>
+    </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><strong>Quality of Evidence and Strength of Recommendations</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;3&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Quality of Evidence and Strength of Recommendations&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Category</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Quality Definitions</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Strong Recommendation</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Weak Recommendation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot;>High Quality Evidence</th>
+            <td valign=&quot;top&quot;>Further research is very unlikely to change confidence in the estimate of effect.</td>
+            <td valign=&quot;top&quot;>The work group is confident that the desirable effects of adhering to this recommendation outweigh the undesirable effects. This is a strong recommendation for or against. This applies to most patients.</td>
+            <td valign=&quot;top&quot;>The work group recognizes that the evidence, though of high quality, shows a balance between estimates of harms and benefits. The best action will depend on local circumstances, patient values or preferences.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>Moderate Quality Evidence</th>
+            <td valign=&quot;top&quot;>Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+            <td valign=&quot;top&quot;>The work group is confident that the benefits outweigh the risks, but recognizes that the evidence has limitations. Further evidence may impact this recommendation. This is a recommendation that likely applies to most patients.</td>
+            <td valign=&quot;top&quot;>The work group recognizes that there is a balance between harms and benefit, based on moderate quality evidence, or that there is uncertainty about the estimates of the harms and benefits of the proposed intervention that may be affected by new evidence. Alternative approaches will likely be better for some patients under some circumstances.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>Low Quality Evidence</th>
+            <td valign=&quot;top&quot;>Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change. The estimate or any estimate of effect is very uncertain.</td>
+            <td valign=&quot;top&quot;>The work group feels that the evidence consistently indicates the benefit of this action outweighs the harms. This recommendation might change when higher quality evidence becomes available.</td>
+            <td valign=&quot;top&quot;>The work group recognizes that there is significant uncertainty about the best estimates of benefits and harms.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A detailed and annotated algorithm titled &quot;Lipid Management in Adults&quot; is provided in the <a href=&quot;https://www.icsi.org/_asset/qz5ydq/LipidMgmt.pdf&quot; title=&quot;ICSI Web site&quot;>original guideline document</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Dyslipidemia </li>
+    <li>Atherosclerotic cardiovascular disease (ASCVD) </li>
+</ul>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Cardiology"/>
+      <fieldvalue value="Endocrinology"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Nutrition"/>
+      <fieldvalue value="Preventive Medicine"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Dietitians"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Health Plans"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Managed Care Organizations"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To increase the percentage of patients with: (a) established atherosclerotic cardiovascular disease (ASCVD): coronary heart disease (CHD), peripheral arterial disease (PAD), or stroke presumed of atherosclerotic origin, or (b) a 10-year risk for CHD &amp;ge;10%, or (c) diabetes who are on a statin <strong>OR</strong> have low density lipoprotein (LDL) &amp;lt;100 ml/dL within a 12-month period </li>
+    <li>To increase the percentage of patients with established ASCVD or 10-year CHD risk &amp;ge;10% or diabetes and on lipid-lowering medication who receive regular follow-up care for lipid disorder </li>
+    <li>To increase the percentage of patients with established ASCVD or 10-year CHD risk &amp;ge;10% or diabetes and on lipid-lowering therapy who remain on the medication therapy </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adults age 20 and older who are dyslipidemic</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>Calculation of 10-year risk for coronary heart disease (CHD), including use of a cardiac risk calculator </li>
+    <li>Healthy lifestyle
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Reduce caloric intake </li>
+        <li>Diet and exercise program </li>
+        <li>Smoking cessation </li>
+        <li>Light to moderate alcohol consumption </li>
+        <li>Fish oil and omega-3 fatty acids </li>
+    </ul>
+    </li>
+    <li>Statin treatment
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Safety considerations </li>
+        <li>Statin monotherapy </li>
+        <li>Combination therapy with niacin, fibrates, ezetimibe, bile-acid sequestrants </li>
+    </ul>
+    </li>
+    <li>Niacin monotherapy </li>
+    <li>Fibrate treatment </li>
+    <li>Follow-up
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Assessment of adherence to therapy </li>
+        <li>Laboratory monitoring </li>
+    </ul>
+    </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Fatal and nonfatal myocardial infarction (MI) </li>
+    <li>Lipoprotein measures, including triglyceride concentrations, high density lipoprotein (HDL) cholesterol, total cholesterol, and low density lipoprotein (LDL) cholesterol </li>
+    <li>Safety, efficacy, cost, and side effects of drugs </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A consistent and defined process is used for literature search and review for the development and revision of Institute for Clinical Systems Improvement (ICSI) guidelines. The literature search for this guideline consisted of systematic reviews (tier I), randomized control trials and meta-analyses (tier II). Literature search terms for the current revision of this document include lipids, hypercholesterolemia, LDL, HDL, statin therapy and risk assessment from April 2011 through July 2013 in PubMed. Limitations were human data only and English language publications.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Quality of Evidence and Strength of Recommendations</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Quality of Evidence and Strength of Recommendations&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Category</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Quality Definitions</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Strong Recommendation</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; scope=&quot;col&quot;>Weak Recommendation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>High Quality Evidence</th>
+            <td valign=&quot;top&quot;>Further research is very unlikely to change confidence in the estimate of effect.</td>
+            <td valign=&quot;top&quot;>The work group is confident that the desirable effects of adhering to this recommendation outweigh the undesirable effects. This is a strong recommendation for or against. This applies to most patients.</td>
+            <td valign=&quot;top&quot;>The work group recognizes that the evidence, though of high quality, shows a balance between estimates of harms and benefits. The best action will depend on local circumstances, patient values or preferences.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Moderate Quality Evidence</th>
+            <td valign=&quot;top&quot;>Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+            <td valign=&quot;top&quot;>The work group is confident that the benefits outweigh the risks, but recognizes that the evidence has limitations. Further evidence may impact this recommendation. This is a recommendation that likely applies to most patients.</td>
+            <td valign=&quot;top&quot;>The work group recognizes that there is a balance between harms and benefits, based on moderate quality evidence, or that there is uncertainty about the estimates of the harms and benefits of the proposed intervention that may be affected by new evidence. Alternative approaches will likely be better for some patients under some circumstances.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Low Quality Evidence</th>
+            <td valign=&quot;top&quot;>Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change. The estimate or any estimate of effect is very uncertain.</td>
+            <td valign=&quot;top&quot;>The work group feels that the evidence consistently indicates the benefit of this action outweighs the harms. This recommendation might change when higher quality evidence becomes available.</td>
+            <td valign=&quot;top&quot;>The work group recognizes that there is significant uncertainty about the best estimates of benefits and harms.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>New Guideline Development Process</span></strong></p>
+<p>A work group consisting of 6 to 12 members that includes physicians, nurses, pharmacists, other healthcare professionals relevant to the topic, and an Institute for Clinical Systems Improvement (ICSI) staff facilitator develops each document. Ordinarily, one of the physicians will be the leader. Most work group members are recruited from ICSI member organizations, but if there is expertise not represented by ICSI members, 1 or 2 members may be recruited from medical groups, hospitals, or other organizations that are not members of ICSI. Patients on occasion are invited to serve on work groups.</p>
+<p>The work group will meet for seven to eight three-hour meetings to develop the guideline. A literature search and review is performed and the work group members, under the coordination of the ICSI staff facilitator, develop the algorithm and write the annotations and footnotes and literature citations.</p>
+<p>Once the final draft copy of the guideline is developed, the guideline goes to the ICSI members for critical review.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Revision Process of Existing Guidelines</span></strong></p>
+<p>ICSI scientific documents are revised every 12 to 24 months as indicated by changes in clinical practice and literature. For documents that are revised on a 24-month schedule, ICSI checks with the work group on an annual basis to determine if there have been changes in the literature significant enough to cause the document to be revised earlier or later than scheduled. For yearly reviewed documents, ICSI checks with every work group 6 months before the scheduled revision to determine if there have been changes in the literature significant enough to cause the document to be revised earlier than scheduled.</p>
+<p><strong>Literature Search</strong></p>
+<p>ICSI staff, working with the work group to identify any new pertinent clinical trials, systematic reviews, or regulatory statements and other professional guidelines, conduct a literature search.</p>
+<p><strong>Revision</strong></p>
+<p>The work group will meet for 1 to 2 three-hour meetings to review the literature, respond to member organization comments, and revise the document as appropriate.</p>
+<p>A second review by members is indicated if there are changes or additions to the document that would be unfamiliar or unacceptable to member organizations. If a review by members is not needed, the document goes to the appropriate steering committee for approval according to the criteria outlined in the &quot;Description of Method of Guideline Validation&quot; field.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>See the &quot;Rating Scheme for the Strength of the Evidence&quot; field.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Critical Review Process</strong></p>
+<p>The purpose of critical review is to provide an opportunity for the clinicians in the member groups to review the science behind the recommendations and focus on the content of the guideline. Critical review also provides an opportunity for clinicians in each group to come to consensus on feedback they wish to give the work group and to consider changes needed across systems in their organization to implement the guideline.</p>
+<p>All member organizations are expected to respond to critical review guidelines. Critical review of guidelines is a criterion for continued membership within the Institute for Clinical Systems Improvement (ICSI).</p>
+<p>After the critical review period, the guideline work group reconvenes to review the comments and make changes as appropriate. The work group prepares a written response to all comments.</p>
+<p><strong>Document Approval</strong></p>
+<p>Each document is approved by the Committee for Evidence-Based Practice (CEBP).</p>
+<p>The committee will review and approve each guideline/protocol, based on the following criteria:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The aim(s) of the document is clearly and specifically described. </li>
+    <li>The need for and importance of the document is clearly stated. </li>
+    <li>The work group included individuals from all relevant professional groups and had the needed expertise. </li>
+    <li>Patient views and preferences were sought and included. </li>
+    <li>The work group has responded to all feedback and criticisms reasonably. </li>
+    <li>Potential conflicts of interest were disclosed and do not detract from the quality of the document. </li>
+    <li>Systematic methods were used to search for the evidence to assure completeness and currency. </li>
+    <li>Health benefits, side effects, risks and patient preferences have been considered in formulating recommendations. </li>
+    <li>The link between the recommendation and supporting evidence is clear. </li>
+    <li>Where the evidence has not been well established, recommendations based on community practice or expert opinion are clearly identified. </li>
+    <li>Recommendations are specific and unambiguous. </li>
+    <li>Different options for clinical management are clearly presented. </li>
+    <li>Clinical highlights and recommendations are easily identifiable. </li>
+    <li>Implementation recommendations identify key strategies for <em>health care systems</em> to support implementation of the document. </li>
+    <li>The document is supported with practical and useful tools to ease <em>clinician</em> implementation. </li>
+    <li>Where local resource availability may vary, alternative recommendations are clear. </li>
+    <li>Suggested measures are clear and useful for quality/process improvement efforts. </li>
+</ul>
+<p>Once the document has been approved, it is posted on the ICSI Web site and released to members for use.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="98" ordby="605" id="425" name="References Supporting the Recommendations" type="citation">
+      <fieldvalue value="<table><tr><td>Cannon CP, Braunwald E, McCabe CH, Rader DJ, Rouleau JL, Belder R, Joyal SV, Hill KA, Pfeffer MA, Skene AM, Pravastatin or Atorvastatin Evaluation and Infection Therapy-Thrombolysis in Myocardial Infarction 2. Intensive versus moderate lipid lowering with statins after acute coronary syndromes. N Engl J Med. 2004 Apr 8;350(15):1495-504. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15007110&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Cholesterol Treatment Trialists' (CTT) Collaborators, Mihaylova B, Emberson J, Blackwell L, Keech A, Simes J, Barnes EH, Voysey M, Gray A, Collins R, Baigent C. The effects of lowering LDL cholesterol with statin therapy in people at low risk of vascular disease: meta-analysis of individual data from 27 randomised trials. Lancet. 2012 Aug 11;380(9841):581-90.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Downs JR, Clearfield M, Weis S, Whitney E, Shapiro DR, Beere PA, Langendorfer A, Stein EA, Kruyer W, Gotto AM. Primary prevention of acute coronary events with lovastatin in men and women with average cholesterol levels: results of AFCAPS/TexCAPS. Air Force/Texas Coronary Atherosclerosis Prevention Study. JAMA. 1998 May 27;279(20):1615-22. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9613910&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Frick MH, Elo O, Haapa K, Heinonen OP, Heinsalmi P, Helo P, Huttunen JK, Kaitaniemi P, Koskinen P, Manninen V. Helsinki Heart Study: primary-prevention trial with gemfibrozil in middle-aged men with dyslipidemia. Safety of treatment, changes in risk factors, and incidence of coronary heart disease. N Engl J Med. 1987 Nov 12;317(20):1237-45. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=3313041&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Goldberg RB, Mellies MJ, Sacks FM, Moyé LA, Howard BV, Howard WJ, Davis BR, Cole TG, Pfeffer MA, Braunwald E. Cardiovascular events and their reduction with pravastatin in diabetic and glucose-intolerant myocardial infarction survivors with average cholesterol levels: subgroup analyses in the cholesterol and recurrent events (CARE) trial. The Care Investigators. Circulation. 1998 Dec 8;98(23):2513-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9843456&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Grundy SM. Stanol esters as a component of maximal dietary therapy in the National Cholesterol Education Program Adult Treatment Panel III report. Am J Cardiol. 2005 Jul 4;96(1A):47D-50D. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15992516&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Gylling H, Miettinen TA. Serum cholesterol and cholesterol and lipoprotein metabolism in hypercholesterolaemic NIDDM patients before and during sitostanol ester-margarine treatment. Diabetologia. 1994 Aug;37(8):773-80. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7988779&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Gylling H, Radhakrishnan R, Miettinen TA. Reduction of serum cholesterol in postmenopausal women with previous myocardial infarction and cholesterol malabsorption induced by dietary sitostanol ester margarine: women and dietary sitostanol. Circulation. 1997 Dec 16;96(12):4226-31. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9416886&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Heart Protection Study Collaborative Group. MRC/BHF Heart Protection Study of cholesterol lowering with simvastatin in 20,536 high-risk individuals: a randomised placebo-controlled trial. Lancet. 2002 Jul 6;360(9326):7-22. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12114036&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>HPS2-THRIVE Collaborative Group. HPS2-THRIVE randomized placebo-controlled trial in 25 673 high-risk patients of ER niacin/laropiprant: trial design, pre-specified muscle and liver outcomes, and reasons for stopping study treatment. Eur Heart J. 2013 May;34(17):1279-91. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23444397&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>LaRosa JC, He J, Vupputuri S. Effect of statins on risk of coronary disease: a meta-analysis of randomized controlled trials. JAMA. 1999 Dec 22-29;282(24):2340-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10612322&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lipid Research Clinics Program. The Lipid Research Clinics Coronary Primary Prevention Trial results. I. Reduction in incidence of coronary heart disease. JAMA. 1984 Jan 20;251(3):351-64. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6361299&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Miettinen TA, Puska P, Gylling H, Vanhanen H, Vartiainen E. Reduction of serum cholesterol with sitostanol-ester margarine in a mildly hypercholesterolemic population. New Eng J Med. 1995 Nov 16;333(20):1308-12. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7566021&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>National Cholesterol Education Program. Detection, evaluation, and treatment of high blood cholesterol in adults (Adult Treatment Panel III). Bethesda (MD): National Institutes of Health; 2001. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>National Cholesterol Education Program. Third Report of the National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III) final report. Circulation. 2002 Dec 17;106(25):3143-421. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12485966&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ornish D, Brown SE, Scherwitz LW, Billings JH, Armstrong WT, Ports TA, McLanahan SM, Kirkeeide RL, Brand RJ, Gould KL. Can lifestyle changes reverse coronary heart disease? The Lifestyle Heart Trial. Lancet. 1990 Jul 21;336(8708):129-33. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1973470&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Pignone M, Phillips C, Mulrow C. Use of lipid lowering drugs for primary prevention of coronary heart disease: meta-analysis of randomised trials. BMJ. 2000 Oct 21;321(7267):983-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11039962&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Scandinavian Simvastatin Survival Study Group. Randomised trial of cholesterol lowering in 4444 patients with coronary heart disease: the Scandinavian Simvastatin Survival Study (4S). Lancet. 1994 Nov 19;344(8934):1383-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7968073&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Schuler G, Hambrecht R, Schlierf G, Niebauer J, Hauer K, Neumann J, Hoberg E, Drinkmann A, Bacher F, Grunze M. Regular physical exercise and low-fat diet. Effects on progression of coronary artery disease. Circulation. 1992 Jul;86(1):1-11. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1617762&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Sever PS, Dahlöf B, Poulter NR, Wedel H, Beevers G, Caulfield M, Collins R, Kjeldsen SE, Kristinsson A, McInnes GT, Mehlsen J, Nieminen M, O'Brien E, Ostergren J, ASCOT investigators. Prevention of coronary and stroke events with atorvastatin in hypertensive patients who have average or lower-than-average cholesterol concentrations, in the Anglo-Scandinavian Cardiac Outcomes Trial--Lipid Lowering Arm (ASCOT-LLA): a multicentre randomised controlled trial. Lancet. 2003 Apr 5;361(9364):1149-58. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12686036&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Sharma M, Ansari MT, AbouSetta AM, SoaresWeiser K, Ooi TC, Sears M, Yazdi F, Tsertsvadze A, Moher D. Systematic review: comparative effectiveness and harms of combination therapy and monotherapy for dyslipidemia. Ann Intern Med. 2009 Nov 3;151(9):622-30. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19884623&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Shepherd J, Blauw GJ, Murphy MB, Bollen EL, Buckley BM, Cobbe SM, Ford I, Gaw A, Hyland M, Jukema JW, Kamper AM, Macfarlane PW, Meinders AE, Norrie J, Packard CJ, Perry IJ, Stott DJ, Sweeney BJ, Twomey C, Westendorp RG, PROSPER study group. PROspective Study of Pravastatin in the Elderly at Risk. Pravastatin in elderly individuals at risk of vascular disease (PROSPER): a randomised controlled trial. Lancet. 2002 Nov 23;360(9346):1623-30. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12457784&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Shepherd J, Cobbe SM, Ford I, Isles CG, Lorimer AR, MacFarlane PW, McKillop JH, Packard CJ. Prevention of coronary heart disease with pravastatin in men with hypercholesterolemia. West of Scotland Coronary Prevention Study Group. N Engl J Med. 1995 Nov 16;333(20):1301-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7566020&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Stamler J, Wentworth D, Neaton JD. Is relationship between serum cholesterol and risk of premature death from coronary heart disease continuous and graded? Findings in 356,222 primary screenees of the Multiple Risk Factor Intervention Trial (MRFIT). JAMA. 1986 Nov 28;256(20):2823-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=3773199&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Stefanick ML, Mackey S, Sheehan M, Ellsworth N, Haskell WL, Wood PD. Effects of diet and exercise in men and postmenopausal women with low levels of HDL cholesterol and high levels of LDL cholesterol. New Eng J Med. 1998 Jul 2;339(1):12-20. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9647874&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Taylor F, Huffman MD, Macedo AF, Moore TH, Burke M, Davey Smith G, Ward K, Ebrahim S. Statins for the primary prevention of cardiovascular disease. Cochrane Database Syst Rev. 2013;1:CD004816.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>The Long-Term Intervention with Pravastatin in Ischaemic Disease (LIPID) Study Group. Prevention of cardiovascular events and death with pravastatin in patients with coronary heart disease and a broad range of initial cholesterol levels. The Long-Term Intervention with Pravastatin in Ischaemic Disease (LIPID) Study Group. N Engl J Med. 1998 Nov 5;339(19):1349-57. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9841303&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Vanhanen HT, Blomqvist S, Ehnholm C, Hyvönen M, Jauhiainen M, Torstila I, Miettinen TA. Serum cholesterol, cholesterol precursors, and plant sterols in hypercholesterolemic subjects with different apoE phenotypes during dietary sitostanol ester treatment. J Lipid Res. 1993 Sep;34(9):1535-44. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8228636&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Yusuf S, Hawken S, Ounpuu S, Dans T, Avezum A, Lanas F, McQueen M, Budaj A, Pais P, Varigos J, Lisheng L, INTERHEART Study Investigators. Effect of potentially modifiable risk factors associated with myocardial infarction in 52 countries (the INTERHEART study): case-control study. Lancet. 2004 Sep 11-17;364(9438):937-52. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15364185&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for selected recommendations (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate management of lipids in adults</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Side effects of statins include myalgia, myopathy, rhabdomyolysis. Incidence of muscle symptoms or signs is the most prevalent and important adverse effect of statin therapy. The occurrence of serious muscle toxicity with currently marketed statins is rare. (See also &quot;Safety Considerations in Prescribing Statins in Primary Care Settings&quot; section in the original guideline document for information on safety concerns when using statin therapy.) </li>
+    <li>Bile acid sequestrants are not systemically absorbed, so effects limited to gastrointestinal (GI) tract. Patients who have phenylketonuria (PKU) should know that Questran&amp;reg; Lite, Prevalite&amp;reg;, and flavored colestipol powder contain aspartame. Drug interactions are minimized by taking other medications one hour before the sequestrant or four hours after. Cholestyramine decreases the absorption of warfarin and may reduce warfarin's half-life by interfering with enterohepatic circulation. Vitamin K absorption may also be reduced. While not contraindicated in pregnancy and lactation, consideration must be given to potential adverse effects on the baby because of impaired maternal absorption of nutrients and vitamins. </li>
+    <li>Side effects of extended release niacin include hot flashes, flushing, GI symptoms, increased uric acid, increased glucose and increased risk of developing diabetes. The HPS-2-THRIVE trial identified infection and bleeding (GI and intracranial) as side effects not demonstrated in earlier studies. Serious adverse effects included new onset diabetes, infection, bleeding and a trend toward increased heart failure. Liver toxicity may be associated with niacin. GI complaints (nausea and abdominal pain) are more common with sustained-release (SR) niacin; this can be minimized by taking with meals. </li>
+    <li>Side effects of gemfibrozil, fenofibrate and fenofibrate micronized include cholelithiasis and cholecystitis due to increased cholesterol excreted in the bile. Use with caution in patients with a history of liver disease. Rarely hematologic adverse reactions and myositis may occur. Risk of myopathy and possibly rhabdomyolysis appears increased when taken with statins, particularly with gemfibrozil in combination with statins. Warfarin's anticoagulant effect may be potentiated; international normalized ratio (INR) should be monitored closely and the initiation of a fibric acid, with dose changes, and with discontinuing a fibric acid. </li>
+    <li>Long-term safety of ezetimibe is unknown. Not recommended for use in patients with moderate to severe hepatic impairment based on Child-Pugh score. Patients on cyclosporine and ezetimibe should be monitored carefully. Ezetimibe should be given two hours before or four hours after bile-acid sequestrants. </li>
+    <li>Combination therapy should be initiated only on an individual basis, as no studies have shown a benefit to use at this time, and some studies have shown an increased risk of harm over statin monotherapy. </li>
+</ul>
+<p>See the &quot;Safety&quot; section under each drug in the original guideline document for more information.</p>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Statin-fibrate combination therapy should not be prescribed in patients with the following conditions: impaired liver or renal function (creatinine level greater than 2.0 mg/dL), cyclosporine or tacrolimus therapy, long-term macrolide antibiotic therapy or azole antifungal therapy, advanced age (greater than 70 years), skeletal muscle conditions. </li>
+    <li>Activation of peptic ulcer has occurred, so history of peptic ulcer is a relative contraindication to niacin. </li>
+    <li>Fibric acids are contraindicated in patients with pre-existing gallbladder disease; hepatic impairment, including primary biliary cirrhosis; or in severe renal impairment. Gemfibrozil is contraindicated in coordination with simvastatin; combination therapy with lovastatin and rosuvastatin should be avoided. </li>
+    <li>Pregnant and nursing women and young children should avoid shark, swordfish, king mackerel and tilefish. These contain high levels of mercury. Albacore tuna has more mercury than canned light tuna. Albacore tuna should be limited to no more than 6 ounces per week. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The information contained in this Institute for Clinical Systems Improvement (ICSI) Health Care Guideline is intended primarily for health professionals and other expert audiences. </li>
+    <li>This ICSI Health Care Guideline should not be construed as medical advice or medical opinion related to any specific facts or circumstances. Patients and families are urged to consult a health care professional regarding their own situation and any specific medical questions they may have. In addition, they should seek assistance from a health care professional in interpreting this ICSI Health Care Guideline and applying it in their individual case. </li>
+    <li>This ICSI Health Care Guideline is designed to assist clinicians by providing an analytical framework for the evaluation and treatment of patients, and is not intended either to replace a clinician's judgment or to establish a protocol for all patients with a particular condition. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Once a guideline is approved for general implementation, a medical group can choose to concentrate on the implementation of that guideline. When four or more groups choose the same guideline to implement and they wish to collaborate with others, they may form an action group.</p>
+<p>In the action group, each medical group sets specific goals they plan to achieve in improving patient care based on the particular guideline(s). Each medical group shares its experiences and supporting measurement results within the action group. This sharing facilitates a collaborative learning environment. Action group learnings are also documented and shared with interested medical groups within the collaborative.</p>
+<p>Currently, action groups may focus on one guideline or a set of guidelines such as hypertension, lipid treatment, and tobacco cessation.</p>
+<p>Detailed measurement strategies are presented in the original guideline document to help close the gap between clinical practice and the guideline recommendations. Summaries of the measures are provided in the National Quality Measures Clearinghouse (NQMC).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Implementation Recommendation Highlights</span></strong></p>
+<p>Effective implementation strategies are required for improving the uptake and the use of clinical practice guidelines. The complexities associated with guideline implementation and adherences are vast. Opportunities for implementation partnership exist on the patient level, the care team level, the organization level and/or the market/policy level.</p>
+<p>Implementation research can be described as the scientific study of methods to promote the systematic uptake of proven clinical treatments, practices, organizational and management interventions into practice work flows aimed at improving health. In this context, implementation science includes the study of influences on patient, health care, clinician, care teams and organizational behavior in either health care or population settings.</p>
+<p>Using available research to work toward an implementation approach for the Institute for Clinical Systems Improvement (ICSI) Lipid Management in Adults guideline, the following taxonomy compiled by the guideline work group is a framework to engage partnerships in the implementation of the guideline within your current organizational infrastructure.</p>
+<p><strong>Implementation Taxonomy Strategies</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Audit and Feedback </li>
+    <li>Education </li>
+    <li>Technology </li>
+    <li>Affordability </li>
+    <li>Care Coordination </li>
+    <li>Leadership </li>
+</ol>
+<p>The literature recognizes that there is individuality that exists among the users of guidelines (clinician, patient, care teams, health systems, community/policy), and it supports that there are common implementation action themes present among all users. The work group wanted to recognize the individuality of the guideline user while presenting a consistent method to implement the guideline within the context of each organization's infrastructure. The actionable taxonomy provided the crosswalk for users, and the implementation taxonomy categories provide a framework for implementing the guideline. Each category offers strategies specific to the guideline algorithm, aims and measures for use within your organization's current infrastructure. Through the use of the implementation taxonomy strategies, the work group offers a tactical approach to implementing the guideline. The guideline user selects (or customizes) the number of implementation strategies to be used based on what best meets your organization's infrastructure. The implementation matrix tool provided is offered to help systems of care work toward effective and consistent implementation strategies of the ICSI Lipid Management in Adults guideline.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Quality Measures"/>
+      <fieldvalue value="Quick Reference Guides/Physician Guides"/>
+    </field>
+    <field fieldid="102" ordby="1020" id="438" name="Related NQMC Measures" type="xref">
+      <fieldvalue value="<a href=&quot;http://www.qualitymeasures.ahrq.gov/content.aspx?id=47808&quot; target=&quot;_blank&quot;>Lipid management in adults: percentage of patients with established atherosclerotic cardiovascular disease (ASCVD), or a 10-year risk for CHD greater than or equal to 10%, or diabetes, who are on a statin or have LDL less than 100 ml/dL within a 12-month period.</a>"/>
+      <fieldvalue value="<a href=&quot;http://www.qualitymeasures.ahrq.gov/content.aspx?id=47809&quot; target=&quot;_blank&quot;>Lipid management in adults: percentage of patients with established atherosclerotic cardiovascular disease (ASCVD), or 10-year CHD risk greater than or equal to 10%, or diabetes and on lipid-lowering medication who have a fasting lipid panel within 24 months of medication prescription.</a>"/>
+      <fieldvalue value="<a href=&quot;http://www.qualitymeasures.ahrq.gov/content.aspx?id=47810&quot; target=&quot;_blank&quot;>Lipid management in adults: percentage of patients with established ASCVD, or a 10-year CHD risk greater than or equal to 10%, or diabetes on lipid-lowering medication and most recent LDL greater than 100 mg/dL, who are prescribed a maximal recommended dose of a potent statin (such as simvastatin, pitavastatin, rosuvastatin or atorvastatin).</a>"/>
+      <fieldvalue value="<a href=&quot;http://www.qualitymeasures.ahrq.gov/content.aspx?id=47811&quot; target=&quot;_blank&quot;>Lipid management in adults: percentage of patients with established ASCVD, or 10-year CHD risk greater than or equal to 10%, or diabetes and on lipid-lowering therapy who remain on lipid-lowering pharmacotherapy 12 months after therapy was prescribed.</a>"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Woolley T, Canoniero M, Conroy W, Fareed M, Groen S, Helmrick K, Kofron P, Kottke T, Leslie S, Myers C, Needham R, O'Connor P, Peters J, Reddan J, Sorge L, Zerr B. Lipid management in adults. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2013 Nov. 49 p.  [88 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="1997 Oct (revised 2013 Nov)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="Institute for Clinical Systems Improvement - Nonprofit Organization"/>
+    </field>
+    <field fieldid="123" ordby="1230" id="448" name="Guideline Developer Comment" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Institute for Clinical Systems Improvement (ICSI) comprises 50+ medical group and hospital members representing 9,000 physicians in Minnesota and surrounding areas, and is sponsored by five nonprofit health plans. For a list of sponsors and participating organizations, see the <a href=&quot;https://www.icsi.org/about_icsi/members__sponsors/&quot; title=&quot;ICSI Web site&quot;>ICSI Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The Institute for Clinical Systems Improvement (ICSI) provided the funding for this guideline. The annual dues of the member medical groups and sponsoring health plans fund ICSI's work. Individuals on the work group are not paid by ICSI, but are supported by their medical group for this work. </li>
+    <li>ICSI facilitates and coordinates the guideline development and revision process. ICSI, member medical groups, and sponsoring health plans review and provide feedback, but do not have editorial control over the work group. All recommendations are based on the work group's independent evaluation of the evidence. </li>
+</ul>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Committee on Evidence-Based Practice</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Work Group Members</em>: Tony Woolley, MD (<em>Work Group Leader</em>) (Park Nicollet Health Services) (Internal Medicine); Sarah Leslie, PharmD (Allina Medical Clinic) (Pharmacy); Beth Zerr, PharmD (Allina Medical Clinic) (Pharmacy); Sarah Groen, PharmD (HealthPartners Medical Group and Regions Hospital) (Pharmacy); Patrick O'Connor, MD (HealthPartners Medical Group and Regions Hospital) (Family Medicine); Thomas Kottke, MD (HealthPartners Medical Group and Regions Hospital) (Cardiology); Robert Needham, MD (Lakeview Clinic) (Internal Medicine); Mohammad Fareed, MD (Mayo Clinic) (Family Medicine); Marianna Canoniero, MD (Park Nicollet Health Services) (Cardiology); William Conroy, MD (Park Nicollet Health Services) (Internal Medicine); Phillip Kofron, MD, MPH (Park Nicollet Health Services) (Internal Medicine); Jodi Reddan, MS, RD, LD (Park Nicollet Health Services) (Health Education); Lindsay Sorge, PharmD, MPH (Park Nicollet Health Services) (Pharmacy); Kurt Helmrick, MPAS, PA-C (River Falls Medical Clinic) (Family Medicine); Cassie Myers (Institute for Clinical Systems Improvement [ICSI]) (Clinical Systems Improvement Facilitator); Judy Peters, DNP, RN (ICSI) (Project Manager)</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Institute for Clinical Systems Improvement (ICSI) has long had a policy of transparency in declaring potential conflicting and competing interests of all individuals who participate in the development, revision and approval of ICSI protocols and protocols.</p>
+<p>In 2010, the ICSI Conflict of Interest Review Committee was established by the Board of Directors to review all disclosures and make recommendations to the board when steps should be taken to mitigate potential conflicts of interest, including recommendations regarding removal of work group members. This committee has adopted the Institute of Medicine Conflict of Interest standards as outlined in the report Clinical Practice Protocols We Can Trust (2011).</p>
+<p>Where there are work group members with identified potential conflicts, these are disclosed and discussed at the initial work group meeting. These members are expected to recuse themselves from related discussions or authorship of related recommendations, as directed by the Conflict of Interest committee or requested by the work group.</p>
+<p>The complete ICSI policy regarding Conflicts of Interest is available at the <a href=&quot;https://www.icsi.org/_asset/fwsfmi/coi_policyletter.pdf&quot; title=&quot;ICSI Web site&quot;>ICSI Web site</a>.</p>
+<p><strong>Disclosure of Potential Conflicts of Interest</strong></p>
+<p><strong>Marianna J. Canoniero, MD (Work Group Member)</strong><br />
+Cardiologist, Cardiology, Park Nicollet Health Services<br />
+National, Regional, Local Committee Affiliations: None<br />
+Guideline Related Activities: None<br />
+Research Grants: None<br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>William E. Conroy, MD (Work Group Member)</strong><br />
+Physician, Internal Medicine, Park Nicollet Health Services<br />
+National, Regional, Local Committee Affiliations: None<br />
+Guideline Related Activities: None<br />
+Research Grants: None<br />
+Financial/Non-Financial Conflicts of Interest: Minor shareholder ASTX and APS Stock</p>
+<p><strong>Mohammed T. Fareed, MD (Work Group Member)</strong><br />
+Senior Associate Consultant/Instructor, Mayo College of Medicine; Physician, Family Medicine, Mayo Clinic<br />
+National, Regional, Local Committee Affiliations: None<br />
+Guideline Related Activities: Colorectal Cancer Screening Guideline Work Group<br />
+Research Grants: None<br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Sarah Groen, PharmD (Work Group Member)</strong><br />
+Clinical Pharmacist, Pharmacy, HealthPartners Medical Group and Regions Hospital<br />
+National, Regional, Local Committee Affiliations: None<br />
+Guideline Related Activities: None<br />
+Research Grants: None<br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Kurt Helmrick, MPAS (Work Group Member)</strong><br />
+Physician Assistant, General Practice, River Falls Medical Clinic<br />
+National, Regional, Local Committee Affiliations: None<br />
+Guideline Related Activities: None<br />
+Research Grants: None<br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Phillip M. Kofron, MD, MPH (Work Group Member)</strong><br />
+Medical Director, Heart Disease Prevention and Lipid Clinic, General Preventive Medicine, Park Nicollet Heart and Vascular Center<br />
+National, Regional, Local Committee Affiliations: None<br />
+Guideline Related Activities: CAD<br />
+Research Grants: None<br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Thomas E. Kottke, MD, MSPH (Work Group Member)</strong><br />
+Medical Director Population Health, Cardiology, HealthPartners Medical Group and Regions Hospital<br />
+National, Regional, Local Committee Affiliations: None<br />
+Guideline Related Activities: None<br />
+Research Grants: None<br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Sarah L. Leslie, PharmD (Work Group Member)</strong><br />
+Pharmacy Coordinator, Pharmacy, Allina Health &amp;ndash; New Ulm Medical Center<br />
+National, Regional, Local Committee Affiliations: None<br />
+Guideline Related Activities: None<br />
+Research Grants: None<br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Robert Needham, MD (Work Group Member)</strong><br />
+Physician, Internal Medicine, Lakeview Clinic<br />
+National, Regional, Local Committee Affiliations: None<br />
+Guideline Related Activities: None<br />
+Research Grants: None<br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Patrick J. O'Connor, MD, MPH (Work Group Member)</strong><br />
+Senior Research Investigator, Family Medicine and Geriatrics, HealthPartners Medical Group and Regions Hospital<br />
+National, Regional, Local Committee Affiliations: Midwest Research Network<br />
+Guideline Related Activities: ICSI Diagnosis and Management of Type 2 Diabetes Mellitus in Adults, Hypertension Diagnosis and Treatment, Prevention and Diagnosis of Obesity, and Healthy Lifestyles<br />
+Research Grants: NIH grant pending for Diabetes and Hypertension<br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Jodi A. Reddan, MS, RD, LD (Work Group Member)</strong><br />
+Clinical Dietician, Nutrition, Park Nicollet Health Services<br />
+National, Regional, Local Committee Affiliations: None<br />
+Guideline Related Activities: None<br />
+Research Grants: None<br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Lindsay Sorge, PharmD, MPH (Work Group Member)</strong><br />
+Medication Management, Pharmacist, Park Nicollet Health Services<br />
+National, Regional, Local Committee Affiliations: None<br />
+Guideline Related Activities: None<br />
+Research Grants: None<br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Tony Woolley, MD (Work Group Leader)</strong><br />
+Consultant, Clinical Associate Professor of Medicine, Internal Medicine/Hypertension, Park Nicollet Health Services<br />
+National, Regional, Local Committee Affiliations: None<br />
+Guideline Related Activities: None<br />
+Research Grants: None<br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Beth Zerr, PharmD, BCACP (Work Group Member)</strong><br />
+Ambulatory Pharmacist Practitioner, Pharmacy, Allina Medical Clinic<br />
+National, Regional, Local Committee Affiliations: None<br />
+Guideline Related Activities: None<br />
+Research Grants: None<br />
+Financial/Non-Financial Conflicts of Interest: None</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Institute for Clinical Systems Improvement (ICSI). Lipid management in adults. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2011 Oct. 67 p.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;https://www.icsi.org/guidelines__more/catalog_guidelines_and_more/catalog_guidelines/catalog_cardiovascular_guidelines/lipid/&quot; title=&quot;ICSI web site&quot;>Institute for Clinical Systems Improvement (ICSI) Web site</a>.</p>
+<p>Print copies: Available from ICSI, 8009 34th Avenue South, Suite 1200, Bloomington, MN 55425; telephone, (952) 814-7060; fax, (952) 858-9675; Web site: <a href=&quot;http://www.icsi.org&quot; title=&quot;ICSI web site&quot;>www.icsi.org</a>; e-mail: <a href=&quot;mailto:icsi.info@icsi.org&quot;>icsi.info@icsi.org</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Lipid management in adults. Executive summary. Bloomington (MN): Institute for Clinical Systems Improvement; 2013 Nov. 1 p. Electronic copies: Available in Portable Document Format (PDF) from the <a href=&quot;https://www.icsi.org/_asset/9xzftt/LipidES.pdf&quot; title=&quot;ICSI web site&quot;>Institute for Clinical Systems Improvement (ICSI) Web site</a>. </li>
+</ul>
+<p>Print copies: Available from ICSI, 8009 34th Avenue South, Suite 1200, Bloomington, MN 55425; telephone, (952) 814-7060; fax, (952) 858-9675; Web site: <a href=&quot;http://www.icsi.org&quot; title=&quot;ICSI web site&quot;>www.icsi.org</a>; e-mail: <a href=&quot;mailto:icsi.info@icsi.org&quot;>icsi.info@icsi.org</a>.</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This summary was completed by ECRI on July 10, 2000. The information was verified by the guideline developer on April 25, 2001. The summary was subsequently updated on August 17, 2001 following the withdrawal of the drug Baycol (Cerivastatin). The information was updated by ECRI on December 24, 2002. The information was verified by the guideline developer on January 23, 2003. The information was updated by ECRI on April 16, 2004, June 15, 2005, August 16, 2005, and on August 1, 2006. This NGC summary was updated by ECRI Institute on September 11, 2007. This NGC summary was most recently updated by ECRI Institute on June 28, 2010. This summary was updated by ECRI Institute on November 8, 2010 following the U.S. Food and Drug Administration advisory on Avandia (rosiglitazone). This summary was updated by ECRI Institute on June 27, 2011 following the U.S. Food and Drug Administration advisory on Zocor (simvastatin). This summary was updated by ECRI Institute on May 31, 2012. This NGC summary was updated by ECRI Institute on April 21, 2014.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary (abstracted Institute for Clinical Systems Improvement [ICSI] Guideline) is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p>
+<p>The abstracted ICSI Guidelines contained in this Web site may be downloaded by any individual or organization. If the abstracted ICSI Guidelines are downloaded by an individual, the individual may not distribute copies to third parties.</p>
+<p>If the abstracted ICSI Guidelines are downloaded by an organization, copies may be distributed to the organization's employees but may not be distributed outside of the organization without the prior written consent of the Institute for Clinical Systems Improvement, Inc.</p>
+<p>All other copyright rights in the abstracted ICSI Guidelines are reserved by the Institute for Clinical Systems Improvement, Inc. The Institute for Clinical Systems Improvement, Inc. assumes no liability for any adaptations or revisions or modifications made to the abstracts of the ICSI Guidelines.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 20:36:42 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:30:22 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 647.683 (3)
+  esindex: 0.015
+  captures_list: 674.443
+  CDXLines.iter: 17.287 (3)
+  PetaboxLoader3.datanode: 1002.689 (4)
+  exclusion.robots: 0.486
+  exclusion.robots.policy: 0.464
+  RedisCDXSource: 1.922
+  PetaboxLoader3.resolve: 223.538 (2)
+  load_resource: 702.025
+-->

@@ -1,0 +1,528 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app40.us.archive.org';v.server_ms=773;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10414?contentType=xml', '20160930224201')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930224201/https://www.guideline.gov/summaries/downloadcontent/ngc-10414?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930224201/https://www.guideline.gov/summaries/downloadcontent/ngc-10414?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10414?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930224201" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 22:42:01 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 22:42:01 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 22:42:01 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930224201*/https://www.guideline.gov/summaries/downloadcontent/ngc-10414?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10414?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Clinical guideline for the treatment of primary insomnia in middle-aged and older adults.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>University of Texas at Austin School of Nursing, Family Nurse Practitioner Program. Clinical guideline for the treatment of primary insomnia in middle-aged and older adults. Austin (TX): University of Texas at Austin, School of Nursing; 2014 May. 28 p.  [63 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Strength of recommendations (<strong>A, B, C, D, I</strong>) and quality of evidence (<strong>High, Moderate, Low</strong>) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Behavioral Interventions</span></strong></p>
+<p><strong>Sleep Hygiene Education</strong></p>
+<p>Sleep hygiene is broadly defined as universal sleep-promoting behaviors or practices. Patients are educated on behaviors to avoid (i.e., alcohol, caffeine, daytime napping, bright light before bedtime) and the creation of a sleep-conducive environment (i.e. consistent bedtime routine, bed for sleep/sex only). Sleep hygiene is recommended as an initial intervention for all adults with insomnia. However, research does not support its success as a sole line of treatment. Greatest benefit is obtained when sleep hygiene is used as an adjunct therapy (Lichstein &amp;amp; Morin, 2000; Nau et al., 2005; Petit et al., 2003; Roszkowska &amp;amp; Geraci, 2010; Woodward, 2012). (<strong>Grade B, High Evidence</strong>)</p>
+<p><strong>Cognitive Behavioral Therapy</strong></p>
+<p>Cognitive Behavioral Therapy (CBT) is recommended for first-line treatment of primary insomnia in older adults. Research supports that CBT is moderately effective in the treatment of primary insomnia. Studies have shown that older adults already taking hypnotic medications for chronic insomnia experience improvements in sleep quality when CBT is added to the treatment plan. Common components of CBT are Stimulus Control Therapy (SCT) and Sleep Restriction Therapy (SRT). Evidence suggests that the combination of the two therapies is more effective than SCT or SRT alone. (Belanger, LeBlanc, &amp;amp; Marin, 2012; Bloom et al., 2009; Creti et al., 2005; Epstein et al., 2012; Fetveit, 2009; Irwin, Cole, &amp;amp; Nicassio, 2006; Morin &amp;amp; Benca, 2012; Nau et al., 2005; Soeffing et al., 2008) (<strong>Grade B, High Evidence</strong>)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Pharmacological Interventions</span></strong></p>
+<p><strong>Ramelteon</strong></p>
+<p>Ramelteon is recommended for both short- and long-term treatment of primary insomnia in older adults, especially when there is concern of abuse or dependence. Research has shown it to be effective in reducing time to sleep onset. Additionally, evidence shows decreased risk of adverse events that are often associated with hypnotic drugs. (Fetveit, 2009; Mini, Wang-Weigand, &amp;amp; Zhang, 2007; Richardson et al., 2009; Roehrs &amp;amp; Roth, 2012; Roth et al., 2006; Shimazaki &amp;amp; Martin, 2007; Zammit et al., 2009) (<strong>Grade B, High Evidence</strong>)</p>
+<p><strong>Doxepin </strong></p>
+<p>Low-dose doxepin (1-6 mg) may be used for the treatment of primary insomnia in adults ages 45 to 64 years. Low-dose doxepin (1 mg or 3 mg) may be used for the treatment of primary insomnia in older adults. This recommendation is supported by the <em>2012 AGS Beers Criteria for Potentially Inappropriate Medications Use in Older Adults</em>. Low-dose doxepin has few of the anticholinergic side effects of other tricyclic antidepressants and has been shown to be effective and well tolerated. (Krystal et al., 2010; Roth et al., 2007) (<strong>Grade C, Moderate Evidence</strong>)</p>
+<p><strong>Non-benzodiazepine Hypnotics</strong></p>
+<p>Use of non-benzodiazepine hypnotics, specifically eszopiclone, zolpidem and zaleplon, should be limited to short-term use and used only on a case-by-case basis in the adult and older adult population. This recommendation is supported by the <em>2012 AGS Beers Criteria for Potentially Inappropriate Medications Use in Older Adults</em>. Past medical history, social history and benefits versus risks should be evaluated prior to prescribing. (Ancoli-Israel et al., 2010; Boyle et al., 2009; Brandt &amp;amp; Piechocki, 2013; McCrae et al., 2007) (<strong>Grade C, Moderate Evidence</strong>)</p>
+<p><strong>Mirtazapine</strong></p>
+<p>There is limited evidence-based data on the use of mirtazapine as treatment for primary insomnia. However, for patients with co-morbid depression and certain select populations, such as patients with cancer, it has been shown to be an effective treatment. Given the frequent side effects of increased appetite and body weight gain, it could be especially useful for elderly patients with insomnia who are also experiencing unintentional weight loss. (Bain, 2006; Roth, McCall, &amp;amp; Ligouri, 2011; Tariq &amp;amp; Pulisetty, 2008; Wiegand, 2008) (<strong>Grade C, Low Evidence</strong>)</p>
+<p><strong>Trazodone</strong></p>
+<p>Despite a lack of evidence-based research, trazodone is one of the most widely prescribed medications for management of insomnia. This is likely owing to its sedating qualities, limited anticholinergic properties, and limited potential for addiction and tolerance. However, there have been no long-term studies of trazodone for the treatment of primary insomnia. Short-term studies (six weeks or less) have shown that when prescribed in low doses, it improves both sleep onset and duration without risk of addiction. Potential adverse side effects that should be considered for older adults include excessive daytime sleepiness, dizziness, headaches, and psychomotor impairment. The more rare side effect of priapism has been seen in select populations and should be evaluated when prescribing for men. (Bain, 2006; Bossini et al., 2012; Kamel &amp;amp; Gammack, 2006; Ringdahl, Pereira, &amp;amp; Delzell, 2004; Roth, McCall, &amp;amp; Liguori, 2011; Tariq &amp;amp; Pulisetty, 2008; Wiegand, 2008) (<strong>Grade C, Low Evidence</strong>)</p>
+<p><strong>Antihistamines</strong></p>
+<p>Antihistamines are not recommended due to a lack of proven efficacy as well as a potential for significant adverse side effects including confusion, urinary retention, and other anticholinergic effects. (Bain, 2006; Tariq &amp;amp; Pulisetty, 2008) (<strong>Grade D, Moderate Evidence</strong>)</p>
+<p><strong>Benzodiazepines</strong></p>
+<p>Short-, intermediate-, and long-acting benzodiazepines are not recommended for treatment of primary insomnia in adults. The risks of an adverse event such as cognitive impairment, falls, delirium, or fractures generally do not outweigh the benefits. (Buscemi et al., 2007; Glass et al., 2005) (<strong>Grade D, Moderate Evidence</strong>)</p>
+<p><strong>Tricyclic Antidepressants</strong></p>
+<p>With the exception of low-dose doxepin, tricyclic antidepressants are not recommended for primary insomnia due to a lack of evidence and well-designed studies. Tricyclic agents can have significant side effects including orthostasis, cardiac arrhythmias, and anticholinergic side effects. (Bain, 2006; Roehrs &amp;amp; Roth, 2012; Schneider, 2002) (<strong>Grade D, Moderate Evidence</strong>)</p>
+<p><strong>Melatonin</strong></p>
+<p>The use of melatonin is not supported due to lack of well-designed studies and evidence. Nonetheless, anecdotal evidence in clinical use has shown it to be effective particularly for those with a history of addiction and delayed sleep onset. For patients seeking a &quot;natural&quot; remedy over pharmaceuticals, providers should exercise professional judgment and experience in recommending melatonin. (Gooneratne, 2008; MacMahon, Broomfield, &amp;amp; Espie, 2005; Shimazaki &amp;amp; Martin, 2007) (<strong>Grade I, Low Evidence</strong>)</p>
+<p><strong>Valerian</strong></p>
+<p>Although limited studies on older adults have demonstrated subjective improvement in sleep with the use of Valerian, objective testing demonstrated less consistent results. Valerian is not recommended due to a lack of available standardized form, and the need for additional research. (Gooneratne, 2008; Shimazaki &amp;amp; Martin, 2007) (<strong>Grade I, Low Evidence</strong>)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Non-pharmacological Interventions</span></strong></p>
+<p><strong>Exercise</strong></p>
+<p>Exercise can be recommended as a complementary approach to existing therapy as it is low cost, generally safe, and may enhance sleep and quality of life. Timing of exercise is considered important and should be avoided within 2 hours of bedtime. Advise using professional judgment to determine appropriate select patients. (Lichstein &amp;amp; Morin, 2000; Montgomery &amp;amp; Dennis, 2009; Passos et al., 2012; Yang et al., 2012) (<strong>Grade C, Low Evidence</strong>)</p>
+<p><strong>Tai Chi</strong></p>
+<p>Tai chi can be recommended as a non-pharmacological approach to sleep enhancement for sleep-disturbed elderly individuals. Advise choosing appropriate individuals with professional judgment. (Li et al., 2004) (<strong>Grade C, Low Evidence</strong>)</p>
+<p><strong>Acupressure/Acupuncture</strong></p>
+<p>Acupuncture and acupressure, especially auricular therapy, demonstrated some improvement in sleep quality in older adults. Additional research is needed. (Gooneratne, 2008; Kim &amp;amp; Sok, 2007) (<strong>Grade I, Low Evidence</strong>)</p>
+<p><strong>Bright Light Therapy</strong></p>
+<p>There is insufficient evidence to recommend bright light therapy (daily, timed exposure to a bright light to restore normal circadian rhythm) due to limited study and inconsistent findings. (Friedman et al., 2009; Montgomery &amp;amp; Dennis, 2002) (<strong>Grade I, Low Evidence</strong>)</p>
+<p><strong>Massage Therapy</strong></p>
+<p>Massage therapy has demonstrated an improvement in sleep parameters for older hospitalized patients, but additional research for the general older population is needed. (Gooneratne, 2008) (<strong>Grade I, Low Evidence</strong>)</p>
+<p><strong>Yoga</strong></p>
+<p>The practice of yoga has demonstrated an improvement in sleep parameters in older adults; however, research on yoga as a treatment intervention for insomnia is limited. (Gooneratne, 2008) (<strong>Grade I, Low Evidence</strong>)</p>
+<p><strong>Tart Cherry Juice</strong></p>
+<p>A particular tart cherry juice in a small pilot study showed modest beneficial effects on sleep in older adults with insomnia; however, this research was funded by the owner of the studied proprietary cherry juice blend, and further studies are needed. (Pigeon et al., 2010) (<strong>Grade I, Low Evidence</strong>)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><strong>Grading of Recommendations</strong> (Based on the U.S. Preventive Services Task Force [USPSTF] Ratings)</p>
+<p><strong>A</strong>: The USPSTF recommends the service. There is high certainty that the net benefit is substantial.</p>
+<p><strong>B</strong>: The USPSTF recommends the service. There is high certainty that the net benefit is moderate or there is moderate certainty that the net benefit is moderate to substantial.</p>
+<p><strong>C</strong>: The USPSTF recommends selectively offering or providing this service to individual patients based on professional judgment and patient preferences. There is at least moderate certainty that the net benefit is small.</p>
+<p><strong>D</strong>: The USPSTF recommends against the service. There is moderate or high certainty that the service has no net benefit or that the harms outweigh the benefits.</p>
+<p><strong>I</strong>: The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of the service. Evidence is lacking, of poor quality, or conflicting, and the balance of benefits and harms cannot be determined.</p>
+<p><strong>Quality of Evidence</strong> (Based on USPSTF Ratings)</p>
+<p><strong>High</strong>: The available evidence usually includes consistent results from well-designed, well-conducted studies in representative primary care populations. These studies assess the effects of the preventive service on health outcomes. This conclusion is therefore unlikely to be strongly affected by the results of future studies.</p>
+<p><strong>Moderate</strong>: The available evidence is sufficient to determine the effects of the preventive service on health outcomes, but confidence in the estimate is constrained by such factors as:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The number, size, or quality of individual studies. </li>
+    <li>Inconsistency of findings across individual studies. </li>
+    <li>Limited generalizability of findings to routine primary care practice. </li>
+    <li>Lack of coherence in the chain of evidence. </li>
+</ul>
+<p>As more information becomes available, the magnitude or direction of the observed effect could change, and this change may be large enough to alter the conclusion.</p>
+<p><strong>Low</strong>: The available evidence is insufficient to assess effects on health outcomes. Evidence is insufficient because of:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The limited number or size of studies. </li>
+    <li>Important flaws in study design or methods. </li>
+    <li>Inconsistency of findings across individual studies. </li>
+    <li>Gaps in the chain of evidence. </li>
+    <li>Findings not generalizable to routine primary care practice. </li>
+    <li>Lack of information on important health outcomes. </li>
+</ul>
+<p>More information may allow estimation of effects on health outcomes.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Primary insomnia</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Geriatrics"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Nursing"/>
+      <fieldvalue value="Psychiatry"/>
+      <fieldvalue value="Sleep Medicine"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Psychologists/Non-physician Behavioral Health Clinicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To provide evidence-based recommendations for the treatment of primary insomnia in the middle-aged to older adult population in the primary care setting</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Middle-aged to older adults (45+ years) with primary insomnia</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Sleep hygiene education </li>
+    <li>Cognitive behavioral therapy (e.g., stimulus control therapy and sleep restriction therapy) </li>
+    <li>Pharmacological interventions
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Ramelteon </li>
+        <li>Doxepin </li>
+        <li>Non-benzodiazepine hypnotics </li>
+        <li>Mirtazapine </li>
+        <li>Trazodone </li>
+    </ul>
+    </li>
+    <li>Non-pharmacological/herbal interventions
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Exercise </li>
+        <li>Tai chi </li>
+    </ul>
+    </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: The following interventions were considered but not recommended: antihistamines, benzodiazepines, tricyclic antidepressants (with the exception of low-dose doxepin), melatonin, valerian, acupressure/acupuncture, bright light therapy, massage therapy, yoga, tart cherry juice.</p>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul ytpe=&quot;disc&quot;>
+    <li>Sleep quality and quantity </li>
+    <li>Daily functioning </li>
+    <li>Quality of Life </li>
+    <li>Side effects of therapy </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Searches of electronic databases</strong>: PubMed, Medline, Cumulative Index to Nursing and Allied Health Literature (CINAHL) Plus, Cochrane, PsycINFO, PsycARTICLES from 2000 to 2014</p>
+<p><strong>Keywords</strong>: insomnia, older adult, management</p>
+<p><strong>Inclusion criteria</strong>: peer reviewed, human studies, primary insomnia, research on treatment of primary insomnia, ages 45+</p>
+<p><strong>Exclusion criteria</strong>: secondary causes of insomnia, restless leg syndrome, obstructive sleep apnea, depression, dementia, osteoarthritis, pain, bipolar, chronic obstructive pulmonary disease (COPD), stroke, outcomes not client focused, research based on secondary causes of insomnia, residents of long-term care facilities</p>
+<p><strong>Additional source data</strong>: The National Guideline Clearinghouse (NGC) summary of the American Academy of Sleep Medicine guideline clinical guideline for the evaluation and management of chronic insomnia in adults (no longer available), the Health Technology Assessment Unit, La&amp;iacute;n Entralgo Agency guideline Clinical practice guidelines for the management of patients with insomnia in primary care (no longer available), UpToDate, <em>2012 AGS Beers Criteria</em>, and position statements from the American Association for Geriatric Psychiatry and American Geriatrics Society.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>64</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Subjective Review"/>
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Quality of Evidence</strong> (Based on the U.S. Preventive Services Task Force [USPSTF] Ratings)</p>
+<p><strong>High</strong>: The available evidence usually includes consistent results from well-designed, well-conducted studies in representative primary care populations. These studies assess the effects of the preventive service on health outcomes. This conclusion is therefore unlikely to be strongly affected by the results of future studies.</p>
+<p><strong>Moderate</strong>: The available evidence is sufficient to determine the effects of the preventive service on health outcomes, but confidence in the estimate is constrained by such factors as:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The number, size, or quality of individual studies. </li>
+    <li>Inconsistency of findings across individual studies. </li>
+    <li>Limited generalizability of findings to routine primary care practice. </li>
+    <li>Lack of coherence in the chain of evidence. </li>
+</ul>
+<p>As more information becomes available, the magnitude or direction of the observed effect could change, and this change may be large enough to alter the conclusion.</p>
+<p><strong>Low</strong>: The available evidence is insufficient to assess effects on health outcomes. Evidence is insufficient because of:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The limited number or size of studies. </li>
+    <li>Important flaws in study design or methods. </li>
+    <li>Inconsistency of findings across individual studies. </li>
+    <li>Gaps in the chain of evidence. </li>
+    <li>Findings not generalizable to routine primary care practice. </li>
+    <li>Lack of information on important health outcomes. </li>
+</ul>
+<p>More information may allow estimation of effects on health outcomes.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Journal articles were analyzed for quality based on type of study design, method, number of subjects, representative sample, generalizability of results, and applicability for target population of older adults.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+      <fieldvalue value="Informal Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Family nurse practitioner (FNP) students developed the guideline via a literature review and analysis.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Grading of Recommendations</strong> (Based on the U.S. Preventive Services Task Force [USPSTF] Ratings)</p>
+<p><strong>A</strong>: The USPSTF recommends the service. There is high certainty that the net benefit is substantial.</p>
+<p><strong>B</strong>: The USPSTF recommends the service. There is high certainty that the net benefit is moderate or there is moderate certainty that the net benefit is moderate to substantial.</p>
+<p><strong>C</strong>: The USPSTF recommends selectively offering or providing this service to individual patients based on professional judgment and patient preferences. There is at least moderate certainty that the net benefit is small.</p>
+<p><strong>D</strong>: The USPSTF recommends against the service. There is moderate or high certainty that the service has no net benefit or that the harms outweigh the benefits.</p>
+<p><strong>I</strong>: The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of the service. Evidence is lacking, of poor quality, or conflicting, and the balance of benefits and harms cannot be determined.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Family nurse practitioner (FNP) students developed the guideline and submitted it to the University of Texas at Austin FNP faculty for review. Revisions were made and submitted to an external expert source. Final revisions were made based on reviewer recommendations before submission to the guideline review committee.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="98" ordby="605" id="425" name="References Supporting the Recommendations" type="citation">
+      <fieldvalue value="<table><tr><td>Ancoli-Israel S, Krystal AD, McCall WV, Schaefer K, Wilson A, Claus R, Rubens R, Roth T. A 12-week, randomized, double-blind, placebo-controlled study evaluating the effect of eszopiclone 2 mg on sleep/wake function in older adults with primary and comorbid insomnia. Sleep. 2010 Feb;33(2):225-34. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20175406&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bain KT. Management of chronic insomnia in elderly persons. Am J Geriatr Pharmacother. 2006 Jun;4(2):168-92. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16860264&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Belanger L, LeBlanc M, Morin CM. Cognitive behavioral therapy for insomnia in older adults. Cogn Behav Pract. 2012;19:101-15.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bloom HG, Ahmed I, Alessi CA, AncoliIsrael S, Buysse DJ, Kryger MH, Phillips BA, Thorpy MJ, Vitiello MV, Zee PC. Evidence-based recommendations for the assessment and management of sleep disorders in older persons. J Am Geriatr Soc. 2009 May;57(5):761-89. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19484833&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bossini L, Casolaro I, Koukouna D, Cecchini F, Fagiolini A. Off-label uses of trazodone: a review. Expert Opin Pharmacother. 2012 Aug;13(12):1707-17. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22712761&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Boyle J, Danjou P, Alexander R, Calder N, Gargano C, Agrawal N, Fu I, McCrea JB, Murphy MG. Tolerability, pharmacokinetics and night-time effects on postural sway and critical flicker fusion of gaboxadol and zolpidem in elderly subjects. Br J Clin Pharmacol. 2009 Feb;67(2):180-90. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19094161&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Brandt NJ, Piechocki JM. Treatment of insomnia in older adults: re-evaluating the benefits and risks of sedative hypnotic agents. J Gerontol Nurs. 2013 Apr;39(4):48-54. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23445185&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Buscemi N, Vandermeer B, Friesen C, Bialy L, Tubman M, Ospina M, Klassen TP, Witmans M. The efficacy and safety of drug treatments for chronic insomnia in adults: a meta-analysis of RCTs. J Gen Intern Med. 2007 Sep;22(9):1335-50. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17619935&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Creti L, Libman E, Bailes S, Fichten CS. Effectiveness of cognitive-behavioral insomnia treatment in a community sample of older individuals: more questions than conclusion. J Clin Psychol Med Settings. 2005;12(2):153-64.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Epstein DR, Sidani S, Bootzin RR, Belyea MJ. Dismantling multicomponent behavioral treatment for insomnia in older adults: a randomized controlled trial. Sleep. 2012 Jun;35(6):797-805. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22654199&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Fetveit A. Late-life insomnia: a review. Geriatr Gerontol Int. 2009 Sep;9(3):220-34. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19702931&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Friedman L, Zeitzer JM, Kushida C, Zhdanova I, Noda A, Lee T, Schneider B, Guilleminault C, Sheikh J, Yesavage JA. Scheduled bright light for treatment of insomnia in older adults. J Am Geriatr Soc. 2009 Mar;57(3):441-52. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19187411&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Glass J, Lanctôt KL, Herrmann N, Sproule BA, Busto UE. Sedative hypnotics in older people with insomnia: meta-analysis of risks and benefits. BMJ. 2005 Nov 19;331(7526):1169. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16284208&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Gooneratne NS. Complementary and alternative medicine for sleep disturbances in older adults. Clin Geriatr Med. 2008 Feb;24(1):121-38, viii. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18035236&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Irwin MR, Cole JC, Nicassio PM. Comparative meta-analysis of behavioral interventions for insomnia and their efficacy in middle-aged adults and in older adults 55+ years of age. Health Psychol. 2006 Jan;25(1):3-14. [28 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16448292&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kamel NS, Gammack JK. Insomnia in the elderly: cause, approach, and treatment. Am J Med. 2006 Jun;119(6):463-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16750956&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kim KB, Sok SR. Auricular acupuncture for insomnia: duration and effects in Korean older adults. J Gerontol Nurs. 2007 Aug;33(8):23-8; quiz 30-1. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17718375&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Krystal AD, Durrence HH, Scharf M, Jochelson P, Rogowski R, Ludington E, Roth T. Efficacy and Safety of Doxepin 1 mg and 3 mg in a 12-week Sleep Laboratory and Outpatient Trial of Elderly Subjects with Chronic Primary Insomnia. Sleep. 2010 Nov;33(11):1553-61. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21102997&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Li F, Fisher KJ, Harmer P, Irbe D, Tearse RG, Weimer C. Tai chi and self-rated quality of sleep and daytime sleepiness in older adults: a randomized controlled trial. J Am Geriatr Soc. 2004 Jun;52(6):892-900. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15161452&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lichstein KL, Morin CM. Treatment of late-life insomnia. Thousand Oaks (CA): Sage; 2000. 125-46 p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>MacMahon KA, Broomfield NM, Espie CA. A systematic review of the effectiveness of oral melatonin for adults (18 to 65 years) with delayed sleep phase syndrome and adults (18 to 65 years) with primary insomnia. Curr Psychiatry Rev. 2005;1(1):103-13.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>McCrae CS, Ross A, Stripling A, Dautovich ND. Eszopiclone for late-life insomnia. Clin Interv Aging. 2007;2(3):313-26. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18044182&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mini LJ, Wang-Weigand S, Zhang J. Self-reported efficacy and tolerability of ramelteon 8 mg in older adults experiencing severe sleep-onset difficulty. Am J Geriatr Pharmacother. 2007 Sep;5(3):177-84. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17996657&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Montgomery P, Dennis J. Bright light therapy for sleep problems in adults aged 60+. Cochrane Database Syst Rev. 2002;(2):CD003403. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12076478&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Montgomery P, Dennis JA. Physical exercise for sleep problems in adults aged 60+. Cochrane Database Syst Rev. 2009;:1-14.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Morin CM, Benca R. Chronic insomnia. Lancet. 2012 Mar 24;379(9821):1129-41. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22265700&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Nau SD, McCrae CS, Cook KG, Lichstein KL. Treatment of insomnia in older adults. Clin Psychol Rev. 2005 Jul;25(5):645-72. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15961205&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Passos GS, Poyares DL, Santana MG, Tufik S, Mello MT. Is exercise an alternative treatment for chronic insomnia?. Clinics (Sao Paulo). 2012;67(6):653-60. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22760906&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Petit L, Azad N, Byszewski A, Sarazan FF, Power B. Non-pharmacological management of primary and secondary insomnia among older people: review of assessment tools and treatments. Age Ageing. 2003 Jan;32(1):19-25. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12540343&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Pigeon WR, Carr M, Gorman C, Perlis ML. Effects of a tart cherry juice beverage on the sleep of older adults with insomnia: a pilot study. J Med Food. 2010 Jun;13(3):579-83. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20438325&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Richardson GS, Zammit G, Wang-Weigand S, Zhang J. Safety and subjective sleep effects of ramelteon administration in adults and older adults with chronic primary insomnia: a 1-year, open-label study. J Clin Psychiatry. 2009 Apr;70(4):467-76. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19284927&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ringdahl EN, Pereira SL, Delzell JE. Treatment of primary insomnia. J Am Board Fam Pract. 2004 May-Jun;17(3):212-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15226287&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Roehrs T, Roth T. Insomnia pharmacotherapy. Neurotherapeutics. 2012 Oct;9(4):728-38. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22976558&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Roszkowska J, Geraci SA. Management of insomnia in the geriatric patient. Am J Med. 2010 Dec;123(12):1087-90. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20870196&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Roth AJ, McCall WV, Liguori A. Cognitive, psychomotor and polysomnographic effects of trazodone in primary insomniacs. J Sleep Res. 2011 Dec;20(4):552-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21623982&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Roth T, Rogowski R, Hull S, Schwartz H, Koshorek G, Corser B, Seiden D, Lankford A. Efficacy and safety of doxepin 1 mg, 3 mg, and 6 mg in adults with primary insomnia. Sleep. 2007 Nov;30(11):1555-61. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18041488&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Roth T, Seiden D, Sainati S, Wang-Weigand S, Zhang J, Zee P. Effects of ramelteon on patient-reported sleep latency in older adults with chronic insomnia. Sleep Med. 2006 Jun;7(4):312-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16709464&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Schneider DL. Insomnia. Safe and effective therapy for sleep problems in the older patient. 2002 May;57(5):24-6, 29, 32 passim. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12040591&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Shimazaki M, Martin JL. Do herbal agents have a place in the treatment of sleep problems in long-term care?. J Am Med Dir Assoc. 2007 May;8(4):248-52. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17498609&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Soeffing JP, Lichstein KL, Nau SD, McCrae CS, Wilson NM, Aguillard RN, Lester KW, Bush AJ. Psychological treatment of insomnia in hypnotic-dependant older adults. Sleep Med. 2008 Jan;9(2):165-71. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17644419&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tariq SH, Pulisetty S. Pharmacotherapy for insomnia. Clin Geriatr Med. 2008 Feb;24(1):93-105, vii. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18035234&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Wiegand MH. Antidepressants for the treatment of insomnia: a suitable approach?. Drugs. 2008;68(17):2411-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19016570&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Woodward M. Sleep in older people. Rev Clin Gerontol. 2012;22:130-49.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Yang PY, Ho KH, Chen HC, Chien MY. Exercise training improves sleep quality in middle-aged and older adults with sleep problems: a systematic review. J Physiother. 2012;58(3):157-63. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22884182&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Zammit G, Wang-Weigand S, Rosenthal M, Peng X. Effect of ramelteon on middle-of-the-night balance in older adults with chronic insomnia. J Clin Sleep Med. 2009 Feb 15;5(1):34-40. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19317379&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate treatment of primary insomnia in the middle-aged to older adult population in the primary care setting</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Mirtazapine has the frequent side effects of increased appetite and body weight gain. </li>
+    <li>Trazodone improves both sleep onset and duration without risk of addiction. Potential adverse side effects that should be considered for older adults include excessive daytime sleepiness, dizziness, headaches, and psychomotor impairment. The more rare side effect of priapism has been seen in select populations and should be evaluated when prescribing for men. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>This guideline represents the view of the University of Texas School of Nursing Family Nurse Practitioner students and faculty, which was arrived at after careful consideration of the evidence available. </li>
+    <li>This guideline is intended as an aid to decision making in health care. Health care professionals must use their judgment in applying the recommendations to individual patients. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>University of Texas at Austin School of Nursing, Family Nurse Practitioner Program. Clinical guideline for the treatment of primary insomnia in middle-aged and older adults. Austin (TX): University of Texas at Austin, School of Nursing; 2014 May. 28 p.  [63 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2014 May"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="University of Texas at Austin School of Nursing, Family Nurse Practitioner Program - Academic Institution"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>University of Texas at Austin, School of Nursing, Family Nurse Practitioner Program</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Practice Guideline Committee</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Authors</em>: Shelley Baker, MSN, RN, FNP; Sarmila Bhatta, MSN, RN, FNP; Emily Bowden, MSN, RN, FNP; Valerie Calaway, MSN, RN, FNP; James Kinser, MSN, RN, FNP; Kristin Vinueza, MSN, RN, FNP; Yingxu Xie, MSN, RN, FNP, Lisa Doggett, MD, MPH, FAAFP</p>
+<p><em>Internal reviewers</em>: Lisa Doggett, MD, MPH, FAAFP; Pamela Willson, PhD, APRN, FNP-BC, CNE; Paula Worley, MSN, APRN, FNP-BC</p>
+<p><em>External reviewer</em>: Ashwin Gowda, MD</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: None available.</p>
+<p>Print copies: Available from the University of Texas at Austin, School of Nursing. 1700 Red River, Austin, Texas, 78701-1499, Attn: Nurse Practitioner Program.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on August 6, 2014.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which may be subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 22:42:01 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:02:22 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 157.078 (3)
+  esindex: 0.015
+  captures_list: 188.024
+  CDXLines.iter: 20.332 (3)
+  PetaboxLoader3.datanode: 225.654 (4)
+  exclusion.robots: 0.646
+  exclusion.robots.policy: 0.625
+  RedisCDXSource: 5.995
+  PetaboxLoader3.resolve: 427.144
+  load_resource: 526.116
+-->

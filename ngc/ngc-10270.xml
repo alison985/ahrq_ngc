@@ -1,0 +1,837 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app57.us.archive.org';v.server_ms=181;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10270?contentType=xml', '20160930192921')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930192921/https://www.guideline.gov/summaries/downloadcontent/ngc-10270?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930192921/https://www.guideline.gov/summaries/downloadcontent/ngc-10270?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10270?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930192921" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 19:29:21 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 19:29:21 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 19:29:21 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930192921*/https://www.guideline.gov/summaries/downloadcontent/ngc-10270?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10270?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Testicular germ cell tumours.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Alberta Provincial Genitourinary Tumour Team. Testicular germ cell tumours. Edmonton (Alberta): CancerControl Alberta; 2013 Sep. 17 p.&amp;nbsp;(Clinical practice guideline; no. GU-001).&amp;nbsp; [57 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Alberta Provincial Genitourinary Tumour Team. Testicular germ cell tumours. Edmonton (Alberta): Alberta Health Services, Cancer Care; 2012 Feb. 20 p. (Clinical practice guideline; no. GU-001). [58 references]</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><span style=&quot;text-decoration: underline;&quot;><strong>Seminomas</strong></span></p>
+<p><strong>T1-4, N0, M0 (Stage I Seminomas)</strong></p>
+<p>Indications include disease localized to testicle only, post-radical orchidectomy.</p>
+<p><em>Management</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Staging</span> (American Joint Committee on Cancer [AJCC], 2010)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Chest x-ray (CXR) </li>
+    <li>Computed tomography (CT) abdomen/pelvis; CT chest if positive abdominal CT or abnormal CXR </li>
+    <li>Complete blood count (CBC) </li>
+    <li>Creatinine </li>
+    <li>Tumour markers (&amp;beta; human chorionic gonadotropin [&amp;beta;HCG], lactate dehydrogenase [LDH], &amp;alpha; fetal protein [&amp;alpha;FP]) </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Primary Therapy</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Therapeutic options include surveillance or adjuvant chemotherapy (Chung et al., 2010). </li>
+    <li>Surveillance is indicated for the individual who will comply with the surveillance protocol (below). </li>
+    <li>Patients with a higher risk for recurrence (e.g., presence of a tumour &amp;gt;4 cm and/or rete testes involvement) should discuss risk factors with oncologists and could be offered radiotherapy; however, even patients in the high-risk group have a greater than 65% chance of being relapse-free without adjuvant treatment, as such surveillance remains an preferred option. </li>
+    <li>Radiotherapy: 20&amp;ndash;25 Gy in 10&amp;ndash;20 fractions, to para-aortic &amp;plusmn; ipsilateral pelvic lymph nodes (&quot;dog leg&quot; or &quot;hockey stick&quot;). </li>
+    <li>Chemotherapy (carboplatin area under the curve [AUC] 7 x 2 courses) can be considered in select cases. </li>
+    <li>The possibility of sperm banking should be discussed. </li>
+</ul>
+<p>Surveillance Protocol (Princess Margaret Hospital, 2012)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Years 1&amp;ndash;3: physical evaluation (P/E), tumour markers, CT abdomen/pelvis every 6 months; CXR every 12 months. </li>
+    <li>Years 4&amp;ndash;10: P/E, tumour markers, CT abdomen +/- pelvis at discretion of physician, only every 12 months. </li>
+</ul>
+<p><em>Follow-up</em> (Martin et al., 2007; Tolan, Vesprini et al., 2010)</p>
+<p>Evaluation post-radiotherapy or chemotherapy (re-staging), then:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Years 1&amp;ndash;3: P/E, tumour markers, CT abdomen/pelvis every 6 months; CXR every 12 months. </li>
+    <li>Years 4&amp;ndash;10: P/E, tumour markers, CT abdomen +/- pelvis at discretion of physician, only every 12 months. </li>
+    <li>Years 4&amp;ndash;10: follow-up can be done by family physician, clinical associate, or nurse practitioner. </li>
+</ul>
+<p><strong>T1-4, N1-2, M0 (Stages IIA and IIB Seminomas)</strong></p>
+<p>Indications include retroperitoneal lymph node disease &amp;lt;5 cm in diameter.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Stage T1-4, N1, M0, enlarged node &amp;lt;2 cm (stage IIA) </li>
+    <li>Stage T1-4, N2, M0, enlarged node(s) 2&amp;ndash;5 cm (stage IIB) </li>
+</ul>
+<p><em>Management</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Staging</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Tumour markers (&amp;beta;HCG, &amp;alpha;FP, LDH) </li>
+    <li>CT chest, abdomen and pelvis </li>
+    <li>Bone scan, if clinically indicated </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Preparation for Therapy</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Baseline CBC, creatinine </li>
+    <li>Discuss sperm banking with the patient </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Primary Therapy</span></p>
+<p>External-beam radiotherapy (Smalley et al., 1985; Mason &amp;amp; Kearsley, 1988)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Include para-aortic and ipsilateral pelvic nodes to 20&amp;ndash;30 Gy (&quot;dog leg&quot; or &quot;hockey stick&quot;). </li>
+    <li>Boost grossly involved nodes by 10 Gy. </li>
+</ul>
+<p>Chemotherapy (Williams et al., 1987; Motzer et al., 1995; de Wit et al., 2001)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Consider bleomycin, etoposide, cisplatin (BEP) &amp;times; 3 cycles when optimal radiotherapy not possible;&amp;nbsp;etoposide, cisplatin (EP) &amp;times; 4 cycles may be considered in patients with contraindication to bleomycin. </li>
+    <li>Consider BEP &amp;times; 3 cycles, in extensive stage IIB disease (same as stage IIC); EP &amp;times; 4 cycles may be considered in patients with contraindication to bleomycin. </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Residual Disease</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>If the residual mass &amp;gt;3 cm, consider a positron emission tomography (PET) scan 4 to 12 weeks after day 21 of the last cycle. </li>
+    <li>If PET scan is positive, decisions should be made using a multi-disciplinary approach. </li>
+    <li>Due to the difficulty of surgical resection and radio-sensitivity of seminoma, consider biopsy and/or radiotherapy. If required, surgery can be performed in the future. </li>
+</ul>
+<p><em>Follow-up</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Post-therapy Evaluation</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>P/E </li>
+    <li>Tumour markers </li>
+    <li>CXR (or CT thorax) </li>
+    <li>CT abdomen/ pelvis (baseline post-radiotherapy [RT]) </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Evaluation of Residual Disease</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>PET scan for evaluation of residual disease (Kollmannsberger et al., 2002; Spermon et al., 2002; Cremerius, Effert, &amp;amp; Adam, 1998; Lewis et al., 2006). </li>
+    <li>If there is no residual disease, evaluate post-completion of therapy with CT abdomen/pelvis. </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Post-therapy Surveillance</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Year 1: P/E, tumour markers every 2 to 3 months. CXR, CT of area of known disease every 4 to 6 months. CT abdomen/pelvis every 6 to 12 months. </li>
+    <li>Year 2: P/E, tumour markers every 3 to 4 months. CXR, CT of area of known disease every 6 months. </li>
+    <li>Year 3: P/E, tumour markers, CXR, CT of area of known disease every 6 months. </li>
+    <li>Years 4&amp;ndash;5: P/E, tumour markers every 6 to 12 months. CXR, CT if clinically indicated. </li>
+    <li>Years 6&amp;ndash;10: P/E, tumour markers, CXR every 12 months. CT if clinically indicated. </li>
+    <li>Clinic visits every 3 to 6 months; annually thereafter. </li>
+    <li>Duration: 10 years; years 3&amp;ndash;10 can be done by family physician, clinical associate, or nurse practitioner. </li>
+</ul>
+<p><strong>T1-4, N3, M0, T1-4, Nx, M1 (Stages IIC, IID, and III Seminomas)</strong></p>
+<p>Indications include retro-peritoneal lymph node disease &amp;gt;5 cm in diameter, or distant metastases.</p>
+<p><em>Management</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Staging</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Tumour markers (&amp;beta;HCG, &amp;alpha;FP, LDH) </li>
+    <li>CT chest, abdomen, pelvis </li>
+    <li>CT head (if symptomatic) </li>
+    <li>Bone scan, CT brain, if clinically indicated </li>
+    <li>PET if indicated (Chung &amp;amp; Walker-Dilks, 2009) </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Preparation for Therapy</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Baseline CBC, biochemistry, liver function tests, alkaline phosphatase </li>
+    <li>Discuss sperm banking with the patient. </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Primary Therapy</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Cisplatin-based combination chemotherapy (Motzer et al., 1995; de Wit et al., 2001; Bajorin et al., 1991). </li>
+    <li>Good risk as per International Germ Cell Consensus Classification (IGCCC): BEP &amp;times; 3; EP &amp;times; 4 may be considered if bleomycin is contraindicated. </li>
+    <li>Intermediate risk as per IGCCC: BEP &amp;times; 4. </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Management of Residual Disease</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>If residual mass &amp;gt;3 cm, consider PET scan 4 to 12 weeks after day 21 of the last cycle. </li>
+    <li>If PET is positive, decisions should be made using a multi-disciplinary approach due to the difficulty of surgical resection and radio-sensitivity of seminoma. Consider biopsy and/or RT. If required, surgery can still be performed in the future (Herr et al., 1997). </li>
+</ul>
+<p><em>Follow-up</em></p>
+<p>Evaluation post completion of therapy (restaging) and then:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Year 1: P/E, tumour markers every 2 to 3 months. CXR, CT of area of known disease every 4 to 6 months. </li>
+    <li>Year 2: P/E, tumour markers every 4 to 6 months. CXR, CT of area of known disease every 6 months. </li>
+    <li>Year 3: P/E, tumour markers, CXR every 6 months. CT of area of known disease every 6 months. </li>
+    <li>Years 4&amp;ndash;5: P/E, tumour markers, CXR every 6 to 12 months. CT if clinically indicated. </li>
+    <li>Years 6&amp;ndash;10: P/E, tumour markers, CXR every 12 months. CT if clinically indicated. </li>
+    <li>Duration: 10 years; years 3&amp;ndash;10 can be done by family physician, clinical associate, nurse practitioner. </li>
+</ul>
+<p><strong><strong><span style=&quot;text-decoration: underline;&quot;>Nonseminoma</span></strong></strong></p>
+<p><strong>T1-4, N0, M0, S0 (Stage I Nonseminomas)</strong></p>
+<p>Indications include disease localized to testicle only and normalization of tumour markers post-radical orchidectomy (half-life [t&amp;frac12;] = 24 to 48 hours for HCG, 5&amp;ndash;7 days for &amp;alpha;FP).</p>
+<p><em>Management</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Staging</span> (IGCCCG, 1997)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Clinical history and physical </li>
+    <li>CT abdomen/pelvis </li>
+    <li>CXR or CT chest </li>
+    <li>CBC </li>
+    <li>Tumour markers (LDH, &amp;alpha;FP, &amp;beta;HCG) </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Primary Therapy</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Surveillance (see below) or template retroperitoneal lymph node (LN) dissection; the decision for surveillance should consider the higher risk of metastatic disease in patients with pure embryonal histology and lympho-vascular invasion. </li>
+    <li>If lymph node metastases are present and completely excised, consider adjuvant chemotherapy. </li>
+</ul>
+<p><em>Follow-up</em></p>
+<p>Surveillance protocol:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Year 1: P/E, &amp;alpha;FP, HCG every 2 to 3 months. CXR, CT abdomen/pelvis every 4 months. </li>
+    <li>Year 2: P/E, &amp;alpha;FP, HCG every 4 to 6 months. CXR every 3 months. CT abdomen/pelvis every 6 months. </li>
+    <li>Year 3: P/E, &amp;alpha;FP, HCG, CXR every 4 to 6 months. Repeat CT as clinically indicated. </li>
+    <li>Years 4&amp;ndash;5: P/E, &amp;alpha;FP, HCG, CXR every 12 months. Repeat CT as clinically indicated. </li>
+    <li>If pathologically node negative post-LN dissection, the risk of relapse in the abdomen is very low. CT of the abdomen may be done at decreased frequency at physician's discretion. </li>
+    <li>Duration of follow-up: 5 years; close follow-up for 2 years. </li>
+    <li>Consider years 3&amp;ndash;5 follow-up be done by family physician, clinical associate or nurse practitioner. </li>
+</ul>
+<p><strong>T1-4, N0, M0, S+ (Stage I) and T1-4, N+, M0 (Stage II Nonseminomas)</strong></p>
+<p>Indications include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Clinical T1-4, N0, M0, (S+): failed marker normalization post-radical orchidectomy for clinical stage I disease </li>
+    <li>Clinical T1-4, N+, M0:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Relapsed disease in the retroperitoneal lymph nodes (RPLN) on surveillance post-radical orchidectomy </li>
+        <li>Clinical N+: RPLN+ on staging CT at presentation </li>
+        <li>Pathologic T1-4, N+, M0: pathologic N + post-RPLN dissection (RPLND) (see below) </li>
+    </ol>
+    </li>
+</ul>
+<p><em>Management</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Staging</span> (Herr et al., 1997)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Tumour markers (&amp;beta;HCG, &amp;alpha;FP, LDH) </li>
+    <li>CT chest, abdomen, and pelvis </li>
+    <li>Bone scan, CT brain, if clinically indicated </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Preparation for Therapy</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Baseline CBC, biochemistry, LFTs, alkaline phosphatase </li>
+    <li>Discuss sperm banking with the patient. </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Primary Therapy</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Cisplatin-based combination chemotherapy (Stephenson &amp;amp; Sheinfeld, 2005; Loehrer et al., 1995; de Wit et al., 1997) </li>
+    <li>Good risk (IGCCC): BEP x 3 </li>
+    <li>Intermediate/poor risk (IGCCC): BEP x 4; vindesine, ifosfamide, platinum (VIP) may be considered if there is contraindication to bleomycin or in patients at increased risk to bleomycin-induced pulmonary toxicity. </li>
+    <li>Consider complete bilateral RPLND if post-chemotherapy retroperitoneal (RP) masses &amp;gt;1.0 cm. </li>
+    <li>Role of consolidation chemotherapy is unclear. Post-resection treatment depends on histology:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Necrosis/fibrosis (40%&amp;ndash;50% of cases): observe </li>
+        <li>Teratoma (30%&amp;ndash;40% of cases): observe </li>
+        <li>Residual embryonal, yolk sac, choriocarcinoma, or seminomatous elements (15%&amp;ndash;20% of cases): adjuvant chemotherapy with EP x 2, paclitaxel, ifosfamide, cisplatin (TIP) x 2, or VIP x 2 </li>
+    </ul>
+    </li>
+    <li>RPLND as primary treatment can be considered for selected clinical stage IIA patients with normal markers, ipsilateral LN within landing zone, patient's preference or refusal of chemotherapy
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Treatment options following RPLND based on pathological staging (PS); also include pathologic stage II following RPLND for clinical stage I:
+        <ul style=&quot;list-style-type: disc;&quot;>
+            <li>Pathologic stage N0 or mature teratoma: observe </li>
+            <li>Pathologic stage IIA: observation preferred, may use adjuvant EP x 2 or BEP x 2 </li>
+            <li>Pathologic stage IIB: adjuvant EP x 2 or BEP x 2 </li>
+            <li>Pathologic stage IIC: primary chemotherapy as for good risk disease </li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+</ul>
+<p><em>Follow-up</em></p>
+<p>Evaluation post chemotherapy (restaging) and then:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Year 1: P/E, tumour markers every 2 to 3 months. CXR, CT scan every 3 to 4 months of area of known disease based on IGCCC risk group. </li>
+    <li>Year 2: P/E, tumour markers every 4 to 6 months. CXR, CT scan every 4 to 6 months of area of known disease based on IGCCC risk group </li>
+    <li>Year 3: P/E, tumour markers, CXR every 6 months. CT if clinically indicated based on IGCCC risk group. </li>
+    <li>Years 4&amp;ndash;5: P/E, tumour markers, CXR every 6 to 12 months with &amp;alpha;FP, HCG. CT if clinically indicate. </li>
+    <li>Duration of follow-up: 5 years </li>
+    <li>Consider years 3&amp;ndash;5 follow-up be done by family physician, clinical associate or nurse practitioner. </li>
+</ul>
+<p><strong>T1-4, N1-3, M+ (Stage III Nonseminomas)</strong></p>
+<p>Indications include presenting with distant metastatic disease.</p>
+<p><em>Management</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Staging</span> (AJCC, 2010)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Tumour markers (&amp;beta;HCG, &amp;alpha;FP, LDH) </li>
+    <li>CT abdomen/pelvis </li>
+    <li>CT chest </li>
+    <li>Bone scan, CT brain, if clinically indicated </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Preparation for Therapy</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Baseline CBC, biochemistry, LFTs, alkaline phosphatase </li>
+    <li>Discuss sperm banking with the patient. </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Primary Therapy</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Cisplatin-based combination chemotherapy is preferred:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Good risk (IGCCC): BEP &amp;times; 3 or EP &amp;times; 4 may be considered if contraindication to bleomycin. </li>
+        <li>Intermediate/poor risk (IGCCC): BEP &amp;times; 4; VIP may be considered if there is contraindication to bleomycin or in patients at increased risk to bleomycin-induced pulmonary toxicity. </li>
+    </ol>
+    </li>
+    <li>Consider surgical resection of post-chemotherapy RP masses &amp;gt;1.0 cm or &amp;lt;90% volume shrinkage from pre-chemotherapy size with normalization of tumour markers if previously elevated. </li>
+    <li>Consider resection of any residual mass in mediastinum/lung; these sites are associated with higher risk of teratoma and viable nonseminomatous germ cell tumour (NSGCT). </li>
+    <li>PET remains investigational due to high false-negative rate and difficulty in detecting mature teratoma in studies. </li>
+    <li>Post-resection treatment depends on histology (Toner et al., 1990)
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Necrosis/fibrosis &amp;ndash; observe </li>
+        <li>Teratoma &amp;ndash; observe </li>
+        <li>Residual embryonal, yolk sac, choriocarcinoma, or seminomatous elements - chemotherapy with EP &amp;times; 2, TIP &amp;times; 2, or VIP &amp;times; 2 </li>
+    </ol>
+    </li>
+    <li>Patients with brain metastases should be given whole brain radiotherapy (to be given up-front while chemotherapy is ongoing) &amp;plusmn; neurosurgical opinion for isolated disease. </li>
+</ul>
+<p><em>Follow-up</em></p>
+<p>Post-chemotherapy surveillance (restaging) and then:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Year 1: P/E, tumour markers every 2 to 3 months. CXR, CT scans every 3 to 4 months of area of known disease based on IGCCC risk group. </li>
+    <li>Year 2: P/E, tumour markers every 4 to 6 months. CXR, CT scans every 4 to 6 months of area of known disease based on IGCCC risk group. </li>
+    <li>Year 3: P/E, tumour markers, CXR every 4 to 6 months with &amp;alpha;FP, HCG. CT if clinically indicated based on IGCCC risk group. </li>
+    <li>Years 4&amp;ndash;5: P/E, tumour markers, CXR every 6 to 12 months with &amp;alpha;FP, HCG. CT if clinically indicated. </li>
+    <li>Duration of follow-up: 5 years </li>
+    <li>Consider follow-up for years 3&amp;ndash;5 be done by family physician, clinical associate, or nurse practitioner. </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Salvage Chemotherapy for Patients Relapsing Post-BEP Chemotherapy</strong></span> (Motzer et al., 1995; Loehrer et al., 1998; Bhatia et al., 2000; Beyer et al., 1996; Bedano et al., 2006; Kondagunta et al., 2005; Pico et al., 2005)</p>
+<p>Indications include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Primary cisplatin refractory disease </li>
+    <li>Relapse following cisplatin-based chemotherapy </li>
+    <li>Note: consider the possibility of growing teratoma syndrome; these patients do not have relapsed viable germ cell tumour </li>
+</ul>
+<p><strong>Management</strong></p>
+<p><em>Staging</em> (IGCCCG, 1997)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>CT chest </li>
+    <li>CT abdomen/pelvis </li>
+    <li>CBC </li>
+    <li>Chemistry profile including: electrolytes, creatinine, albumin, alkaline phosphatase,&amp;nbsp;alanine transaminase (ALT), total protein, LDH, &amp;alpha;FP, &amp;beta;HCG </li>
+    <li>CT head and bone scan if clinically indicated </li>
+</ul>
+<p><em>Primary Therapy</em></p>
+<p>The following discussion is limited to patients who relapse within 2 years of completion of their primary therapy.</p>
+<p>Patients can be divided into good and poor risk based on the following clinical and laboratory parameters at the time of relapse:</p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Patients Divided into Good and Poor Risk Based on Specific Clinical and Laboratory Parameters&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot;>Good Risk</th>
+            <th valign=&quot;top&quot;>Poor Risk</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Gonadal primary</td>
+            <td valign=&quot;top&quot;>Non-gonadal primary</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Seminoma</td>
+            <td valign=&quot;top&quot;>Non-seminoma</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Complete response (CR) or partial response (PR) as best response to first-line chemotherapy</td>
+            <td valign=&quot;top&quot;>PR/stable disease (SD)/progressive disease (PD) as best response to first-line chemotherapy</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Relapse &amp;gt;6 months after completion of first-line chemotherapy</td>
+            <td valign=&quot;top&quot;>Relapse &amp;lt;6 months after completion of first-line chemotherapy</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>&amp;alpha; fetal protein (&amp;alpha;FP) &amp;lt;100</td>
+            <td valign=&quot;top&quot;>&amp;alpha;FP &amp;lt;100</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>&amp;beta; human chorionic gonadotropin (&amp;beta;HCG) &amp;lt;1000</td>
+            <td valign=&quot;top&quot;>&amp;beta;HCG &amp;lt;1000</td>
+        </tr>
+    </tbody>
+</table>
+<p>There are two approaches to the management of patients relapsing after primary chemotherapy:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Standard-dose salvage chemotherapy </li>
+    <li>High-dose chemotherapy (HDCT) and peripheral blood stem cell transplantation (PBSCT) </li>
+</ul>
+<p>Treatment is based on risk category:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Good risk:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Standard-dose chemotherapy: TIP or VIP x 4 cycles. </li>
+        <li>For VIP/TIP failures or relapses, HDCT and PBSCT can be performed. </li>
+        <li>For patients relapsing after standard-dose salvage chemotherapy, and HDCT and PBSCT can be considered for palliative chemotherapy; agents include gemcitabine, oxaliplatin, etoposide, and paclitaxel. </li>
+    </ul>
+    </li>
+    <li>Poor risk:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Standard-dose chemotherapy: TIP or VIP x 4 cycles. </li>
+        <li>Patients who are poor risk at relapse should be considered early for HDCT and PBSCT, as they may not be well enough to consider this treatment in the third-line setting. </li>
+    </ul>
+    </li>
+</ul>
+<p>HDCT and PBSCT (De Giorgi et al., 2002; Einhorn et al., 2007; Motzer et al., 1996)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Prior to HDCT and PBSCT, standard-dose chemotherapy should be administered to debulk the tumour and facilitate stem cell collection.
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>1&amp;ndash;2 cycles of chemotherapy may be administered depending on how quickly the stem cell transplantation procedure can be undertaken. </li>
+        <li>Regimens used to debulk may include VIP or TIP; ifosfamide, carboplatin, and etoposide (ICE) have also been used. </li>
+    </ul>
+    </li>
+    <li>The conditioning regimen for the transplant should consist of high-dose carboplatin and etoposide. </li>
+    <li>Enough stem cells should be collected in order to conduct a tandem transplant. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Adjunctive Care for All Patients</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients with brain metastases should be given whole brain radiotherapy concurrently while chemotherapy is ongoing. Neurosurgical opinion for isolated metastases may also be considered. </li>
+    <li>After completion of all chemotherapy, resection of any residual masses should be performed. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Unique Clinical Situations</span></strong></p>
+<p><strong>Late Relapses</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A late relapse is defined as relapse occurring &amp;gt;2 years after completion of primary chemotherapy. </li>
+    <li>These patients have disease that is more chemotherapy resistant and immediate surgical resection of recurrent disease should be undertaken if feasible, irrespective of the level of tumour markers. </li>
+    <li>Whether or not to offer chemotherapy post-surgical resection in this setting is controversial but could be considered. </li>
+    <li>TIP has been used with modest success in patients who relapse late that are not surgical candidates. </li>
+</ul>
+<p><strong>Non-testicular Germ Cell Tumours (GCT)</strong></p>
+<p>Please refer to the CancerControl Alberta guideline <a href=&quot;http://www.albertahealthservices.ca/hp/if-hp-cancer-guide-gu007-extragonadal-gct.pdf&quot; title=&quot;Alberta Health Services Web site&quot;>Extragonadal Germ Cell Tumours</a> and the guideline on central nervous system (CNS) germ cell tumours (in development).</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Testicular germ cell tumours:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Seminoma </li>
+    <li>Nonseminoma </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Oncology"/>
+      <fieldvalue value="Pathology"/>
+      <fieldvalue value="Radiation Oncology"/>
+      <fieldvalue value="Radiology"/>
+      <fieldvalue value="Surgery"/>
+      <fieldvalue value="Urology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To outline management decisions for seminoma and nonseminoma germ cell tumours of the testicle</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients with testicular germ cell tumours</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Evaluation (Staging)</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Seminoma
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Computed tomography (CT) abdomen/pelvis, chest, head/brain </li>
+        <li>Chest x-ray (CXR) </li>
+        <li>Complete blood count (CBC), biochemistry, liver function tests, alkaline phosphatase </li>
+        <li>Creatinine </li>
+        <li>Tumour markers (&amp;beta; human chorionic gonadotropin [&amp;beta;HCG], lactate dehydrogenase [LDH], &amp;alpha; fetal protein [&amp;alpha;FP]) </li>
+        <li>Bone scan </li>
+        <li>Positron emission tomography (PET) scan </li>
+    </ul>
+    </li>
+    <li>Nonseminoma
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Clinical history and physical </li>
+        <li>CT abdomen/pelvis, brain </li>
+        <li>CXR or CT chest </li>
+        <li>CBC, biochemistry, liver function tests, alkaline phosphatase </li>
+        <li>Tumour markers (LDH, &amp;alpha;FP, &amp;beta;HCG) </li>
+        <li>Bone scan </li>
+    </ul>
+    </li>
+</ol>
+<p><strong>Management/Treatment</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>Seminoma
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Chemotherapy
+        <ul style=&quot;list-style-type: disc;&quot;>
+            <li>Carboplatin </li>
+            <li>Bleomycin, etoposide, cisplatin (BEP) </li>
+            <li>Etoposide, cisplatin (EP) </li>
+        </ul>
+        </li>
+        <li>Radiotherapy </li>
+        <li>Discussion of sperm banking </li>
+        <li>Follow-up (re-staging, physical examination, tumour markers, CT abdomen/pelvis) </li>
+        <li>Evaluation of residual disease (PET) </li>
+        <li>Surveillance (physical examination, tumour markers, CT scan, CXR) </li>
+    </ul>
+    </li>
+    <li>Nonseminoma
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Retroperitoneal lymph node (LN) dissection </li>
+        <li>Chemotherapy (cisplatin-based)
+        <ul style=&quot;list-style-type: disc;&quot;>
+            <li>BEP </li>
+            <li>EP </li>
+            <li>Vindesine, ifosfamide, platinum (VIP) </li>
+            <li>Paclitaxel, ifosfamide, cisplatin (TIP) </li>
+        </ul>
+        </li>
+        <li>Surveillance (&amp;alpha;FP, HCG, CXR, CT) </li>
+        <li>Follow-up (re-staging, physical examination, tumour markers, CXR, CT abdomen/pelvis) </li>
+    </ul>
+    </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: The guideline also considers salvage chemotherapy for patients relapsing post-BEP chemotherapy, adjunctive care for all patients, and management of late relapses.</p></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Overall survival </li>
+    <li>Disease-free survival </li>
+    <li>Recurrence rates </li>
+    <li>Complete response rate </li>
+    <li>Toxicity of chemotherapy </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Research Questions</strong></p>
+<p>Specific research questions to be addressed by the guideline document were formulated by the guideline lead(s) and Knowledge Management (KM) Specialist using the PICO question format (Patient or Population, Intervention, Comparisons, Outcomes).</p>
+<p><strong>Guideline Questions</strong></p>
+<ul typ=&quot;disc&quot;>
+    <li>What are the appropriate management and follow-up strategies for seminomas? </li>
+    <li>What are the appropriate management and follow-up strategies for nonseminomas? </li>
+</ul>
+<p><strong>Search Strategy</strong></p>
+<p>Ovid MEDLINE and EMBASE (1965 to August 2011) and clinical practice guideline databases, including the Cochrane Library and the National Guideline Clearinghouse, were searched for evidence relevant to this topic. For the most recent update of this guideline, the search terms 'testicular cancer' or 'seminoma' or 'nonseminoma' were used to search for clinical trials in humans, published in English between 2011 and 2012 February. A total of 20 citations were identified from the MEDLINE and EMBASE databases. Studies were excluded if they were phase I, did not include seminoma or non-seminoma patients, did not focus on treatment (i.e., pathology, genetics, etc.), were retrospective in nature without a comparison group, and did not look at survival or recurrence outcomes, and studies that were not published in English (10 citations were excluded). The literature was again updated in 2013 July using the search strategy described above. A total of 19 citations were identified; of these, 4 were considered relevant; however 3 were retrospective observational (i.e., non-comparative) studies and did not meet the inclusion criteria. Therefore, 1 study was included as new evidence to inform the guideline recommendations.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Not stated"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Evidence was selected and reviewed by a working group comprised of members from the Alberta Provincial Genitourinary Tumour Team and a Knowledge Management (KM) Specialist from the Guideline Utilization Resource Unit (GURU). A detailed description of the methodology followed during the guideline development process can be found in the <a href=&quot;http://www.albertahealthservices.ca/hp/if-hp-cancer-guide-utilization-handbook.pdf&quot; title=&quot;Alberta Health Services Web site&quot;>Guideline Utilization Resource Unit Handbook</a> (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p><strong>Evidence Tables</strong></p>
+<p>Evidence tables containing the first author, year of publication, patient group/stage of disease, methodology, and main outcomes of interest are assembled using the studies identified in the literature search. Existing guidelines on the topic are assessed by the KM Specialist using portions of the Appraisal of Guidelines Research and Evaluation (AGREE) II instrument (<a href=&quot;http://www.agreetrust.org&quot; title=&quot;AGREE Web site&quot;>http://www.agreetrust.org</a>) and those meeting the minimum requirements are included in the evidence document. Due to limited resources, GURU does not regularly employ the use of multiple reviewers to rank the level of evidence; rather, the methodology portion of the evidence table contains the pertinent information required for the reader to judge for himself the quality of the studies.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Formulating Recommendations</strong></p>
+<p>The working group members formulate the guideline recommendations based on the evidence synthesized by the Knowledge Management (KM) Specialist during the planning process, blended with expert clinical interpretation of the evidence. As detailed in the <a href=&quot;http://www.albertahealthservices.ca/hp/if-hp-cancer-guide-utilization-handbook.pdf&quot; title=&quot;Alberta Health Services Web site&quot;>Guideline Utilization Resource Unit Handbook</a> (see the &quot;Availability of Companion Documents&quot; field), the working group members may decide to adopt the recommendations of another institution without any revisions, adapt the recommendations of another institution or institutions to better reflect local practices, or develop their own set of recommendations by adapting some, but not all, recommendations from different guidelines.</p>
+<p>The degree to which a recommendation is based on expert opinion of the working group and/or the Provincial Tumour Team members is explicitly stated in the guideline recommendations. Similar to the American Society of Clinical Oncology (ASCO) methodology for formulating guideline recommendations, the Guideline Utilization Resource Unit (GURU) does not use formal rating schemes for describing the strength of the recommendations, but rather describes, in conventional and explicit language, the type and quality of the research and existing guidelines that were taken into consideration when formulating the recommendations.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This guideline was reviewed and endorsed by the Alberta Provincial Genitourinary Tumour Team.</p>
+<p>When the draft guideline document has been completed, revised, and reviewed by the Knowledge Management (KM) Specialist and the working group members, it will be sent to all members of the Provincial Tumour Team for review and comment. This step ensures that those intended to use the guideline have the opportunity to review the document and identify potential difficulties for implementation before the guideline is finalized. Depending on the size of the document, and the number of people it is sent to for review, a deadline of one to two weeks will usually be given to submit any feedback. Ideally, this review will occur prior to the annual Provincial Tumour Team meeting, and a discussion of the proposed edits will take place at the meeting. The working group members will then make final revisions to the document based on the received feedback, as appropriate. Once the guideline is finalized, it will be officially endorsed by the Provincial Tumour Team Lead and the Executive Director of Provincial Tumour Programs.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="98" ordby="605" id="425" name="References Supporting the Recommendations" type="citation">
+      <fieldvalue value="<table><tr><td>Alberta Health Services, Provincial Genitourinary Tumour Team. Cancer guidelines: extragonadal germ cell tumours. Edmonton (Alberta): Alberta Health Services; 2013 Apr. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Alberta Health Services, Provincial Neuro-Oncology Team. Cancer guidelines:  CNS germ cell tumours. Edmonton (Alberta): Alberta Health Services; In development. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>American Joint Committee on Cancer (AJCC). Testis. New York (NY): Springer; 2010. 469-73 p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bajorin DF, Geller NL, Weisen SF, Bosl GJ. Two-drug therapy in patients with metastatic germ cell tumors. Cancer. 1991 Jan 1;67(1):28-32. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1845937&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bedano PM, Brames MJ, Williams SD, Juliar BE, Einhorn LH. Phase II study of cisplatin plus epirubicin salvage chemotherapy in refractory germ cell tumors. J Clin Oncol. 2006 Dec 1;24(34):5403-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17135640&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Beyer J, Kramar A, Mandanas R, Linkesch W, Greinix A, Droz JP, Pico JL, Diehl A, Bokemeyer C, Schmoll HJ, Nichols CR, Einhorn LH, Siegert W. High-dose chemotherapy as salvage treatment in germ cell tumors: a multivariate analysis of prognostic variables. J Clin Oncol. 1996 Oct;14(10):2638-45. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8874322&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bhatia S, Abonour R, Porcu P, Seshadri R, Nichols CR, Cornetta K, Einhorn LH. High-dose chemotherapy as initial salvage chemotherapy in patients with relapsed  testicular cancer. J Clin Oncol. 2000 Oct 1;18(19):3346-51. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11013274&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Chung P, Mayhew LA, Warde P, Winquist E, Lukka H, Genitourinary Cancer Disease Site Group of Cancer Care Ontario's Program in Evidence-based Care. Management of stage I seminomatous testicular cancer: a systematic review. Clin Oncol (R Coll Radiol). 2010 Feb;22(1):6-16. [67 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19775876&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Chung P, Walker-Dilks C. PET imaging in testicular cancer: recommendations. Toronto (ON): Cancer Care Ontario (CCO); 2009 Jan 19. 13 p.&amp;nbsp;(Recommendation report - PET; no. 8).&amp;nbsp; [13 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Cremerius U, Effert PJ, Adam G, Sabri O, Zimmy M, Wagenknecht G, Jakse G, Buell U. FDG PET for detection and therapy control of metastatic germ cell tumor. J Nucl Med. 1998 May;39(5):815-22. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9591582&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>De Giorgi U, Rosti G, Papiani G, Marangolo M. The status of high-dose chemotherapy with hematopoietic stem cell transplantation in germ cell tumor patients. Haematologica. 2002 Jan;87(1):95-104. [115 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11801470&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>de Wit R, Roberts JT, Wilkinson PM, de Mulder PH, Mead GM, Fossa SD, Cook P, de Prijck L, Stenning S, Collette L. Equivalence of three or four cycles of bleomycin, etoposide, and cisplatin chemotherapy and of a 3- or 5-day schedule in good-prognosis germ cell cancer: a randomized study of the European Organization for Research and Treatment [trunc]. J Clin Oncol. 2001 Mar 15;19(6):1629-40. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11250991&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>de Wit R, Stoter G, Kaye SB, Sleijfer DT, Jones WG, ten Bokkel Huinink WW, Rea LA, Collette L, Sylvester R. Importance of bleomycin in combination chemotherapy for good-prognosis testicular nonseminoma: a randomized study of the European Organization for Research and Treatment of Cancer Genitourinary Tract Cancer Cooperative Group. J Clin Oncol. 1997 May;15(5):1837-43. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9164193&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Einhorn LH, Williams SD, Chamness A, Brames MJ, Perkins SM, Abonour R. High-dose chemotherapy and stem-cell rescue for metastatic germ-cell tumors. N Engl J Med. 2007 Jul 26;357(4):340-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17652649&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Herr HW, Sheinfeld J, Puc HS, Heelan R, Bajorin DF, Mencel P, Bosl GJ, Motzer RJ. Surgery for a post-chemotherapy residual mass in seminoma. J Urol. 1997 Mar;157(3):860-2. [15 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9072586&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>IGCCCG. International Germ Cell Consensus Classification: a prognostic factor-based staging system for metastatic germ cell cancers. International Germ Cell Cancer Collaborative Group. J Clin Oncol. 1997 Feb;15(2):594-603. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9053482&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kollmannsberger C, Oechsle K, Dohmen BM, Pfannenberg A, Bares R, Claussen CD, Kanz L, Bokemeyer C. Prospective comparison of [18F]fluorodeoxyglucose positron emission tomography with conventional assessment by computed tomography scans and serum tumor markers for the evaluation of residual masses in patients with nonseminomatous germ cell carcinoma. Cancer. 2002 May;94(9):2353-62. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12015760&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kondagunta GV, Bacik J, Donadio A, Bajorin D, Marion S, Sheinfeld J, Bosl GJ, Motzer RJ. Combination of paclitaxel, ifosfamide, and cisplatin is an effective second-line  therapy for patients with relapsed testicular germ cell tumors. J Clin Oncol. 2005 Sep 20;23(27):6549-55. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16170162&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lewis DA, Tann M, Kesler K, McCool A, Foster RS, Einhorn LH. Positron emission tomography scans in postchemotherapy seminoma patients with residual masses: a retrospective review from Indiana University Hospital. J Clin Oncol. 2006 Dec 1;24(34):e54-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17135635&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Loehrer PJ Sr, Gonin R, Nichols CR, Weathers T, Einhorn LH. Vinblastine plus ifosfamide plus cisplatin as initial salvage therapy in recurrent germ cell tumor. J Clin Oncol. 1998 Jul;16(7):2500-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9667270&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Loehrer PJ Sr, Johnson D, Elson P, Einhorn LH, Trump D. Importance of bleomycin in favorable-prognosis disseminated germ cell tumors: an  Eastern Cooperative Oncology Group trial. J Clin Oncol. 1995 Feb;13(2):470-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7531223&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Martin JM, Panzarella T, Zwahlen DR, Chung P, Warde P. Evidence-based guidelines for following stage 1 seminoma. Cancer. 2007 Jun 1;109(11):2248-56. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17437287&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mason BR, Kearsley JH. Radiotherapy for stage 2 testicular seminoma: the prognostic influence of tumor bulk. J Clin Oncol. 1988 Dec;6(12):1856-62. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=3199168&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Motzer RJ, Mazumdar M, Bosl GJ, Bajorin DF, Amsterdam A, Vlamis V. High-dose carboplatin, etoposide, and cyclophosphamide for patients with refractory germ cell tumors: treatment results and prognostic factors for survival and toxicity. J Clin Oncol. 1996 Apr;14(4):1098-105. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8648363&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Motzer RJ, Sheinfeld J, Mazumdar M, Bajorin DF, Bosl GJ, Herr H, Lyn P, Vlamis V. Etoposide and cisplatin adjuvant therapy for patients with pathologic stage II germ cell tumors. J Clin Oncol. 1995 Nov;13(11):2700-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7595727&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Pico JL, Rosti G, Kramar A, Wandt H, Koza V, Salvioni R, Theodore C, Lelli G, Siegert W, Horwich A, Marangolo M, Linkesch W, Pizzocaro G, Schmoll HJ, Bouzy J, Droz JP, Biron P, Genito-Urinary Group of the French Federation of Cancer Centers (GETUG-FNCLCC), France, European Group for Blood and Marrow Transplantation (EBMT). A randomised trial of high-dose chemotherapy in the salvage treatment of patients failing first-line platinum chemotherapy for advanced germ cell tumours. Ann Oncol. 2005 Jul;16(7):1152-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15928070&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Princess Margaret Hospital, University Health Network. Stage I seminoma surveillance protocol (unpublished). 2012 Apr 20. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Smalley SR, Evans RG, Richardson RL, Farrow GM, Earle JD. Radiotherapy as initial treatment for bulky stage II testicular seminomas. J Clin Oncol. 1985 Oct;3(10):1333-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=4045525&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Spermon JR, De Geus-Oei LF, Kiemeney LA, Witjes JA, Oyen WJ. The role of (18)fluoro-2-deoxyglucose positron emission tomography in initial staging and re-staging after chemotherapy for testicular germ cell tumours. BJU Int. 2002 Apr;89(6):549-56. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11942962&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Stephenson AJ, Sheinfeld J. Management of patients with low-stage nonseminomatous germ cell testicular cancer. Curr Treat Options Oncol. 2005 Sep;6(5):367-77. [68 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16107240&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tolan S, Vesprini D, Jewett MA, Warde PR, O'Malley M, Panzarella T, Sturgeon JF, Moore M, Tew-George B, Gospodarowicz MK, Chung PW. No role for routine chest radiography in stage I seminoma surveillance. Eur Urol. 2010 Mar;57(3):474-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19577354&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Toner GC, Panicek DM, Heelan RT, Geller NL, Lin SY, Bajorin D, Motzer RJ, Scher HI, Herr HW, Morse MJ, et al. Adjunctive surgery after chemotherapy for nonseminomatous germ cell tumors: recommendations for patient selection. J Clin Oncol. 1990 Oct;8(10):1683-94. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2170590&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Williams SD, Stablein DM, Einhorn LH, Muggia FM, Weiss RB, Donohue JP, Paulson DF, Brunner KW, Jacobs EM, Spaulding JT, et al. Immediate adjuvant chemotherapy versus observation with treatment at relapse in pathological stage II testicular cancer. N Engl J Med. 1987 Dec 3;317(23):1433-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2446132&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The recommendations are supported by randomized trials, existing guidance, prospective studies, retrospective studies, and multivariate analyses.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate management and follow-up of patients with testicular germ cell tumours</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Toxicity of chemotherapy agents, including bleomycin-induced pulmonary toxicity</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The recommendations contained in this guideline are a consensus of the Alberta Provincial Genitourinary Tumour Team and are a synthesis of currently accepted approaches to management, derived from a review of relevant scientific literature. Clinicians applying these guidelines should, in consultation with the patient, use independent medical judgment in the context of individual clinical circumstances to direct care.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Present the guideline at the local and provincial tumour team meetings and weekly rounds. </li>
+    <li>Post the guideline on the Alberta Health Services website. </li>
+    <li>Send an electronic notification of the new guideline to all members of CancerControl Alberta. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Alberta Provincial Genitourinary Tumour Team. Testicular germ cell tumours. Edmonton (Alberta): CancerControl Alberta; 2013 Sep. 17 p.&amp;nbsp;(Clinical practice guideline; no. GU-001).&amp;nbsp; [57 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2012 Feb (revised 2013 Sep)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="CancerControl Alberta - State/Local Government Agency [Non-U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>CancerControl Alberta</p>
+<p>There was no direct industry involvement in the development or dissemination of this guideline.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Alberta Provincial Genitourinary Tumour Team</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Members of the Alberta Provincial Genitourinary Tumour Team include medical oncologists, radiation oncologists, urologists, pathologists, nurses, and pharmacists.</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Participation of members of the Alberta Provincial Genitourinary Tumour Team in the development of this guideline has been voluntary and the authors have not been remunerated for their contributions. CancerControl Alberta recognizes that although industry support of research, education and other areas is necessary in order to advance patient care, such support may lead to potential conflicts of interest. Some members of the Alberta Provincial Genitourinary Tumour Team are involved in research funded by industry or have other such potential conflicts of interest. However the developers of this guideline are satisfied it was developed in an unbiased manner.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Alberta Provincial Genitourinary Tumour Team. Testicular germ cell tumours. Edmonton (Alberta): Alberta Health Services, Cancer Care; 2012 Feb. 20 p. (Clinical practice guideline; no. GU-001). [58 references]</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available in Portable Document Format (PDF) from the <a href=&quot;http://www.albertahealthservices.ca/hp/if-hp-cancer-guide-gu001-testicular.pdf&quot; title=&quot;Alberta Health Services Web site&quot;>Alberta Health Services Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Guideline utilization resource unit handbook. Edmonton (Alberta): CancerControl Alberta; 2013 Jan. 5 p. Electronic copies: Available in Portable Document Format (PDF) from the <a href=&quot;http://www.albertahealthservices.ca/hp/if-hp-cancer-guide-utilization-handbook.pdf&quot; title=&quot;Alberta Health Services Web site&quot;>Alberta Health Services Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on December 13, 2012.The information was verified by the guideline developer on February 1, 2013. This summary was updated by ECRI Institute on April 28, 2014. The updated information was verified by the guideline developer on June 6, 2014.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 19:29:21 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:23:32 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 72.988 (3)
+  esindex: 0.008
+  captures_list: 88.607
+  CDXLines.iter: 10.826 (3)
+  PetaboxLoader3.datanode: 38.537 (4)
+  exclusion.robots: 0.293
+  exclusion.robots.policy: 0.28
+  RedisCDXSource: 1.614
+  PetaboxLoader3.resolve: 80.487 (2)
+  load_resource: 75.505
+-->

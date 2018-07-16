@@ -1,0 +1,501 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app42.us.archive.org';v.server_ms=367;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10395?contentType=xml', '20160930213951')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930213951/https://www.guideline.gov/summaries/downloadcontent/ngc-10395?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930213951/https://www.guideline.gov/summaries/downloadcontent/ngc-10395?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10395?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930213951" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 21:39:51 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 21:39:51 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 21:39:51 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930213951*/https://www.guideline.gov/summaries/downloadcontent/ngc-10395?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10395?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>HIV prophylaxis for victims of sexual assault.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>New York State Department of Health. HIV prophylaxis for victims of sexual assault. New York (NY): New York State Department of Health; 2013 Jul. 12 p.  [12 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: New York State Department of Health. HIV prophylaxis following non-occupational exposure including sexual assault. New York (NY): New York State Department of Health; 2010 May. 56 p. [36 references]</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The quality of evidence (<strong>I-III</strong>) and strength of recommendation (<strong>A-C</strong>) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Important Note&quot;>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;><em>Important Note</em>:<br />
+            <br />
+            The preferred post-exposure prophylaxis (PEP) regimen for sexual assault is the same as that for other types of non-occupational exposures and occupational exposures:<br />
+            <br />
+            Tenofovir 300 mg PO qd + Emtricitabine 200 mg PO qd<br />
+            <br />
+            <strong>Plus</strong><br />
+            <br />
+            Raltegravir 400 mg PO bid<br />
+            <br />
+            See <a href=&quot;http://www.hivguidelines.org/clinical-guidelines/post-exposure-prophylaxis/hiv-prophylaxis-following-non-occupational-exposure/&quot; title=&quot;NYSDoH Web site&quot;>HIV Prophylaxis Following Non-Occupational Exposure</a> for regimen considerations when the source is known to be human immunodeficiency virus (HIV)-infected, dose adjustments for patients with renal insufficiency, drug-drug interactions, and recommended alternative regimens.</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Introduction</span></strong></p>
+<p>Victims of sexual assault should be treated in an emergency department or equivalent healthcare setting where all appropriate medical resources are available as needed. (<strong>AIII</strong>)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Assessment to Determine Whether HIV PEP is Indicated Following Sexual Assault</span></strong></p>
+<p>When deciding whether to recommend the initiation of PEP following sexual assault, the clinician should assess and carefully weigh the following factors: (<strong>AIII</strong>)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Whether or not a significant exposure has occurred during the assault </li>
+    <li>Knowledge of the HIV status of the alleged assailant </li>
+    <li>Whether the victim is ready and willing to complete the PEP regimen </li>
+</ul>
+<p>The clinician's decision to recommend PEP should not be influenced by the geographic location of the assault. (<strong>AII</strong>)</p>
+<p><strong>Degree of Risk Based on Type of Exposure</strong></p>
+<p>Clinicians should recommend HIV PEP to victims when significant exposure may have occurred, as defined by direct contact of the vagina, penis, anus, or mouth with the semen, vaginal fluids, or blood of the alleged assailant, with or without physical injury, tissue damage, or presence of blood at the site of the assault. (<strong>AII</strong>)</p>
+<p>PEP should also be offered in cases when broken skin or mucous membranes of the victim have been in contact with blood, semen, or vaginal fluids from the alleged assailant. Similarly, PEP should be offered in cases of bites that result in visible blood. (<strong>AII</strong>)</p>
+<p><strong>Considering the HIV Status of the Alleged Assailant</strong></p>
+<p>Unless the identity and HIV status of the alleged assailant has been clearly established to assist with the decision-making, PEP should be promptly initiated and should not be delayed while awaiting test results from the alleged assailant. (<strong>AII</strong>)</p>
+<p>Even when the alleged assailant is known to be HIV-infected, the decision to recommend PEP should be based on the nature of the exposure and the victim's ability to complete the regimen. (<strong>AIII</strong>)</p>
+<p>If PEP has been initiated and both the HIV rapid test and third- or fourth-generation enzyme-linked immunosorbent assay (EIA) or HIV ribonucleic acid (RNA) assay from the alleged assailant are found to be negative, then PEP should be discontinued. Decisions to discontinue PEP should be made in consultation with a clinician experienced in HIV PEP. (<strong>BIII</strong>)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Recommending PEP for Sexual Assault Victims</span></strong></p>
+<p>PEP should be initiated as soon as possible after exposure, ideally within 2 hours. (<strong>AII</strong>) Decisions regarding initiation of PEP beyond 36 hours post exposure should be made on a case-by-case basis with the realization that diminished efficacy is a consequence of delay in the timing of initiation (see <a href=&quot;http://www.hivguidelines.org/clinical-guidelines/post-exposure-prophylaxis/hiv-prophylaxis-following-non-occupational-exposure/&quot; title=&quot;NYSDoH Web site&quot;>HIV Prophylaxis Following Non-Occupational Exposure</a>, Section IV: Timing of Initiation of PEP for all Non-Occupational Exposures). (<strong>AIII</strong>)</p>
+<p>The recommendation for PEP should be communicated simply and clearly to the patient, considering his/her emotional state and ability to comprehend the nature of antiretroviral treatment. (<strong>AIII</strong>)</p>
+<p>If a sexual assault victim is too distraught to engage in a discussion about PEP or make a decision about whether to initiate prophylaxis at the initial assessment, the clinician should offer a starter pack of medication and make arrangements for a follow-up appointment within 24 hours to further discuss the indications for PEP. (<strong>AIII</strong>)</p>
+<p>If a sexual assault victim decides to initiate treatment, a follow-up visit should be scheduled within 24 hours to review the decision, evaluate initial drug tolerability, reinforce the need for adherence to the regimen, and arrange for follow-up care. (<strong>AIII</strong>) In New York State, hospitals providing treatment to victims of sexual assault must provide or arrange for an appointment for medical follow-up related to PEP and other care as appropriate. See the <a href=&quot;http://www.hivguidelines.org/resource-materials/resource-directories/aids-institutes-ai-voluntary-hiv-provider-directory/&quot; title=&quot;NYSDoH Web site&quot;>Voluntary HIV Provider Directory</a>.</p>
+<p>Discussions regarding initiation of PEP should include the following: (<strong>AIII</strong>)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Potential benefit, unproven efficacy, and potential toxicity of PEP </li>
+    <li>Duration of PEP regimen </li>
+    <li>Importance of adherence to the treatment regimen to prevent PEP failure or the development of drug resistance should infection occur </li>
+    <li>Need to reduce risk and prevent exposure to others </li>
+    <li>Clinical and laboratory monitoring and follow-up schedule </li>
+    <li>Signs and symptoms of acute HIV infection </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>HIV Testing of the Victim</span></strong></p>
+<p>Clinicians should perform baseline rapid HIV testing of the victim. PEP should be initiated without waiting for the results of the HIV test. (<strong>AIII</strong>)</p>
+<p>Refusal to undergo baseline testing should not preclude initiation of PEP. (<strong>AIII</strong>)</p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Key Points&quot;>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;><span style=&quot;text-decoration: underline;&quot;><strong>Key Point</strong></span>:<br />
+            <br />
+            A negative baseline HIV test only demonstrates that the victim was not previously infected with HIV before the exposure occurred; the baseline HIV test cannot determine whether the victim was infected as a result of the assault for which he/she is presenting.</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Management of Sexually Transmitted Infections (STIs) Other Than HIV</span></strong></p>
+<p>For sexual assault victims, clinicians should offer prophylactic medication to prevent gonococcal and chlamydial infections. Routine baseline testing for STIs is not recommended in cases of sexual assault. (<strong>AIII</strong>)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Emergency Contraception</span></strong></p>
+<p>Clinicians should obtain baseline pregnancy testing for female sexual assault victims. (<strong>AII</strong>) Emergency contraception should be discussed and offered to women who have the potential of becoming pregnant as a result of the assault. (<strong>AII</strong>)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>The Role of The Rape Crisis Advocate and Sexual Assault Examiner</span></strong></p>
+<p>The plan for follow-up care should be discussed with the rape crisis advocate or an outreach worker who will be working with the victim following the victim's departure from the emergency department or equivalent healthcare setting. (<strong>AIII</strong>)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><strong>Quality of Evidence for Recommendations</strong></p>
+<ol style=&quot;list-style-type: upper-roman;&quot;>
+    <li>One or more randomized trials with clinical outcomes and/or validated laboratory endpoints </li>
+    <li>One or more well designed, non-randomized trials or observational cohort studies with long-term clinical outcomes </li>
+    <li>Expert opinion </li>
+</ol>
+<p><strong>Strength of Recommendation</strong></p>
+<ol style=&quot;list-style-type: upper-alpha;&quot;>
+    <li>Strong recommendation for the statement </li>
+    <li>Moderate recommendation for the statement </li>
+    <li>Optional recommendation </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Human immunodeficiency virus (HIV) infection</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Counseling"/>
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Allergy and Immunology"/>
+      <fieldvalue value="Critical Care"/>
+      <fieldvalue value="Emergency Medicine"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Infectious Diseases"/>
+      <fieldvalue value="Obstetrics and Gynecology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Public Health Departments"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To address the unique considerations involved in evaluation, counseling, and support for human immunodeficiency virus (HIV) exposures resulting from sexual assault</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Individuals with human immunodeficiency virus (HIV) exposure from sexual assault</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Treatment in an emergency department </li>
+    <li>Assessment of risk based on type of exposure </li>
+    <li>Consideration of assailant's human immunodeficiency virus (HIV) status, including testing when possible </li>
+    <li>HIV post-exposure prophylaxis (PEP) </li>
+    <li>Follow-up after treatment initiation </li>
+    <li>HIV testing of the victim </li>
+    <li>Prophylaxis against other infections, including gonorrhea and chlamydia </li>
+    <li>Pregnancy testing and emergency contraception </li>
+    <li>Involvement of a rape crisis advocate or outreach worker </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Appropriate prophylaxis care for victims of sexual assault </li>
+    <li>Degree of risk based on the type of exposure </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>MEDLINE was searched from January 2004 to December 2012 using appropriate key words. The inclusion used in the search were: Persons who were victims of sexual assault, non-HIV-infected victims of violence. The search terms used were: emergency contraception, sexual assault, rape against women AND HIV, intimate partner violence. (These criteria were used in addition to the searches done for <em>HIV Post Exposure Prophylaxis</em>).</p>
+<p>Because there are no randomized controlled studies of this subject, the committee conducted its own review of evidence, including animal studies, mathematical and experimental models, and case reports. The Centers for Disease Control and Prevention reports from 1982 until 2012 were reviewed, as were models of transmission risk. The committee also reviewed medication efficacy and tolerability reports. The New York State Office of Victim Services was consulted and the <a href=&quot;http://aidsinfo.nih.gov/guidelines&quot; title=&quot;AIDSInfo Web site&quot; target=&quot;_blank&quot;>http://aidsinfo.nih.gov/guidelines</a> were reviewed.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Expert Consensus (Committee)"/>
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Quality of Evidence for Recommendation</strong></p>
+<ol style=&quot;list-style-type: upper-roman;&quot;>
+    <li>One or more randomized trials with clinical outcomes and/or validated laboratory endpoints </li>
+    <li>One or more well designed, non-randomized trials or observational cohort studies with long-term clinical outcomes </li>
+    <li>Expert opinion </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review"/>
+      <fieldvalue value="Systematic Review"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>AIDS Institute clinical guidelines are developed by distinguished committees of clinicians and others with extensive experience providing care to people with HIV infection. Committees* meet regularly to assess current recommendations and to write and update guidelines in accordance with newly emerging clinical and research developments.</p>
+<p>The Committees* rely on evidence to the extent possible in formulating recommendations. When data from randomized clinical trials are not available, Committees rely on developing guidelines based on consensus, balancing the use of new information with sound clinical judgment that results in recommendations that are in the best interest of patients.</p>
+<p>*Current committees include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Medical Care Criteria Committee </li>
+    <li>Committee for the Care of Children and Adolescents with HIV Infection </li>
+    <li>Dental Standards of Care Committee </li>
+    <li>Mental Health Guidelines Committee </li>
+    <li>Committee for the Care of Women with HIV Infection </li>
+    <li>Committee for the Care of Substance Users with HIV Infection </li>
+    <li>Physician's Prevention Advisory Committee </li>
+    <li>Pharmacy Advisory Committee </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Strength of Recommendation</strong></p>
+<ol style=&quot;list-style-type: upper-alpha;&quot;>
+    <li>Strong recommendation for the statement </li>
+    <li>Moderate recommendation for the statement </li>
+    <li>Optional recommendation </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All guidelines developed by the Committee are externally peer reviewed by at least two experts in that particular area of patient care, which ensures depth and quality of the guidelines.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for selected recommendations (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate use of human immunodeficiency virus (HIV) prophylaxis for victims of sexual assault</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>When formulating guidelines for a disease as complex and fluid as human immunodeficiency virus/acquired immune deficiency syndrome (HIV/AIDS), it is impossible to anticipate every scenario. It is expected that in specific situations, there will be valid exceptions to the approaches offered in these guidelines and sound reason to deviate from the recommendations provided within.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The AIDS Institute's Office of the Medical Director directly oversees the development, publication, dissemination and implementation of clinical practice guidelines, in collaboration with The Johns Hopkins University, Division of Infectious Diseases. These guidelines address the medical management of adults, adolescents and children with human immunodeficiency virus (HIV) infection; primary and secondary prevention in medical settings; and include informational brochures for care providers and the public.</p>
+<p><strong>Guidelines Dissemination</strong></p>
+<p>Guidelines are disseminated to clinicians, support service providers, and consumers through mass mailings and numerous AIDS Institute-sponsored educational programs. Distribution methods include the HIV Clinical Resource website, the Clinical Education Initiative (CEI), the AIDS Educational Training Centers (AETC), and the HIV/AIDS Materials Initiative. Printed copies of clinical guidelines are available for order from the New York State Department of Health (NYSDOH) Distribution Center.</p>
+<p><strong>Guidelines Implementation</strong></p>
+<p>The HIV Clinical Guidelines Program works with other programs in the AIDS Institute to promote adoption of guidelines. Clinicians, for example, are targeted through the CEI and the AETC. The CEI provides tailored educational programming on site for health care providers on important topics in HIV care, including those addressed by the HIV Clinical Guidelines Program. The AETC provides conferences, grand rounds and other programs that cover topics contained in AIDS Institute guidelines.</p>
+<p>Support service providers are targeted through the HIV Education and Training initiative which provides training on important HIV topics to non-physician health and human services providers. Education is carried out across the State as well as through video conferencing and audio conferencing.</p>
+<p>The HIV Clinical Guidelines Program also works in a coordinated manner with the HIV Quality of Care Program to promote implementation of HIV guidelines in New York State. By developing quality indicators based on the guidelines, the AIDS Institute has created a mechanism for measurement of performance that allows providers and consumers to know to what extent specific guidelines have been implemented.</p>
+<p>Finally, best practices booklets are developed through the HIV Clinical Guidelines Program. These contain practical solutions to common problems related to access, delivery or coordination of care, in an effort to ensure that HIV guidelines are implemented and that patients receive the highest level of HIV care possible.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Foreign Language Translations"/>
+      <fieldvalue value="Patient Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+      <fieldvalue value="Timeliness "/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>New York State Department of Health. HIV prophylaxis for victims of sexual assault. New York (NY): New York State Department of Health; 2013 Jul. 12 p.  [12 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2005 Dec (revised 2013 Jul)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="New York State Department of Health - State/Local Government Agency [U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>New York State Department of Health</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Medical Care Criteria Committee</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Medical Care Criteria Committee Chair</em>: Judith A Aberg, MD, FIDSA, FACP, ICAHN School of Medicine at Mount Sinai, New York, New York</p>
+<p><em>Medical Care Criteria Committee Vice-Chair</em>: Samuel T Merrick, MD, NewYork-Presbyterian Hospital, Weill Cornell Medical Center, New York, New York</p>
+<p><em>Medical Care Criteria Committee Members</em>: Bruce D Agins, MD, MPH, New York State Department of Health, AIDS Institute, New York, New York; James CM Brust, MD, Montefiore Medical Center and Albert Einstein College of Medicine, Bronx, New York; Steven M Fine, MD, PhD, University of Rochester Medical Center, Rochester, New York; Douglas G Fish, MD, Albany Medical College, Albany, New York; Luz Amarilis Lugo, MD, Mount Sinai Comprehensive Health Program, New York, New York; Joseph P McGowan, MD, FACP, North Shore University Hospital, Manhasset, New York; Neal Rzepkowski, MD, Erie County Medical Center, Buffalo, New York; Michael Serlin, MD, Harlem Hospital Center, New York, New York; Rona M Vail, MD, Callen-Lorde Community Health Center, New York, New York; Barry S Zingman, MD, Montefiore Medical Center and Albert Einstein College of Medicine, Bronx, New York</p>
+<p><em>New York State Department of Correctional Services Liaison</em>: Carl J Koenigsmann, MD, New York State Department of Correctional Services, Albany, New York</p>
+<p><em>Department of Veterans Affairs Medical Center Liaison</em>: Sheldon T Brown, MD, James J Peters Veteran Affairs Medical Center, Bronx, New York</p>
+<p><em>Medical Society of the State of New York Liaison</em>: William Valenti, MD, FIDSA, Trillium Health, Rochester, New York</p>
+<p><em>New York City Department of Health and Mental Hygiene Liaison</em>: Julie E Myers, MD, MPH, New York City Department of Health and Mental Hygiene, Queens, New York</p>
+<p><em>New York City Health and Hospitals Corporation Liaison</em>: Carlos Salama, MD, Elmhurst Hospital Center, Elmhurst, New York</p>
+<p><em>HIV Quality of Care Advisory Committee Liaison</em>: Peter G Gordon, MD, Columbia University College of Physicians and Surgeons, New York, New York</p>
+<p><em>AIDS Institute Staff Liaison</em>: Gina M Brown, MD, National Institutes of Health, Bethesda, Maryland</p>
+<p><em>AIDS Institute Staff Physicians</em>: Charles J Gonzalez, MD, New York State Department of Health AIDS Institute, New York, New York; Cheryl A Smith, MD, New York State Department of Health AIDS Institute, New York, New York</p>
+<p><em>Principal Investigator</em>: Christopher J Hoffmann, MD, Johns Hopkins University School of Medicine, Baltimore, Maryland</p>
+<p><em>Consultant</em>: John G Bartlett, MD, Johns Hopkins University School of Medicine, Baltimore, Maryland</p>
+<p><em>Principal Contributors</em>: Elizabeth Louise Berberian, MPH, New York State Department of Health AIDS Institute, Albany; Mary Chris Schultz, BS, New York State Department of Health AIDS Institute, Albany</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: New York State Department of Health. HIV prophylaxis following non-occupational exposure including sexual assault. New York (NY): New York State Department of Health; 2010 May. 56 p. [36 references]</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;http://www.hivguidelines.org/clinical-guidelines/post-exposure-prophylaxis/hiv-prophylaxis-for-victims-of-sexual-assault/&quot; title=&quot;New York State Department of Health AIDS Institute Web site&quot;>New York State Department of Health AIDS Institute Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>I might have been exposed to HIV&amp;hellip; What should I do? Electronic copies: Available in <a href=&quot;http://www.hivguidelines.org/clinical-guidelines/post-exposure-prophylaxis/i-might-have-been-exposed-to-hiv-what-should-i-do/&quot; title=&quot;NYSDoH Web site&quot;>English</a> and <a href=&quot;http://www.hivguidelines.org/clinical-guidelines/post-exposure-prophylaxis/i-might-have-been-exposed-to-hiv-what-should-i-do-spanish/&quot; title=&quot;NYSDoH Web site&quot;>Spanish</a> from the New York State Department of Health AIDS Institute Web site. </li>
+</ul>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on September 6, 2007. This summary was updated by ECRI Institute on June 26, 2008 and November 11, 2010. This summary was updated by ECRI Institute on April 13, 2012 following the U.S. Food and Drug Administration advisory on Statins and HIV or Hepatitis C drugs. This NGC summary was updated by ECRI Institute on August 18, 2014.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is copyrighted by the guideline developer. See the <a href=&quot;http://www.hivguidelines.org/terms-of-usage/&quot; title=&quot;New York State Department of Health AIDS Institute Web site&quot;>New York State Department of Health AIDS Institute Web site</a> for terms of use.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 21:39:51 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:05:43 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 189.079 (3)
+  esindex: 0.009
+  captures_list: 207.427
+  CDXLines.iter: 12.482 (3)
+  PetaboxLoader3.datanode: 187.21 (4)
+  exclusion.robots: 0.468
+  exclusion.robots.policy: 0.451
+  RedisCDXSource: 2.048
+  PetaboxLoader3.resolve: 53.587
+  load_resource: 85.393
+-->

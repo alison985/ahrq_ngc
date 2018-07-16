@@ -1,0 +1,700 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=266;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10416?contentType=xml', '20160930224209')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930224209/https://www.guideline.gov/summaries/downloadcontent/ngc-10416?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930224209/https://www.guideline.gov/summaries/downloadcontent/ngc-10416?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10416?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930224209" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 22:42:09 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 22:42:09 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 22:42:09 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930224209*/https://www.guideline.gov/summaries/downloadcontent/ngc-10416?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10416?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Evaluation of vertigo in the adult patient</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>University of Texas at Austin School of Nursing, Family Nurse Practitioner Program. Evaluation of vertigo in the adult patient. Austin (TX): University of Texas at Austin, School of Nursing; 2014 May. 19 p.  [18 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Strength of recommendations (<strong>A, B, C, D</strong>) and quality of evidence (<strong>1++, 1+, 1-, 2++, 2+, 2-, 3, 4</strong>) are defined at the end of &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong></p>
+<p>Dizziness is a general term used to describe a broad range of symptoms including pre-syncope, disequilibrium, vertigo and lightheadedness.</p>
+<p>Vertigo is a subset of dizziness. Patients typically describe vertigo as the sensation of motion, rotation, spinning or tilting. They may also describe the environment as having these illusions.</p>
+<p>Vertigo occurs due to asymmetry in the vestibular system from dysfunction of the labyrinth, vestibular nerve or central vestibular structures in the brainstem (Baloh, 1998; Chan, 2009; Delaney, 2003; Karatas, 2008; Wipperman, 2014).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Subjective Assessment</span></strong></p>
+<p><strong>History of Present Illness</strong></p>
+<p>The healthcare provider should ask patients presenting with dizziness to describe the sensation in words other than &quot;dizzy&quot; in order to differentiate between pre-syncope, disequilibrium, vertigo and lightheadedness. Obtain clarification by asking the following questions:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Does the room spin or do you feel like you are spinning? </li>
+    <li>Are there any triggers, including positional changes? </li>
+    <li>Do you feel lightheaded? </li>
+    <li>Do you feel like you are going to faint? </li>
+    <li>Do you experience a loss of balance or feel like you will fall? Have you fallen? </li>
+    <li>How long does the vertigo last? (seconds, minutes, hours) </li>
+    <li>How often does the vertigo occur? </li>
+    <li>Do episodes occur in certain situations? (elevators, driving) </li>
+    <li>Are the attacks clustered? </li>
+    <li>Do you have ringing, buzzing or stuffy feeling in your ear(s) during an attack? </li>
+    <li>Do you have associated symptoms such as:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Nausea </li>
+        <li>Vomiting </li>
+        <li>Chest pain </li>
+        <li>Diaphoresis </li>
+        <li>Aura </li>
+        <li>Headache </li>
+        <li>Diplopia or blurred vision </li>
+        <li>Dysarthria </li>
+        <li>Dysphagia </li>
+        <li>Weakness/paralysis/paresthesia </li>
+        <li>Ataxia </li>
+        <li>Confusion or other alterations of mental status </li>
+        <li>Decrease or loss of hearing (sudden, severe, unilateral or bilateral) that are associated with attacks </li>
+    </ul>
+    </li>
+</ul>
+<p>(Baloh, 1998; Broomfield et al., 2008; Chan, 2009; Karatas, 2008; Lanksa, 2013; Lee, 2012; Lynch, 2002; Mundhenke, 2010; Smith et al., 2012; Wipperman, 2014) (<strong>Grade A Recommendation, 1+ Level of Evidence</strong>)</p>
+<p><strong>Past Medical History</strong></p>
+<p>The provider should ask about the following:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Recent head trauma, whiplash injuries </li>
+    <li>Spinal cord disease (especially cervical) </li>
+    <li>Barotrauma </li>
+    <li>History of middle ear surgery </li>
+    <li>Recent upper respiratory infection </li>
+    <li>Straining with weight lifting and/or bowel movements </li>
+    <li>Allergies </li>
+    <li>Previous neurologic disorders
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Transient ischemic attack </li>
+        <li>Cerebrovascular attack </li>
+        <li>Multiple sclerosis </li>
+        <li>Migraines </li>
+        <li>Mental status changes </li>
+    </ul>
+    </li>
+    <li>Cardiovascular disease
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Hypertension </li>
+        <li>Myocardial infarction </li>
+        <li>Arrhythmias </li>
+        <li>Valvular disease </li>
+        <li>Thromboembolism </li>
+    </ul>
+    </li>
+    <li>Rheumatologic or autoimmune disorders </li>
+    <li>Feelings of anxiety, depression or other mental illness </li>
+</ul>
+<p>(Broomfield et al., 2008; Delaney, 2003; Lanksa, 2013; Post &amp;amp; Dickerson, 2010) (<strong>Grade A Recommendation, 1+ Level of Evidence</strong>)</p>
+<p><strong>Social History</strong></p>
+<p>The provider should ask about the following:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Occupation </li>
+    <li>Use of
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Caffeine </li>
+        <li>Tobacco </li>
+        <li>Alcohol </li>
+        <li>Recreational drugs </li>
+    </ul>
+    </li>
+</ul>
+<p>(Lanska, 2013) (<strong>Grade B Recommendation, 2++ Level of Evidence</strong>)</p>
+<p><strong>Family History</strong></p>
+<p>The provider should ask if there is a family history of:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Cardiovascular disease </li>
+    <li>Transient ischemic attacks (TIA) </li>
+    <li>Cerebral vascular accident (CVA) </li>
+    <li>Migraines </li>
+</ul>
+<p>(Lanska, 2013) (<strong>Grade B Recommendation, 2++ Level of Evidence</strong>)</p>
+<p><strong>Medications</strong></p>
+<p>Obtain a complete list of all medications. Consider removing any medication that could precipitate orthostatic hypotension.</p>
+<p>Those that may cause dizziness and/or vertigo and are particularly significant are:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Cardiac </li>
+    <li>Central nervous system (i.e., sedatives, opiates) </li>
+    <li>Urologic (i.e., loop diuretics, alpha-blockers, phosphodiesterase-5 inhibitors, anti-cholinergics) </li>
+    <li>Aminoglycoside antibiotics (i.e., gentamicin, streptomycin) may cause ototoxicity </li>
+    <li>Salicylates </li>
+    <li>Chemotherapy </li>
+    <li>Neuroleptics (i.e., phenytoin, carbamazepine) </li>
+    <li>Tricyclic antidepressants </li>
+    <li>Over-the-counter medications, supplements and homeopathic remedies should be noted </li>
+</ul>
+<p>(Chan, 2009; Cherian, 2010; Gupta &amp;amp; Lipsitz, 2007; Lanska, 2013; Lee, 2012; Post &amp;amp; Dickerson, 2010) (<strong>Grade B Recommendation, 1+ Level of Evidence</strong>)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Objective Assessment</span></strong></p>
+<p><strong>Physical Examination</strong></p>
+<p>Assessment should include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Dynamic visual acuity </li>
+    <li>Hearing tests &amp;ndash; whisper, Weber and Rinne </li>
+    <li>Vital signs including orthostatic blood pressure </li>
+    <li>Head and neck </li>
+    <li>Ear, nose, throat </li>
+    <li>Lungs </li>
+    <li>Cardiovascular </li>
+    <li>Musculoskeletal </li>
+    <li>Neurologic, complete </li>
+</ul>
+<p>(Broomfield et al., 2008; Cherian, 2010; Lanska, 2013) (<strong>Grade A Recommendation, 1+ Level of Evidence</strong>)</p>
+<p>The most common cause of vertigo in the primary care setting is benign paroxysmal positional vertigo (BPPV) that is caused by a loose otolith in the semi-circular canals. Vertigo attacks are episodic, of seconds in duration, precipitated by positional changes or head turning and are frequently accompanied by nausea. BPPV affects mostly females between their fifth and seventh decade. Episodes will occur in spells lasting several weeks, will spontaneous remit and return in weeks, months or even years later. Past head trauma is a common precipitating event in BPPV (Chan, 2009; Delaney, 2003; Halmagyi, 2005; Karatas, 2008; Lee, 2012; Post &amp;amp; Dickerson, 2010; Wipperman, 2014).</p>
+<p>If a diagnosis of BPPV is suspected based on the subjective data, Dix-Hallpike maneuver is recommended (Broomfield et al., 2008; Lanska, 2013). (<strong>Grade A Recommendation, 1+ Level of Evidence</strong>)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Dix-Hallpike maneuver:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>While the patient is in sitting position, turn the patient's head 45&amp;deg; to one side, rapidly moving the patient from sitting to the supine position with the head hanging over the table about 20&amp;deg;. Observe 30 seconds for nystagmus. </li>
+        <li>Return the patient to the sitting position and then reassess for nystagmus. </li>
+        <li>Repeat on same side. </li>
+        <li>Repeat maneuver twice on opposite side. </li>
+    </ul>
+    </li>
+    <li>A positive Dix-Hallpike maneuver is diagnostic for BPPV, but does not rule it out if negative. The sensitivity of the maneuver ranges from 50% to 88%. </li>
+    <li>In BPPV, nystagmus is caused by vestibular debris in the ear that is facing down closest to the exam table. The side that provokes symptoms is the affected ear. </li>
+    <li>Typical nystagmus of BPPV is:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Horizontal and rotary, corresponding in duration to the patient's subjective vertigo, and occurring when positioning on the affected side </li>
+        <li>Reoccurs when returned to the sitting position, but in the opposite direction </li>
+        <li>Has a latency period of 1 to 45 seconds </li>
+        <li>Has limited duration of less than 60 seconds, and </li>
+        <li>Fatigues with repetition </li>
+    </ul>
+    </li>
+    <li>There are three types of BPPV, each associated with a semicircular canal:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Posterior </li>
+        <li>Horizontal </li>
+        <li>Vertical </li>
+    </ul>
+    </li>
+    <li>Posterior is the most common (85%&amp;ndash;95%) </li>
+</ul>
+<p>(Chan, 2009; Cherian, 2010; Delaney, 2003; Lanska, 2013; Lee, 2012; Post &amp;amp; Dickerson, 2010; Wipperman, 2014).</p>
+<p>Evaluate nystagmus for clues to determine whether the etiology is from a central (non-vestibular) or peripheral (vestibular) source.</p>
+<p><em>Consider <span style=&quot;text-decoration: underline;&quot;>peripheral</span> vestibular dysfunction when</em>:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Vertigo:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Is temporary (24&amp;ndash;48 hours) even if episodes reoccur for weeks and </li>
+        <li>Is accompanied by nausea and/or vomiting </li>
+    </ul>
+    </li>
+    <li>When the Dix-Hallpike maneuver elicits nystagmus that:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Fatigues with repetition </li>
+        <li>Decreases with visual fixation </li>
+        <li>Has latency from stimulus to onset </li>
+        <li>May be purely horizontal, or horizontal or vertical with a rotary component, never purely vertical </li>
+        <li>Typically unidirectional with a change in gaze </li>
+    </ul>
+    </li>
+</ul>
+<p>Deviations from these characteristics of nystagmus may occur, but raises the suspicion of central origin.</p>
+<p><em>Consider <span style=&quot;text-decoration: underline;&quot;>central</span> pathology when</em>:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Vertigo
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Is spontaneous without stimulus </li>
+        <li>Is severe and persistent </li>
+        <li>Has a gradual onset </li>
+        <li>May occur without stimulus </li>
+    </ul>
+    </li>
+    <li>Patient is able to move and walk around without exacerbating symptoms. </li>
+    <li>Other central nervous system symptoms are present such as sudden onset severe headache, weakness, ataxia or diplopia. </li>
+    <li>When the Dix-Hallpike maneuver elicits nystagmus that:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Does not have a latency period but occurs or immediately upon the head-down position </li>
+        <li>Has a duration of greater than 1 minute </li>
+        <li>May be pendular, purely horizontal, vertical or rotary </li>
+        <li>Does not diminish with repetition of maneuver </li>
+        <li>Does not suppress with visual fixation </li>
+        <li>Often bidirectional with a change in gaze </li>
+    </ul>
+    </li>
+</ul>
+<p>(Baloh, 2003; Delaney, 2003; Lee, 2012; Hoffman, Einstadter, &amp;amp; Kroenke, 1999; Lanska, 2013; Wipperman, 2014) (<strong>Grade A Recommendation, 1+ Level of Evidence</strong>)</p>
+<p><strong>Diagnostics</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Serological testing has a low yield in identifying a specific cause, but the provider should determine if the following are appropriate:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Complete blood count to rule out anemia and infection </li>
+        <li>Comprehensive metabolic panel and thyroid function tests to rule out metabolic problems </li>
+        <li>Erythrocyte sedimentation rate, rheumatoid factor, antinuclear antibody titer, Lyme titer to rule out autoimmune disease </li>
+        <li>Lipid profile to rule out possible fat emboli that frequently affects the 8th cranial nerve </li>
+        <li>Rapid plasmin reagin (RPR) test to rule out undiagnosed syphilis </li>
+    </ul>
+    </li>
+</ul>
+<p>(Hoffman, Einstadter, &amp;amp; Kroenke, 1999; Lynch, 2002; Post &amp;amp; Dickerson, 2010) (<strong>Grade B Recommendation, 2++ Level of Evidence</strong>)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Imaging
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>If central lesion is suspected, consider obtaining a magnetic resonance imaging (MRI) scan (Broomfield et al., 2008; Delaney, 2003). (<strong>Grade A Recommendation, 1+ Level of Evidence</strong>) </li>
+    </ul>
+    </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Diagnosis</span></strong></p>
+<p>Some common etiologies for vertigo are:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>True, vestibular vertigo
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Benign paroxysmal positional vertigo (BPPV) </li>
+        <li>Meniere's disease: vertigo that is intractable, positional, episodic with duration of 20 minutes to several hours, accompanied by fluctuating sensorineural hearing loss, tinnitus, sensation of aural fullness </li>
+        <li>Acute vestibular failure (i.e., vestibular neuritis, labyrinthitis): vertigo is long lasting and/or disabling) </li>
+    </ul>
+    </li>
+    <li>Non-vestibular vertigo and dizziness can be described as unsteadiness, imbalance, disequilibrium, pre-syncope or lightheadedness.
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Multisystem or balance disorders </li>
+        <li>Recreational drugs or alcohol abuse </li>
+        <li>Vitamin deficiency </li>
+        <li>Neurological (intracranial neoplasm, demyelinating disease, Parkinson's disease, dementia) </li>
+        <li>Mental or psychogenic disorders (anxiety, phobias, depression) </li>
+        <li>Cardiovascular disease (arrhythmias, valvular disease, thromboembolism, hypertension, orthostatic hypotension, TIA, CVA) </li>
+        <li>Adverse effects of therapeutic medications </li>
+        <li>Cervical vertigo </li>
+        <li>Migraine headaches may be associated visual aura during the attacks:
+        <ul style=&quot;list-style-type: disc;&quot;>
+            <li>Vestibular migraine - photophobia, phonophobia, precipitated by foods, alcohol, sensory stimuli or situations </li>
+            <li>Basilar migraine &amp;ndash; May be occipital and followed by vertigo, tinnitus, decreased hearing, diplopia, ataxia, dysarthria, bilateral paresthesia, impaired cognition </li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+</ul>
+<p>(Baloh, 2003; Broomfield et al., 2008; Chan, 2009; Cherian, 2010; Delaney, 2003; Hoffman, Einstadter, &amp;amp; Kroenke, 1999; Karatas, 2008; Lynch, 2002; Mundhenke, 2010; Post &amp;amp; Dickerson, 2010; Wipperman 2014)</p>
+<p><strong>Referrals</strong></p>
+<p>The provider should make timely referrals:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Neurological findings such as new, severe headache, abnormal gait, diplopia, weakness, and/or paresthesia should necessitate an admission to the Emergency Department, imaging and/or timely consultation with a neurologist. </li>
+    <li>Refer to an otolaryngologist for audiometry and vestibular function testing for recurrent vertigo, if episodes last longer than 2 weeks, or if the symptoms are considered disabling. </li>
+    <li>Cardiovascular findings, such as palpitations, suspected dysrhythmias, hypotension, hypertension, chest pain, pre-syncope, or exercise intolerance should necessitate an electrocardiogram (EKG), admission to the Emergency Department or immediate referral to a cardiologist. </li>
+    <li>If the primary care provider (PCP) is not familiar with postural maneuvers as treatment for BPPV, they may refer patients to physical therapy or audiologist for the Epley canalith repositioning procedure. </li>
+    <li>A consult to a mental health profession may be appropriate for those patients without objective findings and suspected psychogenic origin. </li>
+</ul>
+<p>(Cherian, 2010; Hoffman, Einstadter, &amp;amp; Kroenke, 1999; Lanska, 2013; Lynch, 2002; Smith et al., 2012) (<strong>Grade B Recommendation, 2++ Level of Evidence</strong>)</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Definitions</strong></span>:</p>
+<p><strong>Scottish Intercollegiate Guidelines Network (SIGN) Strength of Recommendations</strong></p>
+<p><strong>A</strong>. At least one meta-analysis, systematic review, or randomized controlled trial (RCT) rated as 1++, and directly applicable to the target population; <em>or</em><br />
+A systematic review of RCTs or a body of evidence consisting principally of studies rated as 1+, directly applicable to the target population, and demonstrating overall consistency of results.</p>
+<p><strong>B</strong>. A body of evidence including studies rated as 2++, directly applicable to the target population, and demonstrating overall consistency of results; <em>or</em><br />
+Extrapolated evidence from studies rated as 1++ or 1+.</p>
+<p><strong>C</strong>. A body of evidence including studies rated as 2+, directly applicable to the target population and demonstrating overall consistency of results;<em> or</em><br />
+Extrapolated evidence from studies rated as 2++.</p>
+<p><strong>D</strong>. Evidence level 3 or 4; <em>or</em><br />
+Extrapolated evidence from studies rated as 2+.</p>
+<p><strong>SIGN Levels of Evidence</strong></p>
+<p><strong>1++</strong> High-quality meta-analyses, systematic reviews of randomized controlled trials (RCTs) or RCTs with a very low risk of bias</p>
+<p><strong>1+</strong> Well-conducted meta-analyses, systematic reviews of RCTs or RCTs with a low risk of bias</p>
+<p><strong>1-</strong> Meta-analyses, systematic reviews of RCTs or RCTs with a high risk of bias</p>
+<p><strong>2++</strong> High-quality systematic reviews of case-control or cohort studies;<br />
+High-quality case-control or cohort studies with a very low risk of confounding, bias, or chance and a high probability that the relationship is causal</p>
+<p><strong>2+</strong> Well-conducted case-control or cohort studies with a low risk of confounding, bias, or chance and a moderate probability that the relationship is causal</p>
+<p><strong>2-</strong> Case control or cohort studies with a high risk of confounding, bias, or chance and a significant risk that the relationship is not causal</p>
+<p><strong>3</strong> Non-analytic studies, e.g., case reports, case series</p>
+<p><strong>4</strong> Expert opinion</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Vertigo</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Geriatrics"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Neurology"/>
+      <fieldvalue value="Nursing"/>
+      <fieldvalue value="Otolaryngology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Occupational Therapists"/>
+      <fieldvalue value="Physical Therapists"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Psychologists/Non-physician Behavioral Health Clinicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To provide evidence-based guidelines for the evaluation of vertigo in the adult patient </li>
+    <li>To identify common causes of vertigo in adult patients </li>
+    <li>To identify warning signs that would necessitate timely referral </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adult male and female patients aged 19 years and older who present with a complaint of vertigo</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Subjective assessment
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>History of present illness </li>
+        <li>Past medical history </li>
+        <li>Social history </li>
+        <li>Family history </li>
+        <li>Complete list of all medications </li>
+    </ul>
+    </li>
+    <li>Objective assessment
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Physical examination </li>
+        <li>Dix-Hallpike Maneuver </li>
+        <li>Laboratory tests (e.g., complete blood court, comprehensive metabolic panel, tests for autoimmune disease, Lyme titer, rapid plasmin reagin [RPR] for syphilis) </li>
+        <li>Magnetic resonance imaging (MRI) </li>
+    </ul>
+    </li>
+    <li>Consideration of differential diagnosis </li>
+    <li>Timely referrals to specialists </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Sensitivity and specificity of diagnostic assessments</p></div>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A systematic review of the literature was undertaken to determine common etiologies of vertigo and provide evidence-based guidelines for the evaluation of vertigo in the adult patient.</p>
+<p>Searches of Electronic Databases: Online searches were performed for the timeframe of December 1998 to March 2014 using the following databases: Cumulative Index to Nursing and Allied Health Literature (CINAHL), Cochrane Review, Medline, Medscape, PubMed. Search terms included benign paroxysmal positional vertigo (BPPV), vertigo, vestibular disorders, dizziness using the Boolean connector &quot;OR.&quot;</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Papers meeting critical appraisal criteria for inclusion in evidence base: 40</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Subjective Review"/>
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Scottish Intercollegiate Guidelines Network (SIGN) Levels of Evidence</strong></p>
+<p><strong>1++</strong> High-quality meta-analyses, systematic reviews of randomized controlled trials (RCTs) or RCTs with a very low risk of bias</p>
+<p><strong>1+</strong> Well-conducted meta-analyses, systematic reviews of RCTs or RCTs with a low risk of bias</p>
+<p><strong>1-</strong> Meta-analyses, systematic reviews of RCTs or RCTs with a high risk of bias</p>
+<p><strong>2++</strong> High-quality systematic reviews of case-control or cohort studies;<br />
+High-quality case-control or cohort studies with a very low risk of confounding, bias, or chance and a high probability that the relationship is causal</p>
+<p><strong>2+</strong> Well-conducted case-control or cohort studies with a low risk of confounding, bias, or chance and a moderate probability that the relationship is causal</p>
+<p><strong>2-</strong> Case control or cohort studies with a high risk of confounding, bias, or chance and a significant risk that the relationship is not causal</p>
+<p><strong>3</strong> Non-analytic studies, e.g., case reports, case series</p>
+<p><strong>4</strong> Expert opinion</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline developers reviewed journal articles for quality based on the study design, method, number of subjects, representative sample, generalizability of results, and applicability for target population.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The panel convened and discussed; unanimous agreement was made upon recommendations.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Scottish Intercollegiate Guidelines Network (SIGN) Strength of Recommendations</strong></p>
+<p><strong>A</strong>. At least one meta-analysis, systematic review, or randomized controlled trial (RCT) rated as 1++, and directly applicable to the target population; <em>or</em><br />
+A systematic review of RCTs or a body of evidence consisting principally of studies rated as 1+, directly applicable to the target population, and demonstrating overall consistency of results.</p>
+<p><strong>B</strong>. A body of evidence including studies rated as 2++, directly applicable to the target population, and demonstrating overall consistency of results; <em>or</em><br />
+Extrapolated evidence from studies rated as 1++ or 1+.</p>
+<p><strong>C</strong>. A body of evidence including studies rated as 2+, directly applicable to the target population and demonstrating overall consistency of results;<em> or</em><br />
+Extrapolated evidence from studies rated as 2++.</p>
+<p><strong>D</strong>. Evidence level 3 or 4; <em>or</em><br />
+Extrapolated evidence from studies rated as 2+.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline was created by a panel of advance practice nurses and submitted for internal review to the Family Nursing Practitioner Program faculty and expert reviewer. Before submitting to the guideline committee, revisions were made based on reviewer recommendations. An external expert reviewer approved the guideline prior to final submission to the National Guideline Clearinghouse.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="98" ordby="605" id="425" name="References Supporting the Recommendations" type="citation">
+      <fieldvalue value="<table><tr><td>Baloh RW. Clinical practice. Vestibular neuritis. N Engl J Med. 2003 Mar 13;348(11):1027-32. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12637613&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Baloh RW. Vertigo. Lancet. 1998 Dec 5;352(9143):1841-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9851400&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Broomfield SJ, Bruce IA, Malla JV, Kay NJ. The dizzy patient. Clin Otolaryngol. 2008 Jun;33(3):223-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18559027&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Chan Y. Differential diagnosis of dizziness. CURR. 2009 Jun;17(3):200-3. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19365263&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Cherian N. Dizziness. [internet]. The Cleveland Clinic Foundation; 2010&amp;nbsp;[accessed 2014 Mar 01]. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Delaney KA. Bedside diagnosis of vertigo: value of the history and neurological examination. Acad Emerg Med. 2003 Dec;10(12):1388-95. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14644793&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Gupta V, Lipsitz LA. Orthostatic hypotension in the elderly: diagnosis and treatment. Am J Med. 2007 Oct;120(10):841-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17904451&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Halmagyi GM. Diagnosis and management of vertigo. Clin Med. 2005 Mar-Apr;5(2):159-65. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15847010&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hoffman RM, Einstadter D, Kroenke K. Evaluating dizziness. Am J Med. 1999 Nov;107(5):468-78. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10569302&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Karatas M. Central vertigo and dizziness: epidemiology, differential diagnosis, and common causes. Neurologist. 2008 Nov;14(6):355-64. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19008741&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lanska DJ. Dizziness: step-by-step through the workup. Consultant. 2013;53(4):240-9.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lee AT. Diagnosing the cause of vertigo: a practical approach. Hong Kong Med J. 2012 Aug;18(4):327-32. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22865178&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lynch JS. How should I assess and manage a patient with acute vertigo?. [internet]. Medscape Nurses; 2002&amp;nbsp;</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mundhenke M. Vertigo: a common problem in clinical practice. J Biomed Ther. 2010;4(2):17-21.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Post RE, Dickerson LM. Dizziness: a diagnostic approach. Am Fam Physician. 2010 Aug 15;82(4):361-8, 369. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20704166&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Smith A, Petrak M, Bahner C, Beck DL. In the trenches, part 1: screening for patients with dizziness: twelve efficient screening methods for initial assessment of vestibular function. In: The Hearing Review. 2012. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Wipperman J. Dizziness and vertigo. Prim Care. 2014 Mar;41(1):115-31. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24439886&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Accurate evaluation of complaint of vertigo </li>
+    <li>Improving quality of life for patient </li>
+    <li>Ruling out potential life-threatening etiologies </li>
+</ul>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patient discomfort or exacerbation of symptoms during examination</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>These guidelines are to be used by medical professionals in clinical practice. They provide a general framework for evaluating the adult patient with vertigo and do not include specialized assessments and testing.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>University of Texas at Austin School of Nursing, Family Nurse Practitioner Program. Evaluation of vertigo in the adult patient. Austin (TX): University of Texas at Austin, School of Nursing; 2014 May. 19 p.  [18 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2014 May"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="University of Texas at Austin School of Nursing, Family Nurse Practitioner Program - Academic Institution"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>University of Texas at Austin, School of Nursing, Family Nurse Practitioner Program</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>University of Texas at Austin, School of Nursing, Family Nurse Practitioner Program</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Authors</em>: Phillip Atkins, MSN, RN, FNP; Tessa Lovoi, MSN, RN, FNP; Mary Claire Maxwell, MSN, RN, FNP; David Queen, MSN, RN, FNP; Rachael Ratz, MSN, RN, FNP; Aubrey Stanley, MSN, RN, FNP; Melody Volz, MSN, RN, FNP; Misty Witten, MSN, RN, FNP; Paula Worley, MSN, APRN, FNP-BC</p>
+<p><em>Internal Review Committee</em>: Paula Worley, MSN, APRN, FNP-BC; Pamela Willson, PhD, APRN, FNP-BC, CNE, FAANP; Lisa Doggett, MD, MPH, FAAFP</p>
+<p><em>Expert External Review</em>: Karen Stierman, MD, Otolaryngologist</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: None available.</p>
+<p>Print copies: Available from the University of Texas at Austin, School of Nursing. 1700 Red River, Austin, Texas, 78701-1499, Attn: Nurse Practitioner Program</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on August 6, 2014.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which may be subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 22:42:09 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:02:10 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 124.113 (3)
+  esindex: 0.005
+  captures_list: 136.599
+  CDXLines.iter: 9.717 (3)
+  PetaboxLoader3.datanode: 41.464 (4)
+  exclusion.robots: 0.233
+  exclusion.robots.policy: 0.223
+  RedisCDXSource: 0.504
+  PetaboxLoader3.resolve: 171.505 (2)
+  load_resource: 116.92
+-->

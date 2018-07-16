@@ -1,0 +1,917 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app23.us.archive.org';v.server_ms=462;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10265?contentType=xml', '20160930192902')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930192902/https://www.guideline.gov/summaries/downloadcontent/ngc-10265?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930192902/https://www.guideline.gov/summaries/downloadcontent/ngc-10265?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10265?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930192902" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 19:29:02 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 19:29:02 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 19:29:02 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930192902*/https://www.guideline.gov/summaries/downloadcontent/ngc-10265?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10265?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Prostate cancer.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Alberta Provincial Genitourinary Tumour Team. Prostate cancer. Edmonton (Alberta): CancerControl Alberta; 2013 Sep. 30 p.&amp;nbsp;(Clinical practice guideline; no. GU-004).&amp;nbsp; [133 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Alberta Provincial Genitourinary Tumour Team. Prostate cancer. Edmonton (Alberta): Alberta Health Services, Cancer Care; 2011 Jan. 27 p. (Clinical practice guideline; no. GU-004). [114 references]</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Staging of prostate cancer is currently based on the seventh edition (2010) of the American Joint Committee on Cancer's (AJCC) Cancer Staging Manual. A detailed description of the staging can be found in the Appendix in the original guideline document.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Early Diagnosis and Screening</span></strong></p>
+<p><strong>Detection</strong></p>
+<p>The standard methods of detection include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Digital rectal examination (DRE) </li>
+    <li>Serum prostate specific antigen (PSA) measurement
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Serum PSA should be checked in fit men between the ages of 50 and 75 years, where clinically indicated. </li>
+        <li>Serum PSA screening increases the detection rate of early stage clinically significant prostate cancers; early detection may improve overall survival (Hugosson et al., 2010). </li>
+        <li>Fit men between the ages of 50 and 75 years with at least 10 years life expectancy should be made aware of the availability of PSA as a detection test for prostate cancer; they should also be aware of the potential benefits and risks of early detection so they can make an informed decision as to whether to have the test performed. </li>
+    </ul>
+    </li>
+</ul>
+<p>Elevated PSA and/or abnormal DRE are not diagnostic of prostate cancer; they do serve to risk stratify patients.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>In early stage prostate cancer, a needle biopsy to confirm a diagnosis is standard and is most accurate when done using ultrasound guided sextant biopsies. </li>
+    <li>Indications for biopsies include a clinical suspicion of prostate cancer based on the PSA and DRE findings. </li>
+</ul>
+<p><strong>Investigations for Staging</strong> (Freedland et al., 2003; Quinn et al., 2003)</p>
+<p>Assessment for patients who are being considered for active surveillance or treatment with curative intent should consist of:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>History and physical examination </li>
+    <li>Complete blood count (CBC), creatinine, urinalysis </li>
+    <li>PSA (which should be done prior to biopsy) </li>
+    <li>Radionuclide bone scan is indicated only in patients with high-risk disease </li>
+    <li>Computed tomography (CT) scans are not routinely indicated except in high-risk patients </li>
+</ul>
+<p><em>Definition of Risk Categories for Clinical Staging</em> (Lukka et al., 2001; National Comprehensive Cancer Network [NCCN], 2012; Schroder et al., 2009)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><em>Low</em> - Must have all of the following: T1-T2a and Gleason score &amp;le;6 and PSA &amp;lt;10 ng/mL. </li>
+    <li><em>Intermediate</em> - Tumours not meeting criteria for low- or high-risk: T2b-T2c or Gleason 7 or PSA 10&amp;ndash;20 ng/mL. </li>
+    <li><em>High</em> - Must have any one of the following: T3a or higher; Gleason score &amp;ge;8; or PSA &amp;gt;20 ng/mL. </li>
+</ul>
+<p><em>Consideration for Staging</em> (NCCN, 2012)</p>
+<p>% of involved cores, based on a 10 core biopsy:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Low Risk: &amp;lt;33% </li>
+    <li>Intermediate Risk: 33%&amp;ndash;50% </li>
+    <li>High Risk: &amp;gt;50% </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Low-risk Disease</span></strong></p>
+<p>Patients need to see an urologist to discuss surgical options for treatment (e.g., prostatectomy and cryotherapy) and a radiation oncologist to discuss brachytherapy or external beam radiotherapy (EBRT). These treatments have equivalent cancer-specific outcomes.</p>
+<p><strong>Management</strong> (Choo et al., 2002; Brachman et al., 2000; Gilberti et al., 2009; Grimm et al., 2001; Koper et al., 1999; Kupelian et al., 2002; Kupelian et al., 2004; Keyser et al., 1997; Dearnaley et al., 1999; Nguyen, Pollack, &amp;amp; Zagars, 1998; Partin et al., 2001; Pollack et al., 1996; Robinson, Moritz, &amp;amp; Fung, 2002; Storey et al., 2000; Zelefsky et al., 1999)</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li><strong>Active surveillance</strong>:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>This is an option in a select group of low risk patients with the understanding that curative treatment will be offered if follow-up demonstrates either worrisome PSA elevation or worsening biopsy characteristics (e.g., Gleason grade and/or volume) or if the patient chooses. </li>
+        <li>Curative intervention may be required later and patients may be candidates for randomized controlled trials (RCTs). </li>
+        <li>Patients with &quot;indolent prostate cancer&quot; harbor prostate cancers that are clinically insignificant and not expected to compromise their quality of life. Indolent prostate cancer is defined as having all of the following characteristics:&amp;nbsp;
+        <ul style=&quot;list-style-type: disc;&quot;>
+            <li>Low risk (clinical stage &amp;lt;T2b and PSA &amp;lt;10 and Gleason score &amp;lt;7) </li>
+            <li>AND &amp;le;3 cores involved with disease (minimum sampling of 10 cores) </li>
+            <li>AND no cores with &amp;gt;50% of core involved with disease. </li>
+        </ul>
+        </li>
+        <li>Patients with localized, low risk prostate cancer can consider an active surveillance protocol to monitor their disease for signs of disease progression. A reasonable surveillance protocol would include:
+        <ul style=&quot;list-style-type: disc;&quot;>
+            <li>PSA assessment every 3 to 6 months and DRE annually, at the physician's discretion. </li>
+            <li>Consider repeat biopsies 1 to 2 years after initial diagnosis, then consider further biopsies every 2 to 3 years or as clinically indicated. </li>
+        </ul>
+        </li>
+        <li>Disease progression:
+        <ul style=&quot;list-style-type: disc;&quot;>
+            <li>Progression can be characterized by one of the following criteria:
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Pathological progression: presence of Gleason pattern &amp;ge;4. Any core with &amp;gt;50% of core involved with disease. </li>
+                <li>Clinical progression: increase in clinical stage from baseline status. </li>
+                <li>Biochemical progression: PSA doubling time &amp;lt;3 years. </li>
+            </ul>
+            </li>
+            <li>If there are signs of disease progression, intervention is recommended with curative therapy (radical prostatectomy, EBRT, brachytherapy or cryotherapy). </li>
+            <li>Patients may also choose to proceed with curative therapy due to personal preference at any time during surveillance. </li>
+            <li>For patients that will not benefit from curative therapy, other therapy (i.e., hormonal therapy or radiotherapy) can be considered at the time of clinical/symptomatic progression of disease. </li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+</ol>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;2&quot;>
+    <li><strong>Intervention</strong>: if intervention is being considered, treatment should begin no more than 6 to 8 weeks from the time of diagnosis. </li>
+</ol>
+<p><em><strong>Radical prostatectomy</strong></em> is an option in all low risk prostate cancer, assuming a normal life expectancy &amp;gt;10 years and no severe medical comorbidities.</p>
+<p>Options include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Open retropubic prostatectomy </li>
+    <li>Robotic assisted laparoscopic surgery </li>
+    <li>Both treatments have similar oncological outcomes; furthermore, a wait time of up to 3 months for treatment in low-risk prostate cancer is not associated with worse outcomes. </li>
+    <li>Pelvic lymph node dissection in this group is optional, but yield is very low in low-risk patients. </li>
+</ul>
+<p><strong><em>EBRT</em></strong> is an option for all low-risk prostate cancer patients.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>3-dimensional (3D) conformal radiotherapy or intensity modulated radiation therapy (IMRT) should be utilized to deliver an International Commission on Radiation Units (ICRU) dose of 70&amp;ndash;74 Gy at 1.8&amp;ndash;2.0 Gy per fraction. </li>
+    <li>Daily image guidance is the standard of care. </li>
+    <li>The clinical target volume (CTV) is defined as the prostate alone. </li>
+</ul>
+<p><em><strong>Low-dose rate (LDR) brachytherapy</strong></em>: option for low-risk prostate cancer patients.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients with pubic arch interference may not be eligible for brachytherapy. </li>
+    <li>Patients with borderline pubic arch interference may be considered for a short course of hormones to reduce gland size. </li>
+    <li>Patients with a prior transurethral resection (TURP) should be assessed on an individual basis. </li>
+    <li>Patients with significant baseline obstructive symptoms may not be eligible for brachytherapy (i.e., American Urological Association symptom score &amp;gt;20). </li>
+</ul>
+<p><em><strong>Cryosurgery</strong></em> should be presented to patients as a treatment option for low risk disease.</p>
+<p><em><strong>High intensity focused ultrasound (HIFU)</strong></em> should be considered investigational therapy for low-risk prostate cancer and appropriate only in a randomized clinical study.</p>
+<p><strong>Follow-up</strong> (NCCN, 2012; Pound et al., 1999)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>PSA every 6 to 12 months for 5 years, then yearly </li>
+    <li>DRE yearly, but may be omitted if PSA undetectable </li>
+    <li>Evaluation of treatment morbidity and/or complications </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Intermediate-risk Disease</span></strong></p>
+<p>Patients need to see an urologist to discuss surgical options for treatment (e.g., prostatectomy and cryotherapy) and a radiation oncologist to discuss brachytherapy (in select cases) and EBRT. There are no good quality RCTs comparing radical prostatectomy versus radiotherapy (RT).</p>
+<p><strong>Management</strong> (Kuban et al., 2008; Zietman et al., 2005; Peeters et al., 2006; Morris et al., &quot;Evaluation,&quot; 2009; Morris et al., &quot;Population-based,&quot; 2009; D'Amico et al., 2008)</p>
+<p><em>Radical Prostatectomy</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The urologist should discuss the risk of a positive margin and its implications. </li>
+    <li>Patient selection should include consideration for the risk of margin involvement.
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>While adjuvant/salvage radiation improves progression-free outcome following prostatectomy, there is no evidence to suggest intentional combination of surgery followed by radiation is superior to either treatment alone in appropriately selected patients (see recommendations below for post-prostatectomy RT). </li>
+        <li>Avoid radical prostatectomy in patients with evidence of extraprostatic disease from biopsies. </li>
+    </ul>
+    </li>
+    <li>Situations in which surgery is the preferred treatment:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Patients with normal life expectancy &amp;gt;20 years </li>
+        <li>Patients with significant lower urinary tract symptoms (LUTS) </li>
+        <li>Absolute or relative contraindications include: previous pelvic RT and surgery, inflammatory bowel disease, and collagen vascular disease. </li>
+    </ul>
+    </li>
+</ul>
+<p class=&quot;Note&quot;><strong>Note</strong>: Neoadjuvant hormonal therapy prior to radical prostatectomy is not recommended outside of a clinical trial.</p>
+<p><em>EBRT</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Data from several clinical trials indicates an advantage with dose escalated RT for intermediate risk prostate cancer, but only for PSA endpoints. More mature data from randomized studies is needed to show if this translates into survival benefits (Brachman et al., 2000). </li>
+    <li>Based on current evidence, the recommended prescribed dose to the target is 74&amp;ndash;78 Gy in standard fractionation (Kuban et al., 2008; Zietman et al., 2005; Peeters et al., 2006).
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>In order for this dose to be given safely, some form of image guidance is always required. </li>
+        <li>Specific details regarding these parameters may vary from patient to patient, depending on individualized clinical circumstances. </li>
+    </ul>
+    </li>
+    <li>Short-term (neoadjuvant + concurrent) hormones may be used for patients undergoing radiotherapy (D'Amico et al., 2008; Jones et al., 2011).
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Improvement in all-cause mortality was demonstrated in men randomized to RT 66.6&amp;ndash;70 Gy &amp;plusmn; 6 months of hormones; in one study the subgroup analysis showed this effect was only in men with minimal co-morbidity, while another study found the benefit to be primarily for intermediate-risk patients. </li>
+    </ul>
+    </li>
+</ul>
+<p><em>Brachytherapy</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Brachytherapy is a potential treatment option for low-intermediate risk patients with favourable characteristics or with these parameters: Gleason &amp;lt;7 and PSA 10&amp;ndash;15 (Morris et al., &quot;Evaluation,&quot; 2009; Morris et al., &quot;Population-based,&quot; 2009; D'Amico et al., 2008). </li>
+    <li>LDR brachytherapy:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Patients with pubic arch interference may not be eligible for brachytherapy. </li>
+        <li>Patients with borderline pubic arch interference may be considered for a short course of hormones to reduce gland size. </li>
+        <li>Patients with a prior TURP should be assessed on an individual basis. </li>
+        <li>Patients with significant baseline obstructive symptoms may not be eligible for brachytherapy (i.e., American Urological Association symptom score &amp;gt;20). </li>
+    </ul>
+    </li>
+    <li>The role of high-dose rate (HDR) brachytherapy in conjunction with external beam RT is considered investigational. </li>
+</ul>
+<p><em>Cryosurgery</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Cryosurgery is available for selected T1-T3 patients with gland volume &amp;lt;60 cubic centimeters, PSA &amp;lt;20, and any Gleason score. </li>
+    <li>There is a lack of evidence demonstrating cryosurgery's equivalence to other treatment modalities (Donnelly et al., 2010). </li>
+</ul>
+<p><strong>Follow-up</strong> (NCCN, 2012; Pound et al., 1999)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>PSA every 6 to 12 months for 5 years, then yearly </li>
+    <li>DRE yearly </li>
+    <li>Evaluation of treatment morbidity and/or complications </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>High-risk Disease</span></strong></p>
+<p><strong>Preparation for Therapy</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Baseline CBC, creatinine, urinalysis </li>
+    <li>Liver function tests (LFTs) if considering non-steroidal antiandrogens </li>
+    <li>Baseline mineral density study if considering androgen deprivation therapy (ADT) </li>
+    <li>Bone scan and CT abdomen/pelvis </li>
+    <li>Referral to a radiation oncologist prior to making a treatment decision </li>
+</ul>
+<p><strong>Management</strong></p>
+<p><em>Clinical Trials</em></p>
+<p>Patients should first be considered for multimodality discussion and clinical trials.</p>
+<p><em>EBRT and ADT</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Radiotherapy should treat the prostate planning target volume with 74&amp;ndash;78 Gy. Consider including regional lymph nodes within the radiotherapy treatment volume. </li>
+    <li>ADT should be administered for at least 2 years and may be initiated prior to radiotherapy or concurrently with EBRT. </li>
+    <li>An anti-androgen could be co-administered with a luteinizing hormone-releasing hormone (LHRH) agonist and be continued for at least 7 days for possible flare in testosterone with initial LHRH agonist alone. </li>
+</ul>
+<p><em>Radical Prostatectomy &amp;plusmn; Post-operative EBRT and/or ADT (Highly Selected Patients)</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Can be considered in highly selected cases with low volume disease without fixation to adjacent organs. </li>
+    <li>Procedure should include regional lymph node dissection. </li>
+    <li>Post-operative RT should be delivered according to guidelines described below for post-operative radiotherapy (Bolla et al., 2005; Thompson et al., 2006; Jani &amp;amp; Kao, 2005; Stephenson et al., 2007; Stephenson et al., 2004; Thompson et al., 2009; Zhou et al., 2005; van der Kwast et al., 2006; D'Amico et al., 2005). </li>
+    <li>Post-operative ADT should be considered for patients with node-positive disease, either on an adjuvant or salvage basis. </li>
+    <li>Cryosurgery is an option for patients with high-risk localized disease. </li>
+</ul>
+<p><em>ADT (Selected Patients)</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>In patients not being considered for EBRT with ADT (i.e., patients with extensive nodal metastasis, locally advanced disease T3b-T4, or short life expectancy), ADT alone can be considered. </li>
+    <li>If ADT alone is considered, the patient must understand that the omission of RT for high-risk prostate cancer is associated with significantly worse overall survival (Warde et al., 2011; Widmark et al., 2009) based on results from 2 RCTs. </li>
+    <li>Counsel patients and primary care physician regarding the effects of prolonged testosterone suppression.
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Baseline mineral density study should be repeated every 2 to 3 years. </li>
+        <li>Refer to Bone Health guidelines below. </li>
+    </ul>
+    </li>
+</ul>
+<p><em>Post Prostatectomy Radical RT</em> (Bolla et al., 2005; Thompson et al., 2006; Jani &amp;amp; Kao, 2005; Stephenson et al., 2007; Stephenson et al., 2004; Thompson et al., 2009; Zhou et al., 2005; van der Kwast et al., 2006; D'Amico et al., 2005; Calais da Silva et al., 2009; Valicenti et al., 2013)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients with any one of the following pathological risk factors for local recurrence require referral to a radiation oncologist for a discussion regarding adjuvant therapy:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Positive surgical margins </li>
+        <li>Seminal vesicle involvement (pT3b) </li>
+        <li>Capsular perforation (pT3a) </li>
+        <li>Extraprostatic extension </li>
+    </ul>
+    </li>
+    <li>Salvage radiotherapy can be considered at the time of PSA relapse (ideally, PSA &amp;lt;0.5 ng/mL) in those patients who initially refuse adjuvant radiotherapy, those who wish to defer expected RT-induced toxicity, and those who are referred outside of the adjuvant window 4 months after prostatectomy. Salvage radiotherapy can also be considered in patients with local recurrence after prostatectomy but no evidence of distant metastatic disease. </li>
+    <li>The potential benefit of adjunctive hormonal therapy is not established. </li>
+</ul>
+<p><strong>Follow-up PSA</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>First post-operative PSA should be done 4 to 12 weeks after surgery. </li>
+    <li>Routine PSA should be done every 6 months, unless otherwise specified. </li>
+    <li>Low-risk patients (pT2, Gleason &amp;le;3 + 4, margins negative) may have PSA done yearly. </li>
+</ul>
+<p>Other factors for consideration:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>PSA relapse within 12 months of surgery is strong predictor of adverse long-term outcome. </li>
+    <li>PSA doubling time appears to have prognostic power. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Advanced Disease</span></strong></p>
+<p><strong>Stage T1-4, N1-3, M0</strong></p>
+<p><em>Staging</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Pathologically node positive (N1-3, or N+): after radical prostatectomy </li>
+    <li>Radiologically node positive: obviously enlarged lymph nodes on CT scanning, in an appropriate clinical context </li>
+</ul>
+<p><em>Management</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Radiotherapy should be given to these patients in addition to ADT. A recent randomized phase III trial demonstrated a significant benefit in overall survival (Warde et al., 2011). </li>
+    <li>RT for clinical, radiologic nodal involvement (enlargement) could be considered on a case-by-case basis in pathologic N+ disease or radiologic N+ disease for those with normal life expectancy of &amp;ge;10 years (Zagars, Pollack, &amp;amp; von Eschenbach, 2001). </li>
+    <li>Intermittent hormone therapy is not inferior to continuous long-term hormonal therapy in relation to cancer-specific outcomes and may be associated with better quality of life or less treatment toxicity (Calais da Silva et al., 2009; Crook et al., 2012). </li>
+    <li>Semi-annual clinical evaluation and PSA should be done if it will affect management. </li>
+</ul>
+<p><em>Follow-up</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Age dependent </li>
+    <li>Investigation at the discretion of the physician </li>
+</ul>
+<p><strong>Stage T1-4, N1-3, M+ Hormone Sensitive Disease</strong></p>
+<p>Indications include symptomatic disease or asymptomatic disease.</p>
+<p><em>Staging</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Physical exam </li>
+    <li>PSA, testosterone, CBC and differential, aspartate transaminase (AST), alanine transaminase (ALT), creatinine, blood urea nitrogen (BUN) </li>
+    <li>Bone scan </li>
+    <li>CT scan, if clinically indicated (abdomen and pelvis, +/- chest) </li>
+</ul>
+<p><em>Management</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Surgical castration </li>
+    <li>Medical castration
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Treatment with an LHRH analogue
+        <ul style=&quot;list-style-type: disc;&quot;>
+            <li>When first introduced, a non-steroidal antiandrogen (e.g., bicalutamide 50 mg daily, flutamide 250 mg&amp;nbsp;3 times a day or nilutamide 300 mg daily) should be given concurrently with the first administration of LHRH for 2 weeks to 1 month in order to block the potential initial testosterone flare. </li>
+            <li>The non-steroidal antiandrogen should be administered concurrently with the first LHRH analogue injection and continue for a minimum of 14 days afterward. </li>
+        </ul>
+        </li>
+        <li>Single agent antiandrogens
+        <ul style=&quot;list-style-type: disc;&quot;>
+            <li>Non-steroidal antiandrogens can be administered to those patients wishing to maintain potency. This may result in a reduction in disease-free survival. To date there is insufficient data to recommend bicalutamide at the 150 mg/day dose and it is not approved by Health Canada. </li>
+            <li>Bicalutamide 50 mg orally once a day </li>
+            <li>Flutamide 250 mg orally 3 times daily </li>
+            <li>Nilutamide 300 mg orally once a day for 1 month, then decrease to 150 mg daily </li>
+        </ul>
+        </li>
+        <li>These treatments are equally effective and the risks, benefits, and economic implications should be discussed with the patient. </li>
+        <li>Use of intermittent hormone therapy is controversial. Recent data suggests that intermittent is not non-inferior to continuous, which does not necessarily mean intermittent is inferior to continuous (Calais da Silva et al., 2009; Crook et al., 2012). </li>
+        <li>Patients undergoing androgen deprivation therapy for prostate cancer have an improved quality of life if they continue to be physically active. Patients should be counseled on the role of maintaining physical fitness and activity while on hormonal therapy (Segal et al., 2003). </li>
+    </ul>
+    </li>
+</ul>
+<p class=&quot;Note&quot;><strong>Note</strong>: Ongoing total androgen blockade (e.g., castration with LHRH agonist plus a non-steroidal antiandrogen) is not recommended.</p>
+<p><em>Follow-up</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>3 to 6 months following the initiation of therapy to evaluate and then as clinically indicated </li>
+    <li>PSA should not be done routinely, but only when it will affect management. </li>
+    <li>Duration: age-dependent </li>
+</ul>
+<p><strong>Stage M+ Castrate Resistant Disease</strong></p>
+<p>Indications include symptomatic disease or asymptomatic metastatic disease.</p>
+<p><em>Staging</em></p>
+<p>As clinically indicated:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Bone scan </li>
+    <li>CT scan </li>
+    <li>Magnetic resonance imaging (MRI) </li>
+    <li>Serum PSA, serum testosterone (to ensure that testosterone is in the castrate range) </li>
+</ul>
+<p><em>Management</em></p>
+<p>The benefits of treatment are primarily palliative and related to quality of life, although some systemic therapies confer a small survival advantage.</p>
+<p><span style=&quot;text-decoration: underline;&quot;>Palliative Radiotherapy</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>EBRT to symptomatic sites </li>
+    <li>Strontium 89 (Metastron&amp;reg;) not recommended for routine use, but available for appropriate indications, including:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Multiple painful sites of bone metastases on both sides of diaphragm </li>
+        <li>Patient and/or tumour factors contraindicating the use of multiple fields of EBRT for palliation </li>
+        <li>Adequate bone marrow reserve (NB: Platelet count &amp;gt;100) </li>
+        <li>No evidence of impending spinal cord compression </li>
+        <li>No plans for systemic chemotherapy </li>
+    </ul>
+    </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;>Systemic Therapy</span></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>1st line: docetaxel 75 mg/m<sup>2</sup> intravenous (IV) every 3 weeks in combination with prednisone at a dose of 5 mg twice daily (Tannock et al., 2004) </li>
+    <li>2nd line: post progression on docetaxel chemotherapy:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Abiraterone acetate 1 g oral daily in combination with prednisone 5 mg oral twice daily (pending approval by Health Canada) (de Bono et al., 2011) </li>
+        <li>Cabazitaxel 25 mg/m<sup>2</sup> IV every 3 weeks in combination with prednisone 10 mg oral daily (de Bono et al., 2010) </li>
+        <li>Enzalutamide (pending approval by Health Canada) </li>
+        <li>Currently, there is no data showing preference for one of these agents over the other. </li>
+    </ul>
+    </li>
+    <li>3rd line: clinical trial should be given first consideration where appropriate.
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>If no clinical trial options, then abiraterone acetate OR cabazitaxel can be used provided the choice of agent was not used in the 2nd line setting. </li>
+        <li>Docetaxel rechallenge </li>
+    </ul>
+    </li>
+    <li>Mitoxantrone 12 mg/m<sup>2</sup> every 3 weeks in combination with prednisone 5 mg oral twice a day can provide adequate palliation in 2nd or subsequent line. </li>
+    <li>Bone targeted therapy: treatment with bisphosphonates bone targeted agents will be discussed below for patients with metastatic castrate resistant prostate cancer. </li>
+    <li>It is important to note that chemotherapy is NOT indicated in patients without evidence of metastatic disease on imaging whose only have manifestation of hormone insensitive disease is a rising PSA. </li>
+</ul>
+<p><em>Follow-up</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>As clinically indicated to evaluate response to therapy. </li>
+    <li>Patients on docetaxel should have PSA evaluated for response after 2&amp;ndash;3 courses and symptomatic response; treatment should be continued for as long as a response is occurring and the morbidity of treatment is manageable. </li>
+    <li>Patients who have responded well to docetaxel chemotherapy can be rechallenged in the case of subsequent progressive disease. </li>
+    <li>Duration: as clinically indicated. </li>
+</ul>
+<p><strong>Biochemical Recurrence</strong> (Roach et al., 2006)</p>
+<p><em>Following Prostatectomy</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Any rise in PSA </li>
+</ul>
+<p><em>Following Radiotherapy with or without Hormonal Therapy</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Rise by 2 ng/mL (mcg/L) or more above the nadir PSA (defined as the lowest PSA achieved) </li>
+    <li>Date of failure should be determined &quot;at call&quot; and not backdated. </li>
+    <li>Patients not meeting these PSA criteria for failure who undergo salvage therapies should also be declared as failures at the time a positive biopsy is obtained or salvage therapy is administered. </li>
+</ul>
+<p><strong>Patients with Rising PSA after Curative Intent Treatment without Metastases</strong></p>
+<p>It is recommended that patients be referred to a cancer clinic or re-referred to their treating urologist. Please refer to definition of biochemical recurrence above.</p>
+<p><em>Staging</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Bone scan </li>
+    <li>CT scan </li>
+    <li>MRI </li>
+    <li>Consideration for prostate re-biopsy </li>
+</ul>
+<p><strong>Post-radical Prostatectomy Recurrence</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Radiotherapy with or without concurrent or adjuvant ADT is recommended. </li>
+    <li>Observation is also an option, depending on the findings during staging. </li>
+</ul>
+<p><strong>Post-radiotherapy Recurrence</strong></p>
+<p>Recommended options include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Active surveillance within a cancer clinic </li>
+    <li>Cryosurgery </li>
+    <li>Brachytherapy </li>
+    <li>ADT </li>
+</ul>
+<p><strong>Bone Health</strong> (Higano, 2004; Hillner et al., 2003; Dearnaley et al., 2003; Ernst et al., 2003; Small et al., 2003; Saad et al., 2002; Saad et al., 2004; Brown, Neville-Webbe, &amp;amp; Coleman, et al., 2004; Ross et al., 2003)</p>
+<p>All patients should ensure adequate calcium and vitamin D intake, using supplements if necessary.</p>
+<p>For patients being treated for prostate cancer, an assessment of risk for osteoporosis should be performed:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The World Health Organization (WHO) Fracture Risk Assessment Tool (FRAX) is recommended for calculating the 10-year probability of fracture with bone mineral density (BMD). It is available at <a href=&quot;http://www.sheffield.ac.uk/FRAX/tool.jsp?country=19&quot; title=&quot;FRAX Tool Web site&quot;>http://www.sheffield.ac.uk/FRAX/tool.jsp?country=19</a>. </li>
+    <li>Low risk for osteoporosis: no high-risk characteristics </li>
+    <li>High risk for osteoporosis: any of the following:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>ADT &amp;gt;6 months </li>
+        <li>Previous fracture </li>
+        <li>Family history of osteoporosis </li>
+        <li>Low body weight </li>
+        <li>Smoker </li>
+        <li>Excessive alcohol intake </li>
+        <li>Steroid use </li>
+        <li>Low vitamin D levels </li>
+    </ul>
+    </li>
+</ul>
+<p><strong>Management Options</strong></p>
+<p><em>Non-metastatic Patients</em></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Calcium 1500 mg and vitamin D 2000 IU daily for all men on ADT </li>
+    <li>Baseline dual-energy X-ray absorptiometry (DEXA) scan for all patients </li>
+    <li>If DEXA reveals osteoporosis (T-score &amp;lt;-2.5) then bisphosphonate therapy should be initiated as per standard treatment protocols. Treatment of osteoporosis with bisphosphonates should be undertaken with oral agents that have been approved by Health Canada. </li>
+    <li>If DEXA reveals osteopenia (T-score -1 to -2.5) or normal findings then close follow-up as suggested below and initiate treatment with bisphosphonates only if osteoporosis is diagnosed. </li>
+    <li>Concurrent bisphosphonate treatment at the initiation of ADT to prevent bone loss and the development of osteoporosis cannot be recommended at this time. Studies of immediate bisphosphonate use concurrent with ADT have been undertaken and in small sample sizes have been shown to increase BMD. However, this has not been translated into a change in fracture risk, hence, the lack of recommendation to routinely use bisphosphonates prophylactically. </li>
+    <li>The diagnosis and treatment of osteoporosis may be undertaken by the person most familiar with the treatment of this condition. This may be the family physician but the individual who prescribes ADT (urologist, medical oncologist [MO], radiation oncologist [RO]) should raise the issue and notify the family physician, through the consult note, of the recommendations regarding the management of bone health. </li>
+</ol>
+<p><em>Metastatic Patients, Hormone Sensitive</em></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>All men being placed on ADT for metastatic prostate cancer should have a baseline assessment of osteoporosis risk and have a DEXA scan. </li>
+    <li>The routine use of any prophylactic bone targeted therapy (in the absence of DEXA scan proven osteoporosis) for the prevention/delays of osteoporotic skeletal complications cannot be recommended at this time. </li>
+    <li>The use of a bone targeted therapy in this clinical setting cannot be claimed to alter skeletal related events (SREs) or survival. Should men develop metastatic castrate resistant disease, then consideration should be given to more specific bone targeted therapies (see &quot;Metastatic Patients, Castrate Resistant&quot; below). </li>
+</ol>
+<p><em>Metastatic Patients, Castrate Resistant</em></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>For patients with castrate resistant and evidence of bony metastatic disease, zoledronic acid 4 mg IV every 4 weeks (Saad et al., 2004) or denosumab 120 mg subcutaneously every 4 weeks (Fizazi et al., 2011). Zoledronic acid can be considered for reduction in skeletal related events. </li>
+    <li>Denosumab has demonstrated non-inferiority and superiority over zoledronic acid in prevention of SREs and can/should be considered as the first line option (Fizazi et al., 2011). There is no documented survival benefit noted with either of these agents. </li>
+    <li>Dosing of zoledronic acid should be tailored to the patient's kidney function (starting dose to be based on creatinine clearance as per the Compendium of Pharmaceuticals and Specialties). </li>
+    <li>Patients should be continuously monitored to ensure adequate renal function. </li>
+    <li>If patient clinical condition deteriorates and severe pain develops (narcotic analgesics are required) the routine administration of zoledronic acid bone targeted agents should be reviewed and potentially stopped. </li>
+    <li>Osteonecrosis of the jaw and hypocalcemia have been reported in association with the administration of zoledronic acid. Patients have to be monitored and with the appropriate precautions these complications can be prevented or managed in a timely fashion. </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Prostate cancer</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Counseling"/>
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Screening"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Oncology"/>
+      <fieldvalue value="Radiation Oncology"/>
+      <fieldvalue value="Surgery"/>
+      <fieldvalue value="Urology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To outline the appropriate management and follow-up strategies for prostate cancer</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients with diagnosed or suspected prostate cancer</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Diagnosis/Evaluation/Risk Assessment/Screening</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Digital rectal examination (DRE) </li>
+    <li>Serum prostate specific antigen (PSA) measurement </li>
+    <li>Needle biopsy to confirm diagnosis using ultrasound-guided sextant biopsies </li>
+    <li>Staging investigations
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>History and physical examination </li>
+        <li>Complete blood count (CBC), creatinine, urinalysis </li>
+        <li>PSA (which should be done prior to biopsy) </li>
+        <li>Radionuclide bone scan in patients with high-risk disease </li>
+        <li>Computed tomography (CT) scan (high-risk patients only) </li>
+    </ul>
+    </li>
+    <li>Classification of patients as low, intermediate, or high risk </li>
+</ol>
+<p><strong>Treatment/Management</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Active surveillance (regular PSA measurement, DRE, repeated biopsies) </li>
+    <li>Radical prostatectomy </li>
+    <li>External beam radiotherapy (EBRT) </li>
+    <li>Low-dose-rate (LDR) brachytherapy </li>
+    <li>Cryosurgery </li>
+    <li>High-intensity focused ultrasound (HIFU) (only in randomized controlled trials) </li>
+    <li>Androgen deprivation therapy (ADT) </li>
+    <li>Post-operative radiotherapy (RT) </li>
+    <li>Surgical castration </li>
+    <li>Medical castration (luteinizing-hormone releasing hormone [LHRH] analogue, antiandrogen) </li>
+    <li>Palliative RT </li>
+    <li>Systemic chemotherapy (first-line: docetaxel or mitoxantrone in combination with prednisone; second- or third-line chemotherapy as appropriate) </li>
+    <li>Calcium and vitamin D </li>
+    <li>Dual-energy x-ray absorptiometry (DEXA) scan for osteoporosis </li>
+    <li>Assessment with the Fracture Risk Assessment (FRAX) tool </li>
+    <li>Bisphosphonates </li>
+    <li>Zoledronic acid </li>
+    <li>Follow-up </li>
+    <li>Counseling patients on risks of testosterone suppression to bone and cardiovascular health </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Accuracy of diagnostic tests </li>
+    <li>Survival rates (10-year, relapse-free, metastasis-free, progression-free, disease-free, disease-specific, overall)</li>
+    <li>Oncologic outcomes (e.g., positive surgical margin rates) </li>
+    <li>Functional outcomes (e.g., urinary continence and potency rates) </li>
+    <li>Local and biochemical failure rate </li>
+    <li>Time to initiation of salvage therapy </li>
+    <li>Rates of progression </li>
+    <li>Rates of metastasis </li>
+    <li>Mortality </li>
+    <li>Quality of life </li>
+    <li>Toxicity and complications of treatment </li>
+    <li>Bone health outcomes (e.g., risk of osteoporosis, risk of fracture, skeletal-related events, pain) </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Research Questions</strong></p>
+<p>Specific research questions to be addressed by the guideline document were formulated by the guideline lead(s) and Knowledge Management (KM) Specialist using the PICO question format (Patient or Population, Intervention, Comparisons, Outcomes).</p>
+<p><strong>Search Strategy</strong></p>
+<p>Ovid MEDLINE and EMBASE (1965 to August 2011) and clinical practice guideline databases, including the Cochrane Library and the National Guideline Clearinghouse, were searched in order to obtain evidence relevant to this topic.</p>
+<p>For the 2012 update of this guideline, Ovid MEDLINE was searched using the term Prostatic neoplasms (MeSH term, subheadings drug therapy, surgery, therapy and radiotherapy), limited to clinical trials involving humans published in English, between August 2011 and August 2012. Articles were excluded if they were not phase II&amp;ndash;IV trials, did not include survival or recurrence outcomes, were retrospective. Cochrane Database of Systematic Reviews was searched using the term &quot;prostate cancer&quot;, published 2011&amp;ndash;2012.</p>
+<p>MEDLINE and EMBASE were further searched using the term prostate cancer (keyword), limited to clinical trials related to &quot;therapy&quot; (best balance of sensitivity and specificity) involving male humans published in English between August 2011 and August 2012.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Not stated"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Evidence was selected and reviewed by a working group comprised of members from the Alberta Provincial Genitourinary Tumour Team and a Knowledge Management (KM) Specialist from the Guideline Utilization Resource Unit (GURU). A detailed description of the methodology followed during the guideline development process can be found in the <a href=&quot;http://www.albertahealthservices.ca/hp/if-hp-cancer-guide-utilization-handbook.pdf&quot; title=&quot;Alberta Health Services Web site&quot;>Guideline Utilization Resource Unit Handbook</a> (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p><strong>Evidence Tables</strong></p>
+<p>Evidence tables containing the first author, year of publication, patient group/stage of disease, methodology, and main outcomes of interest are assembled using the studies identified in the literature search. Existing guidelines on the topic are assessed by the KM Specialist using portions of the Appraisal of Guidelines Research and Evaluation (AGREE) II instrument (<a href=&quot;http://www.agreetrust.org&quot; title=&quot;AGREE Web site&quot;>http://www.agreetrust.org</a>) and those meeting the minimum requirements are included in the evidence document. Due to limited resources, GURU does not regularly employ the use of multiple reviewers to rank the level of evidence; rather, the methodology portion of the evidence table contains the pertinent information required for the reader to judge for himself the quality of the studies.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Formulating Recommendations</strong></p>
+<p>The working group members formulate the guideline recommendations based on the evidence synthesized by the Knowledge Management (KM) Specialist during the planning process, blended with expert clinical interpretation of the evidence. As detailed in the <a href=&quot;http://www.albertahealthservices.ca/hp/if-hp-cancer-guide-utilization-handbook.pdf&quot; title=&quot;Alberta Health Services Web site&quot;>Guideline Utilization Resource Unit Handbook</a> (see the &quot;Availability of Companion Documents&quot; field), the working group members may decide to adopt the recommendations of another institution without any revisions, adapt the recommendations of another institution or institutions to better reflect local practices, or develop their own set of recommendations by adapting some, but not all, recommendations from different guidelines.</p>
+<p>The degree to which a recommendation is based on expert opinion of the working group and/or the Provincial Tumour Team members is explicitly stated in the guideline recommendations. Similar to the American Society of Clinical Oncology (ASCO) methodology for formulating guideline recommendations, the Guideline Utilization Resource Unit (GURU) does not use formal rating schemes for describing the strength of the recommendations, but rather describes, in conventional and explicit language, the type and quality of the research and existing guidelines that were taken into consideration when formulating the recommendations.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This guideline was reviewed and endorsed by the Alberta Provincial Genitourinary Tumour Team.</p>
+<p>When the draft guideline document has been completed, revised, and reviewed by the Knowledge Management (KM) Specialist and the working group members, it will be sent to all members of the Provincial Tumour Team for review and comment. This step ensures that those intended to use the guideline have the opportunity to review the document and identify potential difficulties for implementation before the guideline is finalized. Depending on the size of the document, and the number of people it is sent to for review, a deadline of one to two weeks will usually be given to submit any feedback. Ideally, this review will occur prior to the annual Provincial Tumour Team meeting, and a discussion of the proposed edits will take place at the meeting. The working group members will then make final revisions to the document based on the received feedback, as appropriate. Once the guideline is finalized, it will be officially endorsed by the Provincial Tumour Team Lead and the Executive Director of Provincial Tumour Programs.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="98" ordby="605" id="425" name="References Supporting the Recommendations" type="citation">
+      <fieldvalue value="<table><tr><td>Bolla M, van Poppel H, Collette L, van Cangh P, Vekemans K, Da Pozzo L, de Reijke TM, Verbaeys A, Bosset JF, van Velthoven R, Marechal JM, Scalliet P, Haustermans K, Pierart M, European Organization for Research and Treatment of Cancer. Postoperative radiotherapy after radical prostatectomy: a randomised controlled trial (EORTC trial 22911). Lancet. 2005 Aug 13-19;366(9485):572-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16099293&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Brachman DG, Thomas T, Hilbe J, Beyer DC. Failure-free survival following brachytherapy alone or external beam irradiation  alone for T1-2 prostate tumors in 2222 patients: results from a single practice. Int J Radiat Oncol Biol Phys. 2000 Aug 1;48(1):111-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10924979&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Brown JE, Neville-Webbe H, Coleman RE. The role of bisphosphonates in breast and prostate cancers. Endocr Relat Cancer. 2004 Jun;11(2):207-24. [124 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15163299&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Calais da Silva FE, Bono AV, Whelan P, Brausi M, Marques Queimadelos A, Martin JA, Kirkali Z, Calais da Silva FM, Robertson C. Intermittent androgen deprivation for locally advanced and metastatic prostate cancer: results from a randomised phase 3 study of the South European Uroncological Group. Eur Urol&amp;nbsp;2009 Jun;55(6):1269-77. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19249153&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Choo R, Klotz L, Danjoux C, Morton GC, DeBoer G, Szumacher E, Fleshner N, Bunting P, Hruby G. Feasibility study: watchful waiting for localized low to intermediate grade prostate carcinoma with selective delayed intervention based on prostate specific antigen, histological and/or clinical progression. J Urol. 2002 Apr;167(4):1664-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11912384&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Crook JM, OCallaghan CJ, Duncan G, Dearnaley DP, Higano CS, Horwitz EM, Frymire E, Malone S, Chin J, Nabid A, Warde P, Corbett T, Angyalfi S, Goldenberg SL, Gospodarowicz MK, Saad F, Logue JP, Hall E, Schellhammer PF, Ding K, Klotz L. Intermittent androgen suppression for rising PSA level after radiotherapy. N Engl J Med. 2012 Sep 6;367(10):895-903. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=x22931259&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>D'Amico AV, Chen MH, Renshaw AA, Loffredo M, Kantoff PW. Androgen suppression and radiation vs radiation alone for prostate cancer: a randomized trial. JAMA&amp;nbsp;2008 Jan 23;299(3):289-95. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18212313&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>D'Amico AV, Chen MH, Roehl KA, Catalona WJ. Identifying patients at risk for significant versus clinically insignificant postoperative prostate-specific antigen failure. J Clin Oncol. 2005 Aug 1;23(22):4975-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16051949&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>de Bono JS, Logothetis CJ, Molina A, Fizazi K, North S, Chu L, Chi KN, Jones RJ, Goodman OB, Saad F, Staffurth JN, Mainwaring P, Harland S, Flaig TW, Hutson TE, Cheng T, Patterson H, Hainsworth JD, Ryan CJ, Sternberg CN, Ellard SL, Fléchon A, Saleh M, Scholz M, Efstathiou E, Zivi A, Bianchini D, Loriot Y, Chieffo N, Kheoh T, Haqq CM, Scher HI, COU-AA-301 Investigators. Abiraterone and increased survival in metastatic prostate cancer. N Engl J Med. 2011 May 26;364(21):1995-2005. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21612468&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>de Bono JS, Oudard S, Ozguroglu M, Hansen S, Machiels JP, Kocak I, Gravis G, Bodrogi I, Mackenzie MJ, Shen L, Roessner M, Gupta S, Sartor AO, TROPIC Investigators. Prednisone plus cabazitaxel or mitoxantrone for metastatic castration-resistant prostate cancer progressing after docetaxel treatment: a randomised open-label trial. Lancet. 2010 Oct 2;376(9747):1147-54. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20888992&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Dearnaley DP, Khoo VS, Norman AR, Meyer L, Nahum A, Tait D, Yarnold J, Horwich A. Comparison of radiation side-effects of conformal and conventional radiotherapy in prostate cancer: a randomised trial. Lancet. 1999 Jan 23;353(9149):267-72. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9929018&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Dearnaley DP, Sydes MR, Mason MD, Stott M, Powell CS, Robinson AC, Thompson PM, Moffat LE, Naylor SL, Parmar MK, Mrc Pr05 Collaborators. A double-blind, placebo-controlled, randomized trial of oral sodium clodronate for metastatic prostate cancer (MRC PR05 Trial). J Natl Cancer Inst. 2003 Sep 3;95(17):1300-11. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12953084&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Donnelly BJ, Saliken JC, Brasher PM, Ernst SD, Rewcastle JC, Lau H, Robinson J, Trpkov K. A randomized trial of external beam radiotherapy versus cryoablation in patients with localized prostate cancer. Cancer. 2010 Jan 15;116(2):323-30. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19937954&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ernst DS, Tannock IF, Winquist EW, Venner PM, Reyno L, Moore MJ, Chi K, Ding K, Elliott C, Parulekar W. Randomized, double-blind, controlled trial of mitoxantrone/prednisone and clodronate versus mitoxantrone/prednisone and placebo in patients with hormone-refractory prostate cancer and pain. J Clin Oncol. 2003 Sep 1;21(17):3335-42. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12947070&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Fizazi K, Carducci M, Smith M, Damião R, Brown J, Karsh L, Milecki P, Shore N, Rader M, Wang H, Jiang Q, Tadros S, Dansey R, Goessl C. Denosumab versus zoledronic acid for treatment of bone metastases in men with castration-resistant prostate cancer: a randomised, double-blind study. Lancet. 2011 Mar 5;377(9768):813-22. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21353695&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Freedland SJ, Aronson WJ, Terris MK, Kane CJ, Amling CL, Dorey F, Presti JC Jr, SEARCH Database Study Group. Percent of prostate needle biopsy cores with cancer is significant independent predictor of prostate specific antigen recurrence following radical prostatectomy: results from SEARCH database. J Urol. 2003 Jun;169(6):2136-41. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12771735&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Giberti C, Chiono L, Gallo F, Schenone M, Gastaldi E. Radical retropubic prostatectomy versus brachytherapy for low-risk prostatic cancer: a prospective study. World J Urol&amp;nbsp;2009 Oct;27(5):607-12. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19455340&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Grimm PD, Blasko JC, Sylvester JE, Meier RM, Cavanagh W. 10-year biochemical (prostate-specific antigen) control of prostate cancer with (125)I brachytherapy. Int J Radiat Oncol Biol Phys. 2001 Sep 1;51(1):31-40. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11516848&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Higano CS. Understanding treatments for bone loss and bone metastases in patients with prostate cancer: a practical review and guide for the clinician. Urol Clin North Am. 2004 May;31(2):331-52. [114 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15123412&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hillner BE, Ingle JN, Chlebowski RT, Gralow J, Yee GC, Janjan NA, Cauley JA, Blumenstein BA, Albain KS, Lipton A, Brown S. American Society of Clinical Oncology 2003 update on the role of bisphosphonates and bone health issues in women with breast cancer. J Clin Oncol. 2003 Nov 1;21(21):4042-57. [67 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12963702&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hugosson J, Carlsson S, Aus G, Bergdahl S, Khatami A, Lodding P, Pihl CG, Stranne J, Holmberg E, Lilja H. Mortality results from the Goteborg randomised population-based prostate-cancer screening trial. Lancet Oncol. 2010 Aug;11(8):725-32. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20598634&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Jani AB, Kao J. Postprostatectomy adjuvant versus salvage radiotherapy: a complication-adjusted number-needed-to-treat analysis. Cancer. 2005 May 1;103(9):1833-42. [53 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15756656&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Jones CU, Hunt D, McGowan DG, Amin MB, Chetner MP, Bruner DW, Leibenhaut MH, Husain SM, Rotman M, Souhami L, Sandler HM, Shipley WU. Radiotherapy and short-term androgen deprivation for localized prostate cancer. N Engl J Med. 2011 Jul 14;365(2):107-18. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21751904&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Keyser D, Kupelian PA, Zippe CD, Levin HS, Klein EA. Stage T1-2 prostate cancer with pretreatment prostate-specific antigen level < or = 10 ng/ml: radiation therapy or surgery. Int J Radiat Oncol Biol Phys. 1997 Jul 1;38(4):723-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9240638&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Koper PC, Stroom JC, van Putten WL, Korevaar GA, Heijmen BJ, Wijnmaalen A, Jansen PP, Hanssens PE, Griep C, Krol AD, Samson MJ, Levendag PC. Acute morbidity reduction using 3dcrt for prostate carcinoma: a randomized study. Int J Radiat Oncol Biol Phys. 1999 Mar 1;43(4):727-34. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10098427&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kuban DA, Tucker SL, Dong L, Starkschall G, Huang EH, Cheung MR, Lee AK, Pollack A. Long-term results of the M. D. Anderson randomized dose-escalation trial for prostate cancer. Int J Radiat Oncol Biol Phys. 2008 Jan 1;70(1):67-74. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17765406&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kupelian PA, Elshaikh M, Reddy CA, Zippe C, Klein EA. Comparison of the efficacy of local therapies for localized prostate cancer in the prostate-specific antigen era: a large single-institution experience with radical prostatectomy and external-beam radiotherapy. J Clin Oncol. 2002 Aug 15;20(16):3376-85. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12177097&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kupelian PA, Potters L, Khuntia D, Ciezki JP, Reddy CA, Reuther AM, Carlson TP, Klein EA. Radical prostatectomy, external beam radiotherapy <72 Gy, external beam radiotherapy > or =72 Gy, permanent seed implantation, or combined seeds/external beam radiotherapy for stage T1-T2 prostate cancer. Int J Radiat Oncol Biol Phys. 2004 Jan 1;58(1):25-33. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14697417&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lukka H, Warde P, Pickles T, Morton G, Brundage M, Souhami L, Canadian GU Radiation Oncologist Group. Controversies in prostate cancer radiotherapy: consensus development. Can J Urol. 2001 Aug;8(4):1314-22. [30 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11564274&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Morris WJ, Keyes M, Palma D, McKenzie M, Spadinger I, Agranovich A, Pickles T, Liu M, Kwan W, Wu J, Lapointe V, Berthelet E, Pai H, Harrison R, Kwa W, Bucci J, Racz V, Woods R. Evaluation of dosimetric parameters and disease response after 125 iodine transperineal brachytherapy for low- and intermediate-risk prostate cancer. Int J Radiat Oncol Biol Phys. 2009 Apr 1;73(5):1432-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19036530&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Morris WJ, Keyes M, Palma D, Spadinger I, McKenzie MR, Agranovich A, Pickles T, Liu M, Kwan W, Wu J, Berthelet E, Pai H. Population-based study of biochemical and survival outcomes after permanent 125I  brachytherapy for low- and intermediate-risk prostate cancer. Urology. 2009 Apr;73(4):860-5; discussion 865-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19168203&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>National Comprehensive Cancer Network (NCCN). Clinical practice guidelines in oncology: prostate cancer V1.2012. Fort Washington (PA): National Comprehensive Cancer Network (NCCN); 2012. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Nguyen LN, Pollack A, Zagars GK. Late effects after radiotherapy for prostate cancer in a randomized dose-response study: results of a self-assessment questionnaire. Urology. 1998 Jun;51(6):991-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9609638&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Partin AW, Mangold LA, Lamm DM, Walsh PC, Epstein JI, Pearson JD. Contemporary update of prostate cancer staging nomograms (Partin Tables) for the  new millennium. Urology. 2001 Dec;58(6):843-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11744442&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Peeters ST, Heemsbergen WD, Koper PC, van Putten WL, Slot A, Dielwart MF, Bonfrer JM, Incrocci L, Lebesque JV. Dose-response in radiotherapy for localized prostate cancer: results of the Dutch multicenter randomized phase III trial comparing 68 Gy of radiotherapy with 78 Gy. J Clin Oncol. 2006 May 1;24(13):1990-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16648499&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Pollack A, Zagars GK, Starkschall G, Childress CH, Kopplin S, Boyer AL, Rosen II. Conventional vs. conformal radiotherapy for prostate cancer: preliminary results of dosimetry and acute toxicity. Int J Radiat Oncol Biol Phys. 1996 Feb 1;34(3):555-64. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8621278&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Pound CR, Partin AW, Eisenberger MA, Chan DW, Pearson JD, Walsh PC. Natural history of progression after PSA elevation following radical prostatectomy. JAMA. 1999 May 5;281(17):1591-7.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Quinn DI, Henshall SM, Brenner PC, Kooner R, Golovsky D, O'Neill GF, Turner JJ, Delprado W, Grygiel JJ, Sutherland RL, Stricker PD. Prognostic significance of preoperative factors in localized prostate carcinoma treated with radical prostatectomy: importance of percentage of biopsies that contain tumor and the presence of biopsy perineural invasion. Cancer. 2003 Apr 15;97(8):1884-93. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12673714&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Roach M, Hanks G, Thames H, Schellhammer P, Shipley WU, Sokol GH, Sandler H. Defining biochemical failure following radiotherapy with or without hormonal therapy in men with clinically localized prostate cancer: recommendations of the RTOG-ASTRO Phoenix Consensus Conference. Int J Radiat Oncol Biol Phys. 2006 Jul 15;65(4):965-74. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16798415&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Robinson JW, Moritz S, Fung T. Meta-analysis of rates of erectile function after treatment of localized prostate carcinoma. Int J Radiat Oncol Biol Phys. 2002 Nov 15;54(4):1063-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12419432&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ross JR, Saunders Y, Edmonds PM, Patel S, Broadley KE, Johnston SR. Systematic review of role of bisphosphonates on skeletal morbidity in metastatic  cancer. BMJ. 2003 Aug 30;327(7413):469. [21 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12946966&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Saad F, Gleason DM, Murray R, Tchekmedyian S, Venner P, Lacombe L, Chin JL, Vinholes JJ, Goas JA, Chen B, Zoledronic Acid Prostate Cancer Study Group. A randomized, placebo-controlled trial of zoledronic acid in patients with hormone-refractory metastatic prostate carcinoma. J Natl Cancer Inst. 2002 Oct 2;94(19):1458-68. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12359855&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Saad F, Gleason DM, Murray R, Tchekmedyian S, Venner P, Lacombe L, Chin JL, Vinholes JJ, Goas JA, Zheng M, Zoledronic Acid Prostate Cancer Study Group. Long-term efficacy of zoledronic acid for the prevention of skeletal complications in patients with metastatic hormone-refractory prostate cancer. J Natl Cancer Inst. 2004 Jun 2;96(11):879-82. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15173273&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Schroder FH, Hugosson J, Roobol MJ, Tammela TL, Ciatto S, Nelen V, Kwiatkowski M, Lujan M, Lilja H, Zappa M, Denis LJ, Recker F, Berenguer A, Maattanen L, Bangma CH, Aus G, Villers A, Rebillard X, van der Kwast T, Blijenberg BG, Moss SM, de Koning HJ, Auvinen A, ERSPC Investigators. Screening and prostate-cancer mortality in a randomized European study. N Engl J Med. 2009 Mar 26;360(13):1320-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19297566&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Segal RJ, Reid RD, Courneya KS, Malone SC, Parliament MB, Scott CG, Venner PM, Quinney HA, Jones LW, D'Angelo ME, Wells GA. Resistance exercise in men receiving androgen deprivation therapy for prostate cancer. J Clin Oncol. 2003 May 1;21(9):1653-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12721238&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Small EJ, Smith MR, Seaman JJ, Petrone S, Kowalski MO. Combined analysis of two multicenter, randomized, placebo-controlled studies of pamidronate disodium for the palliation of bone pain in men with metastatic prostate cancer. J Clin Oncol. 2003 Dec 1;21(23):4277-84. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14581438&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Stephenson AJ, Scardino PT, Kattan MW, Pisansky TM, Slawin KM, Klein EA, Anscher MS, Michalski JM, Sandler HM, Lin DW, Forman JD, Zelefsky MJ, Kestin LL, Roehrborn CG, Catton CN, DeWeese TL, Liauw SL, Valicenti RK, Kuban DA, Pollack A. Predicting the outcome of salvage radiation therapy for recurrent prostate cancer after radical prostatectomy. J Clin Oncol. 2007 May 20;25(15):2035-41. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17513807&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Stephenson AJ, Shariat SF, Zelefsky MJ, Kattan MW, Butler EB, Teh BS, Klein EA, Kupelian PA, Roehrborn CG, Pistenmaa DA, Pacholke HD, Liauw SL, Katz MS, Leibel SA, Scardino PT, Slawin KM. Salvage radiotherapy for recurrent prostate cancer after radical prostatectomy. JAMA. 2004 Mar 17;291(11):1325-32. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15026399&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Storey MR, Pollack A, Zagars G, Smith L, Antolak J, Rosen I. Complications from radiotherapy dose escalation in prostate cancer: preliminary results of a randomized trial. Int J Radiat Oncol Biol Phys. 2000 Oct 1;48(3):635-42. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11020558&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tannock IF, de Wit R, Berry WR, Horti J, Pluzanska A, Chi KN, Oudard S, Théodore C, James ND, Turesson I, Rosenthal MA, Eisenberger MA, TAX 327 Investigators. Docetaxel plus prednisone or mitoxantrone plus prednisone for advanced prostate cancer. N Engl J Med. 2004 Oct 7;351(15):1502-12. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15470213&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Thompson IM Jr, Tangen CM, Paradelo J, Lucia MS, Miller G, Troyer D, Messing E, Forman J, Chin J, Swanson G, Canby-Hagino E, Crawford ED. Adjuvant radiotherapy for pathologically advanced prostate cancer: a randomized clinical trial. JAMA. 2006 Nov 15;296(19):2329-35. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17105795&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Thompson IM, Tangen CM, Paradelo J, Lucia MS, Miller G, Troyer D, Messing E, Forman J, Chin J, Swanson G, Canby-Hagino E, Crawford ED. Adjuvant radiotherapy for pathological T3N0M0 prostate cancer significantly reduces risk of metastases and improves survival: long-term followup of a randomized clinical trial. J Urol. 2009 Mar;181(3):956-62. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19167731&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Valicenti RK, Thompson I, Albertsen P, Davis BJ, Goldenberg SL, Wolf JS, Sartor O, Klein E, Hahn C, Michalski J, Roach M, Faraday MM, American Society for Radiation Oncology/American Urological Association. Adjuvant and salvage radiation therapy after prostatectomy: American Society for Radiation Oncology/American Urological Association guidelines. Int J Radiat Oncol Biol Phys. 2013 Aug 1;86(5):822-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23845839&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>van der Kwast TH, Collette L, Van Poppel H, Van Cangh P, Vekemans K, DaPozzo L, Bosset JF, Kurth KH, Schroder FH, Bolla M, European Organisation for Research and Treatment of Cancer Radiotherapy and Genito-Urinary [trunc]. Impact of pathology review of stage and margin status of radical prostatectomy specimens (EORTC trial 22911). Virchows Arch. 2006 Oct;449(4):428-34. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16941153&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Warde P, Mason M, Ding K, Kirkbride P, Brundage M, Cowan R, Gospodarowicz M, Sanders K, Kostashuk E, Swanson G, Barber J, Hiltz A, Parmar MK, Sathya J, Anderson J, Hayter C, Hetherington J, Sydes MR, Parulekar W, NCIC CTG PR.3/MRC UK PR07 investigators. Combined androgen deprivation therapy and radiation therapy for locally advanced prostate cancer: a randomised, phase 3 trial. Lancet. 2011 Dec 17;378(9809):2104-11. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22056152&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Widmark A, Klepp O, Solberg A, Damber JE, Angelsen A, Fransson P, Lund JA, Tasdemir I, Hoyer M, Wiklund F, Fosså SD, Scandinavian Prostate Cancer Group Study 7, Swedish Association for Urological Oncology 3. Endocrine treatment, with or without radiotherapy, in locally advanced prostate cancer (SPCG-7/SFUO-3): an open randomised phase III trial. Lancet. 2009 Jan 24;373(9660):301-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19091394&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Zagars GK, Pollack A, von Eschenbach AC. Addition of radiation therapy to androgen ablation improves outcome for subclinically node-positive prostate cancer. Urology. 2001 Aug;58(2):233-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11489709&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Zelefsky MJ, Wallner KE, Ling CC, Raben A, Hollister T, Wolfe T, Grann A, Gaudin P, Fuks Z, Leibel SA. Comparison of the 5-year outcome and morbidity of three-dimensional conformal radiotherapy versus transperineal permanent iodine-125 implantation for early-stage prostatic cancer. J Clin Oncol. 1999 Feb;17(2):517-22. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10080594&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Zhou P, Chen MH, McLeod D, Carroll PR, Moul JW, D'Amico AV. Predictors of prostate cancer-specific mortality after radical prostatectomy or radiation therapy. J Clin Oncol. 2005 Oct 1;23(28):6992-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16192586&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Zietman AL, DeSilvio ML, Slater JD, Rossi CJ Jr, Miller DW, Adams JA, Shipley WU. Comparison of conventional-dose vs high-dose conformal radiation therapy in clinically localized adenocarcinoma of the prostate: a randomized controlled trial. JAMA. 2005 Sep 14;294(10):1233-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16160131&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The recommendations are supported by existing guidance, randomized trials, feasibility studies, prospective trials, meta-analyses, results of consensus conferences, and systematic reviews.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate screening, diagnosis, treatment, and management of prostate cancer</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Toxicity and complications of treatment </li>
+    <li>Patients should be counseled regarding the effects of prolonged testosterone suppression. In particular, cardiovascular health and bone health should be monitored closely in these patients. </li>
+    <li>All patients who have prostate cancer are at risk for osteoporosis. This risk may be further increased depending on the type of therapy required. Patients requiring androgen deprivation therapy (ADT) are at particular risk of developing osteoporosis. Part of the integrated management plan for patients being treated for prostate cancer is to consider long-term bone health. The concern is that osteoporosis is associated with a significantly higher risk of fracture and that fractures are themselves associated with higher mortality. </li>
+    <li>Recto-urethral fistula has been reported as a rare but serious complication associated with high-intensity focused ultrasound (HIFU). </li>
+    <li>Osteonecrosis of the jaw and hypocalcemia have been reported in association with the administration of zoledronic acid. Patients have to be monitored and with the appropriate precautions these complications can be prevented or managed in a timely fashion. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Radical prostatectomy is contraindicated for individuals with previous pelvic radiotherapy and surgery (given the risk of worse functional outcomes), individuals with inflammatory bowel disease, individuals with collagen vascular disease, and individuals with extraprostatic disease on the biopsies.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The recommendations contained in this guideline are a consensus of the Alberta Provincial Genitourinary Tumour Team synthesis of currently accepted approaches to management, derived from a review of relevant scientific literature. Clinicians applying these guidelines should, in consultation with the patient, use independent medical judgment in the context of individual clinical circumstances to direct care.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Present the guideline at the local and provincial tumour team meetings and weekly rounds. </li>
+    <li>Post the guideline on the Alberta Health Services website. </li>
+    <li>Send an electronic notification of the new guideline to all members of CancerControl Alberta. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Alberta Provincial Genitourinary Tumour Team. Prostate cancer. Edmonton (Alberta): CancerControl Alberta; 2013 Sep. 30 p.&amp;nbsp;(Clinical practice guideline; no. GU-004).&amp;nbsp; [133 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2011 Jan (revised 2013 Sep)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="CancerControl Alberta - State/Local Government Agency [Non-U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>CancerControl Alberta</p>
+<p>There was no direct industry involvement in the development or dissemination of this guideline.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Alberta Provincial Genitourinary Tumour Team</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Members of the Alberta Provincial Genitourinary Tumour Team include medical oncologists, radiation oncologists, urologists, pathologists, nurses, and pharmacists.</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Participation of members of the Alberta Provincial Genitourinary Tumour Team in the development of this guideline has been voluntary and the authors have not been remunerated for their contributions. CancerControl Alberta recognizes that although industry support of research, education and other areas is necessary in order to advance patient care, such support may lead to potential conflicts of interest. Some members of the Alberta Provincial Genitourinary Tumour Team are involved in research funded by industry or have other such potential conflicts of interest. However the developers of this guideline are satisfied it was developed in an unbiased manner.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Alberta Provincial Genitourinary Tumour Team. Prostate cancer. Edmonton (Alberta): Alberta Health Services, Cancer Care; 2011 Jan. 27 p. (Clinical practice guideline; no. GU-004). [114 references]</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available in Portable Document Format (PDF) from the <a href=&quot;http://www.albertahealthservices.ca/hp/if-hp-cancer-guide-gu004-prostate.pdf&quot; title=&quot;Alberta Health Services Web site&quot;>Alberta Health Services Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Guideline utilization resource unit handbook. Edmonton (Alberta): CancerControl Alberta; 2013 Jan. 5 p. Electronic copies: Available in Portable Document Format (PDF) from the <a href=&quot;http://www.albertahealthservices.ca/hp/if-hp-cancer-guide-utilization-handbook.pdf&quot; title=&quot;Alberta Health Services Web site&quot;>Alberta Health Services Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on December 24, 2012. The information was verified by the guideline developer on February 13, 2013. This summary was updated by ECRI Institute on April 28, 2014. The updated information was verified by the guideline developer on June 6, 2014. This summary was updated by ECRI Institute on July 18, 2014 following the U.S. Food and Drug Administration advisory on Docetaxel.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 19:29:02 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:24:19 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 100.321 (3)
+  esindex: 0.011
+  captures_list: 127.873
+  CDXLines.iter: 16.705 (3)
+  PetaboxLoader3.datanode: 131.883 (4)
+  exclusion.robots: 0.543
+  exclusion.robots.policy: 0.52
+  RedisCDXSource: 5.671
+  PetaboxLoader3.resolve: 261.729
+  load_resource: 316.493
+-->

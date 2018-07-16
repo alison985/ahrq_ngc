@@ -1,0 +1,840 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=213;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10141?contentType=xml', '20180713010206')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713010206/https://www.guideline.gov/summaries/downloadcontent/ngc-10141?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713010206/https://www.guideline.gov/summaries/downloadcontent/ngc-10141?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10141?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713010206" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610080610/https://www.guideline.gov/summaries/downloadcontent/ngc-10141?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 01:02:06 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610080610/https://www.guideline.gov/summaries/downloadcontent/ngc-10141?contentType=xml" title="08:06:10 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 01:02:06 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930175200/https://www.guideline.gov/summaries/downloadcontent/ngc-10141?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 01:02:06 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713010206*/https://www.guideline.gov/summaries/downloadcontent/ngc-10141?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10141?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>ACR Appropriateness Criteria&amp;reg; asymptomatic patient at risk for coronary artery disease.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Earls JP, Woodard PK, Abbara S, Akers SR, Araoz PA, Cummings K, Cury RC, Dorbala S, Hoffmann U, Hsu JY, Jacobs JE, Min JK, Expert Panel on Cardiac Imaging. ACR Appropriateness Criteria® asymptomatic patient at risk for coronary artery disease. [online publication]. Reston (VA): American College of Radiology (ACR); 2013. 12 p.  [72 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>ACR Appropriateness Criteria&amp;reg;</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Clinical Condition:</span> Asymptomatic Patient at Risk for Coronary Artery Disease</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 1:</span> Low risk.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 1: Patient at Risk for Coronary Artery Disease: Low Risk&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Comments</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>RRL*</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>CT coronary calcium</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>In patients with strong family history, this study may be of value.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Fluoroscopy heart</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>US echocardiography transthoracic resting</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>X-ray chest</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CTA coronary arteries with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CTA coronary arteries with contrast low dose</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI heart with stress without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI heart with stress without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI heart function and morphology without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI heart function and morphology without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRA coronary arteries without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRA coronary arteries without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>SPECT MPI rest and stress</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>US echocardiography transthoracic stress</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale:</span> 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+        <th class=&quot;Center&quot; valign=&quot;top&quot;>*Relative Radiation Level</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 2:</span> Intermediate risk.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 2: Patient at Risk for Coronary Artery Disease: Intermediate risk&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Comments</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>RRL*</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>CT coronary calcium</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>8</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CTA coronary arteries with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CTA coronary arteries with contrast low dose</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>US echocardiography transthoracic stress</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>X-ray chest</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Fluoroscopy heart</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI heart with stress without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI heart with stress without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI heart function and morphology without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI heart function and morphology without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRA coronary arteries without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRA coronary arteries without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>SPECT MPI rest and stress</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>US echocardiography transthoracic resting</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale:</span> 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+        <th class=&quot;Center&quot; valign=&quot;top&quot;>*Relative Radiation Level</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 3:</span> High risk.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Varient 3: Patient at Risk for Coronary Artery Disease: High risk&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Comments</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>RRL*</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>MRI heart with stress without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>See statement regarding contrast in text below under &quot;Anticipated Exceptions.&quot;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>US echocardiography transthoracic stress</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>SPECT MPI rest and stress</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CTA coronary arteries with contrast low dose</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CTA coronary arteries with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI heart with stress without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT coronary calcium</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>US echocardiography transthoracic resting</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI heart function and morphology without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI heart function and morphology without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRA coronary arteries without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRA coronary arteries without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>X-ray chest</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> </td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Fluoroscopy heart</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale:</span> 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+        <th class=&quot;Center&quot; valign=&quot;top&quot;>*Relative Radiation Level</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Summary of Literature Review</span></strong></p>
+<p><strong>Introduction/Background</strong></p>
+<p>In the United States, atherosclerotic cardiovascular disease (CVD) is the leading cause of death for both men and women. Although improvements in awareness, knowledge, and medications have led to a decrease in death rates, the burden of disease remains very high. Because atherosclerotic coronary artery disease (CAD) has a long and asymptomatic latent period, it is believed that early targeted preventive measures would be a great benefit to reducing mortality and morbidity. To identify patients who might benefit from early intervention, it is essential to accurately classify individuals who are asymptomatic but at elevated risk.</p>
+<p>CVD prevention has traditionally been based on the assessment of a patient's conventional risk-factor profile, a combined evaluation based on genetic, social, physiological, and environmental factors. Risk assessment for CAD is intended to aid in determining the appropriate lifestyle changes and pharmacological interventions to reduce a patient's risk of cardiac death. A global risk score, such as Framingham, Reynolds, Systematic Coronary Risk Evaluation, or Prospective Cardiovascular Munster, is used to categorize patient risk as low, intermediate, or high. However, these risk factors are strong population-based markers but poor individual discriminators of CAD disease, and many individuals with 1 or more risk factors do not experience a cardiac event.</p>
+<p>There is a growing discordance between the recognized ability of current risk estimation tools to predict outcomes versus that of actual measured outcomes. Recent imaging advances have made it possible to detect subclinical coronary atherosclerosis. The coronary artery calcium score (CACS) is a marker of vascular injury that correlates closely with the overall atherosclerotic burden. Individual data derived from this and other imaging tests provide useful prognostic information for patient management and can complement current risk prediction models.</p>
+<p>Non&amp;ndash;imaging-based diagnostics, such as exercise treadmill testing, are also used for assessing asymptomatic patients who have an elevated risk for CVD. The added value of imaging-based tests has been previously established; therefore, a discussion of the use of non&amp;ndash;imaging-based tests is beyond the scope of this document. The purpose is to discuss the use of diagnostic imaging tests in asymptomatic patients who are at elevated risk for future cardiovascular events. The assessment goal for these patients is to further refine targeted preventative efforts based on patient risk. Diagnostic imaging tests are used only in asymptomatic patients at elevated cardiovascular risk. (Imaging use in patients who have a known diagnosis of CAD, cardiac symptoms, history of a coronary event, or prior intervention can be found in other ACR Appropriateness Criteria&amp;reg;.)</p>
+<p>The following imaging modalities are available for evaluating asymptomatic patients at elevated risk for CAD: chest radiography, chest fluoroscopy, multidetector computed tomography (CT) (MDCT), ultrasound (US), magnetic resonance imaging (MRI), cardiac perfusion scintigraphy, echocardiography, and positron emission tomography (PET).</p>
+<p><strong>Chest Radiography</strong></p>
+<p>A chest radiograph is commonly used in asymptomatic individuals as part of a routine physical examination or presurgical testing. A routine chest radiograph can detect unsuspected abnormalities of the lungs and thorax, assess for cardiomegaly, detect coronary calcium, or serve as a baseline for future measurement. Radiographs of the chest can depict the presence of coronary artery calcifications, which are indicative of CAD. Radiographic analyses of living and autopsied patients have demonstrated that coronary calcification is easily detected, occurs frequently, increases with age, and can indicate severe underlying lesions. There is also an association between aortic arch calcification depicted on chest radiography and CAD.</p>
+<p><strong>Chest Fluoroscopy</strong></p>
+<p>Fluoroscopic visualization of coronary calcification is a noninvasive method used mainly in the past as a screening technique for CAD. The prevalence of CAD in patients with fluoroscopically detected coronary artery calcifications is significantly greater than in those without calcifications. When compared with coronary angiography, chest fluoroscopy of an asymptomatic military flight crew demonstrated an overall sensitivity and specificity of 66.3% and 77.6%, respectively, for detecting significant CAD. Patients who have calcification detected by chest fluoroscopy also have a significantly poorer survival.</p>
+<p><strong>Computed Tomography: Coronary Artery Calcium Scoring</strong></p>
+<p>CACS, performed on either an electron-beam CT or MDCT is a proven marker for the presence of coronary atherosclerosis and risk of future cardiovascular events. CACS is useful in risk stratification and reclassification, as a strong association has been found between the calcium score and future mortality and/or adverse cardiac events. Many trials have found evidence of the prognostic use of CACS. One study followed 10,377 asymptomatic patients for 5 &amp;plusmn; 3.5 years and found CACS to be an independent predictor of death that increased proportionally relative to baseline, with an adjusted relative risk of 1.6, 1.7, 2.5, and 4 for CACS 11&amp;ndash;100, 101&amp;ndash;400, 401&amp;ndash;1,000, and &amp;gt;1,000, respectively.</p>
+<p>CACS provides incremental prognostic information beyond traditional risk factor evaluation. In the St. Francis Heart Study, a CACS &amp;gt;100 predicted CAD events independently of standard risk factors. One research group found that any measurable coronary calcium was independently related to hard (death and myocardial infarction [MI]) and soft (revascularization procedure) events in men and women; this finding provided incremental prognostic information over conventional risk factors. Another study also demonstrated incremental risk beyond age, gender, ethnicity, and cardiac risk factors in evaluating data from 25,253 asymptomatic patients who had a 10-year adjusted survival rate of 99.4% for a CACS of 0 and 87.8% for a score &amp;gt;1,000.</p>
+<p>CACS can be used to stratify and reclassify patient risk more accurately than traditional methods. In 2 recent large-population&amp;ndash;based studies, CACS demonstrated a high reclassification rate in the intermediate-risk cohort. This finding further supports the benefit of imaging of subclinical coronary atherosclerosis when compared with traditional risk categorization. These 2 independent observational and prospective studies showed a high net reclassification index (NRI) based on a CACS approach. In the Multi-Ethnic Study of Atherosclerosis, researchers used CACS, in conjunction with their conventional Framingham Risk Score, to evaluate 5,878 asymptomatic men and women. In that study, the NRI was 25%, an additional 23% of subjects with events were reclassified to the high-risk category, and 13% of subjects without events were reclassified to the low-risk category. The Heinz Nixdorf Recall Study, a large population-based study with nearly 5,000 participants and a 5-year follow-up, demonstrated a NRI of 24% and 19% as high- and low-risk groups, respectively.</p>
+<p>Several guidelines on imaging of asymptomatic CAD included recommendations for using CACS. The <em>2010 Appropriate Use Criteria for Cardiac Computed Tomography</em> found that CACS use was appropriate in asymptomatic, intermediate-risk patients and in low-risk patients who had a family history of premature CAD. Other guidelines concluded there was sufficient evidence to consider recommending CACS, and one guideline recommended its use. These guidelines recommended CACS exclusively in patients at intermediate risk for CAD. For patients at low and high risk for CAD, the guidelines were unanimous in not advocating CT calcium scoring.</p>
+<p><strong>Computed Tomography: Coronary Angiography</strong></p>
+<p>Coronary CT angiography (CCTA) noninvasively assesses patency of the coronary lumen, the arterial wall, calcified and noncalcified plaques, and ventricular function. In addition to many single-center studies, 3 multicenter trials evaluated the diagnostic use of 64-slice CCTA and reported sensitivities for detecting a 50% stenosis from 85% to 99%, with negative predictive values from 83% to 99%. It is not known, however, whether CCTA can be used as a prognostic tool, independent of CACS and clinical risk models, to stratify asymptomatic patients and predict future cardiac events.</p>
+<p>Several studies examined CAD in asymptomatic patients and reported a relatively high prevalence of occult atherosclerosis; this discovery could have a significant impact on therapeutic decision-making and management. One relatively large study of 1,000 asymptomatic patients reported using CCTA to evaluate the prevalence of occult CAD and its ability to predict future adverse coronary events. Among asymptomatic patients, one study found atherosclerotic plaques in 22%, stenoses of &amp;ge;50% in 5%, and stenosis of &amp;ge;75% in 2%. Of those who had significant stenosis, 25% were initially classified as low-risk according to National Cholesterol Education Program criteria, and 58% had CACS &amp;lt;100. At midterm follow-up (17 &amp;plusmn; 2 months) all coronary events occurred in individuals for whom CCTA had depicted CAD. In another study using CCTA, two-thirds of asymptomatic diabetics were found to have occult CAD, including 26% with obstructive disease. Another group of authors retrospectively assessed the value of CCTA in predicting cardiac events in 451 asymptomatic patients, with a median follow-up of 27.5 months. In 48% of patients, CCTA could be used to reclassify the clinically assessed cardiovascular risk from intermediate- or high- to low-risk.</p>
+<p>In patients who had suspected but undocumented CAD, a group of researchers evaluated the incremental prognostic value of CCTA against both a traditional clinical-risk model and calcium scoring. While CACS again had significant incremental prognostic value compared with a baseline clinical-risk model, CCTA provided an additional incremental prognostic value, compared with a baseline clinical-risk model plus CACS. The presence of noncalcified or mixed plaques, regardless of lesion severity, was found to be the strongest predictor of events (P&amp;lt;.0001) as a potential marker of plaque vulnerability.</p>
+<p>Results from both CACS and CCTA studies have demonstrated that patients who have occult CAD could be misclassified when conventional risk-stratification algorithms are used. In symptomatic patients, CT can independently predict future events, and data suggest it can yield improved risk stratification beyond traditional scoring methods. In asymptomatic patients, CACS can also be used to stratify and reclassify patient risk more accurately than traditional methods. Using CCTA in asymptomatic patients remains controversial, primarily because of the higher radiation dose, added cost, and use of nephrotoxic contrast, but it has the potential to identify useful data beyond what is derived from CACS. As detailed in the <em>2010 ACCF/AHA Guideline for Assessment of Cardiovascular Risk in Asymptomatic Adults: Executive Summary</em>, CCTA is not recommended for cardiovascular risk assessment in asymptomatic adults.</p>
+<p>Recent advances in cardiac CT imaging technology allow for further reduction of the radiation dose from CCTA; available new dose-reducing techniques include prospective triggering, adaptive statistical iterative reconstruction, and high-pitch spiral acquisition. These new lower-dose techniques are the appropriate choice in properly selected patients who have a low heart rate (&amp;lt;65 beats per minute) and are in sinus rhythm.</p>
+<p><strong>Magnetic Resonance Imaging</strong></p>
+<p>Cardiac MRI is an accurate and reliable means for evaluating cardiac anatomy and ventricular function. Recent progress has shown it to be an excellent method for evaluating myocardial ischemia and infarction. Stress first-pass contrast-enhanced myocardial perfusion MRI detects subendocardial ischemia with high diagnostic accuracy in patients with significant CAD. Wall motion abnormalities identified during dobutamine stress MRI accurately identify patients at increased risk for cardiac death and MI; patients with normal findings have very low risk for future cardiac events.</p>
+<p>Assessment of myocardial viability is important in predicting functional recovery after revascularization and in risk stratification of patients who have CAD. Although coronary MRA does not expose patients to radiation, like CACS or CCTA, noninvasive MRI of the coronary artery is technically demanding due to the small size and tortuous course of the coronary arteries and the complex motion caused by cardiac contraction and respiration.</p>
+<p>In asymptomatic patients, MRI of the coronary wall may enhance risk stratification by quantifying the subclinical coronary atherosclerotic plaque burden. In a subset of asymptomatic patients in the Multi-Ethnic Study of Atherosclerosis, coronary arterial remodeling was evaluated using coronary wall MRI as a marker of subclinical atherosclerosis. MRI detected positive arterial remodeling in asymptomatic men and women who had subclinical atherosclerosis. Recently, the presence of unrecognized MI in asymptomatic patients, as detected by contrast-enhanced MR, was associated with increased mortality risk and more strongly associated with mortality than electrocardiogram; the presence of unrecognized MI improved risk stratification for mortality over recognized MI. Currently, no consensus guideline recommends the use of MRI for risk stratification in asymptomatic patients.</p>
+<p><strong>Cardiac Perfusion Scintigraphy</strong></p>
+<p>Myocardial perfusion scintigraphy (MPS) can detect silent myocardial ischemia but is limited in its ability to detect early or subclinical atherosclerosis. Patients undergoing MPS who do not show inducible ischemia have a very low (&amp;lt;1% per year) cardiac event rate during the following 2 to 3 years. The prevalence of silent myocardial ischemia in asymptomatic populations varies significantly. In nondiabetic patients, evidence of silent ischemia increases from 2% in the fifth and sixth decades to 15% in the ninth decade.</p>
+<p>A positive MPS is an independent predictor of future coronary events, and it is independent of conventional risk factors. Use of MPS in asymptomatic individuals who have intermediate risk is effective for CAD detection and risk stratification. In asymptomatic patients at moderate risk for CAD, one report showed that the annual mortality was 4.0% in patients with a positive MPS versus 1.6% in those who had normal scans. Another study evaluated 3,664 consecutive asymptomatic patients with no prior diagnosis of CAD who were undergoing MPS and followed them for 1 year or more. They reported that patients with &amp;ge;7.5% myocardium ischemia had a significantly greater risk (3.1% major event rate per year) than those with less ischemia (0.4% major event rate).</p>
+<p>Asymptomatic patients who have type 2 diabetes have a higher cardiac risk than nondiabetic patients. The average annual hard event rate (cardiac death or MI) in diabetic patients with a normal MPS was 0.85%, as opposed to 5.9% in those with a moderately to severely abnormal MPS. However, for any degree of perfusion abnormality, the risk in diabetic patients is higher compared with nondiabetic patients. Recently, one group reported a prevalence of 21% abnormal MPS using gated <sup>99m</sup>Tc-sestamibi in the Detection of Silent Myocardial Ischemia in Asymptomatic Diabetics study. The presence of moderate to large ischemic defects was associated with a significantly higher event rate (2.4% per year) compared with patients who had normal perfusion or small perfusion abnormalities (0.4% per year).</p>
+<p>As detailed in the <em>2010 ACCF/AHA Guideline for Assessment of Cardiovascular Risk in Asymptomatic Adults: Executive Summary</em>, stress myocardial perfusion imaging (MPI) is indicated for risk assessment in asymptomatic adults who have diabetes or asymptomatic adults who have a strong family history of congenital heart disease; it is also indicated when previous risk-assessment testing has suggested a high risk of CHD, such as a CACS &amp;gt;400. Stress MPI is not indicated for cardiovascular risk assessment in low- or intermediate-risk asymptomatic adults.</p>
+<p><strong>Echocardiography</strong></p>
+<p>Stress echocardiography can be used for screening high-risk asymptomatic patients. It is most commonly used before major noncardiac surgery. A number of studies have demonstrated that the yearly event rate following a normal exercise or dobutamine stress echocardiography (DSE) is only 0.4% to 0.9%, a value similar to that following a normal MPS. Prognostic data from stress echocardiography can be used to risk-stratify patients. Following a normal stress echocardiogram, the cardiac event-free survival rates at 1, 2, and 3 years are 99.2%, 97.8%, and 97.4%, respectively. Subgroups with an intermediate or high pretest probability of CAD also had low cardiac event rates.</p>
+<p>One study showed that the rate of cardiac death or MI in patients who had a new abnormal stress echocardiogram increased 3.6- and 2.5-fold, respectively. They also reported that DSE can assess the risk for future cardiac events by distinguishing subgroups of patient with high (&amp;gt;30% in 5 years), median (12% in 5 years), and low (8% in 5 years) risk. Importantly, patients with normal DSE have a good prognosis. In symptomatic patients who have new onset of chest pain and no previously known CAD, stress echocardiography is an independent and incremental predictor of hard cardiac events beyond that provided by electrocardiogram and clinical data alone.</p>
+<p>Despite these results, stress echocardiography is not indicated for cardiovascular risk assessment in low- or intermediate-risk asymptomatic adults.</p>
+<p><strong>Summary</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Recent imaging advances have made it possible to detect subclinical coronary atherosclerosis. A number of imaging modalities may be used for evaluating asymptomatic patients at elevated risk for future cardiovascular events. </li>
+    <li>The goal of assessment in asymptomatic patients is to refine targeted preventative efforts based on patient risk. </li>
+    <li>In low-risk patients, all modalities were considered &quot;usually not appropriate&quot;, but the panel did comment that CACS may be useful in low-risk patients who have a strong family history of coronary risk. </li>
+    <li>In intermediate-risk patients, CACS was determined to be &quot;usually appropriate&quot;, as it can be used to stratify and reclassify patient risk more accurately than traditional methods. </li>
+    <li>In high-risk patients, it was determined that CCTA and stress-and-rest studies using MRI, single-photon emission CT, MPI, and ultrasound &quot;may be appropriate.&quot; </li>
+</ul>
+<p><strong>Anticipated Exceptions</strong></p>
+<p>Nephrogenic systemic fibrosis (NSF) is a disorder with a scleroderma-like presentation and a spectrum of manifestations that can range from limited clinical sequelae to fatality. It appears to be related to both underlying severe renal dysfunction and the administration of gadolinium-based contrast agents. It has occurred primarily in patients on dialysis, rarely in patients with very limited glomerular filtration rate (GFR) (i.e., &amp;lt;30 mL/min/1.73 m<sup>2</sup>), and almost never in other patients. There is growing literature regarding NSF. Although some controversy and lack of clarity remain, there is a consensus that it is advisable to avoid all gadolinium-based contrast agents in dialysis-dependent patients unless the possible benefits clearly outweigh the risk, and to limit the type and amount in patients with estimated GFR rates &amp;lt;30 mL/min/1.73 m<sup>2</sup>. For more information, see the American College of Radiology (ACR) Manual on Contrast Media (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p><strong>Abbreviations</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>CT, computed tomography </li>
+    <li>CTA, computed tomography angiography </li>
+    <li>MRA, magnetic resonance angiography </li>
+    <li>MRI, magnetic resonance imaging </li>
+    <li>SPECT MPI, single proton emission computed tomography myocardial perfusion imaging </li>
+    <li>US, ultrasound </li>
+</ul>
+<p><strong>Relative Radiation Level Designations</strong></p>
+<table width=&quot;50%&quot; border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Relative Radiation Level Definitions&quot;>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Relative Radiation Level*</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Adult Effective Dose Estimate Range</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Pediatric Effective Dose Estimate Range</th>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>&amp;lt;0.1 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>&amp;lt;0.03 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0.1-1 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0.03-0.3 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1-10 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0.3-3 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>10-30 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3-10 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif&quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>30-100 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>10-30 mSv</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>*RRL assignments for some of the examinations cannot be made, because the actual patient doses in these procedures vary as a function of a number of factors (e.g., region of the body exposed to ionizing radiation, the imaging guidance that is used). The RRLs for these examinations are designated as &quot;Varies&quot;.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Algorithms were not developed from criteria guidelines.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Coronary artery disease</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Cardiology"/>
+      <fieldvalue value="Emergency Medicine"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Radiology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Health Plans"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Managed Care Organizations"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Utilization Management"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To evaluate the appropriateness of initial radiologic examinations for asymptomatic patients at risk for coronary artery disease</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients at risk for coronary artery disease</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Computed tomography (CT) coronary calcium </li>
+    <li>Fluoroscopy heart </li>
+    <li>Ultrasound (US) transthoracic echocardiography
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Resting </li>
+        <li>Stress </li>
+    </ul>
+    </li>
+    <li>X-ray chest </li>
+    <li>Computed tomography angiography (CTA) coronary arteries
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>With contrast </li>
+        <li>With contrast low dose </li>
+    </ul>
+    </li>
+    <li>Magnetic resonance imaging (MRI) heart
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>With stress without and with contrast </li>
+        <li>Function and morphology without and with contrast </li>
+        <li>Function and morphology without contrast </li>
+    </ul>
+    </li>
+    <li>Magnetic resonance angiography (MRA) coronary arteries
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Without contrast </li>
+        <li>Without and with contrast </li>
+    </ul>
+    </li>
+    <li>Single proton emission computed tomography (SPECT) myocardial perfusion imaging (MPI) rest and stress </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Mortality </li>
+    <li>Utility of radiologic examinations in differential diagnosis and screening </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Literature Search Procedure</strong></p>
+<p>Staff will search in PubMed only for peer reviewed medical literature for routine searches. Any article or guideline may be used by the author in the narrative but those materials may have been identified outside of the routine literature search process.</p>
+<p>The Medline literature search is based on keywords provided by the topic author. The two general classes of keywords are those related to the condition (e.g., ankle pain, fever) and those that describe the diagnostic or therapeutic intervention of interest (e.g., mammography, MRI).</p>
+<p>The search terms and parameters are manipulated to produce the most relevant, current evidence to address the American College of Radiology Appropriateness Criteria (ACR AC) topic being reviewed or developed. Combining the clinical conditions and diagnostic modalities or therapeutic procedures narrows the search to be relevant to the topic. Exploding the term &quot;diagnostic imaging&quot; captures relevant results for diagnostic topics.</p>
+<p>The following criteria/limits are used in the searches.</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Articles that have abstracts available and are concerned with humans. </li>
+    <li>Restrict the search to the year prior to the last topic update or in some cases the author of the topic may specify which year range to use in the search. For new topics, the year range is restricted to the last 10 years unless the topic author provides other instructions. </li>
+    <li>May restrict the search to Adults only or Pediatrics only. </li>
+    <li>Articles consisting of only summaries or case reports are often excluded from final results. </li>
+</ol>
+<p>The search strategy may be revised to improve the output as needed.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The total number of source documents identified as the result of the literature search is not known.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Strength of Evidence Key</strong></p>
+<p>Category 1 - The conclusions of the study are valid and strongly supported by study design, analysis and results.</p>
+<p>Category 2 - The conclusions of the study are likely valid, but study design does not permit certainty.</p>
+<p>Category 3 - The conclusions of the study may be valid but the evidence supporting the conclusions is inconclusive or equivocal.</p>
+<p>Category 4 - The conclusions of the study may not be valid because the evidence may not be reliable given the study design or analysis.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The topic author drafts or revises the narrative text summarizing the evidence found in the literature. American College of Radiology (ACR) staff draft an evidence table based on the analysis of the selected literature. These tables rate the strength of the evidence (study quality) for each article included in the narrative text.</p>
+<p>The expert panel reviews the narrative text, evidence table, and the supporting literature for each of the topic-variant combinations and assigns an appropriateness rating for each procedure listed in the table. Each individual panel member assigns a rating based on his/her interpretation of the available evidence.</p>
+<p>More information about the evidence table development process can be found in the ACR Appropriateness Criteria&amp;reg; Evidence Table Development document (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus (Delphi)"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Rating Appropriateness</strong></p>
+<p>The appropriateness ratings for each of the procedures included in the Appropriateness Criteria topics are determined using a modified Delphi methodology. A series of surveys are conducted to elicit each panelist's expert interpretation of the evidence, based on the available data, regarding the appropriateness of an imaging or therapeutic procedure for a specific clinical scenario. American College of Radiology (ACR) staff distribute surveys to the panelists along with the evidence table and narrative. Each panelist interprets the available evidence and rates each procedure. The surveys are completed by panelists without consulting other panelists. The appropriateness rating scale is an ordinal scale that uses integers from 1 to 9 grouped into three categories: 1, 2, or 3 are in the category &quot;usually not appropriate&quot;; 4, 5, or 6 are in the category &quot;may be appropriate&quot;; and 7, 8, or 9 are in the category &quot;usually appropriate.&quot; Each panel member assigns one rating for each procedure for a clinical scenario. The ratings assigned by each panel member are presented in a table displaying the frequency distribution of the ratings without identifying which members provided any particular rating.</p>
+<p>If consensus is reached, the median rating is assigned as the panel's final recommendation/rating. Consensus is defined as eighty percent (80%) agreement within a rating category. A maximum of three rounds may be conducted to reach consensus. Consensus among the panel members must be achieved to determine the final rating for each procedure.</p>
+<p>If consensus is not reached, the panel is convened by conference call. The strengths and weaknesses of each imaging procedure that has not reached consensus are discussed and a final rating is proposed. If the panelists on the call agree, the rating is proposed as the panel's consensus. The document is circulated to all the panelists to make the final determination. If consensus cannot be reached on the call or when the document is circulated, &quot;No consensus&quot; appears in the rating column and the reasons for this decision are added to the comment sections.</p>
+<p>This modified Delphi method enables each panelist to express individual interpretations of the evidence and his or her expert opinion without excessive influence from fellow panelists in a simple, standardized and economical process. A more detailed explanation of the complete process can be found in additional methodology documents found on the <a href=&quot;http://www.acr.org/ac&quot; title=&quot;ACR Web site&quot;>ACR Web site</a> (see also the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Criteria developed by the Expert Panels are reviewed by the American College of Radiology (ACR) Committee on Appropriateness Criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The recommendations are based on analysis of the current literature and expert panel consensus.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Selection of appropriate radiologic imaging procedures for asymptomatic patients at risk for coronary artery disease</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Gadolinium-based Contrast Agents</strong></p>
+<p>Nephrogenic systemic fibrosis (NSF) is a disorder with a scleroderma-like presentation and a spectrum of manifestations that can range from limited clinical sequelae to fatality. It appears to be related to both underlying severe renal dysfunction and the administration of gadolinium-based contrast agents. It has occurred primarily in patients on dialysis, rarely in patients with very limited glomerular filtration rate (GFR) (i.e., &amp;lt;30 mL/min/1.73 m<sup>2</sup>), and almost never in other patients. Although some controversy and lack of clarity remain, there is a consensus that it is advisable to avoid all gadolinium-based contrast agents in dialysis-dependent patients unless the possible benefits clearly outweigh the risk, and to limit the type and amount in patients with estimated GFR rates &amp;lt;30 mL/min/1.73 m<sup>2</sup>. For more information, please see the American College of Radiology (ACR) Manual on Contrast Media (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p><strong>Relative Radiation Level (RRL)</strong></p>
+<p>Potential adverse health effects associated with radiation exposure are an important factor to consider when selecting the appropriate imaging procedure. Because there is a wide range of radiation exposures associated with different diagnostic procedures, a relative radiation level indication has been included for each imaging examination. The RRLs are based on effective dose, which is a radiation dose quantity that is used to estimate population total radiation risk associated with an imaging procedure. Patients in the pediatric age group are at inherently higher risk from exposure, both because of organ sensitivity and longer life expectancy (relevant to the long latency that appears to accompany radiation exposure). For these reasons, the RRL dose estimate ranges for pediatric examinations are lower as compared to those specified for adults. Additional information regarding radiation dose assessment for imaging examinations can be found in the ACR Appropriateness Criteria&amp;reg; Radiation Dose Assessment Introduction document (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American College of Radiology (ACR) Committee on Appropriateness Criteria and its expert panels have developed criteria for determining appropriate imaging examinations for diagnosis and treatment of specified medical condition(s). These criteria are intended to guide radiologists, radiation oncologists, and referring physicians in making decisions regarding radiologic imaging and treatment. Generally, the complexity and severity of a patient's clinical condition should dictate the selection of appropriate imaging procedures or treatments. Only those examinations generally used for evaluation of the patient's condition are ranked. Other imaging studies necessary to evaluate other co-existent diseases or other medical consequences of this condition are not considered in this document. The availability of equipment or personnel may influence the selection of appropriate imaging procedures or treatments. Imaging techniques classified as investigational by the U.S. Food and Drug Administration (FDA) have not been considered in developing these criteria; however, study of new equipment and applications should be encouraged. The ultimate decision regarding the appropriateness of any specific radiologic examination or treatment must be made by the referring physician and radiologist in light of all the circumstances presented in an individual examination.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Earls JP, Woodard PK, Abbara S, Akers SR, Araoz PA, Cummings K, Cury RC, Dorbala S, Hoffmann U, Hsu JY, Jacobs JE, Min JK, Expert Panel on Cardiac Imaging. ACR Appropriateness Criteria® asymptomatic patient at risk for coronary artery disease. [online publication]. Reston (VA): American College of Radiology (ACR); 2013. 12 p.  [72 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2013"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American College of Radiology - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American College of Radiology (ACR) provided the funding and the resources for these ACR Appropriateness Criteria&amp;reg;.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Committee on Appropriateness Criteria, Expert Panel on Cardiac Imaging</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Panel Members</em>: James P. Earls, MD (<em>Principal Author</em>); Pamela K. Woodard, MD (<em>Panel Chair</em>); Suhny Abbara, MD (<em>Panel Vice-chair</em>); Scott R. Akers, MD; Philip A. Araoz, MD; Kristopher Cummings, MD; Ricardo C. Cury, MD; Sharmila Dorbala, MD; Udo Hoffmann, MD, MPH; Joe Y. Hsu, MD; Jill E. Jacobs, MD; James K. Min, MD</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Available from the <a href=&quot;https://acsearch.acr.org/docs/3082570/Narrative&quot; title=&quot;American College of Radiology (ACR) Web site&quot;>American College of Radiology (ACR) Web site</a>.</p>
+<p>Print copies: Available from the American College of Radiology, 1891 Preston White Drive, Reston, VA 20191. Telephone: (703) 648-8900. </p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>ACR Appropriateness Criteria&amp;reg;. Overview. Reston (VA): American College of Radiology; 2013 Nov. 3 p. Available from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/Overview.pdf&quot; title=&quot;ACR Web site&quot;>American College of Radiology (ACR) Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Literature search process. Reston (VA): American College of Radiology; 2013 Apr. 1 p. Available from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/LiteratureSearchProcess.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Evidence table development. Reston (VA): American College of Radiology; 2015 Nov. 5 p. Available from the <a href=&quot;https://www.acr.org/~/media/ACR/Documents/AppCriteria/EvidenceTableDevelopment.pdf?db=web&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Radiation dose assessment introduction. Reston (VA): American College of Radiology; 2 p. Available from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/RadiationDoseAssessmentIntro.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Manual on contrast media. Reston (VA): American College of Radiology; 90 p. Available from the <a href=&quot;http://www.acr.org/Quality-Safety/Resources/Contrast-Manual&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Procedure information. Reston (VA): American College of Radiology; 1 p. Available from the <a href=&quot;http://www.acr.org/%7E/media/E77E9964C8224151BE6D21A7CE68FEE4.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg; asymptomatic patient at risk for coronary artery disease. Evidence table. Reston (VA): American College of Radiology; 2013. 28 p. Available from the <a href=&quot;https://acsearch.acr.org/docs/3082570/ET&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on February 27, 2014.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Instructions for downloading, use, and reproduction of the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; may be found on the <a href=&quot;http://www.acr.org/Quality-Safety/Appropriateness-Criteria/TermsConditions&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 01:02:06 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:40:36 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 164.419 (3)
+  esindex: 0.005
+  captures_list: 176.116
+  CDXLines.iter: 8.652 (3)
+  PetaboxLoader3.datanode: 168.303 (4)
+  exclusion.robots: 0.159
+  exclusion.robots.policy: 0.152
+  RedisCDXSource: 0.797
+  load_resource: 26.211
+-->

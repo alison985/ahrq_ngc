@@ -1,0 +1,817 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=420;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10279?contentType=xml', '20180713021358')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713021358/https://www.guideline.gov/summaries/downloadcontent/ngc-10279?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713021358/https://www.guideline.gov/summaries/downloadcontent/ngc-10279?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10279?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713021358" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610035545/https://www.guideline.gov/summaries/downloadcontent/ngc-10279?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 02:13:58 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610035545/https://www.guideline.gov/summaries/downloadcontent/ngc-10279?contentType=xml" title="03:55:45 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 02:13:58 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930205821/https://www.guideline.gov/summaries/downloadcontent/ngc-10279?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 02:13:58 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713021358*/https://www.guideline.gov/summaries/downloadcontent/ngc-10279?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10279?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Osteoarthritis. Care and management in adults.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Clinical Guideline Centre. Osteoarthritis. Care and management in adults.  London (UK): National Institute for Health and Care Excellence (NICE); 2014 Feb. 36 p.&amp;nbsp;(Clinical guideline; no. 177).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: National Collaborating Centre for Chronic Conditions. Osteoarthritis. The care and management of osteoarthritis in adults. London (UK): National Institute for Health and Clinical Excellence (NICE); 2008 Feb. 22 p. (Clinical guideline; no. 59).</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="394" ordby="200" name="Regulatory Alert">
+    <field fieldid="154" ordby="205" id="395" name="FDA Warning/Regulatory Alert" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse</strong>: This guideline references a drug(s) for which important revised regulatory and/or warning information has been released.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><a href=&quot;http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm518710.htm&quot; title=&quot;FDA Web site&quot; target=&quot;_blank&quot;>August 31, 2016 &amp;ndash; Opioid pain and cough medicines combined with benzodiazepines</a>: A U.S. Food and Drug Administration (FDA) review has found that the growing combined used of opioid medicines with benzodiazepines or other drugs that depress the central nervous system (CNS) has resulted in serious side effects, including slowed or difficult breathing and deaths. FDA is adding Boxed Warnings to the drug labeling of prescription opioid pain and prescription opioid cough medicines and benzodiazepines. </li>
+</ul></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Clinical Guideline Centre (NCGC) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p>Recommendations are marked as <strong>[new 2014]</strong>, <strong>[2014]</strong>, <strong>[2008]</strong> or <strong>[2008, amended 2014]</strong>:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>[new 2014]</strong> indicates that the evidence has been reviewed and the recommendation has been added or updated. </li>
+    <li><strong>[2014]</strong> indicates that the evidence has been reviewed but no change has been made to the recommended action. </li>
+    <li><strong>[2008]</strong> indicates that the evidence has not been reviewed since 2008. </li>
+    <li><strong>[2008, amended 2014]</strong> indicates that the evidence has not been reviewed since 2008, but changes have been made to the recommendation wording that change the meaning (see below). </li>
+</ul>
+<p><strong>Note</strong>: The wording used in the recommendations in this guideline (for example, words such as 'offer' and 'consider') denotes the certainty with which the recommendation is made (the strength of the recommendations). See the end of the &quot;Major Recommendations&quot; field for further descriptions of the strength of recommendations.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Diagnosis</span></strong></p>
+<p>Diagnose osteoarthritis clinically without investigations if a person:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Is 45 or over <strong>and</strong> </li>
+    <li>Has activity-related joint pain <strong>and</strong> </li>
+    <li>Has either no morning joint-related stiffness or morning stiffness that lasts no longer than 30 minutes. <strong>[new 2014]</strong> </li>
+</ul>
+<p>Be aware that atypical features, such as a history of trauma, prolonged morning joint-related stiffness, rapid worsening of symptoms or the presence of a hot swollen joint, may indicate alternative or additional diagnoses. Important differential diagnoses include gout, other inflammatory arthritides (for example, rheumatoid arthritis), septic arthritis and malignancy (bone pain). <strong>[new 2014]</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Holistic Approach to Osteoarthritis Assessment and Management</span></strong></p>
+<p>Assess the effect of osteoarthritis on the person's function, quality of life, occupation, mood, relationships and leisure activities. Use Figure 1 in the original guideline document as an aid to prompt questions that should be asked as part of the holistic assessment of a person with osteoarthritis. <strong>[2008]</strong> This figure is intended as an 'aide memoir' to provide a breakdown of key topics that are of common concern when assessing people with osteoarthritis. For most topics there are a few suggested specific points that are worth assessing. Not every topic will be of concern for everyone with osteoarthritis, and there are other topics that may warrant consideration for particular people.</p>
+<p>Agree a plan with the person (and their family members or carers as appropriate) for managing their osteoarthritis. Apply the principles in <a href=&quot;http://guidance.nice.org.uk/CG138&quot; title=&quot;NICE Web site&quot;>Patient experience in adult NHS services</a> (NICE clinical guidance 138) in relation to shared decision-making. <strong>[new 2014]</strong></p>
+<p>Take into account comorbidities that compound the effect of osteoarthritis when formulating the management plan. <strong>[2008]</strong></p>
+<p>Discuss the risks and benefits of treatment options with the person, taking into account comorbidities. Ensure that the information provided can be understood. <strong>[2008]</strong></p>
+<p>Offer advice on the following core treatments to all people with clinical osteoarthritis.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Access to appropriate information </li>
+    <li>Activity and exercise </li>
+    <li>Interventions to achieve weight loss if the person is overweight or obese (see <a href=&quot;http://guidance.nice.org.uk/CG43&quot; title=&quot;NICE Web site&quot;>Obesity: guidance on the prevention, identification, assessment and management of overweight and obesity in adults and children</a> [NICE clinical guideline 43]) <strong>[2008, amended 2014]</strong> </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Education and Self-management</span></strong></p>
+<p><strong>Patient Information</strong></p>
+<p>Offer accurate verbal and written information to all people with osteoarthritis to enhance understanding of the condition and its management, and to counter misconceptions, such as that it inevitably progresses and cannot be treated. Ensure that information sharing is an ongoing, integral part of the management plan rather than a single event at time of presentation. <strong>[2008]</strong></p>
+<p><strong>Patient Self-management Interventions</strong></p>
+<p>Agree individualised self-management strategies with the person with osteoarthritis. Ensure that positive behavioural changes, such as exercise, weight loss, use of suitable footwear and pacing, are appropriately targeted. <strong>[2008]</strong></p>
+<p>Ensure that self-management programmes for people with osteoarthritis, either individually or in groups, emphasise the recommended core treatments, especially exercise. <strong>[2008]</strong></p>
+<p><strong>Thermotherapy</strong></p>
+<p>The use of local heat or cold should be considered as an adjunct to core treatments. <strong>[2008]</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Non-pharmacological Management</span></strong></p>
+<p><strong>Exercise and Manual Therapy</strong></p>
+<p>Advise people with osteoarthritis to exercise as a core treatment, irrespective of age, comorbidity, pain severity or disability. Exercise should include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Local muscle strengthening <strong>and</strong> </li>
+    <li>General aerobic fitness
+    <p>It has not been specified whether exercise should be provided by the National Health Service (NHS) or whether the healthcare professional should provide advice and encouragement to the person to obtain and carry out the intervention themselves. Exercise has been found to be beneficial but the clinician needs to make a judgement in each case on how to effectively ensure participation. This will depend upon the person's individual needs, circumstances and self-motivation, and the availability of local facilities. <strong>[2008]</strong></p>
+    </li>
+</ul>
+<p>Manipulation and stretching should be considered as an adjunct to core treatments, particularly for osteoarthritis of the hip. <strong>[2008]</strong></p>
+<p><strong>Weight Loss</strong></p>
+<p>Offer interventions to achieve weight loss as a core treatment for people who are obese or overweight (see <a href=&quot;http://guidance.nice.org.uk/CG43&quot; title=&quot;NICE Web site&quot;>Obesity: guidance on the prevention, identification, assessment and management of overweight and obesity in adults and children</a> [NICE clinical guideline 43]). <strong>[2008]</strong></p>
+<p><strong>Electrotherapy</strong></p>
+<p>Healthcare professionals should consider the use of transcutaneous electrical nerve stimulation (TENS) as an adjunct to core treatments for pain relief. TENS machines are generally loaned to the person by the National Health Service (NHS) for a short period, and if effective the person is advised where they can purchase their own. <strong>[2008]</strong></p>
+<p><strong>Nutraceuticals</strong></p>
+<p>Do not offer glucosamine or chondroitin products for the management of osteoarthritis. <strong>[2014]</strong></p>
+<p><strong>Acupuncture</strong></p>
+<p>Do not offer acupuncture for the management of osteoarthritis. <strong>[2014]</strong></p>
+<p><strong>Aids and Devices</strong></p>
+<p>Offer advice on appropriate footwear (including shock-absorbing properties) as part of core treatments for people with lower limb osteoarthritis. <strong>[2008]</strong></p>
+<p>People with osteoarthritis who have biomechanical joint pain or instability should be considered for assessment for bracing/joint supports/insoles as an adjunct to their core treatments. <strong>[2008]</strong></p>
+<p>Assistive devices (for example, walking sticks and tap turners) should be considered as adjuncts to core treatments for people with osteoarthritis who have specific problems with activities of daily living. If needed, seek expert advice in this context (for example, from occupational therapists or Disability Equipment Assessment Centres). <strong>[2008]</strong></p>
+<p><strong>Invasive Treatments for Knee Osteoarthritis</strong></p>
+<p>Do not refer for arthroscopic lavage and debridement as part of treatment for osteoarthritis, unless the person has knee osteoarthritis with a clear history of mechanical locking (as opposed to morning joint stiffness, 'giving way' or X-ray evidence of loose bodies). This recommendation is a refinement of the indication in <a href=&quot;http://guidance.nice.org.uk/IPG230&quot; title=&quot;NICE Web site&quot;>Arthroscopic knee washout, with or without debridement, for the treatment of osteoarthritis</a> (NICE interventional procedure guidance 230 [2007]). The clinical and cost-effectiveness evidence for this procedure was reviewed for the original guideline (published in 2008), which led to this more specific recommendation on the indication for which arthroscopic lavage and debridement is judged to be clinically and cost effective. <strong>[2008, amended 2014]</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Pharmacological Management</span></strong></p>
+<p>NICE intends to undertake a full review of evidence on the pharmacological management of osteoarthritis. This will start after a review by the Medicines and Healthcare Products Regulatory Agency (MHRA) of the safety of over-the-counter analgesics is completed. For more information, see the Introduction section in the original guideline document.</p>
+<p>In the meantime, the original recommendations (from 2008) remain current advice. However, the Guideline Development Group (GDG) would like to draw attention to the findings of the evidence review on the effectiveness of paracetamol that was presented in the consultation version of the guideline. That review identified reduced effectiveness of paracetamol in the management of osteoarthritis compared with what was previously thought. The GDG believes that this information should be taken into account in routine prescribing practice until the planned full review of evidence on the pharmacological management of osteoarthritis is published (see the <a href=&quot;http://guidance.nice.org.uk/CG177&quot; title=&quot;NICE Web site&quot;>NICE website</a> for further details).</p>
+<p><strong>Oral Analgesics</strong></p>
+<p>Healthcare professionals should consider offering paracetamol for pain relief in addition to core treatments; regular dosing may be required. Paracetamol and/or topical non-steroidal anti-inflammatory drugs (NSAIDs) should be considered ahead of oral NSAIDs, cyclo-oxygenase 2 (COX-2) inhibitors or opioids. <strong>[2008]</strong></p>
+<p>If paracetamol or topical NSAIDs are insufficient for pain relief for people with osteoarthritis, then the addition of opioid analgesics should be considered. Risks and benefits should be considered, particularly in older people. <strong>[2008]</strong></p>
+<p><strong>Topical Treatments</strong></p>
+<p>Consider topical NSAIDs for pain relief in addition to core treatments for people with knee or hand osteoarthritis. Consider topical NSAIDs and/or paracetamol ahead of oral NSAIDs, COX-2 inhibitors or opioids. <strong>[2008]</strong></p>
+<p>Topical capsaicin should be considered as an adjunct to core treatments for knee or hand osteoarthritis. <strong>[2008]</strong></p>
+<p>Do not offer rubefacients for treating osteoarthritis. <strong>[2008]</strong></p>
+<p><strong>NSAIDs and Highly Selective COX-2 Inhibitors</strong></p>
+<p>Although NSAIDs and COX-2 inhibitors may be regarded as a single drug class of 'NSAIDs', these recommendations use the two terms for clarity and because of the differences in side-effect profile.</p>
+<p>Where paracetamol or topical NSAIDs are ineffective for pain relief for people with osteoarthritis, then substitution with an oral NSAID/COX-2 inhibitor should be considered. <strong>[2008]</strong></p>
+<p>Where paracetamol or topical NSAIDs provide insufficient pain relief for people with osteoarthritis, then the addition of an oral NSAID/COX-2 inhibitor to paracetamol should be considered. <strong>[2008]</strong></p>
+<p>Use oral NSAIDs/COX-2 inhibitors at the lowest effective dose for the shortest possible period of time. <strong>[2008]</strong></p>
+<p>When offering treatment with an oral NSAID/COX-2 inhibitor, the first choice should be either a standard NSAID or a COX-2 inhibitor (other than etoricoxib 60 mg). In either case, co-prescribe with a proton pump inhibitor (PPI), choosing the one with the lowest acquisition cost. <strong>[2008]</strong></p>
+<p>All oral NSAIDs/COX-2 inhibitors have analgesic effects of a similar magnitude but vary in their potential gastrointestinal, liver and cardio-renal toxicity; therefore, when choosing the agent and dose, take into account individual patient risk factors, including age. When prescribing these drugs, consideration should be given to appropriate assessment and/or ongoing monitoring of these risk factors. <strong>[2008]</strong></p>
+<p>If a person with osteoarthritis needs to take low-dose aspirin, healthcare professionals should consider other analgesics before substituting or adding an NSAID or COX-2 inhibitor (with a PPI) if pain relief is ineffective or insufficient. <strong>[2008]</strong></p>
+<p><strong>Intra-articular Injections</strong></p>
+<p>Intra-articular corticosteroid injections should be considered as an adjunct to core treatments for the relief of moderate to severe pain in people with osteoarthritis. <strong>[2008]</strong></p>
+<p>Do not offer intra-articular hyaluronan injections for the management of osteoarthritis. <strong>[2014]</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Referral for Consideration of Joint Surgery</span></strong></p>
+<p>Clinicians with responsibility for referring a person with osteoarthritis for consideration of joint surgery should ensure that the person has been offered at least the core (non-surgical) treatment options. <strong>[2008]</strong></p>
+<p>Base decisions on referral thresholds on discussions between patient representatives, referring clinicians and surgeons, rather than using scoring tools for prioritisation. <strong>[2008, amended 2014]</strong></p>
+<p>Consider referral for joint surgery for people with osteoarthritis who experience joint symptoms (pain, stiffness and reduced function) that have a substantial impact on their quality of life and are refractory to non-surgical treatment. <strong>[2008, amended 2014]</strong></p>
+<p>Refer for consideration of joint surgery before there is prolonged and established functional limitation and severe pain. <strong>[2008, amended 2014]</strong></p>
+<p>Patient-specific factors (including age, sex, smoking, obesity and comorbidities) should not be barriers to referral for joint surgery. <strong>[2008, amended 2014]</strong></p>
+<p>When discussing the possibility of joint surgery, check that the person has been offered at least the core treatments for osteoarthritis, and give them information about:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The benefits and risks of surgery and the potential consequences of not having surgery </li>
+    <li>Recovery and rehabilitation after surgery </li>
+    <li>How having a prosthesis might affect them </li>
+    <li>How care pathways are organised in their local area <strong>[new 2014]</strong> </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Follow-up and Review</span></strong></p>
+<p>Offer regular reviews to all people with symptomatic osteoarthritis. Agree the timing of the reviews with the person. Reviews should include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Monitoring the person's symptoms and the ongoing impact of the condition on their everyday activities and quality of life </li>
+    <li>Monitoring the long-term course of the condition </li>
+    <li>Discussing the person's knowledge of the condition, any concerns they have, their personal preferences and their ability to access services </li>
+    <li>Reviewing the effectiveness and tolerability of all treatments support for self-management <strong>[new 2014]</strong> </li>
+</ul>
+<p>Consider an annual review for any person with one or more of the following:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Troublesome joint pain </li>
+    <li>More than one joint with symptoms </li>
+    <li>More than one comorbidity </li>
+    <li>Taking regular medication for their osteoarthritis <strong>[new 2014]</strong> </li>
+</ul>
+<p>Apply the principles in <a href=&quot;http://guidance.nice.org.uk/CG138&quot; title=&quot;NICE Web site&quot;>Patient experience in adult NHS services</a> (NICE clinical guidance 138) with regard to an individualised approach to healthcare services and patient views and preferences. <strong>[new 2014]</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Strength of Recommendations</strong></span></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><strong>Interventions That Must (or Must Not) Be Used</strong></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally the GDG uses 'must' (or 'must not') if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><strong>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation</strong></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost effective. Similar forms of words (for example, 'Do not offer&amp;hellip;') are used when the GDG is confident that an intervention will not be of benefit for most patients.</p>
+<p><strong>Interventions That Could Be Used</strong></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most patients, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient.</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: NICE began using this approach to denote the strength of recommendations in guidelines that started development after publication of the 2009 version of 'The guidelines manual' (January 2009). This does not apply to any recommendations ending [2008]. In particular, for recommendations labelled [2008] the word 'consider' may not necessarily be used to denote the strength of the recommendation.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following algorithms are included in the full version of the original guideline document (see the &quot;Availability of Companion Documents&quot; field):</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Holistic assessment </li>
+    <li>Targeting treatment </li>
+</ul>
+<p>A NICE pathway on osteoarthritis is available from the <a href=&quot;http://pathways.nice.org.uk/pathways/osteoarthritis&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Osteoarthritis</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Counseling"/>
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Geriatrics"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Orthopedic Surgery"/>
+      <fieldvalue value="Physical Medicine and Rehabilitation"/>
+      <fieldvalue value="Rheumatology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Health Plans"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Managed Care Organizations"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Occupational Therapists"/>
+      <fieldvalue value="Patients"/>
+      <fieldvalue value="Physical Therapists"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To offer best practice advice on the care of adults with osteoarthritis</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adults with osteoarthritis</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: This guideline does not address people with predisposing and associated conditions including:</p>
+<ul class=&quot;contentListFont&quot;>
+    <li>Spinal, neck and back pain </li>
+    <li>Crystal arthritis (gout or pseudo-gout) </li>
+    <li>Inflammatory arthritis (including rheumatoid arthritis, psoriatic arthritis and the seronegative arthritides) </li>
+    <li>Septic arthritis </li>
+    <li>Diseases of childhood that predispose to osteoarthritis </li>
+    <li>Medical conditions presenting with joint inflammation, such as haemochromatosis </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Holistic assessment (person's function, quality of life, relationships, leisure activities) </li>
+    <li>Formulation of management plan, including consideration of comorbidities </li>
+    <li>Advice on the following core treatments:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Access to appropriate information </li>
+        <li>Activity and exercise </li>
+        <li>Interventions to achieve weight loss if person is overweight or obese </li>
+    </ul>
+    </li>
+    <li>Communication of risks and benefits of treatment options </li>
+    <li>Education and self-management
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Patient information </li>
+        <li>Patient self-management interventions </li>
+        <li>Thermotherapy (local heat or cold) </li>
+    </ul>
+    </li>
+    <li>Non-pharmacological management
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Exercise and manual therapy </li>
+        <li>Weight loss </li>
+        <li>Transcutaneous electrical nerve stimulation </li>
+        <li>Aids and devices, including appropriate footwear, bracing/joint supports/insoles, and assistive devices </li>
+        <li>Referral for arthroscopic lavage and debridement (not recommended for routine use) </li>
+    </ul>
+    </li>
+    <li>Pharmacological management
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Oral analgesics (paracetamol, non-steroidal anti-inflammatory drugs [NSAIDs], cyclo-oxygenase 2 [COX-2] inhibitors, opioids) </li>
+        <li>Topical medications (NSAIDs, capsaicin) </li>
+        <li>Proton pump inhibitor in combination with oral NSAIDS/COX-2 inhibitors </li>
+        <li>Intra-articular corticosteroid injections </li>
+    </ul>
+    </li>
+    <li>Referral for joint replacement surgery </li>
+    <li>Follow up and review </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: Rubefacients, acupuncture, nutraceuticals and intra-articular hyaluronan injections were considered but not recommended.</p>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Pain and stiffness </li>
+    <li>Function and participation </li>
+    <li>Quality of life </li>
+    <li>Adverse events </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Clinical Guideline Centre (NCGC) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Developing the Review Questions and Outcomes</span></strong></p>
+<p>Review questions were developed in a PICO framework (patient, intervention, comparison and outcome) for intervention reviews, and with a framework of population, index tests, reference standard and target condition for reviews of diagnostic test accuracy. This was to guide the literature searching process and to facilitate the development of recommendations by the Guideline Development Group (GDG). They were drafted by the NCGC technical team and refined and validated by the GDG. The questions were based on the key clinical areas identified in the scope (see Appendix A in the full version of the original guideline document).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Searching for Evidence</span></strong></p>
+<p><strong>Clinical Literature Search</strong></p>
+<p>Systematic literature searches were undertaken in accordance with the Guidelines Manual 2012 to identify evidence within published literature in order to answer the review questions. Clinical databases were searched using relevant medical subject headings, free-text terms and study type filters where appropriate. Studies published in languages other than English were not reviewed. Where possible, searches were restricted to articles published in the English language. All searches were conducted on three core databases: Medline, EMBASE and the Cochrane Library. An additional subject specific database (Allied and Complementary Medicine database) was used for the question on acupuncture. All searches were updated on 7th May 2013. No papers added to the above databases after this date were considered.</p>
+<p>Search strategies were checked by looking at reference lists of relevant key papers, checking search strategies in other systematic reviews and asking the GDG for known studies. The questions, the study type filters applied, the databases searched and the years covered can be found in Appendix F in the full version of the original guideline document.</p>
+<p>During the scoping stage, a search was conducted for guidelines and reports on the websites listed below and on organisations relevant to the topic. Searching for grey literature or unpublished literature was not undertaken. All references sent by stakeholders were considered.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Guidelines International Network database (<a href=&quot;http://www.g-i-n.net&quot; title=&quot;GIN Web site&quot;>www.g-i-n.net</a>) </li>
+    <li>National Guideline Clearinghouse (<a href=&quot;http://www.guideline.gov&quot; title=&quot;NGC Web site&quot; target=&quot;_blank&quot;>www.guideline.gov</a>) </li>
+    <li>NHS Evidence (<a href=&quot;http://www.evidence.nhs.uk&quot; title=&quot;NHS Evidence Web site&quot;>www.evidence.nhs.uk</a>) </li>
+    <li>Clinical Evidence (<a href=&quot;http://clinicalevidence.bmj.com&quot; title=&quot;BJM Web site&quot;>clinicalevidence.bmj.com</a>) </li>
+    <li>UK Database of Uncertainties about the Effects of Treatments (UK DUETs) (<a href=&quot;http://www.library.nhs.uk/duets&quot; title=&quot;UK DUETs Web site&quot;>www.library.nhs.uk/duets</a>) </li>
+    <li>Centre for Reviews and Dissemination Health Technology Appraisals database (CRD HTA) (<a href=&quot;http://www.crd.york.ac.uk/crdweb&quot; title=&quot;Centre for Reviews and Dissemination Health Technology Appraisals Web site&quot;>www.crd.york.ac.uk/crdweb</a>) </li>
+</ul>
+<p><strong>Health Economic Literature Search</strong></p>
+<p>Systematic literature searches were also undertaken to identify health economic evidence within published literature relevant to the review questions. The evidence was identified by conducting a broad search relating to osteoarthritis in the National Health Services (NHS) economic evaluation database (NHS EED), the Health Economic Evaluations Database (HEED) and health technology assessment (HTA) databases from 2007, the date of searches conducted for the previous osteoarthritis guideline. Additionally, the search was run on Medline and EMBASE, with an economic filter, from 2010, to ensure recent publications that had not yet been indexed by the health economics databases were identified. Studies published in languages other than English were not reviewed. Where possible, searches were restricted to articles published in English language.</p>
+<p>The search strategies for health economics are included in Appendix F in the full version of the original guideline document. All searches were updated on 7th May 2013. No papers published after this date were considered.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Evidence of Effectiveness</span></strong></p>
+<p>The Research Fellow:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Identified potentially relevant studies for each review question from the relevant search results by reviewing titles and abstracts &amp;ndash; full papers were then obtained. </li>
+    <li>Reviewed full papers against pre-specified inclusion/exclusion criteria to identify studies that addressed the review question in the appropriate population and reported on outcomes of interest (review protocols are included in Appendix C in the full version of the original guideline document). </li>
+</ul>
+<p><strong>Inclusion/Exclusion</strong></p>
+<p>See the review protocols in Appendix C in the full version of the original guideline document for full details.</p>
+<p>The guideline population was defined to be adults with osteoarthritis (OA).</p>
+<p>The temporomandibular joint was excluded as this is an area predominantly managed by dentists and dental specialists and not the target audience of this guideline.</p>
+<p>Shoulders were excluded because the vast majority of shoulder pain is not due to OA but to tendonitis and bursitis problems. The GDG also pointed out that the number of studies in true shoulder OA is very small.</p>
+<p>Spine and back were excluded because there are other NICE guidelines looking at back pain. The back pain literature is extensive and separate from the OA literature.</p>
+<p>Randomised trials, non-randomised trials, and observational studies were included in the evidence reviews as appropriate. Conference abstracts were not automatically excluded from the review but were initially assessed against the inclusion criteria and then further processed only if no other full publication was available for that review question, in which case the authors of the selected abstracts were contacted for further information. Conference abstracts included in Cochrane reviews were included when they met the review inclusion criteria and authors were not contacted. Literature reviews, letters and editorials, foreign language publications and unpublished studies were excluded.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Evidence of Cost-effectiveness</span></strong></p>
+<p>Evidence on cost-effectiveness related to the key clinical issues being addressed in the guideline was sought. The health economist undertook:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A systematic review of the published economic literature </li>
+    <li>New cost-effectiveness analysis in priority areas </li>
+</ul>
+<p><strong>Literature Review</strong></p>
+<p>The health economist:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Identified potentially relevant studies for each review question from the economic search results by reviewing titles and abstracts &amp;ndash; full papers were then obtained. </li>
+    <li>Reviewed full papers against pre-specified inclusion/exclusion criteria to identify relevant studies (see below for details). </li>
+</ul>
+<p><strong>Inclusion/Exclusion</strong></p>
+<p>Full economic evaluations (studies comparing costs and health consequences of alternative courses of action: cost&amp;ndash;utility, cost-effectiveness, cost-benefit and cost-consequence analyses) and comparative costing studies that addressed the review question in the relevant population were considered potentially includable as economic evidence.</p>
+<p>Studies that only reported cost per hospital (not per patient), or only reported average cost effectiveness without disaggregated costs and effects, were excluded. Abstracts, posters, reviews, letters/editorials, foreign language publications and unpublished studies were excluded. Studies judged to have an applicability rating of &quot;not applicable&quot; were excluded (this included studies that took the perspective of a non-Organisation for Economic Co-operation and Development [OECD] country).</p>
+<p>Remaining studies were prioritised for inclusion based on their relative applicability to the development of this guideline and the study limitations. For example, if a high quality, directly applicable UK analysis was available other less relevant studies may not have been included. Where exclusions occurred on this basis, this is noted in the relevant section.</p>
+<p>For more details about the assessment of applicability and methodological quality see the economic evaluation checklist (The Guidelines Manual and the health economics research protocol in Appendix C in the full version of the original guideline document).</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The number of studies identified for each clinical question is provided in Appendix G in the full version of the original guideline document (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><strong>Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)</strong></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Overall Quality of Outcome Evidence in GRADE (Grading of Recommendations Assessment, Development and Evaluation)&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot;>Level</th>
+            <th valign=&quot;top&quot;>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot;>High</th>
+            <td valign=&quot;top&quot;>Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>Moderate</th>
+            <td valign=&quot;top&quot;>Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>Low</th>
+            <td valign=&quot;top&quot;>Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>Very Low</th>
+            <td valign=&quot;top&quot;>Any estimate of effect is very uncertain.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Meta-Analysis"/>
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Clinical Guideline Centre (NCGC) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Evidence of Effectiveness</span></strong></p>
+<p>The research fellow:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Critically appraised relevant studies using the appropriate checklist as specified in The Guidelines Manual 2012 (see the &quot;Availability of Companion Documents&quot; field). </li>
+    <li>Extracted key information about the study's methods and results into evidence tables (evidence tables are included in Appendix G in the full version of the original guideline document). </li>
+    <li>Generated summaries of the evidence by outcome (included in the relevant chapter write-ups):
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Randomised studies: meta analysed, where appropriate and reported in Grading of Recommendations Assessment, Development and Evaluation (GRADE) profiles (for clinical studies) </li>
+        <li>Observational studies: data presented as a range of values in GRADE profiles </li>
+        <li>Diagnostic studies: data presented as a range of values in adapted GRADE profiles </li>
+        <li>Qualitative studies: each study summarised in a table where possible, otherwise presented in a narrative. </li>
+    </ul>
+    </li>
+</ul>
+<p><strong>Methods of Combining Clinical Studies</strong></p>
+<p><em>Data Synthesis for Intervention Reviews</em></p>
+<p>Where possible, meta-analyses were conducted to combine the results of studies for each review question using Cochrane Review Manager (RevMan5) software. Fixed-effects (Mantel-Haenszel) techniques were used to calculate risk ratios (relative risk) for the binary outcomes: Osteoarthritis Research Society International (OARSI) responder criteria; adverse events; and withdrawal from trial. The continuous outcomes (global joint pain; function; stiffness; time to joint replacement; patient global assessment and quality of life) were analysed using an inverse variance method for pooling weighted mean differences and due to different sub-scales in studies, standardised mean differences were used on the advice of the Guideline Development Group (GDG). Final values were reported where available for continuous outcomes in preference of change scores. However, if change scores only were available, these were reported and meta-analysed with final values. Stratified analyses were predefined for some review questions at the protocol stage when the GDG identified that these strata were expected to show a different effect (e.g., differences in efficacy of interventions when used for differing joints [e.g., knee, hip, ankle etc.]).</p>
+<p>Statistical heterogeneity was assessed by considering the chi-squared test for significance at p&amp;lt;0.1 or an I-squared inconsistency statistic of &amp;gt;50% to indicate significant heterogeneity. Where significant heterogeneity was present, we carried out predefined subgroup analyses (e.g., in acupuncture including only trials with adequate blinding, please see individual protocols in Appendix C in the full version of the original guideline document for further details).</p>
+<p>Assessments of potential differences in effect between subgroups were based on the chi-squared tests for heterogeneity statistics between subgroups. If no sensitivity analysis was found to completely resolve statistical heterogeneity then a random effects (DerSimonian and Laird) model was employed to provide a more conservative estimate of the effect.</p>
+<p>The means and standard deviations of continuous outcomes were required for meta-analysis. However, in cases where standard deviations were not reported, the standard error was calculated if the p-values or 95% confidence intervals were reported and meta-analysis was undertaken with the mean and standard error using the generic inverse variance method in Cochrane Review Manager (RevMan5) software. Where p values were reported as &quot;less than&quot;, a conservative approach was undertaken. For example, if p value was reported as &quot;p &amp;le;0.001&quot;, the calculations for standard deviations will be based on a p value of 0.001. If these statistical measures were not available then the methods described in section 16.1.3 of the Cochrane Handbook (September 2009) &quot;Missing standard deviations&quot; were applied as the last resort.</p>
+<p>For binary outcomes, absolute event rates were also calculated using the GRADEpro software using event rate in the control arm of the pooled results.</p>
+<p><em>Data Synthesis for Diagnostic Test Accuracy Review</em></p>
+<p>For diagnostic test accuracy studies, the following outcomes were reported: sensitivity, specificity, positive predictive value, negative predictive value, likelihood ratio and correlations/associations between clinical and radiological features. In cases where the outcomes were not reported, 2 by 2 tables were constructed from raw data to allow calculation of these accuracy measures.</p>
+<p><strong>Appraising the Quality of Evidence by Outcomes</strong></p>
+<p>The international consensus group OMERACT (Outcome measures in Rheumatology), using a process involving patients, recommended that pain, physical function and patient global assessment should be core outcome measures for OA clinical trials. Pain is also prioritised by patients and other international groups. Patient global assessment is assessed using a wide variety of tools, whereas pain and function outcomes are commonly collected using a more restricted number of tools, especially the WOMAC instrument, which also captures the lesser prioritised domain of stiffness. The GDG agreed therefore that the critical outcomes for decision-making for the intervention evidence reviews were: joint pain, function, and stiffness. The GDG agreed that joint pain was the most important outcome to assess analgesic effect.</p>
+<p>The following outcomes were also considered important to decision-making: quality of life, OARSI responder criteria, adverse events, withdrawal from trial, time to joint replacement, and patient global assessment.</p>
+<p>The evidence for outcomes from the included randomised controlled trial (RCT) and observational studies were evaluated and presented using an adaptation of the &quot;Grading of Recommendations Assessment, Development and Evaluation (GRADE) toolbox&quot; developed by the international GRADE working group (<a href=&quot;http://www.gradeworkinggroup.org/&quot; title=&quot;GRADE Web site&quot;>http://www.gradeworkinggroup.org/</a>). The software (GRADEpro) developed by the GRADE working group was used to assess the quality of each outcome, taking into account individual study quality and the meta-analysis results. The summary of findings was presented as two separate tables in this guideline. The &quot;Clinical/Economic evidence profile&quot; table includes details of the quality assessment while the &quot;Clinical /Economic evidence summary of findings&quot; table includes pooled outcome data, where appropriate, an absolute measure of intervention effect and the summary of quality of evidence for that outcome. In this table, the columns for intervention and control indicate the sum of the sample size for continuous outcomes. For binary outcomes such as number of patients with an adverse event, the event rates (n/N: number of patients with events divided by sum of number of patients) are shown with percentages. Reporting or publication bias was only taken into consideration in the quality assessment and included in the clinical evidence profile table if it was apparent. This was taken into consideration for randomised trial evidence in the review of paracetamol versus placebo.</p>
+<p>Each outcome was examined separately for the quality elements listed and defined in Table 3 in the full version of the original guideline document and each graded using the quality levels listed in Table 4. The main criteria considered in the rating of these elements are discussed below in section &quot;Grading the Quality of Clinical Evidence&quot;. Footnotes were used to describe reasons for grading a quality element as having serious or very serious problems. The ratings for each component were summed to obtain an overall assessment for each outcome.</p>
+<p><strong>Grading the Quality of Clinical Evidence</strong></p>
+<p>After results were pooled, the overall quality of evidence for each outcome was considered. The following procedure was adopted when using GRADE:</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>A quality rating was assigned, based on the study design. RCTs start HIGH and observational studies as LOW, uncontrolled case series as LOW or VERY LOW. </li>
+    <li>The rating was then downgraded for the specified criteria: Study limitations, inconsistency, indirectness, imprecision and reporting bias. These criteria are detailed below. Observational studies were upgraded if there was: a large magnitude of effect, dose-response gradient, and if all plausible confounding would reduce a demonstrated effect or suggest a spurious effect when results showed no effect. Each quality element considered to have &quot;serious&quot; or &quot;very serious&quot; risk of bias was rated down -1 or -2 points respectively. </li>
+    <li>The downgraded/upgraded marks were then summed and the overall quality rating was revised. For example, all RCTs started as HIGH and the overall quality became MODERATE, LOW or VERY LOW if 1, 2 or 3 points were deducted respectively. </li>
+    <li>The reasons or criteria used for downgrading were specified in the footnotes. </li>
+</ol>
+<p>Additional information related to factors that affect quality such as study limitations, inconsistency, indirectness, and imprecision are detailed in Section 3 in the full version of the original guideline document.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Evidence of Cost-Effectiveness</span></strong></p>
+<p>The health economist:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Critically appraised relevant studies using the economic evaluations checklist as specified in The Guidelines Manual </li>
+    <li>Extracted key information about the studies' methods and results into evidence tables (included in Appendix H in the original guideline document). </li>
+    <li>Generated summaries of the evidence in NICE economic evidence profiles (included in the relevant chapter write-ups) &amp;ndash; see the full version of the original guideline document for details. </li>
+</ul>
+<p><strong>NICE Economic Evidence Profiles</strong></p>
+<p>The NICE economic evidence profile has been used to summarise cost and cost-effectiveness estimates. The economic evidence profile shows, for each economic study, an assessment of applicability and methodological quality, with footnotes indicating the reasons for the assessment. These assessments were made by the health economist using the economic evaluation checklist from The Guidelines Manual. It also shows incremental costs, incremental effects (for example, quality-adjusted life years [QALYs]) and the incremental cost-effectiveness ratio, as well as information about the assessment of uncertainty in the analysis. See Table 7 in the full version of the original guideline document for more details.</p>
+<p>If a non-UK study was included in the profile, the results were converted into pounds sterling using the appropriate purchasing power parity.</p>
+<p><strong>Undertaking New Health Economic Analysis</strong></p>
+<p>As well as reviewing the published economic literature for each review question, as described above, new economic analysis was undertaken by the health economist in selected areas. Priority areas for new health economic analysis were agreed by the GDG after formation of the review questions and consideration of the available health economic evidence.</p>
+<p>The GDG identified oral non-steroidal anti-inflammatories (NSAIDs)/cyclo-oxygenase (COX)-2 inhibitors as the highest priority area for original economic modelling. The GDG felt that updating the CG59 model was a priority in order to incorporate the updated review data on the effectiveness and adverse events of paracetamol, and also to include the fixed dose combination pills. The following general principles were adhered to in developing the cost-effectiveness analysis:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Methods were consistent with the NICE reference case. </li>
+    <li>The GDG was involved in the design of the model, selection of inputs and interpretation of the results. </li>
+    <li>Model inputs were based on the systematic review of the clinical literature supplemented with other published data sources where possible. </li>
+    <li>When published data was not available GDG expert opinion was used to populate the model. </li>
+    <li>Model inputs and assumptions were reported fully and transparently. </li>
+    <li>The results were subject to sensitivity analysis and limitations were discussed. </li>
+    <li>The model was peer-reviewed by another health economist at the NCGC. </li>
+</ul>
+<p>Full methods for the cost-effectiveness analysis for oral NSAIDs/COX-2 inhibitors are described in Appendix L in the original guideline document.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Clinical Guideline Centre (NCGC) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p>This guidance was developed in accordance with the methods outlined in the NICE Guidelines Manual 2009 (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p>A multidisciplinary Guideline Development Group (GDG) comprising professional group members and consumer representatives of the main stakeholders developed this guideline. The GDG was convened by the NCGC and chaired by Professor Philip Conaghan in accordance with guidance from NICE. The group met every 6 weeks during the development of the guideline. Staff from the NCGC provided methodological support and guidance for the development process. The team working on the guideline included a project manager, systematic reviewers, health economists and information scientists. They undertook systematic searches of the literature, appraised the evidence, conducted meta-analysis and cost effectiveness analysis where appropriate and drafted the guideline in collaboration with the GDG.</p>
+<p><strong>Developing Recommendations</strong> </p>
+<p>Over the course of the guideline development process, the GDG was presented with:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Evidence tables of the clinical and economic evidence reviewed from the literature. All evidence tables are in Appendices G and H in the full version of the original guideline document. </li>
+    <li>Summary of clinical and economic evidence and quality (as presented in chapters 5 to 13 in the full version of the original guideline document) </li>
+    <li>Forest plots and summary ROC curves (Appendix I in the full version of the original guideline document) </li>
+    <li>A description of the methods and results of the cost-effectiveness analysis undertaken for the guideline (Appendix L in the full version of the original guideline document) </li>
+</ul>
+<p>Recommendations were drafted on the basis of the GDG interpretation of the available evidence, taking into account the balance of benefits, harms and costs. When clinical and economic evidence was of poor quality, conflicting or absent, the GDG drafted recommendations based on their expert opinion. The considerations for making consensus based recommendations include the balance between potential harms and benefits, economic or implications compared to the benefits, current practices, recommendations made in other relevant guidelines, patient preferences and equality issues. The consensus recommendations were done through discussions in the GDG. The main considerations specific to each recommendation are outlined in the Evidence to Recommendation Section preceding the recommendation section.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><span style=&quot;text-decoration: underline;&quot;><strong>Strength of Recommendations</strong></span></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><strong>Interventions That Must (or Must Not) Be Used</strong></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally the GDG uses 'must' (or 'must not') if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><strong>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation</strong></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost effective. Similar forms of words (for example, 'Do not offer&amp;hellip;') are used when the GDG is confident that an intervention will not be of benefit for most patients.</p>
+<p><strong>Interventions That Could Be Used</strong></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most patients, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient.</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: The National Institutes for Health and Care Excellence (NICE) began using this approach to denote the strength of recommendations in guidelines that started development after publication of the 2009 version of 'The guidelines manual' (January 2009). This does not apply to any recommendations ending [2008]. In particular, for recommendations labelled [2008] the word 'consider' may not necessarily be used to denote the strength of the recommendation.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Relevant health economic evidence for recommendations can be found in the specific chapters of the full version of the original guideline document.</p>
+<p><strong>Cost-effectiveness Criteria</strong></p>
+<p>National Institute for Health and Care Excellence's (NICE) report 'Social value judgements: principles for the development of NICE guidance' sets out the principles that Guideline Development Groups (GDGs) should consider when judging whether an intervention offers good value for money. In general, an intervention was considered to be cost effective if either of the following criteria applied (given that the estimate was considered plausible):</p>
+<ol style=&quot;list-style-type: lower-alpha;&quot;>
+    <li>The intervention dominated other relevant strategies (that is, it was both less costly in terms of resource use and more clinically effective compared with all the other relevant alternative strategies), or </li>
+    <li>The intervention cost less than &amp;pound;20,000 per quality-adjusted life years (QALY) gained compared with the next best strategy. </li>
+</ol>
+<p>If the GDG recommended an intervention that was estimated to cost more than &amp;pound;20,000 per QALY gained, or did not recommend one that was estimated to cost less than &amp;pound;20,000 per QALY gained, the reasons for this decision are discussed explicitly in the 'from evidence to recommendations' section of the relevant chapter with reference to issues regarding the plausibility of the estimate or to the factors set out in the 'Social value judgements: principles for the development of NICE guidance'. When QALYs or life years gained are not used in the analysis, results are difficult to interpret unless one strategy dominates the others with respect to every relevant health outcome and cost.</p>
+<p><strong>In the Absence of Economic Evidence</strong></p>
+<p>When no relevant published studies were found, and a new analysis was not prioritised, the GDG made a qualitative judgement about cost effectiveness by considering expected differences in resource use between options and relevant UK National Health Services (NHS) unit costs alongside the results of the clinical review of effectiveness evidence.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Validation Process</strong></p>
+<p>The guidance is subject to a six week public consultation for feedback as part of the quality assurance and peer review of the document. All comments received from registered stakeholders are responded to in turn and posted on the National Institute for Health and Care Excellence (NICE) website when the full guideline is published.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of evidence supporting the recommendations is not specifically stated.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate management of individuals with osteoarthritis</p>
+<p>See the &quot;Trade-off between clinical benefits and harms&quot; sections in the full version of the original guideline document for additional details about benefits of specific interventions.</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>All non-steroidal anti-inflammatories (NSAIDs), irrespective of cyclo-oxygenase (COX)-1 and COX-2 selectivity, are associated with significant morbidity and mortality due to adverse effects on the gastrointestinal (GI), renal and cardiovascular system. It should be noted again that clinical trials recruit patients without the serious co-morbidities that would be present in routine clinical practice and that supra-normal doses of newer agents are commonly used in clinical trials in order to demonstrate safety. </li>
+    <li>All potential adverse effects must be put in perspective of patient need and individual risk including the influence of the patient's age on their GI risk. Best estimates of toxicity data, along with the uncertainty in these values, are detailed in Appendix D in the full version of the original guideline document (see the &quot;Availability of Companion Documents&quot; field). </li>
+    <li>Although adverse events from transcutaneous electrical nerve stimulation (TENS) such as local skin reactions and allergies to the adhesive pads are known, they are rare. </li>
+</ul>
+<p>See the &quot;Trade-off between clinical benefits and harms&quot; sections in the full version of the original guideline document for additional details about harms of specific interventions.</p>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Contraindications of transcutaneous electrical nerve stimulation (TENS) include active implants (pacemakers, devices with batteries giving active medication); the contraindication of the first three months of pregnancy is currently under review (Chartered Society of Physiotherapists [CSP] guidelines). </li>
+    <li>Obesity is a possible contraindication of joint replacement due to higher mechanical failure rate. </li>
+    <li>Non-steroidal anti-inflammatories (NSAIDs) are frequently contraindicated in older people with comorbidities (such as renal failure, cardiovascular or gastrointestinal intolerance), and effective pharmacological options for this group warrant further study. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>This guidance represents the view of the National Institute for Health and Care Excellence (NICE), which was arrived at after careful consideration of the evidence available. Healthcare professionals are expected to take it fully into account when exercising their clinical judgement. However, the guidance does not override the individual responsibility of healthcare professionals to make decisions appropriate to the circumstances of the individual patient, in consultation with the patient and/or guardian or carer, and informed by the summaries of product characteristics of any drugs. </li>
+    <li>Implementation of this guidance is the responsibility of local commissioners and/or providers. Commissioners and providers are reminded that it is their responsibility to implement the guidance, in their local context, in light of their duties to have due regard to the need to eliminate unlawful discrimination, advance equality of opportunity and foster good relations. Nothing in this guidance should be interpreted in a way that would be inconsistent with compliance with those duties. </li>
+    <li>Treatment and care should take into account individual needs and preferences. Patients should have the opportunity to make informed decisions about their care and treatment, in partnership with their healthcare professionals. If the patient is under 16, their family or carers should also be given information and support to help the child or young person to make decisions about their treatment. Healthcare professionals should follow the <a href=&quot;https://www.gov.uk/government/publications/reference-guide-to-consent-for-examination-or-treatment-second-edition&quot; title=&quot;UK Department of Health Web site&quot;>Department of Health's advice on consent</a>. If someone does not have capacity to make decisions, healthcare professionals should follow the <a href=&quot;http://www.justice.gov.uk/protecting-the-vulnerable/mental-capacity-act&quot; title=&quot;UK Department of Justice Web site&quot;>code of practice that accompanies the Mental Capacity Act</a> and the supplementary <a href=&quot;http://webarchive.nationalarchives.gov.uk/20130107105354/http:/www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_085476&quot; title=&quot;UK Department of Health Archive Web site&quot;>code of practice on deprivation of liberty safeguards</a>. </li>
+    <li>NICE has produced guidance on the components of good patient experience in adult NHS services. All healthcare professionals should follow the recommendations in <a href=&quot;http://guidance.nice.org.uk/CG138&quot; title=&quot;NICE Web site&quot;>Patient experience in adult NHS services</a>. </li>
+    <li>The guideline will assume that prescribers will use a drug's summary of product characteristics to inform decisions made with individual patients. </li>
+    <li>For all recommendations, NICE expects that there is discussion with the patient about the risks and benefits of the interventions, and their values and preferences. This discussion aims to help them to reach a fully informed decision. </li>
+    <li>There are limitations to the published evidence on treating osteoarthritis. Most studies have focused on knee osteoarthritis, and are often of short duration using single therapies. Although most trials have looked at single joint involvement, in reality many people have pain in more than one joint, which may alter the effectiveness of interventions. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Key Priorities for Implementation</span></strong></p>
+<p>The following recommendations have been identified as priorities for implementation.</p>
+<p><strong>Diagnosis</strong></p>
+<p>Diagnose osteoarthritis clinically without investigations if a person:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Is 45 or over <strong>and</strong> </li>
+    <li>Has activity-related joint pain <strong>and</strong> </li>
+    <li>Has either no morning joint-related stiffness or morning stiffness that lasts no longer than 30 minutes <strong>[new 2014]</strong> </li>
+</ul>
+<p><strong>Holistic Approach to Osteoarthritis Assessment and Management</strong></p>
+<p>Offer advice on the following core treatments to all people with clinical osteoarthritis.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Access to appropriate information </li>
+    <li>Activity and exercise </li>
+    <li>Interventions to achieve weight loss if the person is overweight or obese (see <a href=&quot;http://guidance.nice.org.uk/CG43&quot; title=&quot;NICE Web site&quot;>Obesity: guidance on the prevention, identification, assessment and management of overweight and obesity in adults and children</a> [NICE clinical guideline 43]) <strong>[2008, amended 2014]</strong> </li>
+</ul>
+<p><strong>Education and Self-management</strong></p>
+<p>Offer accurate verbal and written information to all people with osteoarthritis to enhance understanding of the condition and its management, and to counter misconceptions, such as that it inevitably progresses and cannot be treated. Ensure that information sharing is an ongoing, integral part of the management plan rather than a single event at time of presentation. <strong>[2008]</strong></p>
+<p>Agree individualised self-management strategies with the person with osteoarthritis. Ensure that positive behavioural changes, such as exercise, weight loss, use of suitable footwear and pacing, are appropriately targeted. <strong>[2008]</strong></p>
+<p><strong>Non-pharmacological Management</strong></p>
+<p>Advise people with osteoarthritis to exercise as a core treatment, irrespective of age, comorbidity, pain severity or disability. Exercise should include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Local muscle strengthening and </li>
+    <li>General aerobic fitness
+    <p>It has not been specified whether exercise should be provided by the National Health Service (NHS) or whether the healthcare professional should provide advice and encouragement to the person to obtain and carry out the intervention themselves. Exercise has been found to be beneficial but the clinician needs to make a judgement in each case on how to effectively ensure participation. This will depend upon the person's individual needs, circumstances and self-motivation, and the availability of local facilities. <strong>[2008]</strong></p>
+    </li>
+</ul>
+<p><strong>Referral for Consideration of Joint Surgery</strong></p>
+<p>Base decisions on referral thresholds on discussions between patient representatives, referring clinicians and surgeons, rather than using scoring tools for prioritisation. <strong>[2008, amended 2014]</strong></p>
+<p>Refer for consideration of joint surgery before there is prolonged and established functional limitation and severe pain. <strong>[2008, amended 2014]</strong></p>
+<p><strong>Follow-up and Review</strong></p>
+<p>Offer regular reviews to all people with symptomatic osteoarthritis. Agree the timing of the reviews with the person. Reviews should include:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Monitoring the person's symptoms and the ongoing impact of the condition on their everyday activities and quality of life </li>
+    <li>Monitoring the long-term course of the condition </li>
+    <li>Discussing the person's knowledge of the condition, any concerns they have, their personal preferences and their ability to access services </li>
+    <li>Reviewing the effectiveness and tolerability of all treatments </li>
+    <li>Support for self-management <strong>[new 2014]</strong> </li>
+</ul>
+<p>Consider an annual review for any person with one or more of the following:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Troublesome joint pain </li>
+    <li>More than one joint with symptoms </li>
+    <li>More than one comorbidity </li>
+    <li>Taking regular medication for their osteoarthritis <strong>[new 2014]</strong> </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+      <fieldvalue value="Safety"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Clinical Guideline Centre. Osteoarthritis. Care and management in adults.  London (UK): National Institute for Health and Care Excellence (NICE); 2014 Feb. 36 p.&amp;nbsp;(Clinical guideline; no. 177).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2008 Feb (revised 2014 Feb)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="National Guideline Centre - National Government Agency [Non-U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>National Institute for Health and Care Excellence (NICE)</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Guideline Development Group</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Guideline Development Group Members</em>: Erika Baker, Senior Pharmacist, Cheshire and Merseyside Commissioning Support Unit; Ian Bernstein, Musculoskeletal Physician, Ealing Hospital NHS Trust Community Services, and GP, Gordon House Surgery, London; Fraser Birrell, Consultant Rheumatologist, Northumbria Healthcare NHS Trust, and Honorary Clinical Senior Lecturer, University of Newcastle upon Tyne; Philip Conaghan (<em>Chair</em>), Consultant Rheumatologist, Leeds Teaching Hospitals Trust, and Professor of Musculoskeletal Medicine, University of Leeds; Jo Cumming, Patient member; Mike Doherty, Head of Academic Rheumatology, University of Nottingham, and Honorary Consultant Rheumatologist, Nottingham University Hospitals NHS Trust; Krysia Dziedzic, Arthritis Research UK Professor of Musculoskeletal Therapies, Research Institute of Primary Care and Health Sciences, Keele University, and NICE Fellow; Richard Frearson Consultant Physician/Geriatrician, The Newcastle upon Tyne Hospitals NHS Foundation Trust; Peter Kay, Consultant Lower Limb Arthroplasty Surgeon and Associate Medical Director, Wrightington Hospital; Brian Lucas, Lead Nurse, Practice and Innovation, The Queen Elizabeth Hospital King's Lynn NHS Foundation Trust; Robert Middleton, Consultant Orthopaedic Surgeon, Royal Bournemouth Hospital, and Director of Trauma, Poole Hospital; Mark Porcheret, Arthritis Research UK Senior Lecturer in General Practice, Research Institute of Primary Care &amp;amp; Health Sciences, Keele University; Elspeth Wise. GP, Encompass Healthcare, Tyne and Wear; Anthony Whiting, Patient member; Weiya Zhang, Reader, University of Nottingham</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>At the start of the guideline development process all Guideline Development Group (GDG) members declared interests including consultancies, fee-paid work, share-holdings, fellowships and support from the healthcare industry. At all subsequent GDG meetings, members declared arising conflicts of interest, which were also recorded (see Appendix B in the full version of the original guideline document [see the &quot;Availability of Companion Documents&quot; field]).</p>
+<p>Members were either required to withdraw completely or for part of the discussion if their declared interest made it appropriate. The details of declared interests and the actions taken are shown in Appendix B in the full version of the original guideline document.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: National Collaborating Centre for Chronic Conditions. Osteoarthritis. The care and management of osteoarthritis in adults. London (UK): National Institute for Health and Clinical Excellence (NICE); 2008 Feb. 22 p. (Clinical guideline; no. 59).</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;http://guidance.nice.org.uk/CG177&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. Also available for download as a Kindle or EPUB ebook from the <a href=&quot;http://publications.nice.org.uk/osteoarthritis-cg177&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Osteoarthritis. Care and management in adults. Full guideline. London (UK): National Institute for Health and Care Excellence (NICE); 2014 Feb. 505 p. (Clinical guideline; no. 177). Electronic copies: Available in Portable Document Format (PDF) from the <a href=&quot;https://www.nice.org.uk/guidance/cg177/evidence/full-guideline-191761309&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. </li>
+    <li>Osteoarthritis. Care and management in adults. Appendices. London (UK): National Institute for Health and Care Excellence (NICE); 2014 Feb. (Clinical guideline; no. 177). Electronic copies: Available in PDF from the <a href=&quot;https://www.nice.org.uk/guidance/cg177/evidence/appendices-191761310&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Osteoarthritis. Care and management in adults. Baseline assessment tool. London (UK): National Institute for Health and Care Excellence; 2014 Feb. (Clinical guideline; no. 177). Electronic copies: Available from the <a href=&quot;https://www.nice.org.uk/guidance/cg177/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Costing tool: Osteoarthritis. Implementing the NICE guideline on osteoarthritis (CG177). London (UK): National Institute for Health and Care Excellence; 2014 Feb. 29 p. (Clinical guideline; no. 177). Electronic copies: Available in PDF from the <a href=&quot;https://www.nice.org.uk/guidance/cg177/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Osteoarthritis. Care and management in adults. Costing template. London (UK): National Institute for Health and Care Excellence; 2014 Feb. Various p. (Clinical guideline; no. 177). Electronic copies: Available from the <a href=&quot;https://www.nice.org.uk/guidance/cg177/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>The guidelines manual 2012. London (UK): National Institute for Health and Care Excellence (NICE); 2012 Nov. Electronic copies: Available from the <a href=&quot;http://www.webarchive.org.uk/wayback/archive/20140616145005/http://publications.nice.org.uk/the-guidelines-manual-pmg6&quot; title=&quot;NICE Archive Web site&quot;>NICE Archive Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Osteoarthritis. Care and management in adults. Information for the public. London (UK): National Institute for Health and Care Excellence (NICE); 2014 Feb. (Clinical guideline; no. 177). Electronic copies: Available in Portable Document Format (PDF) from the <a href=&quot;https://www.nice.org.uk/guidance/CG177/ifp/chapter/About-this-information&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. Also available for download as a Kindle or EPUB ebook from the <a href=&quot;https://www.nice.org.uk/guidance/CG177/ifp/chapter/About-this-information&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This summary was completed by ECRI Institute on August 12, 2009. This summary was updated by ECRI Institute on July 26, 2010 following the U.S. Food and Drug Administration (FDA) advisory on Proton Pump Inhibitors (PPI). This summary was updated by ECRI Institute on October 28, 2013 following the U.S. Food and Drug Administration advisory on Acetaminophen. This summary was updated by ECRI Institute on May 29, 2014. This summary was updated by ECRI Institute on September 21, 2015 following the U.S. Food and Drug Administration advisory on non-aspirin nonsteroidal anti-inflammatory drugs (NSAIDs). This summary was updated by ECRI Institute on June 2, 2016 following the U.S. Food and Drug Administration advisory on Opioid pain medicines. This summary was updated by ECRI Institute on October 21, 2016 following the U.S. Food and Drug Administration advisory on opioid pain and cough medicines combined with benzodiazepines.</p>
+<p>The National Institute for Health and Care Excellence (NICE) has granted the National Guideline Clearinghouse (NGC) permission to include summaries of their clinical guidelines with the intention of disseminating and facilitating the implementation of that guidance. NICE has not yet verified this content to confirm that it accurately reflects that original NICE guidance and therefore no guarantees are given by NICE in this regard. All NICE clinical guidelines are prepared in relation to the National Health Service in England and Wales. NICE has not been involved in the development or adaptation of NICE guidance for use in any other country. The full versions of all NICE guidance can be found at <a href=&quot;http://www.nice.org.uk/&quot; title=&quot;NICE Web site&quot;>www.nice.org.uk</a>.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 02:13:58 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:21:47 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 259.4 (3)
+  esindex: 0.009
+  captures_list: 274.458
+  CDXLines.iter: 11.492 (3)
+  PetaboxLoader3.datanode: 91.689 (4)
+  exclusion.robots: 0.268
+  exclusion.robots.policy: 0.253
+  RedisCDXSource: 0.447
+  PetaboxLoader3.resolve: 233.798 (2)
+  load_resource: 121.681
+-->

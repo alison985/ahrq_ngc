@@ -1,0 +1,782 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app18.us.archive.org';v.server_ms=336;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10274?contentType=xml', '20180716002248')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180716002248/https://www.guideline.gov/summaries/downloadcontent/ngc-10274?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180716002248/https://www.guideline.gov/summaries/downloadcontent/ngc-10274?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10274?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180716002248" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610054317/https://www.guideline.gov/summaries/downloadcontent/ngc-10274?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 00:22:48 Jul 16, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180712230449/https://www.guideline.gov/summaries/downloadcontent/ngc-10274?contentType=xml" title="23:04:49 Jul 12, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 00:22:48 Jul 16, 2018">16</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930200705/https://www.guideline.gov/summaries/downloadcontent/ngc-10274?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 00:22:48 Jul 16, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180716002248*/https://www.guideline.gov/summaries/downloadcontent/ngc-10274?contentType=xml" title="See a list of every capture for this URL">7 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 16 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/liveweb)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/liveweb" target="_new"><span class="wm-title">Live Web Proxy Crawls</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Content crawled via the <a href="http://archive.org/web/web.php">Wayback Machine</a> Live Proxy mostly by the Save Page Now feature on web.archive.org.
+<br /><br />
+Liveweb proxy is a component of Internet Archive�s wayback machine project. The liveweb proxy captures the content of a web page in real time, archives it into a ARC or WARC file and returns the ARC/WARC record back to the wayback machine to process. The recorded ARC/WARC file becomes part of the wayback machine in due course of time.
+<br /><br />
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10274?contentType=xml","2018-07-16",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>SOLUTIONS&amp;reg; wound care algorithm.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>ConvaTec. SOLUTIONS® wound care algorithm. Princeton (NJ): ConvaTec; 2013 Sep. 16 p.  [103 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: ConvaTec. SOLUTIONS wound care algorithm. Princeton (NJ): ConvaTec; 2008. 8 p.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Levels of evidence (<strong>A-C</strong>) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p>The recommendations for wound care are presented in the form of 8 algorithms provided at the ConvaTec Web site. Each algorithm corresponds to one of the following observed wound assessments:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><a href=&quot;http://marketingworld.convatec.com/MarketingZone/MZDirect/Source/35838ecc-e627-4506-abd7-73289fc93801&quot; title=&quot;ConvaTec Web site&quot;>Dry wound, minimal moisture: &amp;le;25% necrotic tissue/fibrin slough</a> </li>
+    <li><a href=&quot;http://marketingworld.convatec.com/MarketingZone/MZDirect/Source/3a1192c7-df33-4ff8-b0c7-a3494f022bf4&quot; title=&quot;ConvaTec Web site&quot;>Dry wound, minimal moisture: &amp;gt;25% necrotic tissue/fibrin slough</a> </li>
+    <li><a href=&quot;http://marketingworld.convatec.com/MarketingZone/MZDirect/Source/08f7e63e-adec-424e-a558-6c6f0c8e4111&quot; title=&quot;ConvaTec Web site&quot;>Moist-lightly exuding: &amp;le;25% necrotic tissue/fibrin slough</a> </li>
+    <li><a href=&quot;http://marketingworld.convatec.com/MarketingZone/MZDirect/Source/1225d568-8b44-468f-aeed-f3a255efd959&quot; title=&quot;ConvaTec Web site&quot;>Moist-lightly exuding: &amp;gt;25% necrotic tissue/fibrin slough</a> </li>
+    <li><a href=&quot;http://marketingworld.convatec.com/MarketingZone/MZDirect/Source/c48a7be7-cc38-4e21-aaac-d7f7ffa392d2&quot; title=&quot;ConvaTec Web site&quot;>Moist-moderately exuding: &amp;le;25% necrotic tissue/fibrin slough</a> </li>
+    <li><a href=&quot;http://marketingworld.convatec.com/MarketingZone/MZDirect/Source/0da507f2-a33c-467f-8c87-20e6b40097f9&quot; title=&quot;ConvaTec Web site&quot;>Moist-moderately exuding: &amp;gt;25% necrotic tissue/fibrin slough</a> </li>
+    <li><a href=&quot;http://marketingworld.convatec.com/MarketingZone/MZDirect/Source/04fc9f61-9d7e-40da-b45c-1af17047827f&quot; title=&quot;ConvaTec Web site&quot;>Wet-heavily exuding: &amp;le;25% necrotic tissue/fibrin slough</a> </li>
+    <li><a href=&quot;http://marketingworld.convatec.com/MarketingZone/MZDirect/Source/7cb9603e-7d25-4698-bbf7-2dec0cf2e752&quot; title=&quot;ConvaTec Web site&quot;>Wet-heavily exuding: &amp;gt;25% necrotic tissue/fibrin slough</a> </li>
+</ul>
+<p>The following recommendations support the goal of Solutions Algorithms:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To facilitate health care professionals' decision making by providing stepwise management and evaluation strategies for acute and chronic would care </li>
+    <li>To reduce patient risk factors for delayed wound healing and prevent wound complications </li>
+</ul>
+<p><strong>Goals, Guideline, and Outcomes of Patient Care</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>For all chronic or acute wound care patients goals of patient care include reducing risk factors for ulcer development and delayed healing and preventing wound complications and promoting healing in addition to providing local wound care (Adam et al., 2003; Alexanderhouse Group, 1992; Kerstein, 1996; de Laat, Scholte op Reimer, &amp;amp; van Achterberg, 2005; Lewis &amp;amp; Lipp, 2012; Association for the Advancement of Wound Care [AAWC], &quot;Association for the Advancement of Wound Care [AAWC] venous ulcer guideline,&quot; 2010; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010). [<strong>Level A</strong>] </li>
+    <li>For all chronic or acute wounds, re‐evaluate plan of care or address underlying etiology if the wound has not decreased in area during 2 to 4 weeks of care (Arnold et al., 1994; Kantor &amp;amp; Margolis, 1998, 2000; Phillips et al., 2000; Sheehan et al., 2003; van Rijswijk, 1993; van Rijswijk &amp;amp; Polansky, 1994). [<strong>Level A</strong>] </li>
+    <li>Include the following as goals of pressure ulcer patient care:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Reduce risk factors identified by individual items on Braden Risk Scale (Bolton, 2007; AAWC,&amp;nbsp;&quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010). [<strong>Level A</strong>] </li>
+        <li>Prevent complications (Agency for Health Care Policy and Research [AHCPR], 1992; Lyder et al., 2002) and promote healing (Bergstrom et al., 1994; Kerstein et al., 2001; Kobza &amp;amp; Scheurich, 2000; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010). [<strong>Level A</strong>] </li>
+    </ol>
+    </li>
+    <li>Include the following as goals of acute wound patient care:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Prevent complications and promote healing (Franz, Steed, &amp;amp; Robson, 2007; Langemo &amp;amp; Brown, 2006; McIsaac, 2005). [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+    <li>Include measures to prevent pressure ulcer development and delayed healing in patient care plan:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Minimize effect of risk factors for the development of pressure ulcers and delayed healing (e.g., pressure, shear, friction, nutritional deficiencies, dehydration and dry skin conditions, skin exposure to moisture or wound contamination secondary to incontinence, perspiration or other fluids) (Lyder et al., 2002; AHCPR, 1992; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010). [<strong>Level C</strong>] </li>
+        <li>For pressure ulcers or acute wounds confirm and treat infection if needed (Gardner et al., 2006; Franz, Steed, &amp;amp; Robson, 2007; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010). [<strong>Level C</strong>] </li>
+        <li>Assess and manage wound odor (Bergstrom et al., 1994; Gardner, Frantz, &amp;amp; Doebbeling, 2001; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010). [<strong>Level C</strong>] </li>
+        <li>Assess and manage wound pain (Bergstrom et al., 1994; Gardner, Frantz, &amp;amp; Doebbeling, 2001; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010). [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+    <li>Include the following as expected outcomes for acute wound or pressure ulcer patient care:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Wound is not infected and is healing as evidenced by a reduction in size after 2 to 4 weeks of care (Kantor &amp;amp; Margolis, 1998; van Rijswijk &amp;amp; Polansky, 1994; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010). [<strong>Level A</strong>] </li>
+        <li>No evidence of additional skin breakdown (Gardner, Frantz, &amp;amp; Doebbeling, 2001; Franz, Steed, &amp;amp; Robson, 2007; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010). [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+    <li>Include the following as goals of venous ulcer patient care:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Reduce risk factors for the development of venous ulcers and delayed healing, such as lower leg edema (O'Meara et al., 2012; Duby et al., 1993). [<strong>Level A</strong>] </li>
+        <li>Prevent complications and promote healing (Bolton et al., 2004; Bolton et al., 2006; Kerstein, 1996; Kobza &amp;amp; Scheurich, 2000; McIsaac, 2005). [<strong>Level A</strong>] </li>
+    </ol>
+    </li>
+    <li>Include measures to prevent venous ulcer development and delayed healing in patient care plan:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>To reduce risk factors, order lower leg elevation (AAWC, 2005) [<strong>Level C</strong>], ambulation (AAWC, 2005) [<strong>Level C</strong>] and compression (O'Meara et al., 2012). [<strong>Level A</strong>] If patient is not ambulatory, assure frequent ankle flexes. [<strong>Level C</strong>] </li>
+        <li>Review surgical and medical management options (AAWC, 2005) [<strong>Level A</strong>] and use compression bandages if appropriate (O'Meara et al., 2012). [<strong>Level A</strong>] </li>
+        <li>Provide patient and/or caregiver teaching and support (AAWC, 2005). [<strong>Level A</strong>] </li>
+        <li>Confirm and treat infection if needed (Gardner, Frantz, &amp;amp; Doebbeling, 2001). [<strong>Level C</strong>] </li>
+        <li>Assess and manage wound pain (Arnold et al., 1994; Charles, 2002; Charles et al., 2002; Harding et al., 2001; Polignano, Guarnera, &amp;amp; Bonadeo, 2004). [<strong>Level A</strong>] </li>
+        <li>Assess and manage wound odor (Cordts et al., 1992; J&amp;oslash;rgensen et al., 2005; Ashton, 2004). [<strong>Level A</strong>] </li>
+    </ol>
+    </li>
+    <li>Include the following as expected outcomes for venous ulcer patient care:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Wound is not infected and healing as evidenced by a reduction in size after 2 to 4 weeks of care (Kantor &amp;amp; Margolis; 1998; Phillips et al., 2000; van Rijswijk, 1993; AAWC, &quot;Association for the Advancement of Wound Care [AAWC] venous ulcer guideline,&quot; 2010). [<strong>Level A</strong>] </li>
+        <li>No evidence of new skin breakdown (Gardner, Frantz, &amp;amp; Doebbeling, 2001). [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+    <li>Include the following as goals of patient care for mixed arterial/venous ulcers:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Reduce risk factors for the development of mixed arterial/venous ulcers and delayed healing (Kerstein, 1996; National Clinical Guideline Centre, 2012). [<strong>Level C</strong>] </li>
+        <li>Prevent complications and promote healing (McIsaac, 2005). [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+    <li>Include measures to prevent mixed arterial/venous ulcer development and delayed healing in patient care plan:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Reduce risk factors (e.g., smoking, hypertension, inactivity, hyperlipidemia, hyperglycemia) (Kerstein, 1996; National Clinical Guideline Centre, 2012). [<strong>Level C</strong>] </li>
+        <li>Review surgical/medical management options to improve arterial circulation and compression bandages if appropriate (Kerstein, 1996; National Clinical Guideline Centre, 2012). [<strong>Level C</strong>] </li>
+        <li>Provide patient and/or caregiver teaching and support (Kerstein, 1996; National Clinical Guideline Centre, 2012). [<strong>Level C</strong>] </li>
+        <li>Confirm and treat infection if needed (Gardner, Frantz, &amp;amp; Doebbeling, 2001; Gardner et al., 2006). [<strong>Level B2</strong>] </li>
+        <li>Assess and manage wound pain (Daniels et al., 2002; Koksal &amp;amp; Bozkurt, 2003; Phillips et al., 1994; Quintanal, 1999). [<strong>Level B1</strong>] </li>
+        <li>Assess and manage wound odor (Gardner, Frantz, &amp;amp; Doebbeling, 2001). [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+    <li>Include the following as expected outcomes for patient care plan of mixed arterial/venous ulcers:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Wound is not infected and is healing as evidenced by a reduction in size after 2 to 4 weeks of care (Kantor &amp;amp; Margolis; 1998; Phillips et al., 2000; van Rijswijk, 1993). [<strong>Level A</strong>] </li>
+        <li>No evidence of additional skin breakdown (Gardner, Frantz, &amp;amp; Doebbeling, 2001). [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+    <li>Include the following as goals of patient care for arterial ulcers:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Reduce risk factors for the development of arterial ulcers and delayed healing (Hopf et al., 2006; Tesfaye et al., 2005; National Clinical Guideline Centre, 2012). [<strong>Level C</strong>] </li>
+        <li>Prevent complications and promote healing (Hopf et al., 2006). [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+    <li>Include measures to prevent arterial ulcer development and delayed healing in patient care plan:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Reduce risk factors (e.g., smoking, hypertension, inactivity, hyperlipidemia, hyperglycemia) (Kerstein, 1996; National Clinical Guideline Centre, 2012). [<strong>Level C</strong>] </li>
+        <li>Review surgical/medical management options to improve circulation (Kerstein, 1996; National Clinical Guideline Centre, 2012). [<strong>Level C</strong>] </li>
+        <li>Provide patient and/or caregiver teaching and support (Kerstein, 1996; National Clinical Guideline Centre, 2012). [<strong>Level C</strong>] </li>
+        <li>Confirm and treat infection if needed (Gardner, Frantz, &amp;amp; Doebbeling, 2001; Gardner et al., 2006). [<strong>Level B</strong>] </li>
+        <li>Assess and manage wound pain (Daniels et al., 2002; Koksal &amp;amp; Bozkurt, 2003; Phillips, et al., 1994; Quintanal, 1999; Golinko et al., 2009). [<strong>Level B</strong>] </li>
+        <li>Assess and manage wound odor (Gardner, Frantz, &amp;amp; Doebbeling, 2001). [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+    <li>Include the following as expected outcomes for patient care plan of arterial ulcers:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Wound is not infected and is healing as evidenced by a reduction in size after 2 to 4 weeks of care (Kantor &amp;amp; Margolis; 1998; Phillips et al., 2000; van Rijswijk, 1993). [<strong>Level A</strong>] </li>
+        <li>No evidence of additional skin breakdown (Gardner, Frantz, &amp;amp; Doebbeling, 2001). [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+    <li>Include the following as goals of patient care for diabetic foot ulcers:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Reduce risk factors for the development of diabetic foot ulcers and delayed healing (Registered Nurses' Association of Ontario [RNAO], 2005; Frykberg et al., 2006; Brem et al., 2006). [<strong>Level C</strong>] </li>
+        <li>Prevent complications and promote healing (RNAO, 2005; Frykberg et al., 2006; Kobza &amp;amp; Scheurich, 2000; McIsaac, 2005). [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+    <li>Include measures to prevent diabetic foot ulcer development and delayed healing in patient care plan:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Reduce risk factors (e.g., smoking, hypertension, obesity, hyperlipidemia and high blood glucose levels) (Kerstein, 1996; Frykberg et al., 2006; Brem et al., 2006; Wound, Ostomy, and Continence Nurses Society [WOCN], 2012). [<strong>Level C</strong>] </li>
+        <li>Review surgical/medical management options and use appropriate off‐loading techniques (Lewis &amp;amp; Lipp, 2012; Kerstein, 1996; Frykberg et al., 2006, Brem et al., 2006). [<strong>Level B</strong>] </li>
+        <li>Provide patient and/or caregiver teaching and support (Kerstein, 1996; Frykberg et al., 2006; Brem et al., 2006). [<strong>Level C</strong>] </li>
+        <li>Confirm and treat infection or osteomyelitis, if needed (Frykberg et al., 2006; Brem et al., 2006; WOCN, 2012). [<strong>Level C</strong>] </li>
+        <li>Assess and manage wound pain, if relevant (Frykberg et al., 2006; Brem et al., 2006; WOCN, 2012). [<strong>Level C</strong>] </li>
+        <li>Assess and manage wound odor (Frykberg et al., 2006; Brem et al., 2006). [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+    <li>Include the following as expected outcomes for patient care plan of diabetic foot ulcers:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Wound is not infected and is healing as evidenced by a reduction in size after 2 to 4 weeks of care (Kantor &amp;amp; Margolis, 1998; Phillips et al., 2000; van Rijswijk, 1993; Sheehan et al., 2003). [<strong>Level A</strong>] </li>
+        <li>No evidence of additional skin breakdown (Gardner, Frantz, &amp;amp; Doebbeling, 2001; Brem et al., 2006). [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+</ol>
+<p><strong>Wound Assessment/Debridement/Treatment</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>For all acute and chronic wounds assess wound bed exudate, tissue types (granulation, epithelization, necrotic tissue or fibrin slough), wound dimensions (length, width and depth), and wound edges and surrounding skin (Bates Jensen, 1997; Bolton et al., 2004; Kantor &amp;amp; Margolis, 1998, 2000; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010). [<strong>Level A</strong>] </li>
+    <li>Assess for clinical signs and symptoms of infection if the patient has an acute or chronic wound (including pressure, venous, arterial, mixed arterial/venous or diabetic foot ulcer) and patient assessment reveals any of the following: elevated temperature, purulent exudate, foul purulent wound exudate, increasing wound pain, cellulitis, increasing wound size, undermining of the wound or peripheral wound induration (Thomson &amp;amp; Smith, 1994; Dow, 2003; Brem et al., 2006; Golinko et al., 2009; Gardner, Frantz, &amp;amp; Doebbeling, 2001; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010). [<strong>Level B</strong>] </li>
+    <li>Debride pressure ulcers with more than 25% necrotic tissue in the wound allowing professionals to select among these options: a) autolytic, b) enzymatic, c) surgical or sharp, d) other (Bergstrom et al., 1994; Burgos et al., 2000; Kerstein et al., 2001; RNAO, 2007; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010). [<strong>Level A</strong>] </li>
+    <li>Alert clinicians that an assessment has not been performed in 2 weeks:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>For pressure ulcer patient risk assessment (AHCPR, 1992; RNAO, 2005; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010) [<strong>Level C</strong>] or </li>
+        <li>For pressure ulcer wound assessment (Bergstrom et al., 1994; RNAO, 2007; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010) [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+    <li>Debride venous ulcers with more than 25% necrotic tissue in the wound allowing professionals to select among these options:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Autolytic (AAWC, &quot;Association for the Advancement of Wound Care [AAWC] venous ulcer guideline,&quot; 2010) [<strong>Level A</strong>] </li>
+        <li>Enzymatic (AAWC, &quot;Association for the Advancement of Wound Care [AAWC] venous ulcer guideline,&quot; 2010) [<strong>Level B</strong>] </li>
+        <li>Surgical (AAWC, &quot;Association for the Advancement of Wound Care [AAWC] venous ulcer guideline,&quot; 2010) [<strong>Level C</strong>] </li>
+        <li>Other (Bradley, Cullum, &amp;amp; Sheldon, 1999) [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+    <li>Debride mixed arterial/venous ulcers with more than 25% necrotic tissue in the wound allowing professionals to select among these options:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Autolytic (Mulder, 1995) </li>
+        <li>Enzymatic </li>
+        <li>Surgical </li>
+        <li>Other (Bradley, Cullum, &amp;amp; Sheldon, 1999) [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+    <li>Debride arterial ulcers with more than 25% necrotic tissue in the wound allowing professionals to select among these options once circulation is restored:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Autolytic </li>
+        <li>Enzymatic </li>
+        <li>Surgical </li>
+        <li>Other (Bradley, Cullum, &amp;amp; Sheldon, 1999) [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+    <li>Debride diabetic foot ulcers with more than 25% necrotic tissue in the wound allowing professionals to select among these options:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Autolytic (Mulder, 1995; Edwards &amp;amp; Stapley, 2010; WOCN, 2012) [<strong>Level A</strong>] </li>
+        <li>Enzymatic (Edwards &amp;amp; Stapley, 2010; WOCN, 2012) [<strong>Level C</strong>] </li>
+        <li>Surgical (Saap &amp;amp; Falanga, 2002; Steed et al., 1996, Brem et al., 2006; WOCN, 2012) [<strong>Level B</strong>] </li>
+        <li>Other (Bradley, Cullum, &amp;amp; Sheldon, 1999, Edwards &amp;amp; Stapley, 2010) [<strong>Level A</strong>] </li>
+    </ol>
+    </li>
+    <li>Debride pressure ulcers with more than 25% necrotic tissue in the wound allowing professionals to select among these options:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Autolytic (Mulder, 1995; Bradley, Cullum, &amp;amp; Sheldon, 1999; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010) [<strong>Level A</strong>] </li>
+        <li>Enzymatic (Alvarez et al., 2002; Bradley, Cullum, &amp;amp; Sheldon, 1999; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010) [<strong>Level C</strong>] </li>
+        <li>Surgical (Bradley, Cullum, &amp;amp; Sheldon, 1999; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010) [<strong>Level C</strong>] </li>
+        <li>Other (Bradley, Cullum, &amp;amp; Sheldon, 1999; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010) [<strong>Level A</strong>] </li>
+    </ol>
+    </li>
+    <li>Debride acute wounds with more than 25% necrotic tissue in the wound allowing professionals to select among these options:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Autolytic (Mulder, 1995; National Institute for Clinical Excellence [NICE], 2001; Smith et al.,2013) </li>
+        <li>Enzymatic (Sieggreen &amp;amp; Maklebust, 1997; Smith et al., 2013) </li>
+        <li>Surgical (Smith et al., 2013) </li>
+        <li>Other (Bradley, Cullum, &amp;amp; Sheldon, 1999) [<strong>Level B</strong>] </li>
+    </ol>
+    </li>
+    <li>After debriding any chronic or acute wound, before dressing the wound, obtain hemostasis if bleeding occurs (S&amp;oslash;renson, Jergens&amp;oslash;n, &amp;amp; Gottrup, 2004; Bergstrom et al., 1994). [<strong>Level C</strong>] </li>
+    <li>Describe surgical or sharp debridement of any chronic or acute wound as the removal of devitalized tissue using a scalpel, scissors or other sharp instrument (Edwards &amp;amp; Stapley, 2010; NICE, 2001; Bergstrom et al., 1994). [<strong>Level B</strong>] </li>
+    <li>Note the following with surgical or sharp debridement of any chronic or acute wound:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Procedure to be performed only by healthcare professionals who have demonstrated the clinical skills and who meet the relevant licensing requirements (Bradley, Cullum, &amp;amp; Sheldon, 1999; Smith et al., 2013). [<strong>Level B</strong>] </li>
+        <li>Before dressing the wound, obtain hemostasis if bleeding occurs (S&amp;oslash;renson, Jergens&amp;oslash;n, &amp;amp; Gottrup, 2004; Bergstrom et al., 1994). [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+    <li>Options for cleansing any chronic or acute wound include:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Pulsatile lavage, normal saline or other non‐toxic wound cleansers such as Shur‐Clens&amp;reg;, Biolex&amp;trade; or Irriclens&amp;reg; (Bergstrom et al., 1994; Rodeheaver et al., 1980; Morris, Dowlen, &amp;amp; Cullen, 1994; Moore &amp;amp; Cowman, 2013). [<strong>Level B</strong>] </li>
+    </ol>
+    </li>
+    <li>If the plan of care suggests use of a moisture retentive primary or secondary dressing, include as options: DuoDERM&amp;reg; CGF&amp;reg;, DuoDERM&amp;reg; CGF&amp;reg; Extra Thin or Comfeel: Plus&amp;reg; Ulcer Dressings:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>For any chronic wound (Chaby et al., 2007): diabetic foot ulcers (Boulton, Meneses, &amp;amp; Ennis, 1999; Laing, Cogley, &amp;amp; Klenerman, 1992; Brem et al., 2006); pressure ulcers (AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010; Bouza et al., 2005; de Laat, Scholte op Reimer, &amp;amp; van Achterberg, 2005; Jones &amp;amp; Fennie, 2007; Smitten &amp;amp; Bolton, 2005; Bradley et al, 1999; Cullum &amp;amp; Petherick, 2007; Health Quality Ontario, 2009); pressure and venous ulcers (Kerstein et al., 2001); radiated skin conditions (Mak et al., 2000; Petersen et al., 1991); venous ulcers (O'Donnell &amp;amp; Lau, 2006) [<strong>Level A</strong>] </li>
+        <li>For acute wounds (Goetze et al., 2006; Heffernan &amp;amp; Martin, 1994; Hoffman et al., 1995; Madden et al., 1989; Murharyo, 1996; Nemeth et al., 1991; Schmidt et al., 1996; Wiechula, 2003; Wasiak et al., 2012; Tan, Roberts, &amp;amp; Sinclair, 1993) [<strong>Level A</strong>] </li>
+    </ol>
+    </li>
+    <li>If the plan of care suggests use of an absorption dressing, include as options: CombiDERM&amp;reg; ACD&amp;trade; or other Island Dressing, AQUACEL&amp;reg; Hydrofiber&amp;reg; Dressing or Kaltostat&amp;reg; calcium sodium alginate dressing on:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>Any chronic wound (Bergstrom et al., 1994; Armstrong &amp;amp; Ruckley, 1997; Harding et al., 2001; Lyon et al., 1998; Piaggesi et al., 2001; Jude et al., 2007; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010; Health Quality Ontario, 2009) [<strong>Level A</strong>] </li>
+        <li>Acute wounds. (Kogan et al., 2004; Barnea et al., 2004; Foster &amp;amp; Moore, 1997) [<strong>Level A</strong>] </li>
+    </ol>
+    </li>
+    <li>If the plan of care suggests use of a hydration product on any chronic or acute wound, include as options: SAF‐Gel&amp;trade;, DuoDERM&amp;reg; Hydroactive&amp;reg; Gel or IntraSite&amp;reg; Gel (Ohura, Sahada, &amp;amp; Mino, 2004; Hutchinson &amp;amp; Lawrence, 1991; Romanelli, 1997; Wasiak et al., 2012; AAWC,&amp;nbsp;&quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010; Health Quality Ontario, 2009). [<strong>Level A</strong>] </li>
+    <li>If the plan of care suggests debridement and an enzymatic debridement method, is chosen, include as options: Santyl&amp;reg;, Accuzyme&amp;reg; or Panafil&amp;reg; (Burgos et al., 2000; Alvarez et al., 2002). [<strong>Level A</strong>] </li>
+    <li>Assessment of any acute or chronic wound includes the following:
+    <ol style=&quot;list-style-type: lower-alpha;&quot;>
+        <li>&quot;None&quot; or &quot;No undermining&quot;, &quot;None&quot; or &quot;No peripheral tissue induration&quot;, &quot;None&quot; or &quot;No edema&quot; (Bolton et al., 2004; AAWC, &quot;Association for the Advancement of Wound Care guideline of pressure ulcer guidelines,&quot; 2010) [<strong>Level C</strong>] </li>
+    </ol>
+    </li>
+</ol>
+<p><strong>Relevance of Selected Wound Assessment and Patient Care Recommendations to Evidence-Based Care</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>The wound assessment and patient care recommendations support evidence-based care for patients with acute and chronic wounds, including pressure ulcers, venous ulcers, mixed arterial/venous ulcers, and diabetic foot ulcers (Beitz &amp;amp; van Rijswijk, 1999, 2010, 2012; Bolton et al., 2004; Jones &amp;amp; Fennie, 2007). [<strong>Level B</strong>] </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><strong>Evidence Criteria and Definitions for Solutions&amp;reg; Algorithms Recommendations Evidence Base</strong></p>
+<ol style=&quot;list-style-type: upper-alpha;&quot;>
+    <li>Results of two or more randomized controlled trials (RCTs) in humans or a literature review (LR) or meta‐analysis (MA) containing same provide support of efficacy. For assessment and diagnosis recommendations or risk analysis of likely outcomes: two or more prospective cohort (CO) studies </li>
+    <li>Results of two or more historically controlled trials (HCTs) or case controlled trials (CCTs) or a HCT or CCT provide support of efficacy plus:
+    <ol style=&quot;list-style-type: decimal;&quot;>
+        <li>One RCT in humans or a LR or MA containing same </li>
+        <li>For assessment and diagnosis recommendations or risk analysis of likely outcomes: two or more prospective CO studies </li>
+        <li>Or when appropriate, results of two or more RCTs in an animal model validated as clinically relevant to the acute or chronic wound discussed and/or retrospective case series (RCS) provide indirect support </li>
+    </ol>
+    </li>
+    <li>This rating requires one or more of the following:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>C1: Results of one controlled trial (e.g., RCT, CCT or HCT) (or for assessment and diagnosis recommendations or risk prediction one prospective CO study) </li>
+        <li>C2: Results of at least two case series (CS) or descriptive studies or a retrospective cohort study in humans </li>
+        <li>C3: Expert opinion (EO) </li>
+    </ul>
+    </li>
+</ol>
+<p class=&quot;Note&quot;>Adapted from AHRQ (Formerly AHCPR) Pressure Ulcer (PU) Treatment Guidelines Levels of Evidence‐‐modified for generality to all chronic wounds.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following algorithms are provided at the ConvaTec Web site:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><a href=&quot;http://www.convatec.com/media/4189783/ap-009210-1.pdf&quot; title=&quot;ConvaTec Web site&quot;>Dry wound, minimal moisture: &amp;le;25% necrotic tissue/fibrin slough</a> </li>
+    <li><a href=&quot;http://www.convatec.com/media/4189788/ap-009210-2.pdf&quot; title=&quot;ConvaTec Web site&quot;>Dry wound, minimal moisture: &amp;gt;25% necrotic tissue/fibrin slough</a> </li>
+    <li><a href=&quot;http://www.convatec.com/media/4189793/ap-009210-3.pdf&quot; title=&quot;ConvaTec Web site&quot;>Moist-lightly exuding: &amp;le;25% necrotic tissue/fibrin slough</a> </li>
+    <li><a href=&quot;http://www.convatec.com/media/4189798/ap-009210-4.pdf&quot; title=&quot;ConvaTec Web site&quot;>Moist-lightly exuding: &amp;gt;25% necrotic tissue/fibrin slough</a> </li>
+    <li><a href=&quot;http://www.convatec.com/media/4189803/ap-009210-5.pdf&quot; title=&quot;ConvaTec Web site&quot;>Moist-moderately exuding: &amp;le;25% necrotic tissue/fibrin slough</a> </li>
+    <li><a href=&quot;http://www.convatec.com/media/4189808/ap-009210-6.pdf&quot; title=&quot;ConvaTec Web site&quot;>Moist-moderately exuding: &amp;gt;25% necrotic tissue/fibrin slough</a> </li>
+    <li><a href=&quot;http://www.convatec.com/media/4189813/ap-009210-7.pdf&quot; title=&quot;ConvaTec Web site&quot;>Wet-heavily exuding: &amp;le;25% necrotic tissue/fibrin slough</a> </li>
+    <li><a href=&quot;http://www.convatec.com/media/4189818/ap-009210-8.pdf&quot; title=&quot;ConvaTec Web site&quot;>Wet-heavily exuding: &amp;gt;25% necrotic tissue/fibrin slough</a> </li>
+</ul></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Acute and chronic wounds including arterial, diabetic, pressure, venous, or mixed arterial-venous ulcers</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Dermatology"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Geriatrics"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Nursing"/>
+      <fieldvalue value="Physical Medicine and Rehabilitation"/>
+      <fieldvalue value="Plastic Surgery"/>
+      <fieldvalue value="Surgery"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physical Therapists"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Podiatrists"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To facilitate health care professionals' decision making by providing stepwise management and evaluation strategies for acute and chronic wound care </li>
+    <li>To reduce patient risk factors for delayed wound healing and prevent wound complications </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients with acute and chronic wounds</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>Assessment of wound bed exudate, tissue types, wound dimensions, wound edges, and surrounding skin </li>
+    <li>Assessment for signs and symptoms of infection </li>
+    <li>Cleansing and debridement of wound (autolytic, enzymatic, or surgical debridement) </li>
+    <li>Wound dressing (moisture retentive dressing, wound hydration) </li>
+    <li>Reduction of risk factors for developing chronic ulcers and delayed healing, including a preventative patient care plan </li>
+    <li>Patient education and support </li>
+    <li>Treatment of infection, as needed </li>
+    <li>Assessment and management of wound pain and odor </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Pressure ulcer incidence </li>
+    <li>Wound healing time or percent healed </li>
+    <li>Complication rate</li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The development of the initial algorithms, and their subsequent content validation in 2001,&amp;nbsp;was based on evidence obtained from Medline and CINHAL literature searches for the time period between 1992 and 2001. The Medline search was updated again in 2005, covering the period 2001-2005. No further changes to the algorithm were required as a result of that search.</p>
+<p>For the 2008 update, MEDLINE&amp;reg; and Cochrane databases were searched systematically for all relevant subject terms in each covering the period 2006-2008. Up to 3 of the best available references were used for each relevant recommendation.</p>
+<p><strong>2013 Update Procedures</strong></p>
+<p>A targeted literature search to identify publications with the highest levels of evidence was conducted.</p>
+<p><strong>Cochrane Library</strong>: A broad search of the Cochrane library was conducted. Search strategy: <em>Reviews</em>; Keyword, title or abstract contains: <em>wound</em> or <em>ulcer</em>. All reviews were considered and, if appropriate and published between 2009 and 2013, the evidence and reference in the guideline was updated. Two previously used Cochrane intervention reviews were updated and two new reviews were available and included in the evidence summary. The strength of one recommendation related to diabetic foot ulcer supportive care changed from &quot;C&quot; to &quot;B&quot; level evidence. No other intervention reviews containing important evidence for algorithm steps or themes were identified.</p>
+<p><strong>National Guideline Clearinghouse</strong>: Current (2009-2013) clinical practice guidelines were identified using the search terms &quot;wound&quot;, &quot;dressings&quot;, or &quot;ulcers&quot;. Updated or newly available guidelines were identified, reviewed, and included in the evidence summary. Levels of evidence did not change.</p>
+<p><strong>Medline</strong>: Search terms used: meta-analysis <em>and</em> pressure ulcer, <em>or</em> venous ulcer, <em>or</em> diabetic foot ulcer, <em>or</em> arterial ulcer, <em>or</em> burn wounds <em>or</em> surgical wounds (limit Jan. 2009-Sept. 2013). Only one new (pressure ulcer) meta-analysis with relevant results was identified and included in the evidence summary. Level of evidence did not change. Most searches yielded duplicate publications (Cochrane database).</p>
+<p><strong>Hand Search</strong>: Two publications supporting the content validity of the algorithms were added. One details a content validation study of the algorithms when used by non-wound-expert nurses. The second study describes the development and testing of an on-line interactive program designed to help non-wound-experts provide evidence-based wound care using algorithms and wound photographs.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>51</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Evidence Criteria and Definitions for Solutions&amp;reg; Algorithms Recommendations Evidence Base</strong></p>
+<ol style=&quot;list-style-type: upper-alpha;&quot;>
+    <li>Results of two or more randomized controlled trials (RCTs) in humans or a literature review (LR) or meta‐analysis (MA) containing same provide support of efficacy. For assessment and diagnosis recommendations or risk analysis of likely outcomes: two or more prospective cohort (CO) studies </li>
+    <li>Results of two or more historically controlled trials (HCTs) or case controlled trials (CCTs) or a HCT or CCT provide support of efficacy plus:
+    <ol style=&quot;list-style-type: decimal;&quot;>
+        <li>One RCT in humans or a LR or MA containing same </li>
+        <li>For assessment and diagnosis recommendations or risk analysis of likely outcomes: two or more prospective CO studies </li>
+        <li>Or when appropriate, results of two or more RCTs in an animal model validated as clinically relevant to the acute or chronic wound discussed and/or retrospective case series (RCS) provide indirect support </li>
+    </ol>
+    </li>
+    <li>This rating requires one or more of the following:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>C1: Results of one controlled trial (e.g., RCT, CCT or HCT) (or for assessment and diagnosis recommendations or risk prediction one prospective CO study) </li>
+        <li>C2: Results of at least two case series (CS) or descriptive studies or a retrospective cohort study in humans </li>
+        <li>C3: Expert opinion (EO) </li>
+    </ul>
+    </li>
+</ol>
+<p class=&quot;Note&quot;>Adapted from AHRQ (Formerly AHCPR) Pressure Ulcer (PU) Treatment Guidelines Levels of Evidence‐‐modified for generality to all chronic wounds.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review"/>
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Not stated"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline developers reviewed published cost analyses.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Clinical Validation-Trial Implementation Period"/>
+      <fieldvalue value="External Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Validation of Original Algorithms</strong></p>
+<p>Each step in the original Solutions&amp;reg; algorithms was formally content validated by wound care professionals (44 wound care nurses in 1998&amp;ndash;1999). The final version was again content validated by a multidisciplinary group of 21 invited global opinion leaders in wound care, including physicians of varying specialties, nurses, and other wound care specialists. Subsequently, using a standardized content validation process and photographs of acute and chronic wounds, content validity of algorithm components and the ability of non-wound care experts to correctly, validly, and reliably select the most appropriate algorithm and treatment (construct validity and reliability) was established in a study involving 204 registered nurses.</p>
+<p>This process also measured clinical healing outcomes during real-world use of the algorithms.</p>
+<p>See the &quot;Availability of Companion Documents&quot; field.</p>
+<p><strong>Validation of Current Version</strong></p>
+<p>Members of the Guideline Task Force of the Association for the Advancement of Wound Care were invited to review the algorithms, the supporting evidence, and the process used to develop them using the AGREE&amp;reg; II Instrument.</p>
+<p>The group met in April 2012 at a National Wound Care Conference. Following a brief introduction about the process, wound experts reviewed the Algorithms and all accompanying recommendations/levels of evidence as available at <a href=&quot;http://www.guideline.gov&quot; title=&quot;NGC Web site&quot; target=&quot;_blank&quot;>www.guideline.gov</a> and completed the AGREE II instrument. All responses were anonymous and conflict of interest statements were signed. Seven volunteers completed the instrument. Only two of the six domains had a score &amp;lt;83%. Specifically, domain 2 (stakeholder involvement - especially patients) received a score of 75% and domain 6 (editorial independence) received a score of 63%. Five reviewers indicated they would adopt the algorithms in practice.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="98" ordby="605" id="425" name="References Supporting the Recommendations" type="citation">
+      <fieldvalue value="<table><tr><td>Adam DJ, Naik J, Hartshorne T, Bello M, London NJ. The diagnosis and management of 689 chronic leg ulcers in a single-visit assessment clinic. Eur J Vasc Endovasc Surg. 2003 May;25(5):462-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12713787&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Agency for Health Care Policy and Research (AHCPR). Pressure ulcers in adults: prediction and prevention. Rockville (MD): U.S. Department of Health and Human Services, Public Health Service, AHCPR; 1992 May. 63 p.&amp;nbsp;(Clinical practice guideline; no. 3).&amp;nbsp; [127 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Alexanderhouse group consensus paper on venous leg ulcers. Phlebology. 1992;7:48-58.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Alvarez OM, Fernandez-Obregon A, Rogers RS, et al. A prospective, randomized, comparative study of collagenase and papain-urea for pressure ulcer debridement. Wounds. 2002;14:293-301.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Armstrong SH, Ruckley CV. Use of a fibrous dressing in exuding leg ulcers. J Wound Care. 1997 Jul;6(7):322-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9325826&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Arnold TE, Stanley JC, Fellows EP, Moncada GA, Allen R, Hutchinson JJ, Swartz WM, Bolton LL, Vickers CF, Kerstein MD. Prospective, multicenter study of managing lower extremity venous ulcers. Ann Vasc Surg. 1994 Jul;8(4):356-62. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7947061&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ashton J. Managing leg and foot ulcers: the role of Kerraboot. Br J Community Nurs. 2004 Sep;9(9):S26-30. [16 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15389156&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Association for the Advancement of Wound Care (AAWC) venous ulcer guideline. Malvern (PA): Association for the Advancement of Wound Care (AAWC); 2010 Dec. 7 p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Association for the Advancement of Wound Care (AAWC). Association for the Advancement of Wound Care guideline of pressure ulcer guidelines. Malvern (PA): Association for the Advancement of Wound Care (AAWC); 2010. 14 p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Association for the Advancement of Wound Care (AAWC). Summary algorithm for venous ulcer care. National Guideline Clearinghouse; 2005 Jul 29. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Barnea Y, Amir A, Leshem D, Zaretski A, Weiss J, Shafir R, Gur E. Clinical comparative study of aquacel and paraffin gauze dressing for split-skin  donor site treatment. Ann Plast Surg. 2004 Aug;53(2):132-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15269581&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bates-Jensen BM. The Pressure Sore Status Tool a few thousand assessments later. Adv Wound Care. 1997 Sep;10(5):65-73. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9362584&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Beitz JM, van Rijswijk L. A cross-sectional study to validate wound care algorithms for use by registered nurses. Ostomy Wound Manage. 2010 Apr 1;56(4):46-59. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20424292&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Beitz JM, van Rijswijk L. Development and validation of an online interactive, multimedia wound care algorithms program. J Wound Ostomy Continence Nurs. 2012 Jan-Feb;39(1):23-34. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22089765&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Beitz JM, van Rijswijk L. Using wound care algorithms: a content validation study. J Wound Ostomy Continence Nurs. 1999 Sep;26(5):238-9, 241-9. [39 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10795206&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bergstrom N, Bennett MA, Carlson CE, et al. Treatment of pressure ulcers. Rockville (MD): Agency for Healthcare Research and Quality; 1994. &amp;nbsp;(Clinical practice guideline; no. 15).&amp;nbsp;</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bolton L, Corbett L, Bernato L, Dotson P, Laraus S, Merkle D, Patterson G, Phillips T, McNees P, Riedesel PP, Sheehan P, Government and Regulatory Task Force, Association for the Advancement of Wound Care. Development of a content-validated venous ulcer guideline. Ostomy Wound Manage. 2006 Nov;52(11):32-48. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17146117&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bolton L, McNees P, van Rijswijk L, de Leon J, Lyder C, Kobza L, Edman K, Scheurich A, Shannon R, Toth M, Wound Outcomes Study Group. Wound-healing outcomes using standardized assessment and care in clinical practice. J Wound Ostomy Continence Nurs. 2004 Mar-Apr;31(2):65-71. [16 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15209428&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bolton L. Which pressure ulcer risk assessment scales are valid for use in the clinical setting. J Wound Ostomy Continence Nurs. 2007 Jul-Aug;34(4):368-81. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17667083&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Boulton AJ, Meneses P, Ennis WJ. Diabetic foot ulcers: A framework for prevention and care. Wound Repair Regen. 1999 Jan-Feb;7(1):7-16. [78 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10231501&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bouza C, Saz Z, Munoz A, Amate JM. Efficacy of advanced dressings in the treatment of pressure ulcers: a systematic  review. J Wound Care. 2005 May;14(5):193-9. [66 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15909431&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bradley M, Cullum N, Nelson EA, Petticrew M, Sheldon T, Torgerson D. Systematic reviews of wound care management: (2). Dressings and topical agents used in the healing of chronic wounds. Health Technol Assess. 1999;3(17 Pt 2):1-35. [140 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10683589&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bradley M, Cullum N, Sheldon T. The debridement of chronic wounds: a systematic review. Health Technol Assess. 1999;3(17 Pt 1):iii-iv, 1-78. [62 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10492854&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Brem H, Sheehan P, Rosenberg HJ, Schneider JS, Boulton AJ. Evidence-based protocol for diabetic foot ulcers. Plast Reconstr Surg. 2006 Jun;117(7 Suppl):193S-209S; discussion 210. [161 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16799388&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Burgos A, Giminez J, Moreno E, Lamberto E, Utrera M, Urraca EM, Velez JJ, Lopez E, Martinez MA, Gomez MJ, Garcia L. Cost efficacy, efficiency and tolerability of collagenase ointment versus hydrocolloid occlusive dressing in the treatment of pressure ulcers: a comparative, randomised, multicentre study. Clin Drug Investig. 2000;19(5):357-65.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Chaby G, Senet P, Vaneau M, Martel P, Guillaume JC, Meaume S, Teot L, Debure C, Dompmartin A, Bachelet H, Carsin H, Matz V, Richard JL, Rochet JM, Sales-Aussias N, Zagnoli A, Denis C, Guillot B, Chosidow O. Dressings for acute and chronic wounds: a systematic review. Arch Dermatol. 2007 Oct;143(10):1297-304. [108 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17938344&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Charles H, Callicot C, Mathurin D, Ballard K, Hart J. Randomised, comparative study of three primary dressings for the treatment of venous ulcers. Br J Community Nurs. 2002 Jun;7(6 Suppl):48-54. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12066081&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Charles H. Venous leg ulcer pain and its characteristics. J Tissue Viability. 2002 Oct;12(4):154-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12476504&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Cordts PR, Hanrahan LM, Rodriguez AA, Woodson J, LaMorte WW, Menzoian JO. A prospective, randomized trial of Unna's boot versus Duoderm CGF hydroactive dressing plus compression in the management of venous leg ulcers. J Vasc Surg. 1992 Mar;15(3):480-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1538504&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Cullum N, Petherick E. Pressure ulcers. BMJ Clinical Evidence. [internet]. 2007 Feb&amp;nbsp;[accessed 2008 Feb 01]. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Daniels S, Sibbald RG, Ennis W, Eager CA. Evaluation of a new composite dressing for the management of chronic leg ulcer wounds. J Wound Care. 2002 Sep;11(8):290-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12360762&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>de Laat EH, Scholte op Reimer WJ, van Achterberg T. Pressure ulcers: diagnostics and interventions aimed at wound-related complaints: a review of the literature. J Clin Nurs. 2005 Apr;14(4):464-72. [28 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15807753&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Dow G. Bacterial swabs and the chronic wound: when, how, and what do they mean?. Ostomy Wound Manage. 2003 May;49(5A Suppl):8-13. [29 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12883159&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Duby T, Cherry G, Hoffman D, Dobloff-Brown D, Ryan T. A randomized trial in the treatment of venous leg ulcers comparing short stretch bandages, four layer bandage system, and a long stretch-paste bandage system. Wounds. 1993;5(6):276-9.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Edwards J, Stapley S. Debridement of diabetic foot ulcers. Cochrane Database Syst Rev. 2010;(1):CD003556. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20091547&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Foster L, Moore P. The application of a cellulose-based fibre dressing in surgical wounds. J Wound Care. 1997 Nov;6(10):469-73. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9455272&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Franz MG, Steed DL, Robson MC. Optimizing Healing of the Acute Wound by Minimizing Complications. Curr Probl Surg. 2007 Nov;44(11):691-763. [242 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18036992&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Frykberg RG, Zgonis T, Armstrong DG, Driver VR, Giurini JM, Kravitz SR, Landsman AS, Lavery LA, Moore JC, Schuberth JM, Wukich DK, Andersen C, Vanore JV, American College of Foot and Ankle Surgeons. Diabetic foot disorders. A clinical practice guideline (2006 revision). J Foot Ankle Surg. 2006 Sep-Oct;45(5 Suppl):S1-66. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17280936&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Gardner SE, Frantz RA, Doebbeling BN. The validity of the clinical signs and symptoms used to identify localized chronic wound infection. Wound Repair Regen. 2001 May-Jun;9(3):178-86. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11472613&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Gardner SE, Frantz RA, Saltzman CL, Hillis SL, Park H, Scherubel M. Diagnostic validity of three swab techniques for identifying chronic wound infection. Wound Repair Regen. 2006 Sep-Oct;14(5):548-57. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17014666&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Goetze S, Ziemer M, Kaatz M, Lipman RD, Elsner P. Treatment of superficial surgical wounds after removal of seborrheic keratoses: a single-blinded randomized-controlled clinical study. Dermatol Surg. 2006 May;32(5):661-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16706761&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Golinko MS, Clark S, Rennert R, Flattau A, Boulton AJ, Brem H. Wound emergencies: the importance of assessment, documentation, and early treatment using a wound electronic medical record. Ostomy Wound Manage. 2009 May;55(5):54-61. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19471049&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Harding KG, Price P, Robinson B, Thomas S, Hoffman D. Cost and dressing evaluation of Hydrofiber and alginate dressings in the management of community-based patients with chronic leg ulceration. Wounds. 2001;13(6):229-36.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Health Quality Ontario. Management of chronic pressure ulcers: an evidence-based analysis. Ont Health Technol Assess Ser. 2009;9(3):1-203. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23074533&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Heffernan A, Martin AJ. A comparison of a modified form of Granuflex (Granuflex Extra Thin) and a conventional dressing in the management of lacerations, abrasions and minor operation wounds in an accident and emergency department. J Accid Emerg Med. 1994 Dec;11(4):227-30. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7894807&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hoffman K, Kirschka T, el Gammal S, Stucker M, Hoffman A, Altmeyer P. Hydrocolloid dressings in the therapy of cryolesions. In: Altmeyer P, et al, editor(s). Wound healing and skin physiology. Berlin Heidelberg: Springer Verlag; 1995. p. 667-80.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hopf HW, Ueno C, Aslam R, Burnand K, Fife C, Grant L, Holloway A, Iafrati MD, Mani R, Misare B, Rosen N, Shapshak D, Benjamin Slade J Jr, West J, Barbul A. Guidelines for the treatment of arterial insufficiency ulcers. Wound Repair Regen. 2006 Nov-Dec;14(6):693-710. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17199834&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hutchinson JJ, Lawrence JC. Wound infection under occlusive dressings. J Hosp Infect. 1991 Feb;17(2):83-94. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1674265&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Jones KR, Fennie K. Factors influencing pressure ulcer healing in adults over 50: an exploratory study. J Am Med Dir Assoc. 2007 Jul;8(6):378-87. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17619036&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Jorgensen B, Price P, Andersen KE, Gottrup F, Bech-Thomsen N, Scanlon E, Kirsner R, Rheinen H, Roed-Petersen J, Romanelli M, Jemec G, Leaper DJ, Neumann MH, Veraart J, Coerper S, Agerslev RH, Bendz SH, Larsen JR, Sibbald RG. The silver-releasing foam dressing, Contreet Foam, promotes faster healing of critically colonised venous leg ulcers: a randomised, controlled trial. Int Wound J. 2005 Mar;2(1):64-73. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16722854&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Jude EB, Apelqvist J, Spraul M, Martini J, Silver Dressing Study Group. Prospective randomized controlled study of Hydrofiber dressing containing ionic silver or calcium alginate dressings in non-ischaemic diabetic foot ulcers. Diabet Med. 2007 Mar;24(3):280-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17305788&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kantor J, Margolis DJ. A multicentre study of percentage change in venous leg ulcer area as a prognostic index of healing at 24 weeks. Br J Dermatol. 2000 May;142(5):960-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10809855&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kantor J, Margolis DJ. Efficacy and prognostic value of simple wound measurements. Arch Dermatol. 1998 Dec;134(12):1571-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9875195&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kerstein MD, Gemmen E, van Rijswijk L, Lyder CH, Phillips T, Xakellis G, Golden K, Harrington C. Cost and cost effectiveness of venous and pressure ulcer protocols of care. Dis Manag Health Outcomes. 2001 Nov;9(11):651-63.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kerstein MD. The non-healing leg ulcer: peripheral vascular disease, chronic venous insufficiency, and ischemic vasculitis. Ostomy Wound Manag. 1996 Nov-Dec;42(10A Suppl):19S-35S. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9397880&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kobza L, Scheurich A. The impact of telemedicine on outcomes of chronic wounds in the home care setting. Ostomy Wound Manage. 2000 Oct;46(10):48-53. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11889733&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kogan L, Moldavsky M, Szvalb S, Govrin-Yehudain J. Comparative study of AQUACEL and Silverol treatment in burns. Ann Burns Fire Disasters. 2004;17:201-7.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Koksal C, Bozkurt AK. Combination of hydrocolloid dressing and medical compression stockings versus Unna's boot for the treatment of venous leg ulcers. Swiss Med Wkly. 2003 Jun 28;133(25-26):364-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12947533&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Laing PW, Cogley DI, Klenerman L. Neuropathic foot ulceration treated by total contact casts. J Bone Joint Surg Br. 1992 Jan;74(1):133-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1732242&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Langemo DK, Brown G. Skin fails too: acute, chronic, and end-stage skin failure. Adv Skin Wound Care. 2006 May;19(4):206-11. [41 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16641567&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lewis J, Lipp A. Pressure relieving interventions for treating diabetic foot ulcers. The Cochrane Library. Intervention Review; 2012 Nov. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lyder CH, Shannon R, Empleo-Frazier O, McGeHee D, White C. A comprehensive program to prevent pressure ulcers in long-term care: exploring costs and outcomes. Ostomy Wound Manage. 2002 Apr;48(4):52-62. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11993061&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lyon RT, Veith FJ, Bolton L, Machado F. Clinical benchmark for healing of chronic venous ulcers. Venous Ulcer Study Collaborators. Am J Surg. 1998 Aug;176(2):172-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9737626&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Madden MR, Nolan E, Finkelstein JL, Yurt RW, Smeland J, Goodwin CW, Hefton J, Staiano-Coico L. Comparison of an occlusive and a semi-occlusive dressing and the effect of the wound exudate upon keratinocyte proliferation. J Trauma. 1989 Jul;29(7):924-30; discussion 930-1. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2473215&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mak SS, Molassiotis A, Wan WM, Lee IY, Chan ES. The effects of hydrocolloid dressing and gentian violet on radiation-induced moist desquamation wound healing. Cancer Nurs. 2000 Jun;23(3):220-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10851773&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>McIsaac C. Managing wound care outcomes. Ostomy Wound Manage. 2005 Apr;51(4):54-6, 58, 59 passim. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16089060&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Moore Z, Cowman S. Wound cleansing for pressure ulcers. The Cochrane Library. Intervention Review; 2013 Jan. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Morris EJ, Dowlen S, Cullen B. Early clinical experience with topical collagen in vascular wound care. J Wound Ostomy Continence Nurs. 1994 Nov;21(6):247-50. [166 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7704132&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mulder GD. Cost-effective managed care: gel versus wet-to-dry for debridement. Ostomy Wound Manage. 1995 Mar;41(2):68-70, 72, 74 passim. [8 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7598779&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Murharyo P. Dressings following circumcision: results of a controlled clinical study. Singapore Paediatr J. 1996;38(3):125-30.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>National Clinical Guideline Centre. Lower limb peripheral arterial disease: diagnosis and management. London (UK): National Institute for Health and Clinical Excellence (NICE); 2012 Aug. 28 p.&amp;nbsp;(Clinical guideline; no. 147).&amp;nbsp;</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>National Institute for Clinical Excellence (NICE). Guidance on the use of debriding agents and specialist wound care clinics for difficult to heal surgical wounds. London (UK): NICE; 2001. &amp;nbsp;(Technology appraisal; no. 24).&amp;nbsp;</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Nemeth AJ, Eaglstein WH, Taylor JR, Peerson LJ, Falanga V. Faster healing and less pain in skin biopsy sites treated with an occlusive dressing. Arch Dermatol. 1991 Nov;127(11):1679-83. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1952972&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>O'Donnell TF Jr, Lau J. A systematic review of randomized controlled trials of wound dressings for chronic venous ulcer. J Vasc Surg. 2006 Nov;44(5):1118-25. [35 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17098555&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ohura T, Sahada H, Mino Y. Clinical activity-based cost effectiveness of traditional versus modern wound management in patients with pressure ulcers. Wounds. 2004;16(5):157-63.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>O'Meara S, Cullum N, Nelson EA, Dumville JC. Compression for venous leg ulcers. The Cochrane Library. Intervention Review; 2012 May. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Petersen J, Beck L, Reumert L, Steensgaard J. DuoDERM hydrocolloid occlusion for radiation-induced plantar hyperkeratosis: the results from a randomized controlled trial. World Congress of Chiropody. EADV-2nd Congress, Nice; 1991. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Phillips T, Stanton B, Provan A, Lew R. A study of the impact of leg ulcers on quality of life: financial, social, and psychologic implications. J Am Acad Dermatol. 1994 Jul;31(1):49-53. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8021371&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Phillips TJ, Machado F, Trout R, Porter J, Olin J, Falanga V. Prognostic indicators in venous ulcers. J Am Acad Dermatol. 2000 Oct;43(4):627-30. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11004617&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Piaggesi A, Baccetti F, Rizzo L, Romanelli M, Navalesi R, Benzi L. Sodium carboxyl-methyl-cellulose dressings in the management of deep ulcerations  of diabetic foot. Diabet Med. 2001 Apr;18(4):320-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11437864&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Polignano R, Guarnera G, Bonadeo P. Evaluation of SurePress Comfort: a new compression system for the management of venous leg ulcers. J Wound Care. 2004 Oct;13(9):387-91. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15517750&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Quintanal VE. Measurement of quality of life in patients with leg ulcers treated with a new Hydrofiber dressing using the Nottingham Health Profile. Proceedings of the European Tissue Repair Society. 1999; Bordeaux. 1999. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Registered Nurses' Association of Ontario (RNAO). Assessment &amp; management of stage I to IV pressure ulcers. Toronto (ON): Registered Nurses' Association of Ontario (RNAO); 2007 Mar. 112 p.  [118 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Registered Nurses Association of Ontario (RNAO). Assessment and management of foot ulcers for people with diabetes. Toronto (ON): Registered Nurses Association of Ontario (RNAO); 2005 Mar. 112 p.  [193 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Rodeheaver GT, Kurtz L, Kircher BJ, Edlich RF. Pluronic F-68: a promising new skin wound cleanser. Ann Emerg Med. 1980 Nov;9(11):572-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7436067&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Romanelli M. Objective measurement of venous ulcer debridement and granulation with a skin color reflectance analyzer. Wounds. 1997;9(4):122-6.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Saap LJ, Falanga V. Debridement performance index and its correlation with complete closure of diabetic foot ulcers. Wound Repair Regen. 2002 Nov-Dec;10(6):354-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12453138&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Schmitt M, Vergnes P, Canarelli JP, Gaillard S, Daoud S, Dodat H, Lascombes P, Melin Y, Morisson-Lacombe G, Revillon Y. Evaluation of a hydrocolloid dressing. J Wound Care. 1996 Oct;5(9):396-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8954432&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Sheehan P, Jones P, Caselli A, Giurini JM, Veves A. Percent change in wound area of diabetic foot ulcers over a 4-week period is a robust predictor of complete healing in a 12-week prospective trial. Diabetes Care. 2003 Jun;26(6):1879-82. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12766127&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Sieggreen MY, Maklebust J. Debridement: choices and challenges. Adv Wound Care. 1997 Mar-Apr;10(2):32-7. [11 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9204809&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Smith F, Dryburgh N, Donaldson J, Mitchell M. Debridement for surgical wounds. Cochrane Database Syst Rev. 2013;9:CD006214. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24008995&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Smitten A, Bolton L. Burden of pressure ulcer care. In Ayello E. research forum. Adv Skin Wound Care. 2005;18(4):192-3.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Sorensen JL, Jorgensen B, Gottrup F. Surgical treatment of pressure ulcers. Am J Surg. 2004 Jul;188(1A Suppl):42-51. [43 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15223502&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Steed DL, Donohoe D, Webster MW, Lindsley L. Effect of extensive debridement and treatment on the healing of diabetic foot ulcers. Diabetic Ulcer Study Group. J Am Coll Surg. 1996 Jul;183(1):61-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8673309&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tan ST, Roberts RH, Sinclair SW. A comparison of Zenoderm with DuoDERM E in the treatment of split skin graft donor sites. Br J Plast Surg. 1993 Jan;46(1):82-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8431749&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tesfaye S, Chaturvedi N, Eaton SE, Ward JD, Manes C, Ionescu-Tirgoviste C, Witte DR, Fuller JH, EURODIAB Prospective Complications Study Group. Vascular risk factors and diabetic neuropathy. N Engl J Med. 2005 Jan 27;352(4):341-50. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15673800&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Thomson PD, Smith DJ Jr. What is infection. Am J Surg. 1994 Jan;167(1A):7S-10S; discussion 10S-11. [25 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8109689&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Van Rijswijk L, Polansky M. Predictors of time to healing deep pressure ulcers. Wounds. 1994;6(5):159-65.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>van Rijswijk L. Full-thickness leg ulcers: patient demographics and predictors of healing. Multi-Center Leg Ulcer Study Group. J Fam Pract. 1993 Jun;36(6):625-32. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8505605&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Wasiak J, Cleland H, Campbell F, Spinks A. Dressings for superficial and partial thickness burns.. The Cochrane Library. Intervention Review; 2012 Nov. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Wiechula R. The use of moist wound-healing dressings in the management of split-thickness skin graft donor sites: a systematic review. Int J Nurs Pract. 2003 Apr;9(2):S9-17. [39 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12694482&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Wound, Ostomy, and Continence Nurses Society (WOCN). Guideline for management of wounds in patients with lower-extremity neuropathic disease. Mount Laurel (NJ): Wound, Ostomy, and Continence Nurses Society (WOCN); 2012 Jun 1. 100 p.&amp;nbsp;(WOCN clinical practice guideline series; no. 3).&amp;nbsp; [216 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Appropriate wound management and evaluation strategies </li>
+    <li>Appropriate implementation of chronic wound risk factor assessment and risk reduction programs and interventions </li>
+    <li>Prevention of wound complications </li>
+    <li>Improved rates of wound healing</li>
+</ul>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>ConvaTec. SOLUTIONS® wound care algorithm. Princeton (NJ): ConvaTec; 2013 Sep. 16 p.  [103 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="1994 (revised 2013 Sep)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="ConvaTec - For Profit Organization"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>ConvaTec</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Conflict of interest statements were signed by all members of the guideline task force. One participant declared a potential conflict of interest related to distributing wound care products. Participants volunteered their time and expertise. No compensation for participation was provided.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: ConvaTec. SOLUTIONS wound care algorithm. Princeton (NJ): ConvaTec; 2008. 8 p.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Not available at this time.</p>
+
+<p>Print copies: Available from the ConvaTec Information Center: 1-800-422-8811.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Beitz JM, van Rijswijk L. Using wound care algorithms: a content validation study. J Wound Ostomy Continence Nurs. 1999 Sep;26(5):238-9, 241-9. (Literature ID: #US-06-1300) </li>
+    <li>Beitz JM, van Rijswijk L. A cross-sectional study to validate wound care algorithms for use by registered nurses. Ostomy Wound Management 2010;56(4):46-59. </li>
+    <li>Beitz JM, van Rijswijk L. Development and validation of an online interactive, multimedia wound care algorithms program. J Wound Ostomy Continence Nurs. 2012 Jan-Feb;39(1):23-34 </li>
+    <li>Bolton L, McNees P, van Rijswijk L, de Leon J, Lyder C, Kobza L, Edman K, Scheurich A, Shannon R, Toth M; Wound Outcomes Study Group. Wound-healing outcomes using standardized assessment and care in clinical practice. J Wound Ostomy Continence Nurs. 2004 Mar-Apr;31(2):65-71. (Literature ID: #US-07-1013) </li>
+    <li>Evidence base for content-validated recommendations underlying Solutions&amp;reg; algorithm. Princeton (NJ): ConvaTec; 2014. 16 p. </li>
+    <li>Solutions&amp;reg; algorithms for skin and wound care: customer implementation guide. Princeton (NJ): ConvaTec; 2007 Dec. 4 p. (Literature ID: #US-07-2119) </li>
+</ul>
+<p>Print copies: Available from the ConvaTec Information Center: 1-800-422-8811.</p>
+<p>A mobile app for iOS and Android is available from the <a href=&quot;http://www.convatec.com/wound-skin/solutions-programs/solutions-algorithms-for-skin-and-wound-care-program&quot; title=&quot;ConvaTec Web site&quot;>ConvaTec Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI on July 27, 2006. The information was verified by the guideline developer on August 24, 2006. This NGC summary was updated by ECRI Institute on August 7, 2009. The updated information was verified by the guideline developer on August 26, 2009. This summary was updated by ECRI Institute on June 3, 2014. The updated information was verified by the guideline developer on June 6, 2014.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 00:22:48 Jul 16, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:22:50 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 242.491 (3)
+  esindex: 0.008
+  captures_list: 259.721
+  CDXLines.iter: 12.891 (3)
+  PetaboxLoader3.datanode: 83.688 (4)
+  exclusion.robots: 0.306
+  exclusion.robots.policy: 0.293
+  RedisCDXSource: 0.668
+  PetaboxLoader3.resolve: 140.742
+  load_resource: 47.762
+-->
