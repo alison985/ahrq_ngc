@@ -1,0 +1,567 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app18.us.archive.org';v.server_ms=326;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-9300?contentType=xml', '20160930214331')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930214331/https://www.guideline.gov/summaries/downloadcontent/ngc-9300?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930214331/https://www.guideline.gov/summaries/downloadcontent/ngc-9300?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-9300?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930214331" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 21:43:31 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 21:43:31 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 21:43:31 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930214331*/https://www.guideline.gov/summaries/downloadcontent/ngc-9300?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-9300?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Ottawa Panel evidence-based clinical practice guidelines for the management of osteoarthritis in adults who are obese or overweight.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Brosseau L, Wells GA, Tugwell P, Egan M, Dubouloz CJ, Casimiro L, Bugnariu N, Welch VA, De Angelis G, Francoeur L, Milne S, Loew L, McEwan J, Messier SP, Doucet E, Kenny GP, Prud'homme D, Lineker S, Bell M, Poitras S, Li JX, Finestone HM, Laferrière L, Haines-Wangda A, Russell-Doreleyers M, Lambert K, Marshall AD, Cartizzone M, Teav A, Ottawa Panel. Ottawa Panel evidence-based clinical practice guidelines for the management of osteoarthritis in adults who are obese or overweight. Phys Ther. 2011 Jun;91(6):843-61. [111 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21493746&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Definitions for the level (<strong>Level I, Level II</strong>) and strength (<strong>2 points, 1 point</strong>) of evidence ratings and the grade of the recommendations (<strong>A, B, C+, C, D, D+, D-</strong>) are presented at the end of the &quot;Major Recommendations&quot; field.</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li><strong>Physical activity (aerobic training and strength training) versus control, level I (1 randomized controlled trial [RCT], N=56, low quality). Grade A</strong> for pain relief (visual analog scale [VAS] score), functional status (Western Ontario and McMaster Universities Osteoarthritis Index [WOMAC] score), and strength (quadriceps and hamstring muscle strength) at end of treatment (8 weeks) (clinically important benefit demonstrated). <strong>Grade C+</strong> for body composition (waist circumference) at end of treatment (8 weeks) (clinically important benefit demonstrated without statistical significance). <strong>Grade C</strong> for functional status (Lequesne Index), walking endurance (six-minute walk test [6MWT]), and body composition (body weight, body mass index [BMI] [kg/m<sup>2</sup>], and lean body mass [kg]) at end of treatment (8 weeks) (no benefit demonstrated). <strong>Grade D</strong> for body composition (lean body mass [%]) at end of treatment (8 weeks) (no benefit demonstrated but favoring control). </li>
+    <li><strong>Physical activity (aerobic training and strength training) and diet (caloric restriction of 25%&amp;ndash;30%, 1,500&amp;ndash;3,000 cal/d) versus control, level I (1 RCT, N=56, low quality). Grade A</strong> for pain relief (VAS score), functional status (WOMAC score, Lequesne Index), body composition (waist circumference), and strength (quadriceps and hamstring muscle strength) at end of treatment (8 weeks) (clinically important benefit demonstrated). <strong>Grade C</strong> for body composition (lean body mass, fat body mass, body weight [kg], and BMI [kg/m<sup>2</sup>]) and walking endurance (6MWT) at end of treatment (8 weeks) (no benefit demonstrated). </li>
+    <li><strong>Diet (caloric restriction of 25%&amp;ndash;30%, 1,500&amp;ndash;3,000 cal/d) versus control, level I (1 RCT, N=56, low quality). Grade A</strong> for pain relief (VAS score) at end of treatment (8 weeks) (clinically important benefit demonstrated). <strong>Grade C</strong> for functional status (WOMAC score, Lequesne Index), walking endurance (6MWT), body composition (body weight, BMI [kg/m<sup>2</sup>], waist circumference, fat body mass, and lean body mass), and strength (quadriceps muscle strength) at end of treatment (8 weeks) (no benefit demonstrated). <strong>Grade D</strong> for strength (hamstring muscle strength) at end of treatment (8 weeks) (no benefit demonstrated but favoring control). </li>
+    <li><strong>Physical activity (aerobic training and strength training) versus diet (caloric restriction of 25%&amp;ndash;30%, 1,500&amp;ndash;3,000 cal/d), level I (1 RCT, N=56, low quality). Grade C+</strong> for improved strength (quadriceps and hamstring muscle strength) at end of treatment (8 weeks) (clinically important benefit demonstrated without statistical significance). <strong>Grade C</strong> for pain relief (VAS score), functional status (WOMAC score, Lequesne Index), walking endurance (6MWT), and body composition (body weight, BMI [kg/m<sup>2</sup>], lean body mass, waist circumference, and fat body mass) at end of treatment (8 weeks) (no benefit demonstrated). </li>
+    <li><strong>Physical activity (aerobic training and strength training) versus physical activity (aerobic training and strength training) and diet (caloric restriction of 25%&amp;ndash;30%, 1,500&amp;ndash;3,000 cal/d), level I (1 RCT, N=56, low quality). Grade A</strong> for functional status favoring diet and physical activity (Lequesne Index) at end of treatment (8 weeks) (clinically important benefit demonstrated). <strong>Grade C+</strong> for pain relief favoring diet and physical activity (VAS score) at end of treatment (8 weeks) (clinically important benefit demonstrated without statistical significance). <strong>Grade C</strong> for functional status (WOMAC score), walking endurance (6MWT), body composition (body weight, BMI [kg/m<sup>2</sup>], waist circumference, lean body mass, fat body mass), and strength (quadriceps and hamstring muscle strength) at end of treatment (8 weeks) (no benefit demonstrated). </li>
+    <li><strong>Diet (caloric restriction of 25%&amp;ndash;30%, 1,500&amp;ndash;3,000 cal/d) versus physical activity (aerobic training and strength training) and diet (caloric restriction of 25%&amp;ndash;30%, 1,500&amp;ndash;3,000 cal/d), level I (1 RCT, N=56, low quality). Grade A</strong> for pain relief favoring diet and physical activity (VAS score), functional status favoring diet and physical activity (WOMAC score), and functional status favoring diet and physical activity (Lequesne Index) at end of treatment (8 weeks) (clinically important benefit demonstrated). <strong>Grade C+</strong> for strength favoring diet and strength (quadriceps and hamstring muscle strength) at end of treatment (8 weeks) (clinically important benefit demonstrated without statistical significance). <strong>Grade C </strong>for walking endurance (6MWT) and body composition (body weight, BMI [kg/m<sup>2</sup>], waist circumference, lean body mass, and fat body mass) at end of treatment (8 weeks) (no benefit demonstrated). </li>
+    <li><strong>Intensive physical activity (aerobic training, strength training) and intensive diet (deficit of 1,000 kcal/d, 20% protein, 25% fat, 55% carbohydrate diet) versus control, level I, (2 RCTs, N=174, low quality). Grade A</strong> for functional status (WOMAC sum score), pain relief (WOMAC pain score), physical function (WOMAC function score), mobility (stair climbing time), and torque (concentric knee extensors) at end of treatment (6 months) (clinically important benefit demonstrated). <strong>Grade C+</strong> for force (concentric knee extension) and torque (eccentric knee extension/lean mass) at end of treatment (6 months) (clinically important benefit demonstrated without statistical significance). <strong>Grade C</strong> for walking endurance (6MWT), force (eccentric knee extension), and body composition (body weight, BMI [kg/m<sup>2</sup>], waist circumference, and fat body mass) at end of treatment (6 months) (no benefit demonstrated). <strong>Grade D</strong> for stiffness (WOMAC stiffness score) and body composition (lean body mass) at end of treatment (6 months) (no benefit demonstrated, but results favored the control group). </li>
+    <li><strong>Diet (behavior modification, lower caloric intake based on group dynamics literature and social-cognitive theory, average weight loss of 5%) versus control, level I (1 RCT, N=316, low quality). Grade C</strong> for quality of life (Medical Outcomes Study 36-Item Short-Form Health Survey questionnaire [SF-36] mental health and physical function scores) at average between the 6-month follow-up and the 18-month assessment at end of treatment (no benefit demonstrated). <strong>Grade D-</strong> for psychological well-being (physical function and body satisfaction measure) at average between the 6-month follow-up and the 18-month assessment at end of treatment (clinically important benefit favoring control demonstrated with statistical significance). </li>
+    <li><strong>Physical activity (aerobic [50%&amp;ndash;75% heart rate reserve (HRR)] and resistance training) versus diet (behavior modification, lower caloric intake based on group dynamics literature and social-cognitive theory, average weight loss of 5%) and physical activity (aerobic [50%&amp;ndash;75% HRR] and resistance training), level I (1 RCT, N=316, low quality). Grade A</strong> for psychological well-being (physical function and body satisfaction measure) at average between the 6-month follow-up and the 18-month assessment at end of treatment (clinically important benefit demonstrated favoring physical activity). <strong>Grade C</strong> for quality of life (SF-36 mental health and physical function scores) at average between the 6-month follow-up and the 18-month assessment at end of treatment (no benefit demonstrated). </li>
+    <li><strong>Diet (behavior modification, lower caloric intake based on group dynamics literature and social-cognitive theory, average weight loss of 5%) and physical activity (aerobic [50%&amp;ndash;75% HRR] and resistance training) versus control, level I (1 RCT, N=316, low quality). Grade C</strong> for quality of life (SF-36 physical function score) at average between the 6-month follow-up and the 18-month assessment at end of treatment (no benefit demonstrated). <strong>Grade D</strong> for quality of life (SF-36 mental health score) at average between the 6-month follow-up and the 18-month assessment at end of treatment (no benefit demonstrated, but results favored the control group). <strong>Grade D-</strong> for psychological well-being (physical function and body satisfaction measure) at average between the 6-month follow-up and the 18-month assessment at end of treatment (clinically important benefit favoring control demonstrated with statistical significance). </li>
+    <li><strong>Diet (behavior modification, lower caloric intake based on group dynamics literature and social-cognitive theory, average weight loss of 5%) versus physical activity (aerobic [50%&amp;ndash;75% HRR] and resistance training), level I (1 RCT, N=316, low quality). Grade C+</strong> for psychological well-being (body satisfaction measure&amp;ndash;physical function) at average between the 6-month follow-up and the 18-month assessment at end of treatment (clinically important benefit demonstrated without statistical significance favoring diet only). <strong>Grade C+</strong> for psychological well-being (body satisfaction measure&amp;ndash;appearance) at average between the 6-month follow-up and the 18-month assessment at end of treatment (clinically important benefit demonstrated without statistical significance favoring physical activity). <strong>Grade C </strong>for quality of life (SF-36 mental health and physical function scores) at average between the 6-month follow-up and the 18-month assessment at end of treatment (no benefit demonstrated). </li>
+    <li><strong>Diet (behavior modification, lower caloric intake based on group dynamics literature and social-cognitive theory, average weight loss of 5%) versus diet (aerobic [50%&amp;ndash;75% HRR] and resistance training) and physical activity (aerobic [50%&amp;ndash;75% HRR] and resistance training), level I (1 RCT, N=316, low quality). Grade A</strong> for improved psychological well-being (body satisfaction measure&amp;ndash;physical function) at average between the 6-month follow-up and the 18-month assessment at end of treatment (clinically important benefit demonstrated favoring diet). <strong>Grade C</strong> for psychological well-being (body satisfaction measure&amp;ndash;appearance) and quality of life (SF-36 physical function score) at average between the 6-month follow-up and the 18-month assessment at end of treatment (no benefit demonstrated). </li>
+    <li><strong>Physical activity (aerobic [50%&amp;ndash;75% HRR] and resistance training) versus diet (behavior modification, lower caloric intake based on group dynamics literature and social-cognitive theory, average weight loss of 5%) and physical activity (aerobic [50%&amp;ndash;75% HRR] and resistance training), level I (1 RCT, N=316, low quality). Grade A</strong> for psychological well-being (physical function and body satisfaction measure) at average between the 6-month follow-up and the 18-month assessment at end of treatment (clinically important benefit demonstrated favoring physical activity). <strong>Grade C</strong> for mental status (SF-36 mental health and physical function scores) at average between the 6-month follow-up and the 18-month assessment at end of treatment (no benefit demonstrated). </li>
+    <li><strong>Diet (behavior modification, lower caloric intake based on group dynamics literature and social-cognitive theory, average weight loss of 5%) and physical activity (aerobic [50%&amp;ndash;75% HRR] and resistance training) versus control, level I (1 RCT, N=316, low quality). Grade C</strong> for quality of life (SF-36 physical function score) at average between the 6-month follow-up and the 18-month assessment at end of treatment (no benefit demonstrated). <strong>Grade D</strong> for quality of life (SF-36 mental health score) at average between the 6-month follow-up and the 18-month assessment at end of treatment (no benefit demonstrated but favoring control). <strong>Grade D-</strong> for psychological well-being (physical function and body satisfaction measure&amp;ndash;appearance) at average between the 6-month follow-up and the 18-month assessment at end of treatment (clinically important benefit favoring control demonstrated with statistical significance). </li>
+    <li><strong>Diet (behavior modification, lower caloric intake based on group dynamics literature and social-cognitive theory, average weight loss of 5%) versus physical activity (aerobic [50%&amp;ndash;75% HRR] and resistance training), level I (1 RCT, N=316, low quality). Grade C+</strong> for psychological well-being (body satisfaction measure&amp;ndash;physical function) at average between the 6-month follow-up and the 18-month assessment at end of treatment (clinically important benefit demonstrated without statistical significance favoring diet). <strong>Grade C+</strong> for psychological well-being (body satisfaction measure&amp;ndash;appearance) at average between the 6-month follow-up and the 18-month assessment at end of treatment (clinically important benefit demonstrated without statistical significance favoring physical activity). <strong>Grade C</strong> for quality of life (SF-36 mental health and physical function scores) at average between the 6-month follow-up and the 18-month assessment at end of treatment (no benefit demonstrated). </li>
+    <li><strong>Diet (behavior modification, lower caloric intake based on group dynamics literature and social-cognitive theory, average weight loss of 5%) versus diet (behavior modification, lower caloric intake based on group dynamics literature and social-cognitive theory, average weight loss of 5%) and physical activity (aerobic [50%&amp;ndash;75% HRR] and resistance training), level I (1 RCT, N=316, low quality). Grade A</strong> for psychological well-being (body satisfaction measure&amp;ndash;physical function) at average between the 6-month follow-up and the 18-month assessment at end of treatment (clinically important benefit demonstrated favoring diet). <strong>Grade C</strong> for psychological well-being (body satisfaction measure&amp;ndash;appearance) and quality of life (SF-36 mental health and physical function scores) at average between the 6-month follow-up and the 18-month assessment at end of treatment (no benefit demonstrated). </li>
+    <li><strong>Low energy diet versus conventional high protein diet (control), level I (1 RCT, N=96, high quality). Grade A</strong> for functional status (WOMAC total score) and physical function (WOMAC function score) at end of treatment (8 weeks) (clinically important benefit demonstrated). <strong>Grade C+</strong> for pain relief (WOMAC pain score) and stiffness (WOMAC stiffness score) at end of treatment (8 weeks) (clinically important benefit demonstrated without statistical significance). <strong>Grade C</strong> for body composition (body weight [kg], fat body mass [kg], fat body mass [%]) and functional status (Lequesne index score [0&amp;ndash;26]) at end of treatment (8 weeks) (no benefit demonstrated). <strong>Grade D</strong> for body composition (lean body mass [kg]) at end of treatment (8 weeks) (no benefit demonstrated but favoring control). </li>
+    <li><strong>Physical activity (strength training and aerobic training) and diet (patient education and cognitive-behavioral modification strategies) versus physical activity (strength training and aerobic training), level I (3 RCTs, N=656) (1 RCT is high quality, 2 RCTs are low quality). Grade C+</strong> for pain relief (transfer pain frequency and transfer pain intensity) at end of treatment (3 months), pain relief (WOMAC pain score) at end of treatment (6 and 18 months), and self-efficacy on stairs (stair climb) at end of treatment (18 months) (clinically important benefit demonstrated without statistical significance favoring physical activity and diet). <strong>Grade C</strong> for pain relief (ambulation pain frequency) at end of treatment (3 months and 6 months), pain relief (transfer pain intensity and transfer pain frequency) at end of treatment (6 months), walking endurance (6MWT) at end of treatment (3 months, 6 months, and 18 months), mobility (stair climbing) at end of treatment (3 months, 6 months, and 18 months), functional status (transfer self-reported function) at end of treatment (3 months), functional status (ambulation self-reported function, transfer self-reported function, summary self-reported function) at end of treatment (6 months) and self-efficacy in walking (6MWT) at end of treatment (18 months) (no benefit demonstrated). <strong>Grade D</strong> for pain relief (ambulation pain intensity) and functional status (ambulation self-reported function, summary self-reported function) at end of treatment (3 months) (no benefit demonstrated, but results favored physical activity). <strong>Grade D+</strong> for pain relief (ambulation pain intensity) at end of treatment (6 months) (clinically important benefit demonstrated favoring physical activity without statistical significance). </li>
+    <li><strong>Physical activity (strength training and aerobic training) and diet (behavior modification, lower caloric intake based on group dynamics literature and social-cognitive theory, average weight loss of 5%) versus control, level I (2 RCTs, N=632) (1 RCT is high quality, 1 RCT is low quality). Grade A</strong> for walking endurance (6MWT) at end of treatment (6 months and 18 months) and self-efficacy (stair climbing and 6MWT) at end of treatment (18 months) (clinically important benefit demonstrated). <strong>Grade C+</strong> for mobility (stair climbing) at end of treatment (6 months and 18 months) (clinically important benefit demonstrated without statistical significance). <strong>Grade C</strong> for pain relief (WOMAC pain score) at end of treatment (6 months and 18 months) (no benefit demonstrated). </li>
+    <li><strong>Physical activity (strength training and aerobic training) and diet (behavior modification, lower caloric intake based on group dynamics literature and social-cognitive theory, average weight loss of 5%) versus diet (behavior modification, lower caloric intake based on group dynamics literature and social-cognitive theory, average weight loss of 5%), level I (2 RCTs, N=632) (1 RCT is high quality, 1 RCT is low quality). Grade A</strong> for self-efficacy in walking (6MWT) at end of treatment (18 months) (clinically important benefit demonstrated favoring physical activity and diet). <strong>Grade C+</strong> for mobility (stair climbing) at end of treatment (6 months), pain relief (WOMAC pain score) at end of treatment (18 months), and self-efficacy (stair climbing) at end of treatment (18 months) (clinically important benefit demonstrated without statistical significance favoring physical activity and diet). <strong>Grade C</strong> for walking endurance (6MWT) at end of treatment (6 months and 18 months), mobility (stair climbing) at end of treatment (18 months), and pain relief (WOMAC pain score) at end of treatment (6 months) (no benefit demonstrated). </li>
+    <li><strong>Physical activity (strength training and aerobic training) versus control, level I (2 RCTs, N=632) (1 RCT is high quality, 1 RCT is low quality). Grade C+</strong> for mobility (stair climbing) at end of treatment (6 months) (clinically important benefit demonstrated without statistical significance). <strong>Grade C</strong> for walking endurance (6MWT) at end of treatment (6 months and 18 months), mobility (stair climbing) at end of treatment (18 months), pain relief (WOMAC pain score) at end of treatment (6 months and 18 months), and self-efficacy (stair climbing, 6MWT) at end of treatment (18 months) (no benefit demonstrated). </li>
+    <li><strong>Physical activity (strength training and aerobic training) versus diet (behavior modification, lower caloric intake based on group dynamics literature and social-cognitive theory, average weight loss of 5%), level I (2 RCTs, N=632) (1 RCT is high quality, 1 RCT is low quality). Grade A</strong> for mobility (stair climbing) at end of treatment (6 months) (clinically important benefit demonstrated favoring physical activity). <strong>Grade C+</strong> for pain relief (WOMAC pain score) at end of treatment (6 months) (clinically important benefit demonstrated without statistical significance favoring diet). <strong>Grade C</strong> for walking endurance (6MWT) at end of treatment (6 months and 18 months), mobility (stair climbing) at end of treatment (18 months), pain relief (WOMAC pain score) at end of treatment (18 months), and self-efficacy (stair climbing and 6MWT) at end of treatment (18 months) (no benefit demonstrated). </li>
+    <li><strong>Diet (behavior modification, lower caloric intake based on group dynamics literature and social-cognitive theory, average weight loss of 5%) versus control, level I (2 RCTs, N=632) (1 RCT is high quality, 1 RCT is low quality). Grade C</strong> for walking endurance (6MWT) at end of treatment (6 months and 18 months), mobility (stair climbing) at end of treatment (6 months and 18 months), pain relief (WOMAC pain score) at end of treatment (6 months), and self-efficacy (stair climbing, 6MWT) at end of treatment (18 months) (no benefit demonstrated). <strong>Grade D</strong> for pain relief (WOMAC pain score) at end of treatment (18 months) (no benefit demonstrated, but results favored the control group). </li>
+    <li><strong>Diet (15%&amp;ndash;20% protein, 25% fat, 55%&amp;ndash;60% carbohydrate diet with 6 food unit groups and less caloric intake [300&amp;ndash;500 kcal]), physical activity (aerobic exercise), and acupuncture and electrotherapy versus diet (15%&amp;ndash;20% protein, 25% fat, 55%&amp;ndash;60% carbohydrate diet with 6 food unit groups and less caloric intake [300&amp;ndash;500 kcal]), physical activity (aerobic exercise), and acupuncture for patients with stage 2 osteoarthritis (OA), level I (1 RCT, N=126, low quality). Grade A</strong> for pain relief (VAS pain) at end of treatment (8 weeks) (clinically important benefit demonstrated). <strong>Grade C</strong> for mobility (walking speed) at end of treatment (8 weeks) (no benefit demonstrated). </li>
+    <li><strong>Diet (15%&amp;ndash;20% protein, 25% fat, 55%&amp;ndash;60% carbohydrate diet with 6 food unit groups and less caloric intake [300&amp;ndash;500 kcal]), physical activity (aerobic exercise), and acupuncture and electrotherapy versus electrotherapy for patients with stage 2 OA, level I (1 RCT, N=126, low quality). Grade A</strong> for pain relief (VAS pain) at end of treatment (8 weeks) (clinically important benefit demonstrated). <strong>Grade C</strong> for mobility (walking speed) at end of treatment (8 weeks) (no benefit demonstrated). </li>
+    <li><strong>Diet (15%&amp;ndash;20% protein, 25% fat, 55%&amp;ndash;60% carbohydrate diet with 6 food unit groups and less caloric intake [300&amp;ndash;500 kcal]), physical activity (aerobic exercise), and acupuncture versus electrotherapy for patients with stage 2 OA, level I (1 RCT, N=126, low quality). Grade C</strong> for pain relief (VAS pain) and mobility (walking speed) at end of treatment (8 weeks) (no benefit demonstrated). </li>
+    <li><strong>Diet (15%&amp;ndash;20% protein, 25% fat, 55%&amp;ndash;60% carbohydrate diet with 6 food unit groups and less caloric intake [300&amp;ndash;500 kcal]), physical activity (aerobic exercise), and acupuncture and electrotherapy versus diet (15%&amp;ndash;20% protein, 25% fat, 55%&amp;ndash;60% carbohydrate diet with 6 food unit groups and less caloric intake [300&amp;ndash;500 kcal]), physical activity (aerobic exercise), and acupuncture for patients with stage 3 OA, level I (1 RCT, N=126, low quality). Grade A</strong> for pain relief (VAS pain) at end of treatment (8 weeks) (clinically important benefit demonstrated). <strong>Grade C</strong> for mobility (walking speed) at end of treatment (8 weeks) (no benefit demonstrated). </li>
+    <li><strong>Diet (15%&amp;ndash;20% protein, 25% fat, 55%&amp;ndash;60% carbohydrate diet with 6 food unit groups and less caloric intake [300&amp;ndash;500 kcal]), physical activity (aerobic exercise), and acupuncture versus electrotherapy for patients with stage 3 OA, level I (1 RCT, N=126, low quality). Grade A</strong> for pain relief (VAS pain) and mobility (walking speed) at end of treatment (8 weeks) (clinically important benefit demonstrated). </li>
+    <li><strong>Diet (15%&amp;ndash;20% protein, 25% fat, 55%&amp;ndash;60% carbohydrate diet with 6 food unit groups and less caloric intake [300&amp;ndash;500 kcal]), physical activity (aerobic exercise), and acupuncture versus electrotherapy for patients with stage 3 OA, level I (1 RCT, N=126, low quality). Grade A</strong> for mobility (walking speed) at end of treatment (8 weeks) (clinically important benefit demonstrated). <strong>Grade C</strong> for pain relief (VAS pain) at end of treatment (8 weeks) (no benefit demonstrated). </li>
+    <li><strong>Diet (15%&amp;ndash;20% protein, 25% fat, 55%&amp;ndash;60% carbohydrate diet with 6 food unit groups and less caloric intake [300&amp;ndash;500 kcal]), physical activity (aerobic exercise), and acupuncture and electrotherapy versus diet (15%&amp;ndash;20% protein, 25% fat, 55%&amp;ndash;60% carbohydrate diet with 6 food unit groups and less caloric intake [300&amp;ndash;500 kcal]), physical activity (aerobic exercise), and acupuncture for patients with stage 4 OA, level I (1 RCT, N=126, low quality). Grade A</strong> for pain relief (VAS pain) at end of treatment (8 weeks) (clinically important benefit demonstrated). <strong>Grade C</strong> for mobility (walking speed) at end of treatment (8 weeks) (no benefit demonstrated). </li>
+    <li><strong>Diet (15%&amp;ndash;20% protein, 25% fat, 55%&amp;ndash;60% carbohydrate diet with 6 food unit groups and less caloric intake [300&amp;ndash;500 kcal]), physical activity (aerobic exercise), and acupuncture and electrotherapy versus electrotherapy for patients with stage 4 OA, level I (1 RCT, N=126, low quality). Grade A</strong> for pain relief (VAS pain) at end of treatment (8 weeks) (important benefit demonstrated). <strong>Grade C</strong> for mobility (walking speed) at end of treatment (8 weeks) (no benefit demonstrated). </li>
+    <li><strong>Diet (15%&amp;ndash;20% protein, 25% fat, 55%&amp;ndash;60% carbohydrate diet with 6 food unit groups and less caloric intake [300&amp;ndash;500 kcal]), physical activity (aerobic exercise), and acupuncture versus electrotherapy for patients with stage 4 OA, level I (1 RCT, N=126, low quality). Grade C</strong> for pain (VAS pain) and mobility (walking speed) at end of treatment (8 weeks) (no benefit demonstrated). </li>
+    <li><strong>Aquatic exercise (40-min exercise in water gym per session, 3 times a week, consisting of endurance, strength, and aerobic training) versus home-based exercise (control group received strengthening exercise and behavioral education), level I (1 RCT, N=75, high quality). Grade A</strong> for pain relief (brief pain inventory [BPI] pain) at end of treatment (8 weeks) (important benefit demonstrated). <strong>Grade C+</strong> for pain relief (BPI pain interference) and physical function (WOMAC score) at end of treatment (8 weeks) (important benefit demonstrated without statistical significance). <strong>Grade C</strong> for physical fitness (body weight, BMI, lean body mass, body fat mass, and body fat proportion), global function (SF-36 mental component summary and physical component summary) at end of treatment (8 weeks) (no benefit demonstrated). <strong>Grade D</strong> for torque (peak torque for knee extension and knee flexion) and physical fitness (waist circumference) at end of treatment (8 weeks) (no benefit demonstrated but favoring control). </li>
+    <li><strong>Land-based exercise (40-min exercise per session, 3 times a week, consisting of strength, aerobic, stretching, and range-of-motion training) versus home-based exercise (control group received strengthening exercise and behavioral education), level I (1 RCT, N=75, high quality). Grade A</strong> for pain relief (BPI pain) at end of treatment (8 weeks) (important benefit demonstrated). <strong>Grade C</strong> for pain relief (BPI pain interference), physical function (WOMAC score), and torque (peak torque knee flexion) at end of treatment (8 weeks) (important benefit demonstrated without statistical significance). <strong>Grade C</strong> for physical fitness (body weight, BMI, lean body mass, body fat mass, and body fat proportion), global function (SF-36 mental component summary and physical component summary) at end of treatment (8 weeks) (no benefit demonstrated). <strong>Grade D</strong> for torque (peak torque for knee extension) and physical fitness (waist circumference) at end of treatment (8 weeks) (no benefit demonstrated but favouring control). </li>
+    <li><strong>Land-based exercise (40-min exercise per session, 3 times a week, consisting of strength, aerobic, stretching, and range-of-motion training) versus aquatic exercise (40-min exercise in water gym per session, 3 times a week, consisting of endurance, strength, and aerobic training), level I (1 RCT, N=75, high quality). Grade C+</strong> for pain relief (BPI pain) and torque (peak torque for knee flexion) at end of treatment (8 weeks) (important benefit demonstrated without statistical significance). <strong>Grade C</strong> for torque (peak torque knee extension), physical fitness (lean body mass), and global function (SF-36 physical component summary). </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><strong>Level of Evidence</strong></p>
+<p><strong>Level I</strong>: Randomized controlled trials</p>
+<p><strong>Level II</strong>: Nonrandomized studies</p>
+<p><strong>Strength of Evidence</strong></p>
+<p><strong>2 points</strong>: for reliability and validity (i.e., whether the study was double-blinded and whether the double-blinded method was appropriate)</p>
+<p><strong>2 points</strong>: for randomization (i.e., whether the study involved randomization and whether the randomization method was appropriate)</p>
+<p><strong>1 point</strong>: for explanation of participant withdrawals and dropouts</p>
+<p><strong>Grade of Recommendations<sup>a</sup></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;3&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Grade of Recommendations&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot;>Grade</th>
+            <th valign=&quot;top&quot;>Clinical Importance</th>
+            <th valign=&quot;top&quot;>Statistical Significance</th>
+            <th valign=&quot;top&quot;>Study Design</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Grade A* (strongly recommended**)</td>
+            <td valign=&quot;top&quot;>&amp;ge;15%</td>
+            <td valign=&quot;top&quot;>P&amp;lt;.05</td>
+            <td valign=&quot;top&quot;>Randomized controlled trial (RCT) (single or meta-analysis)</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Grade B*</td>
+            <td valign=&quot;top&quot;>&amp;ge;15%</td>
+            <td valign=&quot;top&quot;>P&amp;lt;.05</td>
+            <td valign=&quot;top&quot;>Clinical controlled trial (CCT) or observational (single or meta-analysis)</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Grade C+* (use suggested**)</td>
+            <td valign=&quot;top&quot;>&amp;ge;15%</td>
+            <td valign=&quot;top&quot;>Not significant</td>
+            <td valign=&quot;top&quot;>RCT/CCT or observational (single or meta-analysis)</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Grade C* (neutral**)</td>
+            <td valign=&quot;top&quot;>&amp;lt;15%</td>
+            <td valign=&quot;top&quot;>Not significant</td>
+            <td valign=&quot;top&quot;>Any study design</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Grade D* (neutral**)</td>
+            <td valign=&quot;top&quot;>&amp;lt;15% (favors control)</td>
+            <td valign=&quot;top&quot;>Not significant</td>
+            <td valign=&quot;top&quot;>Any study design</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Grade D+* (use not suggested**)</td>
+            <td valign=&quot;top&quot;>&amp;lt;15% (favors control)</td>
+            <td valign=&quot;top&quot;>Not significant</td>
+            <td valign=&quot;top&quot;>RCT/CCT or observational (single or meta-analysis)</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Grade D-* (strongly not recommended**)</td>
+            <td valign=&quot;top&quot;>&amp;ge;15% (favors control)</td>
+            <td valign=&quot;top&quot;>P&amp;lt;.05 (favors control)</td>
+            <td valign=&quot;top&quot;>Well-designed RCT with &amp;gt;100 participants (if &amp;lt;100 participants, becomes a grade D recommendation)</td>
+        </tr>
+    </tbody>
+</table>
+<p><sup>a</sup>Combined grading recommendations according to the Ottawa Panel (Ottawa Panel Evidence-Based Clinical Practice Guidelines for Aerobic Fitness Exercises in the Management of Fibromyalgia: Part 1. Phys Ther. 2008;88:857&amp;ndash;871; Ottawa Panel Evidence-Based Clinical Practice Guidelines for Strengthening Exercises in the Management of Fibromyalgia: Part 2. Phys Ther. 2008;88: 873&amp;ndash;886) for alphabetical grading system (indicated by asterisk) and to the Cochrane Collaboration (<a href=&quot;http://www.cochrane.org&quot; title=&quot;Cochrane Web site&quot;>www.cochrane.org</a>) for international nominal grading system (indicated by double asterisk).</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Osteoarthritis </li>
+    <li>Obesity </li>
+</ul>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Counseling"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Nutrition"/>
+      <fieldvalue value="Physical Medicine and Rehabilitation"/>
+      <fieldvalue value="Rheumatology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Dietitians"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physical Therapists"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To construct an updated evidence-based clinical practice guideline on the use of physical activity and diet for the management of osteoarthritis (OA) in adults (&amp;gt;18 years of age) who are obese or overweight (body mass index &amp;ge;25 kg/m<sup>2</sup>)</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adults (&amp;gt;18 years of age) with osteoarthritis (OA) who are obese or overweight (body mass index &amp;ge;25 kg/m<sup>2</sup>)</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Physical activity (aerobic training, strength training, resistance training, aquatic exercise, home-based exercise, land-based exercise, stretching, endurance and range-of-motion training) </li>
+    <li>Diet modification (caloric restriction, behavior modification, low energy diet, high protein diet, patient education, cognitive-behavioral modification strategies) </li>
+    <li>Acupuncture </li>
+    <li>Electrotherapy </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Functional status (Lequesne Index, Western Ontario and McMaster Universities Osteoarthritis Index [WOMAC]) </li>
+    <li>Physical function (Medical Outcomes Study 36-Item Short-Form Health Survey questionnaire [SF-36] physical function score) </li>
+    <li>Self-efficacy (stair climbing test) </li>
+    <li>Pain scale (visual analog scale [VAS] score) </li>
+    <li>Endurance (Six-Minute Walk Test) </li>
+    <li>Stiffness (WOMAC stiffness score) </li>
+    <li>Strength (hamstring and quadriceps muscle strength) </li>
+    <li>Torque (concentric knee extension) </li>
+    <li>Body composition (waist circumference, body weight, body mass index [BMI], lean body mass, and body fat mass) </li>
+    <li>Mental health (SF-36 mental health score) </li>
+    <li>Psychological well-being (physical function and body satisfaction measure) </li>
+    <li>Mobility (walking speed) </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Literature Search</strong></p>
+<p>A library scientist conducted an extensive <em>a priori</em> literature search for articles related to obesity and osteoarthritis (OA) of the knee in June 2009. Applying Cochrane Collaboration search techniques, the search included articles published from January 1, 1966, to November 31, 2010, and were extracted from the following databases: MEDLINE, EMBASE (Current Contents), SPORTDiscus, SUM, Scopus, CINAHL, AMED, BIOMED, PubMed, ERIC, the Cochrane Controlled Trials, and PEDro. A hand search of the reference lists of potential case-control studies (CCSs) also was performed.</p>
+<p><em>Study Inclusion and Exclusion Criteria</em></p>
+<p>The Ottawa Panel and research assistance team strictly applied the inclusion and exclusion criteria (see Table 2 in the original guideline document) so that every included article met the specific intervention, study design, participant, and outcome criteria. These precise selection methods are described in previous Ottawa Panel publications. These inclusion and exclusion criteria were approved through Ottawa Panel consensus.</p>
+<p><em>Interventions</em></p>
+<p>Studies that applied physical activity, diet, or both for the management of OA in adults who were obese or overweight were included. Studies were not included if interventions included surgery, injections to the lower extremities, medication for weight loss, medication for management of OA symptoms, acupuncture, or multidisciplinary and function restoration programs (see Table 2 in the original guideline document).</p>
+<p><em>Study Designs</em></p>
+<p>Studies that were randomized controlled trials (RCTs), controlled clinical trials (CCTs), cohort studies, and head-to-head studies (e.g., diet versus physical activity, as opposed to diet versus control) were included. Additionally, only articles published in English or French were included in order to diminish time and translation costs. Studies were excluded if they were uncontrolled cohort studies, case studies, reviews, or guidelines; were conducted with no comparison group; provided data without means and standard deviations; reported a &amp;ge;20% dropout rate; or had a sample of fewer than 5 patients per group (see Table 2 in the original guideline document).</p>
+<p><em>Participants</em></p>
+<p>Studies must have had adult participants (&amp;gt;18 years of age) who were identified as overweight (BMI &amp;ge;25 kg/m<sup>2</sup>) or obese (BMI &amp;ge;30 kg/m<sup>2</sup>) and were affected by OA in the lower extremities. Studies were excluded if participants had cancer or other oncologic conditions, pulmonary conditions, cardiac conditions, dermatological conditions, neurological conditions, other rheumatologic or musculoskeletal conditions, pediatric conditions (e.g., juvenile arthritis), or psychiatric conditions (see Table 2 in the original guideline document).</p>
+<p><em>Outcomes</em></p>
+<p>Several types of outcomes were of relevance for this article (see Table 2 in the original guideline document). Note that researchers might have used different instruments to measure the same outcome (e.g., one researcher might use the Lequesne Index to measure the concept of functional status, whereas another researcher might use the Western Ontario and McMaster Universities Osteoarthritis Index [WOMAC]). Outcomes of primary interest were functional status (Lequesne Index, WOMAC), physical function (Medical Outcomes Study 36-Item Short-Form Health Survey questionnaire [SF-36] physical function score), self-efficacy (stair climbing test), pain scale (visual analog scale [VAS] score), endurance (Six-Minute Walk Test), stiffness (WOMAC stiffness score), strength (hamstring and quadriceps muscle strength), torque (concentric knee extension), body composition (waist circumference, body weight, body mass index [BMI], lean body mass, and body fat mass), mental health (SF-36 mental health score), psychological well-being (physical function and body satisfaction measure), and mobility (walking speed) (Appendix). Articles were excluded if outcome measures were biomechanical measures, biochemical measures, or serum markers (see Table 2 in the original guideline document).</p>
+<p><em>Study Selection</em></p>
+<p>Following the literature search, 2 reviewers from the research assistance team were trained by the Ottawa Panel to systematically classify the articles into inclusion and exclusion groups using the criteria constructed by the Ottawa Panel (see Table 2 in the original guideline document). Separately, the 2 reviewers read each article and compiled lists of articles to be included or excluded. When disagreement emerged, the primary investigator of the Ottawa Panel was consulted, and a consensus was reached on the ultimate placement of the article.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>10 articles that were case-control studies were selected</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Level of Evidence</strong></p>
+<p><strong>Level I</strong>: Randomized controlled trials</p>
+<p><strong>Level II</strong>: Nonrandomized studies</p>
+<p><strong>Strength of Evidence</strong></p>
+<p><strong>2 points</strong>: for reliability and validity (i.e., whether the study was double-blinded and whether the double-blinded method was appropriate)</p>
+<p><strong>2 points</strong>: for randomization (i.e., whether the study involved randomization and whether the randomization method was appropriate)</p>
+<p><strong>1 point</strong>: for explanation of participant withdrawals and dropouts</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Meta-Analysis of Randomized Controlled Trials"/>
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Quality Assessment</strong></p>
+<p>The 2 reviewers from the research assistance team independently extracted data from the articles retrieved from the literature search with the use of data extraction forms. Information of interest included study design, intervention, treatment groups, method, results, and quality scoring information. The quality scoring information was used to assess the articles according to the Jadad scale.</p>
+<p><strong>Data Analysis</strong></p>
+<p>To analyze the data, the Ottawa Panel applied a Cochrane Collaboration statistical analysis similar to that of past Ottawa Panel publications. The weighed mean difference (WMD), the absolute benefit, and the percentage of relative change between intervention and control groups were calculated using continuous data. Relative risks were utilized to analyze dichotomous data (ie, data that can easily be separated into 2 or more categories). Calculations were made with the Review Manager (RevMan) computer software program.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Grade of Recommendations<sup>a</sup></strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;3&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Grade of Recommendations&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot;>Grade</th>
+            <th valign=&quot;top&quot;>Clinical Importance</th>
+            <th valign=&quot;top&quot;>Statistical Significance</th>
+            <th valign=&quot;top&quot;>Study Design</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Grade A* (strongly recommended**)</td>
+            <td valign=&quot;top&quot;>&amp;ge;15%</td>
+            <td valign=&quot;top&quot;>P&amp;lt;.05</td>
+            <td valign=&quot;top&quot;>Randomized controlled trial (RCT) (single or meta-analysis)</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Grade B*</td>
+            <td valign=&quot;top&quot;>&amp;ge;15%</td>
+            <td valign=&quot;top&quot;>P&amp;lt;.05</td>
+            <td valign=&quot;top&quot;>Clinical controlled trial (CCT) or observational (single or meta-analysis)</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Grade C+* (use suggested**)</td>
+            <td valign=&quot;top&quot;>&amp;ge;15%</td>
+            <td valign=&quot;top&quot;>Not significant</td>
+            <td valign=&quot;top&quot;>RCT/CCT or observational (single or meta-analysis)</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Grade C* (neutral**)</td>
+            <td valign=&quot;top&quot;>&amp;lt;15%</td>
+            <td valign=&quot;top&quot;>Not significant</td>
+            <td valign=&quot;top&quot;>Any study design</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Grade D* (neutral**)</td>
+            <td valign=&quot;top&quot;>&amp;lt;15% (favors control)</td>
+            <td valign=&quot;top&quot;>Not significant</td>
+            <td valign=&quot;top&quot;>Any study design</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Grade D+* (use not suggested**)</td>
+            <td valign=&quot;top&quot;>&amp;lt;15% (favors control)</td>
+            <td valign=&quot;top&quot;>Not significant</td>
+            <td valign=&quot;top&quot;>RCT/CCT or observational (single or meta-analysis)</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Grade D-* (strongly not recommended**)</td>
+            <td valign=&quot;top&quot;>&amp;ge;15% (favors control)</td>
+            <td valign=&quot;top&quot;>P&amp;lt;.05 (favors control)</td>
+            <td valign=&quot;top&quot;>Well-designed RCT with &amp;gt;100 participants (if &amp;lt;100 participants, becomes a grade D recommendation)</td>
+        </tr>
+    </tbody>
+</table>
+<p><sup>a</sup>Combined grading recommendations according to the Ottawa Panel (Ottawa Panel Evidence-Based Clinical Practice Guidelines for Aerobic Fitness Exercises in the Management of Fibromyalgia: Part 1. Phys Ther. 2008;88:857&amp;ndash;871; Ottawa Panel Evidence-Based Clinical Practice Guidelines for Strengthening Exercises in the Management of Fibromyalgia: Part 2. Phys Ther. 2008;88: 873&amp;ndash;886) for alphabetical grading system (indicated by asterisk) and to the Cochrane Collaboration (<a href=&quot;http://www.cochrane.org&quot; title=&quot;Cochrane Web site&quot;>www.cochrane.org</a>) for international nominal grading system (indicated by double asterisk).</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline developers reviewed published cost analyses.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Not stated"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Short- and long-term&amp;nbsp;pain relief </li>
+    <li>Improvement of torque, functional status, self-efficacy, endurance, mobility, and psychological well-being </li>
+</ul>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Limitations</strong></p>
+<p>Although the Ottawa Panel guidelines were developed using rigorous quantitative methods, a potential publication bias may have occurred because only those articles written in English and French were included. This selection process inevitably misrepresents the amount of research that has been conducted on osteoarthritis (OA) and obesity globally. Additionally, the Ottawa Panel is made up of clinical experts from North America as opposed to being more internationally focused with clinical practitioners and researchers outside of North America, such as those people who make up the Osteoarthritis Research Society International (OARSI) Panel. The current Ottawa Panel recommendations demonstrated herein differ from the 2008 recommendations produced by the OARSI in that the Ottawa Panel examined the efficacy of physical activity and diet programs in the management of OA in adults who were obese or overweight and did not include surgical or pharmacological interventions.</p>
+<p>Further research is needed, as more than half of the trials were of low methodological quality.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Brosseau L, Wells GA, Tugwell P, Egan M, Dubouloz CJ, Casimiro L, Bugnariu N, Welch VA, De Angelis G, Francoeur L, Milne S, Loew L, McEwan J, Messier SP, Doucet E, Kenny GP, Prud'homme D, Lineker S, Bell M, Poitras S, Li JX, Finestone HM, Laferrière L, Haines-Wangda A, Russell-Doreleyers M, Lambert K, Marshall AD, Cartizzone M, Teav A, Ottawa Panel. Ottawa Panel evidence-based clinical practice guidelines for the management of osteoarthritis in adults who are obese or overweight. Phys Ther. 2011 Jun;91(6):843-61. [111 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21493746&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2011 Jun"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="Ottawa Panel - Independent Expert Panel"/>
+    </field>
+    <field fieldid="123" ordby="1230" id="448" name="Guideline Developer Comment" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Ottawa Panel</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Ottawa Panel Evidence-Based Clinical Practice Guidelines Development Group</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Group Members</em>: Lucie Brosseau, PhD, School of Rehabilitation Sciences, Faculty of Health Sciences, University of Ottawa, and Montfort Hospital Research Institute, Ottawa, Ontario, Canada; George A. Wells, PhD, Clinical Epidemiology Program, Ottawa Hospital Research Institute, Ottawa Hospital, Civic Campus, Ottawa, Ontario, Canada, and Department of Epidemiology and Community Medicine, University of Ottawa; Peter Tugwell, MD, MSc, Department of Epidemiology and Community Medicine, University of Ottawa, and Centre for Global Health, Institute of Population Health, Ottawa, Ontario, Canada; Mary Egan, PhD, School of Rehabilitation Sciences, Faculty of Health Sciences, University of Ottawa; Claire-Jehanne Dubouloz, PhD, School of Rehabilitation Sciences, Faculty of Health Sciences, University of Ottawa; Lynn Casimiro, PhD, Department of Academic Affairs, Montfort Hospital; Nicoleta Bugnariu, PhD, Physical Therapy Department, University of North Texas Health Science Center, Fort Worth, Texas; Vivian A. Welch, PhD, Centre for Global Health, Institute of Population Health; Gino De Angelis, BHSc, Department of Epidemiology and Community Medicine, and School of Rehabilitation Sciences, Faculty of Health Sciences, University of Ottawa; Lilliane Francoeur, BSc, Program in Nutrition Sciences, Faculty of Health Sciences, University of Ottawa; Sarah Milne, MSc, School of Rehabilitation Sciences, Faculty of Health Sciences, University of Ottawa, and Physiotherapy Department, Children's Hospital of Eastern Ontario, Ottawa, Ontario, Canada; Laurianne Loew, MSc, School of Rehabilitation Sciences, Faculty of Health Sciences, University of Ottawa; Jessica McEwan, MLIS, University of Ottawa Health Sciences Library.</p>
+<p><em>External Experts</em>: Steven P. Messier, PhD, Department of Health and Exercise Science, J.B. Snow Biomechanics Laboratory, Wake Forest University, Winston-Salem, North Carolina; Eric Doucet, PhD, School of Human Kinetics, Faculty of Health Sciences, University of Ottawa; Glen P. Kenny, PhD, School of Human Kinetics, Faculty of Health Sciences, University of Ottawa; Denis Prud'homme, MD, MSc, School of Human Kinetics, Faculty of Health Sciences, University of Ottawa; Sydney Lineker, PhD, The Arthritis Society, Toronto, Ontario, Canada; Mary Bell, MD, Continuing Education and Knowledge Transfer, University of Toronto; St&amp;eacute;phane Poitras, PhD, School of Rehabilitation Sciences, Faculty of Health Sciences, University of Ottawa; Jing Xian Li, PhD, School of Human Kinetics, Faculty of Health Sciences, University of Ottawa; Hillel M. Finestone, MD, SCO Health Services; Elisabeth Bruy&amp;egrave;re Health Centre, Ottawa, Ontario, Canada; Lucie Laferri&amp;egrave;re, MHA, Directorate Force Health Protection, Canadian Forces Health Services Group Headquarters, National Defense, Ottawa, Ontario, Canada; Angela Haines-Wangda, MSc, The Ottawa Hospital, General Campus, Ottawa, Ontario, Canada; Marion Russell-Doreleyers, MSc, The Arthritis Society, Ottawa, Ontario, Canada; Kim Lambert, MSc, The Arthritis Society, Ottawa; A consumer with osteoarthritis and obesity.</p>
+<p><em>Assistant Manuscript Writers</em>: Alison D. Marshall, MA, School of Rehabilitation Sciences, Faculty of Health Sciences, University of Ottawa; Margot Cartizzone, MSc, School of Rehabilitation Sciences, Faculty of Health Sciences, University of Ottawa; Adam Teav, BSc, School of Human Kinetics, Faculty of Health Sciences, University of Ottawa.</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available in Portable Document Format (PDF) from the <a href=&quot;http://ptjournal.apta.org/content/91/6/843.full.pdf+html&quot; title=&quot;Physical Therapy: Journal of the American Physical Therapy Association Web site&quot;>Physical Therapy: Journal of the American Physical Therapy Association Web site</a>.</p>
+<p>Print copies: Available from Cadmus Reprints, P.O. Box 822942, Philadelphia, PA 19182-2942; Ph: (410) 943-3086; E-mail: <a href=&quot;mailto:june.billman@cenveo.com&quot;>june.billman@cenveo.com</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Ottawa Panel evidence-based clinical practice guidelines for the management of osteoarthritis in adults who are obese or overweight. eAppendix. Ottawa, Ontario, (Canada): Ottawa Panel. 2011 Jun. 11 p. Available in Portable Document Format (PDF) from the <a href=&quot;http://ptjournal.apta.org/content/suppl/2011/05/25/91.6.843.DC1/Ottawa.pdf&quot; title=&quot;Physical Therapy: Journal of the American Physical Therapy Association Web site&quot;>Physical Therapy: Journal of the American Physical Therapy Association Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on October 18, 2012. The information was verified by the guideline developer on December 27, 2012.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This guideline is copyrighted by the American Physical Therapy Association&amp;nbsp;and may not be reproduced without specific permission from the Publisher.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 21:43:31 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:22:13 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 88.699 (3)
+  esindex: 0.01
+  captures_list: 146.039
+  CDXLines.iter: 25.986 (3)
+  PetaboxLoader3.datanode: 97.978 (4)
+  exclusion.robots: 0.277
+  exclusion.robots.policy: 0.265
+  RedisCDXSource: 23.023
+  PetaboxLoader3.resolve: 127.274
+  load_resource: 154.956
+-->

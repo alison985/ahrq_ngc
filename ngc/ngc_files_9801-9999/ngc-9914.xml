@@ -1,0 +1,563 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app19.us.archive.org';v.server_ms=834;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-9914?contentType=xml', '20160930224226')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930224226/https://www.guideline.gov/summaries/downloadcontent/ngc-9914?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930224226/https://www.guideline.gov/summaries/downloadcontent/ngc-9914?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-9914?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930224226" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 22:42:26 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 22:42:26 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 22:42:26 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930224226*/https://www.guideline.gov/summaries/downloadcontent/ngc-9914?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-9914?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Recommendations in primary care for the most efficacious and cost effective pharmacologic treatment for <em>Helicobacter pylori</em> in non-pregnant adults.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>University of Texas at Austin, School of Nursing Family Nurse Practitioner Program. Recommendations in primary care for the most efficacious and cost effective pharmacologic treatment for Helicobacter pylori in non-pregnant adults. Austin (TX): University of Texas at Austin, School of Nursing; 2013 May. 17 p.  [38 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+  </section>
+  <section secid="394" ordby="200" name="Regulatory Alert">
+    <field fieldid="154" ordby="205" id="395" name="FDA Warning/Regulatory Alert" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse</strong>: This guideline references a drug(s) for which important revised regulatory and/or warning information has been released.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><a href=&quot;http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm500665.htm&quot; title=&quot;FDA Web site&quot; target=&quot;_blank&quot;>May 12, 2016 &amp;ndash; Fluoroquinolone Antibacterial Drugs</a>: The U.S. Food and Drug Administration (FDA) is advising that the serious side effects associated with fluoroquinolone antibacterial drugs generally outweigh the benefits for patients with sinusitis, bronchitis, and uncomplicated urinary tract infections who have other treatment options. For patients with these conditions, fluoroquinolones should be reserved for those who do not have alternative treatment options. </li>
+</ul></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Strength of recommendations (<strong>A, B, C, D, I</strong>) and quality of evidence (<strong>High, Moderate, Low</strong>) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>First Line Therapy</strong></span></p>
+<p><strong>Standard Triple Therapy</strong></p>
+<p>(Generic proton pump inhibitor [PPI] twice a day [BID] + clarithromycin 500 mg BID + amoxicillin 1 gm BID) x 14 days</p>
+<table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Standard Triple Therapy Costs&quot;>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Cost:</td>
+            <td valign=&quot;top&quot;>$165 (medication purchased individually)</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td valign=&quot;top&quot;>$550 (Prevpac)</td>
+        </tr>
+    </tbody>
+</table>
+<p>OR</p>
+<p><strong>Bismuth Quadruple Therapy</strong></p>
+<p>(Generic PPI BID + tetracycline 500 mg four times a day [QID] + metronidazole 500 mg three times a day [TID] + bismuth subsalicylate 300 mg QID) x 14 days</p>
+<table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Bismuth Quadruple Therapy Costs&quot;>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Cost:</td>
+            <td valign=&quot;top&quot;>$95 (medication purchased individually)</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td valign=&quot;top&quot;>$860 (Helidac + PPI BID x 14 days)</td>
+        </tr>
+    </tbody>
+</table>
+<p>Standard triple therapy is recommended for patients that are not allergic to penicillin and who have not received a macrolide. If a practitioner is aware of clarithromycin resistance rates of greater than 20%, then bismuth quadruple therapy should be prescribed instead.</p>
+<p>(Karatapanis et al., 2011; Ang et al., 2013; Duck et al., 2004; Fuccio et al., 2007; Praserpetmanee, Mahachai, &amp;amp; Vilaichone, 2013; Haydee &amp;amp; Flores, 2010; Yoon et al., 2009; Liou et al., 2010; Luther et al., 2010)</p>
+<p>(<strong>Grade A, High Evidence</strong>)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Second Line Therapy After Initial Treatment Failure</span></strong></p>
+<p><strong>Levofloxacin/Amoxicillin Combination Therapy</strong></p>
+<p>(Generic PPI BID + amoxicillin 1 gm BID + levofloxacin 500 mg once a day [QD]) X 10 days</p>
+<p>Cost: $24</p>
+<p>OR</p>
+<p><strong>Bismuth Quadruple Therapy</strong></p>
+<p>(Generic PPI BID + tetracycline 500 mg QID + metronidazole 500 mg TID + bismuth subsalicylate 300 mg QID) x 14 days</p>
+<table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Bismuth Quadruple Therapy Costs&quot;>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Cost:</td>
+            <td valign=&quot;top&quot;>$95 (medication purchased individually)</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td valign=&quot;top&quot;>$860 (Helidac + PPI BID x 14 days)</td>
+        </tr>
+    </tbody>
+</table>
+<p>Bismuth quadruple therapy should not be used as a second line therapy if it was used as the initial therapy.</p>
+<p>(Gisbert, 2008; Gisbert et al., &quot;Second-line,&quot; 2008; Gisbert et al., &quot;Empirical rescue,&quot; 2008; Jodlowski, Lam, &amp;amp; Ashby, 2008; Lee et al., 2010; Li et al., 2010; Kuo et al., 2009; Kuo et al., 2013; Rokkas et al., 2009; Salazar et al., 2012; Schrauwen, Janssen, &amp;amp; de&amp;nbsp;Boer, 2009)</p>
+<p>(<strong>Grade A, High Evidence</strong>)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Initial Treatment in Penicillin Allergic Patient</span></strong></p>
+<p><strong>Metronidazole/Clarithromycin Combination Therapy</strong></p>
+<p>(Generic PPI BID + clarithromycin 500 mg BID + metronidazole 500 mg BID) x 14 days</p>
+<p>Cost: $181</p>
+<p>OR</p>
+<p><strong>Bismuth Quadruple Therapy</strong></p>
+<p>(Generic PPI BID + tetracycline 500 mg QID + metronidazole 500 mg TID + bismuth subsalicylate 300 mg QID) x 14 days</p>
+<table border=&quot;0&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Bismuth Quadruple Therapy Costs&quot;>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Cost:</td>
+            <td valign=&quot;top&quot;>$95 (medication purchased individually)</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td valign=&quot;top&quot;>$860 (Helidac + PPI BID x 14 days)</td>
+        </tr>
+    </tbody>
+</table>
+<p>(Talebi Bezmin Abadi et al., 2012; Duck et al., 2004; Gisbert et al., 2010; Larsen et al., 2013; Salazar et al., 2012)</p>
+<p>(<strong>Grade A, Moderate Evidence</strong>)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Second Line Therapy After Initial Treatment Failure in Penicillin Allergic Patient</span></strong></p>
+<p><strong>Levofloxacin/Clarithromycin Combination Therapy</strong></p>
+<p>(Generic PPI BID + levofloxacin 500 mg BID + clarithromycin 500 mg BID) x 10 days</p>
+<p>Cost: $124</p>
+<p>(Gisbert et al., 2010)</p>
+<p>(<strong>Grade A, Low Evidence</strong>)</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Treatment After Second Line Therapy Failure</strong></span></p>
+<p>Refer to gastrointestinal (GI) specialist.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Adjunct Treatment</span></strong></p>
+<p>Supplementation of standard triple therapy with <em>Saccharomyces boulardii</em> may be considered because it could increase eradication rates and decrease side effects of treatment (O'Connor et al., 2011; Song et al., 2010; Szajewska, Horvath, &amp;amp; Piwowarczyk, 2010). (<strong>Grade A, Moderate Evidence</strong>)</p>
+<p>Adjunct treatment with certain prebiotics and probiotics can show favorable results in reducing adverse effects according to the Maastricht IV Conference. (<strong>Grade A, Moderate Evidence</strong>)</p>
+<p>Failure rates of eradicating <em>Helicobacter pylori</em> are largely due to antibiotic resistance and adverse side effects. Probiotic supplementation can have a preventative effect on antibiotic-associated diarrhea and may increase eradication rates (Videlock &amp;amp; Cremonini, 2012; Boyanova &amp;amp; Mitov, 2012).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><strong>Quality of Evidence</strong> (Based on U.S. Preventive Services Task Force [USPSTF] Ratings)</p>
+<p><strong>High</strong>: There is a high level of certainty regarding the benefit based on well designed and conducted studies in primary care populations. They assess the effects of services on health outcomes. Future studies are unlikely to change this conclusion.</p>
+<p><strong>Moderate</strong>: The evidence available is sufficient to determine the services on health outcomes, but are limited by various factors in the studies such as size, quality or generalizability, or coherence. As more studies are produced, this could strengthen or weaken the conclusion of the evidence now available.</p>
+<p><strong>Low</strong>: The available evidence is insufficient to assess the effects on health outcomes. Evidence may be lacking due to study size, design, methods utilized, inconsistency or gaps in findings, lack of generalizability and lack of information on important health outcomes. More information may allow for a more accurate estimation of health outcomes.</p>
+<p><strong>Grading of Recommendations</strong> (Based on the USPSTF Ratings)</p>
+<p><strong>A</strong>. There is high certainty that the benefits are substantial. This service should be offered or provided.</p>
+<p><strong>B</strong>. This service is recommended. There is high certainty that there is moderate benefit and moderate certainty that there is substantial benefit. This service should be offered or provided.</p>
+<p><strong>C</strong>. This service is not recommended routinely by the USPSTF. Individual considerations may support providing this service. There is moderate certainty that the benefit is small. Only offer or provide this service to a specific individual if there are other reasons that support providing this service.</p>
+<p><strong>D</strong>. The USPSTF recommends against this service. This service should be discouraged.</p>
+<p><strong>I</strong>. Current evidence is insufficient to determine the risks or benefits of this service. This may be due to lack of evidence, poor quality or conflicting evidence. Clinical considerations of the USPSTF should be reviewed prior to this service being offered. Patients should understand the uncertainty about the potential risks and benefits.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An algorithm titled &quot;Algorithm for Efficacious &amp;amp; Cost-effective Pharmacologic Treatment&quot; is provided in the appendix of the original guideline document.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Helicobacter pylori</em> infection associated with the following conditions:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Peptic ulcer disease (PUD) </li>
+    <li>Recurrence of ulcer </li>
+    <li>Atrophic gastritis </li>
+    <li>Gastric cancer </li>
+    <li>Unexplainable iron deficiency anemia </li>
+    <li>Vitamin B-12 deficiency </li>
+    <li>Idiopathic thrombocytopenia (ITP) </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Infectious Diseases"/>
+      <fieldvalue value="Internal Medicine"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Pharmacists"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To assist primary care providers with current evidenced-based practice guidelines in reference to the most efficacious and cost effective treatment for <em>Helicobacter pylori</em> in non-pregnant adults in primary care</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Non-pregnant adult population ages &amp;ge;18 years of age in the United States</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Standard triple therapy: proton pump inhibitor (PPI) + clarithromycin + amoxicillin </li>
+    <li>Bismuth quadruple therapy: PPI + tetracycline + metronidazole + bismuth subsalicylate </li>
+    <li>Levofloxacin/amoxicillin combination therapy: PPI + amoxicillin + levofloxacin </li>
+    <li>Metronidazole/clarithromycin combination therapy: PPI + clarithromycin + metronidazole </li>
+    <li>Levofloxacin/clarithromycin combination therapy: PPI + levofloxacin + clarithromycin </li>
+    <li>Prebiotics and probiotics </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Eradication of <em>Helicobacter pylori</em> </li>
+    <li>Healing of peptic ulcer disease (PUD) </li>
+    <li>Decreased bleeding recurrence </li>
+    <li>Prevention or healing of atrophic gastritis </li>
+    <li>Decreased the incidence of gastric cancer </li>
+    <li>Improved hemoglobin levels in unexplainable iron deficiency anemia </li>
+    <li>Improved vitamin B-12 deficiency </li>
+    <li>Improved platelet count in idiopathic thrombocytopenic purpura (ITP) patients </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Online searches were performed for the time period January 2007 to March 2013 in the following databases: CINAHL, Cochrane, PubMed, EBSCO, Medline, and Up-To-Date.</p>
+<p>Key words included:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><em>Helicobacter pylori</em> (<em>H. pylori</em>) </li>
+    <li>Treatment </li>
+    <li>Management </li>
+    <li>Medication </li>
+    <li>Allergy </li>
+    <li>Adjunctive treatment </li>
+</ul>
+<p>Position statements from the American Gastroenterological Association, the American College of Gastroenterology, and the Centers for Disease Control and Prevention were also reviewed. Additional resources were identified by reviewing bibliographies of relevant articles and published guidelines.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Subjective Review"/>
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Quality of Evidence</strong> (Based on U.S. Preventive Services Task Force [USPSTF] Ratings)</p>
+<p><strong>High</strong>: There is a high level of certainty regarding the benefit based on well designed and conducted studies in primary care populations. They assess the effects of services on health outcomes. Future studies are unlikely to change this conclusion.</p>
+<p><strong>Moderate</strong>: The evidence available is sufficient to determine the services on health outcomes, but are limited by various factors in the studies such as size, quality or generalizability, or coherence. As more studies are produced, this could strengthen or weaken the conclusion of the evidence now available.</p>
+<p><strong>Low</strong>: The available evidence is insufficient to assess the effects on health outcomes. Evidence may be lacking due to study size, design, methods utilized, inconsistency or gaps in findings, lack of generalizability and lack of information on important health outcomes. More information may allow for a more accurate estimation of health outcomes.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Journal articles were analyzed for quality based on type of study design, method, number of subjects, representative sample, generalizability of results, and applicability for target populations.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+      <fieldvalue value="Informal Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Grading of Recommendations</strong> (Based on the U.S. Preventive Services Task Force [USPSTF] Ratings)</p>
+<p><strong>A</strong>. There is high certainty that the benefits are substantial. This service should be offered or provided.</p>
+<p><strong>B</strong>. This service is recommended. There is high certainty that there is moderate benefit and moderate certainty that there is substantial benefit. This service should be offered or provided.</p>
+<p><strong>C</strong>. This service is not recommended routinely by the USPSTF. Individual considerations may support providing this service. There is moderate certainty that the benefit is small. Only offer or provide this service to a specific individual if there are other reasons that support providing this service.</p>
+<p><strong>D</strong>. The USPSTF recommends against this service. This service should be discouraged.</p>
+<p><strong>I</strong>. Current evidence is insufficient to determine the risks or benefits of this service. This may be due to lack of evidence, poor quality or conflicting evidence. Clinical considerations of the USPSTF should be reviewed prior to this service being offered. Patients should understand the uncertainty about the potential risks and benefits.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Family nurse practitioner (FNP) students developed the guideline and submitted it to the University of Texas FNP program faculty for review. Revisions were made and submitted to external expert sources. Final revisions were made based on reviewer recommendations prior to submitting to the guideline committee.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="98" ordby="605" id="425" name="References Supporting the Recommendations" type="citation">
+      <fieldvalue value="<table><tr><td>Ang TL, Wang L, Ang D, Chiam P, Fock KM, Teo EK. Is there still a role for empiric first-line triple therapy using proton pump inhibitor, amoxicillin and clarithromycin for Helicobacter pylori infection in Singapore? Results of a time trend analysis. J Dig Dis. 2013 Feb;14(2):100-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23253473&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Boyanova L, Mitov I. Coadministration of probiotics with antibiotics: why, when and for how long. Expert Rev Anti Infect Ther. 2012 Apr;10(4):407-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22512748&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Duck WM, Sobel J, Pruckler JM, Song Q, Swerdlow D, Friedman C, Sulka A, Swaminathan B, Taylor T, Hoekstra M, Griffin P, Smoot D, Peek R, Metz DC, Bloom PB, Goldschmidt S, Parsonnet J, Triadafilopoulos G, Perez-Perez GI, Vakil N, Ernst P, Czinn S, Dunne D, Gold BD. Antimicrobial resistance incidence and risk factors among Helicobacter pylori-infected persons, United States. Emerg Infect Dis. 2004 Jun;10(6):1088-94. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15207062&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Fuccio L, Minardi ME, Zagari RM, Grilli D, Magrini N, Bazzoli F. Meta-analysis: duration of first-line proton-pump inhibitor based triple therapy  for Helicobacter pylori eradication. Ann Intern Med. 2007 Oct 16;147(8):553-62. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17938394&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Gisbert JP, Bermejo F, Castro-Fernandez M, Perez-Aisa A, Fernandez-Bermejo M, Tomas A, Barrio J, Bory F, Almela P, Sanchez-Pobre P, Cosme A, Ortiz V, Nino P, Khorrami S, Benito LM, Carneros JA, Lamas E, Modolell I, Franco A, Ortuno J, Rodrigo L, Garcia-Duran F, O'Callaghan E, Ponce J, Valer MP, Calvet X, H. pylori Study Group of the Asociacion Espanola de Gastroenterologia. Second-line rescue therapy with levofloxacin after H. pylori treatment failure: a Spanish multicenter study of 300 patients. Am J Gastroenterol. 2008 Jan;103(1):71-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17764498&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Gisbert JP, Gisbert JL, Marcos S, Jimenez-Alonso I, Moreno-Otero R, Pajares JM. Empirical rescue therapy after Helicobacter pylori treatment failure: a 10-year single-centre study of 500 patients. Aliment Pharmacol Ther. 2008 Feb 15;27(4):346-54. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17999716&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Gisbert JP, Perez-Aisa A, Castro-Fernandez M, Barrio J, Rodrigo L, Cosme A, Gisbert JL, Marcos S, Moreno-Otero R. Helicobacter pylori first-line treatment and rescue option containing levofloxacin in patients allergic to penicillin. Dig Liver Dis. 2010 Apr;42(4):287-90. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19632166&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Gisbert JP. &quot;Rescue&quot; regimens after Helicobacter pylori treatment failure. World J Gastroenterol. 2008 Sep 21;14(35):5385-402. [190 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18803350&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Haydee B, Flores A. Duration of proton pump inhibitor based triple therapy for Helicobacter pylori eradication: a meta-analysis presented at Digestive Disease Week 2010. New Orleans (LA): USA; 2010. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Jodlowski TZ, Lam S, Ashby CR Jr. Emerging therapies for the treatment of Helicobacter pylori infections. Ann Pharmacother. 2008 Nov;42(11):1621-39. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18845620&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Karatapanis S, Georgopoulos SD, Papastergiou V, Skorda L, Papantoniou N, Lisgos P, Kouvidou C, Fragkou P, Mentis A. &quot;7, 10 and 14-days rabeprazole-based standard triple therapies for H. pylori eradication: are they still effective? A randomized trial&quot;. Acta Gastroenterol Belg. 2011 Sep;74(3):407-12. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22103045&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kuo CH, Hsu PI, Kuo FC, Wang SS, Hu HM, Liu CJ, Chuah SK, Chen YH, Hsieh MC, Wu DC, Tseng HH. Comparison of 10 day bismuth quadruple therapy with high-dose metronidazole or levofloxacin for second-line Helicobacter pylori therapy: a randomized controlled trial. J Antimicrob Chemother. 2013 Jan;68(1):222-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22984204&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kuo CH, Hu HM, Kuo FC, Hsu PI, Chen A, Yu FJ, Tsai PY, Wu IC, Wang SW, Li CJ, Weng BC, Chang LL, Jan CM, Wang WM, Wu DC. Efficacy of levofloxacin-based rescue therapy for Helicobacter pylori infection after standard triple therapy: a randomized controlled trial. J Antimicrob Chemother. 2009 May;63(5):1017-24. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19246508&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Larsen AL, Ragnhildstveit E, Moayeri B, Eliassen L, Melby KK. Resistance rates of metronidazole and other antibacterials in Helicobacter pylori from previously untreated patients in Norway. APMIS. 2013 Apr;121(4):353-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23083455&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lee BH, Kim N, Hwang TJ, Lee SH, Park YS, Hwang JH, Kim JW, Jeong SH, Lee DH, Jung HC, Song IS. Bismuth-containing quadruple therapy as second-line treatment for Helicobacter pylori infection: effect of treatment duration and antibiotic resistance on the eradication rate in Korea. Helicobacter. 2010 Feb;15(1):38-45. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20302588&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Li Y, Huang X, Yao L, Shi R, Zhang G. Advantages of Moxifloxacin and Levofloxacin-based triple therapy for second-line  treatments of persistent Helicobacter pylori infection: a meta analysis. Wien Klin Wochenschr. 2010 Jul;122(13-14):413-22. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20628905&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Liou JM, Lin JT, Chang CY, Chen MJ, Cheng TY, Lee YC, Chen CC, Sheng WH, Wang HP, Wu MS. Levofloxacin-based and clarithromycin-based triple therapies as first-line and second-line treatments for Helicobacter pylori infection: a randomised comparative trial with crossover design. Gut. 2010 May;59(5):572-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20427390&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Luther J, Higgins PD, Schoenfeld PS, Moayyedi P, Vakil N, Chey WD. Empiric quadruple vs. triple therapy for primary treatment of Helicobacter pylori infection: Systematic review and meta-analysis of efficacy and tolerability. Am J Gastroenterol. 2010 Jan;105(1):65-73. [38 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19755966&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>O'Connor A, Gisbert JP, McNamara D, O'Morain C. Treatment of Helicobacter pylori infection 2011. Helicobacter. 2011 Sep;16(Suppl 1):53-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21896086&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Prasertpetmanee S, Mahachai V, Vilaichone RK. Improved efficacy of proton pump inhibitor - amoxicillin - clarithromycin triple  therapy for Helicobacter pylori eradication in low clarithromycin resistance areas or for tailored therapy. Helicobacter. 2013 Aug;18(4):270-3. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23356886&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Rokkas T, Sechopoulos P, Robotis I, Margantinis G, Pistiolas D. Cumulative H. pylori eradication rates in clinical practice by adopting first and second-line regimens proposed by the Maastricht III consensus and a third-line empirical regimen. Am J Gastroenterol. 2009 Jan;104(1):21-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19098844&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Salazar CO, Cardenas VM, Reddy RK, Dominguez DC, Snyder LK, Graham DY. Greater than 95% success with 14-day bismuth quadruple anti- Helicobacter pylori  therapy: a pilot study in US Hispanics. Helicobacter. 2012 Oct;17(5):382-90. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22967122&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Schrauwen RW, Janssen MJ, de Boer WA. Seven-day PPI-triple therapy with levofloxacin is very effective for Helicobacter pylori eradication. Neth J Med. 2009 Mar;67(3):96-101. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19307680&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Song MJ, Park DI, Park JH, Kim HJ, Cho YK, Sohn CI, Jeon WK, Kim BI. The effect of probiotics and mucoprotective agents on PPI-based triple therapy for eradication of Helicobacter pylori. Helicobacter. 2010 Jun;15(3):206-13. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20557362&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Szajewska H, Horvath A, Piwowarczyk A. Meta-analysis: the effects of Saccharomyces boulardii supplementation on Helicobacter pylori eradication rates and side effects during treatment. Aliment Pharmacol Ther. 2010 Nov;32(9):1069-79. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21039671&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Talebi Bezmin Abadi A, Ghasemzadeh A, Taghvaei T, Mobarez AM. Primary resistance of Helicobacter pylori to levofloxacin and moxifloxacine in Iran. Intern Emerg Med. 2012 Oct;7(5):447-52. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21437583&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Videlock EJ, Cremonini F. Meta-analysis: probiotics in antibiotic-associated diarrhoea. Aliment Pharmacol Ther. 2012 Jun;35(12):1355-69. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22531096&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Yoon H, Kim N, Lee BH, Hwang TJ, Lee DH, Park YS, Nam RH, Jung HC, Song IS. Moxifloxacin-containing triple therapy as second-line treatment for Helicobacter  pylori infection: effect of treatment duration and antibiotic resistance on the eradication rate. Helicobacter. 2009 Oct;14(5):77-85. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19751431&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate treatment for <em>Helicobacter pylori</em> infection in the non-pregnant adult population</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adverse effects of medications</p></div>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Pregnancy or breastfeeding </li>
+    <li>Hypersensitivity to drug/class/component of amoxicillin, bismuth subsalicylate, clarithromycin, levofloxacin, metronidazole, tetracycline, <em>Saccharomyces boulardii</em>, omeprazole or other proton pump inhibitors (PPIs) </li>
+    <li>Amoxicillin contraindications: hypersensitivity to penicillins, cephalosporins, imipenem; concomitant live bacterial vaccines </li>
+    <li>Bismuth subsalicylate contraindications: hypersensitivity to bismuth, aspirin, or other salicylates, infectious diarrhea, high fever, von Willebrand disease, hemorrhage, ulcer or gastrointestinal (GI) bleeding with black or bloody stool, hemophilia </li>
+    <li>Clarithromycin contraindications:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Co-administration with pimozide, cisapride, ergotamine, and dihydroergotamine </li>
+        <li>History of cholestatic jaundice/hepatic dysfunction associated with prior use of clarithromycin </li>
+        <li>Clarithromycin/ranitidine bismuth citrate contraindicated in severe renal impairment (creatinine clearance [CrCl] &amp;lt;25 mL/min) </li>
+        <li>History of acute porphyria </li>
+    </ul>
+    </li>
+    <li><em>S. boulardii</em>:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Antifungals can reduce the effectiveness of <em>S. boulardii.</em> </li>
+        <li>Known allergy to <em>Saccharomyces cerevisiae</em>, severely immunocompromised, and those with indwelling vascular catheters </li>
+    </ul>
+    </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>This guideline represents the view of the University of Texas School of Nursing (SON) Family Nurse Program (FNP) students and faculty, and was arrived at after careful consideration of the evidence available and cost of pharmacologic treatments. Healthcare professionals are expected to take this guideline into account with their own clinical judgment. These guidelines do not supersede the individual responsibility of the healthcare provider to make decisions appropriate to the circumstance and to the individual patient. </li>
+    <li>The recommendations in this guideline simplify clinical decision making and may not be appropriate in all circumstances. Patients with previous <em>Helicobacter pylori</em> treatment failures, history of gastric cancer, long term proton pump inhibitor (PPI) use, long term non-steroidal anti-inflammatory drug (NSAID) use, who are pregnant, and children younger than 18 years may require different treatment strategies not discussed in this guideline. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>University of Texas at Austin, School of Nursing Family Nurse Practitioner Program. Recommendations in primary care for the most efficacious and cost effective pharmacologic treatment for Helicobacter pylori in non-pregnant adults. Austin (TX): University of Texas at Austin, School of Nursing; 2013 May. 17 p.  [38 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2013 May"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="University of Texas at Austin School of Nursing, Family Nurse Practitioner Program - Academic Institution"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>University of Texas at Austin, School of Nursing, Family Nurse Practitioner Program</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Practice Guidelines Committee</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Authors</em>: Laura Carvalho, MSN, RN, FNP; Esperanza Galaviz, MSN, RN, FNP; Carrie Gonzalez, MSN, RN, FNP; Sarah Gurney, MSN, RN, FNP</p>
+<p><em>Internal Reviewer</em>: Frances Sonstein, RN, MSN, FNP, CNS</p>
+<p><em>External Reviewers</em>: Thomas McHorse, MD, Gastroenterology at Austin Regional Clinic, Austin, TX; Professor Javier P. Gisbert, Gastroenterology Unit, La Princesa University Hospital, Madrid, Spain</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>No relationship exists between the guideline developers and any for-profit or non-for-profit companies or organizations that could potentially influence the guideline development.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Request from <a href=&quot;mailto:fsonstein@mail.nur.utexas.edu&quot;>fsonstein@mail.nur.utexas.edu</a></p>
+<p>Print copies: Available from the University of Texas at Austin, School of Nursing. 1700 Red River, Austin, Texas, 78701-1499. Attn: Nurse Practitioner Program.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on September 23, 2013. This summary was updated by ECRI Institute on May 18, 2016 following the U.S. Food and Drug Administration advisory on Fluoroquinolone Antibacterial Drugs.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which may be subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 22:42:26 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:57:32 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 60.865 (3)
+  esindex: 0.01
+  captures_list: 79.628
+  CDXLines.iter: 13.908 (3)
+  PetaboxLoader3.datanode: 83.264 (4)
+  exclusion.robots: 0.324
+  exclusion.robots.policy: 0.312
+  RedisCDXSource: 0.99
+  PetaboxLoader3.resolve: 684.803
+  load_resource: 721.749
+-->

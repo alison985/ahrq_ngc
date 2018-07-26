@@ -1,0 +1,814 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=171;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-9267?contentType=xml', '20171002235938')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20171002235938/https://www.guideline.gov/summaries/downloadcontent/ngc-9267?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20171002235938/https://www.guideline.gov/summaries/downloadcontent/ngc-9267?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-9267?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20171002235938" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930204754/https://www.guideline.gov/summaries/downloadcontent/ngc-9267?contentType=xml" title="30 Sep 2016"><strong>Sep</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 23:59:38 Oct 02, 2017">OCT</td>
+		  <td class="f" nowrap="nowrap">Nov</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930204754/https://www.guideline.gov/summaries/downloadcontent/ngc-9267?contentType=xml" title="20:47:54 Sep 30, 2016"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 23:59:38 Oct 02, 2017">02</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930204754/https://www.guideline.gov/summaries/downloadcontent/ngc-9267?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 23:59:38 Oct 02, 2017">2017</td>
+		  <td class="f" nowrap="nowrap">2018</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20171002235938*/https://www.guideline.gov/summaries/downloadcontent/ngc-9267?contentType=xml" title="See a list of every capture for this URL">2 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 02 Oct 2017</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-9267?contentType=xml","2017-10-02",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>KDIGO clinical practice guideline for acute kidney injury.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>KDIGO clinical practice guideline for acute kidney injury. Kidney Int Suppl. 2012 Mar;2(1):1-138. [783 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Definitions for grade for overall quality of evidence (<strong>A-D, Not Graded</strong>) and implications of the strength of recommendations (<strong>Level 1</strong> and <strong>Level 2</strong>) are given at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Acute Kidney Injury (AKI) Definition</span></strong></p>
+<p><strong>Definition and Classification of AKI</strong></p>
+<p><em>Definition and Staging of AKI</em></p>
+<p>2.1.1: AKI is defined as any of the following (<em><strong>Not Graded</strong></em>):</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Increase in serum creatinine (SCr) by &amp;ge;0.3 mg/dl (&amp;ge;26.5 &amp;micro;mol/l) within 48 hours; or </li>
+    <li>Increase in SCr to &amp;ge;1.5 times baseline, which is known or presumed to have occurred within the prior 7 days; or </li>
+    <li>Urine volume &amp;lt;0.5 ml/kg/h for 6 hours </li>
+</ul>
+<p>2.1.2: AKI is staged for severity according to the following criteria (see the table below). (<em><strong>Not Graded</strong></em>)</p>
+<p><strong>Table. Staging of Acute Kidney Injury (AKI)</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;3&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Staging of Acute Kidney Injury &quot;>
+    <thead>
+        <tr>
+            <th width=&quot;4%&quot; valign=&quot;top&quot;>Stage</th>
+            <th valign=&quot;top&quot;>Serum Creatinine</th>
+            <th valign=&quot;top&quot;>Urine Output</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>1</th>
+            <td valign=&quot;top&quot;>1.5&amp;ndash;1.9 times baseline<br />
+            OR<br />
+            &amp;ge;0.3 mg/dl (&amp;ge;26.5 &amp;micro;mol/l) increase</td>
+            <td valign=&quot;top&quot;>&amp;lt;0.5 ml/kg/h for 6&amp;ndash;12 hours</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>2</th>
+            <td valign=&quot;top&quot;>2.0&amp;ndash;2.9 times baseline</td>
+            <td valign=&quot;top&quot;>&amp;lt;0.5 ml/kg/h for &amp;ge;12 hours</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>3</th>
+            <td valign=&quot;top&quot;>3.0 times baseline<br />
+            OR<br />
+            Increase in serum creatinine to &amp;ge;4.0 mg/dl (&amp;ge;353.6 &amp;micro;mol/l) <br />
+            OR<br />
+            Initiation of renal replacement therapy<br />
+            OR, In patients &amp;lt;18 years, decrease in estimated glomerular filtration rate (eGFR) to &amp;lt;35 ml/min per 1.73 m<sup>2</sup> </td>
+            <td valign=&quot;top&quot;>&amp;lt;0.3 ml/kg/h for &amp;ge;24 hours<br />
+            OR<br />
+            Anuria for &amp;ge;12 hours</td>
+        </tr>
+    </tbody>
+</table>
+<p>2.1.3: The cause of AKI should be determined whenever possible. (<em><strong>Not Graded</strong></em>)</p>
+<p><strong>Risk Assessment</strong></p>
+<p>2.2.1: The Work Group recommends that patients be stratified for risk of AKI according to their susceptibilities and exposures. (<em><strong>1B</strong></em>)</p>
+<p>2.2.2: Manage patients according to their susceptibilities and exposures to reduce the risk of AKI (see relevant guideline sections). (<em><strong>Not Graded</strong></em>)</p>
+<p>2.2.3: Test patients at increased risk for AKI with measurements of SCr and urine output to detect AKI. (<em><strong>Not Graded</strong></em>) Individualize frequency and duration of monitoring based on patient risk and clinical course. (<em><strong>Not Graded</strong></em>)</p>
+<p><strong>Evaluation and General Management of Patients with and at Risk for AKI</strong></p>
+<p>2.3.1: Evaluate patients with AKI promptly to determine the cause, with special attention to reversible causes. (<em><strong>Not Graded</strong></em>)</p>
+<p>2.3.2: Monitor patients with AKI with measurements of SCr and urine output to stage the severity, according to Recommendation 2.1.2. (<em><strong>Not Graded</strong></em>)</p>
+<p>2.3.3: Manage patients with AKI according to the stage (see Figure 4 in the original guideline document) and cause. (<em><strong>Not Graded</strong></em>)</p>
+<p>2.3.4: Evaluate patients 3 months after AKI for resolution, new onset, or worsening of pre-existing chronic kidney disease (CKD). (<em><strong>Not Graded</strong></em>)</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>If patients have CKD, manage these patients as detailed in the Kidney Disease Outcome Quality Initiative (KDOQI) <a href=&quot;http://www.kidney.org/professionals/KDOQI/guidelines_ckd/toc.htm&quot; title=&quot;KDOQI Web site&quot;>CKD Guideline</a> (Guidelines 7&amp;ndash;15). (<em><strong>Not Graded</strong></em>) </li>
+    <li>If patients do not have CKD, consider them to be at increased risk for CKD and care for them as detailed in the KDOQI <a href=&quot;http://www.kidney.org/professionals/KDOQI/guidelines_ckd/toc.htm&quot; title=&quot;KDOQI Web site&quot;>CKD Guideline 3</a> for patients at increased risk for CKD. (<em><strong>Not Graded</strong></em>) </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Prevention and Treatment of AKI</span></strong></p>
+<p><strong>Hemodynamic Monitoring and Support for Prevention and Management of AKI</strong></p>
+<p><em>Fluids</em></p>
+<p>3.1.1: In the absence of hemorrhagic shock, the Work Group suggests using isotonic crystalloids rather than colloids (albumin or starches) as initial management for expansion of intravascular volume in patients at risk for AKI or with AKI. (<em><strong>2B</strong></em>)</p>
+<p><em>Vasopressors</em></p>
+<p>3.1.2: The Work Group recommends the use of vasopressors in conjunction with fluids in patients with vasomotor shock with, or at risk for, AKI. (<em><strong>1C</strong></em>)</p>
+<p><em>Protocolized Hemodynamic Management</em></p>
+<p>3.1.3: The Work Group suggests using protocol-based management of hemodynamic and oxygenation parameters to prevent development or worsening of AKI in high-risk patients in the perioperative setting (<em><strong>2C</strong></em>) or in patients with septic shock. (<em><strong>2C</strong></em>)</p>
+<p><strong>Glycemic Control and Nutritional Support</strong></p>
+<p><em>Glycemic Control in Critical Illness: Renal Effects and Outcomes</em></p>
+<p>3.3.1: In critically ill patients, the Work Group suggests insulin therapy targeting plasma glucose 110&amp;ndash;149 mg/dl (6.1&amp;ndash;8.3 mmol/l). (<em><strong>2C</strong></em>)</p>
+<p><em>Nutritional Aspects in the Prevention and Treatment of Critically Ill Patients with AKI</em></p>
+<p>3.3.2: The Work Group suggests achieving a total energy intake of 20&amp;ndash;30 kcal/kg/d in patients with any stage of AKI. (<em><strong>2C</strong></em>)</p>
+<p>3.3.3: The Work Group suggests to avoid restriction of protein intake with the aim of preventing or delaying initiation of renal replacement therapy (RRT). (<em><strong>2D</strong></em>)</p>
+<p>3.3.4: The Work Group suggests administering 0.8&amp;ndash;1.0 g/kg/d of protein in noncatabolic AKI patients without need for dialysis (<em><strong>2D</strong></em>), 1.0&amp;ndash;1.5 g/kg/d in patients with AKI on RRT (<em><strong>2D</strong></em>), and up to a maximum of 1.7 g/kg/d in patients on continuous renal replacement therapy (CRRT) and in hypercatabolic patients. (<em><strong>2D</strong></em>)</p>
+<p>3.3.5: The Work Group suggests providing nutrition preferentially via the enteral route in patients with AKI. (<em><strong>2C</strong></em>)</p>
+<p><strong>The Use of Diuretics in AKI</strong></p>
+<p>3.4.1: The Work Group recommends not using diuretics to prevent AKI. (<em><strong>1B</strong></em>)</p>
+<p>3.4.2: The Work Group suggests not using diuretics to treat AKI, except in the management of volume overload. (<em><strong>2C</strong></em>)</p>
+<p><strong>Vasodilator Therapy: Dopamine, Fenoldopam, and Natriuretic Peptides</strong></p>
+<p><em>Dopamine for the Prevention or Treatment of AKI</em></p>
+<p>3.5.1: The Work Group recommends not using low-dose dopamine to prevent or treat AKI. (<em><strong>1A</strong></em>)</p>
+<p><em>Fenoldopam for the Prevention or Treatment of AKI</em></p>
+<p>3.5.2 The Work Group suggests not using fenoldopam to prevent or treat AKI. (<em><strong>2C</strong></em>)</p>
+<p><em>Natriuretic Peptides for the Prevention or Treatment of AKI</em></p>
+<p>3.5.3: The Work Group suggests not using atrial natriuretic peptide (ANP) to prevent (<em><strong>2C</strong></em>) or treat (<em><strong>2B</strong></em>) AKI.</p>
+<p><strong>Growth Factor Intervention</strong></p>
+<p>3.6.1: The Work Group recommends not using recombinant human insulin-like growth factor-1 (rh)IGF-1 to prevent or treat AKI. (<em><strong>1B</strong></em>)</p>
+<p><strong>Adenosine Receptor Antagonists</strong></p>
+<p>3.7.1: The Work Group suggests that a single dose of theophylline may be given in neonates with severe perinatal asphyxia, who are at high risk of AKI. (<em><strong>2B</strong></em>)</p>
+<p><strong>Prevention of Aminoglycoside- and Amphotericin-related AKI</strong></p>
+<p><em>Aminoglycoside Nephrotoxicity</em></p>
+<p>3.8.1: The Work Group suggests not using aminoglycosides for the treatment of infections unless no suitable, less nephrotoxic, therapeutic alternatives are available. (<em><strong>2A</strong></em>)</p>
+<p>3.8.2: The Work Group suggests that, in patients with normal kidney function in steady state, aminoglycosides are administered as a single dose daily rather than multiple-dose daily treatment regimens. (<em><strong>2B</strong></em>)</p>
+<p>3.8.3: The Work Group recommends monitoring aminoglycoside drug levels when treatment with multiple daily dosing is used for more than 24 hours. (<em><strong>1A</strong></em>)</p>
+<p>3.8.4: The Work Group suggests monitoring aminoglycoside drug levels when treatment with single-daily dosing is used for more than 48 hours. (<em><strong>2C</strong></em>)</p>
+<p>3.8.5: The Work Group suggests using topical or local applications of aminoglycosides (e.g., respiratory aerosols, instilled antibiotic beads), rather than intravenous (i.v.) application, when feasible and suitable. (<em><strong>2B</strong></em>)</p>
+<p><em>Amphotericin B Nephrotoxicity</em></p>
+<p>3.8.6: The Work Group suggests using lipid formulations of amphotericin B rather than conventional formulations of amphotericin B. (<em><strong>2A</strong></em>)</p>
+<p>3.8.7: In the treatment of systemic mycoses or parasitic infections, the Work Group recommends using azole antifungal agents and/or the echinocandins rather than conventional amphotericin B, if equal therapeutic efficacy can be assumed. (<em><strong>1A</strong></em>)</p>
+<p><strong>Other Methods of Prevention of AKI in the Critically Ill</strong></p>
+<p><em>On-Pump Versus Off-Pump Coronary Artery Bypass Surgery</em></p>
+<p>3.9.1: The Work Group suggests that off-pump coronary artery bypass graft surgery not be selected solely for the purpose of reducing perioperative AKI or need for RRT. (<em><strong>2C</strong></em>)</p>
+<p>3.9.2: The Work Group suggests not using N-acetylcysteine (NAC) to prevent AKI in critically ill patients with hypotension. (<em><strong>2D</strong></em>)</p>
+<p><em>NAC in Critically Ill Patients</em></p>
+<p>3.9.3: The Work Group recommends not using oral or i.v. NAC for prevention of postsurgical AKI. (<em><strong>1A</strong></em>)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Contrast-induced AKI</span></strong></p>
+<p><strong>Contrast-induced AKI: Definition, Epidemiology, and Prognosis</strong></p>
+<p><em>Background</em></p>
+<p>4.1: Define and stage AKI after administration of intravascular contrast media as per Recommendations 2.1.1&amp;ndash;2.1.2. (<em><strong>Not Graded</strong></em>)</p>
+<p class=&quot;Indent&quot;>4.1.1: In individuals who develop changes in kidney function after administration of intravascular contrast media, evaluate for contrast-induced acute kidney injury (CI-AKI) as well as for other possible causes of AKI. (<em><strong>Not Graded</strong></em>)</p>
+<p><strong>Assessment of the Population at Risk for CI-AKI</strong></p>
+<p>4.2.1 Assess the risk for CI-AKI and, in particular, screen for pre-existing impairment of kidney function in all patients who are considered for a procedure that requires intravascular (i.v. or intraarterial [i.a.]) administration of iodinated contrast medium. (<em><strong>Not Graded</strong></em>)</p>
+<p>4.2.2: Consider alternative imaging methods in patients at increased risk for CI-AKI. (<em><strong>Not Graded</strong></em>)</p>
+<p><strong>Nonpharmacological Prevention Strategies of CI-AKI</strong></p>
+<p><em>Dose/Volume of Contrast-Media Administration</em></p>
+<p>4.3.1: Use the lowest possible dose of contrast medium in patients at risk for CI-AKI. (<em><strong>Not Graded</strong></em>)</p>
+<p><em>Selection of a Contrast Agent</em></p>
+<p>4.3.2: The Work Group recommends using either iso-osmolar or low-osmolar iodinated contrast media, rather than high-osmolar iodinated contrast media in patients at increased risk of CI-AKI. (<em><strong>1B</strong></em>)</p>
+<p><strong>Pharmacological Prevention Strategies of CI-AKI</strong></p>
+<p><em>Fluid Administration</em></p>
+<p>4.4.1: The Work Group recommends i.v. volume expansion with either isotonic sodium chloride or sodium bicarbonate solutions, rather than no i.v. volume expansion, in patients at increased risk for CI-AKI. (<em><strong>1A</strong></em>)</p>
+<p>4.4.2: The Work Group recommends not using oral fluids alone in patients at increased risk of CI-AKI. (<em><strong>1C</strong></em>)</p>
+<p><em>Role of NAC in the Prevention of CI-AKI</em></p>
+<p>4.4.3: The Work Group suggests using oral NAC, together with i.v. isotonic crystalloids, in patients at increased risk of CI-AKI. (<em><strong>2D</strong></em>)</p>
+<p><em>Theophylline and Fenoldopam in Prevention of CI-AKI</em></p>
+<p><span style=&quot;text-decoration: underline;&quot;>Theophylline</span></p>
+<p>4.4.4: The Work Group suggests not using theophylline to prevent CI-AKI. (<em><strong>2C</strong></em>)</p>
+<p><span style=&quot;text-decoration: underline;&quot;>Fenoldopam</span></p>
+<p>4.4.5: The Work Group recommends not using fenoldopam to prevent CI-AKI. (<em><strong>1B</strong></em>)</p>
+<p><strong>Effects of Hemodialysis or Hemofiltration</strong></p>
+<p>4.5.1: The Work Group suggests not using prophylactic intermittent hemodialysis (IHD) or hemofiltration (HF) for contrast-media removal in patients at increased risk for CI-AKI. (<em><strong>2C</strong></em>)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Dialysis Interventions for Treatment of AKI</span></strong></p>
+<p><strong>Timing of Renal Replacement Therapy in AKI</strong></p>
+<p>5.1.1: Initiate RRT emergently when life-threatening changes in fluid, electrolyte, and acid-base balance exist. (<em><strong>Not Graded</strong></em>)</p>
+<p>5.1.2: Consider the broader clinical context, the presence of conditions that can be modified with RRT, and trends of laboratory tests&amp;mdash;rather than single blood urea nitrogen (BUN) and creatinine thresholds alone&amp;mdash;when making the decision to start RRT. (<em><strong>Not Graded</strong></em>)</p>
+<p><strong>Criteria for Stopping Renal Replacement Therapy in AKI</strong></p>
+<p>5.2.1: Discontinue RRT when it is no longer required, either because intrinsic kidney function has recovered to the point that it is adequate to meet patient needs, or because RRT is no longer consistent with the goals of care. (<em><strong>Not Graded</strong></em>)</p>
+<p>5.2.2: The Work Group suggests not using diuretics to enhance kidney function recovery, or to reduce the duration or frequency of RRT. (<em><strong>2B</strong></em>)</p>
+<p><strong>Anticoagulation</strong></p>
+<p>5.3.1: In a patient with AKI requiring RRT, base the decision to use anticoagulation for RRT on assessment of the patient's potential risks and benefits from anticoagulation (see Figure 17 in the original guideline document). (<em><strong>Not Graded</strong></em>)</p>
+<p class=&quot;Indent&quot;>5.3.1.1: The Work Group recommends using anticoagulation during RRT in AKI if a patient does not have an increased bleeding risk or impaired coagulation and is not already receiving systemic anticoagulation. (<em><strong>1B</strong></em>)</p>
+<p>5.3.2: For patients without an increased bleeding risk or impaired coagulation and not already receiving effective systemic anticoagulation, the Work Group suggests the following:</p>
+<p class=&quot;Indent&quot;>5.3.2.1: For anticoagulation in intermittent RRT, the Work Group recommends using either unfractionated or low-molecular-weight heparin, rather than other anticoagulants. (<em><strong>1C</strong></em>)</p>
+<p class=&quot;Indent&quot;>5.3.2.2: For anticoagulation in continuous renal replacement therapy (CRRT), the Work Group suggests using regional citrate anticoagulation rather than heparin in patients who do not have contraindications for citrate. (<em><strong>2B</strong></em>)</p>
+<p class=&quot;Indent&quot;>5.3.2.3: For anticoagulation during CRRT in patients who have contraindications for citrate, the Work Group suggests using either unfractionated or low-molecular-weight heparin, rather than other anticoagulants. (<em><strong>2C</strong></em>)</p>
+<p>5.3.3: For patients with increased bleeding risk who are not receiving anticoagulation, the Work Group suggests the following for anticoagulation during RRT:</p>
+<p class=&quot;Indent&quot;>5.3.3.1: The Work Group suggests using regional citrate anticoagulation, rather than no anticoagulation, during CRRT in a patient without contraindications for citrate. (<em><strong>2C</strong></em>)</p>
+<p class=&quot;Indent&quot;>5.3.3.2: The Work Group suggests avoiding regional heparinization during CRRT in a patient with increased risk of bleeding. (<em><strong>2C</strong></em>)</p>
+<p>5.3.4: In a patient with heparin-induced thrombocytopenia (HIT), all heparin must be stopped and the Work Group recommends using direct thrombin inhibitors (such as argatroban) or Factor Xa inhibitors (such as danaparoid or fondaparinux) rather than other or no anticoagulation during RRT. (<em><strong>1A</strong></em>)</p>
+<p class=&quot;Indent&quot;>5.3.4.1: In a patient with HIT who does not have severe liver failure, the Work Group suggests using argatroban rather than other thrombin or Factor Xa inhibitors during RRT. (<em><strong>2C</strong></em>)</p>
+<p><strong>Vascular Access for Renal Replacement Therapy in AKI</strong></p>
+<p>5.4.1: The Work Group suggests initiating RRT in patients with AKI via an uncuffed nontunneled dialysis catheter, rather than a tunneled catheter. (<em><strong>2D</strong></em>)</p>
+<p>5.4.2: When choosing a vein for insertion of a dialysis catheter in patients with AKI, consider these preferences (<em><strong>Not Graded</strong></em>):</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>First choice: right jugular vein </li>
+    <li>Second choice: femoral vein </li>
+    <li>Third choice: left jugular vein </li>
+    <li>Last choice: subclavian vein with preference for the dominant side </li>
+</ul>
+<p>5.4.3: The Work Group recommends using ultrasound guidance for dialysis catheter insertion. (<em><strong>1A</strong></em>)</p>
+<p>5.4.4: The Work Group recommends obtaining a chest radiograph promptly after placement and before first use of an internal jugular or subclavian dialysis catheter. (<em><strong>1B</strong></em>)</p>
+<p>5.4.5: The Work Group suggests not using topical antibiotics over the skin insertion site of a nontunneled dialysis catheter in intensive care unit (ICU) patients with AKI requiring RRT. (<em><strong>2C</strong></em>)</p>
+<p>5.4.6: The Work Group suggests not using antibiotic locks for prevention of catheter-related infections of nontunneled dialysis catheters in AKI requiring RRT. (<em><strong>2C</strong></em>)</p>
+<p><strong>Dialyzer Membranes for Renal Replacement Therapy in AKI</strong></p>
+<p>5.5.1: The Work Group suggests to use dialyzers with a biocompatible membrane for IHD and CRRT in patients with AKI. (<em><strong>2C</strong></em>)</p>
+<p><strong>Modality of Renal Replacement Therapy for Patients with AKI</strong></p>
+<p>5.6.1: Use continuous and intermittent RRT as complementary therapies in AKI patients. (<em><strong>Not Graded</strong></em>)</p>
+<p>5.6.2: The Work Group suggests using CRRT, rather than standard intermittent RRT, for hemodynamically unstable patients. (<em><strong>2B</strong></em>)</p>
+<p>5.6.3: The Work Group suggests using CRRT, rather than intermittent RRT, for AKI patients with acute brain injury or other causes of increased intracranial pressure or generalized brain edema. (<em><strong>2B</strong></em>)</p>
+<p><strong>Buffer Solutions for Renal Replacement Therapy in Patients with AKI</strong></p>
+<p>5.7.1: The Work Group suggests using bicarbonate, rather than lactate, as a buffer in dialysate and replacement fluid for RRT in patients with AKI. (<em><strong>2C</strong></em>)</p>
+<p>5.7.2: The Work Group recommends using bicarbonate, rather than lactate, as a buffer in dialysate and replacement fluid for RRT in patients with AKI and circulatory shock. (<em><strong>1B</strong></em>)</p>
+<p>5.7.3: The Work Group suggests using bicarbonate, rather than lactate, as a buffer in dialysate and replacement fluid for RRT in patients with AKI and liver failure and/or lactic acidemia. (<em><strong>2B</strong></em>)</p>
+<p>5.7.4: The Work Group recommends that dialysis fluids and replacement fluids in patients with AKI, at a minimum, comply with American Association of Medical Instrumentation (AAMI) standards regarding contamination with bacteria and endotoxins. (<em><strong>1B</strong></em>)</p>
+<p><strong>Dose of RRT in AKI</strong></p>
+<p>5.8.1: The dose of RRT to be delivered should be prescribed before starting each session of RRT. (<em><strong>Not Graded</strong></em>) The Work Group recommends frequent assessment of the actual delivered dose in order to adjust the prescription. (<em><strong>1B</strong></em>)</p>
+<p>5.8.2: Provide RRT to achieve the goals of electrolyte, acid-base, solute, and fluid balance that will meet the patient's needs. (<em><strong>Not Graded</strong></em>)</p>
+<p>5.8.3: The Work Group recommends delivering a Kt/V of 3.9 per week when using intermittent or extended RRT in AKI. (<em><strong>1A</strong></em>)</p>
+<p>5.8.4: The Work Group recommends delivering an effluent volume of 20&amp;ndash;25 ml/kg/h for CRRT in AKI (<em><strong>1A</strong></em>). This will usually require a higher prescription of effluent volume. (<em><strong>Not Graded</strong></em>)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><strong>Quality of Supporting Evidence</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;3&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Quality of Supporting Evidence&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot;>Grade</th>
+            <th valign=&quot;top&quot;>Quality of Evidence</th>
+            <th valign=&quot;top&quot;>Meaning</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>A</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>High</td>
+            <td valign=&quot;top&quot;>The Work Group is confident that the true effect lies close to that of the estimate of the effect.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>B</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Moderate</td>
+            <td valign=&quot;top&quot;>The true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>C</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Low</td>
+            <td valign=&quot;top&quot;>The true effect may be substantially different from the estimate of the effect.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>D</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Very low</td>
+            <td valign=&quot;top&quot;>The estimate of effect is very uncertain, and often will be far from the truth.</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Strength of Recommendation</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;3&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Strength of Recommendation&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot; rowspan=&quot;2&quot;>Grade*</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;3&quot;>Implications</th>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Patients</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Clinicians</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Policy</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Level 1</strong><br />
+            &quot;The Work Group recommends&quot;</td>
+            <td valign=&quot;top&quot;>Most people in your situation would want the recommended course of action and only a small proportion would not.</td>
+            <td valign=&quot;top&quot;>Most patients should receive the recommended course of action.</td>
+            <td valign=&quot;top&quot;>The recommendation can be evaluated as a candidate for developing a policy or a performance measure.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Level 2</strong><br />
+            &quot;The Work Group suggests&quot;</td>
+            <td valign=&quot;top&quot;>The majority of people in your situation would want the recommended course of action, but many would not.</td>
+            <td valign=&quot;top&quot;>Different choices will be appropriate for different patients. Each patient needs help to arrive at a management decision consistent with her or his values and preferences.</td>
+            <td valign=&quot;top&quot;>The recommendation is likely to require substantial debate and involvement of stakeholders before policy can be determined.</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>*The additional category &quot;Not Graded&quot; was used, typically, to provide guidance based on common sense or where the topic does not allow adequate application of evidence. The most common examples include recommendations regarding monitoring intervals, counseling, and referral to other clinical specialists. The ungraded recommendations are generally written as simple declarative statements, but are not meant to be interpreted as being stronger recommendations than Level 1 or 2 recommendations.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following algorithms are available in the original guideline document:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Evaluation of AKI according to the stage and cause </li>
+    <li>GFR/SCr algorithm </li>
+    <li>Flow-chart summary of recommendations (for anticoagulation) </li>
+</ul></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Acute kidney injury (AKI)</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Screening"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Cardiology"/>
+      <fieldvalue value="Critical Care"/>
+      <fieldvalue value="Emergency Medicine"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Infectious Diseases"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Nephrology"/>
+      <fieldvalue value="Nutrition"/>
+      <fieldvalue value="Pediatrics"/>
+      <fieldvalue value="Preventive Medicine"/>
+      <fieldvalue value="Radiology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Health Plans"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Managed Care Organizations"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Patients"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Public Health Departments"/>
+      <fieldvalue value="Utilization Management"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To provide a clinical practice guideline with recommendations for acute kidney injury (AKI) using an evidence-based approach </li>
+    <li>To assist the practitioner caring for patients at risk for or with AKI in evaluation and in selecting treatments (among the different options) to improve patient survival and preserve or recover kidney function </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adults and children at risk for or with acute kidney injury (AKI)</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Risk Assessment/Evaluation</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Acute kidney injury (AKI) staging for severity according to standard criteria </li>
+    <li>Determining cause of AKI </li>
+    <li>Stratification of patients </li>
+</ol>
+<p><strong>Prevention/Treatment/Management</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Isotonic crystalloids for expansion of intravascular volume </li>
+    <li>Use of vasopressors </li>
+    <li>Protocol-based hemodynamic and oxygenation parameters </li>
+    <li>Insulin therapy for critically ill </li>
+    <li>Nutritional intake, including appropriate energy and protein, via enteral route in patients with AKI </li>
+    <li>Theophylline for neonates </li>
+    <li>Prevention of aminoglycoside- and amphotericin-related AKI
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Single daily dose vs multiple daily doses of aminoglycosides </li>
+        <li>Topical or local applications vs intravenous (i.v.) when feasible and suitable </li>
+        <li>Lipid formulations of amphotericin B </li>
+        <li>Use of azole antifungal agents and/or echinocandins </li>
+    </ul>
+    </li>
+    <li>Assessment of risk of contrast-induced (CI)-AKI
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Screen for kidney function impairment </li>
+        <li>Consider alternative imaging methods </li>
+    </ul>
+    </li>
+    <li>Nonpharmacological prevention
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Lowest possible dose of contrast medium </li>
+        <li>Iso-osmolar or low-osmolar iodinated contrast </li>
+    </ul>
+    </li>
+    <li>Pharmacological prevention
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>i.v. volume expansion with either isotonic sodium chloride or sodium bicarbonate </li>
+        <li>Oral N-acetylcysteine (NAC) with i.v. isotonic crystalloids </li>
+    </ul>
+    </li>
+    <li>Anticoagulation </li>
+    <li>Renal replacement therapy (RRT)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Vascular access </li>
+        <li>Dialyzer membranes </li>
+        <li>Continuous renal replacement therapy (CRRT) and intermittent RRT </li>
+        <li>Buffer solutions </li>
+        <li>Prescribed dosage </li>
+    </ul>
+    </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: Use of diuretics, vasodilator therapy, growth factor interventions, coronary artery bypass surgery, N-acetylcysteine (NAC), or prophylactic intermittent hemodialysis (IHD) or hemofiltration (HF) is not recommended.</p></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Sensitivity and specificity of diagnostic tests </li>
+    <li>Categorical creatinine- or glomerular filtration rate (GFR)-based outcomes for AKI </li>
+    <li>Need for or dependence on renal replacement therapy (RRT) </li>
+    <li>Mortality </li>
+    <li>Catheter or filter survival </li>
+    <li>Infections </li>
+    <li>Bleeding </li>
+    <li>Metabolic complications </li>
+    <li>Adverse effects of treatment </li>
+    <li>Safety </li>
+    <li>Morbidity </li>
+    <li>Cost-effectiveness </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Literature Search and Article Selection</strong></p>
+<p>The MEDLINE, Cochrane Central Registry for trials, and Cochrane database of systematic reviews were searched by the Evidence Review Team (ERT) to capture all citations relevant to the topic of acute kidney injury (AKI), including original articles and existing systematic reviews. The search was limited to publications since 1980. For constast-induced (CI)-AKI, the ERT limited the search to publications from 1995 onward, since prior to this date the use of high-osmolar contrast agents was common. The introduction of low-osmolar contrast agents after this date resulted in testing interventions in studies using low-osmolar contrast media. Finally, when an iso-osmolar agent became available, the ERT examined studies of this agent against low-osmolar contrast agents.</p>
+<p>A list of pertinent existing systematic reviews relevant to the guidelines was generated, organized by topic, and reviewed with the Work Group. If an existing systematic review adequately addressed a question of interest, and was deemed to be of sufficient quality, based on methodological rigor, this was used instead of the ERT conducting a de novo systematic review. This systematic review was then used as the starting point for building the evidence base, and was supplemented with articles from the own searches. The searches were updated through December 16, 2010. All searches were then supplemented by articles identified by Work Group members through February 2011.</p>
+<p>During abstract screening, journal articles reporting original data were reviewed. Editorials, letters, stand-alone abstracts, unpublished reports, and articles published in non&amp;ndash;peer-reviewed journals were excluded. The Work Group also decided to exclude publications from journal supplements and conference proceedings, because of potential differences in the way these papers are solicited, selected, reviewed, and edited compared to peer-reviewed publications.</p>
+<p>MEDLINE and Cochrane search results were screened by the ERT for relevance using predefined eligibility criteria, described below. For questions related to treatment, the systematic search aimed to identify randomized controlled trials (RCTs) with sample sizes as described in Table 19. Restrictions by sample size were based on methodological and clinical considerations. Generally, it was deemed that trials with fewer than 50 patients per arm would be unlikely to be conclusive regarding effect for patient-important clinical outcomes in AKI. However, for specific topics where only sparse data were available (e.g., the use of renal replacement therapy [RRT] to prevent CI-AKI), a lower sample size threshold was used to provide some information for descriptive purposes. For all treatment topics, RCTs in children were included if they met overall inclusion criteria for adults.</p>
+<p>See Appendix F of the original guideline document (see the &quot;Availability of Companion Documents&quot; field) for more information on the literature yield for systematic review topics.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Quality of Supporting Evidence</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;3&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Quality of Supporting Evidence&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot;>Grade</th>
+            <th valign=&quot;top&quot;>Quality of Evidence</th>
+            <th valign=&quot;top&quot;>Meaning</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>A</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>High</td>
+            <td valign=&quot;top&quot;>The Work Group is confident that the true effect lies close to that of the estimate of the effect.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>B</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Moderate</td>
+            <td valign=&quot;top&quot;>The true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>C</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Low</td>
+            <td valign=&quot;top&quot;>The true effect may be substantially different from the estimate of the effect.</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>D</th>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>Very low</td>
+            <td valign=&quot;top&quot;>The estimate of effect is very uncertain, and often will be far from the truth.</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Data Extraction</strong></p>
+<p>The Evidence Review Team (ERT) designed data-extraction forms to capture information on various aspects of the primary studies. Data fields for all topics included study setting, patient demographics, eligibility criteria, baseline kidney function (creatinine or glomerular filtration rate [GFR]), numbers of subjects randomized, study design, study funding source, descriptions of interventions, description of outcomes, statistical methods used, results, quality of outcomes (as described below), limitations to generalizability, and free-text fields for comments and assessment of biases. Additional data fields contained information relevant to specific questions.</p>
+<p><strong>Summary Tables</strong></p>
+<p>For each question of intervention, summary tables were developed to tabulate the data from studies pertinent. Each summary table contains a brief description of the baseline characteristics of the population, intervention and control treatments, concomitant therapy, outcomes, and methodological quality for each outcome. Baseline characteristics include a description of the study size, country of residence, age, baseline kidney function, and setting or procedure. The studies were listed by outcome within the table based on the hierarchy of important outcomes (see Table 23 in Appendix F of the original guideline document). Work Group members were asked to proof and review all data and quality assessments in the summary tables on randomized controlled trials (RCTs).</p>
+<p>Summary tables and evidence profiles are referenced in the text and published online. They are available at <a href=&quot;http://www.kdigo.org&quot;>www.kdigo.org</a>.</p>
+<p><strong>Grading the Quality of Evidence</strong></p>
+<p>A structured approach, based on Grading of Recommendations Assessment, Development and Evaluation (GRADE) and facilitated by the use of evidence profiles, was employed in order to grade the quality of the overall evidence. For each topic, the discussion on grading of the quality of the evidence was led by the ERT. The &quot;quality of a body of evidence&quot; refers to the extent to which confidence in an estimate of effect is sufficient to support a particular recommendation.</p>
+<p>See Appendix F of the original guideline document (see the &quot;Availability of Companion Documents&quot; field) for more information on evaluation of individual studies and on grading the quality of evidence.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Overview of Process</strong></p>
+<p>Kidney Disease: Improving Global Outcomes (KDIGO) guidelines focus on topics related to the prevention of&amp;mdash;or management of individuals with&amp;mdash;kidney diseases. General information on the KDIGO guideline development process is available at <a href=&quot;http://www.kdigo.org/clinical_practice_guidelines/MethodsDevelopment.php&quot; title=&quot;KDIGO Web site&quot;>http://www.kdigo.org/clinical_practice_guidelines/MethodsDevelopment.php</a>.</p>
+<p>The development of this particular guideline includes many sequential and concurrent steps:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Appoint the Work Group and Evidence Review Team (ERT), which were responsible for different aspects of the process. </li>
+    <li>Confer to discuss process, methods, and results. </li>
+    <li>Develop and refine topics. </li>
+    <li>Triage topics to systematic review or narrative review. </li>
+    <li>Define specific populations, interventions or predictors, and outcomes of interest for systematic review topics. </li>
+    <li>Create and standardize quality assessment methods. </li>
+    <li>Create data extraction forms. </li>
+    <li>Develop literature search strategies and run searches. </li>
+    <li>Screen abstracts and retrieve full articles based on predetermined eligibility criteria. </li>
+    <li>Perform &quot;reverse engineering,&quot; i.e., use of existing systematic reviews to refine questions. </li>
+    <li>Extract data and perform critical appraisal of the literature. </li>
+    <li>Grade quality of the outcomes of each study. </li>
+    <li>Tabulate data from articles into summary tables. </li>
+    <li>Grade the quality of evidence for each outcome and assess the overall quality and findings of bodies of evidence with the aid of evidence profiles. </li>
+    <li>Write recommendations and supporting rationale statements. </li>
+    <li>Grade the strength of the recommendations based on the quality of the evidence and other considerations. </li>
+    <li>Conduct peer review by KDIGO Board of Directors in December, 2009 and the public prior to publication in 2011. </li>
+</ul>
+<p><strong>Group Member Selection and Meeting Process</strong></p>
+<p>The KDIGO Co-Chairs appointed the Co-Chairs of the Work Group, who then assembled the Work Group to be responsible for the development of the guideline. The Work Group consisted of domain experts, including individuals with expertise in nephrology, critical care medicine, internal medicine, pediatrics, cardiology, radiology, infectious diseases and epidemiology. For support in evidence review, expertise in methods, and guideline development, the National Kidney Foundation (NKF) contracted with the Evidence Review Team (ERT) based primarily at the Tufts Center for Kidney Disease Guideline Development and Implementation at Tufts Medical Center in Boston, Massachusetts, USA. The ERT consisted of physician-methodologists with expertise in nephrology and internal medicine, and research associates and assistants. The ERT instructed and advised Work Group members in all steps of literature review, critical literature appraisal, and guideline development. The Work Group and the ERT collaborated closely throughout the project. The Work Group, KDIGO Co-Chairs, ERT, liaisons, and NKF support staff met for four 2-day meetings for training in the guideline development process, topic discussion, and consensus development.</p>
+<p><strong>Evidence Selection, Appraisal, and Presentation</strong></p>
+<p>The Work Group and ERT first defined the topics and goals for the guideline and identified key clinical questions for review. The ERT performed literature searches, organized abstract and article screening, coordinated methodological and analytic processes of the report, defined and standardized the search methodology, performed data extraction, and summarized the evidence. The Work Group members reviewed all included articles, data extraction forms, summary tables, and evidence profiles for accuracy and completeness. The four major topic areas of interest for AKI included: i) definition and classification; ii) prevention; iii) pharmacologic treatment; and iv) RRT. Populations of interest were those at risk for AKI (including those after intravascular contrast-media exposure, aminoglycosides, and amphotericin) and those with or at risk for AKI with a focus on patients with sepsis or trauma, receiving critical care, or undergoing cardiothoracic surgery. The excluded studies were on AKI from rhabdomyolysis, specific infections, and poisoning or drug overdose.</p>
+<p><strong>Outcome Selection Judgments, Values, and Preferences</strong></p>
+<p>The Work Group and ERT limited outcomes to those important for decision making, including development of AKI, need for or dependence on RRT, and all-cause mortality. When weighting the evidence across different outcomes, the Work Group selected as the &quot;crucial&quot; outcome that which weighed most heavily in the assessment of the overall quality of evidence. Values and preferences articulated by the Work Group included: i) a desire to be inclusive in terms of meeting criteria for AKI; ii) a progressive approach to risk and cost such that, as severity increased, the group put greater value on possible effectiveness of strategies, but maintained high value for avoidance of harm; iii) intent to guide practice but not limit future research.</p>
+<p><strong>Grading the Strength of Recommendations</strong></p>
+<p>A structured approach, based on Grading of Recommendations Assessment, Development and Evaluation (GRADE) and facilitated by the use of evidence profiles, was employed in order to grade the strength of a recommendation. For each topic, the discussion on grading of the quality of the evidence was led by the ERT, and the discussion regarding the strength of the recommendations was led by the Work Group Chairs. The &quot;strength of a recommendation&quot; indicates the extent to which one can be confident that adherence to the recommendation will do more good than harm.</p>
+<p>See Appendix F of the original guideline document (see the &quot;Availability of Companion Documents&quot; field) for more detailed methods.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Strength of Recommendation</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;3&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Strength of Recommendation&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot; rowspan=&quot;2&quot;>Grade*</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;3&quot;>Implications</th>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Patients</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Clinicians</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Policy</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Level 1</strong><br />
+            &quot;The Work Group recommends&quot;</td>
+            <td valign=&quot;top&quot;>Most people in your situation would want the recommended course of action and only a small proportion would not.</td>
+            <td valign=&quot;top&quot;>Most patients should receive the recommended course of action.</td>
+            <td valign=&quot;top&quot;>The recommendation can be evaluated as a candidate for developing a policy or a performance measure.</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;><strong>Level 2</strong><br />
+            &quot;The Work Group suggests&quot;</td>
+            <td valign=&quot;top&quot;>The majority of people in your situation would want the recommended course of action, but many would not.</td>
+            <td valign=&quot;top&quot;>Different choices will be appropriate for different patients. Each patient needs help to arrive at a management decision consistent with her or his values and preferences.</td>
+            <td valign=&quot;top&quot;>The recommendation is likely to require substantial debate and involvement of stakeholders before policy can be determined.</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>*The additional category &quot;Not Graded&quot; was used, typically, to provide guidance based on common sense or where the topic does not allow adequate application of evidence. The most common examples include recommendations regarding monitoring intervals, counseling, and referral to other clinical specialists. The ungraded recommendations are generally written as simple declarative statements, but are not meant to be interpreted as being stronger recommendations than Level 1 or 2 recommendations.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline developers reviewed published cost analyses.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Guidelines underwent internal review by the Kidney Disease: Improving Global Outcomes (KDIGO) Board of Directors and external public review administered by KDIGO yielded 124 responses. Public review comments were compiled and fed back to the Work Group, which considered comments in its revision of the guideline.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate prevention, diagnosis, treatment, and management of acute kidney injury (AKI)</p>
+<p>See also the rationale for each guideline statement for a discussion of the summary of the benefits for each intervention in Sections 3-5 of the original guideline document.</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A summary of the harms for each intervention is provided in Sections 3-5, in summary tables and evidence profiles, and discussed in the rationale for each guideline statement in the original guideline document.</p></div>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The European Medicines Agency (EMEA) stated a contraindication for use of gadodiamide in patients with a glomerular filtration rate (GFR) &amp;lt;30 ml/min per 1.73m<sup>2</sup>, and issued a warning for its use in patients who have a GFR between 30 and 60 ml/min per 1.73 m<sup>2</sup>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Use of the Clinical Practice Guideline</strong></p>
+<p>This Clinical Practice Guideline document is based upon the best information available as of February 2011. It is designed to provide information and assist decision-making. It is not intended to define a standard of care, and should not be construed as one, nor should it be interpreted as prescribing an exclusive course of management. Variations in practice will inevitably and appropriately occur when clinicians take into account the needs of individual patients, available resources, and limitations unique to an institution or type of practice. Every health-care professional making use of these recommendations is responsible for evaluating the appropriateness of applying them in the setting of any particular clinical situation. The recommendations for research contained within this document are general and do not imply a specific protocol.</p>
+<p><strong>Limitations</strong></p>
+<p>There are important limitations to the recommendations for definition and staging of acute kidney injury (AKI), including imprecise determination of risk (see Chapter 2.2 in the original guideline document) and incomplete epidemiology of AKI, especially outside the intensive care unit (ICU). Clinical judgment is required in order to determine if patients seeming to meet criteria do, in fact, have disease, as well as to determine if patients are likely to have AKI even if incomplete clinical data are available to apply the diagnostic criteria. The application of the diagnostic and staging criteria is discussed in greater detail, along with specific examples in Chapter 2.4 of the original guideline document.</p>
+<p>The use of urine output criteria for diagnosis and staging has been less well validated and in individual patients the need for clinical judgment regarding the effects of drugs (e.g., angiotensin-converting enzyme inhibitors [ACE-I]), fluid balance, and other factors must be included. For very obese patients, urine output criteria for AKI may include some patients with normal urine output. However, these recommendations serve as the starting point for further evaluation, possibly involving subspecialists, for a group of patients recognized to be at increased risk.</p>
+<p>Finally, it is axiomatic that patients always be managed according to the cause of their disease, and thus it is important to determine the cause of AKI whenever possible. In particular, patients with decreased kidney perfusion, acute glomerulonephritis, vasculitis, interstitial nephritis, thrombotic microangiopathy, and urinary tract obstruction require immediate diagnosis and specific therapeutic intervention, in addition to the general recommendations for AKI in the remainder of this guideline (see Table 5 in the original guideline document).</p>
+<p>It is recognized that it is frequently not possible to determine the cause, and often the exact cause does not dictate a specific therapy. However, the syndrome of AKI includes some patients with specific kidney diseases (e.g., glomerulonephritis) for which a specific treatment is available. As such, it is always necessary to search for the underlying cause of AKI (see Chapter 2.3 in the original guideline document).</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+      <fieldvalue value="Safety"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>KDIGO clinical practice guideline for acute kidney injury. Kidney Int Suppl. 2012 Mar;2(1):1-138. [783 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2012 Mar"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="Kidney Disease: Improving Global Outcomes - Nonprofit Organization"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Kidney Disease: Improving Global Outcomes (KDIGO) gratefully acknowledges the following sponsors that make our initiatives possible: Abbott, Amgen, Belo Foundation, Coca-Cola Company, Dole Food Company, Genzyme, Hoffmann-LaRoche, JC Penney, NATCO&amp;mdash;The Organization for Transplant Professionals, NKF&amp;mdash;Board of Directors, Novartis, Robert and Jane Cizik Foundation, Shire, Transwestern Commercial Services, and Wyeth. KDIGO is supported by a consortium of sponsors and no funding is accepted for the development of specific guidelines.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Kidney Disease: Improving Global Outcomes (KDIGO) Work Group</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Work Group</em>: John A Kellum, MD, FCCM, FACP (<em>Co-Chair</em>), University of Pittsburgh School of Medicine, Pittsburgh, PA; Norbert Lameire, MD, PhD (<em>Co-Chair</em>), Ghent University Hospital, Ghent, Belgium; Peter Aspelin, MD, PhD, Karolinska University Hospital, Stockholm, Sweden; Rashad S Barsoum, MD, FRCP, FRCPE, Cairo University, Cairo, Egypt; Emmanuel A Burdmann, MD, PhD, University of S&amp;atilde;o Paulo Medical School, S&amp;atilde;o Paulo, Brazil; Stuart L Goldstein, MD, Cincinnati Children's Hospital &amp;amp; Medical Center, Cincinnati, OH; Charles A Herzog, MD, Hennepin County Medical Center, Minneapolis, MN; Michael Joannidis, MD, Medical University of Innsbruck, Innsbruck, Austria; Andreas Kribben, MD, University Duisburg-Essen, Essen, Germany; Andrew S Levey, MD, Tufts Medical Center, Boston, MA; Alison M MacLeod, MBChB, MD, FRCP, University of Aberdeen, Aberdeen, United Kingdom; Ravindra L Mehta, MD, FACP, FASN, FRCP, UCSD Medical Center, San Diego, CA; Patrick T Murray, MD, FASN, FRCPI, FJFICMI, UCD School of Medicine and Medical Science, Dublin, Ireland; Saraladevi Naicker, MBChB, MRCP, FRCP, FCP(SA), PhD, University of the Witwatersrand, Johannesburg, South Africa; Steven M Opal, MD, Alpert Medical School of Brown University, Pawtucket, RI; Franz Schaefer, MD, Heidelberg University Hospital, Heidelberg, Germany; Miet Schetz, MD, PhD, University of Leuven, Leuven, Belgium; Shigehiko Uchino, MD, PhD, Jikei University School of Medicine, Tokyo, Japan</p>
+<p><em>Evidence Review Team</em>: Tufts Center for Kidney Disease Guideline Development and Implementation, Tufts Medical Center, Boston, MA, USA: Katrin Uhlig, MD, MS, Project Director; Director, Guideline Development; Jose Calvo-Broce, MD, MS, Nephrology Fellow; Aneet Deo, MD, MS, Nephrology Fellow; Amy Earley, BS, Project Coordinator</p>
+<p>In addition, support and supervision were provided by Ethan M Balk, MD, MPH, Program Director, Evidence Based Medicine</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Kidney Disease: Improving Global Outcomes (KDIGO) makes every effort to avoid any actual or reasonably perceived conflicts of interest that may arise as a result of an outside relationship or a personal, professional, or business interest of a member of the Work Group. All members of the Work Group are required to complete, sign, and submit a disclosure and attestation form showing all such relationships that might be perceived or actual conflicts of interest. This document is updated annually and information is adjusted accordingly. All reported information is listed below, is published in its entirety at the end of the original guideline document in the Work Group members' Biographical and Disclosure Information section, and is kept on file at the National Kidney Foundation (NKF), managing Agent for KDIGO.</p>
+<p>Individual affiliations and disclosure information are available in the Biographic and Disclosure Information chapter of the original guideline document.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available in Portable Document Format (PDF) from the <a href=&quot;http://www.kdigo.org/clinical_practice_guidelines/AKI.php&quot; title=&quot;KDIGO Web site&quot;>Kidney Disease: Improving Global Outcomes (KDIGO) Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>KDIGO clinical practice guideline for acute kidney injury. Online appendices A-F. New York: Kidney Disease: Improving Global Outcomes; 2012 Mar. 132 p. Electronic copies: Available in Portable Document Format (PDF) from the <a href=&quot;http://www.kdigo.org/clinical_practice_guidelines/pdf/KDIGO-AKI-Suppl-Appendices-A-F_March2012.pdf&quot; title=&quot;KDIGO Web site&quot;>Kidney Disease: Improving Global Outcomes (KDIGO) Web site</a>. </li>
+    <li>KDIGO clinical practice guideline for acute kidney injury. Supplementary tables. New York: Kidney Disease: Improving Global Outcomes; 2012 Mar. 64 p. Electronic copies: Available in PDF from the <a href=&quot;http://www.kdigo.org/clinical_practice_guidelines/pdf/KDIGO-AKI-Suppl-Online-Tables_March2012.pdf&quot; title=&quot;KDIGO Web site&quot;>KDIGO Web site</a>. </li>
+    <li>Methods for development of KDIGO clinical practice guidelines. Electronic copies: Available from the <a href=&quot;http://kdigo.org/home/guidelines/development/&quot; title=&quot;KDIGO Web site&quot;>KDIGO Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on September 24, 2012. This summary was updated by ECRI Institute on March 10, 2014 following the U.S. Food and Drug Administration advisory on Low Molecular Weight Heparins.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Copyright &amp;copy; 2012 by KDIGO. All rights reserved.</p>
+<p>Single photocopies may be made for personal use as allowed by national copyright laws. Special rates are available for educational institutions that wish to make photocopies for non-profit educational use. No part of this publication may be reproduced, amended, or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage and retrieval system, without explicit permission in writing from KDIGO. Details on how to seek permission for reproduction or translation, and further information about KDIGO's permissions policies can be obtained by contacting Anita Viliusis, KDIGO Permissions Manager, at <a href=&quot;mailto:anita.viliusis@kidney.org&quot;>anita.viliusis@kidney.org</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 23:59:38 Oct 02, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:16:35 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 34.982 (3)
+  esindex: 0.01
+  captures_list: 49.395
+  CDXLines.iter: 11.057 (3)
+  PetaboxLoader3.datanode: 50.513 (4)
+  exclusion.robots: 0.36
+  exclusion.robots.policy: 0.344
+  RedisCDXSource: 0.517
+  PetaboxLoader3.resolve: 69.226
+  load_resource: 108.678
+-->

@@ -1,0 +1,702 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app58.us.archive.org';v.server_ms=314;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-9916?contentType=xml', '20160930224243')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930224243/https://www.guideline.gov/summaries/downloadcontent/ngc-9916?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930224243/https://www.guideline.gov/summaries/downloadcontent/ngc-9916?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-9916?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930224243" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 22:42:43 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 22:42:43 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 22:42:43 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930224243*/https://www.guideline.gov/summaries/downloadcontent/ngc-9916?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-9916?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Guidelines for the diagnosis and treatment of pediculosis capitis (head lice) in children and adults 2013.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>University of Texas, School of Nursing Family Nurse Practitioner Program. Guidelines for the diagnosis and treatment of pediculosis capitis (head lice) in children and adults 2013. Austin (TX): University of Texas, School of Nursing; 2013 May. 21 p.  [57 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: University of Texas, School of Nursing, Family Nurse Practitioner Program. Guidelines for the diagnosis and treatment of pediculosis capitis (head lice) in children and adults. Austin (TX): University of Texas, School of Nursing; 2008 May. 17 p.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Strength of recommendations (<strong>A, B, C, D, I</strong>) and quality of evidence (<strong>High, Moderate, Low</strong>) are defined at the end of &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Diagnosis</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Combing with a louse comb (fine tooth comb, &amp;lt;3 mm between teeth) is vastly superior to visual inspection for diagnosis of head lice infection (Mumcuoglu et al., 2001; Jahnke et al., 2009; Balcioglu et al., 2008; Goundry-Smith, 2011; Mumcuoglu et al., 2006; Ibarra, 2010; Feldmeier, 2012; Gunning et al., 2012; Frankowski et al., 2010; Tebruegge, Pantazidou, &amp;amp; Curtis, 2011; Finlay &amp;amp; MacDonald, 2008). (<strong>Evidence Moderate, Recommendation A</strong>) </li>
+    <li>Treatment for lice should be limited to individuals with finding of live lice on the scalp; however, presence of eggs within 1 cm of scalp should raise index of suspicion and prompt further inspection to find a live louse (Frankowski et al., 2010; Mumcuoglu et al., 2006; Feldmeier, 2010; Gunning et al., 2012; Finlay &amp;amp; MacDonald, 2008; Tebruegge, Pantazidou, &amp;amp; Curtis, 2011; Goundrey-Smith, 2011). (<strong>Evidence Low, Recommendation B</strong>)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>No primary studies were identified in the literature, however expert opinion is widely in agreement. </li>
+    </ul>
+    </li>
+    <li>Lice may be easier to detect behind the ears and at the back of the head or nape of the neck (Shmidt &amp;amp; Levitt, 2012; Madke &amp;amp; Khopkar, 2012; Gunning et al., 2012; Feldmeier, 2012; Frankowski et al., 2010). (<strong>Evidence Low, Recommendation B</strong>)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>No primary studies were identified in the literature, however expert opinion is widely in agreement. </li>
+    </ul>
+    </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Recommended Regimens</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Permethrin 1% cream rinse (Nix) has well established safety profile and is recommended as first line treatment unless regional resistance is documented. Indicated for patients 2 months and older (Taplin et al., 1986; Brandenburg et al., 1986; Bowerman et al., 1987; Meinking et al., 2007; Frankowski et al., 2010; Diamantis, Morrell, &amp;amp; Burkhart, 2009; Finlay &amp;amp; MacDonald, 2008; Gunning et al., 2012; Heukelbach et al., 2008; Meinking et al., 2002). (<strong>Evidence Moderate, Recommendation B</strong>)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Cream rinse is applied to the hair and scalp for 10 minutes and then rinsed off; second treatment is advised 7-10 days later to ensure cure. </li>
+        <li>Cost: $20 </li>
+        <li>Few recent trials exist because efficacy and safety have long been proven, however expert opinion is widely in support of continued use as first line treatment unless resistance is documented. </li>
+        <li>Suggested sources for documentation of regional resistance are the Centers for Disease Control &amp;amp; Prevention (CDC) website and state/local health departments. Data is still limited at this time, and may not be available. </li>
+    </ul>
+    </li>
+    <li>Pyrethrin 0.33% &amp;amp; piperonyl butoxide 4% (RID) has a well established safety profile and is recommended as first line treatment unless regional resistance is documented. Indicated for patients 2 years and older (Frankowski et al., 2010; Diamantis, Morrell, &amp;amp; Burkhart, 2009; Finlay &amp;amp; MacDonald, 2008; Gunning et al., 2012). (<strong>Evidence Moderate, Recommendation B</strong>)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Hair is first shampooed and towel dried, the product is applied and rinsed after 10 minutes; a second treatment is advised 7 days later to ensure cure. </li>
+        <li>Cost: $20 </li>
+        <li>Few recent trials exist because efficacy and safety have long been proven, however expert opinion is widely in support of continued use as first line treatment unless resistance is documented resistance. </li>
+        <li>Theoretical risk of cross sensitivity with plant allergies such as ragweed exist but are rare (Prescriber's Letter, 2010). In the case of severe ragweed allergy, it is reasonable to recommend permethrin in preference to pyrethrin/piperonyl butoxide topical. </li>
+    </ul>
+    </li>
+    <li>0.5% Malathion lotion has a favorable safety profile and is effective with low observed resistance; use is contraindicated in neonates and infants (Meinking et al., 2004; Taro Pharmaceuticals, 2011; Chosidow et al., 2010; Nofal, 2010; Gunning et al., 2012; Frankowski et al., 2010; Diamantis, Morrell, &amp;amp; Burkhart, 2009; Lebwohl, Clark, &amp;amp; Levitt, 2007; Meinking et al., 2007). (<strong>Evidence Moderate, Recommendation B</strong>)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Lotion is applied to dry hair until thoroughly moistened, left to air dry, and then rinsed out after 8 to 12 hours. Repeat treatment in 7 to 10 days. </li>
+        <li>Cost: $146-$189 </li>
+    </ul>
+    </li>
+    <li>Benzyl alcohol 5% lotion (Ulesfia) is the first U.S. Food and Drug Administration (FDA)-approved, non-neurotoxic prescription product for treating head lice that is shown to be safe and effective in patients 6 months and older (Meinking et al., 2010; Martinez-Diaz &amp;amp; Mancini, 2010; Eisenhower &amp;amp; Farrington, 2012; Frankowski et al., 2010, Gunning et al., 2012; Barker &amp;amp; Altman, 2011). (<strong>Evidence Low, Recommendation B</strong>)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Apply to dry hair until well saturated, leave on for 10 minutes and rinse. Repeat treatment in 7 days. </li>
+        <li>Cost: $81 </li>
+    </ul>
+    </li>
+    <li>Ivermectin 0.5% topical lotion (Sklice) was FDA approved in February 2012 for treatment of head lice in patients greater than 6 months of age (Pariser et al., 2012; Meinking et al., 2013; Strycharz et al., 2011; Strycharz, Yoon, &amp;amp; Clark, 2008). (<strong>Evidence Moderate, Recommendation B</strong>)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Apply a single application of up to 1 tube (4 oz) to dry hair, thoroughly coating the hair and scalp. Rinse off after 10 minutes. </li>
+        <li>A second treatment is not indicated. </li>
+        <li>Cost: $25 </li>
+    </ul>
+    </li>
+    <li>Spinosad 0.9% topical suspension (Natroba) was FDA approved in January 2011 for patients 4 years and older for effective and convenient treatment for head lice (Stough et al., 2009; Cole &amp;amp; Lundquist, 2011; McCormack, 2011; Villegas &amp;amp; Breitzka, 2012; Aditya &amp;amp; Rattan, 2012; Gunning et al., 2012). (<strong>Evidence Low, Recommendation B</strong>)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Apply up to 120 mL (1 bottle) to dry hair and scalp, leave on for 10 minutes, then rinse; repeat in 7 days only if live lice are seen. </li>
+        <li>Cost: $220 </li>
+        <li>Cross resistance is not expected due to the mechanism of action. </li>
+    </ul>
+    </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Alternative Regimens</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Lindane 1% shampoo should be reserved for patients for whom other lice treatments have failed and/or for persons who cannot tolerate other pediculicides; use in infants and children is cautioned (U.S. FDA, 2009; Eisenhower &amp;amp; Farrington, 2012; Frankowski et al., 2010; Thomas et al., 2006; Gunning et al., 2012). (<strong>Evidence Moderate, Recommendation C</strong>)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Apply 1 ounce or 30 mL (2 ounces or 60 mL maximum for long or thick hair) of product to dry hair, paying special attention to fine hairs at the nape of the neck and behind ears. After four minutes, add water and work into a lather. Immediately and thoroughly rinse off with warm, not hot, water. Avoid unnecessary contact to other body parts, especially the eyes. Following treatment, wet comb the hair with a fine-tooth comb, or use tweezers to remove nits. Do not use again for retreatment. </li>
+        <li>Cost: $137 </li>
+    </ul>
+    </li>
+    <li>Oral ivermectin (Stromectol) has been effective in some studies but is not FDA approved for pediculosis capitis; can be used in all age groups weighing at least 15 kg (CDC, 2010; Frankowski et al., 2010; Gunning et al., 2012; Lebwohl, Clark, &amp;amp; Levitt, 2007; Nofal, 2010; Chosidow et al., 2010; Martinez-Diaz &amp;amp; Mancini, 2010; Currie et al., 2010; Ameen et al., 2010). (<strong>Evidence Low, Recommendation C</strong>)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Occasionally used off-label for resistant cases of pediculosis capitis (FDA-approved for strongyloidiasis, onchocerciasis). </li>
+        <li>Single dose of 200 ug/kg, with a second dose given after 9 to 10 days </li>
+        <li>Cost: $20 </li>
+    </ul>
+    </li>
+    <li>Trimethoprim/sulfamethoxazole (TMP/SMX) (Bactrim, Septra) is occasionally used off-label for head lice, but is not approved by the FDA for this use; for other indications, approved for use in infants 2 months and older (Gunning et al., 2012; Lebwohl, Clark, &amp;amp; Levitt, 2007; Frankowski &amp;amp; Weiner, 2002; Frankowski et al., 2010; Martinez-Diaz &amp;amp; Mancini, 2010). (<strong>Evidence Low, Recommendation C</strong>)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Use of this agent should be reserved for resistance and balanced with the risk of severe, life-threatening allergic reactions (e.g., Stevens-Johnson or drug hypersensitivity syndromes). </li>
+        <li>Cost: $10-15 </li>
+    </ul>
+    </li>
+    <li>Essential oils: There are no formal controlled clinical trials demonstrating efficacy, potential side effects or toxicity of eucalyptus, lavender and tea tree oil, and therefore, they cannot be recommended as a treatment option (Connolly, 2011; Tebruegge, Pantazidou, &amp;amp; Curtis, 2011; Eisenhower &amp;amp; Farrington, 2012). (<strong>Evidence Low, Recommendation I</strong>) </li>
+    <li>Wet combing can be used alone or in addition to a topical pediculicide and is useful in cases where resistance has developed to topical agents, parents prefer to avoid chemical pediculicides or they are not well tolerated (Connolly, 2011; Ko &amp;amp; Elston, 2004; Tebruegge, Pantazidou, &amp;amp; Curtis, 2011; Diamantis, Morrell, &amp;amp; Burkhart, 2009; Ibarra et al., 2007; Tebruegge &amp;amp; Runnacles, 2007). (<strong>Evidence Moderate, Recommendation B</strong>)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Wet hair and apply a lubricant of choice (conditioner, vinegar, olive oil). </li>
+        <li>A fine-tooth louse comb (less than 0.3 mm between teeth) should be inserted until it touches the scalp and combed through the hair from root to tip. After each stroke, the comb should be visualized for any lice. </li>
+        <li>Wet combing should be systematically performed at least twice over entire head until no live lice are found. </li>
+        <li>Recommended regimen is one wet combing session every four days for at least two weeks. If lice are found on the second, third, or fourth wet combing session, wet combing should be continued until no lice have been seen for 3 consecutive sessions. </li>
+        <li>Louse comb cost: $5-$10 </li>
+    </ul>
+    </li>
+    <li>LouseBuster is an appliance that uses application of heat to head and scalp to eradicate lice and eggs. One time application for 30 minutes shown to be effective with no reported adverse reactions or resistance (Bush et al., 2011; Goates et al., 2006; Eisenhower &amp;amp; Farrington, 2012; Madke &amp;amp; Khopkar, 2012; Gunning et al., 2012; Frankowski et al., 2010). (<strong>Evidence Low, Recommendation B</strong>)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Device sold to schools and clinics for $2,000 and each application is $11. </li>
+        <li>Limited available research into the effectiveness of this treatment </li>
+    </ul>
+    </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Other Management Considerations</span></strong></p>
+<p><strong>General Recommendations</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>All household members and close contacts should be examined for infestation and treated only if live lice discovered (Frankowski et al., 2010; Mumcuoglu et al., 2006; Feldmeier, 2010; Gunning et al., 2012; Madke &amp;amp; Khopkar, 2012; Tebruegge, Pantazidou, &amp;amp; Curtis, 2011). (<strong>Evidence Low, Recommendation B</strong>) </li>
+    <li>All topical pediculicidal treatments should be rinsed out of hair with cool water after the prescribed application time. Rinsing with warm (or hot) water could cause vasodilation and increase the risk of systemic absorption (Madke &amp;amp; Khopkar, 2012). (<strong>Evidence Low, Recommendation B</strong>) </li>
+</ul>
+<p><strong>Environmental Decontamination</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Primary mode of transmission is head to head contact and there is ongoing debate about the potential for reinfestation from fomite sources. However, it is advisable to launder clothes, towels, and bed linen used within 2 days at minimum temperature 60 degrees C or place in dryer at high heat for at least 40 minutes. Combs/brushes may be immersed in 60 degree C water for at least 10 minutes to kill lice/eggs (Speare, Cahill, &amp;amp; Thomas, 2003; Izri &amp;amp; Chosidow, 2006; Eisenhower &amp;amp; Farrington, 2012; Canyon &amp;amp; Speare, 2010; Takano-Lee et al., 2005; Lebwohl, Clark, &amp;amp; Levitt, 2007; Gunning et al., 2012; Diamantis, Morrell, &amp;amp; Burkhart, 2009; Finlay &amp;amp; MacDonald, 2008; Ibarra, 2010; Tebruegge, Pantazidou, &amp;amp; Curtis, 2011). (<strong>Evidence Moderate, Recommendation B</strong>) </li>
+    <li>Items which cannot be laundered or placed in dryer can be sealed in a plastic bag for 2 weeks (Diamantis, Morrell, &amp;amp; Burkhart, 2009; Finlay &amp;amp; MacDonald, 2008; Frankowski et al., 2010; Lebwohl, Clark, &amp;amp; Levitt, 2007). (<strong>Evidence Low, Recommendation B</strong>) </li>
+    <li>It is unnecessary to fumigate carpets, car seats, and mattresses because lice are unable to live away from the human host for more than 48 to 55 hours. Vacuuming is a safe alternative to fumigation (Eisenhower &amp;amp; Farrington, 2012; Diamantis, Morrell, &amp;amp; Burkhart, 2009; Finlay &amp;amp; MacDonald, 2008; Frankowski et al., 2010; Shmidt &amp;amp; Levitt, 2012; Lebwohl, Clark, &amp;amp; Levitt, 2007). (<strong>Evidence Moderate, Recommendation B</strong>) </li>
+</ul>
+<p><strong>Return to School</strong></p>
+<p>&quot;No nit&quot; policy for return to school should be abandoned as only a small number of children with nits on their scalp are also infested with living lice leading to unnecessary treatment and loss of school/work days (Mumcuoglu et al., 2006; Gunning et al., 2012; Frankowski et al., 2010; Eisenhower &amp;amp; Farrington, 2012). (<strong>Evidence Moderate, Recommendation B</strong>)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Follow Up</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>For infestation persisting after 2 treatments to evaluate for resistance or incorrect use.
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Causes of persistent head lice may be explained by misdiagnosis, lack of adherence, inadequate treatment, reinfestation, lack of ovicidal or residual killing properties of the product, or resistance of pediculicide (Frankowski et al., 2010). </li>
+    </ul>
+    </li>
+    <li>For signs/symptoms of infection which may indicate secondary bacterial infection. </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Special Considerations</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Children under 2 years of age </li>
+    <li>Pregnancy </li>
+</ul>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><strong>Quality of Evidence</strong> (Based on U.S. Preventive Services Task Force [USPSTF] Ratings)</p>
+<p><strong>High</strong>: The available evidence usually includes consistent results from well-designed, well-conducted studies in representative primary care populations. These studies assess the effects of the preventive service on health outcomes. This conclusion is therefore unlikely to be strongly affected by the results of future studies.</p>
+<p><strong>Moderate</strong>: The available evidence is sufficient to determine the effects of the preventive service on health outcomes, but confidence in the estimate is constrained by such factors as: the number, size, or quality of individual studies, inconsistency of findings across individual studies, limited generalizability of findings to routine primary care practice, lack of coherence in the chain of evidence. As more information becomes available, the magnitude or direction of the observed effect could change, and this change may be large enough to alter the conclusion.</p>
+<p><strong>Low</strong>: The available evidence is insufficient to assess effects on health outcomes. Evidence is insufficient because of: the limited number or size of studies, important flaws in study design or methods, inconsistency of findings across individual studies, gaps in the chain of evidence, findings not generalizable to routine primary care practice, lack of information on important health outcomes. More information may allow estimation of effects on health outcomes.</p>
+<p><strong>Grading of Recommendations</strong> (Based on USPSTF Ratings)</p>
+<p><strong>A</strong>: There is high certainty that the net benefit is substantial. Offer or provide this service.</p>
+<p><strong>B</strong>: There is high certainty that the net benefit is moderate or there is moderate certainty that the net benefit is moderate to substantial. Offer or provide this service.</p>
+<p><strong>C</strong>: Clinicians may provide this service to selected patients depending on individual circumstances. However, for most individuals without signs or symptoms there is likely to be only a small benefit from this service. Offer or provide this service only if other considerations support the offering or providing the service in an individual patient.</p>
+<p><strong>D</strong>: The USPSTF recommends against the service. There is moderate or high certainty that the service has no net benefit or that the harms outweigh the benefits. Discourage the use of this service.</p>
+<p><strong>I</strong>: The current evidence is insufficient to assess the balance of benefits and harms of the service. Evidence is lacking, of poor quality, or conflicting, and the balance of benefits and harms cannot be determined. If the service is offered, patients should understand the uncertainty about the balance of benefits and harms.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A clinical algorithm titled, &quot;Clinical Algorithm for the Treatment and Management of Head Lice&quot; is provided in the original guideline document.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Pediculosis capitis (head lice)</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Dermatology"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Nursing"/>
+      <fieldvalue value="Pediatrics"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Public Health Departments"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To update a national guideline on the management of pediculosis capitis</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Children and adults in the United States with pediculosis capitis</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Diagnosis</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>Combing </li>
+    <li>Visual inspection </li>
+    <li>Determination of live lice vs eggs </li>
+</ol>
+<p><strong>Management</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Recommended regimens
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Permethrin 1% </li>
+        <li>Pyrethrin 0.33% and piperonyl butoxide 4% </li>
+        <li>Malathion 0.5% lotion </li>
+        <li>Benzyl alcohol 5% lotion </li>
+        <li>Ivermectin 0.5% lotion </li>
+        <li>Spinosad 0.9% topical suspension </li>
+    </ul>
+    </li>
+    <li>Alternative regimens
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Lindane 1% shampoo </li>
+        <li>Oral ivermectin </li>
+        <li>Trimethoprim and sulfamethoxazole (TMP/SMX) </li>
+        <li>Essential oils (not recommended) </li>
+        <li>Combing wet hair with a fine tooth comb </li>
+        <li>LouseBuster device </li>
+    </ul>
+    </li>
+    <li>Other management considerations
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>General recommendations (examination of household members, cool water rinse) </li>
+        <li>Environmental decontamination </li>
+        <li>Return to school policy </li>
+    </ul>
+    </li>
+    <li>Follow up </li>
+    <li>Special considerations in children under 2 years and pregnant women </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Alleviation of signs and symptoms </li>
+    <li>Prevention of sequelae of infestation </li>
+    <li>Prevention of transmission </li>
+    <li>Toxicity of drug treatment</li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To select evidence for critical appraisal by the group the Medline (U.S. National Library of Medicine), Cumulative Index to Nursing and Allied Health Literature (CINAHL), EBSCO, and PubMed databases were searched for the years 2000 to 2013 using the keywords &quot;head lice&quot; and &quot;pediculosis capitis&quot; in the title, abstract, and indexing forms. Additional resources were found using bibliographies of relevant articles.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>86 source documents</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Quality of Evidence</strong> (Based on U.S. Preventive Services Task Force [USPSTF] Ratings)</p>
+<p><strong>High</strong>: The available evidence usually includes consistent results from well-designed, well-conducted studies in representative primary care populations. These studies assess the effects of the preventive service on health outcomes. This conclusion is therefore unlikely to be strongly affected by the results of future studies.</p>
+<p><strong>Moderate</strong>: The available evidence is sufficient to determine the effects of the preventive service on health outcomes, but confidence in the estimate is constrained by such factors as: the number, size, or quality of individual studies, inconsistency of findings across individual studies, limited generalizability of findings to routine primary care practice, lack of coherence in the chain of evidence. As more information becomes available, the magnitude or direction of the observed effect could change, and this change may be large enough to alter the conclusion.</p>
+<p><strong>Low</strong>: The available evidence is insufficient to assess effects on health outcomes. Evidence is insufficient because of: the limited number or size of studies, important flaws in study design or methods, inconsistency of findings across individual studies, gaps in the chain of evidence, findings not generalizable to routine primary care practice, lack of information on important health outcomes. More information may allow estimation of effects on health outcomes.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Systematic Review"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Guidelines were drafted by graduate students following review of the literature.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Grading of Recommendations</strong> (Based on the U.S. Preventive Services Task Force Ratings)</p>
+<p><strong>A</strong>: There is high certainty that the net benefit is substantial. Offer or provide this service.</p>
+<p><strong>B</strong>: There is high certainty that the net benefit is moderate or there is moderate certainty that the net benefit is moderate to substantial. Offer or provide this service.</p>
+<p><strong>C</strong>: Clinicians may provide this service to selected patients depending on individual circumstances. However, for most individuals without signs or symptoms there is likely to be only a small benefit from this service. Offer or provide this service only if other considerations support the offering or providing the service in an individual patient.</p>
+<p><strong>D</strong>: The USPSTF recommends against the service. There is moderate or high certainty that the service has no net benefit or that the harms outweigh the benefits. Discourage the use of this service.</p>
+<p><strong>I</strong>: The current evidence is insufficient to assess the balance of benefits and harms of the service. Evidence is lacking, of poor quality, or conflicting, and the balance of benefits and harms cannot be determined. If the service is offered, patients should understand the uncertainty about the balance of benefits and harms.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Family Nurse Practitioner students submitted the draft recommendations to the University of Texas at Austin School of Nursing faculty for review. The draft was later revised to incorporate faculty recommendations.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="98" ordby="605" id="425" name="References Supporting the Recommendations" type="citation">
+      <fieldvalue value="<table><tr><td>Aditya S, Rattan A. Spinosad: An effective and safe pediculicide. Indian Dermatol Online J. 2012 Sep;3(3):213-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23189260&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ameen M, Arenas R, Villanueva-Reyes J, Ruiz-Esmenjaud J, Millar D, Dominguez-Duenas F, Haddad-Angulo A, Rodriguez-Alvarez M. Oral ivermectin for treatment of pediculosis capitis. Pediatr Infect Dis J. 2010 Nov;29(11):991-3. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21046698&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Balcioglu C, Burgess IF, Limoncu ME, Sahin MT, Ozbel Y, Bilac C, Kurt O, Larsen KS. Plastic detection comb better than visual screening for diagnosis of head louse infestation. Epidemiol Infect. 2008 Oct;136(10):1425-31. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18177517&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Barker SC, Altman PM. An ex vivo, assessor blind, randomised, parallel group, comparative efficacy trial of the ovicidal activity of three pediculicides after a single application--melaleuca oil and lavender oil, eucalyptus oil and lemon tea tree oil [trunc]. BMC Dermatol. 2011;11:14. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21864348&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bowerman JG, Gomez MP, Austin RD, Wold DE. Comparative study of permethrin 1% creme rinse and lindane shampoo for the treatment of head lice. Pediatr Infect Dis J. 1987 Mar;6(3):252-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2437521&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Brandenburg K, Deinard AS, DiNapoli J, Englender SJ, Orthoefer J, Wagner D. 1% permethrin cream rinse vs 1% lindane shampoo in treating pediculosis capitis. Am J Dis Child. 1986 Sep;140(9):894-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2426940&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bush SE, Rock AN, Jones SL, Malenke JR, Clayton DH. Efficacy of the LouseBuster, a new medical device for treating head lice (Anoplura:Pediculidae). J Med Entomol. 2011 Jan;48(1):67-72. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21337950&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Canyon DV, Speare R. Indirect transmission of head lice via inanimate objects. Open Dermatol J. 2010;4(1):72-6.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Centers for Disease Control and Prevention (CDC). Parasites: head lice. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2010. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Chosidow O, Giraudeau B, Cottrell J, Izri A, Hofmann R, Mann SG, Burgess I. Oral ivermectin versus malathion lotion for difficult-to-treat head lice. N Engl J Med. 2010 Mar 11;362(10):896-905. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20220184&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Cole SW, Lundquist LM. Spinosad for treatment of head lice infestation. Ann Pharmacother. 2011 Jul;45(7-8):954-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21750308&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Connolly M. Current recommended treatments for head lice and scabies. Prescriber. 2011;11(1-2):26-39.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Currie MJ, Reynolds GJ, Glasgow NJ, Bowden FJ. A pilot study of the use of oral ivermectin to treat head lice in primary school  students in Australia. Pediatr Dermatol. 2010 Nov-Dec;27(6):595-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21138467&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Diamantis SA, Morrell DS, Burkhart CN. Treatment of head lice. Dermatol Ther. 2009 Jul-Aug;22(4):273-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19580574&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Eisenhower C, Farrington EA. Advancements in the treatment of head lice in pediatrics. J Pediatr Health Care. 2012 Nov-Dec;26(6):451-61; quiz 462-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23099312&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Feldmeier H. Diagnosis of head lice infestations: an evidence-based review. Open Dermatol J. 2010;4(1):69-71.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Feldmeier H. Pediculosis capitis: new insights into epidemiology, diagnosis and treatment. Eur J Clin Microbiol Infect Dis. 2012 Sep;31(9):2105-10. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22382818&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Finlay J, MacDonald NE. Head lice infestations: A clinical update. Paediatr Child Health. 2008 Oct;13(8):692-704. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19436525&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Frankowski BL, Bocchini JA Jr, Council on School Health and Committee on Infectious Diseases. Head lice. Pediatrics. 2010 Aug;126(2):392-403. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20660553&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Frankowski BL, Weiner LB. Head lice. Pediatrics. 2002 Sep;110(3):638-43. [46 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12205271&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Goates BM, Atkin JS, Wilding KG, Birch KG, Cottam MR, Bush SE, Clayton DH. An effective nonchemical treatment for head lice: a lot of hot air. Pediatrics. 2006 Nov;118(5):1962-70. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17079567&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Goundrey-Smith S. Looking at the life cycle and treatment of head lice. Br J School Nurs. 2011;6(3):123-6.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Gunning K, Pippitt K, Kiraly B, Sayler M. Pediculosis and scabies: treatment update. Am Fam Physician. 2012 Sep 15;86(6):535-41. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23062045&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Heukelbach J, Pilger D, Oliveira FA, Khakban A, Ariza L, Feldmeier H. A highly efficacious pediculicide based on dimeticone: randomized observer blinded comparative trial. BMC Infect Dis. 2008;8:115. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18783606&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ibarra J, Fry F, Clarice W, Olsen A, Vander Stichele RH, Lapeere H, Maryan J, Franks A, Smith JL. Overcoming health inequalities by using the Bug Busting 'whole-school approach' to eradicate head lice. J Clin Nurs. 2007 Oct;16(10):1955-65. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17880484&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ibarra J. Diagnosis of head lice in the community. Br J School Nurs. 2010;5(4):191-4.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Izri A, Chosidow O. Efficacy of machine laundering to eradicate head lice: recommendations to decontaminate washable clothes, linens, and fomites. Clin Infect Dis. 2006 Jan 15;42(2):e9-10. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16355323&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Jahnke C, Bauer E, Hengge UR, Feldmeier H. Accuracy of diagnosis of pediculosis capitis: visual inspection vs wet combing. Arch Dermatol. 2009 Mar;145(3):309-13. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19289764&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ko CJ, Elston DM. Pediculosis. J Am Acad Dermatol. 2004 Jan;50(1):1-12; quiz 13-4. [101 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14699358&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lebwohl M, Clark L, Levitt J. Therapy for head lice based on life cycle, resistance, and safety considerations. Pediatrics. 2007 May;119(5):965-74. [76 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17473098&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Madke B, Khopkar U. Pediculosis capitis: an update. Indian J Dermatol Venereol Leprol. 2012 Jul-Aug;78(4):429-38. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22772612&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Martinez-Diaz G, Mancini A. CNE series. Head lice: diagnosis and therapy. Dermatol Nurs. 2010;22(4):2-8.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>McCormack PL. Spinosad: in pediculosis capitis. Am J Clin Dermatol. 2011 Oct 1;12(5):349-53. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21834600&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Meinking TL, Clineschmidt CM, Chen C, Kolber MA, Tipping RW, Furtek CI, Villar ME, Guzzo CA. An observer-blinded study of 1% permethrin creme rinse with and without adjunctive combing in patients with head lice. J Pediatr. 2002 Nov;141(5):665-70. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12410195&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Meinking TL, Mertz-Rivera K, Villar ME, Bell M. Assessment of the safety and efficacy of three concentrations of topical ivermectin lotion as a treatment for head lice infestation. Int J Dermatol. 2013 Jan;52(1):106-12. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23278618&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Meinking TL, Vicaria M, Eyerdam DH, Villar ME, Reyna S, Suarez G. A randomized, investigator-blinded, time-ranging study of the comparative efficacy of 0.5% malathion gel versus Ovide Lotion (0.5% malathion) or Nix Creme  Rinse (1% permethrin) used as labeled, for the treatment of head lice. Pediatr Dermatol. 2007 Jul-Aug;24(4):405-11. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17845167&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Meinking TL, Vicaria M, Eyerdam DH, Villar ME, Reyna S, Suarez G. Efficacy of a reduced application time of Ovide lotion (0.5% malathion) compared  to Nix creme rinse (1% permethrin) for the treatment of head lice. Pediatr Dermatol. 2004 Nov-Dec;21(6):670-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15575855&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Meinking TL, Villar ME, Vicaria M, Eyerdam DH, Paquet D, Mertz-Rivera K, Rivera HF, Hiriart J, Reyna S. The clinical trials supporting benzyl alcohol lotion 5% (Ulesfia): a safe and effective topical treatment for head lice (pediculosis humanus capitis). Pediatr Dermatol. 2010 Jan-Feb;27(1):19-24. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20199404&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mumcuoglu KY, Friger M, Ioffe-Uspensky I, Ben-Ishai F, Miller J. Louse comb versus direct visual examination for the diagnosis of head louse infestations. Pediatr Dermatol. 2001 Jan-Feb;18(1):9-12. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11207962&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mumcuoglu KY, Meinking TA, Burkhart CN, Burkhart CG. Head louse infestations: the &quot;no nit&quot; policy and its consequences. Int J Dermatol. 2006 Aug;45(8):891-6. [36 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16911370&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Nofal A. Oral ivermectin for head lice: a comparison with 0.5 % topical malathion lotion. J Dtsch Dermatol Ges. 2010 Dec;8(12):985-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20718901&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Pariser DM, Meinking TL, Bell M, Ryan WG. Topical 0.5% ivermectin lotion for treatment of head lice. N Engl J Med. 2012 Nov;367(18):1687-93. [20 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23113480&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Prescriber's Letter. Treatment of head lice - an update. Stockton (CA): Therapeutic Research Center; 2010. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Shmidt E, Levitt J. Dermatologic infestations. Int J Dermatol. 2012 Feb;51(2):131-41. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22250620&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Speare R, Cahill C, Thomas G. Head lice on pillows, and strategies to make a small risk even less. Int J Dermatol. 2003 Aug;42(8):626-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12890107&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Stough D, Shellabarger S, Quiring J, Gabrielsen AA Jr. Efficacy and safety of spinosad and permethrin creme rinses for pediculosis capitis (head lice). Pediatrics. 2009 Sep;124(3):e389-95. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19706558&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Strycharz JP, Berge NM, Alves AM, Clark JM. Ivermectin acts as a posteclosion nymphicide by reducing blood feeding of human head lice (Anoplura: Pediculidae) that hatched from treated eggs. J Med Entomol. 2011 Nov;48(6):1174-82. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22238876&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Strycharz JP, Yoon KS, Clark JM. A new ivermectin formulation topically kills permethrin-resistant human head lice (Anoplura: Pediculidae). J Med Entomol. 2008 Jan;45(1):75-81. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18283945&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Takano-Lee M, Edman JD, Mullens BA, Clark JM. Transmission potential of the human head louse, Pediculus capitis (Anoplura: Pediculidae). Int J Dermatol. 2005 Oct;44(10):811-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16207180&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Taplin D, Meinking TL, Castillero PM, Sanchez R. Permethrin 1% creme rinse for the treatment of Pediculus humanus var capitis infestation. Pediatr Dermatol. 1986 Sep;3(4):344-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2430269&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Taro Pharmaceuticals. Ovide lotion: highlights of prescribing information. Hawthorne (NY): Taro Pharmaceuticals; 2011. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tebruegge M, Pantazidou A, Curtis N. What's bugging you? An update on the treatment of head lice infestation. Arch Dis Child Educ Pract Ed. 2011 Feb;96(1):2-8. [95 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20688849&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tebruegge M, Runnacles J. Is wet combing effective in children with pediculosis capitis infestation. Arch Dis Child. 2007 Sep;92(9):818-20. [19 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17715448&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Thomas DR, McCarroll L, Roberts R, Karunaratne P, Roberts C, Casey D, Morgan S, Touhig K, Morgan J, Collins F, Hemingway J. Surveillance of insecticide resistance in head lice using biochemical and molecular methods. Arch Dis Child. 2006 Sep;91(9):777-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16774979&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>U.S. Food and Drug Administration. FDA public health advisory: safety of topical lindane products for the treatment of scabies and lice. Silver Spring (MD): U.S. Food and Drug Administration; 2009 Apr 30. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Villegas SC, Breitzka RL. Head lice and the use of spinosad. Clin Ther. 2012 Jan;34(1):14-23. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22177544&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Appropriate diagnosis and treatment of pediculosis capitis </li>
+    <li>Decreased transmission of pediculosis capitis </li>
+    <li>Decreased re-infection rate </li>
+    <li>Decreased risk of secondary infections</li>
+</ul>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>All pediculicides may cause burning, stinging, itching, or irritation at the site of application. </li>
+    <li>Permethrin may cause burning, pruritus, erythema and&amp;nbsp;numbness/tingling. </li>
+    <li>Pyrethrin/piperonyl butoxide topical may cause irritation and contact dermatitis. </li>
+    <li>Malathion:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Conjunctivitis has been reported following contact with the eyes. </li>
+        <li>Malathion is flammable and should therefore be kept away from open flames and electric heat sources such as hair dryers and curling irons. </li>
+    </ul>
+    </li>
+    <li>Benzyl alcohol lotion (Ulesfia) may cause ocular irritation, application site irritation, application site anesthesia and hypoesthesia, pruritus, application site dryness, excoriation, and dermatitis, thermal burn, erythema, rash, and skin exfoliation. </li>
+    <li>Topical ivermectin (Sklice) may cause conjunctivitis, ocular hyperemia or irritation, seborrhea, xeroderma, or burning sensation. </li>
+    <li>Spinosad topical suspension (Natroba) may cause application site erythema, ocular erythema, application site dryness, exfoliation, and alopecia. </li>
+    <li>Lindane:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Black box warning: may cause neurologic toxicity and seizures. </li>
+        <li>May cause dizziness, dermatitis, alopecia, headache, pain, paresthesia, pruritus, and urticaria. </li>
+    </ul>
+    </li>
+    <li>Oral ivermectin may cause pruritus, rash, fever, edema, lymphadenopathy, headache, myalgia, dizziness, tachycardia, abnormal eye sensation, limbitis, conjunctivitis, ocular inflammation, orthostatic hypotension, liver enzyme elevations, eosinophilia, seizures, Stevens-Johnson syndrome, toxic epidermal necrolysis, asthma exacerbations, vision loss, conjunctival hemorrhage, hepatitis. </li>
+    <li>Bactrim/Septra may cause nausea, vomiting, anorexia, rash, urticaria, hypersensitivity reaction, photosensitivity, diarrhea, dizziness, dyspepsia, headache, lethargy, Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, blood dyscrasias, renal impairment/failure, pancreatitis, hepatotoxicity, interstitial nephritis, photosensitivity, pulmonary infiltrates, myelosuppression, methemoglobinemia, hyperkalemia, aseptic meningitis, seizures, lupus erythematosus, <em>Clostridium difficile</em> associated diarrhea, rhabdomyolysis, &amp;amp; kernicterus (neonates). </li>
+</ul>
+<p><strong>Pregnancy Considerations</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Permethrin, malathion, benzyl alcohol, and Spinosad are category B drugs. </li>
+    <li>Lindane, pyrethrin/piperonyl butoxide, Bactrim/Septra, ivermectin oral, and ivermectin lotion are category C drugs. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Permethrin:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Contraindications include hypersensitivity to pyrethroid, pyrethrin/piperonyl butoxide topical, chrysanthemums or any component of the formulation. </li>
+        <li>Contraindicated for use in infants less than 2 months of age. </li>
+    </ul>
+    </li>
+    <li>Pyrethrin/piperonyl butoxide topical:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Contraindications include hypersensitivity to pyrethrins, ragweed, chrysanthemums or any component of the formulation. </li>
+        <li>Contraindicated for use in children less than 2 years of age. </li>
+    </ul>
+    </li>
+    <li>Malathion:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Contraindications include hypersensitivity to malathion or any component of the formulation. </li>
+        <li>Contraindicated for use in neonates and infants. </li>
+    </ul>
+    </li>
+    <li>Benzyl alcohol lotion (Ulesfia):
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Contraindications include hypersensitivity to benzyl alcohol or any component of the formulation. </li>
+        <li>Contraindicated for use in infants less than 6 months old. </li>
+    </ul>
+    </li>
+    <li>Topical ivermectin (Sklice):
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Contraindications for the use of topical ivermectin include hypersensitivity to ivermectin or any component of the formulation. </li>
+        <li>Contraindicated for use in infants less than 6 months old. </li>
+    </ul>
+    </li>
+    <li>Spinosad topical suspension (Natroba):
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Contraindications for the use of Spinosad include hypersensitivity to Spinosad or any component of the formulation. </li>
+        <li>Contraindicated for use in children less than 4 years of age. </li>
+    </ul>
+    </li>
+    <li>Lindane:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Contraindications include hypersensitivity to Lindane or any component of the formulation. </li>
+        <li>Contraindicated for use in premature infants and individuals with known uncontrolled seizure disorders. </li>
+        <li>Caution should be used in infants, children, elderly, and patients weighing less than 50 kg. </li>
+    </ul>
+    </li>
+    <li>Oral ivermectin (Stromectol):
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Contraindications for the use of oral ivermectin include hypersensitivity to drug, class, or components. Caution if asthma. </li>
+        <li>Use should be avoided in children &amp;lt;33 lbs, pregnancy, or breastfeeding. </li>
+    </ul>
+    </li>
+    <li>Trimethoprim/sulfamethoxazole (TMP/SMX) (Bactrim/Septra):
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Contraindications include hypersensitivity to sulfonamides, trimethoprim, or any component of the formulation, porphyria, megaloblastic anemia, folate deficiency, G6PD deficiency, significant hepatic impairment, severe renal disease, pregnancy, and breastfeeding. </li>
+        <li>Contraindicated for use in infants less than 2 months of age. </li>
+    </ul>
+    </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Recent primary studies of permethrin or pyrethrin/piperonyl butoxide topical were limited due to long established safety and efficacy profiles. </li>
+    <li>Newer drugs also had limited research available due to short time on market. </li>
+    <li>The vast majority of trials reviewed included only children as the majority of infestations occur in this population. </li>
+    <li>These recommendations are meant to serve as a source of clinical guidance. Health care providers should always consider the individual clinical circumstances of each person in the context of local disease prevalence as well as resistance. These guidelines focus on the treatment and counseling of individual patients and do not address other components of a community that are important in pediculosis capitis detection and prevention, such as schools and daycare centers. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>University of Texas, School of Nursing Family Nurse Practitioner Program. Guidelines for the diagnosis and treatment of pediculosis capitis (head lice) in children and adults 2013. Austin (TX): University of Texas, School of Nursing; 2013 May. 21 p.  [57 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2002 May (revised 2013 May)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="University of Texas at Austin School of Nursing, Family Nurse Practitioner Program - Academic Institution"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>University of Texas at Austin, School of Nursing, Family Nurse Practitioner Program</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Practice Guidelines Committee</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Authors</em>: Brittany Bohl, RN; Jessica Evetts, RN; Kymberli McClain, RN; Amanda Rosenauer, RN; Emily Stellitano, RN</p>
+<p><em>Consultant</em>: Lisa Doggett, MD, MPH</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: University of Texas, School of Nursing, Family Nurse Practitioner Program. Guidelines for the diagnosis and treatment of pediculosis capitis (head lice) in children and adults. Austin (TX): University of Texas, School of Nursing; 2008 May. 17 p.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: None available.</p>
+<p>Print copies: Available from the University of Texas at Austin, School of Nursing. 1700 Red River, Austin, Texas, 78701-1499, Attn: Nurse Practitioner Program</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI on October 3, 2002. The information was verified by the guideline developer on October 16, 2002. This summary was updated by ECRI Institute on September 18, 2008. This summary was updated by ECRI Institute on September 23, 2013.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which may be subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 22:42:43 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:57:19 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 70.835 (3)
+  esindex: 0.005
+  captures_list: 88.198
+  CDXLines.iter: 14.225 (3)
+  PetaboxLoader3.datanode: 84.49 (4)
+  exclusion.robots: 0.237
+  exclusion.robots.policy: 0.224
+  RedisCDXSource: 0.633
+  PetaboxLoader3.resolve: 171.652
+  load_resource: 213.418
+-->

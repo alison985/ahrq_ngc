@@ -1,0 +1,731 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app42.us.archive.org';v.server_ms=635;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-9275?contentType=xml', '20171003015901')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20171003015901/https://www.guideline.gov/summaries/downloadcontent/ngc-9275?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20171003015901/https://www.guideline.gov/summaries/downloadcontent/ngc-9275?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-9275?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20171003015901" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930224922/https://www.guideline.gov/summaries/downloadcontent/ngc-9275?contentType=xml" title="30 Sep 2016"><strong>Sep</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 01:59:01 Oct 03, 2017">OCT</td>
+		  <td class="f" nowrap="nowrap">Nov</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930224922/https://www.guideline.gov/summaries/downloadcontent/ngc-9275?contentType=xml" title="22:49:22 Sep 30, 2016"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 01:59:01 Oct 03, 2017">03</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930224922/https://www.guideline.gov/summaries/downloadcontent/ngc-9275?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 01:59:01 Oct 03, 2017">2017</td>
+		  <td class="f" nowrap="nowrap">2018</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20171003015901*/https://www.guideline.gov/summaries/downloadcontent/ngc-9275?contentType=xml" title="See a list of every capture for this URL">2 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 03 Oct 2017</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-9275?contentType=xml","2017-10-03",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Guideline for management of wounds in patients with lower-extremity neuropathic disease.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Wound, Ostomy, and Continence Nurses Society (WOCN). Guideline for management of wounds in patients with lower-extremity neuropathic disease. Mount Laurel (NJ): Wound, Ostomy, and Continence Nurses Society (WOCN); 2012 Jun 1. 100 p.&amp;nbsp;(WOCN clinical practice guideline series; no. 3).&amp;nbsp; [216 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Wound, Ostomy, and Continence Nurses Society (WOCN). Guideline for management of wounds in patients with lower-extremity neuropathic disease. Glenview (IL): Wound, Ostomy, and Continence Nurses Society (WOCN); 2004. 57 p. (WOCN clinical practice guideline; no. 3).</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A level of evidence rating (<strong>A-C</strong>) has been assigned specific recommendations and is defined at the end of the &quot;Major Recommendations&quot; field. Citations in support of individual recommendations are identified in the original guideline document.</p>
+<ol style=&quot;list-style-type: upper-alpha;&quot;>
+    <li><strong><span style=&quot;text-decoration: underline;&quot;>Assessment of Patients with Ulcers and Lower-Extremity Neuropathic Disease (LEND)</span></strong>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+        <li>Prior to treatment, assess causative and contributive factors and significant signs and symptoms to differentiate types of lower-extremity ulcers, which require varying treatment (see Algorithm in Appendix A of original guideline document). </li>
+        <li>Review health history to address risk factors for LEND (e.g., diabetes mellitus, hypothyroidism, alcoholism, smoking, vitamin deficiencies, obesity, collagen and metabolic diseases, pernicious anemia, advanced age, neuromuscular diseases), wound and pain history, and history of prescribed and self-prescribed medications. <strong>Level of Evidence = C</strong>
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Assess pain characteristics: onset, duration, location, precipitating/alleviating factors and presence of altered sensitivity to normally painless stimuli or an exaggerated response to painful stimuli. The description of neuropathic pain may be specific to the disease state. </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;3&quot;>
+        <li>Review pertinent labs to identify risk markers for LEND.
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Blood glucose levels (hemoglobin A1C [HgbA1c], fasting, 2 hour post prandial). <strong>Level of Evidence = A</strong> </li>
+            <li>Renal function: blood urea nitrogen (BUN), creatinine. </li>
+            <li>CD-4 and human immunodeficiency virus (HIV) viral loads. </li>
+            <li>C-reactive protein, erythrocyte sedimentation rate. <strong>Level of Evidence = A</strong> </li>
+            <li>Thyroid stimulating hormone. <strong>Level of Evidence = B</strong> </li>
+            <li>Vitamin B12 and D. <strong>Level of Evidence = B</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;4&quot;>
+        <li>Perform a comprehensive neurologic exam of the lower extremities.
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Patients should be screened for distal symmetric polyneuropathy (DPN) at diagnosis and at least annually thereafter, using simple clinical tests. <strong>Level of Evidence = C</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;5&quot;>
+        <li>Conduct a lower extremity and foot exam.
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Perform an annual comprehensive foot examination to identify risk factors predictive of ulcers and amputations for all patients with diabetes that includes inspection and assessment. Remove shoes and socks and examine feet, toes, and skin between toes. <strong>Level of Evidence = C</strong> </li>
+            <li>Observe foot hygiene and evidence of self-care. Assess patient's routine foot care practices re: cleansing, moisturizing, self-foot exam and shoe wear practices&amp;mdash;both indoor and outdoor shoes. Assess patient's ability to see all aspects of the foot, as well as to reach the foot. <strong>Level of Evidence = C </strong></li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;6&quot;>
+        <li>Observe skin appearance regarding color, quality, texture and turgor. </li>
+        <li>Observe for evidence of early skin and toenail related issues.
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Assess for focal callus formation, particularly over bony prominences or foot deformities. Routine debridement of focal calluses decreases plantar pressures. <strong>Level of Evidence = B</strong> </li>
+            <li>Assess for fissures, moisture related issues, abnormal toenail growth and appearance, lack of hair growth over toes, feet and lower extremities, and presence of tinea pedis. </li>
+            <li>Assess for edema.
+            <ol style=&quot;list-style-type: lower-roman;&quot;>
+                <li>Correlate with co-morbid conditions such as heart failure, nephropathy, or venous insufficiency. </li>
+                <li>Assess for location and type. </li>
+                <li>Rule out neuropathic Charcot foot involvement for unilateral edema with bounding pulses. </li>
+                <li>Obtain serial foot/leg measurement if edema is circumferential. </li>
+            </ol>
+            </li>
+        </ol>
+        <ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;4&quot;>
+            <li>Assess for inflammation using an infrared dermal thermometer. A &amp;gt;2 &amp;deg;C increase of an affected site as compared with an unaffected site is considered significant for inflammation. </li>
+            <li>Assess ulcer characteristics in consideration of shape, wound tissue, wound edges, periwound appearance, character and amount of exudate, and location. Observe for diabetes skin markers.
+            <ol style=&quot;list-style-type: lower-roman;&quot;>
+                <li>Assess for ulcer complications: cellulitis, gangrene, and osteomyelitis. </li>
+                <li>Use wound classification system such as the University of Texas, San Antonio system or Wagner system to describe and document the wound. <strong>Level of Evidence = B</strong> </li>
+            </ol>
+            </li>
+        </ol>
+        <ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;6&quot;>
+            <li>Determine the vascular status of the lower extremity using ankle brachial index (ABI) or toe brachial index (TBI).
+            <ol style=&quot;list-style-type: lower-roman;&quot;>
+                <li>Measure ABI to assess arterial blood flow in the lower extremities and determine level of ischemia: Normal &amp;gt;1.0, lower-extremity arterial disease (LEAD) &amp;lt;0.9, borderline &amp;lt;0.6&amp;ndash;0.8, severe ischemia &amp;lt;0.5, and critical ischemia &amp;lt;0.4. The ABI can be elevated (&amp;gt;1.3) in individuals with diabetes, renal failure, or arthritis who have non-compressible vessels due to calcification of the ankle arteries. <strong>Level of Evidence = C </strong></li>
+                <li>Measure toe pressures (TP) to determine a TBI for patients whose ABI is &amp;gt;1.3. A systolic TP &amp;lt;30 mmHg (&amp;lt;50 mmHg in persons with diabetes) or TBI &amp;lt;0.6 indicates LEAD. <strong>Level of Evidence = C </strong></li>
+                <li>Assess tissue perfusion with transcutaneous oxygen measurement (TcPO<sub>2</sub>) if an ulcer is not healing and the ABI is &amp;lt;0.9, TP &amp;lt;30 mmHg, if unable to perform an ABI or TP because of incompressible arteries at the ankle, or the patient has had an amputation. A TcPO<sub>2</sub> &amp;lt;40 mmHg is considered hypoxic and is associated with impaired wound healing. <strong>Level of Evidence = C</strong> </li>
+            </ol>
+            </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;8&quot;>
+        <li>Assess neurosensory status.
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Perform an annual comprehensive foot examination to identify risk factors predictive of ulcers and amputations. </li>
+            <li>The foot examination should include inspection and testing for loss of protective sensation (LOPS) using the 10-g, Semmes-Weinstein monofilament, plus testing any one of the following:
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Measuring vibratory sensation using a 128-Hz tuning fork </li>
+                <li>Checking the vibration perception threshold with biothesiometer </li>
+                <li>Testing ankle reflexes with a percussion hammer <strong>Level of Evidence = C</strong> </li>
+            </ul>
+            </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;9&quot;>
+        <li>Assess musculoskeletal/biomechanical status for any gross deformity and perform gait evaluation and muscle group strength testing.
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Assess for joint limitation and inflexibility/rigidity using a goniometer. </li>
+            <li>Assess for presence of foot deformities such as hammer or claw toes, prominent metatarsal heads, mid or hind foot deformity (may be indicative of Charcot foot). </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;10&quot;>
+        <li>Assess patient's shoes.
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Assess general shoe condition, wear patterns of shoe soles and heels, bottoming out of insoles, condition of the shoe lining and patient's use of socks, insoles and orthoses. </li>
+            <li>Assess if the fit, design and shape of the shoe is appropriate for the patient's foot. </li>
+        </ol>
+        </li>
+    </ol>
+    </li>
+</ol>
+<ol style=&quot;list-style-type: upper-alpha;&quot; start=&quot;2&quot;>
+    <li><strong><span style=&quot;text-decoration: underline;&quot;>Interventions for Patients with LEND and Ulcers</span></strong>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+        <li>Recommend patients with LEND and ulcers seek care guided by a clinical wound expert. <strong>Level of Evidence = C</strong> </li>
+        <li>Relate treatments to adequacy of perfusion status in caring for patients with LEND (see Table 7, Treatments related to perfusion, in the original guideline document). </li>
+        <li>Cleanse the ulcer at each dressing change while minimizing trauma to the ulcer and surrounding skin. Tap water, boiled and cooled, distilled, or saline is recommended for cleansing wounds. <strong>Level of Evidence = B</strong> </li>
+        <li>Avoid using cleansing products or solutions that are intended for use on intact skin within the wound bed. <strong>Level of Evidence = C</strong> </li>
+        <li>Debridement
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Debride avascular tissue in the neuropathic ulcer after adequate perfusion has been established. Debridement is usually painless due to neuropathy. </li>
+            <li>Selection of the methods for debridement should be determined by the condition of the wound, presence or absence of infection, biofilms, amount of necrotic tissue, vascularity of wound, and anticoagulation medications. </li>
+            <li>Consider hydrogels, which may be an effective method of debridement as compared to gauze dressings in a small number of limited studies.<strong> Level of Evidence = A</strong> </li>
+            <li>Maintain dry, stable eschar on noninfected, ischemic, neuropathic wounds.<strong> Level of Evidence = C</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;6&quot;>
+        <li>Offloading
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Identify sites of high pressure as evidenced by increased temperature, callus, and/or wound and offload the site/sites with proper shoes or pedorthic devices to remove and redistribute pressure over entire foot surface. </li>
+            <li>Refer patients with gait abnormality to a qualified pedorthic professional (C-Ped) for shoe or device customization. </li>
+            <li>Use dermal temperature monitoring to progress patients from offloading devices to customized shoes. </li>
+            <li>Provide offloading through all phases of neuropathic foot and wound management, including and after remodeling, if foot deformity is present. </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;7&quot;>
+        <li>Topical treatment
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Select dressings according to accepted wound care principles, ulcer characteristics, goals for healing, patient and caregiver needs, costs and ease of use. </li>
+            <li>Select moisture-retentive dressings for acute and chronic wounds, including neuropathic wounds (both partial and full thickness wounds). <strong>Level of Evidence = B</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;8&quot;>
+        <li>Infection
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Recognize and treat infection. Clinical signs of infection may be subtle due to reduced blood flow or absence of sensation in the neuropathic foot.
+            <ul style=&quot;list-style-type: disc;&quot;>
+                <li>Seek aggressive intervention for infections characterized by deep abscess, extensive bone or joint involvement, crepitus, substantial necrosis, gangrene or necrotizing fasciitis. </li>
+                <li>Consider lab markers that may indicate infection or osteomyelitis and may include complete blood count (CBC), procalcitonin, C-reactive protein, and blood glucose. <strong>Level of Evidence = B </strong></li>
+            </ul>
+            </li>
+        </ol>
+        <ol style=&quot;list-style-type: lower-alpha;&quot; start=&quot;2&quot;>
+            <li>Beware of interpreting a microbiology report in isolation, and consider the report in the setting of the patient and the wound, and if appropriate, consult a microbiologist or infectious disease specialist. </li>
+            <li>Utilize plain radiographs for patients with an uncomplicated diabetic foot ulcer. <strong>Level of Evidence = B</strong> </li>
+            <li>Consider a quantitative swab cultures for chronic wounds, utilizing the Levine Technique. <strong>Level of Evidence = B</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;9&quot;>
+        <li>Antibiotics
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Refer patients with deep tissue infections and cellulitis for systemic treatment approaches. Consider oral antibiotics that are effective for gram positive organisms for mild infections. <strong>Level of Evidence = B </strong></li>
+            <li>Provide optimal wound care in addition to appropriate antibiotic treatment of infection to enhance healing of infected neuropathic wounds. </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;10&quot;>
+        <li>Osteomyelitis
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Refer the patient for further evaluation if infection is suspected, such as when there is a positive probe to the bone, or radiographic changes demonstrate Charcot osteoarthropathy. </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;11&quot;>
+        <li>Treat fungal infections
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Dry feet well after bathing, especially between toes. </li>
+            <li>Apply an antifungal powder or cream (e.g., miconazole 2% powder) to the feet daily to decrease risk of fungal infection until symptoms are gone. </li>
+            <li>Utilize toe spacers to prevent interdigital crowding and maceration. <strong>Level of Evidence = C</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;12&quot;>
+        <li>Topical antiseptics and antimicrobials
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Institute a short course of a topical antimicrobial agent along with careful daily monitoring of the neuropathic ulcer for signs of infection. <strong>Level of Evidence = B</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;13&quot;>
+        <li>Nutrition
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Target nutritional therapy to achieve a hemoglobin A1c level of less than 7% to reduce the risk of microvascular complications from diabetes, including neuropathy. <strong>Level of Evidence = B</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;14&quot;>
+        <li>Micronutrients
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Consider use of &amp;alpha;-lipoic acid which may improve clinical symptoms and neurological deficits of peripheral neuropathy. <strong>Level of Evidence = A </strong></li>
+            <li>Consider use of vitamin B12 which may prevent peripheral neuropathic symptoms. </li>
+            <li>Monitory for vitamin D deficiency which has been reported in patients with peripheral neuropathy symptoms. <strong>Level of Evidence = C</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;15&quot;>
+        <li>Pain management
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Monitor pain and depression, anxiety, sleep disturbance as these may all be symptoms of pain in patients with LEND. </li>
+            <li>Utilize a multidisciplinary team for pain management in patients with LEND. <strong>Level of Evidence = B </strong></li>
+            <li>Consider pharmacological interventions which may improve quality of life in patients with LEND. <strong>Level of Evidence = B</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;16&quot;>
+        <li>Exercise
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Institute a regular exercise program adapted to the presence of complications and conducted with caution due to insensate lower extremities. <strong>Level of Evidence = B</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;17&quot;>
+        <li>Surgery
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Refer patients as appropriate for surgical assessment when goals are to achieve limb salvage, prevent re-ulceration, revascularize ischemic lower extremities, and promote optimal functionality of the lower extremity. </li>
+        </ol>
+        </li>
+    </ol>
+    </li>
+</ol>
+<ol style=&quot;list-style-type: upper-alpha;&quot; start=&quot;3&quot;>
+    <li><strong><span style=&quot;text-decoration: underline;&quot;>Prevention and Education</span></strong>
+    <p>Identify patients at risk for foot ulceration.</p>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+        <li>Perform a neuropathic foot screen. <strong>Level of Evidence = C</strong> </li>
+        <li>Initiate the lower extremity amputation program model (LEAP) (see Appendix C in the original guideline document). <strong>Level of Evidence = B</strong> </li>
+        <li>Educate patients and caregivers, focusing on daily self-care measures, early recognition and reporting of potential foot problems </li>
+        <li>Ensure regular surveillance by a health care provider and prompt follow up of reported foot problems. </li>
+        <li>Instruct the patient on the necessity of appropriate individual foot wear. <strong>Level of Evidence = C</strong> </li>
+        <li>Refer for evaluation of complications: cellulitis, osteomyelitis, atypical ulcers, and new onset of Charcot foot. </li>
+    </ol>
+    </li>
+</ol>
+<ol style=&quot;list-style-type: upper-alpha;&quot; start=&quot;4&quot;>
+    <li><strong><span style=&quot;text-decoration: underline;&quot;>Consider Adjunctive Treatments</span></strong>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+        <li>Consider hyperbaric oxygen treatments for patients with LEND and nonhealing wounds. <strong>Level of Evidence = B</strong> </li>
+        <li>Consider use of negative pressure wound therapy which may increase complete wound closure compared to standard wound dressings and is associated with lower risk of secondary infections. <strong>Level of Evidence = C</strong> </li>
+        <li>Manage diabetes by maintenance of normal blood glucose levels. <strong>Level of Evidence = A</strong> </li>
+        <li>Refer patients who smoke and have loss of protective sensation to foot care specialists, and include smoking cessation education and counseling. <strong>Level of Evidence = B</strong> </li>
+    </ol>
+    </li>
+</ol>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Definitions</strong></span>:</p>
+<p><strong>Level-of-Evidence Rating</strong></p>
+<p><strong>Level I</strong>: A randomized controlled trial (RCT) that demonstrates a statistically significant difference in at least one important outcome defined by p &amp;lt;0.05</p>
+<p><strong>Level II</strong>: A RCT that does not meet Level I criteria</p>
+<p><strong>Level III</strong>: A nonrandomized trial with contemporaneous controls selected by some systematic method. A control may have been selected because of its perceived suitability as a treatment option for individual patients</p>
+<p><strong>Level IV</strong>: A before-and-after study or a case series of at least 10 patients using historical controls or controls drawn from other studies</p>
+<p><strong>Level V</strong>: A case series of at least 10 patients with no controls</p>
+<p><strong>Level VI</strong>: A case report of fewer than 10 patients</p>
+<p><strong>Level-of-Evidence Rating for Recommendations</strong></p>
+<p><strong>Level A</strong>: Two or more supporting RCTs of at least 10 humans with neuropathic disease with ulcers (at Levels I or II), a meta-analysis of RCTs, or Cochrane systematic review of RCTs</p>
+<p><strong>Level B</strong>: One or more supporting controlled trials of at least 10 humans with lower-extremity neuropathic disease (LEND) with ulcers or two or more supporting, non-randomized trials of at least 10 humans with LEND and ulcers (at Level III)</p>
+<p><strong>Level C</strong>: Two supporting case series of at least 10 humans with LEND with ulcers or expert opinion</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A clinical algorithm to determine wound etiology is provided in Appendix A of the original guideline document.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Lower-extremity neuropathic disease (LEND) </li>
+    <li>Peripheral neuropathy </li>
+    <li>Diabetic neuropathy </li>
+    <li>Lower-extremity wounds and ulcers </li>
+</ul>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Counseling"/>
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Screening"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Dermatology"/>
+      <fieldvalue value="Endocrinology"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Neurology"/>
+      <fieldvalue value="Nursing"/>
+      <fieldvalue value="Physical Medicine and Rehabilitation"/>
+      <fieldvalue value="Podiatry"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Dietitians"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physical Therapists"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Podiatrists"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To support clinical practice by providing consistent, research-based information with the goal of improved cost-effective patient outcomes as well as to stimulate increased wound research</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients with lower-extremity neuropathic disease (LEND) with or at risk for wounds</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Diagnosis/Evaluation/Risk Assessment/Screening</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Assessment of causative and contributive factors and significant signs and symptoms to differentiate types of lower-extremity ulcers </li>
+    <li>Review of health history for risk factors for lower extremity neuropathic disease (LEND) (wound history, pain history, pharmacologic history of prescribed and self-prescribed medications) </li>
+    <li>Review of pertinent labs (blood glucose, hemoglobin A-1 C [HbA1c], renal function, C-reactive protein and erythrocyte sedimentation, CD4 count and human immunodeficiency virus [HIV] viral load, vitamin B12 and D, thyroid stimulating hormone [TSH], and T4) to identify risk markers for LEND </li>
+    <li>Comprehensive neurological exam of lower extremities </li>
+    <li>Annual foot examination </li>
+    <li>Examination of skin and toenails (evidence of callus formation, fissures, edema, inflammation, ulcers) </li>
+    <li>Assessment of vascular status of the lower extremity using ankle brachial index (ABI) or toe brachial index (TBI) </li>
+    <li>Assessment of tissue perfusion with transcutaneous oxygen measurement (TcPO2) </li>
+    <li>Testing for loss of protective sensation (LOPS) (10-g, Semmes-Weinstein monofilament and vibrational testing) </li>
+    <li>Assessment of musculoskeletal/biomechanical status </li>
+    <li>Assessment of patient's shoes </li>
+</ol>
+<p><strong>Treatment/Management/Prevention</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Care guided by a clinical wound expert </li>
+    <li>Wound management </li>
+    <li>Debridement methods (use of hydrogels) </li>
+    <li>Offloading </li>
+    <li>Topical treatment (selection of dressings) </li>
+    <li>Use of systemic antibiotics in patients with deep tissue infections and cellulitis </li>
+    <li>Referral for further examination when osteomyelitis is suspected </li>
+    <li>Treatment of fungal infections (e.g., miconazole powder) </li>
+    <li>Topical antiseptics and antimicrobials </li>
+    <li>Targeted nutritional therapy to achieve a hemoglobin A1c level of less than 7% </li>
+    <li>Use of &amp;alpha;-lipoic acid and vitamin B12 </li>
+    <li>Monitoring vitamin D levels </li>
+    <li>Pain management </li>
+    <li>Exercise programs </li>
+    <li>Referral for surgery </li>
+    <li>Regular neuropathic foot screening and surveillance </li>
+    <li>Patient education </li>
+    <li>Initiating the lower extremity amputation program model (LEAP) </li>
+    <li>Evaluation for complications </li>
+    <li>Adjunctive treatments (hyperbaric oxygen, negative pressure wound therapy) </li>
+    <li>Management of diabetes by maintenance of normal blood glucose levels </li>
+    <li>Referral to foot care specialists </li>
+    <li>Smoking cessation education and counseling </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Risk factors associated with lower extremity neuropathic disease (LEND) with foot ulcers </li>
+    <li>Sensitivity and specificity of diagnostic assessments and classification schemes </li>
+    <li>Wound healing rates </li>
+    <li>Complication risks </li>
+    <li>Signs and symptoms of lower-extremity neuropathic disease (LEND) </li>
+    <li>Recurrence rates and risks </li>
+    <li>Improvement in function and quality of life </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The primary authors of this guideline independently conducted a literature search of Medline and Cochrane Library databases to identify studies and systematic reviews published in English from 2003 to 2012. The following medical subject headings (MeSH) were used to search for each specific question related to lower-extremity neuropathic disease (LEND)&amp;mdash;lower-extremity wounds and peripheral neuropathy, peripheral neuropathy, neuropathic disease, neuropathic wounds, and diabetic neuropathy. The search targeted meta-analyses, randomized controlled trials (RCTs), prospective clinical trials, retrospective studies, and systematic reviews. Bibliographies of selected articles also were reviewed.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A total of 398 articles were identified and reviewed for this guideline.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Level-of-Evidence Rating</strong></p>
+<p><strong>Level I</strong>: A randomized controlled trial (RCT) that demonstrates a statistically significant difference in at least one important outcome defined by p &amp;lt;0.05</p>
+<p><strong>Level II</strong>: A RCT that does not meet Level I criteria</p>
+<p><strong>Level III</strong>: A nonrandomized trial with contemporaneous controls selected by some systematic method. A control may have been selected because of its perceived suitability as a treatment option for individual patients</p>
+<p><strong>Level IV</strong>: A before-and-after study or a case series of at least 10 patients using historical controls or controls drawn from other studies</p>
+<p><strong>Level V</strong>: A case series of at least 10 patients with no controls</p>
+<p><strong>Level VI</strong>: A case report of fewer than 10 patients</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Two primary reviewers read and summarized selected articles. Each article was assigned a level-of-evidence rating using the criteria listed in the &quot;Rating Scheme for the Strength of the Evidence&quot; field.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Wound, Ostomy, and Continence Nurses Society (WOCN) developed this evidence-based guideline using the following process. A panel of WOCN members, representing a wide range of experience and clinical practice backgrounds, convened to plan the guideline format. A topical outline was designed, and specific questions were proposed to provide focus for the evidence search. The review included studies reporting primary data relevant to lower-extremity neuropathic disease (LEND) and specific therapies or diagnostic modalities. The panel developed 15 questions to guide the evidence-based literature review (see the original guideline document).</p>
+<p>Summaries of the studies were presented to all task force members for review, discussion, and clarification. After a series of conference calls and meetings conducted in 2009 through October 2011, the guideline was finalized incorporating evidence from the studies. Studies supporting the guideline are cited in the text and listed in the references. A level-of evidence rating has been assigned to specific recommendations based on the rating system used by the Agency for Health Care Policy and Research (AHCPR, now known as Agency for Healthcare Research and Quality) in the development of the AHCPR clinical practice guidelines for prevention and treatment of pressure ulcers published in 1992 and 1994 (see the &quot;Rating Scheme for the Strength of the Recommendations&quot; field). Where specific level-of-evidence ratings are not included, the information represents the consensus opinion of panel members.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Level-of-Evidence Rating for Recommendations</strong></p>
+<p><strong>Level A</strong>: Two or more supporting randomized controlled trials (RCTs) of at least 10 humans with neuropathic disease with ulcers (at Levels I or II), a meta-analysis of RCTs, or Cochrane systematic review of RCTs</p>
+<p><strong>Level B</strong>: One or more supporting controlled trials of at least 10 humans with lower-extremity neuropathic disease (LEND) with ulcers or two or more supporting, non-randomized trials of at least 10 humans with LEND and ulcers (at Level III)</p>
+<p><strong>Level C</strong>: Two supporting case series of at least 10 humans with LEND with ulcers or expert opinion</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Published cost analyses were reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of evidence supporting the recommendations is identified and graded for selected recommendations (see the &quot;Major Recommendations&quot; field).</p>
+<p>Where specific level of evidence ratings are not included, the information represents a consensus of panel members.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Identification of patients with peripheral neuropathy who are at risk for developing wounds </li>
+    <li>Identification of patients whose current wounds are caused or complicated by peripheral neuropathy </li>
+    <li>Implementation of appropriate strategies and plans to:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Attain/maintain intact skin </li>
+        <li>Manage pain and sensory issues </li>
+        <li>Identify/manage complications promptly </li>
+        <li>Optimize potential for wound healing </li>
+        <li>Promote limb preservation </li>
+        <li>Involve patient and caregiver in self-management </li>
+    </ul>
+    </li>
+</ul>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Potential disadvantages of using topical antimicrobial therapy include systemic absorption, local hypersensitivity, difficulty in accurately dosing creams and ointments, and the product may become contaminated during recurrent use of multidose container. </li>
+    <li>The subsequent natural history for the patient with a high-level amputation is poor: various studies have reported a 5-year mortality rate of 40% to 70%. This can be partly attributed to changes in the patient's lifestyle, which becomes more sedentary and restricted, adversely affecting overall health. </li>
+    <li>Adverse effects of gabapentin (Neurontin) include dizziness, somnolence, edema and gait disturbance. </li>
+    <li>Exercise must be conducted with caution due to the insensate lower extremities. Patients should have medical clearance before beginning an exercise program. </li>
+    <li>Adverse effects of other pharmacological treatments. See Appendix B in the original guideline document for side effects of suggested pharmacological therapies. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Contraindications for Total Contact Casting (TCC)</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients with documented lower-extremity arterial disease (LEAD) </li>
+    <li>Patients with an active wound infection or a sinus tract with deep extension into the foot which requires daily wound access for topical wound management </li>
+    <li>Patients with unstable gait </li>
+    <li>Patients with cast claustrophobia or previously known non-adherence to treatment plan </li>
+    <li>Patients with fluctuating leg edema or active skin disease </li>
+    <li>Inadequately trained clinical staff </li>
+    <li>Restless leg syndrome or conditions which cause leg tremors </li>
+</ul>
+<p>Becaplermin gel should not be used in patients with cancers at the site of application.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Staff Training/Competency Material"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Wound, Ostomy, and Continence Nurses Society (WOCN). Guideline for management of wounds in patients with lower-extremity neuropathic disease. Mount Laurel (NJ): Wound, Ostomy, and Continence Nurses Society (WOCN); 2012 Jun 1. 100 p.&amp;nbsp;(WOCN clinical practice guideline series; no. 3).&amp;nbsp; [216 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2004 (revised 2012 Jun 1)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="Wound, Ostomy and Continence Nurses Society - Professional Association"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Wound, Ostomy, and Continence Nurses Society</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Wound, Ostomy, and Continence Nurses Society (WOCN) Lower-Extremity Neuropathic Disease Panel Wound Guidelines Task Force</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Primary Authors</em>: Penny Ellen Crawford, MSN, RN, FNP-BC, CWOCN, Atlantic Shores Wellness Clinic, Virginia Beach, VA; Myra Fields-Varnado, BS, RN, CWOCN, LSU Health System, New Orleans, LA</p>
+<p><em>Wound Guidelines Task Force</em>: Margaret Goldberg, MSN, RN, CWOCN (<em>Chair</em>), Delray Wound Treatment Center, Delray Beach, FL; Phyllis A. Bonham, PhD, MSN, RN, CWOCN, DPNAP, FAAN, Professor Emerita, Medical University of South Carolina, College of Nursing, Charleston, SC; Bonny Flemister, MSN, RN, CWOCN, CS, Bethany Healthcare, Dallas, TX; Jan J. Johnson, MSN, RN, ANP-BC, CWOCN, Duke University Medical Center, Durham, NC; Teresa Kelechi, PhD, MSN, RN, GCCS-BC, CWCN, Medical University of South Carolina, College of Nursing, Charleston, SC; Catherine R. Ratliff, PhD, APRN-BC, CWOCN, CFCN, University of Virginia Health System, Charlottesville, VA; Nancy Tomaselli, MSN, RN, CRNP, CWOCN, LNC, President and CEO, Premier Health Solutions LLC, Cherry Hill, NJ</p>
+<p><em>Scribe</em>: Ronald Palmer, Fullerton, CA</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Individuals involved in developing clinical practice guidelines are charged by the Wound, Ostomy and Continence Nurses Society (WOCN) to develop guidelines that are objective, comprehensive, and practical. To ensure the integrity of the WOCN Society and the Clinical Practice Guideline Program, prior to participating in any guideline activity participants submit a Disclosure Form to the WOCN Society regarding any financial relationships with commercial companies that could create a conflict when the company's products or services are related to the subject of the guideline. Members of the guideline panel submitted a Disclosure Form, which was reviewed by the WOCN Society's executive director, who determined that no conflict of interest exists with any individual panel member.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Wound, Ostomy, and Continence Nurses Society (WOCN). Guideline for management of wounds in patients with lower-extremity neuropathic disease. Glenview (IL): Wound, Ostomy, and Continence Nurses Society (WOCN); 2004. 57 p. (WOCN clinical practice guideline; no. 3).</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Not available at this time.</p>
+<p>Print copies: Available for purchase for a nominal fee from the Wound Ostomy and Continence Nurses Society (WOCN), 1120 Route 73, Suite 200, Mt. Laurel, NJ, 08054; Web site: <a href=&quot;http://www.wocn.org/&quot; title=&quot;WOCN Web site&quot;>www.wocn.org</a>. Orders can be placed through the <a href=&quot;https://marketplace.mimeo.com/WOCNPublicBookstore#name=13&quot; title=&quot;WOCN Society’s Online Bookstore Web site&quot;>WOCN Society's Online Bookstore</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Lower extremity venous and neuropathic wound guidelines. Continuing education course. Available for purchase from the <a href=&quot;http://www.prolibraries.com/wocn/?select=session&amp;amp;sessionID=577&quot; title=&quot;Wound, Ostomy and Continence Nurses Society (WOCN) Continuing Education Center Web site&quot;>Wound, Ostomy and Continence Nurses Society (WOCN) Continuing Education Center Web site</a>. </li>
+    <li>The WOCN Society's Evidence-Based Wound Care Guidelines and Fecal Ostomy Best Practice Mobile App is available for purchase via <a href=&quot;https://itunes.apple.com/us/app/evidence-based-wound-care/id850053409&quot; title=&quot;iTunes Web site&quot;>iTunes</a>. More information on the Mobile App is available on the <a href=&quot;http://www.wocn.org/?page=guidelinesapp&quot; title=&quot;WOCN Society’s Mobile App Web site&quot;>WOCN Society's Mobile App Web page</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI on November 9, 2004. The information was verified by the guideline developer on November 30, 2004. This summary was updated by ECRI Institute on May 1, 2009 following the U.S. Food and Drug Administration advisory on antiepileptic drugs. This NGC summary was updated by ECRI Institute on September 17, 2012. The updated information was verified by the guideline developer on October 5, 2012. This summary was updated by ECRI Institute on March 6, 2014 following the U.S. Food and Drug Administration advisory on Over-the-Counter Topical Antiseptic Products.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions. Per the guideline developer, the Wound, Ostomy and Continence Nurses Society (WOCN) retains the copyright to the material in the <em>Management of Wounds in Patients with Lower-Extremity Neuropathic Disease</em>. Any reproduction without consent is prohibited. Written requests to reproduce any portion of the material contained within this guideline may be directed to the Wound, Ostomy and Continence Nurses Society national office: 1120 Route 73, Suite 200, Mt. Laurel, NJ 08054.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 01:59:01 Oct 03, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:18:13 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 130.224 (3)
+  esindex: 0.014
+  captures_list: 154.631
+  CDXLines.iter: 18.122 (3)
+  PetaboxLoader3.datanode: 39.119 (4)
+  exclusion.robots: 0.408
+  exclusion.robots.policy: 0.39
+  RedisCDXSource: 1.602
+  PetaboxLoader3.resolve: 527.456 (2)
+  load_resource: 463.853
+-->

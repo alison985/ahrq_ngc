@@ -1,0 +1,933 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app41.us.archive.org';v.server_ms=588;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-9953?contentType=xml', '20180713010951')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713010951/https://www.guideline.gov/summaries/downloadcontent/ngc-9953?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713010951/https://www.guideline.gov/summaries/downloadcontent/ngc-9953?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-9953?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713010951" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610074501/https://www.guideline.gov/summaries/downloadcontent/ngc-9953?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 01:09:51 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610074501/https://www.guideline.gov/summaries/downloadcontent/ngc-9953?contentType=xml" title="07:45:01 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 01:09:51 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930205923/https://www.guideline.gov/summaries/downloadcontent/ngc-9953?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 01:09:51 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713010951*/https://www.guideline.gov/summaries/downloadcontent/ngc-9953?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-9953?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Hepatitis B (chronic). Diagnosis and management of chronic hepatitis B in children, young people and adults.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Clinical Guideline Centre. Hepatitis B (chronic). Diagnosis and management of chronic hepatitis B in children, young people and adults. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. 45 p.&amp;nbsp;(Clinical guideline; no. 165).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Clinical Guideline Centre on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p><strong>Note</strong>: The wording used in the recommendations in this guideline (for example, words such as 'offer' and 'consider') denotes the certainty with which the recommendation is made (the strength of the recommendations). See the end of the &quot;Major Recommendations&quot; field for further descriptions of the strength of recommendations.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Patient Information</span></strong></p>
+<p>Provide information on the following topics to people with chronic hepatitis B and to family members or carers (if appropriate) before assessment for antiviral treatment:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The natural history of chronic hepatitis B, including stages of disease and long-term prognosis </li>
+    <li>Lifestyle issues such as alcohol, diet and weight </li>
+    <li>Family planning </li>
+    <li>Monitoring </li>
+    <li>Routes of hepatitis B virus (HBV) transmission </li>
+    <li>The benefits of antiviral treatment, including reduced risk of serious liver disease and death and reduced risk of transmission of HBV to others </li>
+    <li>Treatment options and contraindications based on the patient's circumstances, including peginterferon alfa-2a and nucleoside or nucleotide analogues </li>
+    <li>Short- and long-term treatment goals </li>
+    <li>Causes of treatment failure, including non-adherence to prescribed medicines, and options for re-treatment </li>
+    <li>Risks of treatment, including adverse effects and drug resistance </li>
+</ul>
+<p>Offer a copy of the personalised care plan to people with chronic hepatitis B and to family members or carers (if appropriate) outlining proposed treatment and long-term management, for example, a copy of the hospital consultation summary.</p>
+<p>Provide information on self-injection techniques to people beginning peginterferon alfa-2a or to family members or carers.</p>
+<p>NICE has produced public health guidance on ways to promote and offer testing to people at increased risk of infection with hepatitis B. All healthcare professionals should follow the recommendations in <a href=&quot;http://guidance.nice.org.uk/PH43/&quot; title=&quot;NICE Web site&quot;>Hepatitis B and C: ways to promote and offer testing to people at increased risk of infection</a> (NICE public health guidance 43).</p>
+<p>NICE has produced guidance on the components of good patient experience in adult National Health Service (NHS) services. All healthcare professionals should follow the recommendations in <a href=&quot;http://guidance.nice.org.uk/CG138&quot; title=&quot;NICE Web site&quot;>Patient experience in adult NHS services</a> (NICE clinical guideline 138).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Assessment and Referral in Primary Care</span></strong></p>
+<p><strong>Adults Who Are Hepatitis B Surface Antigen (HBsAg) Positive</strong></p>
+<p>Arrange the following tests in primary care for adults who are HBsAg positive:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Hepatitis B e antigen (HBeAg)/antibody (anti-HBe) status </li>
+    <li>HBV deoxyribonucleic acid (DNA) level </li>
+    <li>Immunoglobulin M (IgM) antibody to hepatitis B core antigen (anti-HBc IgM) </li>
+    <li>Hepatitis C virus antibody (anti-HCV) </li>
+    <li>Hepatitis delta (D) virus antibody (anti-HDV) </li>
+    <li>Human immunodeficiency virus (HIV) antibody (anti-HIV) </li>
+    <li>Immunoglobulin G (IgG) antibody to hepatitis A virus (anti-HAV) </li>
+    <li>Additional laboratory tests including alanine aminotransferase (ALT) or aspartate aminotransferase (AST), gamma-glutamyl transferase (GGT), serum albumin, total bilirubin, total globulins, full blood count and prothrombin time </li>
+    <li>Tests for hepatocellular carcinoma (HCC), including hepatic ultrasound and alpha-fetoprotein testing </li>
+</ul>
+<p>Refer all adults who are HBsAg positive to a hepatologist or to a gastroenterologist or infectious disease specialist with an interest in hepatology.</p>
+<p>Include the results of the initial tests with the referral (see test recommendations above).</p>
+<p><strong>Pregnant Women Who Test HBsAg Positive at Antenatal Screening</strong></p>
+<p>Refer pregnant women who are HBsAg positive to a hepatologist, or to a gastroenterologist or infectious disease specialist with an interest in hepatology, for assessment within 6 weeks of receiving the screening test result and to allow treatment in the third trimester (see recommendation below).</p>
+<p><strong>Adults With Decompensated Liver Disease</strong></p>
+<p>Refer adults who develop decompensated liver disease immediately to a hepatologist or to a gastroenterologist with an interest in hepatology. Symptoms of decompensated liver disease include (but are not limited to) ascites, encephalopathy and gastrointestinal haemorrhage.</p>
+<p><strong>Children and Young People Who Are HBsAg Positive</strong></p>
+<p>Arrange the following tests for children and young people who are HBsAg positive:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>HBeAg/anti-HBe status </li>
+    <li>HBV DNA level </li>
+    <li>Anti-HBc IgM </li>
+    <li>Anti-HCV </li>
+    <li>Anti-HDV </li>
+    <li>Anti-HIV </li>
+    <li>Anti-HAV </li>
+    <li>Additional laboratory tests, including ALT or AST, GGT, serum albumin, total bilirubin, total globulins, full blood count and prothrombin time </li>
+    <li>Tests for HCC, including hepatic ultrasound and alpha-fetoprotein testing </li>
+</ul>
+<p>Refer all children and young people who are HBsAg positive to a paediatric hepatologist or to a gastroenterologist or infectious disease specialist with an interest in hepatology.</p>
+<p>Include the results of the initial tests with the referral.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Assessment of Liver Disease in Secondary Specialist Care</span></strong></p>
+<p><strong>Adults With Chronic Hepatitis B</strong></p>
+<p>Please refer to recommendations in the section &quot;Antiviral Treatment&quot; below for detailed guidance on offering antiviral treatment.</p>
+<p>Ensure all healthcare professionals who refer adults for non-invasive tests for liver disease are trained to interpret the results and aware of co-factors that influence liver elasticity (for example, fatty liver caused by obesity or alcohol misuse).</p>
+<p>Discuss the accuracy, limitations and risks of the different tests for liver disease with the patient.</p>
+<p>Offer transient elastography as the initial test for liver disease in adults newly referred for assessment.</p>
+<p>Offer antiviral treatment without a liver biopsy to adults with a transient elastography score greater than or equal to 11 kPa<sup>1</sup>, in line with the recommendation in the section &quot;Antiviral Treatment&quot; below.</p>
+<p>Consider liver biopsy to confirm the level of fibrosis in adults with a transient elastography score between 6 and 10 kPa<sup>2</sup>. Offer antiviral treatment in line with the recommendations in the section &quot;Antiviral Treatment&quot; below.</p>
+<p>Offer liver biopsy to adults with a transient elastography score less than 6 kPa if they are younger than 30 years and have HBV DNA greater than 2000 IU/ml and abnormal ALT (greater than or equal to 30 IU/ml for males and greater than or equal to 19 IU/ml for females) on 2 consecutive tests conducted 3 months apart<sup>3</sup>. Offer antiviral treatment in line with the recommendations in the section &quot;Antiviral Treatment&quot; below.</p>
+<p>Do not offer liver biopsy to adults with a transient elastography score less than 6 kPa who have normal ALT (less than 30 IU/ml in males and less than 19 IU/ml in females) and HBV DNA less than 2000 IU/ml as they are unlikely to have advanced liver disease or need antiviral treatment (see the recommendations in the section &quot;Antiviral Treatment&quot; below)<sup>3</sup>.</p>
+<p>Offer an annual reassessment of liver disease using transient elastography to adults who are not taking antiviral treatment.</p>
+<p><strong>Children and Young People With Chronic Hepatitis B</strong></p>
+<p>Discuss the accuracy, limitations and risks of liver biopsy in determining the need for antiviral treatment with the child or young person and with parents or carers (if appropriate).</p>
+<p>Consider liver biopsy to assess liver disease and the need for antiviral treatment in children and young people with HBV DNA greater than 2000 IU/ml and abnormal ALT (greater than or equal to 30 IU/ml for males and greater than or equal to 19 IU/ml for females) on 2 consecutive tests conducted 3 months apart. Offer biopsy under a general anaesthetic to children who are too young to tolerate the procedure under a local anaesthetic.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Genotype Testing</span></strong></p>
+<p>Do not offer genotype testing to determine initial treatment in people with chronic hepatitis B.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Antiviral Treatment</span></strong></p>
+<p><strong>Adults With Chronic Hepatitis B</strong></p>
+<p>Antiviral drug recommendations below are reproduced from existing NICE technology appraisals on options for the treatment of chronic hepatitis B and update guidance in NICE technology appraisal 96<sup>4</sup>. The guideline development group (GDG) has reviewed the evidence and has made recommendations on treatment sequences and combination drug regimens (see recommendations below).</p>
+<p>Antiviral drug recommendations below do not apply to people with chronic hepatitis B who also have hepatitis C, hepatitis D or HIV.</p>
+<p>Discuss treatment options, adverse effects and long-term prognosis with the patient before starting treatment.</p>
+<p>Re-assess the person's risk of exposure to HIV before starting treatment and offer repeat testing if needed.</p>
+<p>Offer antiviral treatment to adults aged 30 years and older who have HBV DNA greater than 2000 IU/ml and abnormal ALT (greater than or equal to 30 IU/ml in males and greater than or equal to 19 IU/ml in females) on 2 consecutive tests conducted 3 months apart.</p>
+<p>Offer antiviral treatment to adults younger than 30 years who have HBV DNA greater than 2000 IU/ml and abnormal ALT (greater than or equal to 30 IU/ml in males and greater than or equal to 19 IU/ml in females on 2 consecutive tests conducted 3 months apart if there is evidence of necroinflammation or fibrosis on liver biopsy or a transient elastography score greater than 6 kPa.</p>
+<p>Offer antiviral treatment to adults who have HBV DNA greater than 20,000 IU/ml and abnormal ALT (greater than or equal to 30 IU/ml in males and greater than or equal to 19 IU/ml in females) on 2 consecutive tests conducted 3 months apart regardless of age or the extent of liver disease.</p>
+<p>Offer antiviral treatment to adults with cirrhosis and detectable HBV DNA, regardless of HBeAg status, HBV DNA and ALT levels.</p>
+<p>Consider antiviral treatment in adults with HBV DNA greater than 2000 IU/ml and evidence of necroinflammation or fibrosis on liver biopsy.</p>
+<p>Peginterferon alfa-2a is recommended as an option for the initial treatment of adults with chronic hepatitis B (HBeAg-positive or HBeAg-negative), within its licensed indications (this recommendation is from <a href=&quot;http://www.nice.org.uk/guidance/TA96&quot; title=&quot;NICE Web site&quot;>Adefovir dipivoxil and peginterferon alfa-2a for the treatment of chronic hepatitis B</a> [NICE technology appraisal guidance 96].)</p>
+<p>Entecavir, within its marketing authorisation, is recommended as an option for the treatment of people with chronic HBeAg-positive or HBeAg-negative hepatitis B in whom antiviral treatment is indicated (this recommendation appears in the NICE guideline <a href=&quot;http://guidance.nice.org.uk/TA153&quot; title=&quot;NICE Web site&quot;>Entecavir for the treatment of chronic hepatitis B</a> [NICE technology appraisal guidance 153]).</p>
+<p>Tenofovir disoproxil, within its marketing authorisation, is recommended as an option for the treatment of people with chronic HBeAg-positive or HBeAg-negative hepatitis B in whom antiviral treatment is indicated (this recommendation appears in the NICE guideline <a href=&quot;http://www.nice.org.uk/guidance/TA173&quot; title=&quot;NICE Web site&quot;>Tenofovir disoproxil for the treatment of hepatitis B</a> [NICE technology appraisal guidance 173]).</p>
+<p>Telbivudine is not recommended for the treatment of chronic hepatitis B (this recommendation appears in the NICE guideline <a href=&quot;http://guidance.nice.org.uk/TA154&quot; title=&quot;NICE Web site&quot;>Telbivudine for the treatment of chronic hepatitis B</a> [NICE technology appraisal guidance 154]).</p>
+<p>People currently receiving telbivudine should have the option to continue therapy until they and their clinicians consider it appropriate to stop (this recommendation appears in the NICE guideline <a href=&quot;http://guidance.nice.org.uk/TA154&quot; title=&quot;NICE Web site&quot;>Telbivudine for the treatment of chronic hepatitis B</a> [NICE technology appraisal guidance 154]).</p>
+<p>Do not offer adefovir dipivoxil for treatment of chronic hepatitis B.</p>
+<p>People currently receiving adefovir dipivoxil should be offered the option to switch to a different treatment. Offer tenofovir disoproxil or entecavir, depending on previous antiviral exposure:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Offer tenofovir disoproxil to people with a history of lamivudine resistance </li>
+</ul>
+<p>Antiviral treatment should be initiated only by an appropriately qualified healthcare professional with expertise in the management of viral hepatitis. Continuation of therapy under shared-care arrangements with a general practitioner (GP) is appropriate.</p>
+<p><strong>Treatment Sequence in Adults With HBeAg-Positive Chronic Hepatitis B and Compensated Liver Disease</strong></p>
+<p>Offer a 48-week course of peginterferon alfa-2a as first-line treatment in adults with HBeAg-positive chronic hepatitis B and compensated liver disease<sup>5</sup>.</p>
+<p>Consider stopping peginterferon alfa-2a 24 weeks after starting treatment if HBV DNA level has decreased by less than 2 log<sub>10</sub> IU/ml and/or if HBsAg is greater than 20,000 IU/ml, and offer second-line treatment in line with recommendations below.</p>
+<p>Offer tenofovir disoproxil as second-line treatment to people who do not undergo HBeAg seroconversion or who relapse (revert to being HBeAg positive following seroconversion) after first-line treatment with peginterferon alfa-2a.</p>
+<p>Offer entecavir as an alternative second-line treatment to people who cannot tolerate tenofovir disoproxil or if it is contraindicated.</p>
+<p>Review adherence in people taking tenofovir disoproxil who have detectable HBV DNA at 48 weeks of treatment and, if appropriate, provide support in line with the NICE guideline <a href=&quot;http://www.nice.org.uk/guidance/CG76&quot; title=&quot;NICE Web site&quot;>Medicines adherence. Involving patients in decisions about prescribed medicines and supporting adherence</a> (NICE clinical guideline 76).</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>If HBV DNA remains detectable at 96 weeks, and there is no history of lamivudine resistance, consider adding lamivudine to tenofovir disoproxil. </li>
+    <li>In people with a history of lamivudine resistance, consider adding entecavir to tenofovir disoproxil </li>
+</ul>
+<p>Consider stopping nucleoside or nucleotide analogue treatment 12 months after HBeAg seroconversion in people without cirrhosis.</p>
+<p>Do not stop nucleoside or nucleotide analogue treatment 12 months after HBeAg seroconversion in people with cirrhosis.</p>
+<p><strong>Treatment Sequence in Adults With HBeAg-Negative Chronic Hepatitis B and Compensated Liver Disease</strong></p>
+<p>Offer a 48-week course of peginterferon alfa-2a as first-line treatment in adults with HBeAg-negative chronic hepatitis B and compensated liver disease<sup>5</sup>.</p>
+<p>Consider stopping peginterferon alfa-2a 24 weeks after starting treatment if HBV DNA level has decreased by less than 2 log<sub>10</sub> IU/ml and HBsAg has not decreased, and consider second-line treatment in line with recommendation below.</p>
+<p>Offer entecavir or tenofovir disoproxil as second-line treatment to people with detectable HBV DNA after first-line treatment with peginterferon alfa-2a.</p>
+<p>Consider switching from tenofovir disoproxil to entecavir, or from entecavir to tenofovir disoproxil, as third-line treatment in people who have detectable HBV DNA at 48 weeks of treatment.</p>
+<p>Consider stopping nucleoside or nucleotide analogue treatment 12 months after achieving undetectable HBV DNA and HBsAg seroconversion in people without cirrhosis.</p>
+<p>Do not stop nucleoside or nucleotide analogue treatment after achieving undetectable HBV DNA and HBsAg seroconversion in patients with cirrhosis.</p>
+<p><strong>Children and Young People With Chronic Hepatitis B and Compensated Liver Disease</strong></p>
+<p>Discuss treatment options, adverse effects and long-term prognosis with the child or young person and with parents or carers (if appropriate) before starting treatment.</p>
+<p>Re-assess the child or young person's risk of exposure to HIV before starting treatment and offer repeat testing if necessary.</p>
+<p>Offer antiviral treatment if there is evidence of significant fibrosis (METAVIR stage greater than or equal to F2 or Ishak stage greater than or equal to 3) or abnormal ALT (greater than or equal to 30 IU/ml for males and greater than or equal to 19 IU/ml for females) on 2 consecutive tests conducted 3 months apart.</p>
+<p>Consider a 48-week course of peginterferon alfa-2a as first-line treatment in children and young people with chronic hepatitis B and compensated liver disease<sup>5,6</sup>.</p>
+<p>Consider stopping peginterferon alfa-2a 24 weeks after starting treatment if HBV DNA level has decreased by less than 2 log<sub>10</sub> IU/ml and/or if HBsAg is greater than 20,000 IU/ml.</p>
+<p>Consider a nucleoside or nucleotide analogue as second-line treatment in children and young people with detectable HBV DNA after first-line treatment with peginterferon alfa-2a<sup>7</sup>.</p>
+<p><strong>Adults With Decompensated Liver Disease</strong></p>
+<p>Manage decompensated liver disease in adults in conjunction with a liver transplant centre.</p>
+<p>Do not offer peginterferon alfa-2a to people with chronic hepatitis B and decompensated liver disease.</p>
+<p>Offer entecavir as first-line treatment in people with decompensated liver disease if there is no history of lamivudine resistance.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Offer tenofovir disoproxil to people with a history of lamivudine resistance. </li>
+    <li>Reduce the dose of tenofovir disoproxil in people with renal impairment, in line with guidance in the summary of product characteristics </li>
+</ul>
+<p><strong>Women Who Are Pregnant or Breastfeeding</strong></p>
+<p>Discuss with pregnant women the benefits and risks of antiviral treatment for them and their baby.</p>
+<p>Offer tenofovir disoproxil to women with HBV DNA greater than 10<sup>7</sup> IU/ml in the third trimester to reduce the risk of transmission of HBV to the baby<sup>8</sup>.</p>
+<p>Monitor quantitative HBV DNA 2 months after starting tenofovir disoproxil and ALT monthly after the birth to detect postnatal HBV flares in the woman.</p>
+<p>Stop tenofovir disoproxil 4 to 12 weeks after the birth unless the mother meets criteria for long-term treatment (see recommendations above).</p>
+<p>Offer active and passive hepatitis B immunisation in infants and follow up in line with the guidance below:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><a href=&quot;https://www.gov.uk/government/publications/hepatitis-b-antenatal-screening-and-newborn-immunisation-programme-best-practice-guidance&quot; title=&quot;UK Government Web site&quot;>Hepatitis B antenatal screening and newborn immunisation programme: best practice guidance</a> </li>
+    <li><a href=&quot;https://www.gov.uk/government/organisations/public-health-england/series/immunisation-against-infectious-disease-the-green-book&quot; title=&quot;UK Government Web site&quot;>Immunisation against infectious disease (the Green book)</a> </li>
+    <li><a href=&quot;http://guidance.nice.org.uk/PH43/&quot; title=&quot;NICE Web site&quot;>Hepatitis B and C: ways to promote and offer testing</a>. (NICE public health guidance 43 [2012]) </li>
+    <li><a href=&quot;http://guidance.nice.org.uk/PH21/&quot; title=&quot;NICE Web site&quot;>Reducing differences in the uptake of immunisations</a>. (NICE public health guidance 21 [2009]) </li>
+</ul>
+<p>Advise women that there is no risk of transmitting HBV to their babies through breastfeeding if guidance on hepatitis B immunisation has been followed, and that they may continue antiviral treatment while they are breastfeeding.</p>
+<p><strong>Adults Who Are Co-Infected With Hepatitis C</strong></p>
+<p>Offer peginterferon alfa and ribavirin in adults co-infected with chronic hepatitis B and C<sup>5</sup>.</p>
+<p><strong>Adults Who Are Co-Infected With Hepatitis D</strong></p>
+<p>Offer a 48-week course of peginterferon alfa-2a in people co-infected with chronic hepatitis B and hepatitis delta infection who have evidence of significant fibrosis (METAVIR stage greater than or equal to F2 or Ishak stage greater than or equal to 3)<sup>5</sup>.</p>
+<p>Consider stopping peginterferon alfa-2a if there is no decrease in HDV RNA after 6 months to 1 year of treatment. Otherwise, continue treatment and reevaluate treatment response annually.</p>
+<p>Stop treatment after HBsAg seroconversion.</p>
+<p><strong>Prophylactic Treatment During Immunosuppressive Therapy</strong></p>
+<p>Perform the following tests in people who are HBsAg and/or anti-HBc positive before starting immunosuppressive therapy for autoimmune or atopic diseases, chemotherapy, bone marrow or solid organ transplantation:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Antibody to hepatitis B surface antigen (anti-HBs) </li>
+    <li>Plasma or serum HBV DNA level </li>
+    <li>ALT </li>
+</ul>
+<p>In people who are HBsAg positive and have HBV DNA greater than 2000 IU/ml, offer prophylaxis with entecavir or tenofovir disoproxil<sup>9</sup>.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Start prophylaxis before beginning immunosuppressive therapy and continue for a minimum of 6 months after HBeAg seroconversion and HBV DNA is undetectable. </li>
+</ul>
+<p>In people who are HBsAg positive and have HBV DNA less than 2000 IU/ml, offer prophylaxis.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Consider lamivudine<sup>9</sup> if immunosuppressive therapy is expected to last less than 6 months.
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Monitor HBV DNA monthly in people treated with lamivudine and change to tenofovir disoproxil if HBV DNA remains detectable after 3 months. </li>
+    </ul>
+    </li>
+    <li>Consider entecavir or tenofovir disoproxil<sup>9</sup> if immunosuppressive therapy is expected to last longer than 6 months. </li>
+    <li>Start prophylaxis before beginning immunosuppressive therapy and continue for a minimum of 6 months after stopping immunosuppressive therapy. </li>
+</ul>
+<p>In people who are HBsAg negative and anti-HBc positive (regardless of anti-HBs status) and are starting rituximab or other B cell-depleting therapies:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Offer prophylaxis with lamivudine<sup>9</sup> </li>
+    <li>Start prophylaxis before beginning immunosuppressive therapy and continue for a minimum of 6 months after stopping immunosuppressive therapy. </li>
+</ul>
+<p>In people who are HBsAg negative, anti-HBc positive and anti-HBs negative and are not taking rituximab or other B cell-depleting therapies:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Monitor HBV DNA monthly and offer prophylaxis to people whose HBV DNA becomes detectable
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Consider lamivudine<sup>9</sup> in people with HBV DNA less than 2000 IU/ml and for whom immunosuppressive therapy is expected to last less than 6 months; change to tenofovir disoproxil if HBV DNA remains detectable after 6 months </li>
+        <li>Consider entecavir or tenofovir disoproxil<sup>9</sup> in people with HBV DNA greater than 2000 IU/ml and for whom immunosuppressive therapy is expected to last longer than 6 months </li>
+        <li>Continue antiviral therapy for a minimum of 6 months after stopping immunosuppressive therapy. </li>
+    </ul>
+    </li>
+</ul>
+<p>Do not offer prophylaxis to people who are HBsAg negative and anti-HBc and anti-HBs positive who are not taking rituximab or other B cell-depleting therapies.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Monitoring</span></strong></p>
+<p><strong>Monitoring in People Who Do Not Meet Criteria for Antiviral Treatment</strong></p>
+<p>Further information on the progression of chronic hepatitis B can be found in the Introduction (see Figure 1 in original guideline document).</p>
+<p><strong>Adults With HBeAg-Positive Disease in the Immune-Tolerant and Immune Clearance Phases</strong></p>
+<p>Monitor ALT levels every 24 weeks in adults with HBeAg-positive disease who are in the immune-tolerant phase (defined by active viral replication and normal ALT levels [less than 30 IU/ml in males and less than 19 IU/ml in females]).</p>
+<p>Monitor ALT every 12 weeks on at least 3 consecutive occasions if there is an increase in ALT levels.</p>
+<p><strong>Adults With Inactive Chronic Hepatitis B (Immune-Control Phase)</strong></p>
+<p>Monitor ALT and HBV DNA levels every 48 weeks in adults with inactive chronic hepatitis B infection (defined as HBeAg negative on 2 consecutive tests with normal ALT [less than 30 IU/ml in males and less than 19 IU/ml in females] and HBV DNA less than 2000 IU/ml).</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Consider monitoring more frequently (for example, every 12&amp;ndash;24 weeks) in people with cirrhosis who have undetectable HBV DNA. </li>
+</ul>
+<p><strong>Children and Young People</strong></p>
+<p>Monitor ALT levels every 24 weeks in children and young people with HBeAg-positive disease who have normal ALT levels (less than 30 IU/ml for males and less than 19 IU/ml for females) and no evidence of significant fibrosis (METAVIR stage less than F2 or Ishak stage less than 3).</p>
+<p>Review annually children and young people with HBeAg-negative disease who have normal ALT (less than 30 IU/ml for males and less than 19 IU/ml for females), no evidence of significant fibrosis (METAVIR stage less than F2 or Ishak stage less than 3) and HBV DNA less than 2000 IU/ml.</p>
+<p>Review every 12 weeks children and young people with HBeAg-negative disease who have abnormal ALT (greater than or equal to 30 IU/ml for males and greater than or equal to 19 IU/ml for females) and HBV DNA greater than 2000 IU/ml.</p>
+<p><strong>Children, Young People and Adults With HBeAg or HBsAg Seroconversion after Antiviral Treatment</strong></p>
+<p>In people with HBeAg seroconversion after antiviral treatment, monitor HBeAg, anti-HBe, HBV DNA level and liver function at 4, 12 and 24 weeks after HBeAg seroconversion and then every 6 months.</p>
+<p>Monitor HBsAg and anti-HBs annually in people with HBsAg seroconversion after antiviral treatment and discharge people who are anti-HBs positive on 2 consecutive tests.</p>
+<p><strong>Monitoring in People Taking Antiviral Treatment</strong></p>
+<p><em>Children, Young People and Adults Taking Peginterferon alfa-2a</em></p>
+<p>Review injection technique and adverse effects weekly during the first month of treatment in people taking peginterferon alfa-2a<sup>7</sup>.</p>
+<p>Monitor full blood count, liver function (including bilirubin, albumin and ALT), renal function (including urea and electrolyte levels) and thyroid function (and in children, weight and height) before starting peginterferon alfa-2a and 2, 4, 12, 24, 36 and 48 weeks after starting treatment to detect adverse effects<sup>7</sup>.</p>
+<p>Monitor HBV DNA and quantitative HBsAg levels and HBeAg status before starting peginterferon alfa-2a at 12, 24 and 48 weeks after starting treatment to determine treatment response<sup>7</sup>.</p>
+<p><strong>Children, Young People and Adults With Compensated Liver Disease Taking Entecavir or Lamivudine</strong></p>
+<p>Monitor full blood count, liver function (including bilirubin, albumin and ALT) and renal function (including urea and electrolyte levels) in people with compensated liver disease before starting entecavir or lamivudine, 4 weeks after starting treatment and then every 3 months to detect adverse effects<sup>7</sup>.</p>
+<p>Monitor HBV DNA and quantitative HBsAg levels and HBeAg status before starting entecavir or lamivudine, 12, 24 and 48 weeks after starting treatment and then every 6 months to determine treatment response and medicines adherence<sup>7</sup>.</p>
+<p>Monitor HBV DNA levels every 12 weeks in people with HBeAg-negative disease who have been taking lamivudine for 5 years or longer<sup>7</sup>.</p>
+<p><strong>Children, Young People and Adults With Compensated Liver Disease Taking Tenofovir Disoproxil</strong></p>
+<p>Monitor full blood count, liver function (including bilirubin, albumin and ALT), renal function (including urea and electrolyte levels and urine protein/creatinine ratio), and phosphate levels in people with compensated liver disease before starting tenofovir disoproxil, 4 weeks after starting treatment and then every 3 months to detect adverse effects<sup>7</sup>.</p>
+<p>Monitor HBV DNA and quantitative HBsAg levels and HBeAg status before starting tenofovir disoproxil, 12, 24 and 48 weeks after starting treatment and then every 6 months to determine treatment response and medicines adherence<sup>7</sup>.</p>
+<p><strong>Children, Young People and Adults With Decompensated Liver Disease Who Are Taking Entecavir or Lamivudine</strong></p>
+<p>Monitor full blood count, liver function (including bilirubin, albumin and ALT), renal function (including urea and electrolyte levels and urine protein/creatinine ratio), blood clotting, HBV DNA level and HBeAg status in people with decompensated liver disease before starting entecavir or lamivudine and weekly after starting treatment to assess treatment response and adverse effects. When the person is no longer decompensated, follow the recommendations in 'Children, Young People and Adults with Compensated Liver Disease Taking Entecavir or Lamivudine'<sup>7</sup> above.</p>
+<p><strong>Children, Young People and Adults With Decompensated Liver Disease Who Are Taking Tenofovir Disoproxil</strong></p>
+<p>Monitor full blood count, liver function (including bilirubin, albumin and ALT), renal function (including urea and electrolyte levels and urine protein/creatinine ratio) and phosphate, blood clotting, HBV DNA level and HBeAg status in people with decompensated liver disease before starting tenofovir disoproxil and weekly after starting treatment to assess treatment response and adverse effects. When the person is no longer decompensated, follow the recommendations in the section 'Children, Young People and Adults with Compensated Liver Disease Taking Tenofovir Disoproxil'<sup>7</sup> above.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Surveillance Testing for Hepatocellular Carcinoma (HCC) in Adults With Chronic Hepatitis B</span></strong></p>
+<p>Perform 6-monthly surveillance for HCC by hepatic ultrasound and alfa-fetoprotein testing in people with significant fibrosis (METAVIR stage greater than or equal to F2 or Ishak stage greater than or equal to 3) or cirrhosis.</p>
+<p>In people without significant fibrosis or cirrhosis (METAVIR stage less than F2 or Ishak stage less than 3), consider 6-monthly surveillance for HCC if the person is older than 40 years and has a family history of HCC and HBV DNA greater than or equal to 20,000 IU/ml.</p>
+<p>Do not offer surveillance for HCC in people without significant fibrosis or cirrhosis (METAVIR stage less than F2 or Ishak stage less than 3) who have HBV DNA less than 20,000 IU/ml and are younger than 40 years.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Footnotes</span></strong></p>
+<p class=&quot;Note&quot;><sup>1</sup> Adults with a transient elastography score greater than or equal to 11 kPa are very likely to have cirrhosis and confirmation by liver biopsy is not needed.</p>
+<p class=&quot;Note&quot;><sup>2</sup> The degree of fibrosis cannot be accurately predicted in adults with a transient elastography score between 6 to 10 kPa. Some people may choose to have a liver biopsy in these circumstances to confirm the extent of liver disease.</p>
+<p class=&quot;Note&quot;><sup>3</sup> Adults with a transient elastography score less than 6 kPa are unlikely to have significant fibrosis.</p>
+<p class=&quot;Note&quot;><sup>4</sup> <a href=&quot;http://www.nice.org.uk/guidance/TA96&quot; title=&quot;NICE Web site&quot;>Adefovir dipivoxil and peginterferon alfa-2a for the treatment of chronic hepatitis B</a> (NICE technology appraisal guidance 96); see the NICE guidelines <a href=&quot;http://guidance.nice.org.uk/TA153&quot; title=&quot;NICE Web site&quot;>Entecavir for the treatment of chronic hepatitis B</a> (NICE technology appraisal guidance 153), <a href=&quot;http://guidance.nice.org.uk/TA154&quot; title=&quot;NICE Web site&quot;>Telbivudine for the treatment of chronic hepatitis B</a> (NICE technology appraisal guidance 154), and the NICE guideline <a href=&quot;http://www.nice.org.uk/guidance/TA173&quot; title=&quot;NICE Web site&quot;>Tenofovir disoproxil for the treatment of hepatitis B</a> (NICE technology appraisal guidance 173).</p>
+<p class=&quot;Note&quot;><sup>5</sup> Avoid use of peginterferon alfa-2a in pregnancy unless the potential benefit outweighs risk. Women of childbearing potential must use effective contraception throughout therapy.</p>
+<p class=&quot;Note&quot;><sup>6</sup> At the time of publication (June 2013), peginterferon alfa-2a did not have a UK marketing authorisation for use in children for this indication. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's <a href=&quot;http://www.gmc-uk.org/guidance/ethical_guidance/14316.asp&quot; title=&quot;General Medical Council Web site&quot;>Good practice in prescribing medicines &amp;ndash; guidance for doctors</a> for further information.</p>
+<p class=&quot;Note&quot;><sup>7</sup> At the time of publication (June 2013), peginterferon alfa-2a and entecavir did not have a UK marketing authorisation for use in children for this indication, and tenofovir disoproxil did not have a UK marketing authorisation for use in children younger than 12 years for this indication. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's <a href=&quot;http://www.gmc-uk.org/guidance/ethical_guidance/14316.asp&quot; title=&quot;General Medical Council Web site&quot;>Good practice in prescribing medicines &amp;ndash; guidance for doctors</a> for further information.</p>
+<p class=&quot;Note&quot;><sup>8</sup> At the time of publication (June 2013), tenofovir disoproxil did not have a UK marketing authorisation for this indication. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's <a href=&quot;http://www.gmc-uk.org/guidance/ethical_guidance/14316.asp&quot; title=&quot;General Medical Council Web site&quot;>Good practice in prescribing medicines &amp;ndash; guidance for doctors</a> for further information.</p>
+<p class=&quot;Note&quot;><sup>9</sup> At the time of publication (June 2013), entecavir, lamivudine and tenofovir disoproxil did not have a UK marketing authorisation for this indication. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's <a href=&quot;http://www.gmc-uk.org/guidance/ethical_guidance/14316.asp&quot; title=&quot;General Medical Council Web site&quot;>Good practice in prescribing medicines &amp;ndash; guidance for doctors</a> for further information.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Definitions</strong></span>:</p>
+<p><strong>Strength of Recommendations</strong></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><strong>Interventions That Must (or Must Not) Be Used</strong></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally 'must' (or 'must not') is used if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><strong>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation</strong></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost-effective. Similar forms of words (for example, 'Do not offer&amp;hellip;') are used when the GDG is confident that an intervention will not be of benefit for most patients.</p>
+<p><strong>Interventions That Could Be Used</strong></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most patients, and be cost-effective, but other options may be similarly cost-effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following algorithms are provided in the full version of the original guideline document:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Chronic hepatitis B management pathway </li>
+    <li>Antiviral treatment </li>
+    <li>Prophylactic treatment </li>
+    <li>Managing chronic hepatitis B in pregnancy </li>
+    <li>Managing chronic hepatitis B in children and young people </li>
+</ul>
+<p>In addition, a NICE pathway on hepatitis B (chronic) is available at the <a href=&quot;http://pathways.nice.org.uk/pathways/hepatitis-b-chronic&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Chronic hepatitis B</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Counseling"/>
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Gastroenterology"/>
+      <fieldvalue value="Infectious Diseases"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Obstetrics and Gynecology"/>
+      <fieldvalue value="Pediatrics"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Patients"/>
+      <fieldvalue value="Pharmacists"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To produce a clinical guideline on the assessment and management for hepatitis B, which will include consideration of:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Which patients with hepatitis B should be referred for specialist assessment? </li>
+    <li>How should such patients be assessed? </li>
+    <li>Which patients should receive antiviral treatment? </li>
+    <li>Which treatments are most cost-effective for which groups of patients? </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Children, young people and adults with chronic hepatitis B virus (HBV) infection including:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>People co-infected with hepatitis C or hepatitis delta (D) virus </li>
+    <li>Immunocompromised people (such as those undergoing cancer treatments) who are carriers or have been previously infected, for whom prophylactic treatment might be beneficial </li>
+    <li>Pregnant and lactating women </li>
+    <li>People with cirrhosis, including those with liver decompensation </li>
+</ul>
+<p class=&quot;Note&quot;><strong>Note</strong>: Groups that will not be covered include:</p>
+<ul class=&quot;contentListFont&quot;>
+    <li>People who have had a liver transplant </li>
+    <li>People with acute hepatitis B </li>
+    <li>People co-infected with human immunodeficiency virus (HIV) </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Providing information about chronic hepatitis B to family members or carers (if appropriate) before assessment for antiviral treatment </li>
+    <li>Testing of hepatitis B surface antigen (HBsAg)-positive patients in primary care
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Hepatitis B e antigen (HBeAg)/antibody (anti-HBe) status </li>
+        <li>Hepatitis B virus (HBV) deoxyribonucleic acid (DNA) level </li>
+        <li>Immunoglobulin M (IgM) antibody to hepatitis B core antigen (anti-HBc IgM) </li>
+        <li>Hepatitis C virus antibody (anti-HCV) </li>
+        <li>Hepatitis delta (D) virus antibody (anti-HDV) </li>
+        <li>Human immunodeficiency virus (HIV) antibody (anti-HIV) </li>
+        <li>Immunoglobulin G (IgG) antibody to hepatitis A virus (anti-HAV) </li>
+        <li>Additional laboratory tests including alanine aminotransferase (ALT) or aspartate aminotransferase (AST), gamma-glutamyl transferase (GGT), serum albumin, total bilirubin, total globulins, full blood count and prothrombin time </li>
+        <li>Tests for hepatocellular carcinoma (HCC), including hepatic ultrasound and alpha-fetoprotein testing </li>
+    </ul>
+    </li>
+    <li>Referral to hepatologist, gastroenterologist, or infectious disease specialist as appropriate </li>
+    <li>Assessment of liver disease in secondary specialist care
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Transient elastography as the initial test for liver disease </li>
+        <li>Liver biopsy </li>
+    </ul>
+    </li>
+    <li>Genotype testing (not recommended) </li>
+    <li>Antiviral treatment
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Peginterferon alfa-2a </li>
+        <li>Entecavir </li>
+        <li>Tenofovir disoproxil </li>
+        <li>Telbivudine (not recommended) </li>
+        <li>Adefovir dipivoxil (not recommended) </li>
+        <li>Nucleoside or nucleotide analogue </li>
+        <li>Prophylactic treatment during immunosuppressive therapy </li>
+    </ul>
+    </li>
+    <li>Special considerations for the following groups
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Treatment sequence in adults with HBeAg-positive chronic hepatitis B and compensated liver disease </li>
+        <li>Treatment sequence in adults with HBeAg-negative chronic hepatitis B and compensated liver disease </li>
+        <li>Children and young people with chronic hepatitis B and compensated liver disease </li>
+        <li>Adults with decompensated liver disease </li>
+        <li>Women who are pregnant or breastfeeding </li>
+        <li>Adults who are co-infected with hepatitis C or hepatitis D </li>
+    </ul>
+    </li>
+    <li>Monitoring before, during, and after antiviral treatment </li>
+    <li>Surveillance testing for hepatocellular carcinoma in adults with chronic hepatitis B </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Sensitivity, specificity, accuracy, positive and negative predictive value of diagnostic tests </li>
+    <li>Reduction of serum hepatitis B deoxyribonucleic acid (DNA), tested by the most sensitive available quantitative assay </li>
+    <li>Clearance of hepatitis B e antigen (HBeAg) and seroconversion for hepatitis B e antigen antibody </li>
+    <li>Clearance of hepatitis B surface antigen (HBsAg) antibody and seroconversion for HBsAg antibody </li>
+    <li>Regression of hepatic inflammation and fibrosis grade/stage </li>
+    <li>Frequency of liver decompensation </li>
+    <li>Incidence of hepatocellular carcinoma </li>
+    <li>Quality of life, tested using a validated general instrument or a validated liver disease-specific instrument </li>
+    <li>Mortality </li>
+    <li>Adverse effects </li>
+    <li>Rates of vertical transmission from mother to infant for pregnant and lactating women </li>
+    <li>Resistance </li>
+    <li>Cost-effectiveness </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Clinical Guideline Centre (NCGC) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p><strong>Clinical Literature Search</strong></p>
+<p>The aim of the literature search was to systematically identify all published clinical evidence relevant to the review questions. Searches were undertaken according to the parameters stipulated within the NICE Guidelines Manual 2009 (see the &quot;Availability of Companion Documents&quot; field). Databases were searched using medical subject headings and free-text terms. Foreign language studies were not reviewed and, where possible, searches were restricted to articles published in the English language. All searches were conducted in MEDLINE, EMBASE, and the Cochrane Library, and were updated for the final time on October 10, 2012. No papers after this date were considered.</p>
+<p>Search strategies were quality assured by cross-checking reference lists of highly relevant papers, analysing search strategies in other systematic reviews, and asking Guideline Development Group (GDG) members to highlight any additional studies. The questions, the study types applied, the databases searched and the years covered can be found in Appendix D of the full version of the guideline.</p>
+<p>The titles and abstracts of records retrieved by the searches were sifted for relevance, with potentially significant publications obtained in full text. These were assessed against the inclusion criteria.</p>
+<p><em>Inclusion/Exclusion Criteria</em></p>
+<p>The inclusion/exclusion of studies was based on the review protocols (see Appendix C of the full version of the original guideline). The GDG were consulted about any uncertainty regarding inclusion/exclusion.</p>
+<p>The guideline population was defined to be people with chronic hepatitis B who were positive for hepatitis B surface antigen (HBsAg) persistently for more than 6 months. For some review questions, the review population was confined to special groups such as people who are immunocompromised, co-infected with hepatitis C or delta (D) virus or have decompensated liver disease or pregnant women.</p>
+<p>Randomised trials, non-randomised trials, and observational studies (including diagnostic or prognostic studies) were included in the evidence reviews as appropriate. Laboratory studies (in vivo or in vitro) were excluded with the exception of the additional review requested by the GDG (examining whether the efficacy of tenofovir was comparable in nucleoside na&amp;iuml;ve and lamivudine resistant populations with chronic hepatitis B infection) to support an assumption in the network meta-analysis. The reason of including laboratory (in vivo in vitro) studies for that review is due to a lack of evidence on the efficacy of tenofovir in these two populations shown by human studies (randomised trial and observational studies), although it is widely accepted in clinical practice. In addition, the GDG considered laboratory studies as a reliable source of evidence for this particular review.</p>
+<p>Conference abstracts were not automatically excluded from the review but were initially assessed against the inclusion criteria and then further processed only if no other full publication was available for that review question, in which case the authors of the selected abstracts were contacted for further information. The reviews that had included abstracts were:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Health care setting to initiate pre-therapeutic tests </li>
+    <li>Optimal timing/frequency of hepatocellular carcinoma surveillance </li>
+    <li>Patient/carer information </li>
+</ul>
+<p>Literature reviews, letters and editorials, foreign language publications and unpublished studies were excluded.</p>
+<p>The review protocols are presented in Appendix C of the full version of the guideline. Excluded studies by review question (with their exclusion reasons) are listed in Appendix L.</p>
+<p><strong>Health Economic Literature Search</strong></p>
+<p>Systematic searches were also undertaken to identify relevant health economic evidence within the published literature. The National Health Service Economic Evaluation Database (NHS EED), the Health Economic Evaluations Database (HEED) and Health Technology Assessment (HTA) database were searched using broad population terms and no date restrictions. A search was also run in MEDLINE and EMBASE using a specific economic filter with population terms. Where possible, searches were restricted to articles published in the English language. Economics search strategies are included in Appendix D of the full guideline. All searches were updated for the final time on October 10, 2012. No papers published after this date were considered.</p>
+<p><em>Inclusion/Exclusion</em></p>
+<p>Full economic evaluations (studies comparing costs and health consequences of alternative courses of action: cost&amp;ndash;utility, cost-effectiveness, cost-benefit and cost-consequence analyses) and comparative costing studies that addressed the review question in the relevant population were considered potentially applicable as economic evidence.</p>
+<p>Studies that only reported cost per hospital (not per patient), or only reported average cost-effectiveness without disaggregated costs and effects, were excluded. Abstracts, posters, reviews, letters/editorials, foreign language publications and unpublished studies were excluded. Studies judged to have an applicability rating of 'not applicable' were excluded (this included studies that took the perspective of a non-OECD [Organisation for Economic Cooperation and Development] country).</p>
+<p>Remaining studies were prioritised for inclusion based on their relative applicability to the development of this guideline and the study limitations. For example, if a high quality, directly applicable UK analysis was available other less relevant studies may not have been included. Where exclusions occurred on this basis, this is noted in the relevant section.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The number of studies identified for each review question is provided in each review chapter of the full guideline document (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Overall Quality of Outcome Evidence in GRADE (Grading of Recommendations Assessment, Development and Evaluation)</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Overall Quality of Outcome Evidence in GRADE (Grading of Recommendations Assessment, Development and Evaluation)&quot;>
+    <thead>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;col&quot;>Level</th>
+            <th valign=&quot;top&quot; scope=&quot;col&quot;>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>High</th>
+            <td valign=&quot;top&quot;>Further research is very unlikely to change confidence in the estimate of effect</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Moderate</th>
+            <td valign=&quot;top&quot;>Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Low</th>
+            <td valign=&quot;top&quot;>Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot; scope=&quot;row&quot;>Very Low</th>
+            <td valign=&quot;top&quot;>Any estimate of effect is very uncertain</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Meta-Analysis of Randomized Controlled Trials"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Clinical Guideline Centre (NCGC) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p>The evidence was reviewed following these steps:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Potentially relevant studies were identified for each review question from the relevant search results by reviewing titles and abstracts. Full papers were then obtained. </li>
+    <li>Full papers were reviewed against pre-specified inclusion/exclusion criteria to identify studies that addressed the review question in the appropriate population (review protocols are included in Appendix C of the full guideline document). </li>
+    <li>Relevant studies were critically appraised using the appropriate checklists as specified in The Guidelines Manual. For diagnostic questions, the Guideline Development Group (GDG) followed the checklist developed by QUADAS II. </li>
+    <li>Key information was extracted on the study's methods and patient, intervention, comparison and outcome (PICO) factors and results were presented in evidence tables (see Appendix E in the full guideline document). </li>
+    <li>Summaries of the evidence were generated by outcome (included in the relevant chapter write-ups) and were presented in GDG meetings:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Randomised studies: meta-analysed, where appropriate and reported in Grading of Recommendations Assessment, Development and Evaluation (GRADE) profiles (for intervention reviews) </li>
+        <li>Prognostic studies: data were presented as a range of values, usually in terms of the relative effect as reported by the authors. </li>
+        <li>Diagnostic studies were presented as measures of diagnostic test accuracy (sensitivity, specificity, positive and negative predictive value). Coupled values of sensitivity and specificity were summarized in Receiver Operating Curves (ROC) to allow visual comparison between different index tests (plotting data at different thresholds) and to investigate heterogeneity more effectively (given data were reported at the same thresholds). A meta-analysis could not be conducted because the studies reported data at various thresholds. </li>
+    </ul>
+    </li>
+</ul>
+<p>Twenty percent (20%) of each of the above stages of the reviewing process was quality assured by the second reviewer to eliminate any potential of reviewer bias or error.</p>
+<p>Detailed data synthesis and review methods for clinical effectiveness are described in Sections 4.3 and 4.4 of the full guideline document (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p><strong>Grading the Quality of Clinical Evidence</strong></p>
+<p>After results were pooled, the overall quality of evidence for each outcome was considered. The following procedure was adopted when using GRADE:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A quality rating was assigned, based on the study design. Randomised controlled trials (RCTs) start HIGH and observational studies as LOW, uncontrolled case series as LOW. </li>
+    <li>The rating was then downgraded for the specified criteria: Risk of bias (study limitations), inconsistency, indirectness, imprecision and publication bias. These criteria are detailed in the full version of the original guideline. Evidence from observational studies (that had not previously been downgraded) was upgraded if there was: a large magnitude of effect, dose-response gradient, and if all plausible confounding would reduce a demonstrated effect or suggest a spurious effect when results showed no effect. Each quality element considered to have &quot;serious&quot; or &quot;very serious&quot; risk of bias was rated at 1 or 2 points respectively. </li>
+    <li>The downgraded/upgraded marks were then summed and the overall quality rating was revised. For example, all RCTs started as HIGH and the overall quality became MODERATE, LOW or VERY LOW if 1, 2 or 3 points were deducted respectively. </li>
+    <li>The reasons used for downgrading were specified in the footnotes. </li>
+</ul>
+<p><strong>NICE Economic Evidence Profiles</strong></p>
+<p>The NICE economic evidence profile has been used to summarise cost and cost-effectiveness estimates. The economic evidence profile shows, for each economic study, an assessment of applicability and methodological quality, with footnotes indicating the reasons for the assessment. These assessments were made by the health economist using the economic evaluation checklist from The Guidelines Manual (see the &quot;Availability of Companion Documents&quot; field). It also shows incremental costs, incremental outcomes (for example, quality-adjusted life-years [QALYs]) and the incremental cost-effectiveness ratio from the primary analysis, as well as information about the assessment of uncertainty in the analysis.</p>
+<p>If a non-UK study was included in the profile, the results were converted into pounds sterling using the appropriate purchasing power parity.</p>
+<p>Where economic studies compare multiple strategies, results are presented in the economic evidence profiles for the pair-wise comparison specified in the review question, irrespective of whether or not that comparison was 'appropriate' within the analysis being reviewed. A comparison is 'appropriate' where an intervention is compared with the next most expensive non-dominated option &amp;ndash; a clinical strategy is said to 'dominate' the alternatives when it is both more effective and less costly. Footnotes indicate if a comparison was 'inappropriate' in the analysis.</p>
+<p>For particular studies comparing multiple strategies, results are not reported in the standard economic profile but are instead presented at the end of the relevant chapter in an alternative table summarising the study as a whole.</p>
+<p><strong>Undertaking New Health Economic Analysis</strong></p>
+<p>As well as reviewing the published economic literature for each review question, as described above, new economic analysis was undertaken by the Health Economist in priority areas. Priority areas for new health economic analysis were agreed by the GDG after formation of the review questions and consideration of the available health economic evidence.</p>
+<p>Additional data for the analysis was identified as required through additional literature searches undertaken by the Health Economist, and discussion with the GDG. Model structure, inputs and assumptions were explained to and agreed by the GDG members during meetings, and they commented on subsequent revisions.</p>
+<p>See Appendices H and I of the full version of the original guideline document for details of the health economic analysis/analyses undertaken for the guideline.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+      <fieldvalue value="Informal Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Clinical Guideline Centre (NCGC) on behalf of the National Institute for Health and Care Excellence (NICE). See the &quot;Availability of Companion Documents&quot; field for the full version of this guidance.</p>
+<p><strong>Guideline Development Group</strong></p>
+<p>A multidisciplinary Guideline Development Group (GDG) comprising professional group members and consumer representatives of the main stakeholders developed this guideline.</p>
+<p>The group met every 5-6 weeks during the development of the guideline.</p>
+<p>Staff from the NCGC provided methodological support and guidance for the development process. The team working on the guideline included a project manager, systematic reviewers, health economists and information scientists. They undertook systematic searches of the literature, appraised the evidence, conducted meta-analysis and cost-effectiveness analysis where appropriate and drafted the guideline in collaboration with the GDG.</p>
+<p><strong>Developing Recommendations</strong></p>
+<p>Over the course of the guideline development process, the GDG was presented with:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Evidence tables of the clinical and economic evidence reviewed from the literature. All evidence tables are in Appendices E and F of the full guideline (see the &quot;Availability of Companion Documents&quot; field). </li>
+    <li>Summary of clinical (GRADE tables) and economic evidence and quality (as presented in chapters 5-11 of the full version of the guideline). </li>
+    <li>Forest plots and Receiver Operating Characteristics (ROC) curves (See Appendix G of the full guideline). </li>
+    <li>A description of the methods and results of the cost-effectiveness analysis undertaken for the guideline (See Appendix H and I of the full guideline). </li>
+</ul>
+<p>Recommendations were drafted on the basis of the GDG's interpretation of the available evidence, taking into account the trade-off between benefits, harms and costs of different courses of action. This was either done formally in an economic model, or informally. Firstly, the net benefit over harm was considered (clinical effectiveness), using the critical outcomes. When this was done informally, the GDG took into account the clinical benefits/harms when one intervention was compared with another. The assessment of net benefit was moderated by the importance placed on the outcomes (the GDG's values and preferences), and the confidence the GDG had in the evidence (evidence quality). Secondly, it was assessed whether the net benefit justified the costs. Results of the network meta-analyses (NMA) was also taken into account in the drafting of recommendations and were incorporated in the health economic modelling for considering the most clinical and cost-effective antiviral treatment.</p>
+<p>When clinical and economic evidence was of poor quality, conflicting or absent, the GDG drafted recommendations based on their expert opinion. The considerations for making consensus based recommendations included the balance between potential harms and benefits, economic or other implications compared to the benefits, current practices, recommendations made in other relevant guidelines, patient preferences and equality issues. The consensus recommendations were done through discussions in the GDG. The GDG could also consider whether the uncertainty is sufficient to justify delaying making a recommendation to await further research, taking into account the potential harm of failing to make a clear recommendation (See Appendix K of the full guideline). The wording of recommendations was agreed by the GDG and focused on the following factors:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>On the actions health professionals need to take </li>
+    <li>Include what readers need to know </li>
+    <li>Reflect the strength of the recommendation (for example the word &quot;offer&quot; was used for strong recommendations and &quot;consider&quot; for weak recommendations) </li>
+    <li>Emphasise the involvement of the patient (and/or their carers if needed) in decisions on treatment and care </li>
+    <li>Follow NICE's standard advice on recommendations about drugs, waiting times and ineffective interventions </li>
+</ul>
+<p>The main considerations specific to each recommendation are outlined in the 'Recommendations and Link to Evidence' sections within each chapter in the full version of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong><span style=&quot;text-decoration: underline;&quot;>Strength of Recommendations</span></strong></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><strong>Interventions That Must (or Must Not) Be Used</strong></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally 'must' (or 'must not') is used if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><strong>Interventions That Should (or Should Not) Be Used &amp;ndash; a 'Strong' Recommendation</strong></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost-effective. Similar forms of words (for example, 'Do not offer&amp;hellip;') are used when the GDG is confident that an intervention will not be of benefit for most patients.</p>
+<p><strong>Interventions That Could Be Used</strong></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most patients, and be cost-effective, but other options may be similarly cost-effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Cost-Effectiveness Criteria</strong></p>
+<p>In general, an intervention was considered to be cost effective if either of the following criteria applied (given that the estimate was considered plausible):</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The intervention dominated other relevant strategies (that is, it was both less costly in terms of resource use and more clinically effective compared with all the other relevant alternative strategies), or </li>
+    <li>The intervention cost less than &amp;pound;20,000 per quality-adjusted life-year (QALY) gained compared with the next best strategy. </li>
+</ul>
+<p>If the Guideline Development Group (GDG) recommended an intervention that was estimated to cost more than &amp;pound;20,000 per QALY gained, or did not recommend one that was estimated to cost less than &amp;pound;20,000 per QALY gained, the reasons for this decision are discussed explicitly in the 'from evidence to recommendations' section of the relevant chapter of the full version of the guideline with reference to issues regarding the plausibility of the estimate or to the factors set out in the National Institute for Health and Care Excellence (NICE) report 'Social value judgements: principles for the development of NICE guidance'.</p>
+<p>If a study reported the cost per life year gained but not QALYs, the cost per QALY gained was estimated by multiplying by an appropriate utility estimate to aid interpretation. The estimated cost per QALY gained is reported in the economic evidence profile with a footnote detailing the life-years gained and the utility value used. When QALYs or life years gained are not used in the analysis, results are difficult to interpret unless one strategy dominates the others with respect to every relevant health outcome and cost.</p>
+<p>Detailed economic evidence is reviewed for each review question in the full version of the guideline. In addition the following are provided:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Appendix H: Cost-effectiveness analysis &amp;ndash; Antiviral therapy for decompensated hepatitis B virus (HBV) cirrhosis </li>
+    <li>Appendix I: Cost-effectiveness analysis &amp;ndash; Treatment of patients with hepatitis B e antigen (HBeAg) positive and HBeAg negative chronic hepatitis B (CHB) </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Validation Process</strong></p>
+<p>The guidance is subject to a six week public consultation and feedback as part of the quality assurance and peer review the document. All comments received from registered stakeholders are responded to in turn and posted on the National Institute for Health and Care Excellence (NICE) Web site when the pre-publication check of the full guideline occurs.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of evidence supporting the recommendations is not specifically stated.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Provision of relevant, comprehensive information to aid in informed decision making. </li>
+    <li>Appropriate diagnosis, evaluation, management and treatment of children, young people and adults with chronic hepatitis B. </li>
+</ul>
+<p>See the section &quot;Trade-off between clinical benefits and harms&quot; in the full version of the original guideline document for additional details about benefits of specific interventions.</p>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Liver biopsy is an invasive procedure and is prone to sampling errors. Considering the risk of complications and patient reluctance to undergo liver biopsy, non-invasive tests may be preferred by some patients. Liver biopsy may be avoided in some patients especially those who are classified as having minimal fibrosis (METAVIR &amp;lt;F2) or those with definite cirrhosis (METAVIR F4) by the non-invasive tests. Identifying advanced fibrosis and cirrhosis can reduce the risk of further complications such as hepatocellular carcinoma and liver transplantation. </li>
+    <li>There are advantages and disadvantages of pegylated interferon and nucleos(t)ide analogues. Main disadvantages of nucleos(t)ide analogues are the long duration of treatment and the risk of developing resistance. </li>
+    <li>Because of the likely long duration of treatment, the prevention of development of resistance is paramount. Resistance to lamivudine confers cross-resistance to emtricitabine, telbivudine and entecavir. Circulating levels of resistant hepatitis B virus (HBV) may also lead to increased resistant virus transmission. </li>
+    <li>The Guideline Development Group (GDG) considered that safety issues, bearing in mind the likely long duration of nucleos(t)ide therapy must be given careful consideration. Focus on renal, bone and developmental problems in adults raises the need for continued vigilance and the need for further evidence from longer term studies in children. </li>
+    <li>The GDG noted that assessment of fibrosis is a sensitive area in children. Paediatricians are cautious in using drug treatments where long-term safety is not determined. The expert co-optee informed the GDG that currently nucleoside agents were used infrequently and within a very small population of children. The GDG agreed that, in the absence of proven effective therapy, children and young people should ideally be treated with anti-viral therapy only in clinical trials, except for compassionate use or clinical need. The GDG, therefore, recommended that antiviral drugs could be considered in children, but included a footnote to the recommendation, that each of the antiviral drugs did not have UK marketing authorisation for use in children and that the prescriber should follow relevant professional guidance, taking full responsibility for the decision. </li>
+    <li>The GDG believed that interferon side effects impact significantly on patient compliance and acceptability. </li>
+    <li>Lamivudine in the third trimester of pregnancy (in addition to HBV vaccine and hepatitis B immunoglobulin [HBIg]) was found to be beneficial in reducing the proportion of newborns with HBV deoxyribonucleic acid (DNA) seropositivity, infants HBV DNA and hepatitis B surface antigen (HBsAg) seropositivity at 52 weeks compared to placebo (in addition to HBV vaccine and HBIg). However, this must be balanced against the potentially toxic side effects of the drug on mothers and infants. </li>
+    <li>The risk of reactivation, both virological (HBV DNA) and clinical (alanine aminotransferase [ALT]), is high in hepatitis B positive patients receiving chemotherapy or immunosuppressive therapy, especially when these regimens include corticosteroids or rituximab. Therefore, HBsAg, antibody to hepatitis B core antigen (anti-HBc) and antibody to hepatitis B surface antigen (anti-HBs) testing should be performed in people who are at high risk of HBV infection to enable for identification, prophylaxis and monitoring. </li>
+    <li>False-negative and false-positive rate tests results:&amp;nbsp; In the former case, patients missed by the test would not receive appropriate treatment and would then be at risk of developing advanced liver disease and hepatocellular carcinoma, although monitoring might pick this up. In the latter case, patients with a false-positive test result would either have a biopsy or would start antiviral treatment and be monitored for effectiveness. The GDG considered it essential to avoid false-negative assignment, so the sensitivity was considered more important than specificity. </li>
+</ul>
+<p>See the section &quot;Trade-off between clinical benefits and harms&quot; in the full version of the original guideline document for additional details about harms of specific interventions.</p>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Interferon (IFN) should not be used in patients with decompensated cirrhosis, acute liver failure, those receiving immunosuppressive therapy for co-existing conditions, pregnancy or psychiatric contraindications. </li>
+    <li>Avoid use of peginterferon alfa-2a in pregnancy unless the potential benefit outweighs risk. Women of childbearing potential must use effective contraception throughout therapy. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>This guidance represents the view of the National Institute for Health and Care Excellence (NICE), which was arrived at after careful consideration of the evidence available. Healthcare professionals are expected to take it fully into account when exercising their clinical judgement. However, the guidance does not override the individual responsibility of healthcare professionals to make decisions appropriate to the circumstances of the individual patient, in consultation with the patient and/or guardian or carer, and informed by the summaries of product characteristics of any drugs. </li>
+    <li>Implementation of this guidance is the responsibility of local commissioners and/or providers. Commissioners and providers are reminded that it is their responsibility to implement the guidance, in their local context, in light of their duties to have due regard to the need to eliminate unlawful discrimination, advance equality of opportunity and foster good relations. Nothing in this guidance should be interpreted in a way that would be inconsistent with compliance with those duties. </li>
+    <li>The guideline will assume that prescribers will use a drug's summary of product characteristics to inform decisions made with individual patients. </li>
+    <li>This guideline recommends some drugs for indications for which they do not have a UK marketing authorisation at the date of publication, if there is good evidence to support that use. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. The patient (or those with authority to give consent on their behalf) should provide informed consent, which should be documented. See the General Medical Council's Good practice in prescribing medicines &amp;ndash; guidance for doctors for further information. Where recommendations have been made for the use of drugs outside their licensed indications ('off-label use'), these drugs are marked with a footnote in the recommendations. </li>
+    <li>Patients and healthcare professionals have rights and responsibilities as set out in the National Health Service (NHS) Constitution for England &amp;ndash; all NICE guidance is written to reflect these. Treatment and care should take into account individual needs and preferences. Patients should have the opportunity to make informed decisions about their care and treatment, in partnership with their healthcare professionals. If the patient is under 16, their family or carers should also be given information and support to help the child or young person to make decisions about their treatment. Healthcare professionals should follow the Department of Health's advice on consent. If someone does not have capacity to make decisions, healthcare professionals should follow the code of practice that accompanies the Mental Capacity Act and the supplementary code of practice on deprivation of liberty safeguards. In Wales, healthcare professionals should follow advice on consent from the Welsh Government. </li>
+    <li>NICE has produced guidance on the components of good patient experience in adult NHS services. All healthcare professionals should follow the recommendations in Patient experience in adult NHS services. </li>
+    <li>For all recommendations, NICE expects that there is discussion with the patient about the risks and benefits of the interventions, and their values and preferences. This discussion aims to help them to reach a fully informed decision (also see the section &quot;Patient-centred care&quot; in the original guideline document). </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The National Institute for Health and Care Excellence (NICE) has developed tools to help organisations implement this guidance. These are available on the <a href=&quot;http://guidance.nice.org.uk/CG165&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>; see also the &quot;Availability of Companion Documents&quot; field).</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Key Priorities for Implementation</strong></span></p>
+<p>The following recommendations have been identified as priorities for implementation.</p>
+<p><strong>Assessment and Referral</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Arrange the following tests in primary care for adults who are hepatitis B surface antigen (HBsAg) positive:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Hepatitis B e antigen (HBeAg)/antibody (anti-HBe) status </li>
+        <li>Hepatitis B virus (HBV) deoxyribonucleic acid (DNA) level </li>
+        <li>Immunoglobulin M (IgM) antibody to hepatitis B core antigen (anti-HBc IgM) </li>
+        <li>Hepatitis C virus antibody (anti-HCV) </li>
+        <li>Hepatitis delta virus antibody (anti-HDV) </li>
+        <li>Human immunodeficiency virus (HIV) antibody (anti-HIV) </li>
+        <li>Immunoglobulin G (IgG) antibody to hepatitis A virus (anti-HAV) </li>
+        <li>Additional laboratory tests including alanine aminotransferase (ALT) or aspartate aminotransferase (AST), gamma-glutamyl transferase (GGT), serum albumin, total bilirubin, total globulins, full blood count and prothrombin time </li>
+        <li>Tests for hepatocellular carcinoma (HCC), including hepatic ultrasound and alpha-fetoprotein testing </li>
+    </ul>
+    </li>
+    <li>Include the results of the initial tests with the referral. </li>
+</ul>
+<p><strong>Treatment Sequence in Adults With HBeAg-Positive Chronic Hepatitis B and Compensated Liver Disease</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Offer a 48-week course of peginterferon alfa-2a as first-line treatment in adults with HBeAg-positive chronic hepatitis B and compensated liver disease<sup>1</sup>. </li>
+    <li>Offer tenofovir disoproxil as second-line treatment to people who do not undergo HBeAg seroconversion or who relapse (revert to being HBeAg positive following seroconversion) after first-line treatment with peginterferon alfa-2a. </li>
+    <li>Offer entecavir as an alternative second-line treatment to people who cannot tolerate tenofovir disoproxil or if it is contraindicated. </li>
+</ul>
+<p><strong>Treatment Sequence in Adults with HBeAg-Negative Chronic Hepatitis B and Compensated Liver Disease</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Offer a 48-week course of peginterferon alfa-2a as first-line treatment in adults with HBeAg-negative chronic hepatitis B and compensated liver disease<sup>1</sup>. </li>
+    <li>Offer entecavir or tenofovir disoproxil as second-line treatment to people with detectable HBV DNA after first-line treatment with peginterferon alfa-2a. </li>
+</ul>
+<p><strong>Women Who Are Pregnant or Breastfeeding</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Offer tenofovir disoproxil to women with HBV DNA greater than 107 IU/ml in the third trimester to reduce the risk of transmission of HBV to the baby<sup>2</sup>. </li>
+</ul>
+<p><strong>Prophylactic Treatment during Immunosuppressive Therapy</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>In people who are HBsAg positive and have HBV DNA greater than 2000 IU/ml, offer prophylaxis with entecavir or tenofovir disoproxil<sup>3</sup>.
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Start prophylaxis before beginning immunosuppressive therapy and continue for a minimum of 6 months after HBeAg seroconversion and HBV DNA is undetectable. </li>
+    </ul>
+    </li>
+    <li>In people who are HBsAg positive and have HBV DNA less than 2000 IU/ml, offer prophylaxis:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Consider lamivudine<sup>3</sup> if immunosuppressive therapy is expected to last less than 6 months
+        <ul style=&quot;list-style-type: disc;&quot;>
+            <li>Monitor HBV DNA monthly in people treated with lamivudine and change to tenofovir disoproxil if HBV DNA remains detectable after 3 months </li>
+        </ul>
+        </li>
+        <li>Consider entecavir or tenofovir disoproxil<sup>3</sup> if immunosuppressive therapy is expected to last longer than 6 months </li>
+        <li>Start prophylaxis before beginning immunosuppressive therapy and continue for a minimum of 6 months after stopping immunosuppressive therapy. </li>
+    </ul>
+    </li>
+</ul>
+<p class=&quot;Note&quot;><sup>1</sup> Avoid use of peginterferon alfa-2a in pregnancy unless the potential benefit outweighs risk. Women of childbearing potential must use effective contraception throughout therapy.</p>
+<p class=&quot;Note&quot;><sup>2</sup> At the time of publication (June 2013), tenofovir disoproxil did not have a UK marketing authorisation for this indication. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's <a href=&quot;http://www.gmc-uk.org/guidance/ethical_guidance/14316.asp&quot; title=&quot;General Medical Council Web site&quot;>Good practice in prescribing medicines &amp;ndash; guidance for doctors</a> for further information.</p>
+<p class=&quot;Note&quot;><sup>3</sup> At the time of publication (June 2013), entecavir, lamivudine and tenofovir disoproxil did not have a UK marketing authorisation for this indication. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's <a href=&quot;http://www.gmc-uk.org/guidance/ethical_guidance/14316.asp&quot; title=&quot;General Medical Council Web site&quot;>Good practice in prescribing medicines &amp;ndash; guidance for doctors</a> for further information.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Audit Criteria/Indicators"/>
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Foreign Language Translations"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Clinical Guideline Centre. Hepatitis B (chronic). Diagnosis and management of chronic hepatitis B in children, young people and adults. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. 45 p.&amp;nbsp;(Clinical guideline; no. 165).&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2013 Jun"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="National Guideline Centre - National Government Agency [Non-U.S.]"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>National Institute for Health and Care Excellence (NICE)</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Guideline Development Group</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Guideline Development Group Members</em>: Aftab Ala, Consultant Gastroenterologist and Hepatologist, Frimley Park Hospital NHS Foundation Trust, Surrey; Elizabeth Boxall, Virologist and Consultant Clinical Scientist; Steven Bradley (September 2011 &amp;ndash; January 2012, replaced by Sarah Wise), Patient and carer member; Ashley Brown (co-optee), Consultant Hepatologist, Imperial College, London; Joyeta Das <em>(co-optee)</em>, Lead Pharmacist, Hepatology, Imperial College Healthcare NHS Trust, London; Geoffrey Dusheiko, Professor of Medicine, UCL Division of Liver and Digestive Health and Royal Free Hospital, University College London Medical School; Patrick Kennedy, Senior Lecturer and Consultant Hepatologist, Barts and the London NHS Trust; Emily Lam, Patient and carer member; Alan Mitchell, General Practitioner and Clinical Director, Renfrewshire Community Health Partnership and East Renfrewshire Community Health and Care Partnership; Angela Narbey, Nurse consultant, liver disease, Queen Elizabeth Hospital, Woolwich; Nadia Permaloo <em>(co-optee)</em>, Regional antenatal screening coordinator, London &amp;ndash; hosted by Inner North West London NHS for the National Screening Committee; Howard Thomas (<em>Chair</em>), Emeritus Professor, Department of Hepatology and Gastroenterology Division of Medicine, Imperial College, London; Gareth Tudor-Williams, Reader in Paediatric Infectious Diseases, Imperial College, London; Javier Vilar, Consultant in Infectious Diseases, North Manchester General Hospital &amp;ndash; Pennine Acute Hospitals; Sarah Wise (April &amp;ndash; September 2012, not replaced), Patient and carer member</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>At the start of the guideline development process all guideline development group (GDG) members declared interests including consultancies, fee-paid work, share-holdings, fellowships and support from the healthcare industry. At all subsequent GDG meetings, members declared arising conflicts of interest, which were also recorded.</p>
+<p>Members were either required to withdraw completely or for part of the discussion if their declared interest made it appropriate. The details of declared interests and the actions taken are shown in Appendix B of the full version of the guideline (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;https://www.nice.org.uk/guidance/CG165&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. Also available for download in ePub and eBook formats from the <a href=&quot;https://www.nice.org.uk/guidance/CG165&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Hepatitis B (chronic). Diagnosis and management of chronic hepatitis B in children, young people and adults. Full guideline. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. 586 p. (Clinical guideline; no. 165). Electronic copies: Available in Portable Document Format (PDF) from the <a href=&quot;https://www.nice.org.uk/guidance/cg165/evidence/full-guideline-190175005&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. </li>
+    <li>Hepatitis B (chronic). Diagnosis and management of chronic hepatitis B in children, young people and adults. Appendices A-D. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. 78 p. (Clinical guideline; no. 165). Electronic copies: Available in PDF from the <a href=&quot;https://www.nice.org.uk/guidance/cg165/evidence/appendices-ad-190175006&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Hepatitis B (chronic). Diagnosis and management of chronic hepatitis B in children, young people and adults. Appendices E-G. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. 803 p. (Clinical guideline; no. 165). Electronic copies: Available in PDF from the <a href=&quot;https://www.nice.org.uk/guidance/cg165/evidence/appendices-eg-190175007&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Hepatitis B (chronic). Diagnosis and management of chronic hepatitis B in children, young people and adults. Appendices H-O. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. 261 p. (Clinical guideline; no. 165). Electronic copies: Available in PDF from the <a href=&quot;https://www.nice.org.uk/guidance/cg165/evidence/appendices-ho-190175008&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Hepatitis B (chronic). Diagnosis and management of chronic hepatitis B in children, young people and adults. Baseline assessment tools. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. (Clinical guideline; no. 165). Electronic copies: Available from the <a href=&quot;https://www.nice.org.uk/guidance/cg165/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Hepatitis B (chronic). Diagnosis and management of chronic hepatitis B in children, young people and adults. Clinical audit tools. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. (Clinical guideline; no. 165). Electronic copies: Available from the <a href=&quot;https://www.nice.org.uk/guidance/cg165/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Hepatitis B (chronic). Diagnosis and management of chronic hepatitis B in children, young people and adults. Costing template. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. (Clinical guideline; no. 165). Electronic copies: Available from the <a href=&quot;https://www.nice.org.uk/guidance/cg165/resources&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+    <li>Hepatitis B (chronic): overview. NICE pathway. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. (Clinical guideline; no. 165). Electronic copies: Available from the <a href=&quot;http://pathways.nice.org.uk/pathways/hepatitis-b-chronic&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Chronic hepatitis B. Information for the public. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. (Clinical guideline; no. 165). Electronic copies: Available from the <a href=&quot;https://www.nice.org.uk/guidance/CG165/ifp/chapter/About-this-information&quot; title=&quot;NICE Web site&quot;>National Institute for Health and Care Excellence (NICE) Web site</a>. Also available for download in ePub and eBook formats from the <a href=&quot;https://www.nice.org.uk/guidance/CG165/ifp/chapter/About-this-information&quot;>NICE Web site</a>. Also available in Welsh from the <a href=&quot;https://www.nice.org.uk/guidance/cg165/resources/hepatitis-b-cronig-gwybodaeth-ir-cyhoedd-190173709&quot; title=&quot;NICE Web site&quot;>NICE Web site</a>. </li>
+</ul>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This summary was completed by ECRI Institute on October 16, 2013.</p>
+<p>The National Institute for Health and Care Excellence (NICE) has granted the National Guideline Clearinghouse (NGC) permission to include summaries of their clinical guidelines with the intention of disseminating and facilitating the implementation of that guidance. NICE has not yet verified this content to confirm that it accurately reflects that original NICE guidance and therefore no guarantees are given by NICE in this regard. All NICE clinical guidelines are prepared in relation to the National Health Service in England and Wales. NICE has not been involved in the development or adaptation of NICE guidance for use in any other country. The full versions of all NICE guidance can be found at <a href=&quot;http://www.nice.org.uk&quot; title=&quot;NICE Web site&quot;>www.nice.org.uk</a>.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 01:09:51 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:51:55 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 297.382 (3)
+  esindex: 0.01
+  captures_list: 315.062
+  CDXLines.iter: 12.71 (3)
+  PetaboxLoader3.datanode: 150.072 (4)
+  exclusion.robots: 0.436
+  exclusion.robots.policy: 0.421
+  RedisCDXSource: 1.558
+  PetaboxLoader3.resolve: 207.681
+  load_resource: 255.156
+-->

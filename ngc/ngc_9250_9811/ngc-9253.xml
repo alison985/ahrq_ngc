@@ -1,0 +1,920 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app56.us.archive.org';v.server_ms=206;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-9253?contentType=xml', '20160930180828')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930180828/https://www.guideline.gov/summaries/downloadcontent/ngc-9253?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930180828/https://www.guideline.gov/summaries/downloadcontent/ngc-9253?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-9253?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930180828" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 18:08:28 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 18:08:28 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 18:08:28 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930180828*/https://www.guideline.gov/summaries/downloadcontent/ngc-9253?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-9253?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>ACR Appropriateness Criteria&amp;reg; suspected physical abuse &amp;mdash; child.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Meyer JS, Coley BD, Karmazyn B, Binkovitz LA, Dempsey-Robertson ME, Dillman JR, Dory CE, Garber M, Hayes LL, Keller MS, Kulkarni AV, Milla SS, Myseros JS, Paidas C, Widmann RF, Raske ME, Rigsby CK, Strouse PJ, Wootton-Gorges SL, Expert Panel on Pediatric Imaging. ACR Appropriateness Criteria® suspected physical abuse -- child. [online publication]. Reston (VA): American College of Radiology (ACR); 2012. 9 p.  [50 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Meyer JS, Gunderman R, Coley BD, Bulas D, Garber M, Karmazyn BK, Keller MS, Kulkarni AV, Milla SS, Myseros JS, Paidas C, Pizzutillo PD, Podberesky DJ, Prince JS, Ragheb J, Expert Panel on Pediatric Imaging. ACR Appropriateness Criteria&amp;reg; suspected physical abuse - child. [online publication]. Reston (VA): American College of Radiology (ACR); 2009. 8 p.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>ACR Appropriateness Criteria&amp;reg;</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Clinical Condition</span>: Suspected Physical Abuse &amp;mdash; Child</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 1</span>: Child 24 months of age or younger, no focal neurologic signs or symptoms.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 1: Child 24 months of age or younger, no focal neurologic signs or symptoms&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Comments</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>RRL*</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>X-ray skeletal survey</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>9</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT head without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>7</td>
+            <td valign=&quot;top&quot;>Particularly for patients who are at &quot;high risk&quot; (e.g., with rib fractures, multiple fractures, facial injury, or less than 6 months of age).</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI head without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>If further evaluation is indicated after CT examination.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI head without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>If further evaluation is indicated after CT examination.&amp;nbsp;Administration of contrast is suggested if indicated due to prior CT findings or findings on noncontrast portion of MRI. See statement regarding contrast in text under &quot;Anticipated Exceptions.&quot;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Tc-99m bone scan whole body</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4</td>
+            <td valign=&quot;top&quot;>If skeletal survey is negative and high clinical suspicion remains.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT head without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT head with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+        <th class=&quot;Center&quot; valign=&quot;top&quot;>*Relative Radiation Level</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 2</span>: Child 24 months of age or younger, head trauma by history, no focal neurologic signs or symptoms, no evidence of visceral injury.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 2: Child 24 months of age or younger, head trauma by history, no focal neurologic signs or symptom, no evidence of visceral injury&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Comments</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>RRL*</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>X-ray skeletal survey</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>9</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT head without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>9</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI head without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>6</td>
+            <td valign=&quot;top&quot;>If further evaluation is indicated after CT examination.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI head without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>6</td>
+            <td valign=&quot;top&quot;>If further evaluation is indicated after CT examination. Administration of contrast suggested if indicated due to prior CT findings or findings on noncontrast portion of MRI. See statement regarding contrast in text under &quot;Anticipated Exceptions.&quot;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Tc-99m bone scan whole body</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4</td>
+            <td valign=&quot;top&quot;>If skeletal survey is negative and high clinical suspicion remains.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT head without and with contrast </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT head with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+        <th class=&quot;Center&quot; valign=&quot;top&quot;>*Relative Radiation Level</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 3</span>: Child 24 months of age or younger, with seizures or neurologic signs and symptoms, with or without physical findings.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 3: Child 24 months of age or younger, with seizures or neurologic signs and symptoms, with or without physical findings&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Comments</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>RRL*</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>X-ray skeletal survey</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>9</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT head without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>9</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI head without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>8</td>
+            <td valign=&quot;top&quot;>Do not defer head CT to await MRI in symptomatic child. May be useful whether CT is positive or negative.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI head without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>8</td>
+            <td valign=&quot;top&quot;>Do not defer head CT to await MRI in symptomatic child. May be useful whether CT is positive or negative. Administration of contrast suggested if indicated due to prior CT findings or findings on noncontrast portion of MRI. See statement regarding contrast in text under &quot;Anticipated Exceptions.&quot;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Tc-99m bone scan whole body</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4</td>
+            <td valign=&quot;top&quot;>If skeletal survey is negative and high clinical suspicion remains.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT head without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT head with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+        <th class=&quot;Center&quot; valign=&quot;top&quot;>*Relative Radiation Level</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 4</span>: Child older than 24 months of age, with seizures or neurologic signs and symptoms, with or without physical findings.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 4: Child older than 24 months, with seizures or neurologic signs and symptoms, with or without physical findings&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Comments</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>RRL*</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>CT head without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>9</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI head without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>8</td>
+            <td valign=&quot;top&quot;>Do not defer head CT to await MRI in symptomatic child. May be useful whether CT is positive or negative.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI head without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>8</td>
+            <td valign=&quot;top&quot;>Do not defer head CT to await MRI in symptomatic child. May be useful whether CT is positive or negative. Administration of contrast suggested if indicated due to prior CT findings or findings on noncontrast portion of MRI. See statement regarding contrast in text under &quot;Anticipated Exceptions.&quot;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>X-ray skeletal survey</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>6</td>
+            <td valign=&quot;top&quot;>Value of survey is less as age rises. Radiographs should usually be tailored to the area(s) of suspected injury.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Tc-99m bone scan whole body</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4</td>
+            <td valign=&quot;top&quot;>If skeletal survey is negative and high clinical suspicion remains.</td>
+            <td style=&quot;text-align: center; vertical-align: top;&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT head without and with contrast </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT head with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+        <th class=&quot;Center&quot; valign=&quot;top&quot;>*Relative Radiation Level</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 5</span>: Child 24 months of age or younger, with thoracic and/or abdominopelvic injuries, discrepancy with history.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 5: Child 24 months of age or younger, with thoracic and/or abdominopelvic injuries, discrepancy with history&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Comments</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>RRL*</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>X-ray skeletal survey</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>9</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT abdomen and pelvis with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>9</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT head without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>8</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT chest with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>6</td>
+            <td valign=&quot;top&quot;>When indicated based on abnormal chest radiograph and/or patient's signs and symptoms.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI head without contrast </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>Do not defer head CT to await MRI in symptomatic child. May be useful whether CT is positive or negative.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI head without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>If further evaluation is indicated after CT examination. Administration of contrast suggested if indicated due to prior CT findings or findings on noncontrast portion of MRI. See statement regarding contrast in text under &quot;Anticipated Exceptions.&quot;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT abdomen and pelvis without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT abdomen and pelvis without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>Should be considered only if there is an absolute contraindication to IV contrast administration.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT head without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT head with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT chest without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT chest without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+        <th class=&quot;Center&quot; valign=&quot;top&quot;>*Relative Radiation Level</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Variant 6</span>: Child older than 24 months of age, with thoracic and/or abdominopelvic injuries, discrepancy with history.</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Variant 6: Child older than 24 months, thoracic and/or abdominopelvic injuries, discrepancy with history&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Comments</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>RRL*</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>CT abdomen and pelvis with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>9</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT head without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>8</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>X-ray skeletal survey</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>6</td>
+            <td valign=&quot;top&quot;>Value of survey is less as age rises. Radiographs should usually be tailored to the area(s) of suspected injury.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT chest with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>6</td>
+            <td valign=&quot;top&quot;>When indicated based on abnormal chest radiograph and/or patient's signs and symptoms.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI head without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>If further evaluation is indicated after CT examination.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI head without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>If further evaluation is indicated after CT examination.&amp;nbsp;Administration of contrast suggested if indicated due to prior CT findings or findings on noncontrast portion of MRI. See statement regarding contrast in text under &quot;Anticipated Exceptions.&quot;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT abdomen and pelvis without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT abdomen and pelvis without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>Should be considered only if there is an absolute contraindication to IV contrast administration.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT head without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT head with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT chest without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT chest without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+        <th class=&quot;Center&quot; valign=&quot;top&quot;>*Relative Radiation Level</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the tables are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Summary of Literature Review</strong></span></p>
+<p><strong>Introduction/Background</strong></p>
+<p>In 2009, based on reports to child and protective service agencies, an estimated 702,000 children were victims of maltreatment (neglect, emotional abuse, sexual abuse, and physical abuse) in the United States. Of these children, 17.8% were victims of physical abuse and an estimated 1,770 children died from abuse or neglect. As high as these numbers are, the extent of the problem is actually much greater, as officially reported cases grossly understate the true incidence of abuse.</p>
+<p>In some children, physical examination and history may clearly indicate that physical abuse has occurred. In other children, however, the diagnosis of physical abuse is not so straightforward. It requires consideration of possible underlying metabolic and genetic conditions and usually relies on the findings of a multidisciplinary team that includes physicians, social workers, and legal authorities. Imaging often plays a major role in the detection and documentation of physical injury. The type and extent of imaging performed in a child who is a suspected victim of abuse depend on the child's age, signs, symptoms, and other social considerations such as being the twin of a physically abused infant.</p>
+<p>Child abuse injuries can involve any site in the human body. Physically abused children may present with hollow viscus and solid-organ injuries, superficial and deep soft-tissue injuries, thermal injuries, and/or fractures. Fractures occur in up to 55% of child abuse victims. Fractures most often involve the long bones and ribs, with lesser involvement of the skull, clavicles, pelvis, and other bones.</p>
+<p>Fractures that are highly specific for nonaccidental trauma in the normal child include those involving the ribs, metaphyseal or epiphyseal injuries, and avulsive fractures acromium process. Highly suggestive skeletal injuries include fractures that are unsuspected or inconsistent with the provided history or age of the child; multiple fractures involving more than one skeletal area; fractures of differing ages; and a combination of skeletal and nonskeletal injuries. In addition, fractures of the radius, ulna, tibia, fibula, or femur that occur in children younger than 1 year of age and midshaft or metaphyseal humeral fractures should be considered suspicious for abuse. A recent systematic review of the literature on fractures and child abuse found the child's motor developmental level to be a key discriminator for abuse in certain fractures. In particular, femoral fractures in a child who is not yet walking and unexplained humeral fractures in children younger than 15 months of age should be considered suspicious for abuse. This review also found that multiple rib fractures in any location without overt trauma were strongly associated with abusive injury, but that the posterior location of a rib fracture was not a discriminator for abuse.</p>
+<p><strong>Radiographic Skeletal Survey</strong></p>
+<p>The radiographic skeletal survey is the primary imaging examination for detecting fractures. Compared with bone scintigraphy, the radiographic skeletal survey is more sensitive for detecting skull and metaphyseal long-bone fractures. The skeletal survey should be composed of frontal and lateral views of the skull, lateral views of the cervical spine (if not included on the lateral skull view) and thoracolumbosacral spine, and single frontal views of the long bones, chest, and abdomen. Oblique views of the ribs should be obtained to increase the accuracy of diagnosing rib fractures, which as previously noted are strong positive predictors and may be the only skeletal manifestation of abuse. The images should be obtained using high-detail imaging systems and coned to the specific area of interest for each of the body parts, with separate views of each arm, forearm, thigh, leg, hand, and foot to improve image quality and diagnostic accuracy (see Appendix 1 in the original guideline document).</p>
+<p>The recommendations for use of skeletal surveys vary with the child's age and type of presentation. A majority of skeletal surveys that are positive for fractures are performed in children younger than 1 year of age, and 80% of children with fractures due to child abuse are younger than 18 months of age. Radiographic skeletal survey is recommended in all children younger than 2 years of age in whom there is suspicion of abuse. In children 2 to 5 years of age, performance of skeletal survey should be based on the presence of other clinical findings and the need to document the presence or absence of injuries. In this older group of children, however, skeletal imaging should be strongly considered in a child who has unexplained craniocerebral or abdominal injuries or fractures that are suspicious for abuse. In addition, a repeat skeletal survey performed approximately 2 weeks after the initial examination can provide additional information on the presence and age of child abuse fractures and should be performed when abnormal or equivocal findings are found on the initial study and when abuse is suspected on clinical grounds. These follow-up studies should include all the images except the skull radiographs that were included in the initial skeletal survey. Skull radiographs can be omitted since new findings would not be expected on these images.</p>
+<p><strong>Bone Scintigraphy</strong></p>
+<p>Bone scintigraphy is a complementary examination for detecting bone injuries. It should be used when the radiographic skeletal survey is negative but clinical suspicion remains high and a search for further evidence of skeletal trauma is still necessary. To increase sensitivity, the bone scan should include the use of pinhole collimators and differential counts of the metaphyses. A bone scan is especially good for detecting periosteal trauma and rib, spine, pelvic, and acromion fractures.</p>
+<p><strong>Head Trauma</strong></p>
+<p>Though less frequent than skeletal injuries, most child abuse fatalities are the result of head trauma, and head injury due to child abuse is the principal cause of death in children younger than 2 years of age. Subdural hematoma is the most commonly seen intracranial abnormality. Additional craniocerebral injuries include cerebral contusion, epidural hematoma, cerebral edema, subarachnoid hemorrhage, and unilateral hypoxic-ischemic injury.</p>
+<p>Imaging the head in children with suspected abuse depends on the child's age and type of presentation. In children with skull fractures or clinical signs and symptoms of intracranial injury, an immediate noncontrast computed tomography (CT) scan of the head should be performed. If the CT scan does not detect significant lesions that require rapid neurosurgical intervention and the clinical presentation warrants further assessment, a magnetic resonance imaging (MRI) scan of the head should be performed. The MRI should include T1- and T2-weighted sequences with proton density or inversion recovery and gradient echo sequences. In addition, diffusion-weighted sequences are suggested to indicate whether acute cerebral injury is present. In a child with an abnormal CT, additional assessment with MRI should be considered to further assess the extent of post-traumatic injury.</p>
+<p>There are varying opinions on how to image children who are suspected abuse victims and show no objective evidence suggesting intracranial injury. Children, especially those younger than 12 months of age, may have significant intracranial injury without signs or symptoms of head injury. Findings of physical examination, in particular the absence of retinal hemorrhages, should not be used to determine the need for imaging, as intracranial injury may occur in the absence of retinal hemorrhages. Skull radiographs are also unreliable. Though skull radiographs may detect fractures associated with intracranial pathology, they do not provide adequate screening, since significant traumatic intracranial pathology may occur in the absence of skull fractures.</p>
+<p>In one study 37% of children younger than 2 years of age with &quot;high-risk&quot; criteria (defined as rib fractures, multiple fractures, facial injury, or younger than 6 months of age) and without overt signs of head injury who underwent head CT or MRI had occult head injury. In this study, 18 of the 19 children with occult head injury were younger than 1 year of age. Another study of 51 children younger than 4 years of age with no signs of intracranial injury who underwent skeletal survey for abuse found that 29% of those who underwent neuroimaging had evidence of intracranial injury that included subdural hematoma, epidural hematoma, or cerebral edema. Given these studies, clinicians should have a relatively low threshold for performing either CT or MRI of the head in children with suspected abuse. MRI avoids the radiation of CT and is a particularly good choice in the nonemergent setting to image these &quot;high-risk&quot; children without overt neurologic signs or symptoms.</p>
+<p><strong>Nonskeletal Chest, Abdomen, and Pelvic Injuries</strong></p>
+<p>Nonskeletal injuries to the chest, abdomen, and pelvis can occur as the result of child abuse. Injuries to the chest are rare, but may include hemopericardium, cardiac contusions and lacerations, pleural effusion, lung contusions, and chylothorax. Nonskeletal injuries to the abdomen and pelvis include pancreatitis, pancreatic pseudocysts, and lacerations and contusions of the liver, adrenal gland, spleen, and kidneys as well as injury and rupture of the bladder and bowel. Clinical findings of abdominal pain, abdominal distension, vomiting, abdominal wall bruising, and hypoactive or absent bowel sounds may be seen in children with intra-abdominal injury. Abnormal liver transaminases and pancreatic enzymes suggest the presence of occult abdominal trauma. Victims of nonaccidental abdominal trauma tend to be younger and have a more delayed presentation than those who experience accidental trauma. The delay in presentation may be related to the caretaker's delay in bringing the patient to medical attention, inconsistent history, or the vagueness of symptoms that may accompany the injuries. In addition, independent of concomitant injury, blunt trauma due to child abuse is associated with a six-fold increase in odds of death compared to children whose injuries resulted from other mechanisms.</p>
+<p>In most cases, imaging for assessing these injuries will be directed by the patient's clinical presentation or concerning findings on conventional radiographs and consists of a CT scan of the involved body part. CT scan of the chest should generally be performed with intravenous (IV) contrast to detect vascular injuries. CT scan for suspected intra-abdominal injury should include both the abdomen and pelvis and should be performed with IV contrast. The need for oral contrast is at the discretion of the radiologist, and its use should be strongly considered when there is concern for duodenal hematoma. Parenchymal or late arterial phase imaging is most helpful for detecting solid-organ injury. Delayed, excretory phase imaging is recommended if imaging findings suggest disruption of the genitourinary tract. In patients with spinal injury, either CT or MRI should be performed, depending on the severity of the patient's signs and symptoms. CT scan is recommended to assess fractures. MRI is the preferred imaging examination to assess the spinal cord in the presence of neurologic deficits.</p>
+<p>Child abuse should be considered in any age child with thoracoabdominal injuries that are not consistent with the provided history. A skeletal survey can be helpful by detecting the presence of other injuries and may confirm the diagnosis of abuse. As a result, skeletal survey is recommended in children 24 months of age or younger when an apparently isolated thoracoabdominal injury is found and raises the possibility of physical abuse. In addition, a skeletal survey should be strongly considered in older patients in the same clinical setting.</p>
+<p><strong>Summary</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The appropriate imaging of pediatric patients being evaluated for suspected physical abuse depends on the age of the child, the presence of neurologic signs and symptoms, evidence of thoracic or abdominopelvic injuries, and whether the child's injuries are discrepant with the clinical history. </li>
+    <li>An x-ray skeletal survey is always indicated in a child 24 months of age, or younger. In older children, a skeletal survey can be performed, but it is often more appropriate to tailor the radiographs to the area(s) of suspected injury. </li>
+    <li>CT scan of the head without contrast is always indicated in a patient with seizures or neurologic signs and symptoms and when there is a history of head trauma. </li>
+    <li>CT scan of the head should be strongly considered in &quot;high-risk&quot; children (rib fractures, multiple fractures, facial injury, or are 6 months of age, or younger) and children with thoracic and/or abdominopelvic injuries and a discrepant clinical history. </li>
+    <li>MRI of the head may be needed for further assessment after a head CT and may be useful whether the head CT is positive or negative. When the child is symptomatic, however, the head CT should not be delayed if an MRI is to be obtained. </li>
+    <li>Whole-body Technetium (Tc)-99m bone scan may be helpful if the x-ray skeletal survey is negative and a high clinical suspicion remains. </li>
+    <li>CT scans of the chest, abdomen, and/or pelvis are indicated if there are signs and symptoms of abuse or if abnormal findings are seen on conventional radiography, particularly when there is a discrepancy with clinical history. </li>
+    <li>CT scan of the abdomen and pelvis should always be performed with IV contrast unless the patient has an absolute contraindication to it. </li>
+</ul>
+<p><strong>Anticipated Exceptions</strong></p>
+<p>Nephrogenic systemic fibrosis (NSF) is a disorder with a scleroderma-like presentation and a spectrum of manifestations that can range from limited clinical sequelae to fatality. It appears to be related to both underlying severe renal dysfunction and the administration of gadolinium-based contrast agents. It has occurred primarily in patients on dialysis, rarely in patients with very limited glomerular filtration rate (GFR) (i.e., &amp;lt;30 mL/min/1.73 m<sup>2</sup>), and almost never in other patients. There is growing literature regarding NSF. Although some controversy and lack of clarity remain, there is a consensus that it is advisable to avoid all gadolinium-based contrast agents in dialysis-dependent patients unless the possible benefits clearly outweigh the risk, and to limit the type and amount in patients with estimated GFR rates &amp;lt;30 mL/min/1.73 m<sup>2</sup>. For more information, please see the American College of Radiology (ACR) Manual on Contrast Media (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p><strong>Abbreviations</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>CT, computed tomography </li>
+    <li>IV, intravenous </li>
+    <li>MRI, magnetic resonance imaging </li>
+    <li>Tc, technetium </li>
+</ul>
+<p><strong>Relative Radiation Level Designations</strong></p>
+<table width=&quot;50%&quot; border=&quot;1&quot; cellspacing=&quot;3&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Relative Radiation Level Definitions&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Relative Radiation Level*</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Adult Effective Dose Estimate Range</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Pediatric Effective Dose Estimate Range</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>&amp;lt;0.1 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>&amp;lt;0.03 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0.1-1 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0.03-0.3 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1-10 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0.3-3 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>10-30 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3-10 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>30-100 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>10-30 mSv</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>*RRL assignments for some of the examinations cannot be made, because the actual patient doses in these procedures vary as a function of a number of factors (e.g., region of the body exposed to ionizing radiation, the imaging guidance that is used). The RRLs for these examinations are designated as &amp;ldquo;Varies.&amp;rdquo;</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Algorithms were not developed from criteria guidelines.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Suspected physical abuse of children</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Neurology"/>
+      <fieldvalue value="Pediatrics"/>
+      <fieldvalue value="Radiology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Health Plans"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Managed Care Organizations"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Utilization Management"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To evaluate the appropriateness of initial radiologic examinations for children suspected of being physically abused</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Children suspected of being physically abused</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>X-ray skeletal survey </li>
+    <li>Computed tomography (CT)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Head with contrast </li>
+        <li>Head without contrast </li>
+        <li>Head without and with contrast </li>
+        <li>Abdomen and pelvis with contrast </li>
+        <li>Abdomen and pelvis without contrast </li>
+        <li>Abdomen and pelvis without and with contrast </li>
+        <li>Chest with contrast </li>
+        <li>Chest without contrast </li>
+        <li>Chest without and with contrast </li>
+    </ul>
+    <ul></ul>
+        </li>
+        <li>Magnetic resonance imaging (MRI)
+        <ul style=&quot;list-style-type: disc;&quot;>
+            <li>Head without contrast </li>
+            <li>Head without and with contrast </li>
+        </ul>
+        </li>
+        <li>Technetium (Tc)-99m bone scan whole body </li>
+    </ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Utility of radiologic examinations in differential diagnosis</p></div>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Literature Search Procedure</strong></p>
+<p>The Medline literature search is based on keywords provided by the topic author. The two general classes of keywords are those related to the condition (e.g., ankle pain, fever) and those that describe the diagnostic or therapeutic intervention of interest (e.g., mammography, MRI).</p>
+<p>The search terms and parameters are manipulated to produce the most relevant, current evidence to address the American College of Radiology Appropriateness Criteria (ACR AC) topic being reviewed or developed. Combining the clinical conditions and diagnostic modalities or therapeutic procedures narrows the search to be relevant to the topic. Exploding the term &quot;diagnostic imaging&quot; captures relevant results for diagnostic topics.</p>
+<p>The following criteria/limits are used in the searches.</p>
+<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>Articles that have abstracts available and are concerned with humans. </li>
+    <li>Restrict the search to the year prior to the last topic update or in some cases the author of the topic may specify which year range to use in the search. For new topics, the year range is restricted to the last 5 years unless the topic author provides other instructions. </li>
+    <li>May restrict the search to Adults only or Pediatrics only. </li>
+    <li>Articles consisting of only summaries or case reports are often excluded from final results. </li>
+</ol>
+<p>The search strategy may be revised to improve the output as needed.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The total number of source documents identified as the result of the literature search is not known.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Strength of Evidence Key</strong></p>
+<p>Category 1 - The conclusions of the study are valid and strongly supported by study design, analysis and results.</p>
+<p>Category 2 - The conclusions of the study are likely valid, but study design does not permit certainty.</p>
+<p>Category 3 - The conclusions of the study may be valid but the evidence supporting the conclusions is inconclusive or equivocal.</p>
+<p>Category 4 - The conclusions of the study may not be valid because the evidence may not be reliable given the study design or analysis.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The topic author drafts or revises the narrative text summarizing the evidence found in the literature. American College of Radiology (ACR) staff draft an evidence table based on the analysis of the selected literature. These tables rate the strength of the evidence for all articles included in the narrative text.</p>
+<p>The expert panel reviews the narrative text, evidence table, and the supporting literature for each of the topic-variant combinations and assigns an appropriateness rating for each procedure listed in the table. Each individual panel member forms his/her own opinion based on his/her interpretation of the available evidence.</p>
+<p>More information about the evidence table development process can be found in the ACR Appropriateness Criteria&amp;reg; Evidence Table Development document (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus (Delphi)"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Modified Delphi Technique</strong></p>
+<p>The appropriateness ratings for each of the procedures included in the Appropriateness Criteria topics are determined using a modified Delphi methodology. A series of surveys are conducted to elicit each panelist's expert interpretation of the evidence, based on the available data, regarding the appropriateness of an imaging or therapeutic procedure for a specific clinical scenario. American College of Radiology (ACR) staff distributes surveys to the panelists along with the evidence table and narrative. Each panelist interprets the available evidence and rates each procedure. The surveys are completed by panelists without consulting other panelists. The ratings are a scale between 1 and 9, which is further divided into three categories: 1, 2, or 3 is defined as &quot;usually not appropriate&quot;; 4, 5, or 6 is defined as &quot;may be appropriate&quot;; and 7, 8, or 9 is defined as &quot;usually appropriate.&quot; Each panel member assigns one rating for each procedure per survey round. The surveys are collected and the results are tabulated, de-identified and redistributed after each round. A maximum of three rounds are conducted. The modified Delphi technique enables each panelist to express individual interpretations of the evidence and his or her expert opinion without excessive bias from fellow panelists in a simple, standardized and economical process.</p>
+<p>Consensus among the panel members must be achieved to determine the final rating for each procedure. Consensus is defined as eighty percent (80%) agreement within a rating category. The final rating is determined by the median of all the ratings once consensus has been reached. Up to three ratings rounds are conducted to achieve consensus.</p>
+<p>If consensus is not reached, the panel is convened by conference call. The strengths and weaknesses of each imaging procedure that has not reached consensus are discussed and a final rating is proposed. If the panelists on the call agree, the rating is proposed as the panel's consensus. The document is circulated to all the panelists to make the final determination. If consensus cannot be reached on the call or when the document is circulated, &quot;No consensus&quot; appears in the rating column and the reasons for this decision are added to the comment sections.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Criteria developed by the Expert Panels are reviewed by the American College of Radiology (ACR) Committee on Appropriateness Criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The recommendations are based on analysis of the current literature and expert panel consensus.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Selection of appropriate radiologic imaging procedures for evaluation of children suspected of physical abuse</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Gadolinium-based Contrast Agents</strong></p>
+<p>Nephrogenic systemic fibrosis (NSF) is a disorder with a scleroderma-like presentation and a spectrum of manifestations that can range from limited clinical sequelae to fatality. It appears to be related to both underlying severe renal dysfunction and the administration of gadolinium-based contrast agents. It has occurred primarily in patients on dialysis, rarely in patients with very limited glomerular filtration rate (GFR) (i.e., &amp;lt;30 mL/min/1.73 m<sup>2</sup>), and almost never in other patients. Although some controversy and lack of clarity remain, there is a consensus that it is advisable to avoid all gadolinium-based contrast agents in dialysis-dependent patients unless the possible benefits clearly outweigh the risk, and to limit the type and amount in patients with estimated GFR rates &amp;lt;30 mL/min/1.73 m<sup>2</sup>. For more information, please see the American College of Radiology (ACR) Manual on Contrast Media (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p><strong>Relative Radiation Level (RRL)</strong></p>
+<p>Potential adverse health effects associated with radiation exposure are an important factor to consider when selecting the appropriate imaging procedure. Because there is a wide range of radiation exposures associated with different diagnostic procedures, a RRL indication has been included for each imaging examination. The RRLs are based on effective dose, which is a radiation dose quantity that is used to estimate population total radiation risk associated with an imaging procedure. Patients in the pediatric age group are at inherently higher risk from exposure, both because of organ sensitivity and longer life expectancy (relevant to the long latency that appears to accompany radiation exposure). For these reasons, the RRL dose estimate ranges for pediatric examinations are lower as compared to those specified for adults. Additional information regarding radiation dose assessment for imaging examinations can be found in the ACR Appropriateness Criteria&amp;reg; Radiation Dose Assessment Introduction document (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American College of Radiology (ACR) Committee on Appropriateness Criteria and its expert panels have developed criteria for determining appropriate imaging examinations for diagnosis and treatment of specified medical condition(s). These criteria are intended to guide radiologists, radiation oncologists, and referring physicians in making decisions regarding radiologic imaging and treatment. Generally, the complexity and severity of a patient's clinical condition should dictate the selection of appropriate imaging procedures or treatments. Only those examinations generally used for evaluation of the patient's condition are ranked. Other imaging studies necessary to evaluate other co-existent diseases or other medical consequences of this condition are not considered in this document. The availability of equipment or personnel may influence the selection of appropriate imaging procedures or treatments. Imaging techniques classified as investigational by the U.S. Food and Drug Administration (FDA) have not been considered in developing these criteria; however, study of new equipment and applications should be encouraged. The ultimate decision regarding the appropriateness of any specific radiologic examination or treatment must be made by the referring physician and radiologist in light of all the circumstances presented in an individual examination.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Meyer JS, Coley BD, Karmazyn B, Binkovitz LA, Dempsey-Robertson ME, Dillman JR, Dory CE, Garber M, Hayes LL, Keller MS, Kulkarni AV, Milla SS, Myseros JS, Paidas C, Widmann RF, Raske ME, Rigsby CK, Strouse PJ, Wootton-Gorges SL, Expert Panel on Pediatric Imaging. ACR Appropriateness Criteria® suspected physical abuse -- child. [online publication]. Reston (VA): American College of Radiology (ACR); 2012. 9 p.  [50 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="1995 (revised 2012)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American College of Radiology - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American College of Radiology (ACR) provided the funding and the resources for these ACR Appropriateness Criteria&amp;reg;.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Committee on Appropriateness Criteria, Expert Panel on Pediatric Imaging</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Panel Members</em>: James S. Meyer, MD (<em>Principal Author</em>); Brian D. Coley, MD (<em>Panel Chair</em>); Boaz Karmazyn, MD (<em>Panel Vice-chair</em>); Larry A. Binkovitz, MD; Molly E. Dempsey-Robertson, MD; Jonathan R. Dillman, MD; Christopher E. Dory, MD; Matthew Garber, MD; Laura L. Hayes, MD; Marc S. Keller, MD; Abhaya V. Kulkarni, MD; Sarah S. Milla, MD; John S. Myseros, MD; Charles Paidas, MD; Roger F. Widmann, MD; Molly E. Raske, MD; Cynthia K. Rigsby, MD; Peter J. Strouse, MD; Sandra L. Wootton-Gorges, MD</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Meyer JS, Gunderman R, Coley BD, Bulas D, Garber M, Karmazyn BK, Keller MS, Kulkarni AV, Milla SS, Myseros JS, Paidas C, Pizzutillo PD, Podberesky DJ, Prince JS, Ragheb J, Expert Panel on Pediatric Imaging. ACR Appropriateness Criteria&amp;reg; suspected physical abuse - child. [online publication]. Reston (VA): American College of Radiology (ACR); 2009. 8 p.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;https://acsearch.acr.org/docs/69443/Narrative&quot; title=&quot;ACR Web site&quot;>American College of Radiology (ACR) Web site</a>.</p>
+<p>Print copies: Available from the American College of Radiology, 1891 Preston White Drive, Reston, VA 20191. Telephone: (703) 648-8900.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>ACR Appropriateness Criteria&amp;reg;. Overview. Reston (VA): American College of Radiology; 2 p. Electronic copies: Available in Portable Document Format (PDF) from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/Overview.pdf&quot; title=&quot;ACR Web site&quot;>American College of Radiology (ACR) Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Literature search process. Reston (VA): American College of Radiology; 1 p. Electronic copies: Available in PDF from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/LiteratureSearchProcess.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Evidence table development &amp;ndash; diagnostic studies. Reston (VA): American College of Radiology; 2013 Nov. 3 p. Electronic copies: Available in PDF from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/ETDevDiagnostic.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Radiation dose assessment introduction. Reston (VA): American College of Radiology; 3 p. Electronic copies: Available in PDF from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/RadiationDoseAssessmentIntro.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Manual on contrast media. Reston (VA): American College of Radiology; 90 p. Electronic copies: Available in PDF from the <a href=&quot;http://www.acr.org/Quality-Safety/Resources/Contrast-Manual&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Procedure information. Reston (VA): American College of Radiology; 1 p. Electronic copies: Available in PDF from the <a href=&quot;http://www.acr.org/~/media/E77E9964C8224151BE6D21A7CE68FEE4.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg; suspected physical abuse &amp;mdash; child. Evidence table. Reston (VA): American College of Radiology; 2012. 12 p. Electronic copies: Available from the <a href=&quot;https://acsearch.acr.org/docs/69443/ET&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI on March 30, 2006. This NGC summary was updated by ECRI Institute on December 13, 2010. This NGC summary was updated by ECRI Institute on November 14, 2012.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Instructions for downloading, use, and reproduction of the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; may be found on the <a href=&quot;http://www.acr.org/Quality-Safety/Appropriateness-Criteria/TermsConditions&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 18:08:28 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:09:21 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 58.327 (3)
+  esindex: 0.006
+  captures_list: 73.488
+  CDXLines.iter: 11.198 (3)
+  PetaboxLoader3.datanode: 50.581 (4)
+  exclusion.robots: 0.267
+  exclusion.robots.policy: 0.256
+  RedisCDXSource: 1.486
+  PetaboxLoader3.resolve: 105.925
+  load_resource: 118.057
+-->

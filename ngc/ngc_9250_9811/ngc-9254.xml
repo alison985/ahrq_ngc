@@ -1,0 +1,587 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app58.us.archive.org';v.server_ms=470;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-9254?contentType=xml', '20160930180837')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930180837/https://www.guideline.gov/summaries/downloadcontent/ngc-9254?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930180837/https://www.guideline.gov/summaries/downloadcontent/ngc-9254?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-9254?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930180837" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 18:08:37 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 18:08:37 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 18:08:37 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930180837*/https://www.guideline.gov/summaries/downloadcontent/ngc-9254?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-9254?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>ACR Appropriateness Criteria&amp;reg; sudden onset of cold, painful leg.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Weiss C, Azene E, Rybicki FJ, Kim HS, Desjardins B, Fan CM, Flamm SD, Francois CJ, Gerhard-Herman MD, Kalva SP, Mansour MA, Mohler ER III, Oliva IB, Schenker MP, Expert Panel on Vascular Imaging. ACR Appropriateness Criteria® sudden onset of cold, painful leg. [online publication]. Reston (VA): American College of Radiology (ACR); 2012. 6 p.  [50 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note</strong>: This guideline has been updated. The National Guideline Clearinghouse (NGC) is working to update this summary. </p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note</strong>: This guideline has been updated. The National Guideline Clearinghouse (NGC) is working to update this summary. The recommendations that follow are based on the previous version of the guideline.</p>
+<p><strong>ACR Appropriateness Criteria&amp;reg;</strong></p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Clinical Condition</span>: Sudden Onset of Cold, Painful Leg</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Sudden Onset of Cold, Painful Leg&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;30%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Radiologic Procedure</th>
+            <th width=&quot;20%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Rating</th>
+            <th width=&quot;40%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>Comments</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;bottom&quot; scope=&quot;col&quot;>RRL*</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>Arteriography lower extremity </td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>8</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CTA lower extremity with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>7</td>
+            <td valign=&quot;top&quot;>Distal abdominal aorta should be included.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRA lower extremity without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>7</td>
+            <td valign=&quot;top&quot;>Distal abdominal aorta should be included. See statement regarding contrast in text under &quot;Anticipated Exceptions.&quot;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>Segmental Doppler pressures and pulse volume recordings</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>6</td>
+            <td valign=&quot;top&quot;>Not required in the acute setting but may provide important physiologic information not obtained on imaging studies to help direct care.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRA lower extremity without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>US lower extremity with Doppler</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td valign=&quot;top&quot;>Limitations include heavily calcified vessels and operator dependency. May be helpful for problem solving.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>US echocardiography transthoracic resting</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4</td>
+            <td valign=&quot;top&quot;>Generally not part of the initial workup. May be useful to look for source of emboli.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>US echocardiography transesophageal</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3</td>
+            <td valign=&quot;top&quot;>Generally not part of the initial workup. May be useful to look for source of emboli. More invasive and time-consuming than TTE but affords better visualization of the left atrium.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI heart function and morphology without contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>Generally not part of the initial workup. May be useful to look for source of emboli. Less accurate in the presence of atrial fibrillation and other irregular heart rhythms.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>MRI heart function and morphology without and with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>Generally not part of the initial workup. May be useful to look for source of emboli. Less accurate in the presence of atrial fibrillation and other irregular heart rhythms.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>CT heart function and morphology with contrast</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>2</td>
+            <td valign=&quot;top&quot;>Generally not part of the initial workup. May be useful to look for source of emboli. Less accurate in the presence of atrial fibrillation and other irregular heart rhythms.</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+        </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <th valign=&quot;top&quot; colspan=&quot;3&quot;><span style=&quot;text-decoration: underline;&quot;>Rating Scale</span>: 1,2,3 Usually not appropriate; 4,5,6 May be appropriate; 7,8,9 Usually appropriate</th>
+        <th class=&quot;Center&quot; valign=&quot;top&quot;>*Relative Radiation Level</th>
+    </tr>
+    </tfoot>
+</table>
+<p>Note: Abbreviations used in the table are listed at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Summary of Literature Review</span></strong></p>
+<p><strong>Introduction/Background</strong></p>
+<p>Acute onset of a cold painful leg, although not directly a significant cause of mortality, contributes significantly to morbidity. The etiologies are limited, the most common being arterial occlusion. Total venous outflow occlusion is another but much less common cause. It often results in what is known clinically as &quot;phlegmasia cerulea dolens&quot; (precursor to venous gangrene) with lower extremity swelling, pain, and a dusky color. It is differentiated from arterial occlusion by the presence of distal arterial pulses. Other causes, such as prolonged exposure to cold and trauma, are rare and usually clinically obvious.</p>
+<p>This condition generally requires urgent treatment, regardless of the etiology. Once the etiology is clinically defined, directing appropriate care of the patient requires assessing the source (i.e., embolic versus thrombotic occlusion) and extent of the underlying arterial obstruction. The available alternatives include noninvasive testing: duplex ultrasound (US), magnetic resonance angiography (MRA), computed tomography angiography (CTA), and catheter angiography.</p>
+<p><strong>Catheter Angiography</strong></p>
+<p>Digital subtraction angiography (DSA) remains the diagnostic gold standard for detecting peripheral vascular occlusive disease, but new and less invasive modalities are gradually replacing it. The ability to diagnose and treat disease in a single procedure is a major benefit of DSA that remains unmatched in the treatment of acute ischemic vascular disease. There has been extensive debate regarding the cost-benefit ratios when comparing DSA and MRA. Because of the invasive character of DSA, there is a recovery period typically lasting 4 hours or more. In some countries, patients remain in the hospital overnight. If complications from DSA occur, additional intervention and prolongation of the hospital stay may add cost as well as morbidity or even mortality. To be truly cost-effective, any noninvasive method would have to supplant DSA, not just precede or supplement it.</p>
+<p>The reported incidence of complications with DSA varies greatly. There are also risks associated with iodinated contrast agents. Most worrisome are the rare fatal systemic reactions and contrast-induced nephropathy (CIN). The nephrotoxic effects are important to consider, as many patients who present with the sudden onset of a cold, painful leg are elderly, diabetic, and have impaired renal function. Also, many patients will have repeated catheter angiography over the course of their disease, and minimizing patient radiation exposure should always be considered. Angiography has also been criticized for its imperfect evaluation of outflow vessels, specifically for limited visualization of pedal vasculature and patent distal vessels beyond significant obstructive lesions.</p>
+<p><strong>Magnetic Resonance Angiography</strong></p>
+<p>MRA has high sensitivity and specificity for detecting arterial occlusive disease, using DSA as a gold standard. Early sequences required protocols with 30 minutes of gradient time or more. However, modern technology&amp;mdash;3 Tesla main fields, parallel imaging, multi-channel coils, sequences such as time-resolved MRA, and enhanced acquisition speed&amp;mdash;enables rapid assessment of acute limb ischemia. In addition to decreased total examination times, faster acquisition reduces motion artifact and venous contamination. Motion artifact can also be corrected with automated image registration protocols. Improved spatial resolution translates to thinner slices and clearer depiction of small vessels. Most information needed for the interventionalist or vascular surgeon is routinely illustrated with MRA, such as a general road map of arterial anatomy, including runoff vessels and collaterals, as well as the location and extent of significant stenoses and occlusions.</p>
+<p>Limitations include less accurate evaluation of smaller arteries, which means that more time-consuming sequences are required to get better results. Also, limited information can currently be obtained on a routine basis regarding the character of vessel walls and detailed flow dynamics, although time-resolved contrast-enhanced MRA techniques are beginning to provide qualitative flow information. Overestimation of stenosis has been reported in native arteries and in patients with vascular stents secondary to artifacts. Overestimation in native arteries varies among sequences and may or may not be a clinical problem in specific cases. This uncertainty highlights the poor consensus on optimal protocols. In part, this is a function of the continuing evolution of technology, both software and hardware.</p>
+<p>Another concern with MRA is that most techniques have required the administration of a gadolinium-based contrast agent. Although MRA has few associated complications, with the realization of the risk of nephrogenic systemic fibrosis (NSF) in patients with underlying renal dysfunction who receive these contrast agents (see &quot;Anticipated Exceptions&quot; below), there has been increased interest in using other modalities or limiting the use of gadolinium-based contrast agent in such patients. Significantly lower contrast doses can be used at 3 Tesla compared to 1.5 Tesla without compromising image quality. Noncontrast MRA may prove useful, although there is only anecdotal experience in patients with critical limb ischemia (CLI). Further improvements will be required, particularly in techniques for assessing pedal circulation. Finally, blood-pool gadolinium-chelate contrast agents have prolonged retention in the intravascular space and allow for steady-state imaging that, in turn, can enable high spatial resolution acquisitions. Additional studies will be needed to confirm potential clinical benefits and cost-effectiveness of such agents.</p>
+<p><strong>Computed Tomography Angiography</strong></p>
+<p>Multi-detector-row technology has dramatically shortened CT acquisition times, improved spatial resolution, and improved vascular image quality depicted with CT. Multidetector CT (MDCT) scanners can image from the diaphragm to the ankles &amp;lt;30 seconds using a single-contrast bolus. The use of 64-row or greater MDCT significantly increases the accuracy of stenosis detection, particularly in smaller vessels. Dynamic, time-resolved, &quot;4D&quot; CTA may improve accuracy even further. However additional studies are needed before this can be confirmed.</p>
+<p>Sophisticated postprocessing tools enable multiplanar visualization in all three orthogonal axes as well as in any oblique axis. In addition to multiplanar reconstructions, both volume rendering and maximum-intensity projections can be used, each with advantages and disadvantages. Maximum-intensity projections are very accurate for larger vessels (as distal as the infrapopliteal region) but less accurate for smaller vessels. Volume rendering, including endoluminal reconstruction, is good for evaluating embolic or vascular endothelial injury. It is also valuable in evaluating heavily calcified vessels. However, interpretation from volume-rendered images or maximum-intensity projections alone is insufficient to characterize vascular lesions and should always be accompanied by an assessment of the raw axial dataset and multiplanar reformatted images.</p>
+<p>CTA has proven comparably accurate to MRA in evaluating peripheral arterial diseases. The advantages of CTA over MRA are its excellent spatial resolution, widespread availability, cost-effectiveness, and usability in patients who have contraindications to MRI, such as those who have pacemakers or defibrillators. The literature focused on patients with CLI is limited, although one study showed that CTA can help ensure correct treatment recommendations.</p>
+<p>One disadvantage of CTA is the limited ability to depict the lumen in heavily calcified arteries. Calcium-induced artifact causes an overestimation of stenosis. In theory, dual-energy CTA can provide data from two kV settings which can then be used to distinguish between vascular calcium and iodinated contrast agent. Initial studies have shown improved accuracy of stenosis detection and grading with dual-energy CTA compared to conventional CTA. However, early studies also suggest dual-energy CTA may still overestimate high-grade vessel stenosis as occlusion. Dual-energy CTA may also correlate less well with DSA in calcified calf and pedal arteries. Expanded clinical use of dual-energy CTA will require further validation and assessment of relative radiation doses.</p>
+<p>Complications related to iodinated contrast are similar to those in catheter-based angiography and have been discussed above. Cumulative radiation dose is also a concern; CTA has been increasingly used for both preprocedural planning and postprocedure surveillance. Recent advances in hardware and software, however, have achieved lower radiation dosages for a single CTA examination. Also, techniques tailored to the evaluation of lower-limb vasculature have been published that allow reduced patient radiation by decreasing kVp, while preserving the ability to evaluate the smaller lower-limb vessels. Decreasing kVp also has the added advantage of allowing lower doses of iodinated contrast as kVp approaches the iodine K-edge.</p>
+<p><strong>Other Imaging Examinations</strong></p>
+<p>In this patient population, duplex US is limited by the need for operator expertise, by poor accessibility of vessels, by heavy calcification, and often by poor overall accuracy if multilevel disease is present. Its advantages are that it can provide useful physiologic as well as anatomic information. Further, it is noninvasive, widely available, and relatively inexpensive.</p>
+<p>Transthoracic echocardiography (TTE) or the more specific and invasive transesophageal echocardiography (TEE) may be useful if patient symptoms could be from cardiac embolization, particularly in patients with known atrial fibrillation. In the acute setting, however, this knowledge is unlikely to influence the immediate evaluation. Similarly, cardiac CT or MRI may identify or exclude cardiac thrombus or areas of cardiac dysfunction that might be the source of emboli, but this knowledge is not likely to have clinical impact in the acute setting.</p>
+<p><strong>Noninvasive Physiologic Testing</strong></p>
+<p>Noninvasive physiologic testing includes measurement of ankle-brachial index (ABI), segmental blood pressures and pulse-volume recordings, transcutaneous oxygen pressure measurement (TcPO2), and exercise treadmill testing. ABI measurement is simple and reliable and serves both as confirmation of arterial occlusion as the etiology of sudden onset of cold leg and as a baseline to guide further intervention. Useful physiologic information may also be obtained. In this clinical setting, other noninvasive tests generally are not helpful, as they do not provide specific information that will alter or guide therapy.</p>
+<p><strong>Summary</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>DSA remains the gold standard for diagnosing peripheral vascular disease and continues to be the only modality that allows diagnosis and simultaneous treatment of pathology. This advantage alone will ensure that it continues to be a valuable tool. </li>
+    <li>Noninvasive imaging with MRA or CTA before catheter angiography or surgery is accepted and common. Both MRA and CTA can be used for diagnosis and can positively influence management into percutaneous or surgical. </li>
+    <li>Other imaging and noninvasive physiologic testing may prove important for longer-term management but are less recommended in the acute setting. </li>
+    <li>Peripheral vascular disease is a significant and growing problem, and continued research and development of current and emerging technologies will ultimately shape the standard of care. </li>
+</ul>
+<p><strong>Anticipated Exceptions</strong></p>
+<p>Nephrogenic systemic fibrosis (NSF) is a disorder with a scleroderma-like presentation and a spectrum of manifestations that can range from limited clinical sequelae to fatality. It appears to be related to both underlying severe renal dysfunction and the administration of gadolinium-based contrast agents. It has occurred primarily in patients on dialysis, rarely in patients with very limited glomerular filtration rate (GFR) (i.e., &amp;lt;30 mL/min/1.73 m<sup>2</sup>), and almost never in other patients. There is growing literature regarding NSF. Although some controversy and lack of clarity remain, there is a consensus that it is advisable to avoid all gadolinium-based contrast agents in dialysis-dependent patients unless the possible benefits clearly outweigh the risk, and to limit the type and amount in patients with estimated GFR rates &amp;lt;30 mL/min/1.73 m<sup>2</sup>. For more information, please see the American College of Radiology (ACR) Manual on Contrast Media (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p><strong>Abbreviations</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>CT, computed tomography </li>
+    <li>CTA, computed tomography angiography </li>
+    <li>MRA, magnetic resonance angiography </li>
+    <li>MRI, magnetic resonance imaging </li>
+    <li>TTE, transthoracic echocardiography </li>
+    <li>US, ultrasound </li>
+</ul>
+<p><strong>Relative Radiation Level Designations</strong></p>
+<table width=&quot;50%&quot; border=&quot;1&quot; cellspacing=&quot;3&quot; cellpadding=&quot;5&quot; summary=&quot;Table: Relative Radiation Level Definitions&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Relative Radiation Level*</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Adult Effective Dose Estimate Range</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Pediatric Effective Dose Estimate Range</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>O</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>&amp;lt;0.1 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>&amp;lt;0.03 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0.1-1 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0.03-0.3 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1-10 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0.3-3 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>10-30 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>3-10 mSv</td>
+        </tr>
+        <tr>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;><img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /> <img alt=&quot;radioactive&quot; src=&quot;http://guideline.gov/images/image_radioactive.gif &quot; /></td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>30-100 mSv</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>10-30 mSv</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot; colspan=&quot;3&quot;>*RRL assignments for some of the examinations cannot be made, because the actual patient doses in these procedures vary as a function of a number of factors (e.g., region of the body exposed to ionizing radiation, the imaging guidance that is used). The RRLs for these examinations are designated as &amp;ldquo;Varies.&amp;rdquo;</td>
+        </tr>
+    </tbody>
+</table></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Algorithms were not developed from criteria guidelines.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Sudden onset of cold, painful leg</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Emergency Medicine"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Radiology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Health Plans"/>
+      <fieldvalue value="Hospitals"/>
+      <fieldvalue value="Managed Care Organizations"/>
+      <fieldvalue value="Physicians"/>
+      <fieldvalue value="Utilization Management"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To evaluate the appropriateness of initial radiologic examinations for sudden onset of cold, painful leg</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients with sudden onset of cold, painful leg</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>Arteriography lower extremity </li>
+    <li>Computed tomography angiography (CTA) lower extremity with contrast </li>
+    <li>Magnetic resonance angiography (MRA) lower extremity
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Without and with contrast </li>
+        <li>Without contrast </li>
+    </ul>
+    </li>
+    <li>Segmental Doppler pressures and pulse volume recordings </li>
+    <li>Ultrasound (US)
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Lower extremity with Doppler </li>
+        <li>Echocardiography transthoracic resting </li>
+        <li>Echocardiography transesophageal </li>
+    </ul>
+    </li>
+    <li>Magnetic resonance imaging (MRI) heart function and morphology
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Without and with contrast </li>
+        <li>Without contrast </li>
+    </ul>
+    </li>
+    <li>Computed tomography (CT) heart function and morphology with contrast </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Utility of radiologic examinations in differential diagnosis</p></div>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Literature Search Procedure</strong></p>
+<p>The Medline literature search is based on keywords provided by the topic author. The two general classes of keywords are those related to the condition (e.g., ankle pain, fever) and those that describe the diagnostic or therapeutic intervention of interest (e.g., mammography, MRI).</p>
+<p>The search terms and parameters are manipulated to produce the most relevant, current evidence to address the American College of Radiology Appropriateness Criteria (ACR AC) topic being reviewed or developed. Combining the clinical conditions and diagnostic modalities or therapeutic procedures narrows the search to be relevant to the topic. Exploding the term &quot;diagnostic imaging&quot; captures relevant results for diagnostic topics.</p>
+<p>The following criteria/limits are used in the searches.</p>
+<ol style=&quot;list-style-type: decimal;&quot;>
+    <li>Articles that have abstracts available and are concerned with humans. </li>
+    <li>Restrict the search to the year prior to the last topic update or in some cases the author of the topic may specify which year range to use in the search. For new topics, the year range is restricted to the last 5 years unless the topic author provides other instructions. </li>
+    <li>May restrict the search to Adults only or Pediatrics only. </li>
+    <li>Articles consisting of only summaries or case reports are often excluded from final results. </li>
+</ol>
+<p>The search strategy may be revised to improve the output as needed.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The total number of source documents identified as the result of the literature search is not known.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Strength of Evidence Key</strong></p>
+<p>Category 1 - The conclusions of the study are valid and strongly supported by study design, analysis and results.</p>
+<p>Category 2 - The conclusions of the study are likely valid, but study design does not permit certainty.</p>
+<p>Category 3 - The conclusions of the study may be valid but the evidence supporting the conclusions is inconclusive or equivocal.</p>
+<p>Category 4 - The conclusions of the study may not be valid because the evidence may not be reliable given the study design or analysis.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The topic author drafts or revises the narrative text summarizing the evidence found in the literature. American College of Radiology (ACR) staff draft an evidence table based on the analysis of the selected literature. These tables rate the strength of the evidence for all articles included in the narrative text.</p>
+<p>The expert panel reviews the narrative text, evidence table, and the supporting literature for each of the topic-variant combinations and assigns an appropriateness rating for each procedure listed in the table. Each individual panel member forms his/her own opinion based on his/her interpretation of the available evidence.</p>
+<p>More information about the evidence table development process can be found in the ACR Appropriateness Criteria&amp;reg; Evidence Table Development document (see the &quot;Availability of Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus (Delphi)"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Modified Delphi Technique</strong></p>
+<p>The appropriateness ratings for each of the procedures included in the Appropriateness Criteria topics are determined using a modified Delphi methodology. A series of surveys are conducted to elicit each panelist's expert interpretation of the evidence, based on the available data, regarding the appropriateness of an imaging or therapeutic procedure for a specific clinical scenario. American College of Radiology (ACR) staff distributes surveys to the panelists along with the evidence table and narrative. Each panelist interprets the available evidence and rates each procedure. The surveys are completed by panelists without consulting other panelists. The ratings are a scale between 1 and 9, which is further divided into three categories: 1, 2, or 3 is defined as &quot;usually not appropriate&quot;; 4, 5, or 6 is defined as &quot;may be appropriate&quot;; and 7, 8, or 9 is defined as &quot;usually appropriate.&quot; Each panel member assigns one rating for each procedure per survey round. The surveys are collected and the results are tabulated, de-identified and redistributed after each round. A maximum of three rounds are conducted. The modified Delphi technique enables each panelist to express individual interpretations of the evidence and his or her expert opinion without excessive bias from fellow panelists in a simple, standardized and economical process.</p>
+<p>Consensus among the panel members must be achieved to determine the final rating for each procedure. Consensus is defined as eighty percent (80%) agreement within a rating category. The final rating is determined by the median of all the ratings once consensus has been reached. Up to three rating rounds are conducted to achieve consensus.</p>
+<p>If consensus is not reached, the panel is convened by conference call. The strengths and weaknesses of each imaging procedure that has not reached consensus are discussed and a final rating is proposed. If the panelists on the call agree, the rating is accepted as the panel's consensus. The document is circulated to all the panelists to make the final determination. If consensus cannot be reached on the call or when the document is circulated, &quot;No consensus&quot; appears in the rating column and the reasons for this decision are added to the comment sections.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>There has been extensive debate regarding the cost-benefit ratios when comparing digital subtraction angiography (DSA) and magnetic resonance angiography (MRA). Because of the invasive character of DSA, there is a recovery period typically lasting 4 hours or more. In some countries, patients remain in the hospital overnight. If complications from DSA occur, additional intervention and prolongation of the hospital stay may add cost as well as morbidity or even mortality. To be truly cost-effective, any noninvasive method would have to supplant DSA, not just precede or supplement it. </li>
+    <li>The advantages of computed tomography angiography (CTA) over MRA are its excellent spatial resolution, widespread availability, cost-effectiveness, and usability in patients who have contraindications to magnetic resonance imaging (MRI), such as those who have pacemakers or defibrillators. </li>
+</ul>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Criteria developed by the Expert Panels are reviewed by the American College of Radiology (ACR) Committee on Appropriateness Criteria.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The recommendations are based on analysis of the current literature and expert panel consensus.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Selection of appropriate radiologic imaging procedures to aid in differential diagnosis of patients with sudden onset of cold, painful leg</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Because of the invasive character of digital subtraction angiography (DSA), there is a recovery period typically lasting 4 hours or more. In some countries, patients remain in the hospital overnight. If complications from DSA occur, additional intervention and prolongation of the hospital stay may add cost as well as morbidity or even mortality. </li>
+    <li>Potential complications of DSA include those related to the use of iodinated contrast agents. Most worrisome are the rare fatal systemic reactions and contrast-induced nephropathy (CIN). </li>
+    <li>The nephrotoxic effects of DSA are important to consider, as many patients who present with the sudden onset of a cold, painful leg are elderly, diabetic, and have impaired renal function. Also, many patients will have repeated angiography over the course of their disease, and minimizing patient radiation exposure should always be considered. </li>
+</ul>
+<p><strong>Gadolinium-based Contrast Agents</strong></p>
+<p>Nephrogenic systemic fibrosis (NSF) is a disorder with a scleroderma-like presentation and a spectrum of manifestations that can range from limited clinical sequelae to fatality. It appears to be related to both underlying severe renal dysfunction and the administration of gadolinium-based contrast agents. It has occurred primarily in patients on dialysis, rarely in patients with very limited glomerular filtration rate (GFR) (i.e., &amp;lt;30 mL/min/1.73 m<sup>2</sup>), and almost never in other patients. Although some controversy and lack of clarity remain, there is a consensus that it is advisable to avoid all gadolinium-based contrast agents in dialysis-dependent patients unless the possible benefits clearly outweigh the risk, and to limit the type and amount in patients with estimated GFR rates &amp;lt;30 mL/min/1.73 m<sup>2</sup>. For more information, please see the American College of Radiology (ACR) Manual on Contrast Media (see the &quot;Availability of Companion Documents&quot; field).</p>
+<p><strong>Relative Radiation Level (RRL)</strong></p>
+<p>Potential adverse health effects associated with radiation exposure are an important factor to consider when selecting the appropriate imaging procedure. Because there is a wide range of radiation exposures associated with different diagnostic procedures, a RRL indication has been included for each imaging examination. The RRLs are based on effective dose, which is a radiation dose quantity that is used to estimate population total radiation risk associated with an imaging procedure. Patients in the pediatric age group are at inherently higher risk from exposure, both because of organ sensitivity and longer life expectancy (relevant to the long latency that appears to accompany radiation exposure). For these reasons, the RRL dose estimate ranges for pediatric examinations are lower as compared to those specified for adults. Additional information regarding radiation dose assessment for imaging examinations can be found in the ACR Appropriateness Criteria&amp;reg; Radiation Dose Assessment Introduction document (see the &quot;Availability of Companion Documents&quot; field).</p>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Magnetic resonance imaging (MRI) is contraindicated in patients with pacemakers or defibrillators in place.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American College of Radiology (ACR) Committee on Appropriateness Criteria and its expert panels have developed criteria for determining appropriate imaging examinations for diagnosis and treatment of specified medical condition(s). These criteria are intended to guide radiologists, radiation oncologists, and referring physicians in making decisions regarding radiologic imaging and treatment. Generally, the complexity and severity of a patient's clinical condition should dictate the selection of appropriate imaging procedures or treatments. Only those examinations generally used for evaluation of the patient's condition are ranked. Other imaging studies necessary to evaluate other co-existent diseases or other medical consequences of this condition are not considered in this document. The availability of equipment or personnel may influence the selection of appropriate imaging procedures or treatments. Imaging techniques classified as investigational by the U.S. Food and Drug Administration (FDA) have not been considered in developing these criteria; however, study of new equipment and applications should be encouraged. The ultimate decision regarding the appropriateness of any specific radiologic examination or treatment must be made by the referring physician and radiologist in light of all the circumstances presented in an individual examination.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Weiss C, Azene E, Rybicki FJ, Kim HS, Desjardins B, Fan CM, Flamm SD, Francois CJ, Gerhard-Herman MD, Kalva SP, Mansour MA, Mohler ER III, Oliva IB, Schenker MP, Expert Panel on Vascular Imaging. ACR Appropriateness Criteria® sudden onset of cold, painful leg. [online publication]. Reston (VA): American College of Radiology (ACR); 2012. 6 p.  [50 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="1998 (revised 2012)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American College of Radiology - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American College of Radiology (ACR) provided the funding and the resources for these ACR Appropriateness Criteria&amp;reg;.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Committee on Appropriateness Criteria, Expert Panel on Vascular Imaging</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Panel Members</em>: Clifford Weiss, MD (<em>Principal Author</em>); Ezana Azene, MD (<em>Research Author</em>); Frank J. Rybicki, MD, PhD (<em>Panel Chair</em>); Hyun S. Kim, MD (<em>Panel Vice-Chair</em>); Benoit Desjardins, MD, PhD; Chieh-Min Fan, MD; Scott D. Flamm, MD; Christopher J. Francois, MD; Marie D. Gerhard-Herman, MD; Sanjeeva P. Kalva, MD; M. Ashraf Mansour, MD; Emile R. Mohler III, MD; Isabel B. Oliva, MD; Matthew P. Schenker, MD</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note</strong>: This guideline has been updated. The National Guideline Clearinghouse (NGC) is working to update this summary. </p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies of the updated guideline: Available from the <a href=&quot;https://acsearch.acr.org/docs/69338/Narrative&quot; title=&quot;ACR Web site&quot;>American College of Radiology (ACR) Web site</a>.</p>
+<p>Print copies: Available from the American College of Radiology, 1891 Preston White Drive, Reston, VA 20191. Telephone: (703) 648-8900.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>ACR Appropriateness Criteria&amp;reg;. Overview. Reston (VA): American College of Radiology; 2 p. Electronic copies: Available in Portable Document Format (PDF) from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/Overview.pdf&quot; title=&quot;ACR Web site&quot;>American College of Radiology (ACR) Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Literature search process. Reston (VA): American College of Radiology; 1 p. Electronic copies: Available in PDF from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/LiteratureSearchProcess.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Evidence table development &amp;ndash; diagnostic studies. Reston (VA): American College of Radiology; 2013 Nov. 3 p. Electronic copies: Available in PDF from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/ETDevDiagnostic.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Radiation dose assessment introduction. Reston (VA): American College of Radiology; 3 p. Electronic copies: Available in PDF from the <a href=&quot;http://www.acr.org/~/media/ACR/Documents/AppCriteria/RadiationDoseAssessmentIntro.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Manual on contrast media. Reston (VA): American College of Radiology; 90 p. Electronic copies: Available in PDF from the <a href=&quot;http://www.acr.org/Quality-Safety/Resources/Contrast-Manual&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg;. Procedure information. Reston (VA): American College of Radiology; 1 p. Electronic copies: Available in PDF from the <a href=&quot;http://www.acr.org/~/media/E77E9964C8224151BE6D21A7CE68FEE4.pdf&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+    <li>ACR Appropriateness Criteria&amp;reg; sudden onset cold painful leg. Evidence table. Reston (VA): American College of Radiology; 2012. 18 p. Electronic copies: Available from the <a href=&quot;https://acsearch.acr.org/docs/69338/ET&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This summary was completed by ECRI on February 20, 2001. The information was verified by the guideline developer on March 14, 2001. This NGC summary was updated by ECRI Institute on August 10, 2009. This NGC summary was updated by ECRI Institute on December 17, 2010. This NGC summary was updated by ECRI Institute on November 14, 2012.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Instructions for downloading, use, and reproduction of the American College of Radiology (ACR) Appropriateness Criteria&amp;reg; may be found on the <a href=&quot;http://www.acr.org/Quality-Safety/Appropriateness-Criteria/TermsConditions&quot; title=&quot;ACR Web site&quot;>ACR Web site</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 18:08:37 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:13:41 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 153.136 (3)
+  esindex: 0.009
+  captures_list: 175.617
+  CDXLines.iter: 10.373 (3)
+  PetaboxLoader3.datanode: 259.099 (4)
+  exclusion.robots: 0.307
+  exclusion.robots.policy: 0.298
+  RedisCDXSource: 9.437
+  PetaboxLoader3.resolve: 161.474 (2)
+  load_resource: 283.082
+-->

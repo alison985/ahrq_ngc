@@ -1,0 +1,638 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app43.us.archive.org';v.server_ms=649;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-9915?contentType=xml', '20160930224235')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930224235/https://www.guideline.gov/summaries/downloadcontent/ngc-9915?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930224235/https://www.guideline.gov/summaries/downloadcontent/ngc-9915?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-9915?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930224235" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 22:42:35 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 22:42:35 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 22:42:35 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930224235*/https://www.guideline.gov/summaries/downloadcontent/ngc-9915?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-9915?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Management of cat and dog bites.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>University of Texas, School of Nursing Family Nurse Practitioner Program. Management of cat and dog bite wounds. Austin (TX): University of Texas, School of Nursing; 2013 May. 31 p.  [19 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+  </section>
+  <section secid="394" ordby="200" name="Regulatory Alert">
+    <field fieldid="154" ordby="205" id="395" name="FDA Warning/Regulatory Alert" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Note from the National Guideline Clearinghouse</strong>: This guideline references a drug(s) for which important revised regulatory and/or warning information has been released.</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><a href=&quot;http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm500665.htm&quot; title=&quot;FDA Web site&quot; target=&quot;_blank&quot;>May 12, 2016 &amp;ndash; Fluoroquinolone Antibacterial Drugs</a>: The U.S. Food and Drug Administration (FDA) is advising that the serious side effects associated with fluoroquinolone antibacterial drugs generally outweigh the benefits for patients with sinusitis, bronchitis, and uncomplicated urinary tract infections who have other treatment options. For patients with these conditions, fluoroquinolones should be reserved for those who do not have alternative treatment options. </li>
+    <li><a href=&quot;http://www.fda.gov/Drugs/DrugSafety/ucm489676.htm&quot; title=&quot;FDA Web site&quot; target=&quot;_blank&quot;>March 22, 2016 &amp;ndash; Opioid pain medicines</a>: The U.S. Food and Drug Administration (FDA) is warning about several safety issues with the entire class of opioid pain medicines. These safety risks are potentially harmful interactions with numerous other medications, problems with the adrenal glands, and decreased sex hormone levels. They are requiring changes to the labels of all opioid drugs to warn about these risks. </li>
+</ul></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Strength of recommendations (<strong>A, B, C, D, I-statement</strong>) and quality of evidence (<strong>High, Moderate, Low</strong>) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Diagnostic Assessment</strong></span></p>
+<p><strong>Subjective Assessment Including History and Symptoms</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Time and location of event </li>
+    <li>Type of animal and its status (i.e., breed, health, rabies vaccination history, behavior, whereabouts) </li>
+    <li>Circumstances surrounding the bite (i.e., provoked or defensive bite versus unprovoked bite) </li>
+    <li>Location of bites (most commonly on the upper extremities and face), and severity of the bites </li>
+    <li>Any pre-hospital treatments including wound irrigation. Early wound irrigation decreases the risk of rabies infection. </li>
+    <li>Review the patient's medical history. Assess if the patient is in an immune-compromised state, or has a history of splenectomy, peripheral vascular disease, liver or kidney disease, or diabetes. Also review tetanus vaccination history, current medications including supplements, vitamins, recent steroid or anticoagulant use, and allergies. </li>
+</ul>
+<p>(<strong>Evidence Moderate, Recommendation B</strong>)</p>
+<p>(Garth, 2012; Neumann, 2009; Rizzo, Lefner, &amp;amp; Gerardi, 2008; Kwo, Agarwal, &amp;amp; Meletiou, 2011; Oehler et al., 2009; Wile, &quot;Ask,&quot; 2011)</p>
+<p><strong>Objective Assessment/Physical Examination</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Obtain vital signs including pain assessment. </li>
+    <li>Have the patient change into a gown for a full body assessment of wounds. </li>
+    <li>Determine if a tourniquet was used and is still in place. </li>
+    <li>Measure and classify the wound as puncture, laceration, crushing, or avulsion. </li>
+    <li>Inspect for foreign body presence. </li>
+    <li>Note the amount of devitalized tissue. </li>
+    <li>Assess range of motion, nerve function, and vascular supply at the site and distal to the site. </li>
+    <li>Evaluation of the wound includes noting the presence of associated symptoms such as fever, chills, body aches, nausea, vomiting, local erythema, edema, tenderness, wound exudates, foul odor, and lymphadenopathy. </li>
+    <li>Assess for penetration of the joint space, tendons, or bone. </li>
+    <li>Document the findings with photographs (with the patient's permission) or a hand-drawn wound diagram. </li>
+</ul>
+<p>(<strong>Evidence Moderate, Recommendation B</strong>)</p>
+<p>(Neumann, 2009; Rice, 2010; Rizzo, Lefner, &amp;amp; Gerardi, 2008; Wile, &quot;Ask,&quot; 2011; Wile, &quot;ED,&quot; 2011)</p>
+<p><strong>Diagnostic Tests</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Obtain a plain radiograph if there is bone or joint involvement, or if foreign body presence is suspected. </li>
+    <li>Doppler ultrasound may be required to diagnose vascular injury. </li>
+    <li>If the wound is greater than 8 hours and/or infection is suspected, wound swabs should be obtained for Gram stain and aerobic and anaerobic cultures. (<strong>Evidence Moderate, Recommendation B</strong>) </li>
+    <li>If systemic infection is suspected, obtain a complete blood count (CBC), C-reactive protein, erythrocyte sedimentation rate, and blood cultures. (<strong>Evidence Moderate, Recommendation C</strong>) </li>
+    <li>Pediatric injuries to the head or face should be examined with plain radiograph films or a computed tomography (CT) scan. (<strong>Evidence Moderate, Recommendation B</strong>) </li>
+</ul>
+<p>(Kwo, Agarwal, &amp;amp; Meletiou, 2011; Oehler, et al., 2009; Rizzo, Lefner, &amp;amp; Gerardi, 2008; Garth, 2012; Rice, 2010; Neumann, 2009)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Treatment/Management</span></strong></p>
+<p><strong>Non-pharmacological</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Immobilize and elevate affected area. </li>
+    <li>Minor wounds should be cleansed with soap and water in clinic if not already performed by patient. </li>
+    <li>Irrigation or debridement may require local anesthetization. This should be done with 1% lidocaine injected into intact skin surrounding the wound. </li>
+    <li>Irrigation with normal saline solution at 100 to 200 ml per inch of wound. A 19-gauge blunt needle on a 35 ml syringe should provide enough pressure to cleanse most bite wounds. (<strong>Evidence Moderate, Recommendation B</strong>) </li>
+    <li>Debridement should be done for foreign body presence, visualized particulate matter, devitalized, and necrotic tissue. Puncture wounds should not be debrided. </li>
+    <li>Do not suture: wounds showing signs of infection, puncture wounds, wounds older than 8 hours. (<strong>Evidence Moderate, Recommendation B</strong>) </li>
+</ul>
+<p>(Goroll &amp;amp; Mulley, 2009; Neumann, 2009; Rizzo, Lefner, &amp;amp; Gerardi; 2008, Garth, 2012)</p>
+<p><strong>Pharmacological</strong></p>
+<p><em>Antibiotic</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Wounds sustained from cat or dog bites tend to be polymicrobial, with a median of 5 bacteria in a culture. Some of the common pathogens in cat bites include <em>Streptococcus</em> (including <em>S. pyogenes</em>), <em>Staphylococcus</em> (including methicillin-resistant <em>S. aureus</em> or MRSA), <em>Fusobacterium</em>, <em>Bacteroides</em>, <em>Porphyromonas</em>, <em>Moraxella</em>, and <em>Pasteurella multocida</em>. Commonly found pathogens in canine bite wounds include <em>P. canis</em>, <em>Streptococcus</em>, <em>Staphylococcus</em>, <em>Fusobacterium</em>, <em>Bacteroides</em>, and <em>Capnocytophaga canimorsus</em>. </li>
+    <li>Cat bite wounds should be treated with prophylactic antibiotics as 20% to 80% of all cat bites will become infected. <em>P. multocida</em> is the most common bacteria cultured from cat bite wounds. (<strong>Evidence High, Recommendation A</strong>) </li>
+    <li>Only 3% to 18% of dog bite wounds will become infected. Therefore, prophylactic antibiotic management is not indicated for all dog bite wounds. It is not cost effective to treat dog bite wounds with an infection rate of less than 3%. Only wounds with greater than 5% risk of infection should be treated with antibiotics. This includes the following circumstances:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Evidence of infection in wound </li>
+        <li>Crush injuries </li>
+        <li>Hand injuries </li>
+        <li>Feet injuries </li>
+        <li>Facial injuries </li>
+        <li>Genital injuries </li>
+        <li>Puncture wounds </li>
+        <li>Wounds with bone and joint involvement </li>
+        <li>Patients with comorbid factors, such as immunosuppression, diabetes, artificial heart valve, and asplenism </li>
+    </ul>
+    <p>(<strong>Evidence High, Recommendation A</strong>)</p>
+    </li>
+    <li>First-line antibiotic treatment of choice for either dog or cat bite wounds is the beta-lactam antibiotic amoxicillin-clavulanic acid, which provides coverage against <em>P. multocida</em>, <em>C. canimorsus</em>, some anaerobes, Bacteroides, <em>Fusobacterium</em>, and <em>S. aureus</em>. The oral dose of amoxicillin-clavulanic acid is 875 mg/125 mg twice a day or 500 mg/125 mg 3 times a day for adults; children should receive 25 mg/kg (based on the amoxicillin component) every 12 hours. (<strong>Evidence Moderate, Recommendation B</strong>) </li>
+    <li>If the patient is unable to take oral antibiotics, ampicillin-sulbactam might be given intravenously. (<strong>Evidence Moderate, Recommendation C</strong>) </li>
+    <li>Doxycycline with or without metronidazole, tetracycline, or ciprofloxacin are all suitable alternatives to cover these organisms in penicillin-allergic patients. </li>
+    <li>Alternatives include clindamycin with a fluoroquinolone, or clindamycin plus trimethoprim&amp;ndash;sulfamethoxazole (co-trimoxazole) in children. </li>
+    <li>Some instances of penicillin-resistant pasteurella have been reported. In this case, second generation, third generation and extended spectrum third generation cephalosporins (e.g., ceftriaxone, cefuroxime, and cefpodoxime) are acceptable options. (<strong>Evidence Moderate, Recommendation C</strong>) </li>
+    <li>If MRSA is suspected, first-line antibiotics include trimethoprim-sulfamethoxazole, doxycycline, minocycline, and clindamycin.
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Length of treatment depends on whether the wound is superficial or involves bone or joint. Prophylactic treatment should be carried out over 5 days. Superficial wounds require 10 to 14 days of treatment. Bone or joint involvement requires up to 6 weeks of intravenous antibiotics. (<strong>Evidence Moderate, Recommendation B</strong>) </li>
+    </ul>
+    </li>
+</ul>
+<p>(Kwo, Agarwal, &amp;amp; Meletiou, 2011; Oehler et al., 2009; Medeiros &amp;amp; Saconato, 2008; Rizzo, Lefner, &amp;amp; Gerardi, 2008; Garth, 2012; Neumann, 2009; Sabhaney &amp;amp; Goldman, 2012; Quinn et al., 2010; Freshwater, 2008; Medeiros &amp;amp; Saconato, 2008)</p>
+<p><em>Immunization</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Administer tetanus booster (tetanus, diphtheria [Td] or tetanus, diphtheria, acellular pertussis [TDaP]) (if none given in past 3 years) or initiate primary series in non-vaccinated individuals, or if vaccination status is unknown. (<strong>Evidence Moderate, Recommendation B</strong>) </li>
+    <li>The rabies post-exposure prophylaxis (PEP) guide deems if the causative animal is healthy and available for a 10-day observation period, PEP should not be initiated unless the animal begins to develop clinical signs of rabies. If the offending animal is suspected to be rabid, is unknown, or has escaped, PEP should be initiated immediately. (<strong>Evidence Moderate, Recommendation B</strong>) </li>
+    <li>The PEP guidelines are:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Human rabies immunoglobulin (HRIG) is administered as 1 dose on the first day of PEP treatment (day 0). The dose is 20 IU/kg, and if feasible, the full dose of RabIg should be thoroughly infiltrated in the area around and into the exposed wound. If HRIG is not immediately available, it may be given up to day 7 of treatment. The 2 rabies vaccines currently available in the United States are the human diploid cell vaccine (HDCV) and the purified chick embryo cell vaccine (PCECV). Five doses (1 mL each) of either HDCV or PCECV vaccine should be administered on days 0, 3, 7, 14, and 28. The first dose should be administered as soon as possible after exposure. It should be given intramuscularly into the deltoid muscle of adults. In children, it should be administered into either the deltoid muscle or the anterolateral aspect of the thigh. (<strong>Evidence Moderate, Recommendation B</strong>) </li>
+    </ul>
+    </li>
+</ul>
+<p>(Rizzo, Lefner, &amp;amp; Gerardi, 2008; Garth, 2012; Grill, 2009; Merlin, 2011; Kretsinger et al., 2006; Manning et al., 2008)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Pain Management</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Most patients will achieve effective pain management with over-the-counter (OTC) analgesics. </li>
+    <li>If a patient requires more intense pain control, acetaminophen with codeine every 4 to 6 hours for 24 hours is indicated. (<strong>Evidence Moderate, Recommendation B</strong>) </li>
+</ul>
+<p>(Rizzo, Lefner, &amp;amp; Gerardi, 2008)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Referral</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>In the case of bites to the hand, orthopedic specialist involvement is important. </li>
+    <li>A plastic surgeon should be consulted in the case of most head and neck bites, as well as with extensive wounds, tissue loss, or wounds involving complex structures. </li>
+    <li>Neurosurgical consultation might be indicated in skull penetration and in children with possible cranial injury. </li>
+    <li>Refer to a surgeon when tendons or bones are damaged, or if a compartment injury exists. </li>
+    <li>Hospitalization indications include fever, sepsis, spreading cellulitis, substantial edema or crush injury, loss of function, immune-compromised status, or noncompliance. </li>
+    <li>Consultation with local public-health authorities should be strongly considered for any serious domestic pet bite, particularly in the case of a stray animal, if the attack was unprovoked, if the pet cannot be apprehended, or if the pet's rabies vaccine status is unknown. (<strong>Evidence Moderate, Recommendation B</strong>) </li>
+    <li>Nearly all cities require an animal bite to be reported to Animal Protection or Animal Control services. All states have &quot;Dog Bite Laws&quot;, which outline liability and compensation related to domestic dog bites. Counsel and advise patients of reporting requirements, procedures, and laws in your respective city and state. </li>
+</ul>
+<p>(Neumann, 2009; Garth, 2012; Oehler et al., 2009)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Monitoring and Follow-Up</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Thorough patient education must include information about signs and symptoms of infection and when to contact a provider: increased swelling or pain, changes in wound drainage, or fever. The patient should return in 24-48 hours for follow-up evaluation. (<strong>Evidence Moderate, Recommendation B</strong>) </li>
+    <li>Education should also include bite prevention recommendations such as avoiding animals while they are eating, approaching unknown animals with caution, avoiding direct eye contact (dogs) and avoiding rough play. Any breed of cat or dog may bite. </li>
+</ul>
+<p>(Neumann, 2009; Garth, 2012)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Patient and Family Education</span></strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Explain symptoms to look out for after discharge including sign of local or systemic infection, septic arthritis, or osteomyelitis. Penetration of a joint space can result in septic arthritis, penetration of a bone can result in osteomyelitis. Educate on symptoms of infection including localized or spreading redness, pain, heat at the site, swelling, purulent drainage, foul odor, regional or systemic lymphadenopathy, fever, malaise, headache. Advise to return to clinic or emergency room (ER) immediately if he or she experiences these symptoms. </li>
+    <li>Stress the importance of finding out if the animal has received a rabies vaccine. </li>
+    <li>Educate that the overall infection rate for dog bites is between 3% and 18%, compared to cat bites with an infection rate of 20% to 80%, and that this is due to the difference in the type of wound inflicted by each species. Dogs produce a more crushing type injury, while cat bites produce more puncture type injuries which introduce the bacteria further into the wound. Bite wounds contain aerobic and anaerobic bacteria found both in the biting animal's mouth and on the skin of the victim, making antibiotic selection difficult. </li>
+    <li>Establish treatment goals with the patient including preventing infection or treating existing infection, reducing scarring, treating pain, preventing tetanus and rabies infections, and reducing psychological trauma. (<strong>Evidence High, Recommendation A</strong>) </li>
+</ul>
+<p>(Neumann, 2009; Rice, 2010; Wile, &quot;Ask,&quot; 2011; Jaindl et al., 2012)</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><strong>Level of Certainty Regarding Net Benefit</strong> (Based on the U.S. Preventive Services Task Force [USPSTF] Ratings)</p>
+<p><strong>High</strong>: The available evidence usually includes consistent results from well-designed, well-conducted studies in representative primary care populations. These studies assess the effects of the preventive service on health outcomes. This conclusion is therefore unlikely to be strongly affected by the results of future studies.</p>
+<p><strong>Moderate</strong>: The available evidence is sufficient to determine the effects of the preventive service on health outcomes, but confidence in the estimate is constrained by such factors as:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The number, size, or quality of individual studies </li>
+    <li>Inconsistency of findings across individual studies </li>
+    <li>Limited generalizability of findings to routine primary care practice </li>
+    <li>Lack of coherence in the chain of evidence </li>
+</ul>
+<p>As more information becomes available, the magnitude or direction of the observed effect could change, and this change may be large enough to alter the conclusion.</p>
+<p><strong>Low</strong>: The available evidence is insufficient to assess effects on health outcomes. Evidence is insufficient because of:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The limited number or size of studies </li>
+    <li>Important flaws in study design or methods </li>
+    <li>Inconsistency of findings across individual studies </li>
+    <li>Gaps in the chain of evidence </li>
+    <li>Findings not generalizable to routine primary care practice </li>
+    <li>Lack of information on important health outcomes </li>
+</ul>
+<p>More information may allow estimation of effects on health outcomes.</p>
+<p><strong>Grading of Recommendations</strong> (Based on the USPSTF Ratings)</p>
+<p><strong>A</strong>. The USPSTF recommends the service. There is high certainty that the net benefit is substantial.</p>
+<p><strong>B</strong>. The USPSTF recommends the service. There is high certainty that the net benefit is moderate or there is moderate certainty that the net benefit is moderate to substantial.</p>
+<p><strong>C</strong>. The USPSTF recommends selectively offering or providing this service to individual patients based on professional judgment and patient preferences. There is at least moderate certainty that the net benefit is small. </p>
+<p><strong>D</strong>. The USPSTF recommends against the service. There is moderate or high certainty that the service has no net benefit or that the harms outweigh the benefits.</p>
+<p><strong>I-statement</strong>. The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of the service. Evidence is lacking, of poor quality, or conflicting, and the balance of benefits and harms cannot be determined.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None provided</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Cat and dog bite wounds</p></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Dermatology"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Infectious Diseases"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Pediatrics"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Emergency Medical Technicians/Paramedics"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To provide recommendations for the management of cat and dog bite wounds in the primary care or acute care setting to practitioners of the general population</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All patients who present with a cat or dog bite wound to a healthcare setting</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Diagnosis</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Subjective assessment:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Event history </li>
+        <li>Location of bites </li>
+        <li>Pre-hospital treatment </li>
+        <li>Review of patient history </li>
+    </ul>
+    </li>
+    <li>Objective assessment:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Vital signs </li>
+        <li>Pain assessment </li>
+        <li>Measurement and classification of wound </li>
+        <li>Presence of foreign bodies </li>
+        <li>Range of motion </li>
+        <li>Nerve function </li>
+        <li>Vascular supply at site and distal to site </li>
+        <li>Evaluation of wound, including symptoms that may indicate infection </li>
+    </ul>
+    </li>
+    <li>Diagnostic tests and imaging:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Plain radiographs </li>
+        <li>Doppler ultrasound </li>
+        <li>Gram stain </li>
+        <li>Complete blood count (CBC) </li>
+        <li>C-reactive protein </li>
+        <li>Erythrocyte sedimentation rate </li>
+        <li>Blood cultures </li>
+        <li>Computed tomography (CT) scan </li>
+    </ul>
+    </li>
+</ol>
+<p><strong>Management</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Immobilization and elevation of wound </li>
+    <li>Cleansing the wound, either with soap and water or by irrigation </li>
+    <li>Debridement </li>
+    <li>Prophylactic antibiotic therapy:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Amoxicillin-clavulanic acid </li>
+        <li>Ampicillin-sulbactam </li>
+        <li>Doxycycline with or without metronidazole, tetracycline, or ciprofloxacin </li>
+        <li>Clindamycin with a fluoroquinolone or clindamycin + trimethoprim-sulfamethoxazole </li>
+        <li>Third-generation cephalosporins (ceftriaxone, cefuroxime, cefpodoxime) </li>
+    </ul>
+    </li>
+    <li>Tetanus vaccination </li>
+    <li>Rabies vaccination if the animal is unknown or suspected to be rabid </li>
+    <li>Over-the-counter (OTC) analgesics </li>
+    <li>Acetaminophen with codeine </li>
+    <li>Referrals to specialists (orthopedist, plastic surgery, neurosurgery) </li>
+    <li>Consultation with local authorities </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Risk of infection </li>
+    <li>Risk of cosmetic deformity </li>
+    <li>Restoration of function </li>
+    <li>Healing time </li>
+    <li>Treatment time </li>
+    <li>Response time </li>
+    <li>Pain control </li>
+    <li>Prevention of sequelae </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Primary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Online searches were performed for February 2007 to April 2013 on the following databases: CINAHL, Cochrane Review, Medline, Medscape, PubMed, Up-To-Date (major key words: antibiotics for bites, animal bites, bite wounds, cat bites, dog bites, guidelines, management, medications for bites, treatment of bites).</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Subjective Review"/>
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Level of Certainty Regarding Net Benefit</strong> (Based on the U.S. Preventive Services Task Force [USPSTF] Ratings)</p>
+<p><strong>High</strong>: The available evidence usually includes consistent results from well-designed, well-conducted studies in representative primary care populations. These studies assess the effects of the preventive service on health outcomes. This conclusion is therefore unlikely to be strongly affected by the results of future studies.</p>
+<p><strong>Moderate</strong>: The available evidence is sufficient to determine the effects of the preventive service on health outcomes, but confidence in the estimate is constrained by such factors as:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The number, size, or quality of individual studies </li>
+    <li>Inconsistency of findings across individual studies </li>
+    <li>Limited generalizability of findings to routine primary care practice </li>
+    <li>Lack of coherence in the chain of evidence </li>
+</ul>
+<p>As more information becomes available, the magnitude or direction of the observed effect could change, and this change may be large enough to alter the conclusion.</p>
+<p><strong>Low</strong>: The available evidence is insufficient to assess effects on health outcomes. Evidence is insufficient because of:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The limited number or size of studies </li>
+    <li>Important flaws in study design or methods </li>
+    <li>Inconsistency of findings across individual studies </li>
+    <li>Gaps in the chain of evidence </li>
+    <li>Findings not generalizable to routine primary care practice </li>
+    <li>Lack of information on important health outcomes </li>
+</ul>
+<p>More information may allow estimation of effects on health outcomes.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Journal articles were reviewed for quality based on the study design, method, number of subjects, representative sample, generalizability of results, and applicability for target population.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Grading of Recommendations</strong> (Based on the U.S. Preventive Services Task Force [USPSTF] Ratings)</p>
+<p><strong>A</strong>. The USPSTF recommends the service. There is high certainty that the net benefit is substantial.</p>
+<p><strong>B</strong>. The USPSTF recommends the service. There is high certainty that the net benefit is moderate or there is moderate certainty that the net benefit is moderate to substantial.</p>
+<p><strong>C</strong>. The USPSTF recommends selectively offering or providing this service to individual patients based on professional judgment and patient preferences. There is at least moderate certainty that the net benefit is small. </p>
+<p><strong>D</strong>. The USPSTF recommends against the service. There is moderate or high certainty that the service has no net benefit or that the harms outweigh the benefits.</p>
+<p><strong>I-statement</strong>. The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of the service. Evidence is lacking, of poor quality, or conflicting, and the balance of benefits and harms cannot be determined.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline developers reviewed a published cost analysis.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline was created by a group of family nurse practitioner students and submitted for review to the Family Nursing Practitioner (FNP) program faculty and expert reviewers. Before submitting to the guideline committee, revisions were made based on reviewer recommendations.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="98" ordby="605" id="425" name="References Supporting the Recommendations" type="citation">
+      <fieldvalue value="<table><tr><td>Freshwater A. Why your housecat's trite little bite could cause you quite a fright: a study of  domestic felines on the occurrence and antibiotic susceptibility of Pasteurella multocida. Zoonoses Public Health. 2008 Oct;55(8-10):507-13. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18811910&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Garth AP. Animal bites in emergency medicine. [internet]. New York (NY): WebMD, LLC; 2012 May 18&amp;nbsp;</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Goroll AH, Mulley AG Jr. Primary care medicine. Philadelphia (PA): Lippincott, Williams &amp; Wilkins; 2009. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Grill AK. Approach to management of suspected rabies exposures: what primary care physicians need to know. Can Fam Physician. 2009 Mar;55(3):247-51. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19282530&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Jaindl M, Grunauer J, Platzer P, Endler G, Thallinger C, Leitgeb J, Kovar FM. The management of bite wounds in children--a retrospective analysis at a level I  trauma centre. Injury. 2012 Dec;43(12):2117-21. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22607996&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kretsinger K, Broder KR, Cortese MM, Joyce MP, Ortega-Sanchez I, Lee GM, Tiwari T, Cohn AC, Slade BA, Iskander JK, Mijalski CM, Brown KH, Murphy TV, Centers for Disease Control and Prevention, Advisory Committee on Immunization Practices, Healthcare Infection Control Practices Advisory Committee. Preventing tetanus, diphtheria, and pertussis among adults: use of tetanus toxoid, reduced diphtheria toxoid and acellular pertussis vaccine recommendations of the ACIP. MMWR Recomm Rep. 2006 Dec 15;55(RR-17):1-37. [236 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17167397&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kwo S, Agarwal JP, Meletiou S. Current treatment of cat bites to the hand and wrist. J Hand Surg Am. 2011 Jan;36(1):152-3. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20006917&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Manning SE, Rupprecht CE, Fishbein D, Hanlon CA, Lumlertdacha B, Guerra M, Meltzer MI, Dhankhar P, Vaidya SA, Jenkins SR, Sun B, Hull HF, Advisory Committee on Immunization Practices Centers for Disease Control and. Human rabies prevention--United States, 2008: recommendations of the Advisory Committee on Immunization Practices. MMWR Recomm Rep. 2008 May 23;57(RR-3):1-28. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18496505&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Medeiros IM, Saconato H. Antibiotic prophylaxis for mammalian bites. In: Cochrane Database of Systematic Reviews [database]. Hoboken (NJ): John Wiley &amp; Sons; 2008 Jul 16&amp;nbsp;</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Merlin MA. Emergency treatment of rabies. In: Medscape Reference [internet]. New York (NY): WebMD, LLC; 2011 May 19&amp;nbsp;</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Neumann B. Management of dog and cat bites. Act quickly for best outcomes. Adv Nurse Pract. 2009 Mar;17(3):53-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19999438&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Oehler RL, Velez AP, Mizrachi M, Lamarche J, Gompf S. Bite-related and septic syndromes caused by cats and dogs. Lancet Infect Dis. 2009 Jul;9(7):439-47. [81 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19555903&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Quinn JV, McDermott D, Rossi J, Stein J, Kramer N. Randomized controlled trial of prophylactic antibiotics for dog bites with refined cost model. West J Emerg Med. 2010 Dec;11(5):435-41. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21293762&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Rice R. Cat bites: a reason for caution. Adv NPs PAs. 2010 Feb 12;18(1):10.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Rizzo T, Lefner J, Gerardi M. Clinical management of dog-bite injuries. [internet]. New York (NY): Clinical Advisor; 2008 Oct 22&amp;nbsp;</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Sabhaney V, Goldman RD. Child health update. Management of dog bites in children. Can Fam Physician. 2012 Oct;58(10):1094-6, e548-50. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23064918&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Wile L. Ask about treatment for dog-bite injury. ED Nurs. 2011 Jun;:93.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Wile L. ED nurses seeing more dog-bite injured patients. ED Nurs. 2011 Jun;:92.</td></tr></table>"/>
+    </field>
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate management of patients with cat or dog bite wounds</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Adverse effects of medications </li>
+    <li>Risks of wound closure including scarring, infection, or disfigurement </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="430" ordby="800" name="Contraindications">
+    <field fieldid="144" ordby="805" id="431" name="Contraindications" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Antibiotics:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Amoxicillin/clavulanate: hypersensitivity to drug, class, or components; history of hepatic dysfunction, history of cholestatic jaundice, mononucleosis </li>
+        <li>Alternate regime of clindamycin plus either ciprofloxacin or trimethoprim/sulfamethoxazole or doxycycline: ulcerative colitis, history of antibiotic-associated colitis, anemia, folate deficiency, glucose-6-phosphate dehydrogenase (G6PD) deficiency, pregnancy (near term), breastfeeding, or age less than 8 years old </li>
+    </ul>
+    </li>
+    <li>Analgesia (ibuprofen or acetaminophen or acetaminophen with codeine): history of aspirin (acetylsalicylic acid [ASA])/non-steroidal anti-inflammatory drug (NSAID) induced asthma, urticaria, aspirin triad, third trimester pregnancy, respiratory depression, paralytic ileus, hypersensitivity to drug, class, or components </li>
+    <li>Topical antibiotics (bacitracin): hypersensitivity to drug, class, or components </li>
+    <li>Tetanus prophylaxis: poliomyelitis outbreak, hypersensitivity to drug, class, or component </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>These guidelines are to be used by medical professionals and are not intended for the outside population. These guidelines provide a general framework for managing patients with cat or dog bite wounds. Medical treatment decisions should be based on individual symptoms and treatment goals.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>University of Texas, School of Nursing Family Nurse Practitioner Program. Management of cat and dog bite wounds. Austin (TX): University of Texas, School of Nursing; 2013 May. 31 p.  [19 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2013 May"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="University of Texas at Austin School of Nursing, Family Nurse Practitioner Program - Academic Institution"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>University of Texas at Austin, School of Nursing, Family Nurse Practitioner Program</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Practices Guidelines Committee</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Authors</em>: Natalie Germanio, RN, FNP-student; Carrie Hodges, RN, FNP-student; Gabrielle McCart, RN, FNP-student; DonnaLee Pollack, RN, FNP-student</p>
+<p><em>Internal Reviewer</em>: Fran Sonstein, MSN, FNP</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>No relationship exists between the guideline developers and any for-profit and non-for-profit companies or organizations that could potentially influence the contribution to the guideline development.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: None available.</p>
+<p>Print copies: Available from the University of Texas at Austin, School of Nursing. 1700 Red River, Austin, Texas, 78701-1499, Attn: Nurse Practitioner Program.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on September 23, 2013. This summary was updated by ECRI Institute on May 18, 2016 following the U.S. Food and Drug Administration advisory on Fluoroquinolone Antibacterial Drugs. This summary was updated by ECRI Institute on June 2, 2016 following the U.S. Food and Drug Administration advisory on Opioid pain medicines.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which may be subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 22:42:35 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:57:25 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 482.169 (3)
+  esindex: 0.008
+  captures_list: 504.964
+  CDXLines.iter: 16.911 (3)
+  PetaboxLoader3.datanode: 72.842 (4)
+  exclusion.robots: 0.292
+  exclusion.robots.policy: 0.28
+  RedisCDXSource: 1.56
+  PetaboxLoader3.resolve: 485.783 (2)
+  load_resource: 117.978
+-->

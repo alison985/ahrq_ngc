@@ -1,0 +1,825 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app22.us.archive.org';v.server_ms=163;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-10075?contentType=xml', '20180713000242')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20180713000242/https://www.guideline.gov/summaries/downloadcontent/ngc-10075?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20180713000242/https://www.guideline.gov/summaries/downloadcontent/ngc-10075?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-10075?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20180713000242" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610045414/https://www.guideline.gov/summaries/downloadcontent/ngc-10075?contentType=xml" title="10 Jun 2018"><strong>Jun</strong></a></td>
+		  <td class="c" id="displayMonthEl" title="You are here: 00:02:42 Jul 13, 2018">JUL</td>
+		  <td class="f" nowrap="nowrap">Aug</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20180610045414/https://www.guideline.gov/summaries/downloadcontent/ngc-10075?contentType=xml" title="04:54:14 Jun 10, 2018"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 00:02:42 Jul 13, 2018">13</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20160930165426/https://www.guideline.gov/summaries/downloadcontent/ngc-10075?contentType=xml" title="30 Sep 2016"><strong>2016</strong></a></td>
+		  <td class="c" id="displayYearEl" title="You are here: 00:02:42 Jul 13, 2018">2018</td>
+		  <td class="f" nowrap="nowrap">2019</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20180713000242*/https://www.guideline.gov/summaries/downloadcontent/ngc-10075?contentType=xml" title="See a list of every capture for this URL">6 captures</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016 - 13 Jul 2018</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archivebot)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archivebot" target="_new"><span class="wm-title">ArchiveBot: The Archive Team Crowdsourced Crawler</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+<p>
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+<p>
+There is a dashboard running for the archivebot process at <a href="http://www.archivebot.com">http://www.archivebot.com</a>.
+<p>
+ArchiveBot's source code can be found at <a href="https://github.com/ArchiveTeam/ArchiveBot">https://github.com/ArchiveTeam/ArchiveBot</a>.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-10075?contentType=xml","2018-07-13",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Clinical practice guideline: Bell's palsy.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Baugh RF, Basura GJ, Ishii LE, Schwartz SR, Drumheller CM, Burkholder R, Deckard NA, Dawson C, Driscoll C, Gillespie MB, Gurgel RK, Halperin J, Khalid AN, Kumar KA, Micco A, Munsell D, Rosenbaum S, Vaughan W. Clinical practice guideline: Bell's palsy. Otolaryngol Head Neck Surg. 2013 Nov;149(3 Suppl):S1-S27. [148 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24189771&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The evidence grades (<strong>A-D, X</strong>) and evidence-based statements (<strong>Strong Recommendation, Recommendation, Option,</strong> and <strong>No Recommendation</strong>) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><strong>Statement 1. Patient History and Physical Examination</strong></p>
+<p>Clinicians should assess the patient using history and physical examination to exclude identifiable causes of facial paresis or paralysis in patients presenting with acute-onset unilateral facial paresis or paralysis.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Strong recommendation</span> based on observational studies of alternative causes of facial paralysis and reasoning from first principles, with a preponderance of benefit over harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Identification of other causes of facial paresis/paralysis, enabling accurate diagnosis; avoidance of unnecessary testing and treatment; identification of patients for whom other testing or treatment is indicated; opportunity for appropriate patient counseling </li>
+    <li>Risks, harms, costs: None </li>
+    <li>Benefit-harm assessment: Preponderance of benefit </li>
+    <li>Value judgments: The Guideline Development Group (GDG) felt that assessment of patients cannot be performed without a history and physical examination and that it would not be possible to find stronger evidence, as studies excluding these steps cannot ethically be performed. Other causes of facial paresis/paralysis may go unidentified; a thorough history and physical examination will help avoid missed diagnoses or diagnostic delay. </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: None </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: <strong>Strong recommendation</strong> </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong>Statement 2. Laboratory Testing</strong></p>
+<p>Clinicians should not obtain routine laboratory testing in patients with new-onset Bell's palsy.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation (against)</span> based on observational studies and expert opinion with a preponderance of benefit over harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Avoidance of unnecessary testing and/or treatment, avoidance of pursuing false positives, cost savings </li>
+    <li>Risks, harms, costs: Potential missed diagnosis </li>
+    <li>Benefit-harm assessment: Preponderance of benefit </li>
+    <li>Value judgments: While the GDG felt that there are circumstances where specific testing is indicated in at-risk patients (such as Lyme disease serology in endemic areas), these patients can usually be identified by history. </li>
+    <li>Intentional vagueness: The GDG used the word <em>routine</em> to specify that under certain circumstances, laboratory testing may be indicated. </li>
+    <li>Role of patient preferences: Small (there is an opportunity for patient education) </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: <strong>Recommendation (against)</strong> </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong>Statement 3. Diagnostic Imaging</strong></p>
+<p>Clinicians should not routinely perform diagnostic imaging for patients with new-onset Bell's palsy.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation (against)</span> based on observational studies with a preponderance of benefit over harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Avoidance of unnecessary radiation exposure, avoidance of incidental findings, avoidance of contrast reactions, cost savings </li>
+    <li>Risks, harms, costs: Risk of missing other cause of facial paresis/paralysis </li>
+    <li>Benefit-harm assessment: Preponderance of benefit </li>
+    <li>Value judgments: None </li>
+    <li>Intentional vagueness: The word <em>routine</em> was used to indicate there may be some clinical findings that would warrant imaging. </li>
+    <li>Role of patient preferences: Small, but there is an opportunity for patient education/counseling </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: <strong>Recommendation (against)</strong> </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong>Statement 4. Oral Steroids</strong></p>
+<p>Clinicians should prescribe oral steroids within 72 hours of symptom onset for Bell's palsy patients 16 years and older.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Strong recommendation</span> based on high-quality randomized controlled trials with a preponderance of benefit over harm</em>.</p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade A</strong> </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Improvement in facial nerve function, faster recovery </li>
+    <li>Risks, harms, costs: Steroid side effects, cost of therapy </li>
+    <li>Benefit-harm assessment: Preponderance of benefit </li>
+    <li>Value judgments: None </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Small </li>
+    <li>Exceptions: Diabetes, morbid obesity, previous steroid intolerance, and psychiatric disorders. Pregnant women should be treated on an individualized basis </li>
+    <li>Policy level: <strong>Strong recommendation</strong> </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong>Statement 5A. </strong><strong>Antiviral Monotherapy</strong></p>
+<p>Clinicians should not prescribe oral antiviral therapy alone for patients with new-onset Bell's palsy.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Strong recommendation (against)</span> based on high-quality randomized controlled trials with a preponderance of benefit over harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade A</strong> </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Avoidance of medication side effects, cost savings </li>
+    <li>Risks, harms, costs: None </li>
+    <li>Benefit-harm assessment: Preponderance of benefit </li>
+    <li>Value judgments: None </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Small </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: <strong>Strong recommendation (against)</strong> </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong>Statement 5B. Combination Antiviral Therapy</strong></p>
+<p>Clinicians may offer oral antiviral therapy in addition to oral steroids within 72 hours of symptom onset for patients with Bell's palsy.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Option</span> based on randomized controlled trials with minor limitations and observational studies with equilibrium of benefit and harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade B</strong> </li>
+    <li>Level of confidence in evidence: Medium, because the studies cannot exclude a small effect </li>
+    <li>Benefit: Small potential improvement in facial nerve function </li>
+    <li>Risks, harms, costs: Treatment side effects, cost of treatment </li>
+    <li>Benefit-harm assessment: Equilibrium of benefit and harm </li>
+    <li>Value judgments: Although the data were weak, the risks of combination therapy were small </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Large; significant role for shared decision making </li>
+    <li>Exceptions: Diabetes, morbid obesity, and previous steroid intolerance. Pregnant women should be treated on an individualized basis </li>
+    <li>Policy level: <strong>Option</strong> </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong>Statement 6. Eye Care</strong></p>
+<p>Clinicians should implement eye protection for Bell's palsy patients with impaired eye closure.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Strong recommendation</span> based on expert opinion and a strong clinical rationale with a preponderance of benefit over harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade X</strong> </li>
+    <li>Level of confidence in evidence: High. Eye protection has been the standard of care, and comparative studies with a no-treatment arm are unethical </li>
+    <li>Benefit: Prevention of eye complications </li>
+    <li>Risks, harms, costs: Cost of eye protection implementation, potential side effects of eye medication </li>
+    <li>Benefit-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: None </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Small </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: <strong>Strong recommendation</strong> </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong>Statement 7A. Electrodiagnostic Testing with Incomplete Paralysis</strong></p>
+<p>Clinicians should not perform electrodiagnostic testing in Bell's palsy patients with incomplete facial paralysis.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation (against)</span> based on observational studies with a preponderance of benefit over harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Avoidance of unnecessary testing, cost savings </li>
+    <li>Risks, harms costs: None </li>
+    <li>Benefit-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: None </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: None </li>
+    <li>Exceptions: None </li>
+    <li>Policy Level: <strong>Recommendation (against)</strong> </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong>Statement 7B. Electrodiagnostic Testing with Complete Paralysis</strong></p>
+<p>Clinicians may offer electrodiagnostic testing to Bell's palsy patients with complete facial paralysis.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Option</span> based on observational trials with equilibrium of benefit and harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Level of confidence in evidence: Medium due to variations in patient selection, study design, and heterogeneous results </li>
+    <li>Benefit: Provide prognostic information for the clinician and patient, identification of potential surgical candidates </li>
+    <li>Risks, harms, costs: Patient discomfort, inconvenience to undergo repeated electrical testing, cost of testing </li>
+    <li>Benefit-harm assessment: Equilibrium of benefit and harm </li>
+    <li>Value judgments: None </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Large role for shared decision making, as electrodiagnostic testing may provide only prognostic information for the patient </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: <strong>Option</strong> </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong>Statement 8. Surgical Decompression</strong></p>
+<p>No recommendation can be made regarding surgical decompression for Bell's palsy patients.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>No recommendation</span> based on low-quality, nonrandomized trials and equilibrium of benefit and harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade D</strong> </li>
+    <li>Level of confidence in evidence: Low due to insufficient number of patients and poor quality of studies. Low confidence in the evidence led to a downgrade of the aggregate evidence quality from C to D </li>
+    <li>Benefit: Improved facial nerve functional recovery </li>
+    <li>Risks, harms, costs: Surgical risks and complications, anesthetic risks, direct and indirect costs of surgery </li>
+    <li>Benefit-harm assessment: Equilibrium of benefit and harm </li>
+    <li>Value judgments: Although the data supporting surgical decompression are not strong, there may be a significant benefit for a small subset of patients who meet eligibility criteria and desire surgical management. </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Large. The psychological impact of facial paralysis is significant but varies among patients. Concern about the facial deformity may make some patients willing to pursue a major operation for a small increase in the chance of complete recovery, while others may be more willing to accept the chance of poorer outcome to avoid surgery. </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: <strong>No recommendation</strong> </li>
+    <li>Differences of opinion: Major. The group was divided as to whether the evidence supported no recommendation or an option for surgery. This difference of opinion derived from controversy regarding the strength of evidence (C level evidence vs D level evidence). </li>
+</ul>
+<p><strong>Statement 9. Acupuncture</strong></p>
+<p>No recommendation can be made regarding the effect of acupuncture in Bell's palsy patients.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>No recommendation</span> based on poor-quality trials and an indeterminate ratio of benefit and harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade B</strong> </li>
+    <li>Level of confidence in evidence: Low, due to significant methodological flaws in available evidence </li>
+    <li>Benefit: Acupuncture may provide a potential small improvement in facial nerve function and pain </li>
+    <li>Risks, harms, costs: Cost of acupuncture therapy, time required for therapy, therapy side effects, and delay in instituting steroid therapy </li>
+    <li>Benefit-harm assessment: Unknown </li>
+    <li>Value judgments: Due to the poor quality of the data and the inability to determine the harm-to-benefit ratio, the GDG could not make a recommendation. </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Large </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: <strong>No recommendation</strong> </li>
+    <li>Differences of opinion: Major. The GDG was divided regarding whether to recommend against acupuncture or to make no recommendation </li>
+</ul>
+<p><strong>Statement 10. Physical Therapy</strong></p>
+<p>No recommendation can be made regarding the effect of physical therapy in Bell's palsy patients.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>No recommendation</span> based on case series and equilibrium of benefit and harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade D</strong> </li>
+    <li>Level of confidence in evidence: Low, due to significant flaws in existing trials </li>
+    <li>Benefit: Potential functional and psychological benefit </li>
+    <li>Risks, harms, costs: Cost of therapy, time required for therapy </li>
+    <li>Benefit-harm assessment: Equilibrium of benefit and harm </li>
+    <li>Value judgments: Patients may benefit psychologically from engaging in physical therapy exercises </li>
+    <li>Intentional vagueness: None </li>
+    <li>Role of patient preferences: Large role for shared decision making </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: <strong>No recommendation</strong> </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><strong>Statement 11. Patient Follow-up</strong></p>
+<p>Clinicians should reassess or refer to a facial nerve specialist those Bell's palsy patients with (1) new or worsening neurologic findings at any point, (2) ocular symptoms developing at any point, or (3) incomplete facial recovery 3 months after initial symptom onset.</p>
+<p><em><span style=&quot;text-decoration: underline;&quot;>Recommendation</span> based on observational studies with a preponderance of benefit over harm.</em></p>
+<p><em>Action Statement Profile</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Aggregate evidence quality: <strong>Grade C</strong> </li>
+    <li>Level of confidence in evidence: High </li>
+    <li>Benefit: Reevaluation for alternate diagnoses of facial paralysis, discussion of therapeutic/reconstructive options, psychological support of patient </li>
+    <li>Risks, harms, costs: Cost of visit, time dedicated to visit </li>
+    <li>Benefit-harm assessment: Preponderance of benefit over harm </li>
+    <li>Value judgments: The GDG sought to address the importance of identifying alternate diagnoses in the absence of recovery and potential assessment for rehabilitative options. The GDG recognized a lack of established time for patient follow-up; however, based on the natural history of Bell's palsy, most patients will show complete recovery 3 months after onset. </li>
+    <li>Intentional vagueness: Several specialties have the expertise to reevaluate these patients; therefore, the term <em>facial nerve specialist</em> is used to indicate the clinician who could most appropriately assess new or worsening symptoms in these patients. </li>
+    <li>Role of patient preferences: Small </li>
+    <li>Exceptions: None </li>
+    <li>Policy level: <strong>Recommendation</strong> </li>
+    <li>Differences of opinion: None </li>
+</ul>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Definitions</strong></span>:</p>
+<p><strong>Evidence Levels for Grades of Evidence&amp;dagger;</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Evidence Levels for Grades of Evidence&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Treatment and Harm</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Diagnosis</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>A</th>
+            <td valign=&quot;top&quot;>Well-designed randomized controlled trials performed on a population similar to the guideline's target population</td>
+            <td valign=&quot;top&quot;>Systematic review of cross-sectional studies with consistently applied reference standard and blinding </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>B</th>
+            <td valign=&quot;top&quot;>Randomized controlled trials; overwhelmingly consistent evidence from observational studies</td>
+            <td valign=&quot;top&quot;>Individual cross-sectional studies with consistently applied reference standard and blinding</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>C</th>
+            <td valign=&quot;top&quot;>Observational studies (case control and cohort design)</td>
+            <td valign=&quot;top&quot;>Nonconsecutive studies, case-control studies, or studies with poor, nonindependent, or inconsistently applied reference standards</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>D</th>
+            <td valign=&quot;top&quot;>Mechanism-based reasoning or case reports</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>X</th>
+            <td valign=&quot;top&quot; colspan=&quot;2&quot;>Exceptional situations where validating studies cannot be performed and there is a clear preponderance of benefit over harm</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>&amp;dagger;American Academy of Pediatrics (AAP) classification scheme updated for consistency with current level of evidence definitions.</p>
+<p><strong>Guideline Definitions for Evidence-based Statements</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Guideline Definitions for Evidence-based Statements&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Statement</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Definition</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Implication</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot;>Strong Recommendation</th>
+            <td valign=&quot;top&quot;>A strong recommendation means the benefits of the recommended approach clearly exceed the harms (or that the harms clearly exceed the benefits in the case of a strong negative recommendation) and that the quality of the supporting evidence is excellent (Grade A or B).* In some clearly identified circumstances, strong recommendations may be made based on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits strongly outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>Recommendation</th>
+            <td valign=&quot;top&quot;>A recommendation means the benefits exceed the harms (or that the harms exceed the benefits in the case of a negative recommendation), but the quality of evidence is not as strong (Grade B or C).* In some clearly identified circumstances, recommendations may be made based on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should also generally follow a recommendation but should remain alert to new information and sensitive to patient preferences.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>Option</th>
+            <td valign=&quot;top&quot;>An option means that either the quality of evidence that exists is suspect (Grade D)* or that well-done studies (Grade A, B, or C)* show little clear advantage to one approach vs another.</td>
+            <td valign=&quot;top&quot;>Clinicians should be flexible in their decision making regarding appropriate practice, although they may set bounds on alternatives; patient preference should have a substantial influencing role.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>No Recommendation</th>
+            <td valign=&quot;top&quot;>No recommendation means there is both a lack of pertinent evidence (Grade D)* and an unclear balance between benefits and harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should feel little constraint in their decision making and be alert to new published evidence that clarifies the balance of benefit vs harm; patient preference should have a substantial influencing role. </td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>*See the table above for definitions of evidence grades.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An algorithm titled &quot;Algorithm of Guideline Key Action Statements&quot; is provided in the original guideline document.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Bell's palsy</p>
+<p class=&quot;Note&quot;><strong>Note</strong>:</p>
+<ul class=&quot;contentListFont&quot;>
+    <li>This guideline does not focus on facial paresis/paralysis due to neoplasms, trauma, congenital or syndromic problems, specific infectious agents, or postsurgical facial paresis or paralysis, nor does it address recurrent facial paresis/paralysis. </li>
+    <li>For the purposes of this guideline, Bell's palsy is defined as acute unilateral facial nerve paresis or paralysis with onset in less than 72 hours and without an identifiable cause. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Rehabilitation"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Emergency Medicine"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Neurology"/>
+      <fieldvalue value="Otolaryngology"/>
+      <fieldvalue value="Pediatrics"/>
+      <fieldvalue value="Radiology"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To improve the accuracy of diagnosis for Bell's palsy, to improve the quality of care and outcomes for patients with Bell's palsy, and to decrease harmful variations in the evaluation and management of Bell's palsy</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adults and children presenting with Bell's palsy</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Patient history and physical examination </li>
+    <li>Oral steroids </li>
+    <li>Combination antiviral therapy </li>
+    <li>Eye care </li>
+    <li>Electrodiagnostic testing with complete paralysis </li>
+    <li>Patient follow-up </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Notes</strong>:</p>
+<ul class=&quot;contentListFont&quot;>
+    <li>The following interventions were considered but recommended against: Routine lab testing, diagnostic imaging, antiviral monotherapy, and electrodiagnostic testing with incomplete paralysis. </li>
+    <li>The developer considered the following interventions but no recommendation was made: Surgical decompression, acupuncture, and physical therapy.</li>
+</ul>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Appropriateness of diagnostic test </li>
+    <li>Accuracy of diagnosis </li>
+    <li>Timeliness of diagnosis and treatment </li>
+    <li>Improved paralysis functionality </li>
+    <li>Adverse effects of treatment </li>
+    <li>Quality of life </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All literature searches were performed by an information specialist through July 2012. Two initial searches were performed to identify clinical practice guidelines, systematic reviews, and randomized controlled trials (RCTs). The searches were performed in multiple databases, including the National Guideline Clearinghouse (NGC) (<a href=&quot;http://www.guideline.gov&quot; title=&quot;NGC Web site&quot; target=&quot;_blank&quot;>www.guideline.gov</a>), The Cochrane Library (Cochrane Database of Systematic Reviews, Database of Abstracts of Reviews of Effects [DARE], Health Technology Assessment [HTA] Database, National Health Service Economic Evaluation Database [NHS EED]), the Cumulative Index to Nursing and Allied Health Literature (CINAHL), EMBASE, PubMed, Canadian Medical Association (CMA) Infobase, National Health Service (NHS) Evidence Ear, Nose and Throat (ENT) and Audiology, National Library of Guidelines, National Institute of Health and Care Excellence (NICE), Scottish Intercollegiate Guidelines Network (SIGN), New Zealand Guidelines Group (NZGG), Australian National Health and Medical Research Council (ANHMRC), the Guidelines International Network (G-I-N), Allied and Complementary Medicine (AMED), Agency for Healthcare Research and Quality (AHRQ), Health Services/Technology Assessment Texts (HSTAT), and the TRIP database.</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Clinical practice guidelines were identified by a NGC, CMA Infobase, NHS Evidence ENT and Audiology, National Library of Guidelines, NICE, SIGN, NZGG, ANHMRC, TRIP database, G-I-N, and PubMed search using <em>guideline</em> as a publication type or title word. The search identified 1 guideline after removing duplicates, clearly irrelevant references, and non&amp;ndash;English-language articles. </li>
+    <li>Systematic reviews were identified through NHS Evidence ENT and Audiology, Cochrane Library (Cochrane Database of Systematic Reviews, DARE, HTA Database, NHS EED), PubMed, EMBASE, CINAHL, AMED, AHRQ, HSTAT, and the TRIP database. The final data set included 30 systematic reviews or meta-analyses that were distributed to the Guideline Development Group (GDG) members. Articles were excluded if they were not available in English and did not meet the GDG's quality criteria (i.e., the review had a clear objective and method, an explicit search strategy, and a valid method of data extraction). </li>
+    <li>RCTs were identified through MEDLINE, EMBASE, CINAHL, and CENTRAL and totaled 49 trials. </li>
+</ol>
+<p>The following search parameters were used for both literature searches:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Scope: Acute onset of facial nerve paresis or paralysis (Bell's palsy) </li>
+    <li>Population: Adults, children </li>
+    <li>Exclusions: None </li>
+    <li>Keywords: Bell's palsy, Bell palsy, acute facial paralysis, unilateral facial nerve paralysis/palsy, acute facial nerve paralysis/palsy, idiopathic facial nerve paralysis/palsy, bilateral facial nerve paralysis/palsy, recurrent facial nerve paralysis/palsy, acute facial paralysis and steroid use, acute facial paralysis, facial paresis and antiviral use, surgical management of Bell's palsy, surgical management of acute facial nerve paralysis, facial paralysis, and pregnancy. </li>
+</ul>
+<p>Results of all literature searches were distributed to GDG members, including electronic listings with abstracts (if available) of the searches for clinical guidelines, RCTs, systematic reviews, and other studies. This material was supplemented, as needed, with targeted searches to address specific needs identified in writing the guideline through February 2013.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>1 guideline </li>
+    <li>30 systematic reviews or meta-analyses </li>
+    <li>49 randomized controlled trials </li>
+</ul>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Evidence Levels for Grades of Evidence*</strong> </p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Evidence Levels for Grades of Evidence&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Grade</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Treatment and Harm</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Diagnosis</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>A</th>
+            <td valign=&quot;top&quot;>Well-designed randomized controlled trials performed on a population similar to the guideline's target population</td>
+            <td valign=&quot;top&quot;>Systematic review of cross-sectional studies with consistently applied reference standard and blinding </td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>B</th>
+            <td valign=&quot;top&quot;>Randomized controlled trials; overwhelmingly consistent evidence from observational studies</td>
+            <td valign=&quot;top&quot;>Individual cross-sectional studies with consistently applied reference standard and blinding</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>C</th>
+            <td valign=&quot;top&quot;>Observational studies (case control and cohort design)</td>
+            <td valign=&quot;top&quot;>Nonconsecutive studies, case-control studies, or studies with poor, nonindependent, or inconsistently applied reference standards</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>D</th>
+            <td valign=&quot;top&quot;>Mechanism-based reasoning or case reports</td>
+            <td valign=&quot;top&quot;>&amp;nbsp;</td>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>X</th>
+            <td valign=&quot;top&quot; colspan=&quot;2&quot;>Exceptional situations where validating studies cannot be performed and there is a clear preponderance of benefit over harm</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>*American Academy of Pediatrics (AAP) classification scheme updated for consistency with current level of evidence definitions.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review with Evidence Tables"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The evidence-based approach to guideline development requires that the evidence supporting a policy be identified, appraised, and summarized and that an explicit link between evidence and statements be defined. Evidence-based statements reflect both the quality of evidence and the balance of benefit and harm that is anticipated when the statement is followed. The definitions for evidence-based statements are listed in the &quot;Rating Scheme for the Strength of the Evidence&quot; and &quot;Rating Scheme for the Strength of the Recommendations&quot; fields.</p>
+<p>As much of the guideline dealt with evidence relating to diagnostic tests, the definitions for Evidence Levels for Grades of Evidence (see the &quot;Rating Scheme for the Strength of the Evidence&quot; field) was adapted to include current recommendations from the Oxford Centre for Evidence-Based Medicine.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This guideline was developed using an explicit and transparent a priori protocol for creating actionable statements based on supporting evidence and the associated balance of benefit and harm. The Guideline Development Group (GDG) followed the protocol through all stages of the development process. The GDG consisted of 17 members representing otolaryngology&amp;ndash;head and neck surgery, neurology, facial plastic and reconstructive surgery, neurotology, emergency medicine, primary care, otology, nursing, physician assistants, and consumer advocacy.</p>
+<p>In a series of conference calls, the working group defined the scope and objectives of the proposed guideline. During the 10 months devoted to guideline development ending in February 2013, the GDG met twice, with in-person meetings following the format previously described, using electronic decision-support (BRIDGE-Wiz, Yale Center for Medical Informatics, Connecticut) software to facilitate creating actionable recommendations and evidence profiles. Internal electronic review and feedback on each guideline draft was used to ensure accuracy of content and consistency with standardized criteria for reporting clinical practice guidelines.</p>
+<p>American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF) staff used the Guideline Implementability Appraisal and Extractor (GLIA) to appraise adherence of the draft guideline to methodological standards, to improve clarity of recommendations, and to predict potential obstacles to implementation. GDG members received summary appraisals in February 2013 and modified an advanced draft of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Guideline Definitions for Evidence-based Statements</strong></p>
+<table border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;3&quot; summary=&quot;Table: Guideline Definitions for Evidence-based Statements&quot;>
+    <thead>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Statement</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Definition</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>Implication</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign=&quot;top&quot;>Strong Recommendation</th>
+            <td valign=&quot;top&quot;>A strong recommendation means the benefits of the recommended approach clearly exceed the harms (or that the harms clearly exceed the benefits in the case of a strong negative recommendation) and that the quality of the supporting evidence is excellent (Grade A or B).* In some clearly identified circumstances, strong recommendations may be made based on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits strongly outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>Recommendation</th>
+            <td valign=&quot;top&quot;>A recommendation means the benefits exceed the harms (or that the harms exceed the benefits in the case of a negative recommendation), but the quality of evidence is not as strong (Grade B or C).* In some clearly identified circumstances, recommendations may be made based on lesser evidence when high-quality evidence is impossible to obtain and the anticipated benefits outweigh the harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should also generally follow a recommendation but should remain alert to new information and sensitive to patient preferences.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>Option</th>
+            <td valign=&quot;top&quot;>An option means that either the quality of evidence that exists is suspect (Grade D)* or that well-done studies (Grade A, B, or C)* show little clear advantage to one approach vs another.</td>
+            <td valign=&quot;top&quot;>Clinicians should be flexible in their decision making regarding appropriate practice, although they may set bounds on alternatives; patient preference should have a substantial influencing role.</td>
+        </tr>
+        <tr>
+            <th valign=&quot;top&quot;>No Recommendation</th>
+            <td valign=&quot;top&quot;>No recommendation means there is both a lack of pertinent evidence (Grade D)* and an unclear balance between benefits and harms.</td>
+            <td valign=&quot;top&quot;>Clinicians should feel little constraint in their decision making and be alert to new published evidence that clarifies the balance of benefit vs harm; patient preference should have a substantial influencing role. </td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>*See the &quot;Rating Scheme for the Strength of the Evidence&quot; field for definitions of evidence grades.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+      <fieldvalue value="Internal Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The final guideline draft underwent extensive external peer review. Comments were compiled and reviewed by the chair of the Guideline Development Group (GDG), and a modified version of the guideline was distributed and approved by the full GDG.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p>
+<p>The recommendations contained in the guideline are based on the best available data published through February 2013. Where data were lacking, a combination of clinical experience and expert consensus was used.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>By focusing on opportunities for quality improvement, the guideline should improve diagnostic accuracy, facilitate prompt intervention, decrease inappropriate variations in management, reduce unnecessary tests and imaging procedures, and improve paralysis and rehabilitative outcomes for affected patients.</p>
+<p>For benefits of specific interventions considered in the guideline, see the &quot;Major Recommendations&quot; field.</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Oral Corticosteroids</strong></p>
+<p>Treatment of Bell's palsy with oral corticosteroids is not without risk. Known side effects of oral corticosteroid use include gastrointestinal disturbances, reactivation of peptic ulcer disease, loss of control of glucose levels, elevated blood pressure, peripheral edema, and mood swings or episodes of acute psychosis. Although rare, avascular necrosis of the femoral head has been reported. Pregnant patients and patients with diabetes were routinely excluded from randomized trials. Accordingly, these patients should be handled on an individualized basis.</p>
+<p><strong>Antiviral Therapy</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>The most commonly observed side effects of antiviral therapy are gastrointestinal related and include nausea, vomiting, and diarrhea, with rare severe reactions, including hives, bronchospasm, angioedema, and hepatic or renal failure. Adverse events from antiviral therapy were rarely reported in clinical trials of patients with Bell's palsy and were limited to gastrointestinal upset. Accordingly, no serious adverse events from antiviral therapy were noted in the Bell's palsy literature. </li>
+    <li>Antiviral therapy may also carry an increased risk for pregnant patients. </li>
+</ul>
+<p><strong>Eye Care</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Potential harms of eye care include potential side effects of eye medication. </li>
+    <li>Some authors have not recommended or have discouraged eye patching due to the risk of corneal damage from poor patient execution of the procedure. Clinicians who recommend either eye taping or patching should ensure that patients have been carefully instructed in proper execution. </li>
+</ul>
+<p><strong>Electrodiagnostic Testing</strong></p>
+<p>Potential harms of electrodiagnostic testing include patient discomfort, and inconvenience to undergo repeated electrical testing.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>This guideline is intended to focus on a limited number of quality improvement opportunities deemed most important by the Guideline Development Group (GDG) and is not intended to be a comprehensive guide for diagnosing and managing Bell's palsy. The recommendations outlined in this guideline are not intended to represent the standard of care for patient management, nor are the recommendations intended to limit treatment or care provided to individual patients. </li>
+    <li>Guidelines are not intended to supersede professional judgment but rather may be viewed as a relative constraint on individual clinician discretion in a particular clinical circumstance. Less frequent variation in practice is expected for a &quot;strong recommendation&quot; than might be expected with a &quot;recommendation.&quot; &quot;Options&quot; offer the most opportunity for practice variability. Clinicians should always act and decide in a way that they believe will best serve their patients' interests and needs, regardless of guideline recommendations. Clinicians must also operate within their scope of practice and according to their training. Guidelines represent the best judgment of a team of experienced clinicians and methodologists addressing the scientific evidence for a particular topic. </li>
+    <li>This clinical practice guideline is provided for informational and educational purposes only. It is not intended as a sole source of guidance in managing Bell's palsy. Rather, it is designed to assist clinicians by providing an evidence-based framework for decision-making strategies. The guideline is not intended to replace clinical judgment or establish a protocol for all individuals with this condition, and it may not provide the only appropriate approach to diagnosing and managing this program of care. </li>
+    <li>As medical knowledge expands and technology advances, clinical indicators and guidelines are promoted as conditional and provisional proposals of what is recommended under specific conditions, but they are not absolute. Guidelines are not mandates and do not and should not purport to be a legal standard of care. The responsible physician, in light of all the circumstances presented by the individual patient, must determine the appropriate treatment. Adherence to these guidelines will not ensure successful patient outcomes in every situation. </li>
+    <li>The American Academy of Otolaryngology-Head and Neck Surgery (AAO-HNSF) Foundation emphasizes that these clinical guidelines should not be deemed to include all proper treatment decisions or methods of care, or to exclude other treatment decisions or methods of care reasonably directed to obtaining the same results. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Implementation Considerations</strong></p>
+<p>The clinical practice guideline is published as a supplement to <em>Otolaryngology-Head and Neck Surgery</em>, which will facilitate reference and distribution. A full-text version of the guideline will be accessible, free of charge, at <a href=&quot;http://www.entnet.org&quot; title=&quot;Academy of Otolaryngology-Head and Neck Surgery Foundation Web site&quot;>http://www.entnet.org</a>. In addition, all American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF) guidelines are now available via the Otolaryngology-Head and Neck Surgery application for smartphones and tablets. The guideline will be presented to AAO-HNSF members as a miniseminar at the AAO-HNSF Annual Meeting &amp;amp; OTO EXPO. Existing brochures and publication by the AAO-HNSF will be updated to reflect the guideline's recommendations.</p>
+<p>As a supplement to clinicians, an algorithm of the guideline's action statements has been provided in the original guideline document. The algorithm allows for a more rapid understanding of the guideline's action statements and can be adopted as a quick reference guide to support the implementation of these recommendations.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Patient Resources"/>
+      <fieldvalue value="Quick Reference Guides/Physician Guides"/>
+      <fieldvalue value="Resources"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Baugh RF, Basura GJ, Ishii LE, Schwartz SR, Drumheller CM, Burkholder R, Deckard NA, Dawson C, Driscoll C, Gillespie MB, Gurgel RK, Halperin J, Khalid AN, Kumar KA, Micco A, Munsell D, Rosenbaum S, Vaughan W. Clinical practice guideline: Bell's palsy. Otolaryngol Head Neck Surg. 2013 Nov;149(3 Suppl):S1-S27. [148 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24189771&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2013 Nov"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="American Academy of Otolaryngology - Head and Neck Surgery Foundation - Medical Specialty Society"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American Academy of Otolaryngology-Head and Neck Surgery Foundation</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF) Guideline Development Panel</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Panel Members</em>: Reginald F. Baugh, MD, University of Toledo Medical Center, Toledo, Ohio, USA; Gregory J. Basura, MD, PhD, University of Michigan, Ann Arbor, Michigan, USA; Lisa E. Ishii, MD, MHS, Johns Hopkins University, Baltimore, Maryland, USA; Seth R. Schwartz, MD, MPH, Virginia Mason Medical Center, Seattle, Washington, USA; Caitlin Murray Drumheller, Department of Research and Quality Improvement, American Academy of Otolaryngology-Head and Neck Surgery Foundation, Alexandria, Virginia, USA; Rebecca Burkholder, JD, National Consumers League, Washington, DC, USA; Nathan A. Deckard, MD, Cooper University, Camden, New Jersey, USA; Cindy Dawson, MSN, RN, University of Iowa, Iowa City, Iowa, USA; Colin Driscoll, MD, Mayo Clinic, Rochester, Minnesota, USA; M. Boyd Gillespie, MD, MSc, Medical University of South Carolina, Charleston, South Carolina, USA; Richard K. Gurgel, MD, University of Utah, Salt Lake City, Utah, USA; John Halperin, MD, Overlook Medical Center, Summit, New Jersey, USA; Ayesha N. Khalid, MD, Emerson Hospital, Concord, Massachusetts, USA, Harvard Medical School, Boston, Massachusetts, USA; Kaparaboyna Ashok Kumar, MD, FRCS, University of Texas Health Science Center, San Antonio, Texas, USA; Alan Micco, MD, Northwestern University Feinberg School of Medicine, Chicago, Illinois, USA; Debra Munsell, DHSc, PA-C, Louisiana State University Health Sciences Center New Orleans, New Orleans, Louisiana, USA; Steven Rosenbaum, MD, HackensackUMC Mountainside Hospital, Montclair, NJ; William Vaughan, National Committee to Preserve Social Security and Medicare, Falls Church, Virginia, USA</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Financial Disclosure and Conflicts of Interest</strong></p>
+<p>The cost of developing this guideline, including travel expenses of all Guideline Development Group (GDG) members, was covered in full by the American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF). Potential conflicts of interest for all GDG members in the past 2 years were compiled and distributed before the first conference call. After review and discussion of these disclosures, the GDG concluded that individuals with potential conflicts could remain on the GDG if they (1) reminded the GDG of potential conflicts before any related discussion, (2) recused themselves from a related discussion if asked by the GDG, and (3) agreed not to discuss any aspect of the guideline with industry before publication. Last, GDG members were reminded that conflicts of interest extend beyond financial relationships and may include personal experiences, how a member earns a living, and the member's previously established &quot;stake&quot; in an issue.</p>
+<p><strong>Disclosures</strong></p>
+<p><em>Competing interests</em>: Seth R. Schwartz received a research grant from the Cochlear Corporation. Colin Driscoll is a surgeon advisor and board member for the Cochlear Corporation, Advanced Bionics, and MED-EL Corporation. M. Boyd Gillespie has received grant support from and is a consultant for Gyrus-Olympus, Medtronic, and Inspire Medical. John Halperin is a stockholder for Abbott, Bristol Myers, Johnson &amp;amp; Johnson, and Merck; an expert witness in medical malpractice cases; and on the editorial board of Neurology. Ayesha N. Khalid has received an Acclarent fellowship research training grant. Kaparaboyna Ashok Kumar is a consultant for Southeast Fetal Alcohol Spectrum Disorders Training Center and Meharry Medical College. Alan Micco is on the speakers bureau for Alcon Labs. Steven Rosenbaum is a stockholder for Pfizer, Johnson &amp;amp; Johnson, GlaxoSmithKline, Sanofi, and Celgene Corporation.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;http://www.entnet.org/guide_lines/Bells.cfm&quot; title=&quot;American Academy of Otolaryngology-Head and Neck Surgery Web site&quot;>American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF) Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Baugh RF, Basura GJ, Ishii LE, Schwartz SR, Drumheller CM, Burkholder R, Deckard NA, Dawson C, Driscoll C, Gillespie MB, Gurgel RK, Halperin J, Khalid AN, Kumar KA, Micco A, Munsell D, Rosenbaum S, Vaughan W. Clinical practice guideline: Bell's palsy. Executive summary. Otolaryngol Head Neck Surg. 2013 Nov;149(5):656-663. Electronic copies: Available from the <a href=&quot;http://oto.sagepub.com/content/149/5/656.full&quot; title=&quot;SAGE Journals Online Web site&quot;>SAGE Journals Online Web site</a>. </li>
+    <li>Clinical Practice Guideline summary: Bell's palsy. Bulletin. Alexandria (VA): American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF). 2013 Jun. 8 p. Electronic copies: Available in Portable Document Format (PDF) from the <a href=&quot;http://www.entnet.org/guide_lines/upload/Bulletin_BellsExecSummary_Final_102313.pdf&quot; title=&quot;American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF) Web site&quot;>American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF) Web site</a>. </li>
+    <li>Clinical Practice Guideline: Bell's palsy. Podcast part 1 and 2. Alexandria (VA): American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF). 2013 Oct. Available from the <a href=&quot;http://oto.sagepub.com/site/misc/Index/Podcasts.xhtml&quot; title=&quot;SAGE Journals Online Web site&quot;>SAGE Journals Online Web site</a>. </li>
+    <li>Research Gaps - Bell's palsy. Alexandria (VA): American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF). 2013 Nov. Electronic copies: Available from the <a href=&quot;http://www.entnet.org/guide_lines/Research-Gaps-Bells-palsy.cfm&quot; title=&quot; title=&quot;>AAO-HNSF Web site</a>. </li>
+    <li>Rosenfeld RM, Shiffman RN, Robertson P. Clinical practice guideline development manual, third edition: a quality-driven approach for translating evidence into action. Otolaryngol Head Neck Surg. 2013;148(Suppl 1):S1-55. Electronic copies: Available from the <a href=&quot;http://oto.sagepub.com/content/148/1_suppl/S1.full&quot; title=&quot;SAGE Journals Online Web site&quot;>SAGE Journals Online Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Clinical Practice Guideline: Bell's palsy. Fact sheet. Alexandria (VA): American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF). 2013 Nov. 2 p. Electronic copies: Available in Portable Document Format (PDF) from the <a href=&quot;http://www.entnet.org/guide_lines/upload/October2013_BellsGuidelineFactSheetUpdated.pdf&quot; title=&quot;American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF) Web site&quot;>American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF) Web site</a>. </li>
+    <li>Doctor, please explain: Bell's palsy. Plain language summary. Alexandria (VA): American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF). 2013 Nov. Electronic copies: Available from the <a href=&quot;http://www.entnet.org/HealthInformation/BellsPalsy.cfm&quot; title=&quot;American Academy of Otolaryngology-Head and Neck Surgery Foundation (AAO-HNSF) Web site&quot;>AAO-HNSF Web site</a>. </li>
+</ul>
+<p class=&quot;Disclaimer&quot;>Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on February 12, 2014. The information was verified by the guideline developer on February 24, 2014.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Permission is granted to reproduce the aforementioned material in <strong>print and electronic format</strong> at no charge subject to the following conditions:</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>If any part of the material to be used (for example, figures) has appeared in our publication with credit or acknowledgement to another source, permission must also be sought from that source.&amp;nbsp; If such permission is not obtained then that material may not be included in your publication/copies. </li>
+    <li>Suitable acknowledgement to the source must be made, either as a footnote or in a reference list at the end of your publication, as follows:
+    <p>&quot;Reprinted from Publication title, Vol number, Author(s), Title of article, Pages No., Copyright (Year), with permission from American Academy of Otolaryngology-Head and Neck Surgery Foundation, Inc.&quot;</p>
+    </li>
+    <li>Reproduction of this material is confined to the purpose for which permission is hereby given. </li>
+    <li>This permission is granted for non-exclusive world <strong><span style=&quot;text-decoration: underline;&quot;>English</span></strong> rights only. For other languages please reapply separately for each one required. </li>
+</ol></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 00:02:42 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:01:03 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 70.709 (3)
+  esindex: 0.01
+  captures_list: 99.138
+  CDXLines.iter: 22.774 (3)
+  PetaboxLoader3.datanode: 69.448 (4)
+  exclusion.robots: 0.526
+  exclusion.robots.policy: 0.505
+  RedisCDXSource: 0.671
+  load_resource: 41.795
+-->

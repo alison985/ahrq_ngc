@@ -1,0 +1,590 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app57.us.archive.org';v.server_ms=820;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-9276?contentType=xml', '20160930224930')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930224930/https://www.guideline.gov/summaries/downloadcontent/ngc-9276?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930224930/https://www.guideline.gov/summaries/downloadcontent/ngc-9276?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-9276?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930224930" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 22:49:30 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 22:49:30 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 22:49:30 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930224930*/https://www.guideline.gov/summaries/downloadcontent/ngc-9276?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-9276?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Guideline for management of wounds in patients with lower-extremity venous disease.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Wound, Ostomy, and Continence Nurses Society (WOCN). Guideline for management of wounds in patients with lower-extremity venous disease. Mount Laurel (NJ): Wound, Ostomy, and Continence Nurses Society (WOCN); 2011 Jun 1. 58 p.&amp;nbsp;(WOCN clinical practice guideline series; no. 4).&amp;nbsp; [168 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Wound, Ostomy, and Continence Nurses Society (WOCN). Guideline for management of wounds in patients with lower-extremity venous disease. Glenview (IL): Wound, Ostomy, and Continence Nurses Society (WOCN); 2005. 42 p. (WOCN clinical practice guideline; no. 4).</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A level of evidence rating (<strong>A-C</strong>) has been assigned specific recommendations and is defined at the end of the &quot;Major Recommendations&quot; field. Citations in support of individual recommendations are identified in the original guideline document.</p>
+<ol style=&quot;list-style-type: upper-alpha;&quot;>
+    <li><strong><span style=&quot;text-decoration: underline;&quot;>Assessment of Patients with Ulcers and Lower-Extremity Venous Disease (LEVD)</span></strong>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+        <li>Prior to treatment, assess causative and contributing factors and significant signs and symptoms to differentiate the different types of lower-extremity ulcers that require varying treatments (see Algorithm in Appendix A in original guideline document). </li>
+        <li>Review health history to address risk factors for LEVD (i.e., family history, pregnancy, older age, thrombophilia, systemic inflammation, obesity, venous thromboembolism [VTE], triggers), wound and pain history, and history of prescribed/self-prescribed medications. <strong>Level of Evidence = C</strong>
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Assess pain characteristics: onset, duration, location, precipitating/alleviating factors and presence/absence of venous claudication or rest pain (found in mixed disease). Note: Pain may be variable in LEVD: mild to severe, stinging, throbbing and accompanied by complaints of heaviness worsening with prolonged leg dependency. </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;3&quot;>
+        <li>Review pertinent labs:
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Hemoglobin, hematocrit, and prothrombin time. </li>
+            <li>If patient on warfarin (Coumadin) review international normalized ratios (INRs). <strong>Level of Evidence = C</strong> </li>
+            <li>Elevated homocysteine (Hcy) levels (hyperhomocysteinemia). <strong>Level of Evidence = C</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;4&quot;>
+        <li>Conduct a physical examination of the lower extremities.
+        <ol style=&quot;list-style-type: lower-alpha;&quot;>
+            <li>Assess functional ability. </li>
+            <li>Determine perfusion status by assessing skin temperature, capillary refill, venous refill, color changes and presence of paresthesias. </li>
+            <li>Determine presence or absence of pedal pulses. Palpate both dorsalis pedis and posterior tibial pulses of each lower extremity. Presence of palpable pulses does not rule out lower extremity arterial disease nor does absence of pulses indicate arterial disease, especially in presence of edema. <strong>Level of Evidence = C</strong> </li>
+            <li>Perform an ankle brachial index (ABI) on all patients with leg ulcers. Recheck the ABI periodically (every 3 months) for patients with non-healing lower extremity ulcers. <strong>Level of Evidence = C</strong> </li>
+            <li>Assess the lower extremity skin changes for edema, hemosiderin staining, venous dermatitis, atrophie blanche, varicose veins, ankle flaring, scarring from previous ulcers, lipodermatosclerosis, and elevated temperature. (See Appendix C in original guideline document on types of edema.) </li>
+            <li>Assess for ulcer complications: cellulitis, gangrene, and osteomyelitis. </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;5&quot;>
+        <li>Determine and document typical wound characteristics: location, shape, wound edges, wound bed, exudate, periwound skin, absence/presence of odor, and bleeding. </li>
+        <li>Consider use of Duplex scanning with ultrasound, as it is the most reliable non-invasive test to diagnose anatomical and hemodynamic abnormalities and to detect reflux in any venous segment. <strong>Level of Evidence=A</strong> </li>
+        <li>Monitor/measure the percentage change in ulcer area to assess healing. An ulcer that does not heal or show significant healing within 4 weeks should prompt the health care provider to consider adjunctive therapies. <strong>Level of Evidence = B </strong></li>
+        <li>Assess for factors that impede healing such as co-morbid conditions, lack of adherence to prevention and treatment programs, especially compression therapy, and medications such as steroids. </li>
+        <li>Consider referral for further evaluation of patients with cellulitis, VTE, variceal bleeds, and ulcers that are atypical in appearance or unresponsive to 2-4 weeks of appropriate therapies. </li>
+        <li>Consider adjunctive therapies for slow to heal ulcers. <strong>Level of Evidence = A</strong> </li>
+    </ol>
+    </li>
+</ol>
+<ol style=&quot;list-style-type: upper-alpha;&quot; start=&quot;2&quot;>
+    <li><strong><span style=&quot;text-decoration: underline;&quot;>Prevent Venous Ulcers and Recurrence</span></strong>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;11&quot;>
+        <li>Encourage patients to undertake a program of physical activity to strengthen the calf muscle and increase ankle range of motion to prevent ulcer recurrence. <strong>Level of Evidence = A</strong> </li>
+        <li>Educate patients that compression stockings or other compression wraps/bandages must be worn every day for the prevention of venous edema and venous leg ulcer recurrence. <strong>Level of Evidence = A </strong></li>
+        <li>Screen all patients with lower extremity wounds for arterial disease using Doppler measurement of the ankle-brachial index (ABI) by suitably trained staff prior to application of compression stockings/bandages/wraps. </li>
+        <li>Educate individuals with normal arterial blood flow to use the strongest compression (e.g., 40-50 mm Hg) that can be applied or tolerated. Lower compression may be helpful for individuals with LEVD and lipodermatosclerosis, who are unable to apply the compression garments, tolerate higher compression, or afford the cost of higher compression garments. <strong>Level of Evidence = B</strong> </li>
+        <li>Have compression stockings fitted by trained personnel. </li>
+        <li>Have compression bandages and wraps applied by skilled personnel. </li>
+        <li>Wound care specialists should closely supervise and monitor compression for individuals with mixed venous/arterial insufficiency with an ABI &amp;gt;0.5 to &amp;lt;0.8. Do not apply sustained, high levels of compression for individuals with an ABI &amp;lt;0.5. </li>
+        <li>Consider vein surgery to prevent ulcer recurrence. <strong>Level of Evidence = B</strong> </li>
+        <li>Provide patient education about the necessity of wearing of compression stockings for the rest of one's life, elevating legs, managing weight, participating in physical activities, avoiding trauma, seeking early intervention for first signs of swelling, redness, or abnormal sensations in the skin, and discussing medication options should be stressed by health care providers. </li>
+    </ol>
+    </li>
+</ol>
+<ol style=&quot;list-style-type: upper-alpha;&quot; start=&quot;3&quot;>
+    <li><strong><span style=&quot;text-decoration: underline;&quot;>Interventions for Patients with LEVD and Ulcers</span></strong>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;20&quot;>
+        <li>Recommend patients with LEVD and ulcers seek care guided by a clinical wound expert. <strong>Level of Evidence = C</strong> </li>
+        <li>Cleanse the ulcer at each dressing change while minimizing trauma to the ulcer and surrounding skin. No specific studies demonstrate the benefit of using one cleanser over another, thus, ulcers should be cleansed with non-cytotoxic cleansers, saline, or water. <strong>Level of Evidence = C</strong> </li>
+    </ol>
+    <p><strong>Dermatitis </strong></p>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;22&quot;>
+        <li>Avoid the use of known skin irritants and allergens on the skin especially in patients with venous dermatitis because a high percentage of individuals with LEVD and ulcers experience hypersensitivity to various ingredients and products. </li>
+        <li>Patch test individuals with known sensitivities or delayed wound healing prior to use of new products. Use a topical steroid ointment for patients with dermatitis for no longer than 2 weeks to reduce inflammation and itching. In severe cases, a prolonged trial might be warranted. </li>
+    </ol>
+    <p><strong>Debridement</strong></p>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;24&quot;>
+        <li>Closely monitor the ulcer when any debridement method is used such as autolysis or enzymatic debriding agents. No one method of debridement has been shown to be optimal for LEVD ulcers. </li>
+        <li>Consider larval (maggot) therapy to remove necrotic tissue. <strong>Level of Evidence = B</strong> </li>
+    </ol>
+    <p><strong>Pain Management</strong></p>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;26&quot;>
+        <li>Consider topical anesthetic agents to provide pain relief for venous ulcer debridement such as eutectic mixture of local anesthetics (EMLA) and lidocaine-prilocaine based creams which have been found to reduce pain scores when used during debridement. <strong>Level of Evidence = B</strong> </li>
+        <li>Consider use of hydrocolloid or foam dressings to reduce pain associated with LEVD ulcers. <strong>Level of Evidence = B</strong> </li>
+    </ol>
+    <p><strong>Dressings</strong></p>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;28&quot;>
+        <li>Select dressings according to accepted wound care principles, ulcer characteristics, patient needs such as comfort, cost, ease of application, wound draining absorption capability, and availability of dressings. </li>
+    </ol>
+    <p><strong>Antibiotics</strong></p>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;29&quot;>
+        <li>Treat deep tissue infection and cellulitis with systemic treatment approaches. Consider topical antimicrobial/antibiotics for superficial infection. Use culture guided antibiotic therapy. Consider a trial of using nontoxic antimicrobials (e.g., cadexomer iodine or silver dressings) for clinical infection as an alternative to topical antibiotics. <strong>Level of Evidence = C</strong> </li>
+    </ol>
+    <p><strong>Nutrition</strong></p>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;30&quot;>
+        <li>Consider use of Mesoglycan combined with usual care (compression, leg elevation) to promote ulcer healing. <strong>Level of Evidence = B</strong> </li>
+        <li>Consider using Rutosides in doses ranging from 250 to 300 mg twice daily to improve ulcer healing rates. <strong>Level of Evidence = A</strong> </li>
+    </ol>
+    <p><strong>Compression Therapy</strong></p>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;32&quot;>
+        <li>Select compression methods based on careful assessment of the patient. </li>
+        <li>Compression therapy heals more venous leg ulcers and decreases healing time compared to no compression therapy. <strong>Level of Evidence = A</strong> </li>
+        <li>Use of high compression to treat patients with LEVD is reported to be more effective than low compression. There are no differences in the effectiveness of the different types of products available for high compression. However, there is some suggestion that elastic layers might be more beneficial. <strong>Level of Evidence = A</strong> </li>
+        <li>Do not rely on antiembolism stockings or hose (15-17 mm Hg), which are not designed for therapeutic compression and should not be used as such. </li>
+        <li>Consider using a multi-layer system that contains an elastic layer, as this appears to be beneficial. <strong>Level of Evidence = A </strong></li>
+        <li>Use a trial of modified, reduced compression bandaging (23-30 mm Hg at the ankle) for individuals with mixed arterial/venous disease and moderate arterial insufficiency (ABI &amp;gt;0.5 to &amp;lt;0.8 mm Hg) who present with ulcers and edema. <strong>Level of Evidence = C</strong> </li>
+        <li>Consider using intermittent pneumatic compression (IPC) for patients who are immobile or who need higher levels of compression than that which can be provided with stockings or wraps (i.e., those with extremely large legs or who are intolerant of stockings or wraps) or who have not responded to stockings/wraps. <strong>Level of Evidence = B</strong> </li>
+    </ol>
+    <p><strong>Medications</strong></p>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;39&quot;>
+        <li>Consider use of the following medications to promote healing:
+        <ul style=&quot;list-style-type: disc;&quot;>
+            <li>Pentoxifylline, 400 mg 3 times per day as an adjunct to compression therapy to treat venous ulcers. <strong>Level of Evidence = A</strong> </li>
+            <li>Granulocyte-macrophage colony stimulating factor given as a peri-ulcer injection to improve ulcer healing. <strong>Level of Evidence = B</strong> </li>
+            <li>Horse chestnut seed extract is beneficial in controlling pain and reducing edema in LEVD. <strong>Level of Evidence = A</strong> </li>
+            <li>Sulodexide (not widely available in the U.S.) administered orally or intramuscularly combined with compression. <strong>Level of Evidence = A</strong> </li>
+        </ul>
+        </li>
+    </ol>
+    <p><strong>Surgical Options</strong></p>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;40&quot;>
+        <li>Consider subendoscopic perforator surgery to improve venous leg ulcer healing and reduce recurrence.<strong> Level of Evidence = B </strong></li>
+    </ol>
+    <p><strong>Adjunctive Therapies</strong></p>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;41&quot;>
+        <li>Educate/encourage patients to participate in a home-based physical activity program including isotonic or resistance activities, to improve calf muscle pump function and reduce healing time. <strong>Level of Evidence = A</strong> </li>
+        <li>Teach patients to elevate legs above the level of the heart for 30 minutes, 3 to 4 times per day, if not medically contraindicated. </li>
+    </ol>
+    <p><strong>Patient Education and Provider Follow-Up</strong></p>
+    <ol style=&quot;list-style-type: decimal;&quot; start=&quot;43&quot;>
+        <li>Educate patients about wearing compression for a lifetime, smoking cessation, physical activity/exercising, avoiding trauma/leg crossing, and following healthy practices such as weight management and nutrition. </li>
+        <li>Health care providers should regularly assess adherence to recommendations, functional abilities and activities of daily living, presence of depression and other concomitant illnesses, pain, and the condition of stockings, bandages, and wraps. </li>
+    </ol>
+    </li>
+</ol>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Definitions</span></strong>:</p>
+<p><strong>Level-of-Evidence Rating</strong></p>
+<p><strong>Level I</strong>: A randomized controlled trial (RCT) that demonstrates a statistically significant difference in at least one important outcome defined by p &amp;lt;0.05</p>
+<p><strong>Level II</strong>: A RCT that does not meet Level I criteria</p>
+<p><strong>Level III</strong>: A nonrandomized trial with contemporaneous controls selected by some systematic method. A control may have been selected because of its perceived suitability as a treatment option for individual patients</p>
+<p><strong>Level IV</strong>: A before-and-after study or a case series of at least 10 patients using historical controls or controls drawn from other studies</p>
+<p><strong>Level V</strong>: A case series of at least 10 patients with no controls</p>
+<p><strong>Level VI</strong>: A case report of fewer than 10 patients</p>
+<p><strong>Level-of-Evidence Rating for Recommendations</strong></p>
+<p><strong>Level A</strong>: Two or more supporting RCTs of at least 10 humans with lower extremity venous ulcers (at Levels I or II), meta-analysis of RCTs, or Cochrane systematic review of RCTs</p>
+<p><strong>Level B</strong>: One or more supporting controlled trials of at least 10 humans with lower extremity venous ulcers or two or more supporting non-randomized trials of at least 10 humans with lower extremity venous ulcers (at Level III)</p>
+<p><strong>Level C</strong>: Two supporting case series of at least 10 humans with lower extremity venous ulcers or expert opinion</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An algorithm for the determination of wound etiology is provided in Appendix A of the original guideline document.</p></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Lower-extremity venous disease (LEVD) (venous insufficiency) </li>
+    <li>Lower-extremity wounds and ulcers </li>
+</ul>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Counseling"/>
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Evaluation"/>
+      <fieldvalue value="Management"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Risk Assessment"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Dermatology"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Nursing"/>
+      <fieldvalue value="Physical Medicine and Rehabilitation"/>
+      <fieldvalue value="Surgery"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Health Care Providers"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physical Therapists"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>To support clinical practice by providing consistent research-based information with the goal of improved, cost-effective patient outcomes as well as to stimulate increased wound research</p></div>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients with lower-extremity venous disease (LEVD) with or at risk for wounds</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Diagnosis/Evaluation/Risk Assessment</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Assessment of causative and contributive factors and significant signs and symptoms to differentiate types of lower-extremity ulcers </li>
+    <li>Review of health history for risk factors for lower extremity venous disease (LEVD) (wound history, pain history, pharmacologic history of prescribed and self-prescribed medications) </li>
+    <li>Review of pertinent labs (hemoglobin, hematocrit, and prothrombin time; international normalized ratio [INR]; homocysteine levels) </li>
+    <li>Lower-extremity examination (functional ability, perfusion status, presence or absence of pedal pulses, ankle brachial index [ABI], dermatologic status, localized inflammation, edema, wound characteristics, complications) </li>
+    <li>Diagnostic evaluation with one of the following option: duplex imaging, Doppler ultrasonography, photoplethysmography, air plethysmography, venography </li>
+    <li>Assessment of factors that may impede healing </li>
+    <li>Monitoring the percentage change in ulcer area to assess healing </li>
+    <li>Referral when appropriate (cellulitis, deep vein thrombosis [DVT], variceal bleeds, wounds that are atypical in appearance or location, and wounds that are unresponsive to 2 to 4 weeks of appropriate therapies) </li>
+</ol>
+<p><strong>Prevention</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Improving calf-muscle strengthening </li>
+    <li>Light compression therapy </li>
+    <li>Vein surgery </li>
+    <li>Compression stockings or other compression devices with patient education on their use </li>
+    <li>Monitoring ABI in patients undergoing compression therapy </li>
+</ol>
+<p><strong>Management/Treatment</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Care guided by a clinical wound expert </li>
+    <li>Cleansing of the wound at each dressing change </li>
+    <li>Avoidance of known skin irritants and allergens </li>
+    <li>Patch testing individuals with known sensitivities or delayed wound healing prior to use of new product </li>
+    <li>Debridement </li>
+    <li>Eutectic mixture of local anesthetics (EMLA) cream </li>
+    <li>Hydrocolloid or foam dressings </li>
+    <li>Topical antimicrobial agent (i.e., silver sulfadiazine, cadexomer iodine) </li>
+    <li>Mesoglycan </li>
+    <li>Flavonoids (Rutoside) </li>
+    <li>Compression therapy </li>
+    <li>Pentoxifylline (adjunct to compression therapy) </li>
+    <li>Horse chestnut seed extract </li>
+    <li>Granulocyte-macrophage colony stimulating factor (GM-CSF) </li>
+    <li>Sulodexide </li>
+    <li>Subendoscopic perforator surgery procedure </li>
+    <li>Home-based exercise program </li>
+    <li>Patient education </li>
+    <li>Provider follow-up </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Wound healing rates </li>
+    <li>Complication risks </li>
+    <li>Signs and symptoms of lower-extremity venous disease (LEVD) </li>
+    <li>Sensitivity and specificity of diagnostic assessments </li>
+    <li>Recurrence rates and risks </li>
+    <li>Improvement in function and quality of life </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Hand-searches of Published Literature (Secondary Sources)"/>
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The primary authors of this guideline independently conducted a literature search of Medline and Cochrane Library databases to identify studies and systematic reviews published in English from January 2005 to July 2010. The following medical subject headings (MESH) were used to search for each specific question related to lower-extremity venous disease (LEVD) and included headings such as leg ulcer, lower-extremity wounds, venous ulcers, venous insufficiency, venous stasis ulcers, stasis ulcers, varicose ulcers, wound healing, wound infection, hydrocolloid bandages, biological dressings, occlusive dressings, compression stockings, intermittent pneumatic compression devices, color Doppler ultrasonography, ankle brachial index, and debridement. The search targeted meta-analyses, randomized controlled trials (RCTs), prospective clinical trials, retrospective studies, and systematic reviews. Bibliographies of selected articles also were reviewed.</p></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>More than 200 articles were identified and reviewed for this guideline.</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Levels-of-Evidence Rating</strong></p>
+<p><strong>Level I</strong>: A randomized controlled trial (RCT) that demonstrates a statistically significant difference in at least one important outcome defined by p &amp;lt;0.05</p>
+<p><strong>Level II</strong>: A RCT that does not meet Level I criteria</p>
+<p><strong>Level III</strong>: A nonrandomized trial with contemporaneous controls selected by some systematic method. A control may have been selected because of its perceived suitability as a treatment option for individual patients</p>
+<p><strong>Level IV</strong>: A before-and-after study or a case series of at least 10 patients using historical controls or controls drawn from other studies</p>
+<p><strong>Level V</strong>: A case series of at least 10 patients with no controls</p>
+<p><strong>Level VI</strong>: A case report of fewer than 10 patients</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Primary reviewers read and summarized selected articles. Each article was assigned a level-of-evidence rating using the criteria listed in the &quot;Rating Scheme for the Strength of the Evidence&quot; field.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Wound, Ostomy, and Continence Nurses Society (WOCN) developed this evidence-based guideline using the following process. A panel of WOCN members, representing a wide range of experience and clinical practice backgrounds, convened to plan the guideline format. A topical outline was designed, and specific questions were proposed to provide focus for the evidence search. The review included studies reporting primary data relevant to lower-extremity venous disease (LEVD) and specific therapies or diagnostic modalities. The panel developed a list of 18 questions to guide the evidence-based literature review (see the original guideline document).</p>
+<p>Summaries of the studies were presented to all task force members for review, discussion, and clarification. After a series of conference calls and meetings conducted September through February 2011, the guideline was finalized incorporating evidence from the studies. Studies supporting the guideline are cited in the text and listed in the references. To classify the strength of the evidence in this guideline, a level-of-evidence rating (Level A, B, or C) has been assigned to specific recommendations (see the &quot;Rating Scheme for the Strength of the Recommendations&quot; field). The rating refers to the strength of the evidence for a recommendation and does not relate to the importance of the recommendation. The rating system was adapted from the rating systems described by Sackett (1989), Cook, Guyatt, Laupacis, and Sackett (1994), and the Agency for Health Care Policy and Research (AHCPR&amp;mdash;now called AHRQ; 1992, 1994). Where specific level-of evidence ratings are not included, the information or recommendations presented represents the consensus opinion of panel members.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Level-of-Evidence Rating for Recommendations</strong></p>
+<p><strong>Level A</strong>: Two or more supporting RCTs of at least 10 humans with lower extremity venous ulcers (at Levels I or II), a meta-analysis of RCTs, or a Cochrane systematic review of RCTs</p>
+<p><strong>Level B</strong>: One or more supporting controlled trials of at least 10 humans with lower extremity venous ulcers or two or more supporting non-randomized trials of at least 10 humans with lower extremity venous ulcers (at Level III)</p>
+<p><strong>Level C</strong>: Two supporting case series of at least 10 humans with lower extremity venous ulcers or expert opinion</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Published cost analyses were reviewed.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of evidence supporting the recommendations is identified and graded for selected recommendations (see the &quot;Major Recommendations&quot; field).</p>
+<p>Where specific level of evidence ratings are not included, the information represents a consensus of panel members.</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<ul>
+    <li>Identification of individuals with lower-extremity venous disease (LEVD) who are at risk for developing wounds </li>
+    <li>Identification of individuals with current wounds that are caused or complicated by LEVD </li>
+    <li>Implementation of appropriate strategies/plans to:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>Reduce or eliminate known modifiable risk factors for LEVD </li>
+        <li>Attain/maintain intact skin </li>
+        <li>Reduce edema </li>
+        <li>Manage drainage </li>
+        <li>Reduce pain </li>
+        <li>Prevent complications </li>
+        <li>Promptly identify/manage complications </li>
+        <li>Optimize potential for healing </li>
+        <li>Improve functional status and quality of life </li>
+        <li>Educate and involve patient/caregiver in self-care management </li>
+    </ul>
+    </li>
+</ul>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A review of ingredients and products that cause positive patch test results in individuals with venous ulcers show that between 46% and 67% of individuals have positive patch tests with a high incidence of hypersensitivity to lanolin and topical antibiotics. Also implicated are Balsam of Peru (one of the most common sensitizers), bacitracin, corticosteroid ointments, neomycin sulfate, chloramphenicol, nickel sulfate, silver nitrate, propylene glycol, certain hydrocolloid formulations, parabens (bepanthen), benzalkonium chloride, povidone iodine, colophony (used as an adhesive and as a stimulant in ointments), rubber-related allergens, ester gum resin, and fragrance mix. </li>
+    <li>Patch testing to standard and special series allergens should be performed in cases of prolonged leg ulcer healing. Clinicians should be aware that multiple reactions in the same patient are common. Of note, sensitivity to lanolin products is decreasing world-wide; however, there are reports of increasing sensitivity to new products containing certain hydrogels that form the basis of sustained-release topical drug delivery systems. </li>
+    <li>Leg wounds treated with topical antibiotics may develop resistant organisms or sensitivities over time. </li>
+    <li>In patients with mixed arterial/venous disease where compression is used, close supervision, monitoring, and strict attention to correct bandaging is required by a wound care specialist. Patients should be instructed about the risks associated with compression, such as uncomfortable tightening of the bandage after application, tingling, numbness, color or temperature changes of the toes. They should be encouraged to unwrap and loosen or remove compression and seek immediate emergency care in these situations. </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Staff Training/Competency Material"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Wound, Ostomy, and Continence Nurses Society (WOCN). Guideline for management of wounds in patients with lower-extremity venous disease. Mount Laurel (NJ): Wound, Ostomy, and Continence Nurses Society (WOCN); 2011 Jun 1. 58 p.&amp;nbsp;(WOCN clinical practice guideline series; no. 4).&amp;nbsp; [168 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2005 (revised 2011 Jun 1)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="Wound, Ostomy and Continence Nurses Society - Professional Association"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Wound, Ostomy, and Continence Nurses Society</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Wound, Ostomy, and Continence Nurses Society (WOCN) Lower-Extremity Venous Disease Panel Wound Guidelines Task Force</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Primary Authors</em>: Teresa Kelechi, PhD, MSN, RN, GCCS-BC, CWCN, Medical University of South Carolina, College of Nursing, Charleston, SC; Jan J. Johnson, MSN, RN, ANP-BC, CWOCN, Duke University Medical Center, Durham, NC</p>
+<p><em>Wound Guidelines Task Force</em>: Margaret Goldberg, MSN, RN, CWOCN (<em>Chair</em>), Delray Wound Treatment Center, Delray Beach, FL; Phyllis A. Bonham, PhD, MSN, RN, CWOCN, DNAP, FAAN, Medical University of South Carolina, College of Nursing, Charleston, SC; Penny Ellen Crawford, MSN, RN, FNP-BC, CWOCN, Atlantic Shores Wellness Clinic, Virginia Beach, VA; Myra Fields-Varnado, BS, RN, CDE, CWOCN, LSU Health System, New Orleans, LA; Bonny Flemister, MSN, RN, CWOCN, CS, Bethany Healthcare, Dallas, TX; Catherine R. Ratliff, PhD, APRN-BC, CWOCN, CFCN, University of Virginia Health System, Charlottesville, VA; Nancy Tomaselli, MSN, RN, CRNP, CWOCN, LNC, President &amp;amp; CEO, Premier Health Solutions LLC, Cherry Hill, NJ</p>
+<p><em>Scribe</em>: Ronald Palmer, Fullerton, CA</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Individuals involved in developing clinical practice guidelines are charged by the Wound, Ostomy, and Continence Nurses Society (WOCN) to develop guidelines that are objective, comprehensive, and practical. To ensure the integrity of the WOCN Society and the Clinical Practice Guideline Program, prior to participating in any guideline activity, participants submit a Disclosure Form to the WOCN Society regarding any financial relationships with commercial companies that could create a conflict when the company's products or services are related to the subject of the guideline. Members of the guideline panel submitted a Disclosure Form, which was reviewed by the WOCN Society's executive director, who determined that no conflict of interest exists with any individual panel member.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Wound, Ostomy, and Continence Nurses Society (WOCN). Guideline for management of wounds in patients with lower-extremity venous disease. Glenview (IL): Wound, Ostomy, and Continence Nurses Society (WOCN); 2005. 42 p. (WOCN clinical practice guideline; no. 4).</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Not available at this time.</p>
+<p>Print copies: Available for purchase for a nominal fee from the Wound Ostomy and Continence Nurses Society (WOCN), 1120 Route 73, Suite 200, Mt. Laurel, NJ, 08054; Web site: <a href=&quot;http://www.wocn.org/&quot; title=&quot;WOCN Web site&quot;>www.wocn.org</a>. Orders can be placed through the <a href=&quot;https://marketplace.mimeo.com/WOCNPublicBookstore#name=13&quot; title=&quot;WOCN Society’s Online Bookstore Web site&quot;>WOCN Society's Online Bookstore</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Lower extremity venous and neuropathic wound guidelines. Continuing education course. Available for purchase from the <a href=&quot;http://www.prolibraries.com/wocn/?select=session&amp;amp;sessionID=577&quot; title=&quot;Wound, Ostomy, and Continence Nurses  Society (WOCN) Continuing Education Center Web site&quot;>Wound, Ostomy, and Continence Nurses Society (WOCN) Continuing Education Center Web site</a>. </li>
+    <li>The WOCN Society's Evidence-Based Wound Care Guidelines and Fecal Ostomy Best Practice Mobile App is available for purchase via <a href=&quot;https://itunes.apple.com/us/app/evidence-based-wound-care/id850053409&quot; title=&quot;iTunes Web site&quot;>iTunes</a> or <a href=&quot;https://play.google.com/store/apps/details?id=com.wocn.societyguidelines&amp;amp;hl=en&quot; title=&quot;Google Play Web site&quot;>Google Play</a>. More information on the Mobile App is available on the <a href=&quot;http://www.wocn.org/?page=guidelinesapp&quot; title=&quot;WOCN Society’s Mobile App Web site&quot;>WOCN Society's Mobile App Web page</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI on August 25, 2005. The information was updated by the guideline developer on September 26, 2005. This summary was updated by ECRI Institute on February 26, 2008 following the U.S. Food and Drug Administration advisory/voluntary market withdrawal of the liquid formulation of Leukine (sargramostim). This summary was updated by ECRI Institute on September 17, 2012. The updated information was verified by the guideline developer on October 5, 2012. This summary was updated by ECRI Institute on March 6, 2014 following the U.S. Food and Drug Administration advisory on Over-the-Counter Topical Antiseptic Products.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions. Per the guideline developer, the Wound, Ostomy and Continence Nurses Society (WOCN) retains the copyright to the material in the <em>Guideline for Management of Wounds in Patients with Lower-Extremity Venous Disease</em>. Any reproduction without consent is prohibited. Written requests to reproduce any portion of the material contained within this guideline may be directed to the Wound, Ostomy and Continence Nurses Society national office: 1120 Route 73, Suite 200, Mt. Laurel, NJ 08054.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 22:49:30 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:18:19 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 66.957 (3)
+  esindex: 0.01
+  captures_list: 86.839
+  CDXLines.iter: 14.775 (3)
+  PetaboxLoader3.datanode: 50.312 (4)
+  exclusion.robots: 0.427
+  exclusion.robots.policy: 0.409
+  RedisCDXSource: 1.671
+  PetaboxLoader3.resolve: 395.354
+  load_resource: 721.623
+-->

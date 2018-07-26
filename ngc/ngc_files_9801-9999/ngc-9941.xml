@@ -1,0 +1,480 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app40.us.archive.org';v.server_ms=315;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include --><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/timestamp.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/graph-calc.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/auto-complete.js?v=1531166943.0" charset="utf-8"></script>
+<script type="text/javascript" src="/static/js/toolbar.js?v=1531166943.0" charset="utf-8"></script>
+
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+.wb-autocomplete-suggestions {
+    text-align: left; cursor: default; border: 1px solid #ccc; border-top: 0; background: #fff; box-shadow: -1px 1px 3px rgba(0,0,0,.1);
+    position: absolute; display: none; z-index: 2147483647; max-height: 254px; overflow: hidden; overflow-y: auto; box-sizing: border-box;
+}
+.wb-autocomplete-suggestion { position: relative; padding: 0 .6em; line-height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 1.02em; color: #333; }
+.wb-autocomplete-suggestion b { font-weight: bold; }
+.wb-autocomplete-suggestion.selected { background: #f0f0f0; }
+</style>
+<div id="wm-ipp" lang="en" style="display:none;direction:ltr;">
+<div style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:130px;padding-top:10px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a href="#"
+             onclick="__wm.saveSnapshot('https://www.guideline.gov/summaries/downloadcontent/ngc-9941?contentType=xml', '20160930192236')"
+             title="Share via My Web Archive"
+             id="wm-save-snapshot-open"
+          >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" style="text-align:right;">
+	<a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://web.archive.org/web/20160930192236/https://www.guideline.gov/summaries/downloadcontent/ngc-9941?contentType=xml', '', 'height=400,width=600'); return false;" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a href="#" onclick="window.open('https://twitter.com/intent/tweet?text=https://web.archive.org/web/20160930192236/https://www.guideline.gov/summaries/downloadcontent/ngc-9941?contentType=xml&amp;via=internetarchive', '', 'height=400,width=600'); return false;" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.guideline.gov/summaries/downloadcontent/ngc-9941?contentType=xml" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20160930192236" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Aug</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 19:22:36 Sep 30, 2016">SEP</td>
+		  <td class="f" nowrap="nowrap">Oct</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 19:22:36 Sep 30, 2016">30</td>
+		  <td class="f" nowrap="nowrap"><img src="/static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">2015</td>
+		  <td class="c" id="displayYearEl" title="You are here: 19:22:36 Sep 30, 2016">2016</td>
+		  <td class="f" nowrap="nowrap">2017</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20160930192236*/https://www.guideline.gov/summaries/downloadcontent/ngc-9941?contentType=xml" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">30 Sep 2016</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="575" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+            <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Partner-593);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Partner-593" target="_new"><span class="wm-title">Government Printing Office</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Archive-It Partner 593: Government Printing Office
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/ArchiveIt-Collection-5265)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/ArchiveIt-Collection-5265" target="_new"><span class="wm-title">National Guideline Clearinghouse</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  NGC is an initiative of the Agency for Healthcare Research and Quality (AHRQ) External Web Site Policy, U.S. Department of Health and Human Services. NGC was originally created by AHRQ in partnership with the American Medical Association and the American Association of Health Plans (now America's Health Insurance Plans [AHIP]).
+
+The NGC mission is to provide physicians and other health professionals, health care providers, health plans, integrated delivery systems, purchasers, and others an accessible mechanism for obtaining objective, detailed information on clinical practice guidelines and to further their dissemination, implementation, and use.
+	</div>
+	      </div>
+    </div>
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/static/images/loading.gif" alt="loading" /></div>
+    </div>
+  </div></div></div></div><script type="text/javascript">
+__wm.bt(575,27,25,2,"web","https://www.guideline.gov/summaries/downloadcontent/ngc-9941?contentType=xml","2016-09-30",1996);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT --><version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Guideline Clearinghouse (NGC).</xmlsource>
+  <section secid="390" ordby="100" name="General">
+    <field fieldid="161" ordby="105" id="391" name="Guideline Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>2012 update of the Canadian Cardiovascular Society guidelines for the diagnosis and treatment of dyslipidemia for the prevention of cardiovascular disease in the adult.</div>"/>
+    </field>
+    <field fieldid="97" ordby="110" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Anderson TJ, Gregoire J, Hegele RA, Couture P, Mancini GB, McPherson R, Francis GA, Poirier P, Lau DC, Grover S, Genest J Jr, Carpentier AC, Dufour R, Gupta M, Ward R, Leiter LA, Lonn E, Ng DS, Pearson GJ, Yates GM, Stone JA, Ur E. 2012 update of the Canadian Cardiovascular Society guidelines for the diagnosis and treatment of dyslipidemia for the prevention of cardiovascular disease in the adult. Can J Cardiol. 2013 Feb;29(2):151-67. [118 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23351925&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="120" ordby="115" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Genest J, McPherson R, Frohlich J, et al. 2009 Canadian Cardiovascular Society/Canadian guidelines for the diagnosis and treatment of dyslipidemia and prevention of cardiovascular disease in the adult - 2009 recommendations. Can J Cardiol 2009;25:567-79.</p></div>"/>
+    </field>
+  </section>
+  <section secid="420" ordby="300" name="Recommendations">
+    <field fieldid="151" ordby="310" id="421" name="Major Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The grading of evidence (<strong>High, Moderate, Low, and Very Low</strong>) and strength of recommendations (<strong>Strong or Weak</strong>) are defined at the end of the &quot;Major Recommendations&quot; field.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Whom to Screen for Lipids</strong></span></p>
+<p>Screening of plasma lipids is recommended in adult men &amp;ge;40 and women &amp;ge;50 years of age or postmenopausal. See Figure 1 in the original guideline document&amp;nbsp;for additional information. The presence of modifiable cardiovascular disease (CVD) risk factors (smoking, diabetes, arterial hypertension, obesity) is taken into account in the decision to screen for lipids at any age.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Risk Assessment</strong></span></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>The expert panel recommends that a cardiovascular risk assessment, using the &quot;10-Year Risk&quot; provided by the Framingham model be completed every 3-5 years for men age 40-75, and women age 50-75 years. This should be modified (percent risk doubled) when family history of premature CVD is positive (i.e., first-degree relative &amp;lt;55 years for men and &amp;lt;65 years of age for women). A risk assessment might also be completed whenever a patient's expected risk status changes. Younger individuals with at least 1 risk factor for premature CVD might also benefit from a risk assessment to motivate them to improve their lifestyle (<strong>Strong Recommendation, Moderate-Quality Evidence</strong>). </li>
+    <li>The expert panel recommends calculating and discussing a patient's &quot;Cardiovascular Age&quot; to improve the likelihood that patients will reach lipid targets and that poorly controlled hypertension will be treated (<strong>Strong Recommendation, High-Quality Evidence</strong>). </li>
+</ol>
+<p><em>Values and Preferences</em></p>
+<p>The primary evaluation of risk is the modified 10-year Framingham Risk Score (FRS). Considering the overlap in risk factors for diabetes, a simultaneous evaluation of cardiometabolic risk for diabetes might be useful to motivate lifestyle changes. It is well known that a 10-year risk does not fully account for risk in younger individuals. In these individuals, the calculation of a Cardiovascular Age has been shown to motivate subjects to achieve risk factor targets.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Levels of Risk</span></strong></p>
+<p><strong>Low Risk (LR)</strong></p>
+<p>See Figure 2 in the original guideline document.</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>The expert panel recommends pharmacotherapy in LR individuals with low-density-lipoprotein cholesterol (LDL-C) &amp;ge;5.0 mmol/L, or if there is evidence of genetic dyslipidemia (such as familial hypercholesterolemia) (<strong>Strong Recommendation, Moderate-Quality Evidence</strong>). </li>
+    <li>The expert panel recommends &amp;ge;50% reduction of LDL-C in LR individuals for whom treatment is initiated (<strong>Strong Recommendation, Moderate-Quality Evidence</strong>). </li>
+</ol>
+<p><em>Values and Preferences</em></p>
+<p>This recommendation is unchanged from previous guidelines. Considering relatively less trial evidence in this group of subjects, individual practice will vary and will be dependent on the wishes of the patient and evaluation of the treating clinician. Subjects with a risk in the higher end of this category can have the risks/benefits of statin therapy discussed and might be offered statin therapy based on patient wishes and/or the judicious use of secondary testing.</p>
+<p><strong>Intermediate Risk (IR)</strong></p>
+<p>See Figure 3 in the original guideline document.</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>The expert panel recommends that the IR category include individuals with adjusted FRS &amp;ge;10% and &amp;lt;20% (<strong>Strong Recommendation, Moderate-Quality Evidence</strong>). </li>
+    <li>The expert panel recommends treating IR individuals with LDL-C &amp;ge;3.5 mmol/L (<strong>Strong Recommendation, Moderate-Quality Evidence</strong>). </li>
+    <li>In IR individuals with LDL-C &amp;lt;3.5 mmol/L, apolipoprotein B (apo B) &amp;ge;1.2 g/L, or non-high-density-lipoprotein cholesterol (non-HDL-C) &amp;ge;4.3 mmol/L is suggested to identify patients who might benefit from pharmacotherapy (<strong>Strong Recommendation, Moderate-Quality Evidence</strong>). </li>
+    <li>The expert panel recommends a target LDL-C &amp;le;2.0 mmol/L or &amp;ge;50% reduction of LDL-C for IR individuals in whom treatment is initiated (<strong>Strong Recommendation, Moderate-Quality Evidence</strong>). Alternative target variables are apo B &amp;le;0.8 g/L or non-HDL-C &amp;le;2.6 mmol/L (<strong>Strong Recommendation, Moderate-Quality Evidence</strong>). </li>
+</ol>
+<p><em>Values and Preferences</em></p>
+<p>Non-HDL-C has been added as a second alternate treatment target because apo B is not available in some jurisdictions. Non-HDL-C is available without any additional cost or testing and there are increasing data to demonstrate its potential value. Therefore, it was decided to increase its profile in the guidelines. It is particularly useful where apo B is not available and in patients whose triglyceride level is greater than 1.5 mmol/L.</p>
+<p><strong>High Risk (HR)</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>The expert panel recommends that high risk be defined in subjects who have clinical atherosclerosis, abdominal aortic aneurysm, or an adjusted FRS of &amp;ge;20% (<strong>Strong Recommendation, High-Quality Evidence</strong>). The expert panel has also included diabetes of &amp;gt;15 years duration and age older than 30 years, diabetes with age older than 40 years, or the presence of microvascular disease, high risk kidney disease, or high risk hypertension (<strong>Strong Recommendation, Moderate-Quality Evidence</strong>). </li>
+    <li>The expert panel recommends a target LDL-C &amp;le;2.0 mmol/L or &amp;ge;50% reduction of LDL-C for IR individuals in whom treatment is initiated (<strong>Strong Recommendation, Moderate-Quality Evidence</strong>). </li>
+    <li>The expert panel recommends that apo B &amp;le;0.80 g/L or non-HDL-C &amp;le;2.6 mmol/L be considered as alternative treatment targets for optimal risk reduction (<strong>Strong Recommendation, High-Quality Evidence</strong>). </li>
+</ol>
+<p><em>Values and Preferences</em></p>
+<p>The expert panel's decision to add chronic kidney disease (CKD) to the high risk category was based on significant emerging epidemiology data and the recently published Study of Heart and Renal Protection (SHARP) data. The treatment of dyslipidemia in subjects on hemodialysis remains controversial and individual judgement is required.</p>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Secondary Testing in Risk Stratification</strong></span></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>The expert panel recommends that secondary testing be considered for further risk assessment in &quot;IR&quot; patients (10%-19% FRS after adjustment for family history) who are not candidates for lipid treatment based on conventional risk factors or for whom treatment decisions are uncertain (<strong>Strong Recommendation, Moderate-Quality Evidence</strong>). </li>
+    <li>The expert panel suggests that secondary testing be considered for a selected subset of &quot;LR to IR&quot; patients (5%-9% FRS after adjustment for family history) for whom further risk assessment is indicated (e.g., strong family history of premature coronary artery disease [CAD], abdominal obesity, South Asian ancestry, or impaired glucose tolerance) (<strong>Weak/Conditional Recommendation, Low-Quality Evidence</strong>). </li>
+</ol>
+<p><em>Values and Preferences</em></p>
+<p>It is important to note that use of these tests should be viewed as optional and only to be used where decision-making will be directly affected (i.e., not in those in the high risk or lower risk groups [&amp;lt;5%]). The choice of which test to use depends on the clinical situation (see Supplemental Tables S4 and S5 [see the &quot;Availability of Companion Documents&quot; field]) and local expertise. In appropriate situations, hemoglobin A1c, urine albumin-to-creatinine ratio (ACR), and high-sensitivity C-reactive protein (hsCRP) can be helpful, are safe and inexpensive, and should be considered. For noninvasive testing a clinical suspicion of peripheral vascular disease should prompt arterial brachial index (ABI) testing. Individuals who have been inactive and wish to exercise could have an exercise stress test. Finally, recent evidence would suggest that coronary artery calcium (CAC) testing with computed tomography is superior to carotid ultrasound. However, given its expense and radiation exposure until further data are available it cannot be widely advocated.</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Health Behaviours</span></strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>The expert panel suggests that all individuals be encouraged to adopt healthy eating habits to lower their CVD risk: (1) moderate energy (caloric) intake to achieve and maintain a healthy body weight; (2) emphasize a diet rich in vegetables, fruit, whole-grain cereals, and polyunsaturated and monounsaturated oils, including &amp;Omega;-3 fatty acids particularly from fish; (3) avoid trans fats, limit saturated and total fats to &amp;lt;7% and &amp;lt;30% of daily total energy (caloric) intake, respectively; (4) increase daily fibre intake to &amp;gt;30 g; (5) limit cholesterol intake to 200 mg daily for individuals with dyslipidemia or at increased CVD risk (<strong>Conditional Recommendation, Moderate-Quality Evidence</strong>). </li>
+    <li>The expert panel recommends the Mediterranean, Portfolio, or Dietary Approach to Stop Hypertension (DASH) diets to improve lipid profiles or decrease CVD risk (<strong>Strong Recommendation, High-quality Evidence</strong>), and for cholesterol-lowering consider increasing phytosterols, soluble fiber, soy, and nut intake. </li>
+    <li>The expert panel recommends that adults should accumulate at least 150 minutes of moderate-to-vigorous intensity aerobic physical activity per week, in bouts of 10 minutes or more to reduce CVD risk (<strong>Strong Recommendation, High-Quality Evidence</strong>). </li>
+    <li>The expert panel recommends smoking cessation (<strong>Strong Recommendation, Moderate-Quality Evidence)</strong>, and limiting alcohol intake to 30 g or less per day (1-2 drinks) (<strong>Conditional Recommendation, Moderate-Quality Evidence</strong>). </li>
+</ol>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Statin Intolerance and Adverse Effects</strong></span></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Because overall risk/benefit favours therapy in patients meeting criteria for lipid lowering therapy and cardiovascular risk reduction, the expert panel recommends that: (1) despite concerns about a variety of other possible adverse effects, all purported statin-associated symptoms should be evaluated systematically, incorporating observation during cessation, reinitiation (same or different statin, same or lower potency, same or decreased frequency of dosing) to identify a tolerated, statin-based therapy for chronic use (<strong>Strong Recommendation, Very Low-Quality Evidence</strong>); and (2) statins not be withheld on the basis of a potential, small risk of new-onset diabetes mellitus emerging during long-term therapy (<strong>Strong Recommendation, Very Low-Quality Evidence</strong>). </li>
+    <li>The expert panel does not recommend vitamins, minerals, or supplements for symptoms of myalgia perceived to be statin-associated (<strong>Strong Recommendation, Very Low-Quality Evidence</strong>). </li>
+</ol>
+<p><span style=&quot;text-decoration: underline;&quot;><strong>Definitions</strong></span>:</p>
+<p><strong>Quality of Evidence*</strong></p>
+<p><strong>High Quality</strong>: Further research is very unlikely to change confidence in the estimate of effect.</p>
+<p><strong>Moderate Quality</strong>: Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</p>
+<p><strong>Low Quality</strong>: Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</p>
+<p><strong>Very Low Quality</strong>: Any estimate of effect is very uncertain.</p>
+<p><strong>Strength of Recommendations*</strong></p>
+<p><strong>Strong Recommendation</strong>: Based on the available evidence, if clinicians are very certain that benefits do, or do not, outweigh risks and burdens they will make a strong recommendation.</p>
+<p><strong>Weak Recommendation</strong>: Based on the available evidence, if clinicians believe that benefits and risks and burdens are finely balanced, or appreciable uncertainty exists about the magnitude of benefits and risks, they must offer a weak recommendation. In addition, clinicians are becoming increasingly aware of the importance of patient values and preferences in clinical decision making. When, across the range of patient values, fully informed patients are liable to make different choices, guideline panels should offer weak recommendations.</p>
+<p class=&quot;Note&quot;>*The Grading of Recommendations Assessment, Development and Evaluation (GRADE) system was used for grading quality of evidence and strength of recommendations.</p></div>"/>
+    </field>
+    <field fieldid="138" ordby="330" id="423" name="Clinical Algorithm(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following algorithms are provided in the original guideline document:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Approach on who and how to screen for dyslipidemia </li>
+    <li>Risk stratification by Framingham Risk Score (FRS) and phenotype </li>
+    <li>Risk stratification for intermediate risk subjects </li>
+</ul></div>"/>
+    </field>
+  </section>
+  <section secid="396" ordby="400" name="Scope">
+    <field fieldid="140" ordby="405" id="397" name="Disease/Condition(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Dyslipidemia </li>
+    <li>Cardiovascular disease </li>
+</ul>"/>
+    </field>
+    <field fieldid="103" ordby="410" id="398" name="Guideline Category" type="picklist-many">
+      <fieldvalue value="Diagnosis"/>
+      <fieldvalue value="Prevention"/>
+      <fieldvalue value="Screening"/>
+      <fieldvalue value="Treatment"/>
+    </field>
+    <field fieldid="113" ordby="415" id="399" name="Clinical Specialty" type="picklist-many">
+      <fieldvalue value="Cardiology"/>
+      <fieldvalue value="Endocrinology"/>
+      <fieldvalue value="Family Practice"/>
+      <fieldvalue value="Geriatrics"/>
+      <fieldvalue value="Internal Medicine"/>
+      <fieldvalue value="Preventive Medicine"/>
+    </field>
+    <field fieldid="114" ordby="420" id="400" name="Intended Users" type="picklist-many">
+      <fieldvalue value="Advanced Practice Nurses"/>
+      <fieldvalue value="Allied Health Personnel"/>
+      <fieldvalue value="Nurses"/>
+      <fieldvalue value="Physician Assistants"/>
+      <fieldvalue value="Physicians"/>
+    </field>
+    <field fieldid="129" ordby="425" id="401" name="Guideline Objective(s)" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To present an updated version of the guidelines, incorporating new recommendations based on recent findings and harmonizing Canadian Cardiovascular Society (CCS) guidelines with those from other societies </li>
+    <li>To increase the appropriate use of evidence-based cardiovascular disease event risk assessment in the management of dyslipidemia as a fundamental means of reducing global risk in the Canadian population </li>
+</ul>"/>
+    </field>
+    <field fieldid="132" ordby="430" id="402" name="Target Population" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Adult patients in the Canadian population at risk of dyslipidemia and cardiovascular disease</p></div>"/>
+    </field>
+    <field fieldid="133" ordby="435" id="403" name="Interventions and Practices Considered" type="text">
+      <fieldvalue value="<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Screening of plasma lipids based on patient age and identifiable cardiovascular risk factors </li>
+    <li>Cardiovascular risk assessment using the &quot;10-Year Risk&quot; provided by the Framingham model </li>
+    <li>Calculating and discussing the patient's &quot;Cardiovascular Age&quot; </li>
+    <li>Establishing risk levels (low, intermediate, high) </li>
+    <li>Frequency of lipid monitoring </li>
+    <li>Establishing targets for low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (apo B), or non-high-density-lipoprotein cholesterol (non-HDL-C) based on risk level </li>
+    <li>Statin therapy </li>
+    <li>Secondary testing in risk stratification (e.g., lipoprotein [a], high-sensitivity C-reactive protein [hsCRP], hemoglobin A1c, urine albumin-to-creatinine ratio [ACR], exercise stress test, carotid ultrasound, arterial brachial index [ABI] testing, coronary artery calcium [CAC] testing with computed tomography) </li>
+    <li>Health behavior modification (e.g., healthy eating habits; Mediterranean, Portfolio, or Dietary Approach to Stop Hypertension [DASH] diets; physical exercise; smoking cessation; limiting alcohol intake) </li>
+    <li>Systematic evaluation of statin-associated symptoms to identify a tolerated, statin-based therapy for chronic use </li>
+    <li>Not withholding statins on the basis of a potential, small risk of new-onset diabetes mellitus </li>
+    <li>Vitamins, minerals, or supplements for symptoms of myalgia perceived to be statin-associated (not recommended) </li>
+</ol>"/>
+    </field>
+    <field fieldid="134" ordby="440" id="404" name="Major Outcomes Considered" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Risk of cardiovascular disease </li>
+    <li>Adverse effects and intolerance associated with statin therapy </li>
+    <li>Major cardiovascular adverse events, including mortality</li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="405" ordby="500" name="Methodology">
+    <field fieldid="109" ordby="505" id="406" name="Methods Used to Collect/Select the Evidence" type="picklist-many">
+      <fieldvalue value="Searches of Electronic Databases"/>
+    </field>
+    <field fieldid="135" ordby="510" id="407" name="Description of Methods Used to Collect/Select the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Literature searches were completed between January 2012 and March 2012. The databases searched were: MEDLINE, MEDLINE &amp;ndash; In Process, Ovid SP, PubMed, EMBASE, and Ovid Online.</p>
+<p>Panel members were split into six working groups and separate searches were completed for each working group on the following topics using appropriate search terms:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Health Behaviours </li>
+    <li>Primary Prevention </li>
+    <li>Risk Engine </li>
+    <li>Secondary Prevention </li>
+    <li>Secondary Testing </li>
+    <li>Statin Intolerance </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="136" ordby="515" id="408" name="Number of Source Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not stated</p></div>"/>
+    </field>
+    <field fieldid="115" ordby="520" id="409" name="Methods Used to Assess the Quality and Strength of the Evidence" type="picklist-choice">
+      <fieldvalue value="Weighting According to a Rating Scheme (Scheme Given)"/>
+    </field>
+    <field fieldid="149" ordby="525" id="410" name="Rating Scheme for the Strength of the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Quality of Evidence*</strong></p>
+<p><strong>High Quality</strong>: Further research is very unlikely to change confidence in the estimate of effect.</p>
+<p><strong>Moderate Quality</strong>: Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</p>
+<p><strong>Low Quality</strong>: Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</p>
+<p><strong>Very Low Quality</strong>: Any estimate of effect is very uncertain.</p>
+<p class=&quot;Note&quot;>*The Grading of Recommendations Assessment, Development and Evaluation (GRADE) system was used for grading quality of evidence and strength of recommendations.</p></div>"/>
+    </field>
+    <field fieldid="116" ordby="530" id="411" name="Methods Used to Analyze the Evidence" type="picklist-many">
+      <fieldvalue value="Review of Published Meta-Analyses"/>
+      <fieldvalue value="Systematic Review"/>
+    </field>
+    <field fieldid="150" ordby="535" id="412" name="Description of the Methods Used to Analyze the Evidence" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>In addition, the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system was used as is now the standard established by the Canadian Cardiovascular Society.</p></div>"/>
+    </field>
+    <field fieldid="112" ordby="540" id="413" name="Methods Used to Formulate the Recommendations" type="picklist-choice">
+      <fieldvalue value="Expert Consensus"/>
+    </field>
+    <field fieldid="145" ordby="545" id="414" name="Description of Methods Used to Formulate the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The 2009 Canadian Cardiovascular Society (CCS) Dyslipidemia guidelines have been updated in the current document to reflect new advances. In addition, the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system was used as is now the standard established by the Canadian Cardiovascular Society.</p></div>"/>
+    </field>
+    <field fieldid="146" ordby="550" id="415" name="Rating Scheme for the Strength of the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Strength of Recommendations*</strong></p>
+<p><strong>Strong Recommendation</strong>: Based on the available evidence, if clinicians are very certain that benefits do, or do not, outweigh risks and burdens they will make a strong recommendation.</p>
+<p><strong>Weak Recommendation</strong>: Based on the available evidence, if clinicians believe that benefits and risks and burdens are finely balanced, or appreciable uncertainty exists about the magnitude of benefits and risks, they must offer a weak recommendation. In addition, clinicians are becoming increasingly aware of the importance of patient values and preferences in clinical decision making. When, across the range of patient values, fully informed patients are liable to make different choices, guideline panels should offer weak recommendations.</p>
+<p class=&quot;Note&quot;>*The Grading of Recommendations Assessment, Development and Evaluation (GRADE) system was used for grading quality of evidence and strength of recommendations.</p></div>"/>
+    </field>
+    <field fieldid="148" ordby="565" id="417" name="Cost Analysis" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The guideline developers reviewed a published cost analysis.</p></div>"/>
+    </field>
+    <field fieldid="104" ordby="570" id="418" name="Method of Guideline Validation" type="picklist-choice">
+      <fieldvalue value="External Peer Review"/>
+    </field>
+    <field fieldid="130" ordby="575" id="419" name="Description of Method of Guideline Validation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Guidelines set forth by the primary panel were reviewed by a secondary panel of practitioners representing affiliated societies with a substantial interest in dyslipidemia treatment and cardiovascular risk reduction. Harmonization with recommendations from their representative societies and the Canadian Cardiovascular Harmonization of National Guidelines Endeavour (C-CHANGE) was encouraged and supported.</p></div>"/>
+    </field>
+  </section>
+  <section secid="424" ordby="600" name="Evidence Supporting the Recommendations">
+    <field fieldid="139" ordby="610" id="426" name="Type of Evidence Supporting the Recommendations" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The type of supporting evidence is identified and graded for each recommendation (see the &quot;Major Recommendations&quot; field).</p></div>"/>
+    </field>
+  </section>
+  <section secid="427" ordby="700" name="Benefits/Harms of Implementing the Guideline Recommendations">
+    <field fieldid="152" ordby="705" id="428" name="Potential Benefits" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Appropriate management of dyslipidemia for the prevention of cardiovascular disease in the adult patient</p></div>"/>
+    </field>
+    <field fieldid="153" ordby="710" id="429" name="Potential Harms" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Statin Intolerance and Adverse Effects</strong></p>
+<p>The main intolerance issues with statins pertain to adverse muscle effects, but there are many other purported effects that are either uncommon or difficult to relate conclusively to statin therapy. Baseline transaminases (alanine aminotransferase [ALT]), creatinine, and creatine kinase are useful to monitor potential side effects associated with therapy. There is however no indication for routine repeat measures of ALT and creatine kinase in patients using statin therapy unless symptoms develop. Statins are not contraindicated in patients with mild to moderate elevations in ALT because of hepatic steatosis, chronic hepatitis C, or primary biliary cirrhosis. The following updates a recent, comprehensive review of these issues.</p>
+<p>See the &quot;Adverse Effects&quot; section of the original guideline document for information about drug interactions, neurologic effects, and diabetes.</p></div>"/>
+    </field>
+  </section>
+  <section secid="432" ordby="900" name="Qualifying Statements">
+    <field fieldid="137" ordby="905" id="433" name="Qualifying Statements" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This statement was developed following a thorough consideration of medical literature and the best available evidence and clinical experience. It represents the consensus of a Canadian panel comprised of multidisciplinary experts on this topic with a mandate to formulate disease-specific recommendations. These recommendations are aimed to provide a reasonable and practical approach to care for specialists and allied health professionals obliged with the duty of bestowing optimal care to patients and families, and can be subject to change as scientific knowledge and technology advance and as practice patterns evolve. The statement is not intended to be a substitute for physicians using their individual judgement in managing clinical care in consultation with the patient, with appropriate regard to all the individual circumstances of the patient, diagnostic and treatment options available and available resources. Adherence to these recommendations will not necessarily produce successful outcomes in every case.</p></div>"/>
+    </field>
+  </section>
+  <section secid="434" ordby="1000" name="Implementation of the Guideline">
+    <field fieldid="131" ordby="1010" id="436" name="Description of Implementation Strategy" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>An implementation strategy was not provided.</p></div>"/>
+    </field>
+    <field fieldid="117" ordby="1015" id="437" name="Implementation Tools" type="picklist-many">
+      <fieldvalue value="Chart Documentation/Checklists/Forms"/>
+      <fieldvalue value="Clinical Algorithm"/>
+      <fieldvalue value="Foreign Language Translations"/>
+      <fieldvalue value="Mobile Device Resources"/>
+      <fieldvalue value="Pocket Guide/Reference Cards"/>
+      <fieldvalue value="Quick Reference Guides/Physician Guides"/>
+      <fieldvalue value="Slide Presentation"/>
+      <fieldvalue value="Staff Training/Competency Material"/>
+    </field>
+  </section>
+  <section secid="439" ordby="1100" name="Institute of Medicine (IOM) National Healthcare Quality Report Categories">
+    <field fieldid="50" ordby="1105" id="440" name="IOM Care Need" type="picklist-many">
+      <fieldvalue value="Living with Illness"/>
+      <fieldvalue value="Staying Healthy"/>
+    </field>
+    <field fieldid="51" ordby="1110" id="441" name="IOM Domain" type="picklist-many">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="442" ordby="1200" name="Identifying Information and Availability">
+    <field fieldid="97" ordby="1201" id="392" name="Bibliographic Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Anderson TJ, Gregoire J, Hegele RA, Couture P, Mancini GB, McPherson R, Francis GA, Poirier P, Lau DC, Grover S, Genest J Jr, Carpentier AC, Dufour R, Gupta M, Ward R, Leiter LA, Lonn E, Ng DS, Pearson GJ, Yates GM, Stone JA, Ur E. 2012 update of the Canadian Cardiovascular Society guidelines for the diagnosis and treatment of dyslipidemia for the prevention of cardiovascular disease in the adult. Can J Cardiol. 2013 Feb;29(2):151-67. [118 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23351925&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="124" ordby="1205" id="443" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Not applicable: The guideline was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="128" ordby="1215" id="445" name="Date Released" type="text">
+      <fieldvalue value="2009 (revised 2013 Feb)"/>
+    </field>
+    <field fieldid="158" ordby="1225" id="447" name="Guideline Developer(s)" type="orglist-p">
+      <fieldvalue value="Canadian Cardiovascular Society - Professional Association"/>
+    </field>
+    <field fieldid="125" ordby="1235" id="449" name="Source(s) of Funding" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The review was conducted under the direction of the Canadian Cardiovascular Society (CCS) completely at arm's length from industry.</p></div>"/>
+    </field>
+    <field fieldid="126" ordby="1240" id="450" name="Guideline Committee" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Guidelines Expert Panel</p></div>"/>
+    </field>
+    <field fieldid="127" ordby="1245" id="451" name="Composition of Group That Authored the Guideline" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Expert Panel Members</em>: Todd J. Anderson, MD, Libin Cardiovascular Institute of Alberta, University of Calgary, Calgary, Alberta, Canada; Jean Gr&amp;eacute;goire, MD, Institut de Cardiologie de Montr&amp;eacute;al, Universit&amp;eacute; de Montr&amp;eacute;al, Montr&amp;eacute;al, Qu&amp;eacute;bec, Canada; Robert A. Hegele, MD, Robarts Research Institute, London, Ontario, Canada; Patrick Couture, MD, PhD, Centre Hospitalier Universitaire de Qu&amp;eacute;bec, Qu&amp;eacute;bec City, Qu&amp;eacute;bec, Canada; G.B. John Mancini, MD, University of British Columbia, Vancouver, British Columbia, Canada; Ruth McPherson, MD, PhD, University of Ottawa Heart Institute, Ottawa, Ontario, Canada; Gordon A. Francis, MD, St Paul's Hospital, University of British Columbia, Vancouver, British Columbia, Canada; Paul Poirier, MD, PhD, Institut Universitaire de cardiologie et de Pneumologie de Qu&amp;eacute;bec, Facult&amp;eacute; de Pharmacie, Universit&amp;eacute; Laval, Qu&amp;eacute;bec City, Qu&amp;eacute;bec, Canada; David C. Lau, MD, PhD, Libin Cardiovascular Institute of Alberta, University of Calgary, Calgary, Alberta, Canada; Steven Grover, MD, McGill University Health Center, Montr&amp;eacute;al, Quebec, Canada; Jacques Genest, Jr, MD, McGill University Health Center, Montr&amp;eacute;al, Quebec, Canada; Andr&amp;eacute; C. Carpentier, MD, Centre Hospitalier Universitaire de Sherbrooke, Sherbrooke, Qu&amp;eacute;bec, Canada; Robert Dufour, MD, Institut de Recherches Cliniques de Montr&amp;eacute;al, Montr&amp;eacute;al, Qu&amp;eacute;bec, Canada; Milan Gupta, MD, Department of Medicine, McMaster University, Hamilton, Ontario, Canada; Richard Ward, MD, University of Calgary, Calgary, Alberta, Canada; Lawrence A. Leiter, MD, St Michael's Hospital, University of Toronto, Toronto, Ontario, Canada; Eva Lonn, MD, Population Health Research Institute, McMaster University, Hamilton, Ontario, Canada; Dominic S. Ng, MD, PhD, St Michael's Hospital, University of Toronto, Toronto, Ontario, Canada; Glen J. Pearson, PharmD, Mazankowski Alberta Heart Institute, University of Alberta, Edmonton, Alberta, Canada; Gillian M. Yates, MN, NP, QE II Health Sciences Centre, Halifax, Nova Scotia, Canada; James A. Stone, MD, PhD, Libin Cardiovascular Institute of Alberta, University of Calgary, Calgary, Alberta, Canada; Ehud Ur, MB, University of British Columbia, Vancouver, British Columbia, Canada</p></div>"/>
+    </field>
+    <field fieldid="147" ordby="1250" id="452" name="Financial Disclosures/Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The disclosure information of the authors and reviewers is available from the Canadian Cardiovascular Society (CCS) on the following Web sites: <a href=&quot;http://www.ccs.ca&quot; title=&quot;Canadian Cardiovascular Society Web site&quot;>www.ccs.ca</a> and/or <a href=&quot;http://www.ccsguidelineprograms.ca&quot; title=&quot;Canadian Cardiovascular Society Web site&quot;>www.ccsguidelineprograms.ca</a>.</p></div>"/>
+    </field>
+    <field fieldid="120" ordby="1256" id="393" name="Guideline Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Genest J, McPherson R, Frohlich J, et al. 2009 Canadian Cardiovascular Society/Canadian guidelines for the diagnosis and treatment of dyslipidemia and prevention of cardiovascular disease in the adult - 2009 recommendations. Can J Cardiol 2009;25:567-79.</p></div>"/>
+    </field>
+    <field fieldid="118" ordby="1260" id="454" name="Guideline Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Electronic copies: Available from the <a href=&quot;http://www.onlinecjc.ca/article/S0828-282X(12)01510-3/fulltext&quot; title=&quot;Canadian Journal of Cardiology Web site&quot;>Canadian Journal of Cardiology Web site</a>.</p></div>"/>
+    </field>
+    <field fieldid="119" ordby="1265" id="455" name="Availability of Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Supplemental material, including tables and a summary of recommendations, is available from the <a href=&quot;http://www.onlinecjc.ca/article/S0828-282X(12)01510-3/addOns&quot; title=&quot;Canadian Journal of Cardiology Web site&quot;>Canadian Journal of Cardiology Web site</a>. </li>
+    <li>A variety of resources, including a mobile app, slide decks in English and French, pockets guides in English and French, a Framingham Risk Score chart, the CIRCL CardioRisk Calculator&amp;trade;, and accredited E-learning programs are available from the <a href=&quot;http://www.ccsguidelineprograms.ca/index.php?option=com_content&amp;amp;view=article&amp;amp;id=88&amp;amp;Itemid=83&quot; title=&quot;Canadian Cardiovascular Society Web site&quot;>Canadian Cardiovascular Society Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="143" ordby="1275" id="457" name="Patient Resources" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None available</p></div>"/>
+    </field>
+    <field fieldid="142" ordby="1280" id="458" name="NGC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary was completed by ECRI Institute on September 10, 2013. The information was verified by the guideline developer on October 10, 2013.</p></div>"/>
+    </field>
+    <field fieldid="141" ordby="1290" id="460" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NGC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the NGC Inclusion Criteria which may be found at <a href=&quot;/about/inclusion-criteria.aspx&quot;>http://www.guideline.gov/about/inclusion-criteria.aspx</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 19:22:36 Sep 30, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:53:20 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 89.993 (3)
+  esindex: 0.01
+  captures_list: 146.45
+  CDXLines.iter: 20.363 (3)
+  PetaboxLoader3.datanode: 116.794 (4)
+  exclusion.robots: 0.424
+  exclusion.robots.policy: 0.403
+  RedisCDXSource: 18.358
+  PetaboxLoader3.resolve: 104.377
+  load_resource: 146.475
+-->
